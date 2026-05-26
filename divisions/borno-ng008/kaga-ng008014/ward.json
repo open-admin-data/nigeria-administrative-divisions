@@ -1,0 +1,812 @@
+[
+  {
+    "id": "NG008014_afadigmaudori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Afa/dig/maudori",
+      "en": "Afa/dig/maudori",
+      "slug": "afadigmaudori"
+    },
+    "code": {
+      "id": "NG008014_afadigmaudori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.588",
+      "lon": "12.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_benisheikh",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Benisheikh",
+      "en": "Benisheikh",
+      "slug": "benisheikh"
+    },
+    "code": {
+      "id": "NG008014_benisheikh",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.826",
+      "lon": "12.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_borgozo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Borgozo",
+      "en": "Borgozo",
+      "slug": "borgozo"
+    },
+    "code": {
+      "id": "NG008014_borgozo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.616",
+      "lon": "12.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_dogoma-jalori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dogoma / Jalori",
+      "en": "Dogoma / Jalori",
+      "slug": "dogoma-jalori"
+    },
+    "code": {
+      "id": "NG008014_dogoma-jalori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.476",
+      "lon": "12.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_dongo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dongo",
+      "en": "Dongo",
+      "slug": "dongo"
+    },
+    "code": {
+      "id": "NG008014_dongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.593",
+      "lon": "12.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_galangi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galangi",
+      "en": "Galangi",
+      "slug": "galangi"
+    },
+    "code": {
+      "id": "NG008014_galangi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.536",
+      "lon": "12.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_guwo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guwo",
+      "en": "Guwo",
+      "slug": "guwo"
+    },
+    "code": {
+      "id": "NG008014_guwo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.639",
+      "lon": "12.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_karagawaru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karagawaru",
+      "en": "Karagawaru",
+      "slug": "karagawaru"
+    },
+    "code": {
+      "id": "NG008014_karagawaru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.855",
+      "lon": "12.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_mainok",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mainok",
+      "en": "Mainok",
+      "slug": "mainok"
+    },
+    "code": {
+      "id": "NG008014_mainok",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "12.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_marguba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Marguba",
+      "en": "Marguba",
+      "slug": "marguba"
+    },
+    "code": {
+      "id": "NG008014_marguba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.692",
+      "lon": "12.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_ngamdu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngamdu",
+      "en": "Ngamdu",
+      "slug": "ngamdu"
+    },
+    "code": {
+      "id": "NG008014_ngamdu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.782",
+      "lon": "12.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_shettimari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shettimari",
+      "en": "Shettimari",
+      "slug": "shettimari"
+    },
+    "code": {
+      "id": "NG008014_shettimari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.492",
+      "lon": "12.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_tobolo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tobolo",
+      "en": "Tobolo",
+      "slug": "tobolo"
+    },
+    "code": {
+      "id": "NG008014_tobolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.574",
+      "lon": "12.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_wajiro-burgumma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wajiro / Burgumma",
+      "en": "Wajiro / Burgumma",
+      "slug": "wajiro-burgumma"
+    },
+    "code": {
+      "id": "NG008014_wajiro-burgumma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.683",
+      "lon": "12.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008014_wassaram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wassaram",
+      "en": "Wassaram",
+      "slug": "wassaram"
+    },
+    "code": {
+      "id": "NG008014_wassaram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008014",
+      "level": 2,
+      "name": {
+        "local": "Kaga",
+        "en": "Kaga",
+        "slug": "kaga-ng008014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008014",
+        "level": 2,
+        "name": {
+          "local": "Kaga",
+          "en": "Kaga",
+          "slug": "kaga-ng008014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.636",
+      "lon": "12.337"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

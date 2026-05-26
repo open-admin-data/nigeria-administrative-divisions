@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG023007_ede",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ede",
+      "en": "Ede",
+      "slug": "ede"
+    },
+    "code": {
+      "id": "NG023007_ede",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023007",
+      "level": 2,
+      "name": {
+        "local": "Idah",
+        "en": "Idah",
+        "slug": "idah-ng023007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023007",
+        "level": 2,
+        "name": {
+          "local": "Idah",
+          "en": "Idah",
+          "slug": "idah-ng023007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.072",
+      "lon": "6.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023007_ega",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ega",
+      "en": "Ega",
+      "slug": "ega"
+    },
+    "code": {
+      "id": "NG023007_ega",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023007",
+      "level": 2,
+      "name": {
+        "local": "Idah",
+        "en": "Idah",
+        "slug": "idah-ng023007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023007",
+        "level": 2,
+        "name": {
+          "local": "Idah",
+          "en": "Idah",
+          "slug": "idah-ng023007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.072",
+      "lon": "6.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023007_ichala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ichala",
+      "en": "Ichala",
+      "slug": "ichala"
+    },
+    "code": {
+      "id": "NG023007_ichala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023007",
+      "level": 2,
+      "name": {
+        "local": "Idah",
+        "en": "Idah",
+        "slug": "idah-ng023007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023007",
+        "level": 2,
+        "name": {
+          "local": "Idah",
+          "en": "Idah",
+          "slug": "idah-ng023007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.072",
+      "lon": "6.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023007_igalaogba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igalaogba",
+      "en": "Igalaogba",
+      "slug": "igalaogba"
+    },
+    "code": {
+      "id": "NG023007_igalaogba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023007",
+      "level": 2,
+      "name": {
+        "local": "Idah",
+        "en": "Idah",
+        "slug": "idah-ng023007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023007",
+        "level": 2,
+        "name": {
+          "local": "Idah",
+          "en": "Idah",
+          "slug": "idah-ng023007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.072",
+      "lon": "6.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023007_igecheba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igecheba",
+      "en": "Igecheba",
+      "slug": "igecheba"
+    },
+    "code": {
+      "id": "NG023007_igecheba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023007",
+      "level": 2,
+      "name": {
+        "local": "Idah",
+        "en": "Idah",
+        "slug": "idah-ng023007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023007",
+        "level": 2,
+        "name": {
+          "local": "Idah",
+          "en": "Idah",
+          "slug": "idah-ng023007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.072",
+      "lon": "6.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023007_ogegele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogegele",
+      "en": "Ogegele",
+      "slug": "ogegele"
+    },
+    "code": {
+      "id": "NG023007_ogegele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023007",
+      "level": 2,
+      "name": {
+        "local": "Idah",
+        "en": "Idah",
+        "slug": "idah-ng023007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023007",
+        "level": 2,
+        "name": {
+          "local": "Idah",
+          "en": "Idah",
+          "slug": "idah-ng023007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.072",
+      "lon": "6.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023007_owoli-apa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owoli Apa",
+      "en": "Owoli Apa",
+      "slug": "owoli-apa"
+    },
+    "code": {
+      "id": "NG023007_owoli-apa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023007",
+      "level": 2,
+      "name": {
+        "local": "Idah",
+        "en": "Idah",
+        "slug": "idah-ng023007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023007",
+        "level": 2,
+        "name": {
+          "local": "Idah",
+          "en": "Idah",
+          "slug": "idah-ng023007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.072",
+      "lon": "6.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023007_sabon-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Gari",
+      "en": "Sabon Gari",
+      "slug": "sabon-gari"
+    },
+    "code": {
+      "id": "NG023007_sabon-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023007",
+      "level": 2,
+      "name": {
+        "local": "Idah",
+        "en": "Idah",
+        "slug": "idah-ng023007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023007",
+        "level": 2,
+        "name": {
+          "local": "Idah",
+          "en": "Idah",
+          "slug": "idah-ng023007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.072",
+      "lon": "6.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023007_ugwoda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugwoda",
+      "en": "Ugwoda",
+      "slug": "ugwoda"
+    },
+    "code": {
+      "id": "NG023007_ugwoda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023007",
+      "level": 2,
+      "name": {
+        "local": "Idah",
+        "en": "Idah",
+        "slug": "idah-ng023007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023007",
+        "level": 2,
+        "name": {
+          "local": "Idah",
+          "en": "Idah",
+          "slug": "idah-ng023007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.072",
+      "lon": "6.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023007_ukwaja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukwaja",
+      "en": "Ukwaja",
+      "slug": "ukwaja"
+    },
+    "code": {
+      "id": "NG023007_ukwaja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023007",
+      "level": 2,
+      "name": {
+        "local": "Idah",
+        "en": "Idah",
+        "slug": "idah-ng023007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023007",
+        "level": 2,
+        "name": {
+          "local": "Idah",
+          "en": "Idah",
+          "slug": "idah-ng023007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.072",
+      "lon": "6.735"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

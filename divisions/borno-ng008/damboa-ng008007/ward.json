@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG008007_ajigin-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajigin (a)",
+      "en": "Ajigin (a)",
+      "slug": "ajigin-a"
+    },
+    "code": {
+      "id": "NG008007_ajigin-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008007",
+      "level": 2,
+      "name": {
+        "local": "Damboa",
+        "en": "Damboa",
+        "slug": "damboa-ng008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008007",
+        "level": 2,
+        "name": {
+          "local": "Damboa",
+          "en": "Damboa",
+          "slug": "damboa-ng008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.091",
+      "lon": "12.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008007_ajigin-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajigin (b)",
+      "en": "Ajigin (b)",
+      "slug": "ajigin-b"
+    },
+    "code": {
+      "id": "NG008007_ajigin-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008007",
+      "level": 2,
+      "name": {
+        "local": "Damboa",
+        "en": "Damboa",
+        "slug": "damboa-ng008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008007",
+        "level": 2,
+        "name": {
+          "local": "Damboa",
+          "en": "Damboa",
+          "slug": "damboa-ng008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.091",
+      "lon": "12.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008007_azurmulteforfor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Azur/multe/forfor",
+      "en": "Azur/multe/forfor",
+      "slug": "azurmulteforfor"
+    },
+    "code": {
+      "id": "NG008007_azurmulteforfor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008007",
+      "level": 2,
+      "name": {
+        "local": "Damboa",
+        "en": "Damboa",
+        "slug": "damboa-ng008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008007",
+        "level": 2,
+        "name": {
+          "local": "Damboa",
+          "en": "Damboa",
+          "slug": "damboa-ng008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.137",
+      "lon": "12.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008007_begoyerwangurna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bego/yerwa/ngurna",
+      "en": "Bego/yerwa/ngurna",
+      "slug": "begoyerwangurna"
+    },
+    "code": {
+      "id": "NG008007_begoyerwangurna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008007",
+      "level": 2,
+      "name": {
+        "local": "Damboa",
+        "en": "Damboa",
+        "slug": "damboa-ng008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008007",
+        "level": 2,
+        "name": {
+          "local": "Damboa",
+          "en": "Damboa",
+          "slug": "damboa-ng008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "12.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008007_damboa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damboa",
+      "en": "Damboa",
+      "slug": "damboa"
+    },
+    "code": {
+      "id": "NG008007_damboa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008007",
+      "level": 2,
+      "name": {
+        "local": "Damboa",
+        "en": "Damboa",
+        "slug": "damboa-ng008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008007",
+        "level": 2,
+        "name": {
+          "local": "Damboa",
+          "en": "Damboa",
+          "slug": "damboa-ng008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.196",
+      "lon": "12.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008007_gumsurimisakurbudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gumsuri/misakurbudu",
+      "en": "Gumsuri/misakurbudu",
+      "slug": "gumsurimisakurbudu"
+    },
+    "code": {
+      "id": "NG008007_gumsurimisakurbudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008007",
+      "level": 2,
+      "name": {
+        "local": "Damboa",
+        "en": "Damboa",
+        "slug": "damboa-ng008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008007",
+        "level": 2,
+        "name": {
+          "local": "Damboa",
+          "en": "Damboa",
+          "slug": "damboa-ng008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.061",
+      "lon": "12.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008007_kafa-mafi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafa / Mafi",
+      "en": "Kafa / Mafi",
+      "slug": "kafa-mafi"
+    },
+    "code": {
+      "id": "NG008007_kafa-mafi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008007",
+      "level": 2,
+      "name": {
+        "local": "Damboa",
+        "en": "Damboa",
+        "slug": "damboa-ng008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008007",
+        "level": 2,
+        "name": {
+          "local": "Damboa",
+          "en": "Damboa",
+          "slug": "damboa-ng008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.354",
+      "lon": "12.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008007_mulgwai-kopchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mulgwai / Kopchi",
+      "en": "Mulgwai / Kopchi",
+      "slug": "mulgwai-kopchi"
+    },
+    "code": {
+      "id": "NG008007_mulgwai-kopchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008007",
+      "level": 2,
+      "name": {
+        "local": "Damboa",
+        "en": "Damboa",
+        "slug": "damboa-ng008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008007",
+        "level": 2,
+        "name": {
+          "local": "Damboa",
+          "en": "Damboa",
+          "slug": "damboa-ng008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.137",
+      "lon": "12.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008007_nzuda-wuyaram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nzuda / Wuyaram",
+      "en": "Nzuda / Wuyaram",
+      "slug": "nzuda-wuyaram"
+    },
+    "code": {
+      "id": "NG008007_nzuda-wuyaram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008007",
+      "level": 2,
+      "name": {
+        "local": "Damboa",
+        "en": "Damboa",
+        "slug": "damboa-ng008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008007",
+        "level": 2,
+        "name": {
+          "local": "Damboa",
+          "en": "Damboa",
+          "slug": "damboa-ng008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.09",
+      "lon": "12.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008007_wawa-korede",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wawa / Korede",
+      "en": "Wawa / Korede",
+      "slug": "wawa-korede"
+    },
+    "code": {
+      "id": "NG008007_wawa-korede",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008007",
+      "level": 2,
+      "name": {
+        "local": "Damboa",
+        "en": "Damboa",
+        "slug": "damboa-ng008007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008007",
+        "level": 2,
+        "name": {
+          "local": "Damboa",
+          "en": "Damboa",
+          "slug": "damboa-ng008007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.181",
+      "lon": "12.531"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG008019_abbari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abbari",
+      "en": "Abbari",
+      "slug": "abbari"
+    },
+    "code": {
+      "id": "NG008019_abbari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008019",
+      "level": 2,
+      "name": {
+        "local": "Mafa",
+        "en": "Mafa",
+        "slug": "mafa-ng008019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008019",
+        "level": 2,
+        "name": {
+          "local": "Mafa",
+          "en": "Mafa",
+          "slug": "mafa-ng008019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.046",
+      "lon": "13.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008019_anadua",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Anadua",
+      "en": "Anadua",
+      "slug": "anadua"
+    },
+    "code": {
+      "id": "NG008019_anadua",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008019",
+      "level": 2,
+      "name": {
+        "local": "Mafa",
+        "en": "Mafa",
+        "slug": "mafa-ng008019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008019",
+        "level": 2,
+        "name": {
+          "local": "Mafa",
+          "en": "Mafa",
+          "slug": "mafa-ng008019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.046",
+      "lon": "13.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008019_gawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gawa",
+      "en": "Gawa",
+      "slug": "gawa"
+    },
+    "code": {
+      "id": "NG008019_gawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008019",
+      "level": 2,
+      "name": {
+        "local": "Mafa",
+        "en": "Mafa",
+        "slug": "mafa-ng008019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008019",
+        "level": 2,
+        "name": {
+          "local": "Mafa",
+          "en": "Mafa",
+          "slug": "mafa-ng008019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.89",
+      "lon": "13.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008019_koshebe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koshebe",
+      "en": "Koshebe",
+      "slug": "koshebe"
+    },
+    "code": {
+      "id": "NG008019_koshebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008019",
+      "level": 2,
+      "name": {
+        "local": "Mafa",
+        "en": "Mafa",
+        "slug": "mafa-ng008019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008019",
+        "level": 2,
+        "name": {
+          "local": "Mafa",
+          "en": "Mafa",
+          "slug": "mafa-ng008019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.993",
+      "lon": "13.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008019_laje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Laje",
+      "en": "Laje",
+      "slug": "laje"
+    },
+    "code": {
+      "id": "NG008019_laje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008019",
+      "level": 2,
+      "name": {
+        "local": "Mafa",
+        "en": "Mafa",
+        "slug": "mafa-ng008019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008019",
+        "level": 2,
+        "name": {
+          "local": "Mafa",
+          "en": "Mafa",
+          "slug": "mafa-ng008019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.046",
+      "lon": "13.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008019_limanti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Limanti",
+      "en": "Limanti",
+      "slug": "limanti"
+    },
+    "code": {
+      "id": "NG008019_limanti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008019",
+      "level": 2,
+      "name": {
+        "local": "Mafa",
+        "en": "Mafa",
+        "slug": "mafa-ng008019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008019",
+        "level": 2,
+        "name": {
+          "local": "Mafa",
+          "en": "Mafa",
+          "slug": "mafa-ng008019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.948",
+      "lon": "13.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008019_loskuri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Loskuri",
+      "en": "Loskuri",
+      "slug": "loskuri"
+    },
+    "code": {
+      "id": "NG008019_loskuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008019",
+      "level": 2,
+      "name": {
+        "local": "Mafa",
+        "en": "Mafa",
+        "slug": "mafa-ng008019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008019",
+        "level": 2,
+        "name": {
+          "local": "Mafa",
+          "en": "Mafa",
+          "slug": "mafa-ng008019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.82",
+      "lon": "13.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008019_maafa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ma'afa",
+      "en": "Ma'afa",
+      "slug": "maafa"
+    },
+    "code": {
+      "id": "NG008019_maafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008019",
+      "level": 2,
+      "name": {
+        "local": "Mafa",
+        "en": "Mafa",
+        "slug": "mafa-ng008019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008019",
+        "level": 2,
+        "name": {
+          "local": "Mafa",
+          "en": "Mafa",
+          "slug": "mafa-ng008019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.1",
+      "lon": "13.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008019_mafa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mafa",
+      "en": "Mafa",
+      "slug": "mafa"
+    },
+    "code": {
+      "id": "NG008019_mafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008019",
+      "level": 2,
+      "name": {
+        "local": "Mafa",
+        "en": "Mafa",
+        "slug": "mafa-ng008019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008019",
+        "level": 2,
+        "name": {
+          "local": "Mafa",
+          "en": "Mafa",
+          "slug": "mafa-ng008019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.973",
+      "lon": "13.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008019_masu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Masu",
+      "en": "Masu",
+      "slug": "masu"
+    },
+    "code": {
+      "id": "NG008019_masu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008019",
+      "level": 2,
+      "name": {
+        "local": "Mafa",
+        "en": "Mafa",
+        "slug": "mafa-ng008019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008019",
+        "level": 2,
+        "name": {
+          "local": "Mafa",
+          "en": "Mafa",
+          "slug": "mafa-ng008019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.16",
+      "lon": "13.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008019_mujigine",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mujigine",
+      "en": "Mujigine",
+      "slug": "mujigine"
+    },
+    "code": {
+      "id": "NG008019_mujigine",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008019",
+      "level": 2,
+      "name": {
+        "local": "Mafa",
+        "en": "Mafa",
+        "slug": "mafa-ng008019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008019",
+        "level": 2,
+        "name": {
+          "local": "Mafa",
+          "en": "Mafa",
+          "slug": "mafa-ng008019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.094",
+      "lon": "13.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008019_tamsu-ngamdua",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tamsu Ngamdua",
+      "en": "Tamsu Ngamdua",
+      "slug": "tamsu-ngamdua"
+    },
+    "code": {
+      "id": "NG008019_tamsu-ngamdua",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008019",
+      "level": 2,
+      "name": {
+        "local": "Mafa",
+        "en": "Mafa",
+        "slug": "mafa-ng008019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008019",
+        "level": 2,
+        "name": {
+          "local": "Mafa",
+          "en": "Mafa",
+          "slug": "mafa-ng008019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.815",
+      "lon": "13.294"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

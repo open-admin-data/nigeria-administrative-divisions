@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG025004_amuwo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amuwo",
+      "en": "Amuwo",
+      "slug": "amuwo"
+    },
+    "code": {
+      "id": "NG025004_amuwo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025004",
+      "level": 2,
+      "name": {
+        "local": "Amuwo-Odofin",
+        "en": "Amuwo-Odofin",
+        "slug": "amuwo-odofin-ng025004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025004",
+        "level": 2,
+        "name": {
+          "local": "Amuwo-Odofin",
+          "en": "Amuwo-Odofin",
+          "slug": "amuwo-odofin-ng025004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "3.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025004_amuwo-odofin-housing-estate-mile-2",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amuwo-odofin Housing Estate, Mile 2",
+      "en": "Amuwo-odofin Housing Estate, Mile 2",
+      "slug": "amuwo-odofin-housing-estate-mile-2"
+    },
+    "code": {
+      "id": "NG025004_amuwo-odofin-housing-estate-mile-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025004",
+      "level": 2,
+      "name": {
+        "local": "Amuwo-Odofin",
+        "en": "Amuwo-Odofin",
+        "slug": "amuwo-odofin-ng025004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025004",
+        "level": 2,
+        "name": {
+          "local": "Amuwo-Odofin",
+          "en": "Amuwo-Odofin",
+          "slug": "amuwo-odofin-ng025004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "3.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025004_festac-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Festac 1",
+      "en": "Festac 1",
+      "slug": "festac-1"
+    },
+    "code": {
+      "id": "NG025004_festac-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025004",
+      "level": 2,
+      "name": {
+        "local": "Amuwo-Odofin",
+        "en": "Amuwo-Odofin",
+        "slug": "amuwo-odofin-ng025004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025004",
+        "level": 2,
+        "name": {
+          "local": "Amuwo-Odofin",
+          "en": "Amuwo-Odofin",
+          "slug": "amuwo-odofin-ng025004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "3.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025004_festac-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Festac Ii",
+      "en": "Festac Ii",
+      "slug": "festac-ii"
+    },
+    "code": {
+      "id": "NG025004_festac-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025004",
+      "level": 2,
+      "name": {
+        "local": "Amuwo-Odofin",
+        "en": "Amuwo-Odofin",
+        "slug": "amuwo-odofin-ng025004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025004",
+        "level": 2,
+        "name": {
+          "local": "Amuwo-Odofin",
+          "en": "Amuwo-Odofin",
+          "slug": "amuwo-odofin-ng025004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "3.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025004_festac-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Festac Iii",
+      "en": "Festac Iii",
+      "slug": "festac-iii"
+    },
+    "code": {
+      "id": "NG025004_festac-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025004",
+      "level": 2,
+      "name": {
+        "local": "Amuwo-Odofin",
+        "en": "Amuwo-Odofin",
+        "slug": "amuwo-odofin-ng025004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025004",
+        "level": 2,
+        "name": {
+          "local": "Amuwo-Odofin",
+          "en": "Amuwo-Odofin",
+          "slug": "amuwo-odofin-ng025004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "3.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025004_ibeshe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibeshe",
+      "en": "Ibeshe",
+      "slug": "ibeshe"
+    },
+    "code": {
+      "id": "NG025004_ibeshe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025004",
+      "level": 2,
+      "name": {
+        "local": "Amuwo-Odofin",
+        "en": "Amuwo-Odofin",
+        "slug": "amuwo-odofin-ng025004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025004",
+        "level": 2,
+        "name": {
+          "local": "Amuwo-Odofin",
+          "en": "Amuwo-Odofin",
+          "slug": "amuwo-odofin-ng025004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "3.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025004_igbologun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igbologun",
+      "en": "Igbologun",
+      "slug": "igbologun"
+    },
+    "code": {
+      "id": "NG025004_igbologun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025004",
+      "level": 2,
+      "name": {
+        "local": "Amuwo-Odofin",
+        "en": "Amuwo-Odofin",
+        "slug": "amuwo-odofin-ng025004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025004",
+        "level": 2,
+        "name": {
+          "local": "Amuwo-Odofin",
+          "en": "Amuwo-Odofin",
+          "slug": "amuwo-odofin-ng025004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "3.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025004_ijegun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijegun",
+      "en": "Ijegun",
+      "slug": "ijegun"
+    },
+    "code": {
+      "id": "NG025004_ijegun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025004",
+      "level": 2,
+      "name": {
+        "local": "Amuwo-Odofin",
+        "en": "Amuwo-Odofin",
+        "slug": "amuwo-odofin-ng025004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025004",
+        "level": 2,
+        "name": {
+          "local": "Amuwo-Odofin",
+          "en": "Amuwo-Odofin",
+          "slug": "amuwo-odofin-ng025004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "3.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025004_irede",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Irede",
+      "en": "Irede",
+      "slug": "irede"
+    },
+    "code": {
+      "id": "NG025004_irede",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025004",
+      "level": 2,
+      "name": {
+        "local": "Amuwo-Odofin",
+        "en": "Amuwo-Odofin",
+        "slug": "amuwo-odofin-ng025004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025004",
+        "level": 2,
+        "name": {
+          "local": "Amuwo-Odofin",
+          "en": "Amuwo-Odofin",
+          "slug": "amuwo-odofin-ng025004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "3.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025004_kirikiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kirikiri",
+      "en": "Kirikiri",
+      "slug": "kirikiri"
+    },
+    "code": {
+      "id": "NG025004_kirikiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025004",
+      "level": 2,
+      "name": {
+        "local": "Amuwo-Odofin",
+        "en": "Amuwo-Odofin",
+        "slug": "amuwo-odofin-ng025004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025004",
+        "level": 2,
+        "name": {
+          "local": "Amuwo-Odofin",
+          "en": "Amuwo-Odofin",
+          "slug": "amuwo-odofin-ng025004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "3.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025004_satellite",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Satellite",
+      "en": "Satellite",
+      "slug": "satellite"
+    },
+    "code": {
+      "id": "NG025004_satellite",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025004",
+      "level": 2,
+      "name": {
+        "local": "Amuwo-Odofin",
+        "en": "Amuwo-Odofin",
+        "slug": "amuwo-odofin-ng025004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025004",
+        "level": 2,
+        "name": {
+          "local": "Amuwo-Odofin",
+          "en": "Amuwo-Odofin",
+          "slug": "amuwo-odofin-ng025004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "3.275"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

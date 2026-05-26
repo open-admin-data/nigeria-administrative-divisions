@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG013009_ekamarun-ward-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekamarun Ward 'a'",
+      "en": "Ekamarun Ward 'a'",
+      "slug": "ekamarun-ward-a"
+    },
+    "code": {
+      "id": "NG013009_ekamarun-ward-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013009",
+      "level": 2,
+      "name": {
+        "local": "Ijero",
+        "en": "Ijero",
+        "slug": "ijero-ng013009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013009",
+        "level": 2,
+        "name": {
+          "local": "Ijero",
+          "en": "Ijero",
+          "slug": "ijero-ng013009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "5.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013009_ekameta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekameta",
+      "en": "Ekameta",
+      "slug": "ekameta"
+    },
+    "code": {
+      "id": "NG013009_ekameta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013009",
+      "level": 2,
+      "name": {
+        "local": "Ijero",
+        "en": "Ijero",
+        "slug": "ijero-ng013009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013009",
+        "level": 2,
+        "name": {
+          "local": "Ijero",
+          "en": "Ijero",
+          "slug": "ijero-ng013009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "5.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013009_ijero-ward-c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijero Ward 'c'",
+      "en": "Ijero Ward 'c'",
+      "slug": "ijero-ward-c"
+    },
+    "code": {
+      "id": "NG013009_ijero-ward-c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013009",
+      "level": 2,
+      "name": {
+        "local": "Ijero",
+        "en": "Ijero",
+        "slug": "ijero-ng013009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013009",
+        "level": 2,
+        "name": {
+          "local": "Ijero",
+          "en": "Ijero",
+          "slug": "ijero-ng013009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "5.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013009_ijero-ward-d",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijero Ward 'd'",
+      "en": "Ijero Ward 'd'",
+      "slug": "ijero-ward-d"
+    },
+    "code": {
+      "id": "NG013009_ijero-ward-d",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013009",
+      "level": 2,
+      "name": {
+        "local": "Ijero",
+        "en": "Ijero",
+        "slug": "ijero-ng013009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013009",
+        "level": 2,
+        "name": {
+          "local": "Ijero",
+          "en": "Ijero",
+          "slug": "ijero-ng013009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "5.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013009_ijero-ward-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijero Ward \"a\"",
+      "en": "Ijero Ward \"a\"",
+      "slug": "ijero-ward-a"
+    },
+    "code": {
+      "id": "NG013009_ijero-ward-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013009",
+      "level": 2,
+      "name": {
+        "local": "Ijero",
+        "en": "Ijero",
+        "slug": "ijero-ng013009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013009",
+        "level": 2,
+        "name": {
+          "local": "Ijero",
+          "en": "Ijero",
+          "slug": "ijero-ng013009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "5.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013009_ijero-ward-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijero Ward \"b\"",
+      "en": "Ijero Ward \"b\"",
+      "slug": "ijero-ward-b"
+    },
+    "code": {
+      "id": "NG013009_ijero-ward-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013009",
+      "level": 2,
+      "name": {
+        "local": "Ijero",
+        "en": "Ijero",
+        "slug": "ijero-ng013009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013009",
+        "level": 2,
+        "name": {
+          "local": "Ijero",
+          "en": "Ijero",
+          "slug": "ijero-ng013009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "5.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013009_ikoro-ward-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikoro Ward 'a'",
+      "en": "Ikoro Ward 'a'",
+      "slug": "ikoro-ward-a"
+    },
+    "code": {
+      "id": "NG013009_ikoro-ward-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013009",
+      "level": 2,
+      "name": {
+        "local": "Ijero",
+        "en": "Ijero",
+        "slug": "ijero-ng013009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013009",
+        "level": 2,
+        "name": {
+          "local": "Ijero",
+          "en": "Ijero",
+          "slug": "ijero-ng013009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "5.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013009_iloro-ijunrin-ward-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iloro / Ijunrin Ward 'b'",
+      "en": "Iloro / Ijunrin Ward 'b'",
+      "slug": "iloro-ijunrin-ward-b"
+    },
+    "code": {
+      "id": "NG013009_iloro-ijunrin-ward-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013009",
+      "level": 2,
+      "name": {
+        "local": "Ijero",
+        "en": "Ijero",
+        "slug": "ijero-ng013009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013009",
+        "level": 2,
+        "name": {
+          "local": "Ijero",
+          "en": "Ijero",
+          "slug": "ijero-ng013009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "5.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013009_iloro-ward-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iloro Ward 'a'",
+      "en": "Iloro Ward 'a'",
+      "slug": "iloro-ward-a"
+    },
+    "code": {
+      "id": "NG013009_iloro-ward-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013009",
+      "level": 2,
+      "name": {
+        "local": "Ijero",
+        "en": "Ijero",
+        "slug": "ijero-ng013009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013009",
+        "level": 2,
+        "name": {
+          "local": "Ijero",
+          "en": "Ijero",
+          "slug": "ijero-ng013009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "5.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013009_ipoti-ward-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipoti Ward 'a'",
+      "en": "Ipoti Ward 'a'",
+      "slug": "ipoti-ward-a"
+    },
+    "code": {
+      "id": "NG013009_ipoti-ward-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013009",
+      "level": 2,
+      "name": {
+        "local": "Ijero",
+        "en": "Ijero",
+        "slug": "ijero-ng013009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013009",
+        "level": 2,
+        "name": {
+          "local": "Ijero",
+          "en": "Ijero",
+          "slug": "ijero-ng013009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "5.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013009_ipoti-ward-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipoti Ward 'b'",
+      "en": "Ipoti Ward 'b'",
+      "slug": "ipoti-ward-b"
+    },
+    "code": {
+      "id": "NG013009_ipoti-ward-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013009",
+      "level": 2,
+      "name": {
+        "local": "Ijero",
+        "en": "Ijero",
+        "slug": "ijero-ng013009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013009",
+        "level": 2,
+        "name": {
+          "local": "Ijero",
+          "en": "Ijero",
+          "slug": "ijero-ng013009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "5.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013009_odo-owa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odo Owa",
+      "en": "Odo Owa",
+      "slug": "odo-owa"
+    },
+    "code": {
+      "id": "NG013009_odo-owa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013009",
+      "level": 2,
+      "name": {
+        "local": "Ijero",
+        "en": "Ijero",
+        "slug": "ijero-ng013009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013009",
+        "level": 2,
+        "name": {
+          "local": "Ijero",
+          "en": "Ijero",
+          "slug": "ijero-ng013009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.832",
+      "lon": "5.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

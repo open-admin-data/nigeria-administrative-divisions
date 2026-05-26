@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG031016_ado-awaye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ado-awaye",
+      "en": "Ado-awaye",
+      "slug": "ado-awaye"
+    },
+    "code": {
+      "id": "NG031016_ado-awaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031016",
+      "level": 2,
+      "name": {
+        "local": "Iseyin",
+        "en": "Iseyin",
+        "slug": "iseyin-ng031016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031016",
+        "level": 2,
+        "name": {
+          "local": "Iseyin",
+          "en": "Iseyin",
+          "slug": "iseyin-ng031016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "3.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031016_akinwumiosoogun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akinwumi/osoogun",
+      "en": "Akinwumi/osoogun",
+      "slug": "akinwumiosoogun"
+    },
+    "code": {
+      "id": "NG031016_akinwumiosoogun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031016",
+      "level": 2,
+      "name": {
+        "local": "Iseyin",
+        "en": "Iseyin",
+        "slug": "iseyin-ng031016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031016",
+        "level": 2,
+        "name": {
+          "local": "Iseyin",
+          "en": "Iseyin",
+          "slug": "iseyin-ng031016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "3.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031016_ekunle-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekunle I",
+      "en": "Ekunle I",
+      "slug": "ekunle-i"
+    },
+    "code": {
+      "id": "NG031016_ekunle-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031016",
+      "level": 2,
+      "name": {
+        "local": "Iseyin",
+        "en": "Iseyin",
+        "slug": "iseyin-ng031016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031016",
+        "level": 2,
+        "name": {
+          "local": "Iseyin",
+          "en": "Iseyin",
+          "slug": "iseyin-ng031016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "3.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031016_ekunle-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekunle Ii",
+      "en": "Ekunle Ii",
+      "slug": "ekunle-ii"
+    },
+    "code": {
+      "id": "NG031016_ekunle-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031016",
+      "level": 2,
+      "name": {
+        "local": "Iseyin",
+        "en": "Iseyin",
+        "slug": "iseyin-ng031016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031016",
+        "level": 2,
+        "name": {
+          "local": "Iseyin",
+          "en": "Iseyin",
+          "slug": "iseyin-ng031016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "3.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031016_faramora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Faramora",
+      "en": "Faramora",
+      "slug": "faramora"
+    },
+    "code": {
+      "id": "NG031016_faramora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031016",
+      "level": 2,
+      "name": {
+        "local": "Iseyin",
+        "en": "Iseyin",
+        "slug": "iseyin-ng031016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031016",
+        "level": 2,
+        "name": {
+          "local": "Iseyin",
+          "en": "Iseyin",
+          "slug": "iseyin-ng031016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "3.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031016_ijembaoke-olaoke-oja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijemba/oke-ola/oke-oja",
+      "en": "Ijemba/oke-ola/oke-oja",
+      "slug": "ijembaoke-olaoke-oja"
+    },
+    "code": {
+      "id": "NG031016_ijembaoke-olaoke-oja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031016",
+      "level": 2,
+      "name": {
+        "local": "Iseyin",
+        "en": "Iseyin",
+        "slug": "iseyin-ng031016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031016",
+        "level": 2,
+        "name": {
+          "local": "Iseyin",
+          "en": "Iseyin",
+          "slug": "iseyin-ng031016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "3.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031016_isalu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isalu I",
+      "en": "Isalu I",
+      "slug": "isalu-i"
+    },
+    "code": {
+      "id": "NG031016_isalu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031016",
+      "level": 2,
+      "name": {
+        "local": "Iseyin",
+        "en": "Iseyin",
+        "slug": "iseyin-ng031016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031016",
+        "level": 2,
+        "name": {
+          "local": "Iseyin",
+          "en": "Iseyin",
+          "slug": "iseyin-ng031016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "3.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031016_isalu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isalu Ii",
+      "en": "Isalu Ii",
+      "slug": "isalu-ii"
+    },
+    "code": {
+      "id": "NG031016_isalu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031016",
+      "level": 2,
+      "name": {
+        "local": "Iseyin",
+        "en": "Iseyin",
+        "slug": "iseyin-ng031016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031016",
+        "level": 2,
+        "name": {
+          "local": "Iseyin",
+          "en": "Iseyin",
+          "slug": "iseyin-ng031016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "3.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031016_koso-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koso I",
+      "en": "Koso I",
+      "slug": "koso-i"
+    },
+    "code": {
+      "id": "NG031016_koso-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031016",
+      "level": 2,
+      "name": {
+        "local": "Iseyin",
+        "en": "Iseyin",
+        "slug": "iseyin-ng031016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031016",
+        "level": 2,
+        "name": {
+          "local": "Iseyin",
+          "en": "Iseyin",
+          "slug": "iseyin-ng031016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "3.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031016_koso-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koso Ii",
+      "en": "Koso Ii",
+      "slug": "koso-ii"
+    },
+    "code": {
+      "id": "NG031016_koso-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031016",
+      "level": 2,
+      "name": {
+        "local": "Iseyin",
+        "en": "Iseyin",
+        "slug": "iseyin-ng031016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031016",
+        "level": 2,
+        "name": {
+          "local": "Iseyin",
+          "en": "Iseyin",
+          "slug": "iseyin-ng031016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "3.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031016_ladoganoke-eyin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ladogan/oke Eyin",
+      "en": "Ladogan/oke Eyin",
+      "slug": "ladoganoke-eyin"
+    },
+    "code": {
+      "id": "NG031016_ladoganoke-eyin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031016",
+      "level": 2,
+      "name": {
+        "local": "Iseyin",
+        "en": "Iseyin",
+        "slug": "iseyin-ng031016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031016",
+        "level": 2,
+        "name": {
+          "local": "Iseyin",
+          "en": "Iseyin",
+          "slug": "iseyin-ng031016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.004",
+      "lon": "3.598"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

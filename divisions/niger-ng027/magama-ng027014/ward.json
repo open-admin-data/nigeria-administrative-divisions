@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG027014_auna-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auna Central",
+      "en": "Auna Central",
+      "slug": "auna-central"
+    },
+    "code": {
+      "id": "NG027014_auna-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027014",
+      "level": 2,
+      "name": {
+        "local": "Magama",
+        "en": "Magama",
+        "slug": "magama-ng027014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027014",
+        "level": 2,
+        "name": {
+          "local": "Magama",
+          "en": "Magama",
+          "slug": "magama-ng027014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "5.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027014_auna-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auna East",
+      "en": "Auna East",
+      "slug": "auna-east"
+    },
+    "code": {
+      "id": "NG027014_auna-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027014",
+      "level": 2,
+      "name": {
+        "local": "Magama",
+        "en": "Magama",
+        "slug": "magama-ng027014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027014",
+        "level": 2,
+        "name": {
+          "local": "Magama",
+          "en": "Magama",
+          "slug": "magama-ng027014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "5.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027014_auna-east-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auna East Central",
+      "en": "Auna East Central",
+      "slug": "auna-east-central"
+    },
+    "code": {
+      "id": "NG027014_auna-east-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027014",
+      "level": 2,
+      "name": {
+        "local": "Magama",
+        "en": "Magama",
+        "slug": "magama-ng027014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027014",
+        "level": 2,
+        "name": {
+          "local": "Magama",
+          "en": "Magama",
+          "slug": "magama-ng027014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "5.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027014_auna-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auna South",
+      "en": "Auna South",
+      "slug": "auna-south"
+    },
+    "code": {
+      "id": "NG027014_auna-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027014",
+      "level": 2,
+      "name": {
+        "local": "Magama",
+        "en": "Magama",
+        "slug": "magama-ng027014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027014",
+        "level": 2,
+        "name": {
+          "local": "Magama",
+          "en": "Magama",
+          "slug": "magama-ng027014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "5.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027014_auna-south-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auna South East",
+      "en": "Auna South East",
+      "slug": "auna-south-east"
+    },
+    "code": {
+      "id": "NG027014_auna-south-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027014",
+      "level": 2,
+      "name": {
+        "local": "Magama",
+        "en": "Magama",
+        "slug": "magama-ng027014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027014",
+        "level": 2,
+        "name": {
+          "local": "Magama",
+          "en": "Magama",
+          "slug": "magama-ng027014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "5.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027014_ibelu-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibelu Central",
+      "en": "Ibelu Central",
+      "slug": "ibelu-central"
+    },
+    "code": {
+      "id": "NG027014_ibelu-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027014",
+      "level": 2,
+      "name": {
+        "local": "Magama",
+        "en": "Magama",
+        "slug": "magama-ng027014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027014",
+        "level": 2,
+        "name": {
+          "local": "Magama",
+          "en": "Magama",
+          "slug": "magama-ng027014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "5.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027014_ibelu-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibelu East",
+      "en": "Ibelu East",
+      "slug": "ibelu-east"
+    },
+    "code": {
+      "id": "NG027014_ibelu-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027014",
+      "level": 2,
+      "name": {
+        "local": "Magama",
+        "en": "Magama",
+        "slug": "magama-ng027014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027014",
+        "level": 2,
+        "name": {
+          "local": "Magama",
+          "en": "Magama",
+          "slug": "magama-ng027014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "5.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027014_ibelu-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibelu North",
+      "en": "Ibelu North",
+      "slug": "ibelu-north"
+    },
+    "code": {
+      "id": "NG027014_ibelu-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027014",
+      "level": 2,
+      "name": {
+        "local": "Magama",
+        "en": "Magama",
+        "slug": "magama-ng027014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027014",
+        "level": 2,
+        "name": {
+          "local": "Magama",
+          "en": "Magama",
+          "slug": "magama-ng027014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "5.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027014_ibelu-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibelu West",
+      "en": "Ibelu West",
+      "slug": "ibelu-west"
+    },
+    "code": {
+      "id": "NG027014_ibelu-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027014",
+      "level": 2,
+      "name": {
+        "local": "Magama",
+        "en": "Magama",
+        "slug": "magama-ng027014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027014",
+        "level": 2,
+        "name": {
+          "local": "Magama",
+          "en": "Magama",
+          "slug": "magama-ng027014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "5.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027014_nasko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasko",
+      "en": "Nasko",
+      "slug": "nasko"
+    },
+    "code": {
+      "id": "NG027014_nasko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027014",
+      "level": 2,
+      "name": {
+        "local": "Magama",
+        "en": "Magama",
+        "slug": "magama-ng027014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027014",
+        "level": 2,
+        "name": {
+          "local": "Magama",
+          "en": "Magama",
+          "slug": "magama-ng027014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "5.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027014_nassarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nassarawa",
+      "en": "Nassarawa",
+      "slug": "nassarawa"
+    },
+    "code": {
+      "id": "NG027014_nassarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027014",
+      "level": 2,
+      "name": {
+        "local": "Magama",
+        "en": "Magama",
+        "slug": "magama-ng027014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027014",
+        "level": 2,
+        "name": {
+          "local": "Magama",
+          "en": "Magama",
+          "slug": "magama-ng027014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "5.015"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

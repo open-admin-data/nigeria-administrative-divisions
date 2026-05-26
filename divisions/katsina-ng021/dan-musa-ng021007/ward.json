@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021007_dan-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Ali",
+      "en": "Dan Ali",
+      "slug": "dan-ali"
+    },
+    "code": {
+      "id": "NG021007_dan-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021007",
+      "level": 2,
+      "name": {
+        "local": "Dan Musa",
+        "en": "Dan Musa",
+        "slug": "dan-musa-ng021007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021007",
+        "level": 2,
+        "name": {
+          "local": "Dan Musa",
+          "en": "Dan Musa",
+          "slug": "dan-musa-ng021007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.216",
+      "lon": "7.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021007_dan-alkima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Alkima",
+      "en": "Dan Alkima",
+      "slug": "dan-alkima"
+    },
+    "code": {
+      "id": "NG021007_dan-alkima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021007",
+      "level": 2,
+      "name": {
+        "local": "Dan Musa",
+        "en": "Dan Musa",
+        "slug": "dan-musa-ng021007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021007",
+        "level": 2,
+        "name": {
+          "local": "Dan Musa",
+          "en": "Dan Musa",
+          "slug": "dan-musa-ng021007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.216",
+      "lon": "7.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021007_dan-musa-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Musa A",
+      "en": "Dan Musa A",
+      "slug": "dan-musa-a"
+    },
+    "code": {
+      "id": "NG021007_dan-musa-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021007",
+      "level": 2,
+      "name": {
+        "local": "Dan Musa",
+        "en": "Dan Musa",
+        "slug": "dan-musa-ng021007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021007",
+        "level": 2,
+        "name": {
+          "local": "Dan Musa",
+          "en": "Dan Musa",
+          "slug": "dan-musa-ng021007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.216",
+      "lon": "7.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021007_dan-musa-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Musa B",
+      "en": "Dan Musa B",
+      "slug": "dan-musa-b"
+    },
+    "code": {
+      "id": "NG021007_dan-musa-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021007",
+      "level": 2,
+      "name": {
+        "local": "Dan Musa",
+        "en": "Dan Musa",
+        "slug": "dan-musa-ng021007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021007",
+        "level": 2,
+        "name": {
+          "local": "Dan Musa",
+          "en": "Dan Musa",
+          "slug": "dan-musa-ng021007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.216",
+      "lon": "7.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021007_dandire-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dandire 'b'",
+      "en": "Dandire 'b'",
+      "slug": "dandire-b"
+    },
+    "code": {
+      "id": "NG021007_dandire-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021007",
+      "level": 2,
+      "name": {
+        "local": "Dan Musa",
+        "en": "Dan Musa",
+        "slug": "dan-musa-ng021007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021007",
+        "level": 2,
+        "name": {
+          "local": "Dan Musa",
+          "en": "Dan Musa",
+          "slug": "dan-musa-ng021007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.216",
+      "lon": "7.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021007_dandire-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dandire A",
+      "en": "Dandire A",
+      "slug": "dandire-a"
+    },
+    "code": {
+      "id": "NG021007_dandire-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021007",
+      "level": 2,
+      "name": {
+        "local": "Dan Musa",
+        "en": "Dan Musa",
+        "slug": "dan-musa-ng021007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021007",
+        "level": 2,
+        "name": {
+          "local": "Dan Musa",
+          "en": "Dan Musa",
+          "slug": "dan-musa-ng021007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.216",
+      "lon": "7.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021007_mai-dabino-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mai Dabino A",
+      "en": "Mai Dabino A",
+      "slug": "mai-dabino-a"
+    },
+    "code": {
+      "id": "NG021007_mai-dabino-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021007",
+      "level": 2,
+      "name": {
+        "local": "Dan Musa",
+        "en": "Dan Musa",
+        "slug": "dan-musa-ng021007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021007",
+        "level": 2,
+        "name": {
+          "local": "Dan Musa",
+          "en": "Dan Musa",
+          "slug": "dan-musa-ng021007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.216",
+      "lon": "7.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021007_mai-dabino-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mai Dabino B",
+      "en": "Mai Dabino B",
+      "slug": "mai-dabino-b"
+    },
+    "code": {
+      "id": "NG021007_mai-dabino-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021007",
+      "level": 2,
+      "name": {
+        "local": "Dan Musa",
+        "en": "Dan Musa",
+        "slug": "dan-musa-ng021007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021007",
+        "level": 2,
+        "name": {
+          "local": "Dan Musa",
+          "en": "Dan Musa",
+          "slug": "dan-musa-ng021007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.216",
+      "lon": "7.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021007_mara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mara",
+      "en": "Mara",
+      "slug": "mara"
+    },
+    "code": {
+      "id": "NG021007_mara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021007",
+      "level": 2,
+      "name": {
+        "local": "Dan Musa",
+        "en": "Dan Musa",
+        "slug": "dan-musa-ng021007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021007",
+        "level": 2,
+        "name": {
+          "local": "Dan Musa",
+          "en": "Dan Musa",
+          "slug": "dan-musa-ng021007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.216",
+      "lon": "7.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021007_yan-tumaki-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yan-tumaki A",
+      "en": "Yan-tumaki A",
+      "slug": "yan-tumaki-a"
+    },
+    "code": {
+      "id": "NG021007_yan-tumaki-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021007",
+      "level": 2,
+      "name": {
+        "local": "Dan Musa",
+        "en": "Dan Musa",
+        "slug": "dan-musa-ng021007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021007",
+        "level": 2,
+        "name": {
+          "local": "Dan Musa",
+          "en": "Dan Musa",
+          "slug": "dan-musa-ng021007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.216",
+      "lon": "7.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021007_yan-tumaki-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yan-tumaki B",
+      "en": "Yan-tumaki B",
+      "slug": "yan-tumaki-b"
+    },
+    "code": {
+      "id": "NG021007_yan-tumaki-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021007",
+      "level": 2,
+      "name": {
+        "local": "Dan Musa",
+        "en": "Dan Musa",
+        "slug": "dan-musa-ng021007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021007",
+        "level": 2,
+        "name": {
+          "local": "Dan Musa",
+          "en": "Dan Musa",
+          "slug": "dan-musa-ng021007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.216",
+      "lon": "7.352"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

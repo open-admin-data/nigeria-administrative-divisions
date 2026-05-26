@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG026002_akiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akiri",
+      "en": "Akiri",
+      "slug": "akiri"
+    },
+    "code": {
+      "id": "NG026002_akiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026002",
+      "level": 2,
+      "name": {
+        "local": "Awe",
+        "en": "Awe",
+        "slug": "awe-ng026002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026002",
+        "level": 2,
+        "name": {
+          "local": "Awe",
+          "en": "Awe",
+          "slug": "awe-ng026002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "9.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026002_azara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Azara",
+      "en": "Azara",
+      "slug": "azara"
+    },
+    "code": {
+      "id": "NG026002_azara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026002",
+      "level": 2,
+      "name": {
+        "local": "Awe",
+        "en": "Awe",
+        "slug": "awe-ng026002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026002",
+        "level": 2,
+        "name": {
+          "local": "Awe",
+          "en": "Awe",
+          "slug": "awe-ng026002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "9.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026002_galadima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galadima",
+      "en": "Galadima",
+      "slug": "galadima"
+    },
+    "code": {
+      "id": "NG026002_galadima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026002",
+      "level": 2,
+      "name": {
+        "local": "Awe",
+        "en": "Awe",
+        "slug": "awe-ng026002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026002",
+        "level": 2,
+        "name": {
+          "local": "Awe",
+          "en": "Awe",
+          "slug": "awe-ng026002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "9.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026002_jangaru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jangaru",
+      "en": "Jangaru",
+      "slug": "jangaru"
+    },
+    "code": {
+      "id": "NG026002_jangaru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026002",
+      "level": 2,
+      "name": {
+        "local": "Awe",
+        "en": "Awe",
+        "slug": "awe-ng026002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026002",
+        "level": 2,
+        "name": {
+          "local": "Awe",
+          "en": "Awe",
+          "slug": "awe-ng026002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "9.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026002_kanjeabuni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanje/abuni",
+      "en": "Kanje/abuni",
+      "slug": "kanjeabuni"
+    },
+    "code": {
+      "id": "NG026002_kanjeabuni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026002",
+      "level": 2,
+      "name": {
+        "local": "Awe",
+        "en": "Awe",
+        "slug": "awe-ng026002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026002",
+        "level": 2,
+        "name": {
+          "local": "Awe",
+          "en": "Awe",
+          "slug": "awe-ng026002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "9.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026002_madaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madaki",
+      "en": "Madaki",
+      "slug": "madaki"
+    },
+    "code": {
+      "id": "NG026002_madaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026002",
+      "level": 2,
+      "name": {
+        "local": "Awe",
+        "en": "Awe",
+        "slug": "awe-ng026002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026002",
+        "level": 2,
+        "name": {
+          "local": "Awe",
+          "en": "Awe",
+          "slug": "awe-ng026002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "9.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026002_makwangiji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makwangiji",
+      "en": "Makwangiji",
+      "slug": "makwangiji"
+    },
+    "code": {
+      "id": "NG026002_makwangiji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026002",
+      "level": 2,
+      "name": {
+        "local": "Awe",
+        "en": "Awe",
+        "slug": "awe-ng026002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026002",
+        "level": 2,
+        "name": {
+          "local": "Awe",
+          "en": "Awe",
+          "slug": "awe-ng026002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "9.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026002_ribi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ribi",
+      "en": "Ribi",
+      "slug": "ribi"
+    },
+    "code": {
+      "id": "NG026002_ribi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026002",
+      "level": 2,
+      "name": {
+        "local": "Awe",
+        "en": "Awe",
+        "slug": "awe-ng026002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026002",
+        "level": 2,
+        "name": {
+          "local": "Awe",
+          "en": "Awe",
+          "slug": "awe-ng026002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "9.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026002_tunga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tunga",
+      "en": "Tunga",
+      "slug": "tunga"
+    },
+    "code": {
+      "id": "NG026002_tunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026002",
+      "level": 2,
+      "name": {
+        "local": "Awe",
+        "en": "Awe",
+        "slug": "awe-ng026002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026002",
+        "level": 2,
+        "name": {
+          "local": "Awe",
+          "en": "Awe",
+          "slug": "awe-ng026002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "9.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026002_wuse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wuse",
+      "en": "Wuse",
+      "slug": "wuse"
+    },
+    "code": {
+      "id": "NG026002_wuse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026002",
+      "level": 2,
+      "name": {
+        "local": "Awe",
+        "en": "Awe",
+        "slug": "awe-ng026002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026002",
+        "level": 2,
+        "name": {
+          "local": "Awe",
+          "en": "Awe",
+          "slug": "awe-ng026002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "9.165"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

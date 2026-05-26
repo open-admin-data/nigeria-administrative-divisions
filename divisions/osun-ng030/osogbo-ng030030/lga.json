@@ -1,0 +1,47 @@
+{
+  "id": "NG030030",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Osogbo",
+    "en": "Osogbo",
+    "slug": "osogbo-ng030030"
+  },
+  "code": {
+    "id": "NG030030",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG030",
+    "level": 1,
+    "name": {
+      "local": "Osun",
+      "en": "Osun",
+      "slug": "osun-ng030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG030",
+      "level": 1,
+      "name": {
+        "local": "Osun",
+        "en": "Osun",
+        "slug": "osun-ng030"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.749",
+    "lon": "4.569"
+  },
+  "metadata": {},
+  "source": {}
+}

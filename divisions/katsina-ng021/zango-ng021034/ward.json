@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG021034_dargage",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dargage",
+      "en": "Dargage",
+      "slug": "dargage"
+    },
+    "code": {
+      "id": "NG021034_dargage",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021034",
+      "level": 2,
+      "name": {
+        "local": "Zango",
+        "en": "Zango",
+        "slug": "zango-ng021034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021034",
+        "level": 2,
+        "name": {
+          "local": "Zango",
+          "en": "Zango",
+          "slug": "zango-ng021034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.951",
+      "lon": "8.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021034_garni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garni",
+      "en": "Garni",
+      "slug": "garni"
+    },
+    "code": {
+      "id": "NG021034_garni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021034",
+      "level": 2,
+      "name": {
+        "local": "Zango",
+        "en": "Zango",
+        "slug": "zango-ng021034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021034",
+        "level": 2,
+        "name": {
+          "local": "Zango",
+          "en": "Zango",
+          "slug": "zango-ng021034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.951",
+      "lon": "8.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021034_gwamba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwamba",
+      "en": "Gwamba",
+      "slug": "gwamba"
+    },
+    "code": {
+      "id": "NG021034_gwamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021034",
+      "level": 2,
+      "name": {
+        "local": "Zango",
+        "en": "Zango",
+        "slug": "zango-ng021034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021034",
+        "level": 2,
+        "name": {
+          "local": "Zango",
+          "en": "Zango",
+          "slug": "zango-ng021034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.951",
+      "lon": "8.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021034_kanda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanda",
+      "en": "Kanda",
+      "slug": "kanda"
+    },
+    "code": {
+      "id": "NG021034_kanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021034",
+      "level": 2,
+      "name": {
+        "local": "Zango",
+        "en": "Zango",
+        "slug": "zango-ng021034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021034",
+        "level": 2,
+        "name": {
+          "local": "Zango",
+          "en": "Zango",
+          "slug": "zango-ng021034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.951",
+      "lon": "8.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021034_kawarin-kudi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kawarin Kudi",
+      "en": "Kawarin Kudi",
+      "slug": "kawarin-kudi"
+    },
+    "code": {
+      "id": "NG021034_kawarin-kudi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021034",
+      "level": 2,
+      "name": {
+        "local": "Zango",
+        "en": "Zango",
+        "slug": "zango-ng021034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021034",
+        "level": 2,
+        "name": {
+          "local": "Zango",
+          "en": "Zango",
+          "slug": "zango-ng021034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.951",
+      "lon": "8.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021034_kawarin-malawamai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kawarin Malawamai",
+      "en": "Kawarin Malawamai",
+      "slug": "kawarin-malawamai"
+    },
+    "code": {
+      "id": "NG021034_kawarin-malawamai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021034",
+      "level": 2,
+      "name": {
+        "local": "Zango",
+        "en": "Zango",
+        "slug": "zango-ng021034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021034",
+        "level": 2,
+        "name": {
+          "local": "Zango",
+          "en": "Zango",
+          "slug": "zango-ng021034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.951",
+      "lon": "8.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021034_rogogocidari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rogogo/cidari",
+      "en": "Rogogo/cidari",
+      "slug": "rogogocidari"
+    },
+    "code": {
+      "id": "NG021034_rogogocidari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021034",
+      "level": 2,
+      "name": {
+        "local": "Zango",
+        "en": "Zango",
+        "slug": "zango-ng021034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021034",
+        "level": 2,
+        "name": {
+          "local": "Zango",
+          "en": "Zango",
+          "slug": "zango-ng021034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.951",
+      "lon": "8.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021034_sara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sara",
+      "en": "Sara",
+      "slug": "sara"
+    },
+    "code": {
+      "id": "NG021034_sara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021034",
+      "level": 2,
+      "name": {
+        "local": "Zango",
+        "en": "Zango",
+        "slug": "zango-ng021034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021034",
+        "level": 2,
+        "name": {
+          "local": "Zango",
+          "en": "Zango",
+          "slug": "zango-ng021034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.951",
+      "lon": "8.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021034_yardaje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yardaje",
+      "en": "Yardaje",
+      "slug": "yardaje"
+    },
+    "code": {
+      "id": "NG021034_yardaje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021034",
+      "level": 2,
+      "name": {
+        "local": "Zango",
+        "en": "Zango",
+        "slug": "zango-ng021034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021034",
+        "level": 2,
+        "name": {
+          "local": "Zango",
+          "en": "Zango",
+          "slug": "zango-ng021034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.951",
+      "lon": "8.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021034_zango",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zango",
+      "en": "Zango",
+      "slug": "zango"
+    },
+    "code": {
+      "id": "NG021034_zango",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021034",
+      "level": 2,
+      "name": {
+        "local": "Zango",
+        "en": "Zango",
+        "slug": "zango-ng021034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021034",
+        "level": 2,
+        "name": {
+          "local": "Zango",
+          "en": "Zango",
+          "slug": "zango-ng021034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.951",
+      "lon": "8.547"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

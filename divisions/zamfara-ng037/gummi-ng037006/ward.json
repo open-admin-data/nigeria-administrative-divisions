@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG037006_bardoki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bardoki",
+      "en": "Bardoki",
+      "slug": "bardoki"
+    },
+    "code": {
+      "id": "NG037006_bardoki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037006",
+      "level": 2,
+      "name": {
+        "local": "Gummi",
+        "en": "Gummi",
+        "slug": "gummi-ng037006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037006",
+        "level": 2,
+        "name": {
+          "local": "Gummi",
+          "en": "Gummi",
+          "slug": "gummi-ng037006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "5.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037006_birnin-magaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birnin Magaji",
+      "en": "Birnin Magaji",
+      "slug": "birnin-magaji"
+    },
+    "code": {
+      "id": "NG037006_birnin-magaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037006",
+      "level": 2,
+      "name": {
+        "local": "Gummi",
+        "en": "Gummi",
+        "slug": "gummi-ng037006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037006",
+        "level": 2,
+        "name": {
+          "local": "Gummi",
+          "en": "Gummi",
+          "slug": "gummi-ng037006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "5.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037006_birnin-tudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birnin Tudu",
+      "en": "Birnin Tudu",
+      "slug": "birnin-tudu"
+    },
+    "code": {
+      "id": "NG037006_birnin-tudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037006",
+      "level": 2,
+      "name": {
+        "local": "Gummi",
+        "en": "Gummi",
+        "slug": "gummi-ng037006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037006",
+        "level": 2,
+        "name": {
+          "local": "Gummi",
+          "en": "Gummi",
+          "slug": "gummi-ng037006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "5.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037006_falale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Falale",
+      "en": "Falale",
+      "slug": "falale"
+    },
+    "code": {
+      "id": "NG037006_falale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037006",
+      "level": 2,
+      "name": {
+        "local": "Gummi",
+        "en": "Gummi",
+        "slug": "gummi-ng037006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037006",
+        "level": 2,
+        "name": {
+          "local": "Gummi",
+          "en": "Gummi",
+          "slug": "gummi-ng037006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "5.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037006_felfeldu-gamo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Felfeldu / Gamo",
+      "en": "Felfeldu / Gamo",
+      "slug": "felfeldu-gamo"
+    },
+    "code": {
+      "id": "NG037006_felfeldu-gamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037006",
+      "level": 2,
+      "name": {
+        "local": "Gummi",
+        "en": "Gummi",
+        "slug": "gummi-ng037006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037006",
+        "level": 2,
+        "name": {
+          "local": "Gummi",
+          "en": "Gummi",
+          "slug": "gummi-ng037006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "5.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037006_gayari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gayari",
+      "en": "Gayari",
+      "slug": "gayari"
+    },
+    "code": {
+      "id": "NG037006_gayari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037006",
+      "level": 2,
+      "name": {
+        "local": "Gummi",
+        "en": "Gummi",
+        "slug": "gummi-ng037006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037006",
+        "level": 2,
+        "name": {
+          "local": "Gummi",
+          "en": "Gummi",
+          "slug": "gummi-ng037006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "5.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037006_gyalange",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gyalange",
+      "en": "Gyalange",
+      "slug": "gyalange"
+    },
+    "code": {
+      "id": "NG037006_gyalange",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037006",
+      "level": 2,
+      "name": {
+        "local": "Gummi",
+        "en": "Gummi",
+        "slug": "gummi-ng037006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037006",
+        "level": 2,
+        "name": {
+          "local": "Gummi",
+          "en": "Gummi",
+          "slug": "gummi-ng037006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "5.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037006_illelar-awal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Illelar Awal",
+      "en": "Illelar Awal",
+      "slug": "illelar-awal"
+    },
+    "code": {
+      "id": "NG037006_illelar-awal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037006",
+      "level": 2,
+      "name": {
+        "local": "Gummi",
+        "en": "Gummi",
+        "slug": "gummi-ng037006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037006",
+        "level": 2,
+        "name": {
+          "local": "Gummi",
+          "en": "Gummi",
+          "slug": "gummi-ng037006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "5.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037006_magajin-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magajin Gari",
+      "en": "Magajin Gari",
+      "slug": "magajin-gari"
+    },
+    "code": {
+      "id": "NG037006_magajin-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037006",
+      "level": 2,
+      "name": {
+        "local": "Gummi",
+        "en": "Gummi",
+        "slug": "gummi-ng037006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037006",
+        "level": 2,
+        "name": {
+          "local": "Gummi",
+          "en": "Gummi",
+          "slug": "gummi-ng037006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "5.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037006_shiyar-rafi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shiyar Rafi",
+      "en": "Shiyar Rafi",
+      "slug": "shiyar-rafi"
+    },
+    "code": {
+      "id": "NG037006_shiyar-rafi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037006",
+      "level": 2,
+      "name": {
+        "local": "Gummi",
+        "en": "Gummi",
+        "slug": "gummi-ng037006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037006",
+        "level": 2,
+        "name": {
+          "local": "Gummi",
+          "en": "Gummi",
+          "slug": "gummi-ng037006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "5.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037006_ubandawaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ubandawaki",
+      "en": "Ubandawaki",
+      "slug": "ubandawaki"
+    },
+    "code": {
+      "id": "NG037006_ubandawaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037006",
+      "level": 2,
+      "name": {
+        "local": "Gummi",
+        "en": "Gummi",
+        "slug": "gummi-ng037006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037006",
+        "level": 2,
+        "name": {
+          "local": "Gummi",
+          "en": "Gummi",
+          "slug": "gummi-ng037006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "5.153"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

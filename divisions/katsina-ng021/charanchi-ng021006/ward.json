@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG021006_banye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Banye",
+      "en": "Banye",
+      "slug": "banye"
+    },
+    "code": {
+      "id": "NG021006_banye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021006",
+      "level": 2,
+      "name": {
+        "local": "Charanchi",
+        "en": "Charanchi",
+        "slug": "charanchi-ng021006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021006",
+        "level": 2,
+        "name": {
+          "local": "Charanchi",
+          "en": "Charanchi",
+          "slug": "charanchi-ng021006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "7.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021006_charanchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Charanchi",
+      "en": "Charanchi",
+      "slug": "charanchi"
+    },
+    "code": {
+      "id": "NG021006_charanchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021006",
+      "level": 2,
+      "name": {
+        "local": "Charanchi",
+        "en": "Charanchi",
+        "slug": "charanchi-ng021006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021006",
+        "level": 2,
+        "name": {
+          "local": "Charanchi",
+          "en": "Charanchi",
+          "slug": "charanchi-ng021006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "7.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021006_doka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doka",
+      "en": "Doka",
+      "slug": "doka"
+    },
+    "code": {
+      "id": "NG021006_doka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021006",
+      "level": 2,
+      "name": {
+        "local": "Charanchi",
+        "en": "Charanchi",
+        "slug": "charanchi-ng021006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021006",
+        "level": 2,
+        "name": {
+          "local": "Charanchi",
+          "en": "Charanchi",
+          "slug": "charanchi-ng021006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "7.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021006_ganuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ganuwa",
+      "en": "Ganuwa",
+      "slug": "ganuwa"
+    },
+    "code": {
+      "id": "NG021006_ganuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021006",
+      "level": 2,
+      "name": {
+        "local": "Charanchi",
+        "en": "Charanchi",
+        "slug": "charanchi-ng021006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021006",
+        "level": 2,
+        "name": {
+          "local": "Charanchi",
+          "en": "Charanchi",
+          "slug": "charanchi-ng021006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "7.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021006_koda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koda",
+      "en": "Koda",
+      "slug": "koda"
+    },
+    "code": {
+      "id": "NG021006_koda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021006",
+      "level": 2,
+      "name": {
+        "local": "Charanchi",
+        "en": "Charanchi",
+        "slug": "charanchi-ng021006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021006",
+        "level": 2,
+        "name": {
+          "local": "Charanchi",
+          "en": "Charanchi",
+          "slug": "charanchi-ng021006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "7.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021006_kuraye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuraye",
+      "en": "Kuraye",
+      "slug": "kuraye"
+    },
+    "code": {
+      "id": "NG021006_kuraye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021006",
+      "level": 2,
+      "name": {
+        "local": "Charanchi",
+        "en": "Charanchi",
+        "slug": "charanchi-ng021006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021006",
+        "level": 2,
+        "name": {
+          "local": "Charanchi",
+          "en": "Charanchi",
+          "slug": "charanchi-ng021006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "7.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021006_majen-wayya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Majen Wayya",
+      "en": "Majen Wayya",
+      "slug": "majen-wayya"
+    },
+    "code": {
+      "id": "NG021006_majen-wayya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021006",
+      "level": 2,
+      "name": {
+        "local": "Charanchi",
+        "en": "Charanchi",
+        "slug": "charanchi-ng021006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021006",
+        "level": 2,
+        "name": {
+          "local": "Charanchi",
+          "en": "Charanchi",
+          "slug": "charanchi-ng021006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "7.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021006_radda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Radda",
+      "en": "Radda",
+      "slug": "radda"
+    },
+    "code": {
+      "id": "NG021006_radda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021006",
+      "level": 2,
+      "name": {
+        "local": "Charanchi",
+        "en": "Charanchi",
+        "slug": "charanchi-ng021006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021006",
+        "level": 2,
+        "name": {
+          "local": "Charanchi",
+          "en": "Charanchi",
+          "slug": "charanchi-ng021006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "7.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021006_safana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Safana",
+      "en": "Safana",
+      "slug": "safana"
+    },
+    "code": {
+      "id": "NG021006_safana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021006",
+      "level": 2,
+      "name": {
+        "local": "Charanchi",
+        "en": "Charanchi",
+        "slug": "charanchi-ng021006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021006",
+        "level": 2,
+        "name": {
+          "local": "Charanchi",
+          "en": "Charanchi",
+          "slug": "charanchi-ng021006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "7.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021006_tsakatsa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsakatsa",
+      "en": "Tsakatsa",
+      "slug": "tsakatsa"
+    },
+    "code": {
+      "id": "NG021006_tsakatsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021006",
+      "level": 2,
+      "name": {
+        "local": "Charanchi",
+        "en": "Charanchi",
+        "slug": "charanchi-ng021006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021006",
+        "level": 2,
+        "name": {
+          "local": "Charanchi",
+          "en": "Charanchi",
+          "slug": "charanchi-ng021006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "7.677"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

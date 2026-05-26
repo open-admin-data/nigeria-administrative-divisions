@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG021009_dabai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dabai",
+      "en": "Dabai",
+      "slug": "dabai"
+    },
+    "code": {
+      "id": "NG021009_dabai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021009",
+      "level": 2,
+      "name": {
+        "local": "Danja",
+        "en": "Danja",
+        "slug": "danja-ng021009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021009",
+        "level": 2,
+        "name": {
+          "local": "Danja",
+          "en": "Danja",
+          "slug": "danja-ng021009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.41",
+      "lon": "7.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021009_danja-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danja A",
+      "en": "Danja A",
+      "slug": "danja-a"
+    },
+    "code": {
+      "id": "NG021009_danja-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021009",
+      "level": 2,
+      "name": {
+        "local": "Danja",
+        "en": "Danja",
+        "slug": "danja-ng021009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021009",
+        "level": 2,
+        "name": {
+          "local": "Danja",
+          "en": "Danja",
+          "slug": "danja-ng021009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.41",
+      "lon": "7.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021009_danja-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danja B",
+      "en": "Danja B",
+      "slug": "danja-b"
+    },
+    "code": {
+      "id": "NG021009_danja-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021009",
+      "level": 2,
+      "name": {
+        "local": "Danja",
+        "en": "Danja",
+        "slug": "danja-ng021009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021009",
+        "level": 2,
+        "name": {
+          "local": "Danja",
+          "en": "Danja",
+          "slug": "danja-ng021009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.41",
+      "lon": "7.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021009_jiba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jiba",
+      "en": "Jiba",
+      "slug": "jiba"
+    },
+    "code": {
+      "id": "NG021009_jiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021009",
+      "level": 2,
+      "name": {
+        "local": "Danja",
+        "en": "Danja",
+        "slug": "danja-ng021009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021009",
+        "level": 2,
+        "name": {
+          "local": "Danja",
+          "en": "Danja",
+          "slug": "danja-ng021009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.41",
+      "lon": "7.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021009_kahutu-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kahutu A",
+      "en": "Kahutu A",
+      "slug": "kahutu-a"
+    },
+    "code": {
+      "id": "NG021009_kahutu-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021009",
+      "level": 2,
+      "name": {
+        "local": "Danja",
+        "en": "Danja",
+        "slug": "danja-ng021009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021009",
+        "level": 2,
+        "name": {
+          "local": "Danja",
+          "en": "Danja",
+          "slug": "danja-ng021009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.41",
+      "lon": "7.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021009_kahutu-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kahutu B",
+      "en": "Kahutu B",
+      "slug": "kahutu-b"
+    },
+    "code": {
+      "id": "NG021009_kahutu-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021009",
+      "level": 2,
+      "name": {
+        "local": "Danja",
+        "en": "Danja",
+        "slug": "danja-ng021009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021009",
+        "level": 2,
+        "name": {
+          "local": "Danja",
+          "en": "Danja",
+          "slug": "danja-ng021009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.41",
+      "lon": "7.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021009_tandama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tandama",
+      "en": "Tandama",
+      "slug": "tandama"
+    },
+    "code": {
+      "id": "NG021009_tandama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021009",
+      "level": 2,
+      "name": {
+        "local": "Danja",
+        "en": "Danja",
+        "slug": "danja-ng021009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021009",
+        "level": 2,
+        "name": {
+          "local": "Danja",
+          "en": "Danja",
+          "slug": "danja-ng021009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.41",
+      "lon": "7.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021009_tsangamawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsangamawa",
+      "en": "Tsangamawa",
+      "slug": "tsangamawa"
+    },
+    "code": {
+      "id": "NG021009_tsangamawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021009",
+      "level": 2,
+      "name": {
+        "local": "Danja",
+        "en": "Danja",
+        "slug": "danja-ng021009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021009",
+        "level": 2,
+        "name": {
+          "local": "Danja",
+          "en": "Danja",
+          "slug": "danja-ng021009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.41",
+      "lon": "7.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021009_yakaji-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yakaji A",
+      "en": "Yakaji A",
+      "slug": "yakaji-a"
+    },
+    "code": {
+      "id": "NG021009_yakaji-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021009",
+      "level": 2,
+      "name": {
+        "local": "Danja",
+        "en": "Danja",
+        "slug": "danja-ng021009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021009",
+        "level": 2,
+        "name": {
+          "local": "Danja",
+          "en": "Danja",
+          "slug": "danja-ng021009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.41",
+      "lon": "7.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021009_yakaji-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yakaji B",
+      "en": "Yakaji B",
+      "slug": "yakaji-b"
+    },
+    "code": {
+      "id": "NG021009_yakaji-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021009",
+      "level": 2,
+      "name": {
+        "local": "Danja",
+        "en": "Danja",
+        "slug": "danja-ng021009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021009",
+        "level": 2,
+        "name": {
+          "local": "Danja",
+          "en": "Danja",
+          "slug": "danja-ng021009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.41",
+      "lon": "7.596"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

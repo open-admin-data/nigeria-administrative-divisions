@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG032012_baltep",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baltep",
+      "en": "Baltep",
+      "slug": "baltep"
+    },
+    "code": {
+      "id": "NG032012_baltep",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032012",
+      "level": 2,
+      "name": {
+        "local": "Mikang",
+        "en": "Mikang",
+        "slug": "mikang-ng032012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032012",
+        "level": 2,
+        "name": {
+          "local": "Mikang",
+          "en": "Mikang",
+          "slug": "mikang-ng032012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "9.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032012_garkawa-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garkawa Central",
+      "en": "Garkawa Central",
+      "slug": "garkawa-central"
+    },
+    "code": {
+      "id": "NG032012_garkawa-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032012",
+      "level": 2,
+      "name": {
+        "local": "Mikang",
+        "en": "Mikang",
+        "slug": "mikang-ng032012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032012",
+        "level": 2,
+        "name": {
+          "local": "Mikang",
+          "en": "Mikang",
+          "slug": "mikang-ng032012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "9.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032012_garkawa-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garkawa North",
+      "en": "Garkawa North",
+      "slug": "garkawa-north"
+    },
+    "code": {
+      "id": "NG032012_garkawa-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032012",
+      "level": 2,
+      "name": {
+        "local": "Mikang",
+        "en": "Mikang",
+        "slug": "mikang-ng032012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032012",
+        "level": 2,
+        "name": {
+          "local": "Mikang",
+          "en": "Mikang",
+          "slug": "mikang-ng032012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "9.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032012_garkawa-north-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garkawa North East",
+      "en": "Garkawa North East",
+      "slug": "garkawa-north-east"
+    },
+    "code": {
+      "id": "NG032012_garkawa-north-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032012",
+      "level": 2,
+      "name": {
+        "local": "Mikang",
+        "en": "Mikang",
+        "slug": "mikang-ng032012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032012",
+        "level": 2,
+        "name": {
+          "local": "Mikang",
+          "en": "Mikang",
+          "slug": "mikang-ng032012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "9.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032012_koenoem-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koenoem 'a'",
+      "en": "Koenoem 'a'",
+      "slug": "koenoem-a"
+    },
+    "code": {
+      "id": "NG032012_koenoem-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032012",
+      "level": 2,
+      "name": {
+        "local": "Mikang",
+        "en": "Mikang",
+        "slug": "mikang-ng032012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032012",
+        "level": 2,
+        "name": {
+          "local": "Mikang",
+          "en": "Mikang",
+          "slug": "mikang-ng032012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "9.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032012_koenoem-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koenoem 'b'",
+      "en": "Koenoem 'b'",
+      "slug": "koenoem-b"
+    },
+    "code": {
+      "id": "NG032012_koenoem-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032012",
+      "level": 2,
+      "name": {
+        "local": "Mikang",
+        "en": "Mikang",
+        "slug": "mikang-ng032012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032012",
+        "level": 2,
+        "name": {
+          "local": "Mikang",
+          "en": "Mikang",
+          "slug": "mikang-ng032012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "9.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032012_lalin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lalin",
+      "en": "Lalin",
+      "slug": "lalin"
+    },
+    "code": {
+      "id": "NG032012_lalin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032012",
+      "level": 2,
+      "name": {
+        "local": "Mikang",
+        "en": "Mikang",
+        "slug": "mikang-ng032012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032012",
+        "level": 2,
+        "name": {
+          "local": "Mikang",
+          "en": "Mikang",
+          "slug": "mikang-ng032012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "9.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032012_piapung-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Piapung 'a'",
+      "en": "Piapung 'a'",
+      "slug": "piapung-a"
+    },
+    "code": {
+      "id": "NG032012_piapung-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032012",
+      "level": 2,
+      "name": {
+        "local": "Mikang",
+        "en": "Mikang",
+        "slug": "mikang-ng032012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032012",
+        "level": 2,
+        "name": {
+          "local": "Mikang",
+          "en": "Mikang",
+          "slug": "mikang-ng032012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "9.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032012_piapung-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Piapung 'b'",
+      "en": "Piapung 'b'",
+      "slug": "piapung-b"
+    },
+    "code": {
+      "id": "NG032012_piapung-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032012",
+      "level": 2,
+      "name": {
+        "local": "Mikang",
+        "en": "Mikang",
+        "slug": "mikang-ng032012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032012",
+        "level": 2,
+        "name": {
+          "local": "Mikang",
+          "en": "Mikang",
+          "slug": "mikang-ng032012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "9.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032012_tunkus",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tunkus",
+      "en": "Tunkus",
+      "slug": "tunkus"
+    },
+    "code": {
+      "id": "NG032012_tunkus",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032012",
+      "level": 2,
+      "name": {
+        "local": "Mikang",
+        "en": "Mikang",
+        "slug": "mikang-ng032012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032012",
+        "level": 2,
+        "name": {
+          "local": "Mikang",
+          "en": "Mikang",
+          "slug": "mikang-ng032012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "9.576"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

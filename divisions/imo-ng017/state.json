@@ -1,0 +1,30 @@
+{
+  "id": "NG017",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Imo",
+    "en": "Imo",
+    "slug": "imo-ng017"
+  },
+  "code": {
+    "id": "NG017",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 27,
+    "ward": 305
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.566",
+    "lon": "7.033"
+  },
+  "metadata": {},
+  "source": {}
+}

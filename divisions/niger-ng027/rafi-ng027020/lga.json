@@ -1,0 +1,47 @@
+{
+  "id": "NG027020",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Rafi",
+    "en": "Rafi",
+    "slug": "rafi-ng027020"
+  },
+  "code": {
+    "id": "NG027020",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG027",
+    "level": 1,
+    "name": {
+      "local": "Niger",
+      "en": "Niger",
+      "slug": "niger-ng027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG027",
+      "level": 1,
+      "name": {
+        "local": "Niger",
+        "en": "Niger",
+        "slug": "niger-ng027"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.215",
+    "lon": "6.221"
+  },
+  "metadata": {},
+  "source": {}
+}

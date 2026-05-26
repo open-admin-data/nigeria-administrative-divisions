@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG005014_ajilingugulin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajilin/gugulin",
+      "en": "Ajilin/gugulin",
+      "slug": "ajilingugulin"
+    },
+    "code": {
+      "id": "NG005014_ajilingugulin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005014",
+      "level": 2,
+      "name": {
+        "local": "Misau",
+        "en": "Misau",
+        "slug": "misau-ng005014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005014",
+        "level": 2,
+        "name": {
+          "local": "Misau",
+          "en": "Misau",
+          "slug": "misau-ng005014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.389",
+      "lon": "10.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005014_beti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Beti",
+      "en": "Beti",
+      "slug": "beti"
+    },
+    "code": {
+      "id": "NG005014_beti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005014",
+      "level": 2,
+      "name": {
+        "local": "Misau",
+        "en": "Misau",
+        "slug": "misau-ng005014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005014",
+        "level": 2,
+        "name": {
+          "local": "Misau",
+          "en": "Misau",
+          "slug": "misau-ng005014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.389",
+      "lon": "10.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005014_gwaram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwaram",
+      "en": "Gwaram",
+      "slug": "gwaram"
+    },
+    "code": {
+      "id": "NG005014_gwaram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005014",
+      "level": 2,
+      "name": {
+        "local": "Misau",
+        "en": "Misau",
+        "slug": "misau-ng005014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005014",
+        "level": 2,
+        "name": {
+          "local": "Misau",
+          "en": "Misau",
+          "slug": "misau-ng005014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.389",
+      "lon": "10.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005014_hardawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hardawa",
+      "en": "Hardawa",
+      "slug": "hardawa"
+    },
+    "code": {
+      "id": "NG005014_hardawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005014",
+      "level": 2,
+      "name": {
+        "local": "Misau",
+        "en": "Misau",
+        "slug": "misau-ng005014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005014",
+        "level": 2,
+        "name": {
+          "local": "Misau",
+          "en": "Misau",
+          "slug": "misau-ng005014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.389",
+      "lon": "10.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005014_jarkasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jarkasa",
+      "en": "Jarkasa",
+      "slug": "jarkasa"
+    },
+    "code": {
+      "id": "NG005014_jarkasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005014",
+      "level": 2,
+      "name": {
+        "local": "Misau",
+        "en": "Misau",
+        "slug": "misau-ng005014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005014",
+        "level": 2,
+        "name": {
+          "local": "Misau",
+          "en": "Misau",
+          "slug": "misau-ng005014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.389",
+      "lon": "10.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005014_kukadigundari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kukadi/gundari",
+      "en": "Kukadi/gundari",
+      "slug": "kukadigundari"
+    },
+    "code": {
+      "id": "NG005014_kukadigundari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005014",
+      "level": 2,
+      "name": {
+        "local": "Misau",
+        "en": "Misau",
+        "slug": "misau-ng005014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005014",
+        "level": 2,
+        "name": {
+          "local": "Misau",
+          "en": "Misau",
+          "slug": "misau-ng005014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.389",
+      "lon": "10.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005014_sarmaakuyam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarma/akuyam",
+      "en": "Sarma/akuyam",
+      "slug": "sarmaakuyam"
+    },
+    "code": {
+      "id": "NG005014_sarmaakuyam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005014",
+      "level": 2,
+      "name": {
+        "local": "Misau",
+        "en": "Misau",
+        "slug": "misau-ng005014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005014",
+        "level": 2,
+        "name": {
+          "local": "Misau",
+          "en": "Misau",
+          "slug": "misau-ng005014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.389",
+      "lon": "10.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005014_sirko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sirko",
+      "en": "Sirko",
+      "slug": "sirko"
+    },
+    "code": {
+      "id": "NG005014_sirko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005014",
+      "level": 2,
+      "name": {
+        "local": "Misau",
+        "en": "Misau",
+        "slug": "misau-ng005014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005014",
+        "level": 2,
+        "name": {
+          "local": "Misau",
+          "en": "Misau",
+          "slug": "misau-ng005014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.389",
+      "lon": "10.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005014_tofu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tofu",
+      "en": "Tofu",
+      "slug": "tofu"
+    },
+    "code": {
+      "id": "NG005014_tofu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005014",
+      "level": 2,
+      "name": {
+        "local": "Misau",
+        "en": "Misau",
+        "slug": "misau-ng005014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005014",
+        "level": 2,
+        "name": {
+          "local": "Misau",
+          "en": "Misau",
+          "slug": "misau-ng005014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.389",
+      "lon": "10.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005014_zadawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zadawa",
+      "en": "Zadawa",
+      "slug": "zadawa"
+    },
+    "code": {
+      "id": "NG005014_zadawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005014",
+      "level": 2,
+      "name": {
+        "local": "Misau",
+        "en": "Misau",
+        "slug": "misau-ng005014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005014",
+        "level": 2,
+        "name": {
+          "local": "Misau",
+          "en": "Misau",
+          "slug": "misau-ng005014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.389",
+      "lon": "10.463"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG022014_andarai-kurunkudu-zugun-liba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Andarai/ Kurunkudu/ Zugun Liba",
+      "en": "Andarai/ Kurunkudu/ Zugun Liba",
+      "slug": "andarai-kurunkudu-zugun-liba"
+    },
+    "code": {
+      "id": "NG022014_andarai-kurunkudu-zugun-liba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022014",
+      "level": 2,
+      "name": {
+        "local": "Maiyama",
+        "en": "Maiyama",
+        "slug": "maiyama-ng022014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022014",
+        "level": 2,
+        "name": {
+          "local": "Maiyama",
+          "en": "Maiyama",
+          "slug": "maiyama-ng022014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.008",
+      "lon": "4.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022014_giwa-tazozara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Giwa Tazo/zara",
+      "en": "Giwa Tazo/zara",
+      "slug": "giwa-tazozara"
+    },
+    "code": {
+      "id": "NG022014_giwa-tazozara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022014",
+      "level": 2,
+      "name": {
+        "local": "Maiyama",
+        "en": "Maiyama",
+        "slug": "maiyama-ng022014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022014",
+        "level": 2,
+        "name": {
+          "local": "Maiyama",
+          "en": "Maiyama",
+          "slug": "maiyama-ng022014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.008",
+      "lon": "4.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022014_gumbin-kure",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gumbin Kure",
+      "en": "Gumbin Kure",
+      "slug": "gumbin-kure"
+    },
+    "code": {
+      "id": "NG022014_gumbin-kure",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022014",
+      "level": 2,
+      "name": {
+        "local": "Maiyama",
+        "en": "Maiyama",
+        "slug": "maiyama-ng022014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022014",
+        "level": 2,
+        "name": {
+          "local": "Maiyama",
+          "en": "Maiyama",
+          "slug": "maiyama-ng022014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.008",
+      "lon": "4.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022014_karayedogondaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karaye/dogondaji",
+      "en": "Karaye/dogondaji",
+      "slug": "karayedogondaji"
+    },
+    "code": {
+      "id": "NG022014_karayedogondaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022014",
+      "level": 2,
+      "name": {
+        "local": "Maiyama",
+        "en": "Maiyama",
+        "slug": "maiyama-ng022014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022014",
+        "level": 2,
+        "name": {
+          "local": "Maiyama",
+          "en": "Maiyama",
+          "slug": "maiyama-ng022014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.008",
+      "lon": "4.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022014_kawarassarayarkamba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kawara/s/sara/yarkamba",
+      "en": "Kawara/s/sara/yarkamba",
+      "slug": "kawarassarayarkamba"
+    },
+    "code": {
+      "id": "NG022014_kawarassarayarkamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022014",
+      "level": 2,
+      "name": {
+        "local": "Maiyama",
+        "en": "Maiyama",
+        "slug": "maiyama-ng022014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022014",
+        "level": 2,
+        "name": {
+          "local": "Maiyama",
+          "en": "Maiyama",
+          "slug": "maiyama-ng022014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.008",
+      "lon": "4.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022014_kuberi-gidiga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuberi / Gidiga",
+      "en": "Kuberi / Gidiga",
+      "slug": "kuberi-gidiga"
+    },
+    "code": {
+      "id": "NG022014_kuberi-gidiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022014",
+      "level": 2,
+      "name": {
+        "local": "Maiyama",
+        "en": "Maiyama",
+        "slug": "maiyama-ng022014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022014",
+        "level": 2,
+        "name": {
+          "local": "Maiyama",
+          "en": "Maiyama",
+          "slug": "maiyama-ng022014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.008",
+      "lon": "4.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022014_libadanwakuka-kogo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Liba/danwa/kuka Kogo",
+      "en": "Liba/danwa/kuka Kogo",
+      "slug": "libadanwakuka-kogo"
+    },
+    "code": {
+      "id": "NG022014_libadanwakuka-kogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022014",
+      "level": 2,
+      "name": {
+        "local": "Maiyama",
+        "en": "Maiyama",
+        "slug": "maiyama-ng022014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022014",
+        "level": 2,
+        "name": {
+          "local": "Maiyama",
+          "en": "Maiyama",
+          "slug": "maiyama-ng022014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.008",
+      "lon": "4.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022014_maiyama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maiyama",
+      "en": "Maiyama",
+      "slug": "maiyama"
+    },
+    "code": {
+      "id": "NG022014_maiyama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022014",
+      "level": 2,
+      "name": {
+        "local": "Maiyama",
+        "en": "Maiyama",
+        "slug": "maiyama-ng022014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022014",
+        "level": 2,
+        "name": {
+          "local": "Maiyama",
+          "en": "Maiyama",
+          "slug": "maiyama-ng022014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.008",
+      "lon": "4.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022014_mungadibotoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mungadi/botoro",
+      "en": "Mungadi/botoro",
+      "slug": "mungadibotoro"
+    },
+    "code": {
+      "id": "NG022014_mungadibotoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022014",
+      "level": 2,
+      "name": {
+        "local": "Maiyama",
+        "en": "Maiyama",
+        "slug": "maiyama-ng022014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022014",
+        "level": 2,
+        "name": {
+          "local": "Maiyama",
+          "en": "Maiyama",
+          "slug": "maiyama-ng022014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.008",
+      "lon": "4.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022014_sambawamayalo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sambawa/mayalo",
+      "en": "Sambawa/mayalo",
+      "slug": "sambawamayalo"
+    },
+    "code": {
+      "id": "NG022014_sambawamayalo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022014",
+      "level": 2,
+      "name": {
+        "local": "Maiyama",
+        "en": "Maiyama",
+        "slug": "maiyama-ng022014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022014",
+        "level": 2,
+        "name": {
+          "local": "Maiyama",
+          "en": "Maiyama",
+          "slug": "maiyama-ng022014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.008",
+      "lon": "4.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022014_sarandosagubba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarandosa/gubba",
+      "en": "Sarandosa/gubba",
+      "slug": "sarandosagubba"
+    },
+    "code": {
+      "id": "NG022014_sarandosagubba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022014",
+      "level": 2,
+      "name": {
+        "local": "Maiyama",
+        "en": "Maiyama",
+        "slug": "maiyama-ng022014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022014",
+        "level": 2,
+        "name": {
+          "local": "Maiyama",
+          "en": "Maiyama",
+          "slug": "maiyama-ng022014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.008",
+      "lon": "4.29"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

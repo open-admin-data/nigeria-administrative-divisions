@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG025011_adekunle-villadeniyi-jonesogba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adekunle Vill./adeniyi Jones/ogba",
+      "en": "Adekunle Vill./adeniyi Jones/ogba",
+      "slug": "adekunle-villadeniyi-jonesogba"
+    },
+    "code": {
+      "id": "NG025011_adekunle-villadeniyi-jonesogba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025011",
+      "level": 2,
+      "name": {
+        "local": "Ikeja",
+        "en": "Ikeja",
+        "slug": "ikeja-ng025011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025011",
+        "level": 2,
+        "name": {
+          "local": "Ikeja",
+          "en": "Ikeja",
+          "slug": "ikeja-ng025011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.605",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025011_airportonipetesionilekere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Airport/onipetesi/onilekere",
+      "en": "Airport/onipetesi/onilekere",
+      "slug": "airportonipetesionilekere"
+    },
+    "code": {
+      "id": "NG025011_airportonipetesionilekere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025011",
+      "level": 2,
+      "name": {
+        "local": "Ikeja",
+        "en": "Ikeja",
+        "slug": "ikeja-ng025011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025011",
+        "level": 2,
+        "name": {
+          "local": "Ikeja",
+          "en": "Ikeja",
+          "slug": "ikeja-ng025011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.605",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025011_alausaoregunolusosun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alausa/oregun/olusosun",
+      "en": "Alausa/oregun/olusosun",
+      "slug": "alausaoregunolusosun"
+    },
+    "code": {
+      "id": "NG025011_alausaoregunolusosun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025011",
+      "level": 2,
+      "name": {
+        "local": "Ikeja",
+        "en": "Ikeja",
+        "slug": "ikeja-ng025011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025011",
+        "level": 2,
+        "name": {
+          "local": "Ikeja",
+          "en": "Ikeja",
+          "slug": "ikeja-ng025011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.605",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025011_anifowosheikeja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Anifowoshe/ikeja",
+      "en": "Anifowoshe/ikeja",
+      "slug": "anifowosheikeja"
+    },
+    "code": {
+      "id": "NG025011_anifowosheikeja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025011",
+      "level": 2,
+      "name": {
+        "local": "Ikeja",
+        "en": "Ikeja",
+        "slug": "ikeja-ng025011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025011",
+        "level": 2,
+        "name": {
+          "local": "Ikeja",
+          "en": "Ikeja",
+          "slug": "ikeja-ng025011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.605",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025011_grapolice-barracks",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gra/police Barracks",
+      "en": "Gra/police Barracks",
+      "slug": "grapolice-barracks"
+    },
+    "code": {
+      "id": "NG025011_grapolice-barracks",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025011",
+      "level": 2,
+      "name": {
+        "local": "Ikeja",
+        "en": "Ikeja",
+        "slug": "ikeja-ng025011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025011",
+        "level": 2,
+        "name": {
+          "local": "Ikeja",
+          "en": "Ikeja",
+          "slug": "ikeja-ng025011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.605",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025011_ipodoseriki-aro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipodo/seriki Aro",
+      "en": "Ipodo/seriki Aro",
+      "slug": "ipodoseriki-aro"
+    },
+    "code": {
+      "id": "NG025011_ipodoseriki-aro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025011",
+      "level": 2,
+      "name": {
+        "local": "Ikeja",
+        "en": "Ikeja",
+        "slug": "ikeja-ng025011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025011",
+        "level": 2,
+        "name": {
+          "local": "Ikeja",
+          "en": "Ikeja",
+          "slug": "ikeja-ng025011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.605",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025011_ojoduagidingbiomole",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojodu/agidingbi/omole",
+      "en": "Ojodu/agidingbi/omole",
+      "slug": "ojoduagidingbiomole"
+    },
+    "code": {
+      "id": "NG025011_ojoduagidingbiomole",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025011",
+      "level": 2,
+      "name": {
+        "local": "Ikeja",
+        "en": "Ikeja",
+        "slug": "ikeja-ng025011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025011",
+        "level": 2,
+        "name": {
+          "local": "Ikeja",
+          "en": "Ikeja",
+          "slug": "ikeja-ng025011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.605",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025011_oke-iraaguda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke-ira/aguda",
+      "en": "Oke-ira/aguda",
+      "slug": "oke-iraaguda"
+    },
+    "code": {
+      "id": "NG025011_oke-iraaguda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025011",
+      "level": 2,
+      "name": {
+        "local": "Ikeja",
+        "en": "Ikeja",
+        "slug": "ikeja-ng025011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025011",
+        "level": 2,
+        "name": {
+          "local": "Ikeja",
+          "en": "Ikeja",
+          "slug": "ikeja-ng025011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.605",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025011_onigbongbomilitary-cantonment",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Onigbongbo/military Cantonment",
+      "en": "Onigbongbo/military Cantonment",
+      "slug": "onigbongbomilitary-cantonment"
+    },
+    "code": {
+      "id": "NG025011_onigbongbomilitary-cantonment",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025011",
+      "level": 2,
+      "name": {
+        "local": "Ikeja",
+        "en": "Ikeja",
+        "slug": "ikeja-ng025011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025011",
+        "level": 2,
+        "name": {
+          "local": "Ikeja",
+          "en": "Ikeja",
+          "slug": "ikeja-ng025011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.605",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025011_wasimiopebiallen",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wasimi/opebi/allen",
+      "en": "Wasimi/opebi/allen",
+      "slug": "wasimiopebiallen"
+    },
+    "code": {
+      "id": "NG025011_wasimiopebiallen",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025011",
+      "level": 2,
+      "name": {
+        "local": "Ikeja",
+        "en": "Ikeja",
+        "slug": "ikeja-ng025011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025011",
+        "level": 2,
+        "name": {
+          "local": "Ikeja",
+          "en": "Ikeja",
+          "slug": "ikeja-ng025011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.605",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

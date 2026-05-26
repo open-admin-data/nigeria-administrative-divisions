@@ -1,0 +1,47 @@
+{
+  "id": "NG013014",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ise/Orun",
+    "en": "Ise/Orun",
+    "slug": "iseorun-ng013014"
+  },
+  "code": {
+    "id": "NG013014",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG013",
+    "level": 1,
+    "name": {
+      "local": "Ekiti",
+      "en": "Ekiti",
+      "slug": "ekiti-ng013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG013",
+      "level": 1,
+      "name": {
+        "local": "Ekiti",
+        "en": "Ekiti",
+        "slug": "ekiti-ng013"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.415",
+    "lon": "5.387"
+  },
+  "metadata": {},
+  "source": {}
+}

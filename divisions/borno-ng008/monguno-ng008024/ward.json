@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG008024_damakuli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damakuli",
+      "en": "Damakuli",
+      "slug": "damakuli"
+    },
+    "code": {
+      "id": "NG008024_damakuli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008024",
+      "level": 2,
+      "name": {
+        "local": "Monguno",
+        "en": "Monguno",
+        "slug": "monguno-ng008024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008024",
+        "level": 2,
+        "name": {
+          "local": "Monguno",
+          "en": "Monguno",
+          "slug": "monguno-ng008024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.274",
+      "lon": "13.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008024_kaguram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaguram",
+      "en": "Kaguram",
+      "slug": "kaguram"
+    },
+    "code": {
+      "id": "NG008024_kaguram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008024",
+      "level": 2,
+      "name": {
+        "local": "Monguno",
+        "en": "Monguno",
+        "slug": "monguno-ng008024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008024",
+        "level": 2,
+        "name": {
+          "local": "Monguno",
+          "en": "Monguno",
+          "slug": "monguno-ng008024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.615",
+      "lon": "13.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008024_kumalia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumalia",
+      "en": "Kumalia",
+      "slug": "kumalia"
+    },
+    "code": {
+      "id": "NG008024_kumalia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008024",
+      "level": 2,
+      "name": {
+        "local": "Monguno",
+        "en": "Monguno",
+        "slug": "monguno-ng008024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008024",
+        "level": 2,
+        "name": {
+          "local": "Monguno",
+          "en": "Monguno",
+          "slug": "monguno-ng008024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "13.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008024_mandala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mandala",
+      "en": "Mandala",
+      "slug": "mandala"
+    },
+    "code": {
+      "id": "NG008024_mandala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008024",
+      "level": 2,
+      "name": {
+        "local": "Monguno",
+        "en": "Monguno",
+        "slug": "monguno-ng008024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008024",
+        "level": 2,
+        "name": {
+          "local": "Monguno",
+          "en": "Monguno",
+          "slug": "monguno-ng008024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "13.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008024_mintar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mintar",
+      "en": "Mintar",
+      "slug": "mintar"
+    },
+    "code": {
+      "id": "NG008024_mintar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008024",
+      "level": 2,
+      "name": {
+        "local": "Monguno",
+        "en": "Monguno",
+        "slug": "monguno-ng008024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008024",
+        "level": 2,
+        "name": {
+          "local": "Monguno",
+          "en": "Monguno",
+          "slug": "monguno-ng008024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.617",
+      "lon": "13.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008024_mofio",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mofio",
+      "en": "Mofio",
+      "slug": "mofio"
+    },
+    "code": {
+      "id": "NG008024_mofio",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008024",
+      "level": 2,
+      "name": {
+        "local": "Monguno",
+        "en": "Monguno",
+        "slug": "monguno-ng008024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008024",
+        "level": 2,
+        "name": {
+          "local": "Monguno",
+          "en": "Monguno",
+          "slug": "monguno-ng008024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.33",
+      "lon": "13.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008024_monguno",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Monguno",
+      "en": "Monguno",
+      "slug": "monguno"
+    },
+    "code": {
+      "id": "NG008024_monguno",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008024",
+      "level": 2,
+      "name": {
+        "local": "Monguno",
+        "en": "Monguno",
+        "slug": "monguno-ng008024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008024",
+        "level": 2,
+        "name": {
+          "local": "Monguno",
+          "en": "Monguno",
+          "slug": "monguno-ng008024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.618",
+      "lon": "13.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008024_ngurno",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngurno",
+      "en": "Ngurno",
+      "slug": "ngurno"
+    },
+    "code": {
+      "id": "NG008024_ngurno",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008024",
+      "level": 2,
+      "name": {
+        "local": "Monguno",
+        "en": "Monguno",
+        "slug": "monguno-ng008024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008024",
+        "level": 2,
+        "name": {
+          "local": "Monguno",
+          "en": "Monguno",
+          "slug": "monguno-ng008024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.711",
+      "lon": "13.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008024_sure",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sure",
+      "en": "Sure",
+      "slug": "sure"
+    },
+    "code": {
+      "id": "NG008024_sure",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008024",
+      "level": 2,
+      "name": {
+        "local": "Monguno",
+        "en": "Monguno",
+        "slug": "monguno-ng008024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008024",
+        "level": 2,
+        "name": {
+          "local": "Monguno",
+          "en": "Monguno",
+          "slug": "monguno-ng008024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.426",
+      "lon": "13.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008024_wulo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wulo",
+      "en": "Wulo",
+      "slug": "wulo"
+    },
+    "code": {
+      "id": "NG008024_wulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008024",
+      "level": 2,
+      "name": {
+        "local": "Monguno",
+        "en": "Monguno",
+        "slug": "monguno-ng008024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008024",
+        "level": 2,
+        "name": {
+          "local": "Monguno",
+          "en": "Monguno",
+          "slug": "monguno-ng008024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.497",
+      "lon": "13.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008024_yele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yele",
+      "en": "Yele",
+      "slug": "yele"
+    },
+    "code": {
+      "id": "NG008024_yele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008024",
+      "level": 2,
+      "name": {
+        "local": "Monguno",
+        "en": "Monguno",
+        "slug": "monguno-ng008024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008024",
+        "level": 2,
+        "name": {
+          "local": "Monguno",
+          "en": "Monguno",
+          "slug": "monguno-ng008024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.415",
+      "lon": "13.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008024_zulum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zulum",
+      "en": "Zulum",
+      "slug": "zulum"
+    },
+    "code": {
+      "id": "NG008024_zulum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008024",
+      "level": 2,
+      "name": {
+        "local": "Monguno",
+        "en": "Monguno",
+        "slug": "monguno-ng008024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008024",
+        "level": 2,
+        "name": {
+          "local": "Monguno",
+          "en": "Monguno",
+          "slug": "monguno-ng008024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.481",
+      "lon": "13.347"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

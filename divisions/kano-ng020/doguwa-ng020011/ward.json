@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020011_dariya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dariya",
+      "en": "Dariya",
+      "slug": "dariya"
+    },
+    "code": {
+      "id": "NG020011_dariya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020011",
+      "level": 2,
+      "name": {
+        "local": "Doguwa",
+        "en": "Doguwa",
+        "slug": "doguwa-ng020011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020011",
+        "level": 2,
+        "name": {
+          "local": "Doguwa",
+          "en": "Doguwa",
+          "slug": "doguwa-ng020011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "8.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020011_dogon-kawo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dogon Kawo",
+      "en": "Dogon Kawo",
+      "slug": "dogon-kawo"
+    },
+    "code": {
+      "id": "NG020011_dogon-kawo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020011",
+      "level": 2,
+      "name": {
+        "local": "Doguwa",
+        "en": "Doguwa",
+        "slug": "doguwa-ng020011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020011",
+        "level": 2,
+        "name": {
+          "local": "Doguwa",
+          "en": "Doguwa",
+          "slug": "doguwa-ng020011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "8.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020011_duguwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Duguwa",
+      "en": "Duguwa",
+      "slug": "duguwa"
+    },
+    "code": {
+      "id": "NG020011_duguwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020011",
+      "level": 2,
+      "name": {
+        "local": "Doguwa",
+        "en": "Doguwa",
+        "slug": "doguwa-ng020011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020011",
+        "level": 2,
+        "name": {
+          "local": "Doguwa",
+          "en": "Doguwa",
+          "slug": "doguwa-ng020011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "8.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020011_falgore",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Falgore",
+      "en": "Falgore",
+      "slug": "falgore"
+    },
+    "code": {
+      "id": "NG020011_falgore",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020011",
+      "level": 2,
+      "name": {
+        "local": "Doguwa",
+        "en": "Doguwa",
+        "slug": "doguwa-ng020011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020011",
+        "level": 2,
+        "name": {
+          "local": "Doguwa",
+          "en": "Doguwa",
+          "slug": "doguwa-ng020011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "8.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020011_maraku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maraku",
+      "en": "Maraku",
+      "slug": "maraku"
+    },
+    "code": {
+      "id": "NG020011_maraku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020011",
+      "level": 2,
+      "name": {
+        "local": "Doguwa",
+        "en": "Doguwa",
+        "slug": "doguwa-ng020011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020011",
+        "level": 2,
+        "name": {
+          "local": "Doguwa",
+          "en": "Doguwa",
+          "slug": "doguwa-ng020011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "8.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020011_ragada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ragada",
+      "en": "Ragada",
+      "slug": "ragada"
+    },
+    "code": {
+      "id": "NG020011_ragada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020011",
+      "level": 2,
+      "name": {
+        "local": "Doguwa",
+        "en": "Doguwa",
+        "slug": "doguwa-ng020011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020011",
+        "level": 2,
+        "name": {
+          "local": "Doguwa",
+          "en": "Doguwa",
+          "slug": "doguwa-ng020011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "8.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020011_ririwai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ririwai",
+      "en": "Ririwai",
+      "slug": "ririwai"
+    },
+    "code": {
+      "id": "NG020011_ririwai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020011",
+      "level": 2,
+      "name": {
+        "local": "Doguwa",
+        "en": "Doguwa",
+        "slug": "doguwa-ng020011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020011",
+        "level": 2,
+        "name": {
+          "local": "Doguwa",
+          "en": "Doguwa",
+          "slug": "doguwa-ng020011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "8.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020011_tagwaye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tagwaye",
+      "en": "Tagwaye",
+      "slug": "tagwaye"
+    },
+    "code": {
+      "id": "NG020011_tagwaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020011",
+      "level": 2,
+      "name": {
+        "local": "Doguwa",
+        "en": "Doguwa",
+        "slug": "doguwa-ng020011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020011",
+        "level": 2,
+        "name": {
+          "local": "Doguwa",
+          "en": "Doguwa",
+          "slug": "doguwa-ng020011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "8.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020011_unguwar-natsohuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Natsohuwa",
+      "en": "Unguwar Natsohuwa",
+      "slug": "unguwar-natsohuwa"
+    },
+    "code": {
+      "id": "NG020011_unguwar-natsohuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020011",
+      "level": 2,
+      "name": {
+        "local": "Doguwa",
+        "en": "Doguwa",
+        "slug": "doguwa-ng020011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020011",
+        "level": 2,
+        "name": {
+          "local": "Doguwa",
+          "en": "Doguwa",
+          "slug": "doguwa-ng020011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "8.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020011_zainabi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zainabi",
+      "en": "Zainabi",
+      "slug": "zainabi"
+    },
+    "code": {
+      "id": "NG020011_zainabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020011",
+      "level": 2,
+      "name": {
+        "local": "Doguwa",
+        "en": "Doguwa",
+        "slug": "doguwa-ng020011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020011",
+        "level": 2,
+        "name": {
+          "local": "Doguwa",
+          "en": "Doguwa",
+          "slug": "doguwa-ng020011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "8.67"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

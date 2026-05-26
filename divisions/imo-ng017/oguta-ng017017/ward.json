@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG017017_awa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awa",
+      "en": "Awa",
+      "slug": "awa"
+    },
+    "code": {
+      "id": "NG017017_awa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017017",
+      "level": 2,
+      "name": {
+        "local": "Oguta",
+        "en": "Oguta",
+        "slug": "oguta-ng017017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017017",
+        "level": 2,
+        "name": {
+          "local": "Oguta",
+          "en": "Oguta",
+          "slug": "oguta-ng017017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017017_egweegbuoma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egwe/egbuoma",
+      "en": "Egwe/egbuoma",
+      "slug": "egweegbuoma"
+    },
+    "code": {
+      "id": "NG017017_egweegbuoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017017",
+      "level": 2,
+      "name": {
+        "local": "Oguta",
+        "en": "Oguta",
+        "slug": "oguta-ng017017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017017",
+        "level": 2,
+        "name": {
+          "local": "Oguta",
+          "en": "Oguta",
+          "slug": "oguta-ng017017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017017_izombe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Izombe",
+      "en": "Izombe",
+      "slug": "izombe"
+    },
+    "code": {
+      "id": "NG017017_izombe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017017",
+      "level": 2,
+      "name": {
+        "local": "Oguta",
+        "en": "Oguta",
+        "slug": "oguta-ng017017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017017",
+        "level": 2,
+        "name": {
+          "local": "Oguta",
+          "en": "Oguta",
+          "slug": "oguta-ng017017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017017_mbalauba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbala/uba",
+      "en": "Mbala/uba",
+      "slug": "mbalauba"
+    },
+    "code": {
+      "id": "NG017017_mbalauba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017017",
+      "level": 2,
+      "name": {
+        "local": "Oguta",
+        "en": "Oguta",
+        "slug": "oguta-ng017017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017017",
+        "level": 2,
+        "name": {
+          "local": "Oguta",
+          "en": "Oguta",
+          "slug": "oguta-ng017017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017017_ndeuloukwuumuowere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndeuloukwu/umuowere",
+      "en": "Ndeuloukwu/umuowere",
+      "slug": "ndeuloukwuumuowere"
+    },
+    "code": {
+      "id": "NG017017_ndeuloukwuumuowere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017017",
+      "level": 2,
+      "name": {
+        "local": "Oguta",
+        "en": "Oguta",
+        "slug": "oguta-ng017017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017017",
+        "level": 2,
+        "name": {
+          "local": "Oguta",
+          "en": "Oguta",
+          "slug": "oguta-ng017017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017017_obudiaro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obudi/aro",
+      "en": "Obudi/aro",
+      "slug": "obudiaro"
+    },
+    "code": {
+      "id": "NG017017_obudiaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017017",
+      "level": 2,
+      "name": {
+        "local": "Oguta",
+        "en": "Oguta",
+        "slug": "oguta-ng017017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017017",
+        "level": 2,
+        "name": {
+          "local": "Oguta",
+          "en": "Oguta",
+          "slug": "oguta-ng017017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017017_oguta-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oguta 'a'",
+      "en": "Oguta 'a'",
+      "slug": "oguta-a"
+    },
+    "code": {
+      "id": "NG017017_oguta-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017017",
+      "level": 2,
+      "name": {
+        "local": "Oguta",
+        "en": "Oguta",
+        "slug": "oguta-ng017017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017017",
+        "level": 2,
+        "name": {
+          "local": "Oguta",
+          "en": "Oguta",
+          "slug": "oguta-ng017017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017017_oguta-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oguta 'b'",
+      "en": "Oguta 'b'",
+      "slug": "oguta-b"
+    },
+    "code": {
+      "id": "NG017017_oguta-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017017",
+      "level": 2,
+      "name": {
+        "local": "Oguta",
+        "en": "Oguta",
+        "slug": "oguta-ng017017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017017",
+        "level": 2,
+        "name": {
+          "local": "Oguta",
+          "en": "Oguta",
+          "slug": "oguta-ng017017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017017_oru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oru",
+      "en": "Oru",
+      "slug": "oru"
+    },
+    "code": {
+      "id": "NG017017_oru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017017",
+      "level": 2,
+      "name": {
+        "local": "Oguta",
+        "en": "Oguta",
+        "slug": "oguta-ng017017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017017",
+        "level": 2,
+        "name": {
+          "local": "Oguta",
+          "en": "Oguta",
+          "slug": "oguta-ng017017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017017_ossemotorenuigbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ossemotor/enuigbo",
+      "en": "Ossemotor/enuigbo",
+      "slug": "ossemotorenuigbo"
+    },
+    "code": {
+      "id": "NG017017_ossemotorenuigbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017017",
+      "level": 2,
+      "name": {
+        "local": "Oguta",
+        "en": "Oguta",
+        "slug": "oguta-ng017017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017017",
+        "level": 2,
+        "name": {
+          "local": "Oguta",
+          "en": "Oguta",
+          "slug": "oguta-ng017017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017017_uwaorie",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uwaorie",
+      "en": "Uwaorie",
+      "slug": "uwaorie"
+    },
+    "code": {
+      "id": "NG017017_uwaorie",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017017",
+      "level": 2,
+      "name": {
+        "local": "Oguta",
+        "en": "Oguta",
+        "slug": "oguta-ng017017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017017",
+        "level": 2,
+        "name": {
+          "local": "Oguta",
+          "en": "Oguta",
+          "slug": "oguta-ng017017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

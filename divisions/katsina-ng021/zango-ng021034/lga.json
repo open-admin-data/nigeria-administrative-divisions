@@ -1,0 +1,47 @@
+{
+  "id": "NG021034",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Zango",
+    "en": "Zango",
+    "slug": "zango-ng021034"
+  },
+  "code": {
+    "id": "NG021034",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG021",
+    "level": 1,
+    "name": {
+      "local": "Katsina",
+      "en": "Katsina",
+      "slug": "katsina-ng021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG021",
+      "level": 1,
+      "name": {
+        "local": "Katsina",
+        "en": "Katsina",
+        "slug": "katsina-ng021"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.951",
+    "lon": "8.547"
+  },
+  "metadata": {},
+  "source": {}
+}

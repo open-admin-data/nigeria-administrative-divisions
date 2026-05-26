@@ -1,0 +1,47 @@
+{
+  "id": "NG008026",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Nganzai",
+    "en": "Nganzai",
+    "slug": "nganzai-ng008026"
+  },
+  "code": {
+    "id": "NG008026",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG008",
+    "level": 1,
+    "name": {
+      "local": "Borno",
+      "en": "Borno",
+      "slug": "borno-ng008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG008",
+      "level": 1,
+      "name": {
+        "local": "Borno",
+        "en": "Borno",
+        "slug": "borno-ng008"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.459",
+    "lon": "13.107"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "NG005010",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Itas/Gadau",
+    "en": "Itas/Gadau",
+    "slug": "itasgadau-ng005010"
+  },
+  "code": {
+    "id": "NG005010",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG005",
+    "level": 1,
+    "name": {
+      "local": "Bauchi",
+      "en": "Bauchi",
+      "slug": "bauchi-ng005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG005",
+      "level": 1,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.879",
+    "lon": "10.11"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG035005_gassol",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gassol",
+      "en": "Gassol",
+      "slug": "gassol"
+    },
+    "code": {
+      "id": "NG035005_gassol",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035005",
+      "level": 2,
+      "name": {
+        "local": "Gassol",
+        "en": "Gassol",
+        "slug": "gassol-ng035005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035005",
+        "level": 2,
+        "name": {
+          "local": "Gassol",
+          "en": "Gassol",
+          "slug": "gassol-ng035005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "10.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035005_gunduma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gunduma",
+      "en": "Gunduma",
+      "slug": "gunduma"
+    },
+    "code": {
+      "id": "NG035005_gunduma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035005",
+      "level": 2,
+      "name": {
+        "local": "Gassol",
+        "en": "Gassol",
+        "slug": "gassol-ng035005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035005",
+        "level": 2,
+        "name": {
+          "local": "Gassol",
+          "en": "Gassol",
+          "slug": "gassol-ng035005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "10.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035005_mutum-biyu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mutum Biyu I",
+      "en": "Mutum Biyu I",
+      "slug": "mutum-biyu-i"
+    },
+    "code": {
+      "id": "NG035005_mutum-biyu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035005",
+      "level": 2,
+      "name": {
+        "local": "Gassol",
+        "en": "Gassol",
+        "slug": "gassol-ng035005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035005",
+        "level": 2,
+        "name": {
+          "local": "Gassol",
+          "en": "Gassol",
+          "slug": "gassol-ng035005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "10.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035005_mutum-biyu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mutum Biyu Ii",
+      "en": "Mutum Biyu Ii",
+      "slug": "mutum-biyu-ii"
+    },
+    "code": {
+      "id": "NG035005_mutum-biyu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035005",
+      "level": 2,
+      "name": {
+        "local": "Gassol",
+        "en": "Gassol",
+        "slug": "gassol-ng035005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035005",
+        "level": 2,
+        "name": {
+          "local": "Gassol",
+          "en": "Gassol",
+          "slug": "gassol-ng035005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "10.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035005_nam-nai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nam Nai",
+      "en": "Nam Nai",
+      "slug": "nam-nai"
+    },
+    "code": {
+      "id": "NG035005_nam-nai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035005",
+      "level": 2,
+      "name": {
+        "local": "Gassol",
+        "en": "Gassol",
+        "slug": "gassol-ng035005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035005",
+        "level": 2,
+        "name": {
+          "local": "Gassol",
+          "en": "Gassol",
+          "slug": "gassol-ng035005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "10.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035005_sabon-gida",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Gida",
+      "en": "Sabon Gida",
+      "slug": "sabon-gida"
+    },
+    "code": {
+      "id": "NG035005_sabon-gida",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035005",
+      "level": 2,
+      "name": {
+        "local": "Gassol",
+        "en": "Gassol",
+        "slug": "gassol-ng035005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035005",
+        "level": 2,
+        "name": {
+          "local": "Gassol",
+          "en": "Gassol",
+          "slug": "gassol-ng035005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "10.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035005_sarkin-shira",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarkin Shira",
+      "en": "Sarkin Shira",
+      "slug": "sarkin-shira"
+    },
+    "code": {
+      "id": "NG035005_sarkin-shira",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035005",
+      "level": 2,
+      "name": {
+        "local": "Gassol",
+        "en": "Gassol",
+        "slug": "gassol-ng035005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035005",
+        "level": 2,
+        "name": {
+          "local": "Gassol",
+          "en": "Gassol",
+          "slug": "gassol-ng035005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "10.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035005_sendirde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sendirde",
+      "en": "Sendirde",
+      "slug": "sendirde"
+    },
+    "code": {
+      "id": "NG035005_sendirde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035005",
+      "level": 2,
+      "name": {
+        "local": "Gassol",
+        "en": "Gassol",
+        "slug": "gassol-ng035005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035005",
+        "level": 2,
+        "name": {
+          "local": "Gassol",
+          "en": "Gassol",
+          "slug": "gassol-ng035005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "10.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035005_tutare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tutare",
+      "en": "Tutare",
+      "slug": "tutare"
+    },
+    "code": {
+      "id": "NG035005_tutare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035005",
+      "level": 2,
+      "name": {
+        "local": "Gassol",
+        "en": "Gassol",
+        "slug": "gassol-ng035005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035005",
+        "level": 2,
+        "name": {
+          "local": "Gassol",
+          "en": "Gassol",
+          "slug": "gassol-ng035005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "10.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035005_wurojam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wurojam",
+      "en": "Wurojam",
+      "slug": "wurojam"
+    },
+    "code": {
+      "id": "NG035005_wurojam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035005",
+      "level": 2,
+      "name": {
+        "local": "Gassol",
+        "en": "Gassol",
+        "slug": "gassol-ng035005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035005",
+        "level": 2,
+        "name": {
+          "local": "Gassol",
+          "en": "Gassol",
+          "slug": "gassol-ng035005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "10.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035005_wuryo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wuryo",
+      "en": "Wuryo",
+      "slug": "wuryo"
+    },
+    "code": {
+      "id": "NG035005_wuryo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035005",
+      "level": 2,
+      "name": {
+        "local": "Gassol",
+        "en": "Gassol",
+        "slug": "gassol-ng035005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035005",
+        "level": 2,
+        "name": {
+          "local": "Gassol",
+          "en": "Gassol",
+          "slug": "gassol-ng035005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "10.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035005_yarima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yarima",
+      "en": "Yarima",
+      "slug": "yarima"
+    },
+    "code": {
+      "id": "NG035005_yarima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035005",
+      "level": 2,
+      "name": {
+        "local": "Gassol",
+        "en": "Gassol",
+        "slug": "gassol-ng035005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035005",
+        "level": 2,
+        "name": {
+          "local": "Gassol",
+          "en": "Gassol",
+          "slug": "gassol-ng035005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.383",
+      "lon": "10.465"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

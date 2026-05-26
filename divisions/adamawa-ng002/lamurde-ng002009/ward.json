@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG002009_dubwangun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dubwangun",
+      "en": "Dubwangun",
+      "slug": "dubwangun"
+    },
+    "code": {
+      "id": "NG002009_dubwangun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002009",
+      "level": 2,
+      "name": {
+        "local": "Lamurde",
+        "en": "Lamurde",
+        "slug": "lamurde-ng002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002009",
+        "level": 2,
+        "name": {
+          "local": "Lamurde",
+          "en": "Lamurde",
+          "slug": "lamurde-ng002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.554",
+      "lon": "11.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002009_gyawana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gyawana",
+      "en": "Gyawana",
+      "slug": "gyawana"
+    },
+    "code": {
+      "id": "NG002009_gyawana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002009",
+      "level": 2,
+      "name": {
+        "local": "Lamurde",
+        "en": "Lamurde",
+        "slug": "lamurde-ng002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002009",
+        "level": 2,
+        "name": {
+          "local": "Lamurde",
+          "en": "Lamurde",
+          "slug": "lamurde-ng002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.589",
+      "lon": "11.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002009_lafiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lafiya",
+      "en": "Lafiya",
+      "slug": "lafiya"
+    },
+    "code": {
+      "id": "NG002009_lafiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002009",
+      "level": 2,
+      "name": {
+        "local": "Lamurde",
+        "en": "Lamurde",
+        "slug": "lamurde-ng002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002009",
+        "level": 2,
+        "name": {
+          "local": "Lamurde",
+          "en": "Lamurde",
+          "slug": "lamurde-ng002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.656",
+      "lon": "11.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002009_lamurde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lamurde",
+      "en": "Lamurde",
+      "slug": "lamurde"
+    },
+    "code": {
+      "id": "NG002009_lamurde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002009",
+      "level": 2,
+      "name": {
+        "local": "Lamurde",
+        "en": "Lamurde",
+        "slug": "lamurde-ng002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002009",
+        "level": 2,
+        "name": {
+          "local": "Lamurde",
+          "en": "Lamurde",
+          "slug": "lamurde-ng002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.602",
+      "lon": "11.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002009_mgbebongun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mgbebongun",
+      "en": "Mgbebongun",
+      "slug": "mgbebongun"
+    },
+    "code": {
+      "id": "NG002009_mgbebongun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002009",
+      "level": 2,
+      "name": {
+        "local": "Lamurde",
+        "en": "Lamurde",
+        "slug": "lamurde-ng002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002009",
+        "level": 2,
+        "name": {
+          "local": "Lamurde",
+          "en": "Lamurde",
+          "slug": "lamurde-ng002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.554",
+      "lon": "11.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002009_ngbakowo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngbakowo",
+      "en": "Ngbakowo",
+      "slug": "ngbakowo"
+    },
+    "code": {
+      "id": "NG002009_ngbakowo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002009",
+      "level": 2,
+      "name": {
+        "local": "Lamurde",
+        "en": "Lamurde",
+        "slug": "lamurde-ng002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002009",
+        "level": 2,
+        "name": {
+          "local": "Lamurde",
+          "en": "Lamurde",
+          "slug": "lamurde-ng002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.513",
+      "lon": "11.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002009_opalo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Opalo",
+      "en": "Opalo",
+      "slug": "opalo"
+    },
+    "code": {
+      "id": "NG002009_opalo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002009",
+      "level": 2,
+      "name": {
+        "local": "Lamurde",
+        "en": "Lamurde",
+        "slug": "lamurde-ng002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002009",
+        "level": 2,
+        "name": {
+          "local": "Lamurde",
+          "en": "Lamurde",
+          "slug": "lamurde-ng002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.514",
+      "lon": "11.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002009_rigange",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rigange",
+      "en": "Rigange",
+      "slug": "rigange"
+    },
+    "code": {
+      "id": "NG002009_rigange",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002009",
+      "level": 2,
+      "name": {
+        "local": "Lamurde",
+        "en": "Lamurde",
+        "slug": "lamurde-ng002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002009",
+        "level": 2,
+        "name": {
+          "local": "Lamurde",
+          "en": "Lamurde",
+          "slug": "lamurde-ng002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.569",
+      "lon": "11.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002009_suwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Suwa",
+      "en": "Suwa",
+      "slug": "suwa"
+    },
+    "code": {
+      "id": "NG002009_suwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002009",
+      "level": 2,
+      "name": {
+        "local": "Lamurde",
+        "en": "Lamurde",
+        "slug": "lamurde-ng002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002009",
+        "level": 2,
+        "name": {
+          "local": "Lamurde",
+          "en": "Lamurde",
+          "slug": "lamurde-ng002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.512",
+      "lon": "11.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002009_waduku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Waduku",
+      "en": "Waduku",
+      "slug": "waduku"
+    },
+    "code": {
+      "id": "NG002009_waduku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002009",
+      "level": 2,
+      "name": {
+        "local": "Lamurde",
+        "en": "Lamurde",
+        "slug": "lamurde-ng002009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002009",
+        "level": 2,
+        "name": {
+          "local": "Lamurde",
+          "en": "Lamurde",
+          "slug": "lamurde-ng002009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.484",
+      "lon": "11.64"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

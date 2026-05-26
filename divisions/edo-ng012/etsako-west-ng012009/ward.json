@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG012009_anwain",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Anwain",
+      "en": "Anwain",
+      "slug": "anwain"
+    },
+    "code": {
+      "id": "NG012009_anwain",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012009",
+      "level": 2,
+      "name": {
+        "local": "Etsako West",
+        "en": "Etsako West",
+        "slug": "etsako-west-ng012009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012009",
+        "level": 2,
+        "name": {
+          "local": "Etsako West",
+          "en": "Etsako West",
+          "slug": "etsako-west-ng012009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "6.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012009_auchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auchi",
+      "en": "Auchi",
+      "slug": "auchi"
+    },
+    "code": {
+      "id": "NG012009_auchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012009",
+      "level": 2,
+      "name": {
+        "local": "Etsako West",
+        "en": "Etsako West",
+        "slug": "etsako-west-ng012009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012009",
+        "level": 2,
+        "name": {
+          "local": "Etsako West",
+          "en": "Etsako West",
+          "slug": "etsako-west-ng012009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "6.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012009_auchi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auchi I",
+      "en": "Auchi I",
+      "slug": "auchi-i"
+    },
+    "code": {
+      "id": "NG012009_auchi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012009",
+      "level": 2,
+      "name": {
+        "local": "Etsako West",
+        "en": "Etsako West",
+        "slug": "etsako-west-ng012009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012009",
+        "level": 2,
+        "name": {
+          "local": "Etsako West",
+          "en": "Etsako West",
+          "slug": "etsako-west-ng012009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "6.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012009_auchi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auchi Ii",
+      "en": "Auchi Ii",
+      "slug": "auchi-ii"
+    },
+    "code": {
+      "id": "NG012009_auchi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012009",
+      "level": 2,
+      "name": {
+        "local": "Etsako West",
+        "en": "Etsako West",
+        "slug": "etsako-west-ng012009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012009",
+        "level": 2,
+        "name": {
+          "local": "Etsako West",
+          "en": "Etsako West",
+          "slug": "etsako-west-ng012009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "6.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012009_auchi-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auchi Iii",
+      "en": "Auchi Iii",
+      "slug": "auchi-iii"
+    },
+    "code": {
+      "id": "NG012009_auchi-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012009",
+      "level": 2,
+      "name": {
+        "local": "Etsako West",
+        "en": "Etsako West",
+        "slug": "etsako-west-ng012009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012009",
+        "level": 2,
+        "name": {
+          "local": "Etsako West",
+          "en": "Etsako West",
+          "slug": "etsako-west-ng012009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "6.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012009_aviele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aviele",
+      "en": "Aviele",
+      "slug": "aviele"
+    },
+    "code": {
+      "id": "NG012009_aviele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012009",
+      "level": 2,
+      "name": {
+        "local": "Etsako West",
+        "en": "Etsako West",
+        "slug": "etsako-west-ng012009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012009",
+        "level": 2,
+        "name": {
+          "local": "Etsako West",
+          "en": "Etsako West",
+          "slug": "etsako-west-ng012009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "6.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012009_jagbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jagbe",
+      "en": "Jagbe",
+      "slug": "jagbe"
+    },
+    "code": {
+      "id": "NG012009_jagbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012009",
+      "level": 2,
+      "name": {
+        "local": "Etsako West",
+        "en": "Etsako West",
+        "slug": "etsako-west-ng012009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012009",
+        "level": 2,
+        "name": {
+          "local": "Etsako West",
+          "en": "Etsako West",
+          "slug": "etsako-west-ng012009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "6.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012009_south-ibie",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "South Ibie",
+      "en": "South Ibie",
+      "slug": "south-ibie"
+    },
+    "code": {
+      "id": "NG012009_south-ibie",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012009",
+      "level": 2,
+      "name": {
+        "local": "Etsako West",
+        "en": "Etsako West",
+        "slug": "etsako-west-ng012009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012009",
+        "level": 2,
+        "name": {
+          "local": "Etsako West",
+          "en": "Etsako West",
+          "slug": "etsako-west-ng012009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "6.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012009_uzairue-north-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uzairue North East",
+      "en": "Uzairue North East",
+      "slug": "uzairue-north-east"
+    },
+    "code": {
+      "id": "NG012009_uzairue-north-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012009",
+      "level": 2,
+      "name": {
+        "local": "Etsako West",
+        "en": "Etsako West",
+        "slug": "etsako-west-ng012009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012009",
+        "level": 2,
+        "name": {
+          "local": "Etsako West",
+          "en": "Etsako West",
+          "slug": "etsako-west-ng012009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "6.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012009_uzairue-north-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uzairue North West",
+      "en": "Uzairue North West",
+      "slug": "uzairue-north-west"
+    },
+    "code": {
+      "id": "NG012009_uzairue-north-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012009",
+      "level": 2,
+      "name": {
+        "local": "Etsako West",
+        "en": "Etsako West",
+        "slug": "etsako-west-ng012009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012009",
+        "level": 2,
+        "name": {
+          "local": "Etsako West",
+          "en": "Etsako West",
+          "slug": "etsako-west-ng012009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "6.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012009_uzairue-south-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uzairue South East",
+      "en": "Uzairue South East",
+      "slug": "uzairue-south-east"
+    },
+    "code": {
+      "id": "NG012009_uzairue-south-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012009",
+      "level": 2,
+      "name": {
+        "local": "Etsako West",
+        "en": "Etsako West",
+        "slug": "etsako-west-ng012009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012009",
+        "level": 2,
+        "name": {
+          "local": "Etsako West",
+          "en": "Etsako West",
+          "slug": "etsako-west-ng012009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "6.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012009_uzairue-south-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uzairue South West",
+      "en": "Uzairue South West",
+      "slug": "uzairue-south-west"
+    },
+    "code": {
+      "id": "NG012009_uzairue-south-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012009",
+      "level": 2,
+      "name": {
+        "local": "Etsako West",
+        "en": "Etsako West",
+        "slug": "etsako-west-ng012009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012009",
+        "level": 2,
+        "name": {
+          "local": "Etsako West",
+          "en": "Etsako West",
+          "slug": "etsako-west-ng012009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.001",
+      "lon": "6.302"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

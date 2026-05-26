@@ -1,0 +1,47 @@
+{
+  "id": "NG018013",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Hadejia",
+    "en": "Hadejia",
+    "slug": "hadejia-ng018013"
+  },
+  "code": {
+    "id": "NG018013",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG018",
+    "level": 1,
+    "name": {
+      "local": "Jigawa",
+      "en": "Jigawa",
+      "slug": "jigawa-ng018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.474",
+    "lon": "10.048"
+  },
+  "metadata": {},
+  "source": {}
+}

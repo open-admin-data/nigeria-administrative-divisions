@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG037012_garbadu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garbadu",
+      "en": "Garbadu",
+      "slug": "garbadu"
+    },
+    "code": {
+      "id": "NG037012_garbadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037012",
+      "level": 2,
+      "name": {
+        "local": "Talata Mafara",
+        "en": "Talata Mafara",
+        "slug": "talata-mafara-ng037012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037012",
+        "level": 2,
+        "name": {
+          "local": "Talata Mafara",
+          "en": "Talata Mafara",
+          "slug": "talata-mafara-ng037012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.396",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037012_gwaram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwaram",
+      "en": "Gwaram",
+      "slug": "gwaram"
+    },
+    "code": {
+      "id": "NG037012_gwaram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037012",
+      "level": 2,
+      "name": {
+        "local": "Talata Mafara",
+        "en": "Talata Mafara",
+        "slug": "talata-mafara-ng037012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037012",
+        "level": 2,
+        "name": {
+          "local": "Talata Mafara",
+          "en": "Talata Mafara",
+          "slug": "talata-mafara-ng037012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.396",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037012_jangebe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jangebe",
+      "en": "Jangebe",
+      "slug": "jangebe"
+    },
+    "code": {
+      "id": "NG037012_jangebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037012",
+      "level": 2,
+      "name": {
+        "local": "Talata Mafara",
+        "en": "Talata Mafara",
+        "slug": "talata-mafara-ng037012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037012",
+        "level": 2,
+        "name": {
+          "local": "Talata Mafara",
+          "en": "Talata Mafara",
+          "slug": "talata-mafara-ng037012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.396",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037012_kagara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kagara",
+      "en": "Kagara",
+      "slug": "kagara"
+    },
+    "code": {
+      "id": "NG037012_kagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037012",
+      "level": 2,
+      "name": {
+        "local": "Talata Mafara",
+        "en": "Talata Mafara",
+        "slug": "talata-mafara-ng037012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037012",
+        "level": 2,
+        "name": {
+          "local": "Talata Mafara",
+          "en": "Talata Mafara",
+          "slug": "talata-mafara-ng037012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.396",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037012_morai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Morai",
+      "en": "Morai",
+      "slug": "morai"
+    },
+    "code": {
+      "id": "NG037012_morai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037012",
+      "level": 2,
+      "name": {
+        "local": "Talata Mafara",
+        "en": "Talata Mafara",
+        "slug": "talata-mafara-ng037012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037012",
+        "level": 2,
+        "name": {
+          "local": "Talata Mafara",
+          "en": "Talata Mafara",
+          "slug": "talata-mafara-ng037012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.396",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037012_ruwan-bore",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ruwan Bore",
+      "en": "Ruwan Bore",
+      "slug": "ruwan-bore"
+    },
+    "code": {
+      "id": "NG037012_ruwan-bore",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037012",
+      "level": 2,
+      "name": {
+        "local": "Talata Mafara",
+        "en": "Talata Mafara",
+        "slug": "talata-mafara-ng037012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037012",
+        "level": 2,
+        "name": {
+          "local": "Talata Mafara",
+          "en": "Talata Mafara",
+          "slug": "talata-mafara-ng037012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.396",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037012_ruwan-gizo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ruwan Gizo",
+      "en": "Ruwan Gizo",
+      "slug": "ruwan-gizo"
+    },
+    "code": {
+      "id": "NG037012_ruwan-gizo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037012",
+      "level": 2,
+      "name": {
+        "local": "Talata Mafara",
+        "en": "Talata Mafara",
+        "slug": "talata-mafara-ng037012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037012",
+        "level": 2,
+        "name": {
+          "local": "Talata Mafara",
+          "en": "Talata Mafara",
+          "slug": "talata-mafara-ng037012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.396",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037012_sauna-r-gora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sauna R/ Gora",
+      "en": "Sauna R/ Gora",
+      "slug": "sauna-r-gora"
+    },
+    "code": {
+      "id": "NG037012_sauna-r-gora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037012",
+      "level": 2,
+      "name": {
+        "local": "Talata Mafara",
+        "en": "Talata Mafara",
+        "slug": "talata-mafara-ng037012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037012",
+        "level": 2,
+        "name": {
+          "local": "Talata Mafara",
+          "en": "Talata Mafara",
+          "slug": "talata-mafara-ng037012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.396",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037012_shiyar-galadima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shiyar Galadima",
+      "en": "Shiyar Galadima",
+      "slug": "shiyar-galadima"
+    },
+    "code": {
+      "id": "NG037012_shiyar-galadima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037012",
+      "level": 2,
+      "name": {
+        "local": "Talata Mafara",
+        "en": "Talata Mafara",
+        "slug": "talata-mafara-ng037012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037012",
+        "level": 2,
+        "name": {
+          "local": "Talata Mafara",
+          "en": "Talata Mafara",
+          "slug": "talata-mafara-ng037012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.396",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037012_shiyar-kayayematusgi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shiyar Kayaye/matusgi",
+      "en": "Shiyar Kayaye/matusgi",
+      "slug": "shiyar-kayayematusgi"
+    },
+    "code": {
+      "id": "NG037012_shiyar-kayayematusgi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037012",
+      "level": 2,
+      "name": {
+        "local": "Talata Mafara",
+        "en": "Talata Mafara",
+        "slug": "talata-mafara-ng037012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037012",
+        "level": 2,
+        "name": {
+          "local": "Talata Mafara",
+          "en": "Talata Mafara",
+          "slug": "talata-mafara-ng037012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.396",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037012_take-tsabamakera",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Take Tsaba/makera",
+      "en": "Take Tsaba/makera",
+      "slug": "take-tsabamakera"
+    },
+    "code": {
+      "id": "NG037012_take-tsabamakera",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037012",
+      "level": 2,
+      "name": {
+        "local": "Talata Mafara",
+        "en": "Talata Mafara",
+        "slug": "talata-mafara-ng037012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037012",
+        "level": 2,
+        "name": {
+          "local": "Talata Mafara",
+          "en": "Talata Mafara",
+          "slug": "talata-mafara-ng037012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.396",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

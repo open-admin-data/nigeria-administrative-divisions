@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018024_amaryawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amaryawa",
+      "en": "Amaryawa",
+      "slug": "amaryawa"
+    },
+    "code": {
+      "id": "NG018024_amaryawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018024",
+      "level": 2,
+      "name": {
+        "local": "Roni",
+        "en": "Roni",
+        "slug": "roni-ng018024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018024",
+        "level": 2,
+        "name": {
+          "local": "Roni",
+          "en": "Roni",
+          "slug": "roni-ng018024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.572",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018024_baragumi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baragumi",
+      "en": "Baragumi",
+      "slug": "baragumi"
+    },
+    "code": {
+      "id": "NG018024_baragumi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018024",
+      "level": 2,
+      "name": {
+        "local": "Roni",
+        "en": "Roni",
+        "slug": "roni-ng018024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018024",
+        "level": 2,
+        "name": {
+          "local": "Roni",
+          "en": "Roni",
+          "slug": "roni-ng018024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.572",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018024_dansure",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dansure",
+      "en": "Dansure",
+      "slug": "dansure"
+    },
+    "code": {
+      "id": "NG018024_dansure",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018024",
+      "level": 2,
+      "name": {
+        "local": "Roni",
+        "en": "Roni",
+        "slug": "roni-ng018024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018024",
+        "level": 2,
+        "name": {
+          "local": "Roni",
+          "en": "Roni",
+          "slug": "roni-ng018024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.572",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018024_fara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fara",
+      "en": "Fara",
+      "slug": "fara"
+    },
+    "code": {
+      "id": "NG018024_fara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018024",
+      "level": 2,
+      "name": {
+        "local": "Roni",
+        "en": "Roni",
+        "slug": "roni-ng018024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018024",
+        "level": 2,
+        "name": {
+          "local": "Roni",
+          "en": "Roni",
+          "slug": "roni-ng018024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.572",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018024_gora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gora",
+      "en": "Gora",
+      "slug": "gora"
+    },
+    "code": {
+      "id": "NG018024_gora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018024",
+      "level": 2,
+      "name": {
+        "local": "Roni",
+        "en": "Roni",
+        "slug": "roni-ng018024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018024",
+        "level": 2,
+        "name": {
+          "local": "Roni",
+          "en": "Roni",
+          "slug": "roni-ng018024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.572",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018024_kwaita",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwaita",
+      "en": "Kwaita",
+      "slug": "kwaita"
+    },
+    "code": {
+      "id": "NG018024_kwaita",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018024",
+      "level": 2,
+      "name": {
+        "local": "Roni",
+        "en": "Roni",
+        "slug": "roni-ng018024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018024",
+        "level": 2,
+        "name": {
+          "local": "Roni",
+          "en": "Roni",
+          "slug": "roni-ng018024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.572",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018024_roni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Roni",
+      "en": "Roni",
+      "slug": "roni"
+    },
+    "code": {
+      "id": "NG018024_roni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018024",
+      "level": 2,
+      "name": {
+        "local": "Roni",
+        "en": "Roni",
+        "slug": "roni-ng018024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018024",
+        "level": 2,
+        "name": {
+          "local": "Roni",
+          "en": "Roni",
+          "slug": "roni-ng018024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.572",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018024_sankau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sankau",
+      "en": "Sankau",
+      "slug": "sankau"
+    },
+    "code": {
+      "id": "NG018024_sankau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018024",
+      "level": 2,
+      "name": {
+        "local": "Roni",
+        "en": "Roni",
+        "slug": "roni-ng018024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018024",
+        "level": 2,
+        "name": {
+          "local": "Roni",
+          "en": "Roni",
+          "slug": "roni-ng018024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.572",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018024_tunas",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tunas",
+      "en": "Tunas",
+      "slug": "tunas"
+    },
+    "code": {
+      "id": "NG018024_tunas",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018024",
+      "level": 2,
+      "name": {
+        "local": "Roni",
+        "en": "Roni",
+        "slug": "roni-ng018024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018024",
+        "level": 2,
+        "name": {
+          "local": "Roni",
+          "en": "Roni",
+          "slug": "roni-ng018024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.572",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018024_yanzaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yanzaki",
+      "en": "Yanzaki",
+      "slug": "yanzaki"
+    },
+    "code": {
+      "id": "NG018024_yanzaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018024",
+      "level": 2,
+      "name": {
+        "local": "Roni",
+        "en": "Roni",
+        "slug": "roni-ng018024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018024",
+        "level": 2,
+        "name": {
+          "local": "Roni",
+          "en": "Roni",
+          "slug": "roni-ng018024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.572",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018024_zugai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zugai",
+      "en": "Zugai",
+      "slug": "zugai"
+    },
+    "code": {
+      "id": "NG018024_zugai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018024",
+      "level": 2,
+      "name": {
+        "local": "Roni",
+        "en": "Roni",
+        "slug": "roni-ng018024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018024",
+        "level": 2,
+        "name": {
+          "local": "Roni",
+          "en": "Roni",
+          "slug": "roni-ng018024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.572",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

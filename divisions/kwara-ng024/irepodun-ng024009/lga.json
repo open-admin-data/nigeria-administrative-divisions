@@ -1,0 +1,47 @@
+{
+  "id": "NG024009",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Irepodun",
+    "en": "Irepodun",
+    "slug": "irepodun-ng024009"
+  },
+  "code": {
+    "id": "NG024009",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG024",
+    "level": 1,
+    "name": {
+      "local": "Kwara",
+      "en": "Kwara",
+      "slug": "kwara-ng024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG024",
+      "level": 1,
+      "name": {
+        "local": "Kwara",
+        "en": "Kwara",
+        "slug": "kwara-ng024"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.194",
+    "lon": "4.858"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "NG020043_amarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amarawa",
+      "en": "Amarawa",
+      "slug": "amarawa"
+    },
+    "code": {
+      "id": "NG020043_amarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_danlasan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danlasan",
+      "en": "Danlasan",
+      "slug": "danlasan"
+    },
+    "code": {
+      "id": "NG020043_danlasan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_garin-dau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garin Dau",
+      "en": "Garin Dau",
+      "slug": "garin-dau"
+    },
+    "code": {
+      "id": "NG020043_garin-dau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_gogel",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gogel",
+      "en": "Gogel",
+      "slug": "gogel"
+    },
+    "code": {
+      "id": "NG020043_gogel",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_imawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imawa",
+      "en": "Imawa",
+      "slug": "imawa"
+    },
+    "code": {
+      "id": "NG020043_imawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_jgaladima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "J/galadima",
+      "en": "J/galadima",
+      "slug": "jgaladima"
+    },
+    "code": {
+      "id": "NG020043_jgaladima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_jemagu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jemagu",
+      "en": "Jemagu",
+      "slug": "jemagu"
+    },
+    "code": {
+      "id": "NG020043_jemagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_jigawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jigawa",
+      "en": "Jigawa",
+      "slug": "jigawa"
+    },
+    "code": {
+      "id": "NG020043_jigawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_katarkawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Katarkawa",
+      "en": "Katarkawa",
+      "slug": "katarkawa"
+    },
+    "code": {
+      "id": "NG020043_katarkawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_madari-mata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madari Mata",
+      "en": "Madari Mata",
+      "slug": "madari-mata"
+    },
+    "code": {
+      "id": "NG020043_madari-mata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_tamburawar-gabas",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tamburawar Gabas",
+      "en": "Tamburawar Gabas",
+      "slug": "tamburawar-gabas"
+    },
+    "code": {
+      "id": "NG020043_tamburawar-gabas",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_tangar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tangar",
+      "en": "Tangar",
+      "slug": "tangar"
+    },
+    "code": {
+      "id": "NG020043_tangar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_warawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Warawa",
+      "en": "Warawa",
+      "slug": "warawa"
+    },
+    "code": {
+      "id": "NG020043_warawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_yan-dalla",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yan Dalla",
+      "en": "Yan Dalla",
+      "slug": "yan-dalla"
+    },
+    "code": {
+      "id": "NG020043_yan-dalla",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043_yangizo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yangizo",
+      "en": "Yangizo",
+      "slug": "yangizo"
+    },
+    "code": {
+      "id": "NG020043_yangizo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020043",
+      "level": 2,
+      "name": {
+        "local": "Warawa",
+        "en": "Warawa",
+        "slug": "warawa-ng020043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020043",
+        "level": 2,
+        "name": {
+          "local": "Warawa",
+          "en": "Warawa",
+          "slug": "warawa-ng020043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

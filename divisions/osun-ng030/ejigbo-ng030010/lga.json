@@ -1,0 +1,47 @@
+{
+  "id": "NG030010",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ejigbo",
+    "en": "Ejigbo",
+    "slug": "ejigbo-ng030010"
+  },
+  "code": {
+    "id": "NG030010",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG030",
+    "level": 1,
+    "name": {
+      "local": "Osun",
+      "en": "Osun",
+      "slug": "osun-ng030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG030",
+      "level": 1,
+      "name": {
+        "local": "Osun",
+        "en": "Osun",
+        "slug": "osun-ng030"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.811",
+    "lon": "4.31"
+  },
+  "metadata": {},
+  "source": {}
+}

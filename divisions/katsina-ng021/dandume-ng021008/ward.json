@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021008_dandume-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dandume A",
+      "en": "Dandume A",
+      "slug": "dandume-a"
+    },
+    "code": {
+      "id": "NG021008_dandume-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021008",
+      "level": 2,
+      "name": {
+        "local": "Dandume",
+        "en": "Dandume",
+        "slug": "dandume-ng021008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021008",
+        "level": 2,
+        "name": {
+          "local": "Dandume",
+          "en": "Dandume",
+          "slug": "dandume-ng021008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.414",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021008_dandume-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dandume B",
+      "en": "Dandume B",
+      "slug": "dandume-b"
+    },
+    "code": {
+      "id": "NG021008_dandume-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021008",
+      "level": 2,
+      "name": {
+        "local": "Dandume",
+        "en": "Dandume",
+        "slug": "dandume-ng021008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021008",
+        "level": 2,
+        "name": {
+          "local": "Dandume",
+          "en": "Dandume",
+          "slug": "dandume-ng021008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.414",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021008_dantankari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dantankari",
+      "en": "Dantankari",
+      "slug": "dantankari"
+    },
+    "code": {
+      "id": "NG021008_dantankari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021008",
+      "level": 2,
+      "name": {
+        "local": "Dandume",
+        "en": "Dandume",
+        "slug": "dandume-ng021008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021008",
+        "level": 2,
+        "name": {
+          "local": "Dandume",
+          "en": "Dandume",
+          "slug": "dandume-ng021008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.414",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021008_magaji-wando-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magaji Wando A",
+      "en": "Magaji Wando A",
+      "slug": "magaji-wando-a"
+    },
+    "code": {
+      "id": "NG021008_magaji-wando-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021008",
+      "level": 2,
+      "name": {
+        "local": "Dandume",
+        "en": "Dandume",
+        "slug": "dandume-ng021008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021008",
+        "level": 2,
+        "name": {
+          "local": "Dandume",
+          "en": "Dandume",
+          "slug": "dandume-ng021008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.414",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021008_magaji-wando-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magaji Wando B",
+      "en": "Magaji Wando B",
+      "slug": "magaji-wando-b"
+    },
+    "code": {
+      "id": "NG021008_magaji-wando-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021008",
+      "level": 2,
+      "name": {
+        "local": "Dandume",
+        "en": "Dandume",
+        "slug": "dandume-ng021008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021008",
+        "level": 2,
+        "name": {
+          "local": "Dandume",
+          "en": "Dandume",
+          "slug": "dandume-ng021008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.414",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021008_mahuta-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mahuta A",
+      "en": "Mahuta A",
+      "slug": "mahuta-a"
+    },
+    "code": {
+      "id": "NG021008_mahuta-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021008",
+      "level": 2,
+      "name": {
+        "local": "Dandume",
+        "en": "Dandume",
+        "slug": "dandume-ng021008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021008",
+        "level": 2,
+        "name": {
+          "local": "Dandume",
+          "en": "Dandume",
+          "slug": "dandume-ng021008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.414",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021008_mahuta-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mahuta B",
+      "en": "Mahuta B",
+      "slug": "mahuta-b"
+    },
+    "code": {
+      "id": "NG021008_mahuta-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021008",
+      "level": 2,
+      "name": {
+        "local": "Dandume",
+        "en": "Dandume",
+        "slug": "dandume-ng021008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021008",
+        "level": 2,
+        "name": {
+          "local": "Dandume",
+          "en": "Dandume",
+          "slug": "dandume-ng021008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.414",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021008_mahuta-c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mahuta C",
+      "en": "Mahuta C",
+      "slug": "mahuta-c"
+    },
+    "code": {
+      "id": "NG021008_mahuta-c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021008",
+      "level": 2,
+      "name": {
+        "local": "Dandume",
+        "en": "Dandume",
+        "slug": "dandume-ng021008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021008",
+        "level": 2,
+        "name": {
+          "local": "Dandume",
+          "en": "Dandume",
+          "slug": "dandume-ng021008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.414",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021008_nasarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasarawa",
+      "en": "Nasarawa",
+      "slug": "nasarawa"
+    },
+    "code": {
+      "id": "NG021008_nasarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021008",
+      "level": 2,
+      "name": {
+        "local": "Dandume",
+        "en": "Dandume",
+        "slug": "dandume-ng021008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021008",
+        "level": 2,
+        "name": {
+          "local": "Dandume",
+          "en": "Dandume",
+          "slug": "dandume-ng021008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.414",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021008_tumburkai-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tumburkai A",
+      "en": "Tumburkai A",
+      "slug": "tumburkai-a"
+    },
+    "code": {
+      "id": "NG021008_tumburkai-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021008",
+      "level": 2,
+      "name": {
+        "local": "Dandume",
+        "en": "Dandume",
+        "slug": "dandume-ng021008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021008",
+        "level": 2,
+        "name": {
+          "local": "Dandume",
+          "en": "Dandume",
+          "slug": "dandume-ng021008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.414",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021008_tumburkai-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tumburkai B",
+      "en": "Tumburkai B",
+      "slug": "tumburkai-b"
+    },
+    "code": {
+      "id": "NG021008_tumburkai-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021008",
+      "level": 2,
+      "name": {
+        "local": "Dandume",
+        "en": "Dandume",
+        "slug": "dandume-ng021008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021008",
+        "level": 2,
+        "name": {
+          "local": "Dandume",
+          "en": "Dandume",
+          "slug": "dandume-ng021008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.414",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

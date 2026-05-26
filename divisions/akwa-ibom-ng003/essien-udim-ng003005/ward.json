@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG003005_adiasim",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adiasim",
+      "en": "Adiasim",
+      "slug": "adiasim"
+    },
+    "code": {
+      "id": "NG003005_adiasim",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003005",
+      "level": 2,
+      "name": {
+        "local": "Essien Udim",
+        "en": "Essien Udim",
+        "slug": "essien-udim-ng003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003005",
+        "level": 2,
+        "name": {
+          "local": "Essien Udim",
+          "en": "Essien Udim",
+          "slug": "essien-udim-ng003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "7.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003005_afaha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Afaha",
+      "en": "Afaha",
+      "slug": "afaha"
+    },
+    "code": {
+      "id": "NG003005_afaha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003005",
+      "level": 2,
+      "name": {
+        "local": "Essien Udim",
+        "en": "Essien Udim",
+        "slug": "essien-udim-ng003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003005",
+        "level": 2,
+        "name": {
+          "local": "Essien Udim",
+          "en": "Essien Udim",
+          "slug": "essien-udim-ng003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "7.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003005_ekpeyong-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekpeyong 1",
+      "en": "Ekpeyong 1",
+      "slug": "ekpeyong-1"
+    },
+    "code": {
+      "id": "NG003005_ekpeyong-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003005",
+      "level": 2,
+      "name": {
+        "local": "Essien Udim",
+        "en": "Essien Udim",
+        "slug": "essien-udim-ng003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003005",
+        "level": 2,
+        "name": {
+          "local": "Essien Udim",
+          "en": "Essien Udim",
+          "slug": "essien-udim-ng003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "7.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003005_ekpeyong-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekpeyong 11",
+      "en": "Ekpeyong 11",
+      "slug": "ekpeyong-11"
+    },
+    "code": {
+      "id": "NG003005_ekpeyong-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003005",
+      "level": 2,
+      "name": {
+        "local": "Essien Udim",
+        "en": "Essien Udim",
+        "slug": "essien-udim-ng003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003005",
+        "level": 2,
+        "name": {
+          "local": "Essien Udim",
+          "en": "Essien Udim",
+          "slug": "essien-udim-ng003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "7.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003005_ikpe-annang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikpe Annang",
+      "en": "Ikpe Annang",
+      "slug": "ikpe-annang"
+    },
+    "code": {
+      "id": "NG003005_ikpe-annang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003005",
+      "level": 2,
+      "name": {
+        "local": "Essien Udim",
+        "en": "Essien Udim",
+        "slug": "essien-udim-ng003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003005",
+        "level": 2,
+        "name": {
+          "local": "Essien Udim",
+          "en": "Essien Udim",
+          "slug": "essien-udim-ng003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "7.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003005_odoro-ikot-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odoro Ikot 1",
+      "en": "Odoro Ikot 1",
+      "slug": "odoro-ikot-1"
+    },
+    "code": {
+      "id": "NG003005_odoro-ikot-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003005",
+      "level": 2,
+      "name": {
+        "local": "Essien Udim",
+        "en": "Essien Udim",
+        "slug": "essien-udim-ng003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003005",
+        "level": 2,
+        "name": {
+          "local": "Essien Udim",
+          "en": "Essien Udim",
+          "slug": "essien-udim-ng003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "7.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003005_odoro-ikot-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odoro Ikot 11",
+      "en": "Odoro Ikot 11",
+      "slug": "odoro-ikot-11"
+    },
+    "code": {
+      "id": "NG003005_odoro-ikot-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003005",
+      "level": 2,
+      "name": {
+        "local": "Essien Udim",
+        "en": "Essien Udim",
+        "slug": "essien-udim-ng003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003005",
+        "level": 2,
+        "name": {
+          "local": "Essien Udim",
+          "en": "Essien Udim",
+          "slug": "essien-udim-ng003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "7.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003005_okon",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okon",
+      "en": "Okon",
+      "slug": "okon"
+    },
+    "code": {
+      "id": "NG003005_okon",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003005",
+      "level": 2,
+      "name": {
+        "local": "Essien Udim",
+        "en": "Essien Udim",
+        "slug": "essien-udim-ng003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003005",
+        "level": 2,
+        "name": {
+          "local": "Essien Udim",
+          "en": "Essien Udim",
+          "slug": "essien-udim-ng003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "7.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003005_ukana-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukana East",
+      "en": "Ukana East",
+      "slug": "ukana-east"
+    },
+    "code": {
+      "id": "NG003005_ukana-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003005",
+      "level": 2,
+      "name": {
+        "local": "Essien Udim",
+        "en": "Essien Udim",
+        "slug": "essien-udim-ng003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003005",
+        "level": 2,
+        "name": {
+          "local": "Essien Udim",
+          "en": "Essien Udim",
+          "slug": "essien-udim-ng003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "7.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003005_ukana-west-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukana West 1",
+      "en": "Ukana West 1",
+      "slug": "ukana-west-1"
+    },
+    "code": {
+      "id": "NG003005_ukana-west-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003005",
+      "level": 2,
+      "name": {
+        "local": "Essien Udim",
+        "en": "Essien Udim",
+        "slug": "essien-udim-ng003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003005",
+        "level": 2,
+        "name": {
+          "local": "Essien Udim",
+          "en": "Essien Udim",
+          "slug": "essien-udim-ng003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "7.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003005_ukana-west-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukana West 11",
+      "en": "Ukana West 11",
+      "slug": "ukana-west-11"
+    },
+    "code": {
+      "id": "NG003005_ukana-west-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003005",
+      "level": 2,
+      "name": {
+        "local": "Essien Udim",
+        "en": "Essien Udim",
+        "slug": "essien-udim-ng003005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003005",
+        "level": 2,
+        "name": {
+          "local": "Essien Udim",
+          "en": "Essien Udim",
+          "slug": "essien-udim-ng003005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "7.657"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

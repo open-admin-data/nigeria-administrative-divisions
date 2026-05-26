@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG022004_augie-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Augie North",
+      "en": "Augie North",
+      "slug": "augie-north"
+    },
+    "code": {
+      "id": "NG022004_augie-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022004",
+      "level": 2,
+      "name": {
+        "local": "Augie",
+        "en": "Augie",
+        "slug": "augie-ng022004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022004",
+        "level": 2,
+        "name": {
+          "local": "Augie",
+          "en": "Augie",
+          "slug": "augie-ng022004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.942",
+      "lon": "4.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022004_augie-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Augie South",
+      "en": "Augie South",
+      "slug": "augie-south"
+    },
+    "code": {
+      "id": "NG022004_augie-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022004",
+      "level": 2,
+      "name": {
+        "local": "Augie",
+        "en": "Augie",
+        "slug": "augie-ng022004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022004",
+        "level": 2,
+        "name": {
+          "local": "Augie",
+          "en": "Augie",
+          "slug": "augie-ng022004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.942",
+      "lon": "4.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022004_bagayemera",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bagaye/mera",
+      "en": "Bagaye/mera",
+      "slug": "bagayemera"
+    },
+    "code": {
+      "id": "NG022004_bagayemera",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022004",
+      "level": 2,
+      "name": {
+        "local": "Augie",
+        "en": "Augie",
+        "slug": "augie-ng022004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022004",
+        "level": 2,
+        "name": {
+          "local": "Augie",
+          "en": "Augie",
+          "slug": "augie-ng022004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.942",
+      "lon": "4.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022004_bayawa-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bayawa North",
+      "en": "Bayawa North",
+      "slug": "bayawa-north"
+    },
+    "code": {
+      "id": "NG022004_bayawa-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022004",
+      "level": 2,
+      "name": {
+        "local": "Augie",
+        "en": "Augie",
+        "slug": "augie-ng022004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022004",
+        "level": 2,
+        "name": {
+          "local": "Augie",
+          "en": "Augie",
+          "slug": "augie-ng022004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.942",
+      "lon": "4.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022004_bayawa-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bayawa South",
+      "en": "Bayawa South",
+      "slug": "bayawa-south"
+    },
+    "code": {
+      "id": "NG022004_bayawa-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022004",
+      "level": 2,
+      "name": {
+        "local": "Augie",
+        "en": "Augie",
+        "slug": "augie-ng022004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022004",
+        "level": 2,
+        "name": {
+          "local": "Augie",
+          "en": "Augie",
+          "slug": "augie-ng022004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.942",
+      "lon": "4.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022004_birnin-tudugudale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birnin Tudu/gudale",
+      "en": "Birnin Tudu/gudale",
+      "slug": "birnin-tudugudale"
+    },
+    "code": {
+      "id": "NG022004_birnin-tudugudale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022004",
+      "level": 2,
+      "name": {
+        "local": "Augie",
+        "en": "Augie",
+        "slug": "augie-ng022004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022004",
+        "level": 2,
+        "name": {
+          "local": "Augie",
+          "en": "Augie",
+          "slug": "augie-ng022004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.942",
+      "lon": "4.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022004_bubuce",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bubuce",
+      "en": "Bubuce",
+      "slug": "bubuce"
+    },
+    "code": {
+      "id": "NG022004_bubuce",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022004",
+      "level": 2,
+      "name": {
+        "local": "Augie",
+        "en": "Augie",
+        "slug": "augie-ng022004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022004",
+        "level": 2,
+        "name": {
+          "local": "Augie",
+          "en": "Augie",
+          "slug": "augie-ng022004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.942",
+      "lon": "4.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022004_dundayekwaidozagiillela",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dundaye/kwaido/zagi/illela",
+      "en": "Dundaye/kwaido/zagi/illela",
+      "slug": "dundayekwaidozagiillela"
+    },
+    "code": {
+      "id": "NG022004_dundayekwaidozagiillela",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022004",
+      "level": 2,
+      "name": {
+        "local": "Augie",
+        "en": "Augie",
+        "slug": "augie-ng022004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022004",
+        "level": 2,
+        "name": {
+          "local": "Augie",
+          "en": "Augie",
+          "slug": "augie-ng022004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.942",
+      "lon": "4.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022004_tiggiawade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tiggi/awade",
+      "en": "Tiggi/awade",
+      "slug": "tiggiawade"
+    },
+    "code": {
+      "id": "NG022004_tiggiawade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022004",
+      "level": 2,
+      "name": {
+        "local": "Augie",
+        "en": "Augie",
+        "slug": "augie-ng022004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022004",
+        "level": 2,
+        "name": {
+          "local": "Augie",
+          "en": "Augie",
+          "slug": "augie-ng022004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.942",
+      "lon": "4.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022004_yola",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yola",
+      "en": "Yola",
+      "slug": "yola"
+    },
+    "code": {
+      "id": "NG022004_yola",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022004",
+      "level": 2,
+      "name": {
+        "local": "Augie",
+        "en": "Augie",
+        "slug": "augie-ng022004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022004",
+        "level": 2,
+        "name": {
+          "local": "Augie",
+          "en": "Augie",
+          "slug": "augie-ng022004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.942",
+      "lon": "4.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

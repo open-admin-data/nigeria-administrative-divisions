@@ -1,0 +1,47 @@
+{
+  "id": "NG020019",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Gwarzo",
+    "en": "Gwarzo",
+    "slug": "gwarzo-ng020019"
+  },
+  "code": {
+    "id": "NG020019",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG020",
+    "level": 1,
+    "name": {
+      "local": "Kano",
+      "en": "Kano",
+      "slug": "kano-ng020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.903",
+    "lon": "7.984"
+  },
+  "metadata": {},
+  "source": {}
+}

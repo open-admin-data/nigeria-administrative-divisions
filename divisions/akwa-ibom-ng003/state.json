@@ -1,0 +1,30 @@
+{
+  "id": "NG003",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Akwa Ibom",
+    "en": "Akwa Ibom",
+    "slug": "akwa-ibom-ng003"
+  },
+  "code": {
+    "id": "NG003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 31,
+    "ward": 329
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.99",
+    "lon": "7.796"
+  },
+  "metadata": {},
+  "source": {}
+}

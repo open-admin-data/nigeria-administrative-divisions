@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG008013_alau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alau",
+      "en": "Alau",
+      "slug": "alau"
+    },
+    "code": {
+      "id": "NG008013_alau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008013",
+      "level": 2,
+      "name": {
+        "local": "Jere",
+        "en": "Jere",
+        "slug": "jere-ng008013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008013",
+        "level": 2,
+        "name": {
+          "local": "Jere",
+          "en": "Jere",
+          "slug": "jere-ng008013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.738",
+      "lon": "13.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008013_bale-galtimari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bale Galtimari",
+      "en": "Bale Galtimari",
+      "slug": "bale-galtimari"
+    },
+    "code": {
+      "id": "NG008013_bale-galtimari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008013",
+      "level": 2,
+      "name": {
+        "local": "Jere",
+        "en": "Jere",
+        "slug": "jere-ng008013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008013",
+        "level": 2,
+        "name": {
+          "local": "Jere",
+          "en": "Jere",
+          "slug": "jere-ng008013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "13.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008013_dala-lawanti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dala Lawanti",
+      "en": "Dala Lawanti",
+      "slug": "dala-lawanti"
+    },
+    "code": {
+      "id": "NG008013_dala-lawanti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008013",
+      "level": 2,
+      "name": {
+        "local": "Jere",
+        "en": "Jere",
+        "slug": "jere-ng008013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008013",
+        "level": 2,
+        "name": {
+          "local": "Jere",
+          "en": "Jere",
+          "slug": "jere-ng008013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.757",
+      "lon": "13.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008013_dusuman",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dusuman",
+      "en": "Dusuman",
+      "slug": "dusuman"
+    },
+    "code": {
+      "id": "NG008013_dusuman",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008013",
+      "level": 2,
+      "name": {
+        "local": "Jere",
+        "en": "Jere",
+        "slug": "jere-ng008013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008013",
+        "level": 2,
+        "name": {
+          "local": "Jere",
+          "en": "Jere",
+          "slug": "jere-ng008013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.873",
+      "lon": "13.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008013_gomari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gomari",
+      "en": "Gomari",
+      "slug": "gomari"
+    },
+    "code": {
+      "id": "NG008013_gomari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008013",
+      "level": 2,
+      "name": {
+        "local": "Jere",
+        "en": "Jere",
+        "slug": "jere-ng008013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008013",
+        "level": 2,
+        "name": {
+          "local": "Jere",
+          "en": "Jere",
+          "slug": "jere-ng008013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.832",
+      "lon": "13.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008013_gongulong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gongulong",
+      "en": "Gongulong",
+      "slug": "gongulong"
+    },
+    "code": {
+      "id": "NG008013_gongulong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008013",
+      "level": 2,
+      "name": {
+        "local": "Jere",
+        "en": "Jere",
+        "slug": "jere-ng008013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008013",
+        "level": 2,
+        "name": {
+          "local": "Jere",
+          "en": "Jere",
+          "slug": "jere-ng008013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.948",
+      "lon": "13.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008013_maimusari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maimusari",
+      "en": "Maimusari",
+      "slug": "maimusari"
+    },
+    "code": {
+      "id": "NG008013_maimusari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008013",
+      "level": 2,
+      "name": {
+        "local": "Jere",
+        "en": "Jere",
+        "slug": "jere-ng008013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008013",
+        "level": 2,
+        "name": {
+          "local": "Jere",
+          "en": "Jere",
+          "slug": "jere-ng008013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.839",
+      "lon": "13.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008013_mairi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mairi",
+      "en": "Mairi",
+      "slug": "mairi"
+    },
+    "code": {
+      "id": "NG008013_mairi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008013",
+      "level": 2,
+      "name": {
+        "local": "Jere",
+        "en": "Jere",
+        "slug": "jere-ng008013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008013",
+        "level": 2,
+        "name": {
+          "local": "Jere",
+          "en": "Jere",
+          "slug": "jere-ng008013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.8",
+      "lon": "13.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008013_mashamari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mashamari",
+      "en": "Mashamari",
+      "slug": "mashamari"
+    },
+    "code": {
+      "id": "NG008013_mashamari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008013",
+      "level": 2,
+      "name": {
+        "local": "Jere",
+        "en": "Jere",
+        "slug": "jere-ng008013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008013",
+        "level": 2,
+        "name": {
+          "local": "Jere",
+          "en": "Jere",
+          "slug": "jere-ng008013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.849",
+      "lon": "13.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008013_ngudaaaddamari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngudaa/addamari",
+      "en": "Ngudaa/addamari",
+      "slug": "ngudaaaddamari"
+    },
+    "code": {
+      "id": "NG008013_ngudaaaddamari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008013",
+      "level": 2,
+      "name": {
+        "local": "Jere",
+        "en": "Jere",
+        "slug": "jere-ng008013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008013",
+        "level": 2,
+        "name": {
+          "local": "Jere",
+          "en": "Jere",
+          "slug": "jere-ng008013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.927",
+      "lon": "13.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008013_old-maiduguri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Old Maiduguri",
+      "en": "Old Maiduguri",
+      "slug": "old-maiduguri"
+    },
+    "code": {
+      "id": "NG008013_old-maiduguri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008013",
+      "level": 2,
+      "name": {
+        "local": "Jere",
+        "en": "Jere",
+        "slug": "jere-ng008013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008013",
+        "level": 2,
+        "name": {
+          "local": "Jere",
+          "en": "Jere",
+          "slug": "jere-ng008013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.897",
+      "lon": "13.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008013_tuba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tuba",
+      "en": "Tuba",
+      "slug": "tuba"
+    },
+    "code": {
+      "id": "NG008013_tuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008013",
+      "level": 2,
+      "name": {
+        "local": "Jere",
+        "en": "Jere",
+        "slug": "jere-ng008013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008013",
+        "level": 2,
+        "name": {
+          "local": "Jere",
+          "en": "Jere",
+          "slug": "jere-ng008013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.063",
+      "lon": "13.154"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

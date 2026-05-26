@@ -1,0 +1,47 @@
+{
+  "id": "NG017007",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ihitte/Uboma",
+    "en": "Ihitte/Uboma",
+    "slug": "ihitteuboma-ng017007"
+  },
+  "code": {
+    "id": "NG017007",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG017",
+    "level": 1,
+    "name": {
+      "local": "Imo",
+      "en": "Imo",
+      "slug": "imo-ng017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.647",
+    "lon": "7.382"
+  },
+  "metadata": {},
+  "source": {}
+}

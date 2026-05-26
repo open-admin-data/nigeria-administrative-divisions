@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG015004_dobi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dobi",
+      "en": "Dobi",
+      "slug": "dobi"
+    },
+    "code": {
+      "id": "NG015004_dobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015004",
+      "level": 2,
+      "name": {
+        "local": "Gwagwalada",
+        "en": "Gwagwalada",
+        "slug": "gwagwalada-ng015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015004",
+        "level": 2,
+        "name": {
+          "local": "Gwagwalada",
+          "en": "Gwagwalada",
+          "slug": "gwagwalada-ng015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.076",
+      "lon": "7.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015004_gwagwalada-centre",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwagwalada Centre",
+      "en": "Gwagwalada Centre",
+      "slug": "gwagwalada-centre"
+    },
+    "code": {
+      "id": "NG015004_gwagwalada-centre",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015004",
+      "level": 2,
+      "name": {
+        "local": "Gwagwalada",
+        "en": "Gwagwalada",
+        "slug": "gwagwalada-ng015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015004",
+        "level": 2,
+        "name": {
+          "local": "Gwagwalada",
+          "en": "Gwagwalada",
+          "slug": "gwagwalada-ng015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.076",
+      "lon": "7.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015004_gwako",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwako",
+      "en": "Gwako",
+      "slug": "gwako"
+    },
+    "code": {
+      "id": "NG015004_gwako",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015004",
+      "level": 2,
+      "name": {
+        "local": "Gwagwalada",
+        "en": "Gwagwalada",
+        "slug": "gwagwalada-ng015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015004",
+        "level": 2,
+        "name": {
+          "local": "Gwagwalada",
+          "en": "Gwagwalada",
+          "slug": "gwagwalada-ng015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.076",
+      "lon": "7.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015004_ibwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibwa",
+      "en": "Ibwa",
+      "slug": "ibwa"
+    },
+    "code": {
+      "id": "NG015004_ibwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015004",
+      "level": 2,
+      "name": {
+        "local": "Gwagwalada",
+        "en": "Gwagwalada",
+        "slug": "gwagwalada-ng015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015004",
+        "level": 2,
+        "name": {
+          "local": "Gwagwalada",
+          "en": "Gwagwalada",
+          "slug": "gwagwalada-ng015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.076",
+      "lon": "7.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015004_ikwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikwa",
+      "en": "Ikwa",
+      "slug": "ikwa"
+    },
+    "code": {
+      "id": "NG015004_ikwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015004",
+      "level": 2,
+      "name": {
+        "local": "Gwagwalada",
+        "en": "Gwagwalada",
+        "slug": "gwagwalada-ng015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015004",
+        "level": 2,
+        "name": {
+          "local": "Gwagwalada",
+          "en": "Gwagwalada",
+          "slug": "gwagwalada-ng015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.076",
+      "lon": "7.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015004_kutunku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kutunku",
+      "en": "Kutunku",
+      "slug": "kutunku"
+    },
+    "code": {
+      "id": "NG015004_kutunku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015004",
+      "level": 2,
+      "name": {
+        "local": "Gwagwalada",
+        "en": "Gwagwalada",
+        "slug": "gwagwalada-ng015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015004",
+        "level": 2,
+        "name": {
+          "local": "Gwagwalada",
+          "en": "Gwagwalada",
+          "slug": "gwagwalada-ng015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.076",
+      "lon": "7.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015004_paiko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Paiko",
+      "en": "Paiko",
+      "slug": "paiko"
+    },
+    "code": {
+      "id": "NG015004_paiko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015004",
+      "level": 2,
+      "name": {
+        "local": "Gwagwalada",
+        "en": "Gwagwalada",
+        "slug": "gwagwalada-ng015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015004",
+        "level": 2,
+        "name": {
+          "local": "Gwagwalada",
+          "en": "Gwagwalada",
+          "slug": "gwagwalada-ng015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.076",
+      "lon": "7.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015004_staff-quarters",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Staff Quarters",
+      "en": "Staff Quarters",
+      "slug": "staff-quarters"
+    },
+    "code": {
+      "id": "NG015004_staff-quarters",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015004",
+      "level": 2,
+      "name": {
+        "local": "Gwagwalada",
+        "en": "Gwagwalada",
+        "slug": "gwagwalada-ng015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015004",
+        "level": 2,
+        "name": {
+          "local": "Gwagwalada",
+          "en": "Gwagwalada",
+          "slug": "gwagwalada-ng015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.076",
+      "lon": "7.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015004_tungan-maje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tungan Maje",
+      "en": "Tungan Maje",
+      "slug": "tungan-maje"
+    },
+    "code": {
+      "id": "NG015004_tungan-maje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015004",
+      "level": 2,
+      "name": {
+        "local": "Gwagwalada",
+        "en": "Gwagwalada",
+        "slug": "gwagwalada-ng015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015004",
+        "level": 2,
+        "name": {
+          "local": "Gwagwalada",
+          "en": "Gwagwalada",
+          "slug": "gwagwalada-ng015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.076",
+      "lon": "7.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015004_zuba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zuba",
+      "en": "Zuba",
+      "slug": "zuba"
+    },
+    "code": {
+      "id": "NG015004_zuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015004",
+      "level": 2,
+      "name": {
+        "local": "Gwagwalada",
+        "en": "Gwagwalada",
+        "slug": "gwagwalada-ng015004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015004",
+        "level": 2,
+        "name": {
+          "local": "Gwagwalada",
+          "en": "Gwagwalada",
+          "slug": "gwagwalada-ng015004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.076",
+      "lon": "7.054"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

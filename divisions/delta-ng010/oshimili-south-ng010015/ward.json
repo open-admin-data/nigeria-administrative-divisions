@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG010015_agu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agu",
+      "en": "Agu",
+      "slug": "agu"
+    },
+    "code": {
+      "id": "NG010015_agu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010015",
+      "level": 2,
+      "name": {
+        "local": "Oshimili South",
+        "en": "Oshimili South",
+        "slug": "oshimili-south-ng010015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010015",
+        "level": 2,
+        "name": {
+          "local": "Oshimili South",
+          "en": "Oshimili South",
+          "slug": "oshimili-south-ng010015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "6.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010015_anala-amakom",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Anala-amakom",
+      "en": "Anala-amakom",
+      "slug": "anala-amakom"
+    },
+    "code": {
+      "id": "NG010015_anala-amakom",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010015",
+      "level": 2,
+      "name": {
+        "local": "Oshimili South",
+        "en": "Oshimili South",
+        "slug": "oshimili-south-ng010015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010015",
+        "level": 2,
+        "name": {
+          "local": "Oshimili South",
+          "en": "Oshimili South",
+          "slug": "oshimili-south-ng010015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "6.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010015_cable-point-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Cable Point I",
+      "en": "Cable Point I",
+      "slug": "cable-point-i"
+    },
+    "code": {
+      "id": "NG010015_cable-point-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010015",
+      "level": 2,
+      "name": {
+        "local": "Oshimili South",
+        "en": "Oshimili South",
+        "slug": "oshimili-south-ng010015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010015",
+        "level": 2,
+        "name": {
+          "local": "Oshimili South",
+          "en": "Oshimili South",
+          "slug": "oshimili-south-ng010015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "6.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010015_cable-point-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Cable Point Ii",
+      "en": "Cable Point Ii",
+      "slug": "cable-point-ii"
+    },
+    "code": {
+      "id": "NG010015_cable-point-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010015",
+      "level": 2,
+      "name": {
+        "local": "Oshimili South",
+        "en": "Oshimili South",
+        "slug": "oshimili-south-ng010015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010015",
+        "level": 2,
+        "name": {
+          "local": "Oshimili South",
+          "en": "Oshimili South",
+          "slug": "oshimili-south-ng010015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "6.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010015_ogbeleakpako",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbele/akpako",
+      "en": "Ogbele/akpako",
+      "slug": "ogbeleakpako"
+    },
+    "code": {
+      "id": "NG010015_ogbeleakpako",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010015",
+      "level": 2,
+      "name": {
+        "local": "Oshimili South",
+        "en": "Oshimili South",
+        "slug": "oshimili-south-ng010015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010015",
+        "level": 2,
+        "name": {
+          "local": "Oshimili South",
+          "en": "Oshimili South",
+          "slug": "oshimili-south-ng010015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "6.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010015_okwe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okwe",
+      "en": "Okwe",
+      "slug": "okwe"
+    },
+    "code": {
+      "id": "NG010015_okwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010015",
+      "level": 2,
+      "name": {
+        "local": "Oshimili South",
+        "en": "Oshimili South",
+        "slug": "oshimili-south-ng010015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010015",
+        "level": 2,
+        "name": {
+          "local": "Oshimili South",
+          "en": "Oshimili South",
+          "slug": "oshimili-south-ng010015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "6.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010015_ugbomanta-quarters",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugbomanta Quarters",
+      "en": "Ugbomanta Quarters",
+      "slug": "ugbomanta-quarters"
+    },
+    "code": {
+      "id": "NG010015_ugbomanta-quarters",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010015",
+      "level": 2,
+      "name": {
+        "local": "Oshimili South",
+        "en": "Oshimili South",
+        "slug": "oshimili-south-ng010015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010015",
+        "level": 2,
+        "name": {
+          "local": "Oshimili South",
+          "en": "Oshimili South",
+          "slug": "oshimili-south-ng010015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "6.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010015_umuaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuaji",
+      "en": "Umuaji",
+      "slug": "umuaji"
+    },
+    "code": {
+      "id": "NG010015_umuaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010015",
+      "level": 2,
+      "name": {
+        "local": "Oshimili South",
+        "en": "Oshimili South",
+        "slug": "oshimili-south-ng010015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010015",
+        "level": 2,
+        "name": {
+          "local": "Oshimili South",
+          "en": "Oshimili South",
+          "slug": "oshimili-south-ng010015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "6.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010015_umuezei",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuezei",
+      "en": "Umuezei",
+      "slug": "umuezei"
+    },
+    "code": {
+      "id": "NG010015_umuezei",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010015",
+      "level": 2,
+      "name": {
+        "local": "Oshimili South",
+        "en": "Oshimili South",
+        "slug": "oshimili-south-ng010015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010015",
+        "level": 2,
+        "name": {
+          "local": "Oshimili South",
+          "en": "Oshimili South",
+          "slug": "oshimili-south-ng010015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "6.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010015_umuonaje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuonaje",
+      "en": "Umuonaje",
+      "slug": "umuonaje"
+    },
+    "code": {
+      "id": "NG010015_umuonaje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010015",
+      "level": 2,
+      "name": {
+        "local": "Oshimili South",
+        "en": "Oshimili South",
+        "slug": "oshimili-south-ng010015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010015",
+        "level": 2,
+        "name": {
+          "local": "Oshimili South",
+          "en": "Oshimili South",
+          "slug": "oshimili-south-ng010015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "6.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010015_west-end",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "West End",
+      "en": "West End",
+      "slug": "west-end"
+    },
+    "code": {
+      "id": "NG010015_west-end",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010015",
+      "level": 2,
+      "name": {
+        "local": "Oshimili South",
+        "en": "Oshimili South",
+        "slug": "oshimili-south-ng010015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010015",
+        "level": 2,
+        "name": {
+          "local": "Oshimili South",
+          "en": "Oshimili South",
+          "slug": "oshimili-south-ng010015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "6.731"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

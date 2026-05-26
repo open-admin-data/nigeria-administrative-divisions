@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG009012_abanyum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abanyum",
+      "en": "Abanyum",
+      "slug": "abanyum"
+    },
+    "code": {
+      "id": "NG009012_abanyum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009012",
+      "level": 2,
+      "name": {
+        "local": "Ikom",
+        "en": "Ikom",
+        "slug": "ikom-ng009012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009012",
+        "level": 2,
+        "name": {
+          "local": "Ikom",
+          "en": "Ikom",
+          "slug": "ikom-ng009012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "8.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009012_akparabong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akparabong",
+      "en": "Akparabong",
+      "slug": "akparabong"
+    },
+    "code": {
+      "id": "NG009012_akparabong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009012",
+      "level": 2,
+      "name": {
+        "local": "Ikom",
+        "en": "Ikom",
+        "slug": "ikom-ng009012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009012",
+        "level": 2,
+        "name": {
+          "local": "Ikom",
+          "en": "Ikom",
+          "slug": "ikom-ng009012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "8.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009012_ikom-urban-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikom Urban I",
+      "en": "Ikom Urban I",
+      "slug": "ikom-urban-i"
+    },
+    "code": {
+      "id": "NG009012_ikom-urban-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009012",
+      "level": 2,
+      "name": {
+        "local": "Ikom",
+        "en": "Ikom",
+        "slug": "ikom-ng009012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009012",
+        "level": 2,
+        "name": {
+          "local": "Ikom",
+          "en": "Ikom",
+          "slug": "ikom-ng009012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "8.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009012_ikom-urban-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikom Urban Ii",
+      "en": "Ikom Urban Ii",
+      "slug": "ikom-urban-ii"
+    },
+    "code": {
+      "id": "NG009012_ikom-urban-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009012",
+      "level": 2,
+      "name": {
+        "local": "Ikom",
+        "en": "Ikom",
+        "slug": "ikom-ng009012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009012",
+        "level": 2,
+        "name": {
+          "local": "Ikom",
+          "en": "Ikom",
+          "slug": "ikom-ng009012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "8.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009012_nde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nde",
+      "en": "Nde",
+      "slug": "nde"
+    },
+    "code": {
+      "id": "NG009012_nde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009012",
+      "level": 2,
+      "name": {
+        "local": "Ikom",
+        "en": "Ikom",
+        "slug": "ikom-ng009012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009012",
+        "level": 2,
+        "name": {
+          "local": "Ikom",
+          "en": "Ikom",
+          "slug": "ikom-ng009012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "8.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009012_nnam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nnam",
+      "en": "Nnam",
+      "slug": "nnam"
+    },
+    "code": {
+      "id": "NG009012_nnam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009012",
+      "level": 2,
+      "name": {
+        "local": "Ikom",
+        "en": "Ikom",
+        "slug": "ikom-ng009012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009012",
+        "level": 2,
+        "name": {
+          "local": "Ikom",
+          "en": "Ikom",
+          "slug": "ikom-ng009012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "8.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009012_ntanselle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nta/nselle",
+      "en": "Nta/nselle",
+      "slug": "ntanselle"
+    },
+    "code": {
+      "id": "NG009012_ntanselle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009012",
+      "level": 2,
+      "name": {
+        "local": "Ikom",
+        "en": "Ikom",
+        "slug": "ikom-ng009012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009012",
+        "level": 2,
+        "name": {
+          "local": "Ikom",
+          "en": "Ikom",
+          "slug": "ikom-ng009012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "8.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009012_ofutop-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ofutop I",
+      "en": "Ofutop I",
+      "slug": "ofutop-i"
+    },
+    "code": {
+      "id": "NG009012_ofutop-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009012",
+      "level": 2,
+      "name": {
+        "local": "Ikom",
+        "en": "Ikom",
+        "slug": "ikom-ng009012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009012",
+        "level": 2,
+        "name": {
+          "local": "Ikom",
+          "en": "Ikom",
+          "slug": "ikom-ng009012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "8.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009012_ofutop-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ofutop Ii",
+      "en": "Ofutop Ii",
+      "slug": "ofutop-ii"
+    },
+    "code": {
+      "id": "NG009012_ofutop-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009012",
+      "level": 2,
+      "name": {
+        "local": "Ikom",
+        "en": "Ikom",
+        "slug": "ikom-ng009012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009012",
+        "level": 2,
+        "name": {
+          "local": "Ikom",
+          "en": "Ikom",
+          "slug": "ikom-ng009012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "8.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009012_olulumo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olulumo",
+      "en": "Olulumo",
+      "slug": "olulumo"
+    },
+    "code": {
+      "id": "NG009012_olulumo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009012",
+      "level": 2,
+      "name": {
+        "local": "Ikom",
+        "en": "Ikom",
+        "slug": "ikom-ng009012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009012",
+        "level": 2,
+        "name": {
+          "local": "Ikom",
+          "en": "Ikom",
+          "slug": "ikom-ng009012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "8.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009012_yalankum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yala/nkum",
+      "en": "Yala/nkum",
+      "slug": "yalankum"
+    },
+    "code": {
+      "id": "NG009012_yalankum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009012",
+      "level": 2,
+      "name": {
+        "local": "Ikom",
+        "en": "Ikom",
+        "slug": "ikom-ng009012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009012",
+        "level": 2,
+        "name": {
+          "local": "Ikom",
+          "en": "Ikom",
+          "slug": "ikom-ng009012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "8.668"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

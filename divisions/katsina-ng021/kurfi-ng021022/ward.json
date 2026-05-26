@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG021022_barkiyya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Barkiyya",
+      "en": "Barkiyya",
+      "slug": "barkiyya"
+    },
+    "code": {
+      "id": "NG021022_barkiyya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021022",
+      "level": 2,
+      "name": {
+        "local": "Kurfi",
+        "en": "Kurfi",
+        "slug": "kurfi-ng021022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021022",
+        "level": 2,
+        "name": {
+          "local": "Kurfi",
+          "en": "Kurfi",
+          "slug": "kurfi-ng021022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.687",
+      "lon": "7.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021022_birchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birchi",
+      "en": "Birchi",
+      "slug": "birchi"
+    },
+    "code": {
+      "id": "NG021022_birchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021022",
+      "level": 2,
+      "name": {
+        "local": "Kurfi",
+        "en": "Kurfi",
+        "slug": "kurfi-ng021022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021022",
+        "level": 2,
+        "name": {
+          "local": "Kurfi",
+          "en": "Kurfi",
+          "slug": "kurfi-ng021022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.687",
+      "lon": "7.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021022_kurfi-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurfi 'a'",
+      "en": "Kurfi 'a'",
+      "slug": "kurfi-a"
+    },
+    "code": {
+      "id": "NG021022_kurfi-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021022",
+      "level": 2,
+      "name": {
+        "local": "Kurfi",
+        "en": "Kurfi",
+        "slug": "kurfi-ng021022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021022",
+        "level": 2,
+        "name": {
+          "local": "Kurfi",
+          "en": "Kurfi",
+          "slug": "kurfi-ng021022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.687",
+      "lon": "7.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021022_kurfi-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurfi 'b'",
+      "en": "Kurfi 'b'",
+      "slug": "kurfi-b"
+    },
+    "code": {
+      "id": "NG021022_kurfi-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021022",
+      "level": 2,
+      "name": {
+        "local": "Kurfi",
+        "en": "Kurfi",
+        "slug": "kurfi-ng021022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021022",
+        "level": 2,
+        "name": {
+          "local": "Kurfi",
+          "en": "Kurfi",
+          "slug": "kurfi-ng021022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.687",
+      "lon": "7.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021022_rawayau-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rawayau 'a'",
+      "en": "Rawayau 'a'",
+      "slug": "rawayau-a"
+    },
+    "code": {
+      "id": "NG021022_rawayau-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021022",
+      "level": 2,
+      "name": {
+        "local": "Kurfi",
+        "en": "Kurfi",
+        "slug": "kurfi-ng021022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021022",
+        "level": 2,
+        "name": {
+          "local": "Kurfi",
+          "en": "Kurfi",
+          "slug": "kurfi-ng021022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.687",
+      "lon": "7.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021022_rawayau-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rawayau 'b'",
+      "en": "Rawayau 'b'",
+      "slug": "rawayau-b"
+    },
+    "code": {
+      "id": "NG021022_rawayau-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021022",
+      "level": 2,
+      "name": {
+        "local": "Kurfi",
+        "en": "Kurfi",
+        "slug": "kurfi-ng021022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021022",
+        "level": 2,
+        "name": {
+          "local": "Kurfi",
+          "en": "Kurfi",
+          "slug": "kurfi-ng021022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.687",
+      "lon": "7.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021022_tsauri-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsauri 'a'",
+      "en": "Tsauri 'a'",
+      "slug": "tsauri-a"
+    },
+    "code": {
+      "id": "NG021022_tsauri-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021022",
+      "level": 2,
+      "name": {
+        "local": "Kurfi",
+        "en": "Kurfi",
+        "slug": "kurfi-ng021022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021022",
+        "level": 2,
+        "name": {
+          "local": "Kurfi",
+          "en": "Kurfi",
+          "slug": "kurfi-ng021022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.687",
+      "lon": "7.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021022_tsauri-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsauri 'b'",
+      "en": "Tsauri 'b'",
+      "slug": "tsauri-b"
+    },
+    "code": {
+      "id": "NG021022_tsauri-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021022",
+      "level": 2,
+      "name": {
+        "local": "Kurfi",
+        "en": "Kurfi",
+        "slug": "kurfi-ng021022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021022",
+        "level": 2,
+        "name": {
+          "local": "Kurfi",
+          "en": "Kurfi",
+          "slug": "kurfi-ng021022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.687",
+      "lon": "7.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021022_wurma-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wurma 'a'",
+      "en": "Wurma 'a'",
+      "slug": "wurma-a"
+    },
+    "code": {
+      "id": "NG021022_wurma-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021022",
+      "level": 2,
+      "name": {
+        "local": "Kurfi",
+        "en": "Kurfi",
+        "slug": "kurfi-ng021022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021022",
+        "level": 2,
+        "name": {
+          "local": "Kurfi",
+          "en": "Kurfi",
+          "slug": "kurfi-ng021022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.687",
+      "lon": "7.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021022_wurma-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wurma 'b'",
+      "en": "Wurma 'b'",
+      "slug": "wurma-b"
+    },
+    "code": {
+      "id": "NG021022_wurma-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021022",
+      "level": 2,
+      "name": {
+        "local": "Kurfi",
+        "en": "Kurfi",
+        "slug": "kurfi-ng021022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021022",
+        "level": 2,
+        "name": {
+          "local": "Kurfi",
+          "en": "Kurfi",
+          "slug": "kurfi-ng021022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.687",
+      "lon": "7.487"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

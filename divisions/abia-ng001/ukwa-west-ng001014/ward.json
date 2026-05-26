@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG001014_asa-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asa North",
+      "en": "Asa North",
+      "slug": "asa-north"
+    },
+    "code": {
+      "id": "NG001014_asa-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001014",
+      "level": 2,
+      "name": {
+        "local": "Ukwa West",
+        "en": "Ukwa West",
+        "slug": "ukwa-west-ng001014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001014",
+        "level": 2,
+        "name": {
+          "local": "Ukwa West",
+          "en": "Ukwa West",
+          "slug": "ukwa-west-ng001014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.979",
+      "lon": "7.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001014_asa-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asa South",
+      "en": "Asa South",
+      "slug": "asa-south"
+    },
+    "code": {
+      "id": "NG001014_asa-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001014",
+      "level": 2,
+      "name": {
+        "local": "Ukwa West",
+        "en": "Ukwa West",
+        "slug": "ukwa-west-ng001014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001014",
+        "level": 2,
+        "name": {
+          "local": "Ukwa West",
+          "en": "Ukwa West",
+          "slug": "ukwa-west-ng001014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.979",
+      "lon": "7.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001014_ipu-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipu East",
+      "en": "Ipu East",
+      "slug": "ipu-east"
+    },
+    "code": {
+      "id": "NG001014_ipu-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001014",
+      "level": 2,
+      "name": {
+        "local": "Ukwa West",
+        "en": "Ukwa West",
+        "slug": "ukwa-west-ng001014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001014",
+        "level": 2,
+        "name": {
+          "local": "Ukwa West",
+          "en": "Ukwa West",
+          "slug": "ukwa-west-ng001014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.979",
+      "lon": "7.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001014_ipu-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipu South",
+      "en": "Ipu South",
+      "slug": "ipu-south"
+    },
+    "code": {
+      "id": "NG001014_ipu-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001014",
+      "level": 2,
+      "name": {
+        "local": "Ukwa West",
+        "en": "Ukwa West",
+        "slug": "ukwa-west-ng001014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001014",
+        "level": 2,
+        "name": {
+          "local": "Ukwa West",
+          "en": "Ukwa West",
+          "slug": "ukwa-west-ng001014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.979",
+      "lon": "7.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001014_ipu-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipu West",
+      "en": "Ipu West",
+      "slug": "ipu-west"
+    },
+    "code": {
+      "id": "NG001014_ipu-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001014",
+      "level": 2,
+      "name": {
+        "local": "Ukwa West",
+        "en": "Ukwa West",
+        "slug": "ukwa-west-ng001014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001014",
+        "level": 2,
+        "name": {
+          "local": "Ukwa West",
+          "en": "Ukwa West",
+          "slug": "ukwa-west-ng001014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.979",
+      "lon": "7.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001014_obokwe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obokwe",
+      "en": "Obokwe",
+      "slug": "obokwe"
+    },
+    "code": {
+      "id": "NG001014_obokwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001014",
+      "level": 2,
+      "name": {
+        "local": "Ukwa West",
+        "en": "Ukwa West",
+        "slug": "ukwa-west-ng001014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001014",
+        "level": 2,
+        "name": {
+          "local": "Ukwa West",
+          "en": "Ukwa West",
+          "slug": "ukwa-west-ng001014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.979",
+      "lon": "7.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001014_obuzor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obuzor",
+      "en": "Obuzor",
+      "slug": "obuzor"
+    },
+    "code": {
+      "id": "NG001014_obuzor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001014",
+      "level": 2,
+      "name": {
+        "local": "Ukwa West",
+        "en": "Ukwa West",
+        "slug": "ukwa-west-ng001014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001014",
+        "level": 2,
+        "name": {
+          "local": "Ukwa West",
+          "en": "Ukwa West",
+          "slug": "ukwa-west-ng001014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.979",
+      "lon": "7.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001014_ogwe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogwe",
+      "en": "Ogwe",
+      "slug": "ogwe"
+    },
+    "code": {
+      "id": "NG001014_ogwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001014",
+      "level": 2,
+      "name": {
+        "local": "Ukwa West",
+        "en": "Ukwa West",
+        "slug": "ukwa-west-ng001014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001014",
+        "level": 2,
+        "name": {
+          "local": "Ukwa West",
+          "en": "Ukwa West",
+          "slug": "ukwa-west-ng001014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.979",
+      "lon": "7.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001014_ozaa-ukwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ozaa Ukwu",
+      "en": "Ozaa Ukwu",
+      "slug": "ozaa-ukwu"
+    },
+    "code": {
+      "id": "NG001014_ozaa-ukwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001014",
+      "level": 2,
+      "name": {
+        "local": "Ukwa West",
+        "en": "Ukwa West",
+        "slug": "ukwa-west-ng001014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001014",
+        "level": 2,
+        "name": {
+          "local": "Ukwa West",
+          "en": "Ukwa West",
+          "slug": "ukwa-west-ng001014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.979",
+      "lon": "7.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001014_ozaa-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ozaa West",
+      "en": "Ozaa West",
+      "slug": "ozaa-west"
+    },
+    "code": {
+      "id": "NG001014_ozaa-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001014",
+      "level": 2,
+      "name": {
+        "local": "Ukwa West",
+        "en": "Ukwa West",
+        "slug": "ukwa-west-ng001014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001014",
+        "level": 2,
+        "name": {
+          "local": "Ukwa West",
+          "en": "Ukwa West",
+          "slug": "ukwa-west-ng001014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.979",
+      "lon": "7.251"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

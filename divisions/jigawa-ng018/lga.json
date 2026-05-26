@@ -1,0 +1,1271 @@
+[
+  {
+    "id": "NG018001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Auyo",
+      "en": "Auyo",
+      "slug": "auyo-ng018001"
+    },
+    "code": {
+      "id": "NG018001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.338",
+      "lon": "9.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Babura",
+      "en": "Babura",
+      "slug": "babura-ng018002"
+    },
+    "code": {
+      "id": "NG018002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.613",
+      "lon": "8.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Biriniwa",
+      "en": "Biriniwa",
+      "slug": "biriniwa-ng018003"
+    },
+    "code": {
+      "id": "NG018003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Birni Kudu",
+      "en": "Birni Kudu",
+      "slug": "birni-kudu-ng018004"
+    },
+    "code": {
+      "id": "NG018004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.49",
+      "lon": "9.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Buji",
+      "en": "Buji",
+      "slug": "buji-ng018005"
+    },
+    "code": {
+      "id": "NG018005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dutse",
+      "en": "Dutse",
+      "slug": "dutse-ng018006"
+    },
+    "code": {
+      "id": "NG018006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "9.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gagarawa",
+      "en": "Gagarawa",
+      "slug": "gagarawa-ng018007"
+    },
+    "code": {
+      "id": "NG018007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.493",
+      "lon": "9.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Garki",
+      "en": "Garki",
+      "slug": "garki-ng018008"
+    },
+    "code": {
+      "id": "NG018008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gumel",
+      "en": "Gumel",
+      "slug": "gumel-ng018009"
+    },
+    "code": {
+      "id": "NG018009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.632",
+      "lon": "9.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Guri",
+      "en": "Guri",
+      "slug": "guri-ng018010"
+    },
+    "code": {
+      "id": "NG018010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.645",
+      "lon": "10.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gwaram",
+      "en": "Gwaram",
+      "slug": "gwaram-ng018011"
+    },
+    "code": {
+      "id": "NG018011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gwiwa",
+      "en": "Gwiwa",
+      "slug": "gwiwa-ng018012"
+    },
+    "code": {
+      "id": "NG018012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.744",
+      "lon": "8.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hadejia",
+      "en": "Hadejia",
+      "slug": "hadejia-ng018013"
+    },
+    "code": {
+      "id": "NG018013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "10.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Jahun",
+      "en": "Jahun",
+      "slug": "jahun-ng018014"
+    },
+    "code": {
+      "id": "NG018014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "9.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kafin Hausa",
+      "en": "Kafin Hausa",
+      "slug": "kafin-hausa-ng018015"
+    },
+    "code": {
+      "id": "NG018015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.169",
+      "lon": "9.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kaugama",
+      "en": "Kaugama",
+      "slug": "kaugama-ng018016"
+    },
+    "code": {
+      "id": "NG018016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kazaure",
+      "en": "Kazaure",
+      "slug": "kazaure-ng018017"
+    },
+    "code": {
+      "id": "NG018017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "8.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kiri Kasamma",
+      "en": "Kiri Kasamma",
+      "slug": "kiri-kasamma-ng018018"
+    },
+    "code": {
+      "id": "NG018018",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.6",
+      "lon": "10.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kiyawa",
+      "en": "Kiyawa",
+      "slug": "kiyawa-ng018019"
+    },
+    "code": {
+      "id": "NG018019",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.812",
+      "lon": "9.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Maigatari",
+      "en": "Maigatari",
+      "slug": "maigatari-ng018020"
+    },
+    "code": {
+      "id": "NG018020",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Malam Madori",
+      "en": "Malam Madori",
+      "slug": "malam-madori-ng018021"
+    },
+    "code": {
+      "id": "NG018021",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "9.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Miga",
+      "en": "Miga",
+      "slug": "miga-ng018022"
+    },
+    "code": {
+      "id": "NG018022",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "9.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ringim",
+      "en": "Ringim",
+      "slug": "ringim-ng018023"
+    },
+    "code": {
+      "id": "NG018023",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.17",
+      "lon": "9.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018024",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Roni",
+      "en": "Roni",
+      "slug": "roni-ng018024"
+    },
+    "code": {
+      "id": "NG018024",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.572",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018025",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Sule-Tankarkar",
+      "en": "Sule-Tankarkar",
+      "slug": "sule-tankarkar-ng018025"
+    },
+    "code": {
+      "id": "NG018025",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.634",
+      "lon": "9.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018026",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Taura",
+      "en": "Taura",
+      "slug": "taura-ng018026"
+    },
+    "code": {
+      "id": "NG018026",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.279",
+      "lon": "9.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018027",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yankwashi",
+      "en": "Yankwashi",
+      "slug": "yankwashi-ng018027"
+    },
+    "code": {
+      "id": "NG018027",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.743",
+      "lon": "8.503"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

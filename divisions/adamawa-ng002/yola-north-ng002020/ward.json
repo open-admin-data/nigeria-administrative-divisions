@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG002020_ajiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajiya",
+      "en": "Ajiya",
+      "slug": "ajiya"
+    },
+    "code": {
+      "id": "NG002020_ajiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002020",
+      "level": 2,
+      "name": {
+        "local": "Yola North",
+        "en": "Yola North",
+        "slug": "yola-north-ng002020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002020",
+        "level": 2,
+        "name": {
+          "local": "Yola North",
+          "en": "Yola North",
+          "slug": "yola-north-ng002020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.27",
+      "lon": "12.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002020_alkalawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alkalawa",
+      "en": "Alkalawa",
+      "slug": "alkalawa"
+    },
+    "code": {
+      "id": "NG002020_alkalawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002020",
+      "level": 2,
+      "name": {
+        "local": "Yola North",
+        "en": "Yola North",
+        "slug": "yola-north-ng002020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002020",
+        "level": 2,
+        "name": {
+          "local": "Yola North",
+          "en": "Yola North",
+          "slug": "yola-north-ng002020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.269",
+      "lon": "12.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002020_doubeli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doubeli",
+      "en": "Doubeli",
+      "slug": "doubeli"
+    },
+    "code": {
+      "id": "NG002020_doubeli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002020",
+      "level": 2,
+      "name": {
+        "local": "Yola North",
+        "en": "Yola North",
+        "slug": "yola-north-ng002020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002020",
+        "level": 2,
+        "name": {
+          "local": "Yola North",
+          "en": "Yola North",
+          "slug": "yola-north-ng002020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.284",
+      "lon": "12.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002020_gwadabawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwadabawa",
+      "en": "Gwadabawa",
+      "slug": "gwadabawa"
+    },
+    "code": {
+      "id": "NG002020_gwadabawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002020",
+      "level": 2,
+      "name": {
+        "local": "Yola North",
+        "en": "Yola North",
+        "slug": "yola-north-ng002020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002020",
+        "level": 2,
+        "name": {
+          "local": "Yola North",
+          "en": "Yola North",
+          "slug": "yola-north-ng002020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.249",
+      "lon": "12.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002020_jambutu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jambutu",
+      "en": "Jambutu",
+      "slug": "jambutu"
+    },
+    "code": {
+      "id": "NG002020_jambutu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002020",
+      "level": 2,
+      "name": {
+        "local": "Yola North",
+        "en": "Yola North",
+        "slug": "yola-north-ng002020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002020",
+        "level": 2,
+        "name": {
+          "local": "Yola North",
+          "en": "Yola North",
+          "slug": "yola-north-ng002020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.288",
+      "lon": "12.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002020_karewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karewa",
+      "en": "Karewa",
+      "slug": "karewa"
+    },
+    "code": {
+      "id": "NG002020_karewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002020",
+      "level": 2,
+      "name": {
+        "local": "Yola North",
+        "en": "Yola North",
+        "slug": "yola-north-ng002020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002020",
+        "level": 2,
+        "name": {
+          "local": "Yola North",
+          "en": "Yola North",
+          "slug": "yola-north-ng002020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.243",
+      "lon": "12.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002020_limawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Limawa",
+      "en": "Limawa",
+      "slug": "limawa"
+    },
+    "code": {
+      "id": "NG002020_limawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002020",
+      "level": 2,
+      "name": {
+        "local": "Yola North",
+        "en": "Yola North",
+        "slug": "yola-north-ng002020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002020",
+        "level": 2,
+        "name": {
+          "local": "Yola North",
+          "en": "Yola North",
+          "slug": "yola-north-ng002020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.283",
+      "lon": "12.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002020_luggere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Luggere",
+      "en": "Luggere",
+      "slug": "luggere"
+    },
+    "code": {
+      "id": "NG002020_luggere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002020",
+      "level": 2,
+      "name": {
+        "local": "Yola North",
+        "en": "Yola North",
+        "slug": "yola-north-ng002020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002020",
+        "level": 2,
+        "name": {
+          "local": "Yola North",
+          "en": "Yola North",
+          "slug": "yola-north-ng002020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.269",
+      "lon": "12.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002020_nassarawo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nassarawo",
+      "en": "Nassarawo",
+      "slug": "nassarawo"
+    },
+    "code": {
+      "id": "NG002020_nassarawo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002020",
+      "level": 2,
+      "name": {
+        "local": "Yola North",
+        "en": "Yola North",
+        "slug": "yola-north-ng002020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002020",
+        "level": 2,
+        "name": {
+          "local": "Yola North",
+          "en": "Yola North",
+          "slug": "yola-north-ng002020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.279",
+      "lon": "12.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002020_rumde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumde",
+      "en": "Rumde",
+      "slug": "rumde"
+    },
+    "code": {
+      "id": "NG002020_rumde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002020",
+      "level": 2,
+      "name": {
+        "local": "Yola North",
+        "en": "Yola North",
+        "slug": "yola-north-ng002020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002020",
+        "level": 2,
+        "name": {
+          "local": "Yola North",
+          "en": "Yola North",
+          "slug": "yola-north-ng002020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.285",
+      "lon": "12.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002020_yelwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yelwa",
+      "en": "Yelwa",
+      "slug": "yelwa"
+    },
+    "code": {
+      "id": "NG002020_yelwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002020",
+      "level": 2,
+      "name": {
+        "local": "Yola North",
+        "en": "Yola North",
+        "slug": "yola-north-ng002020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002020",
+        "level": 2,
+        "name": {
+          "local": "Yola North",
+          "en": "Yola North",
+          "slug": "yola-north-ng002020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.282",
+      "lon": "12.455"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

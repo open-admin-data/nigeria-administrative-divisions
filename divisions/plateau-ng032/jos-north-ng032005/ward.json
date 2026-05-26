@@ -1,0 +1,758 @@
+[
+  {
+    "id": "NG032005_abba-na-shehu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abba Na Shehu",
+      "en": "Abba Na Shehu",
+      "slug": "abba-na-shehu"
+    },
+    "code": {
+      "id": "NG032005_abba-na-shehu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_ali-kazaure",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ali Kazaure",
+      "en": "Ali Kazaure",
+      "slug": "ali-kazaure"
+    },
+    "code": {
+      "id": "NG032005_ali-kazaure",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_gangare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gangare",
+      "en": "Gangare",
+      "slug": "gangare"
+    },
+    "code": {
+      "id": "NG032005_gangare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_garba-daho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garba Daho",
+      "en": "Garba Daho",
+      "slug": "garba-daho"
+    },
+    "code": {
+      "id": "NG032005_garba-daho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_ibrahim-katsina",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibrahim Katsina",
+      "en": "Ibrahim Katsina",
+      "slug": "ibrahim-katsina"
+    },
+    "code": {
+      "id": "NG032005_ibrahim-katsina",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_jenta-adamu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jenta Adamu",
+      "en": "Jenta Adamu",
+      "slug": "jenta-adamu"
+    },
+    "code": {
+      "id": "NG032005_jenta-adamu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_jenta-apata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jenta Apata",
+      "en": "Jenta Apata",
+      "slug": "jenta-apata"
+    },
+    "code": {
+      "id": "NG032005_jenta-apata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_jos-jarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jos Jarawa",
+      "en": "Jos Jarawa",
+      "slug": "jos-jarawa"
+    },
+    "code": {
+      "id": "NG032005_jos-jarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_naraguta-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Naraguta 'a'",
+      "en": "Naraguta 'a'",
+      "slug": "naraguta-a"
+    },
+    "code": {
+      "id": "NG032005_naraguta-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_naraguta-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Naraguta 'b'",
+      "en": "Naraguta 'b'",
+      "slug": "naraguta-b"
+    },
+    "code": {
+      "id": "NG032005_naraguta-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_sarkin-arab",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarkin Arab",
+      "en": "Sarkin Arab",
+      "slug": "sarkin-arab"
+    },
+    "code": {
+      "id": "NG032005_sarkin-arab",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_tafawa-balewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tafawa Balewa",
+      "en": "Tafawa Balewa",
+      "slug": "tafawa-balewa"
+    },
+    "code": {
+      "id": "NG032005_tafawa-balewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_tudun-wada---kabong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Wada - Kabong",
+      "en": "Tudun Wada - Kabong",
+      "slug": "tudun-wada---kabong"
+    },
+    "code": {
+      "id": "NG032005_tudun-wada---kabong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032005_vanderpuye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Vanderpuye",
+      "en": "Vanderpuye",
+      "slug": "vanderpuye"
+    },
+    "code": {
+      "id": "NG032005_vanderpuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032005",
+      "level": 2,
+      "name": {
+        "local": "Jos North",
+        "en": "Jos North",
+        "slug": "jos-north-ng032005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032005",
+        "level": 2,
+        "name": {
+          "local": "Jos North",
+          "en": "Jos North",
+          "slug": "jos-north-ng032005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.944",
+      "lon": "8.895"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

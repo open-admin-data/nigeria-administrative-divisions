@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020014_dal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dal",
+      "en": "Dal",
+      "slug": "dal"
+    },
+    "code": {
+      "id": "NG020014_dal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020014",
+      "level": 2,
+      "name": {
+        "local": "Garko",
+        "en": "Garko",
+        "slug": "garko-ng020014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020014",
+        "level": 2,
+        "name": {
+          "local": "Garko",
+          "en": "Garko",
+          "slug": "garko-ng020014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.551",
+      "lon": "8.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020014_garin-ali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garin Ali",
+      "en": "Garin Ali",
+      "slug": "garin-ali"
+    },
+    "code": {
+      "id": "NG020014_garin-ali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020014",
+      "level": 2,
+      "name": {
+        "local": "Garko",
+        "en": "Garko",
+        "slug": "garko-ng020014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020014",
+        "level": 2,
+        "name": {
+          "local": "Garko",
+          "en": "Garko",
+          "slug": "garko-ng020014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.551",
+      "lon": "8.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020014_garko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garko",
+      "en": "Garko",
+      "slug": "garko"
+    },
+    "code": {
+      "id": "NG020014_garko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020014",
+      "level": 2,
+      "name": {
+        "local": "Garko",
+        "en": "Garko",
+        "slug": "garko-ng020014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020014",
+        "level": 2,
+        "name": {
+          "local": "Garko",
+          "en": "Garko",
+          "slug": "garko-ng020014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.551",
+      "lon": "8.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020014_gurjiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gurjiya",
+      "en": "Gurjiya",
+      "slug": "gurjiya"
+    },
+    "code": {
+      "id": "NG020014_gurjiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020014",
+      "level": 2,
+      "name": {
+        "local": "Garko",
+        "en": "Garko",
+        "slug": "garko-ng020014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020014",
+        "level": 2,
+        "name": {
+          "local": "Garko",
+          "en": "Garko",
+          "slug": "garko-ng020014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.551",
+      "lon": "8.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020014_kafin-malamai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafin Malamai",
+      "en": "Kafin Malamai",
+      "slug": "kafin-malamai"
+    },
+    "code": {
+      "id": "NG020014_kafin-malamai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020014",
+      "level": 2,
+      "name": {
+        "local": "Garko",
+        "en": "Garko",
+        "slug": "garko-ng020014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020014",
+        "level": 2,
+        "name": {
+          "local": "Garko",
+          "en": "Garko",
+          "slug": "garko-ng020014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.551",
+      "lon": "8.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020014_katumari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Katumari",
+      "en": "Katumari",
+      "slug": "katumari"
+    },
+    "code": {
+      "id": "NG020014_katumari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020014",
+      "level": 2,
+      "name": {
+        "local": "Garko",
+        "en": "Garko",
+        "slug": "garko-ng020014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020014",
+        "level": 2,
+        "name": {
+          "local": "Garko",
+          "en": "Garko",
+          "slug": "garko-ng020014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.551",
+      "lon": "8.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020014_kwas",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwas",
+      "en": "Kwas",
+      "slug": "kwas"
+    },
+    "code": {
+      "id": "NG020014_kwas",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020014",
+      "level": 2,
+      "name": {
+        "local": "Garko",
+        "en": "Garko",
+        "slug": "garko-ng020014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020014",
+        "level": 2,
+        "name": {
+          "local": "Garko",
+          "en": "Garko",
+          "slug": "garko-ng020014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.551",
+      "lon": "8.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020014_raba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Raba",
+      "en": "Raba",
+      "slug": "raba"
+    },
+    "code": {
+      "id": "NG020014_raba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020014",
+      "level": 2,
+      "name": {
+        "local": "Garko",
+        "en": "Garko",
+        "slug": "garko-ng020014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020014",
+        "level": 2,
+        "name": {
+          "local": "Garko",
+          "en": "Garko",
+          "slug": "garko-ng020014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.551",
+      "lon": "8.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020014_sarina",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarina",
+      "en": "Sarina",
+      "slug": "sarina"
+    },
+    "code": {
+      "id": "NG020014_sarina",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020014",
+      "level": 2,
+      "name": {
+        "local": "Garko",
+        "en": "Garko",
+        "slug": "garko-ng020014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020014",
+        "level": 2,
+        "name": {
+          "local": "Garko",
+          "en": "Garko",
+          "slug": "garko-ng020014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.551",
+      "lon": "8.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020014_zakarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zakarawa",
+      "en": "Zakarawa",
+      "slug": "zakarawa"
+    },
+    "code": {
+      "id": "NG020014_zakarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020014",
+      "level": 2,
+      "name": {
+        "local": "Garko",
+        "en": "Garko",
+        "slug": "garko-ng020014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020014",
+        "level": 2,
+        "name": {
+          "local": "Garko",
+          "en": "Garko",
+          "slug": "garko-ng020014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.551",
+      "lon": "8.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

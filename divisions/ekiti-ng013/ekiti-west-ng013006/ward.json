@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG013006_aramoko-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aramoko I",
+      "en": "Aramoko I",
+      "slug": "aramoko-i"
+    },
+    "code": {
+      "id": "NG013006_aramoko-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013006",
+      "level": 2,
+      "name": {
+        "local": "Ekiti West",
+        "en": "Ekiti West",
+        "slug": "ekiti-west-ng013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013006",
+        "level": 2,
+        "name": {
+          "local": "Ekiti West",
+          "en": "Ekiti West",
+          "slug": "ekiti-west-ng013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.719",
+      "lon": "5.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013006_aramoko-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aramoko Ii",
+      "en": "Aramoko Ii",
+      "slug": "aramoko-ii"
+    },
+    "code": {
+      "id": "NG013006_aramoko-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013006",
+      "level": 2,
+      "name": {
+        "local": "Ekiti West",
+        "en": "Ekiti West",
+        "slug": "ekiti-west-ng013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013006",
+        "level": 2,
+        "name": {
+          "local": "Ekiti West",
+          "en": "Ekiti West",
+          "slug": "ekiti-west-ng013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.719",
+      "lon": "5.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013006_aramoko-iii-erio",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aramoko Iii / Erio",
+      "en": "Aramoko Iii / Erio",
+      "slug": "aramoko-iii-erio"
+    },
+    "code": {
+      "id": "NG013006_aramoko-iii-erio",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013006",
+      "level": 2,
+      "name": {
+        "local": "Ekiti West",
+        "en": "Ekiti West",
+        "slug": "ekiti-west-ng013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013006",
+        "level": 2,
+        "name": {
+          "local": "Ekiti West",
+          "en": "Ekiti West",
+          "slug": "ekiti-west-ng013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.719",
+      "lon": "5.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013006_erijiyan-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Erijiyan I",
+      "en": "Erijiyan I",
+      "slug": "erijiyan-i"
+    },
+    "code": {
+      "id": "NG013006_erijiyan-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013006",
+      "level": 2,
+      "name": {
+        "local": "Ekiti West",
+        "en": "Ekiti West",
+        "slug": "ekiti-west-ng013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013006",
+        "level": 2,
+        "name": {
+          "local": "Ekiti West",
+          "en": "Ekiti West",
+          "slug": "ekiti-west-ng013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.719",
+      "lon": "5.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013006_erijiyan-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Erijiyan Ii",
+      "en": "Erijiyan Ii",
+      "slug": "erijiyan-ii"
+    },
+    "code": {
+      "id": "NG013006_erijiyan-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013006",
+      "level": 2,
+      "name": {
+        "local": "Ekiti West",
+        "en": "Ekiti West",
+        "slug": "ekiti-west-ng013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013006",
+        "level": 2,
+        "name": {
+          "local": "Ekiti West",
+          "en": "Ekiti West",
+          "slug": "ekiti-west-ng013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.719",
+      "lon": "5.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013006_ido-ajinare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ido Ajinare",
+      "en": "Ido Ajinare",
+      "slug": "ido-ajinare"
+    },
+    "code": {
+      "id": "NG013006_ido-ajinare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013006",
+      "level": 2,
+      "name": {
+        "local": "Ekiti West",
+        "en": "Ekiti West",
+        "slug": "ekiti-west-ng013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013006",
+        "level": 2,
+        "name": {
+          "local": "Ekiti West",
+          "en": "Ekiti West",
+          "slug": "ekiti-west-ng013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.719",
+      "lon": "5.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013006_ikogosi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikogosi",
+      "en": "Ikogosi",
+      "slug": "ikogosi"
+    },
+    "code": {
+      "id": "NG013006_ikogosi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013006",
+      "level": 2,
+      "name": {
+        "local": "Ekiti West",
+        "en": "Ekiti West",
+        "slug": "ekiti-west-ng013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013006",
+        "level": 2,
+        "name": {
+          "local": "Ekiti West",
+          "en": "Ekiti West",
+          "slug": "ekiti-west-ng013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.719",
+      "lon": "5.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013006_ipole-iloro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipole Iloro",
+      "en": "Ipole Iloro",
+      "slug": "ipole-iloro"
+    },
+    "code": {
+      "id": "NG013006_ipole-iloro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013006",
+      "level": 2,
+      "name": {
+        "local": "Ekiti West",
+        "en": "Ekiti West",
+        "slug": "ekiti-west-ng013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013006",
+        "level": 2,
+        "name": {
+          "local": "Ekiti West",
+          "en": "Ekiti West",
+          "slug": "ekiti-west-ng013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.719",
+      "lon": "5.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013006_okemesi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okemesi I",
+      "en": "Okemesi I",
+      "slug": "okemesi-i"
+    },
+    "code": {
+      "id": "NG013006_okemesi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013006",
+      "level": 2,
+      "name": {
+        "local": "Ekiti West",
+        "en": "Ekiti West",
+        "slug": "ekiti-west-ng013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013006",
+        "level": 2,
+        "name": {
+          "local": "Ekiti West",
+          "en": "Ekiti West",
+          "slug": "ekiti-west-ng013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.719",
+      "lon": "5.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013006_okemesi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okemesi Ii",
+      "en": "Okemesi Ii",
+      "slug": "okemesi-ii"
+    },
+    "code": {
+      "id": "NG013006_okemesi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013006",
+      "level": 2,
+      "name": {
+        "local": "Ekiti West",
+        "en": "Ekiti West",
+        "slug": "ekiti-west-ng013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013006",
+        "level": 2,
+        "name": {
+          "local": "Ekiti West",
+          "en": "Ekiti West",
+          "slug": "ekiti-west-ng013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.719",
+      "lon": "5.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013006_okemesi-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okemesi Iii",
+      "en": "Okemesi Iii",
+      "slug": "okemesi-iii"
+    },
+    "code": {
+      "id": "NG013006_okemesi-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013006",
+      "level": 2,
+      "name": {
+        "local": "Ekiti West",
+        "en": "Ekiti West",
+        "slug": "ekiti-west-ng013006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013006",
+        "level": 2,
+        "name": {
+          "local": "Ekiti West",
+          "en": "Ekiti West",
+          "slug": "ekiti-west-ng013006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.719",
+      "lon": "5.045"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

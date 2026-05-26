@@ -1,0 +1,812 @@
+[
+  {
+    "id": "NG022006_ambursa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ambursa",
+      "en": "Ambursa",
+      "slug": "ambursa"
+    },
+    "code": {
+      "id": "NG022006_ambursa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_birnin-kebbi-dangaladima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birnin Kebbi Dangaladima",
+      "en": "Birnin Kebbi Dangaladima",
+      "slug": "birnin-kebbi-dangaladima"
+    },
+    "code": {
+      "id": "NG022006_birnin-kebbi-dangaladima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_birnin-kebbi-marafa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birnin Kebbi Marafa",
+      "en": "Birnin Kebbi Marafa",
+      "slug": "birnin-kebbi-marafa"
+    },
+    "code": {
+      "id": "NG022006_birnin-kebbi-marafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_gawasu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gawasu",
+      "en": "Gawasu",
+      "slug": "gawasu"
+    },
+    "code": {
+      "id": "NG022006_gawasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_gulumbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gulumbe",
+      "en": "Gulumbe",
+      "slug": "gulumbe"
+    },
+    "code": {
+      "id": "NG022006_gulumbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_gwadangaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwadangaji",
+      "en": "Gwadangaji",
+      "slug": "gwadangaji"
+    },
+    "code": {
+      "id": "NG022006_gwadangaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_kardiyamama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kardi/yamama",
+      "en": "Kardi/yamama",
+      "slug": "kardiyamama"
+    },
+    "code": {
+      "id": "NG022006_kardiyamama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_kola-tarasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kola /tarasa",
+      "en": "Kola /tarasa",
+      "slug": "kola-tarasa"
+    },
+    "code": {
+      "id": "NG022006_kola-tarasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_lagga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lagga",
+      "en": "Lagga",
+      "slug": "lagga"
+    },
+    "code": {
+      "id": "NG022006_lagga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_makera",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makera",
+      "en": "Makera",
+      "slug": "makera"
+    },
+    "code": {
+      "id": "NG022006_makera",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_maurida-karyoung-mijin-nana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maurida /karyo/ung. Mijin-nana",
+      "en": "Maurida /karyo/ung. Mijin-nana",
+      "slug": "maurida-karyoung-mijin-nana"
+    },
+    "code": {
+      "id": "NG022006_maurida-karyoung-mijin-nana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_nassarawa---i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nassarawa - I",
+      "en": "Nassarawa - I",
+      "slug": "nassarawa---i"
+    },
+    "code": {
+      "id": "NG022006_nassarawa---i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_nassarawa-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nassarawa Ii",
+      "en": "Nassarawa Ii",
+      "slug": "nassarawa-ii"
+    },
+    "code": {
+      "id": "NG022006_nassarawa-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_ujariyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ujariyo",
+      "en": "Ujariyo",
+      "slug": "ujariyo"
+    },
+    "code": {
+      "id": "NG022006_ujariyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022006_zauro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zauro",
+      "en": "Zauro",
+      "slug": "zauro"
+    },
+    "code": {
+      "id": "NG022006_zauro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022006",
+      "level": 2,
+      "name": {
+        "local": "Birnin Kebbi",
+        "en": "Birnin Kebbi",
+        "slug": "birnin-kebbi-ng022006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022006",
+        "level": 2,
+        "name": {
+          "local": "Birnin Kebbi",
+          "en": "Birnin Kebbi",
+          "slug": "birnin-kebbi-ng022006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.499",
+      "lon": "4.291"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

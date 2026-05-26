@@ -1,0 +1,47 @@
+{
+  "id": "NG003002",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Eastern Obolo",
+    "en": "Eastern Obolo",
+    "slug": "eastern-obolo-ng003002"
+  },
+  "code": {
+    "id": "NG003002",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG003",
+    "level": 1,
+    "name": {
+      "local": "Akwa Ibom",
+      "en": "Akwa Ibom",
+      "slug": "akwa-ibom-ng003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.515",
+    "lon": "7.696"
+  },
+  "metadata": {},
+  "source": {}
+}

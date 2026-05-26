@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG001013_akwete",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akwete",
+      "en": "Akwete",
+      "slug": "akwete"
+    },
+    "code": {
+      "id": "NG001013_akwete",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001013",
+      "level": 2,
+      "name": {
+        "local": "Ukwa East",
+        "en": "Ukwa East",
+        "slug": "ukwa-east-ng001013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001013",
+        "level": 2,
+        "name": {
+          "local": "Ukwa East",
+          "en": "Ukwa East",
+          "slug": "ukwa-east-ng001013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "7.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001013_azumini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Azumini",
+      "en": "Azumini",
+      "slug": "azumini"
+    },
+    "code": {
+      "id": "NG001013_azumini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001013",
+      "level": 2,
+      "name": {
+        "local": "Ukwa East",
+        "en": "Ukwa East",
+        "slug": "ukwa-east-ng001013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001013",
+        "level": 2,
+        "name": {
+          "local": "Ukwa East",
+          "en": "Ukwa East",
+          "slug": "ukwa-east-ng001013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "7.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001013_ikwueke-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikwueke East",
+      "en": "Ikwueke East",
+      "slug": "ikwueke-east"
+    },
+    "code": {
+      "id": "NG001013_ikwueke-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001013",
+      "level": 2,
+      "name": {
+        "local": "Ukwa East",
+        "en": "Ukwa East",
+        "slug": "ukwa-east-ng001013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001013",
+        "level": 2,
+        "name": {
+          "local": "Ukwa East",
+          "en": "Ukwa East",
+          "slug": "ukwa-east-ng001013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "7.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001013_ikwueke-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikwueke West",
+      "en": "Ikwueke West",
+      "slug": "ikwueke-west"
+    },
+    "code": {
+      "id": "NG001013_ikwueke-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001013",
+      "level": 2,
+      "name": {
+        "local": "Ukwa East",
+        "en": "Ukwa East",
+        "slug": "ukwa-east-ng001013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001013",
+        "level": 2,
+        "name": {
+          "local": "Ukwa East",
+          "en": "Ukwa East",
+          "slug": "ukwa-east-ng001013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "7.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001013_ikwuorie",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikwuorie",
+      "en": "Ikwuorie",
+      "slug": "ikwuorie"
+    },
+    "code": {
+      "id": "NG001013_ikwuorie",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001013",
+      "level": 2,
+      "name": {
+        "local": "Ukwa East",
+        "en": "Ukwa East",
+        "slug": "ukwa-east-ng001013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001013",
+        "level": 2,
+        "name": {
+          "local": "Ukwa East",
+          "en": "Ukwa East",
+          "slug": "ukwa-east-ng001013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "7.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001013_ikwuriator-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikwuriator East",
+      "en": "Ikwuriator East",
+      "slug": "ikwuriator-east"
+    },
+    "code": {
+      "id": "NG001013_ikwuriator-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001013",
+      "level": 2,
+      "name": {
+        "local": "Ukwa East",
+        "en": "Ukwa East",
+        "slug": "ukwa-east-ng001013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001013",
+        "level": 2,
+        "name": {
+          "local": "Ukwa East",
+          "en": "Ukwa East",
+          "slug": "ukwa-east-ng001013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "7.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001013_ikwuriator-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikwuriator West",
+      "en": "Ikwuriator West",
+      "slug": "ikwuriator-west"
+    },
+    "code": {
+      "id": "NG001013_ikwuriator-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001013",
+      "level": 2,
+      "name": {
+        "local": "Ukwa East",
+        "en": "Ukwa East",
+        "slug": "ukwa-east-ng001013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001013",
+        "level": 2,
+        "name": {
+          "local": "Ukwa East",
+          "en": "Ukwa East",
+          "slug": "ukwa-east-ng001013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "7.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001013_nkporobeohuru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkporobe/ohuru",
+      "en": "Nkporobe/ohuru",
+      "slug": "nkporobeohuru"
+    },
+    "code": {
+      "id": "NG001013_nkporobeohuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001013",
+      "level": 2,
+      "name": {
+        "local": "Ukwa East",
+        "en": "Ukwa East",
+        "slug": "ukwa-east-ng001013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001013",
+        "level": 2,
+        "name": {
+          "local": "Ukwa East",
+          "en": "Ukwa East",
+          "slug": "ukwa-east-ng001013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "7.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001013_obohia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obohia",
+      "en": "Obohia",
+      "slug": "obohia"
+    },
+    "code": {
+      "id": "NG001013_obohia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001013",
+      "level": 2,
+      "name": {
+        "local": "Ukwa East",
+        "en": "Ukwa East",
+        "slug": "ukwa-east-ng001013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001013",
+        "level": 2,
+        "name": {
+          "local": "Ukwa East",
+          "en": "Ukwa East",
+          "slug": "ukwa-east-ng001013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "7.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001013_umuigube-achara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuigube Achara",
+      "en": "Umuigube Achara",
+      "slug": "umuigube-achara"
+    },
+    "code": {
+      "id": "NG001013_umuigube-achara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001013",
+      "level": 2,
+      "name": {
+        "local": "Ukwa East",
+        "en": "Ukwa East",
+        "slug": "ukwa-east-ng001013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001013",
+        "level": 2,
+        "name": {
+          "local": "Ukwa East",
+          "en": "Ukwa East",
+          "slug": "ukwa-east-ng001013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "7.403"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

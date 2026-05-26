@@ -1,0 +1,47 @@
+{
+  "id": "NG028005",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Egbado South",
+    "en": "Egbado South",
+    "slug": "egbado-south-ng028005"
+  },
+  "code": {
+    "id": "NG028005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG028",
+    "level": 1,
+    "name": {
+      "local": "Ogun",
+      "en": "Ogun",
+      "slug": "ogun-ng028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.767",
+    "lon": "2.955"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018008_buduru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buduru",
+      "en": "Buduru",
+      "slug": "buduru"
+    },
+    "code": {
+      "id": "NG018008_buduru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018008",
+      "level": 2,
+      "name": {
+        "local": "Garki",
+        "en": "Garki",
+        "slug": "garki-ng018008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018008",
+        "level": 2,
+        "name": {
+          "local": "Garki",
+          "en": "Garki",
+          "slug": "garki-ng018008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018008_doko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doko",
+      "en": "Doko",
+      "slug": "doko"
+    },
+    "code": {
+      "id": "NG018008_doko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018008",
+      "level": 2,
+      "name": {
+        "local": "Garki",
+        "en": "Garki",
+        "slug": "garki-ng018008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018008",
+        "level": 2,
+        "name": {
+          "local": "Garki",
+          "en": "Garki",
+          "slug": "garki-ng018008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018008_garki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garki",
+      "en": "Garki",
+      "slug": "garki"
+    },
+    "code": {
+      "id": "NG018008_garki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018008",
+      "level": 2,
+      "name": {
+        "local": "Garki",
+        "en": "Garki",
+        "slug": "garki-ng018008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018008",
+        "level": 2,
+        "name": {
+          "local": "Garki",
+          "en": "Garki",
+          "slug": "garki-ng018008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018008_gwarzon-garki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwarzon Garki",
+      "en": "Gwarzon Garki",
+      "slug": "gwarzon-garki"
+    },
+    "code": {
+      "id": "NG018008_gwarzon-garki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018008",
+      "level": 2,
+      "name": {
+        "local": "Garki",
+        "en": "Garki",
+        "slug": "garki-ng018008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018008",
+        "level": 2,
+        "name": {
+          "local": "Garki",
+          "en": "Garki",
+          "slug": "garki-ng018008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018008_jirima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jirima",
+      "en": "Jirima",
+      "slug": "jirima"
+    },
+    "code": {
+      "id": "NG018008_jirima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018008",
+      "level": 2,
+      "name": {
+        "local": "Garki",
+        "en": "Garki",
+        "slug": "garki-ng018008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018008",
+        "level": 2,
+        "name": {
+          "local": "Garki",
+          "en": "Garki",
+          "slug": "garki-ng018008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018008_kanya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanya",
+      "en": "Kanya",
+      "slug": "kanya"
+    },
+    "code": {
+      "id": "NG018008_kanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018008",
+      "level": 2,
+      "name": {
+        "local": "Garki",
+        "en": "Garki",
+        "slug": "garki-ng018008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018008",
+        "level": 2,
+        "name": {
+          "local": "Garki",
+          "en": "Garki",
+          "slug": "garki-ng018008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018008_kargo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kargo",
+      "en": "Kargo",
+      "slug": "kargo"
+    },
+    "code": {
+      "id": "NG018008_kargo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018008",
+      "level": 2,
+      "name": {
+        "local": "Garki",
+        "en": "Garki",
+        "slug": "garki-ng018008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018008",
+        "level": 2,
+        "name": {
+          "local": "Garki",
+          "en": "Garki",
+          "slug": "garki-ng018008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018008_kore",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kore",
+      "en": "Kore",
+      "slug": "kore"
+    },
+    "code": {
+      "id": "NG018008_kore",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018008",
+      "level": 2,
+      "name": {
+        "local": "Garki",
+        "en": "Garki",
+        "slug": "garki-ng018008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018008",
+        "level": 2,
+        "name": {
+          "local": "Garki",
+          "en": "Garki",
+          "slug": "garki-ng018008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018008_muku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Muku",
+      "en": "Muku",
+      "slug": "muku"
+    },
+    "code": {
+      "id": "NG018008_muku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018008",
+      "level": 2,
+      "name": {
+        "local": "Garki",
+        "en": "Garki",
+        "slug": "garki-ng018008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018008",
+        "level": 2,
+        "name": {
+          "local": "Garki",
+          "en": "Garki",
+          "slug": "garki-ng018008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018008_rafin-marke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rafin Marke",
+      "en": "Rafin Marke",
+      "slug": "rafin-marke"
+    },
+    "code": {
+      "id": "NG018008_rafin-marke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018008",
+      "level": 2,
+      "name": {
+        "local": "Garki",
+        "en": "Garki",
+        "slug": "garki-ng018008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018008",
+        "level": 2,
+        "name": {
+          "local": "Garki",
+          "en": "Garki",
+          "slug": "garki-ng018008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018008_siyori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Siyori",
+      "en": "Siyori",
+      "slug": "siyori"
+    },
+    "code": {
+      "id": "NG018008_siyori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018008",
+      "level": 2,
+      "name": {
+        "local": "Garki",
+        "en": "Garki",
+        "slug": "garki-ng018008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018008",
+        "level": 2,
+        "name": {
+          "local": "Garki",
+          "en": "Garki",
+          "slug": "garki-ng018008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "9.108"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

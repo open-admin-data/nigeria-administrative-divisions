@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018016_arbus",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Arbus",
+      "en": "Arbus",
+      "slug": "arbus"
+    },
+    "code": {
+      "id": "NG018016_arbus",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018016",
+      "level": 2,
+      "name": {
+        "local": "Kaugama",
+        "en": "Kaugama",
+        "slug": "kaugama-ng018016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018016",
+        "level": 2,
+        "name": {
+          "local": "Kaugama",
+          "en": "Kaugama",
+          "slug": "kaugama-ng018016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018016_askandu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Askandu",
+      "en": "Askandu",
+      "slug": "askandu"
+    },
+    "code": {
+      "id": "NG018016_askandu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018016",
+      "level": 2,
+      "name": {
+        "local": "Kaugama",
+        "en": "Kaugama",
+        "slug": "kaugama-ng018016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018016",
+        "level": 2,
+        "name": {
+          "local": "Kaugama",
+          "en": "Kaugama",
+          "slug": "kaugama-ng018016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018016_dabuwaran",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dabuwaran",
+      "en": "Dabuwaran",
+      "slug": "dabuwaran"
+    },
+    "code": {
+      "id": "NG018016_dabuwaran",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018016",
+      "level": 2,
+      "name": {
+        "local": "Kaugama",
+        "en": "Kaugama",
+        "slug": "kaugama-ng018016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018016",
+        "level": 2,
+        "name": {
+          "local": "Kaugama",
+          "en": "Kaugama",
+          "slug": "kaugama-ng018016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018016_dakaiyawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dakaiyawa",
+      "en": "Dakaiyawa",
+      "slug": "dakaiyawa"
+    },
+    "code": {
+      "id": "NG018016_dakaiyawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018016",
+      "level": 2,
+      "name": {
+        "local": "Kaugama",
+        "en": "Kaugama",
+        "slug": "kaugama-ng018016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018016",
+        "level": 2,
+        "name": {
+          "local": "Kaugama",
+          "en": "Kaugama",
+          "slug": "kaugama-ng018016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018016_hadin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hadin",
+      "en": "Hadin",
+      "slug": "hadin"
+    },
+    "code": {
+      "id": "NG018016_hadin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018016",
+      "level": 2,
+      "name": {
+        "local": "Kaugama",
+        "en": "Kaugama",
+        "slug": "kaugama-ng018016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018016",
+        "level": 2,
+        "name": {
+          "local": "Kaugama",
+          "en": "Kaugama",
+          "slug": "kaugama-ng018016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018016_jae",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ja'e",
+      "en": "Ja'e",
+      "slug": "jae"
+    },
+    "code": {
+      "id": "NG018016_jae",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018016",
+      "level": 2,
+      "name": {
+        "local": "Kaugama",
+        "en": "Kaugama",
+        "slug": "kaugama-ng018016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018016",
+        "level": 2,
+        "name": {
+          "local": "Kaugama",
+          "en": "Kaugama",
+          "slug": "kaugama-ng018016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018016_jarkasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jarkasa",
+      "en": "Jarkasa",
+      "slug": "jarkasa"
+    },
+    "code": {
+      "id": "NG018016_jarkasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018016",
+      "level": 2,
+      "name": {
+        "local": "Kaugama",
+        "en": "Kaugama",
+        "slug": "kaugama-ng018016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018016",
+        "level": 2,
+        "name": {
+          "local": "Kaugama",
+          "en": "Kaugama",
+          "slug": "kaugama-ng018016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018016_kaugama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaugama",
+      "en": "Kaugama",
+      "slug": "kaugama"
+    },
+    "code": {
+      "id": "NG018016_kaugama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018016",
+      "level": 2,
+      "name": {
+        "local": "Kaugama",
+        "en": "Kaugama",
+        "slug": "kaugama-ng018016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018016",
+        "level": 2,
+        "name": {
+          "local": "Kaugama",
+          "en": "Kaugama",
+          "slug": "kaugama-ng018016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018016_marke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Marke",
+      "en": "Marke",
+      "slug": "marke"
+    },
+    "code": {
+      "id": "NG018016_marke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018016",
+      "level": 2,
+      "name": {
+        "local": "Kaugama",
+        "en": "Kaugama",
+        "slug": "kaugama-ng018016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018016",
+        "level": 2,
+        "name": {
+          "local": "Kaugama",
+          "en": "Kaugama",
+          "slug": "kaugama-ng018016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018016_unguwar-jibrin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Jibrin",
+      "en": "Unguwar Jibrin",
+      "slug": "unguwar-jibrin"
+    },
+    "code": {
+      "id": "NG018016_unguwar-jibrin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018016",
+      "level": 2,
+      "name": {
+        "local": "Kaugama",
+        "en": "Kaugama",
+        "slug": "kaugama-ng018016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018016",
+        "level": 2,
+        "name": {
+          "local": "Kaugama",
+          "en": "Kaugama",
+          "slug": "kaugama-ng018016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018016_yalo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yalo",
+      "en": "Yalo",
+      "slug": "yalo"
+    },
+    "code": {
+      "id": "NG018016_yalo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018016",
+      "level": 2,
+      "name": {
+        "local": "Kaugama",
+        "en": "Kaugama",
+        "slug": "kaugama-ng018016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018016",
+        "level": 2,
+        "name": {
+          "local": "Kaugama",
+          "en": "Kaugama",
+          "slug": "kaugama-ng018016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "9.767"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

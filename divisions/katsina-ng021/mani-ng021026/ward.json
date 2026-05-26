@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021026_bagiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bagiwa",
+      "en": "Bagiwa",
+      "slug": "bagiwa"
+    },
+    "code": {
+      "id": "NG021026_bagiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021026",
+      "level": 2,
+      "name": {
+        "local": "Mani",
+        "en": "Mani",
+        "slug": "mani-ng021026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021026",
+        "level": 2,
+        "name": {
+          "local": "Mani",
+          "en": "Mani",
+          "slug": "mani-ng021026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.909",
+      "lon": "7.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021026_bujawagewayau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bujawa/gewayau",
+      "en": "Bujawa/gewayau",
+      "slug": "bujawagewayau"
+    },
+    "code": {
+      "id": "NG021026_bujawagewayau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021026",
+      "level": 2,
+      "name": {
+        "local": "Mani",
+        "en": "Mani",
+        "slug": "mani-ng021026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021026",
+        "level": 2,
+        "name": {
+          "local": "Mani",
+          "en": "Mani",
+          "slug": "mani-ng021026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.909",
+      "lon": "7.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021026_duwanmakau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Duwan/makau",
+      "en": "Duwan/makau",
+      "slug": "duwanmakau"
+    },
+    "code": {
+      "id": "NG021026_duwanmakau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021026",
+      "level": 2,
+      "name": {
+        "local": "Mani",
+        "en": "Mani",
+        "slug": "mani-ng021026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021026",
+        "level": 2,
+        "name": {
+          "local": "Mani",
+          "en": "Mani",
+          "slug": "mani-ng021026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.909",
+      "lon": "7.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021026_hamcheta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hamcheta",
+      "en": "Hamcheta",
+      "slug": "hamcheta"
+    },
+    "code": {
+      "id": "NG021026_hamcheta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021026",
+      "level": 2,
+      "name": {
+        "local": "Mani",
+        "en": "Mani",
+        "slug": "mani-ng021026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021026",
+        "level": 2,
+        "name": {
+          "local": "Mani",
+          "en": "Mani",
+          "slug": "mani-ng021026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.909",
+      "lon": "7.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021026_jani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jani",
+      "en": "Jani",
+      "slug": "jani"
+    },
+    "code": {
+      "id": "NG021026_jani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021026",
+      "level": 2,
+      "name": {
+        "local": "Mani",
+        "en": "Mani",
+        "slug": "mani-ng021026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021026",
+        "level": 2,
+        "name": {
+          "local": "Mani",
+          "en": "Mani",
+          "slug": "mani-ng021026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.909",
+      "lon": "7.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021026_kwatta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwatta",
+      "en": "Kwatta",
+      "slug": "kwatta"
+    },
+    "code": {
+      "id": "NG021026_kwatta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021026",
+      "level": 2,
+      "name": {
+        "local": "Mani",
+        "en": "Mani",
+        "slug": "mani-ng021026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021026",
+        "level": 2,
+        "name": {
+          "local": "Mani",
+          "en": "Mani",
+          "slug": "mani-ng021026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.909",
+      "lon": "7.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021026_machika",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Machika",
+      "en": "Machika",
+      "slug": "machika"
+    },
+    "code": {
+      "id": "NG021026_machika",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021026",
+      "level": 2,
+      "name": {
+        "local": "Mani",
+        "en": "Mani",
+        "slug": "mani-ng021026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021026",
+        "level": 2,
+        "name": {
+          "local": "Mani",
+          "en": "Mani",
+          "slug": "mani-ng021026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.909",
+      "lon": "7.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021026_magami",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magami",
+      "en": "Magami",
+      "slug": "magami"
+    },
+    "code": {
+      "id": "NG021026_magami",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021026",
+      "level": 2,
+      "name": {
+        "local": "Mani",
+        "en": "Mani",
+        "slug": "mani-ng021026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021026",
+        "level": 2,
+        "name": {
+          "local": "Mani",
+          "en": "Mani",
+          "slug": "mani-ng021026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.909",
+      "lon": "7.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021026_mani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mani",
+      "en": "Mani",
+      "slug": "mani"
+    },
+    "code": {
+      "id": "NG021026_mani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021026",
+      "level": 2,
+      "name": {
+        "local": "Mani",
+        "en": "Mani",
+        "slug": "mani-ng021026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021026",
+        "level": 2,
+        "name": {
+          "local": "Mani",
+          "en": "Mani",
+          "slug": "mani-ng021026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.909",
+      "lon": "7.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021026_muduru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Muduru",
+      "en": "Muduru",
+      "slug": "muduru"
+    },
+    "code": {
+      "id": "NG021026_muduru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021026",
+      "level": 2,
+      "name": {
+        "local": "Mani",
+        "en": "Mani",
+        "slug": "mani-ng021026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021026",
+        "level": 2,
+        "name": {
+          "local": "Mani",
+          "en": "Mani",
+          "slug": "mani-ng021026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.909",
+      "lon": "7.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021026_tsagemtakusheyi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsagem/takusheyi",
+      "en": "Tsagem/takusheyi",
+      "slug": "tsagemtakusheyi"
+    },
+    "code": {
+      "id": "NG021026_tsagemtakusheyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021026",
+      "level": 2,
+      "name": {
+        "local": "Mani",
+        "en": "Mani",
+        "slug": "mani-ng021026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021026",
+        "level": 2,
+        "name": {
+          "local": "Mani",
+          "en": "Mani",
+          "slug": "mani-ng021026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.909",
+      "lon": "7.939"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

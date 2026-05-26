@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG024010_alla",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alla",
+      "en": "Alla",
+      "slug": "alla"
+    },
+    "code": {
+      "id": "NG024010_alla",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024010",
+      "level": 2,
+      "name": {
+        "local": "Isin",
+        "en": "Isin",
+        "slug": "isin-ng024010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024010",
+        "level": 2,
+        "name": {
+          "local": "Isin",
+          "en": "Isin",
+          "slug": "isin-ng024010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "5.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024010_edidi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Edidi",
+      "en": "Edidi",
+      "slug": "edidi"
+    },
+    "code": {
+      "id": "NG024010_edidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024010",
+      "level": 2,
+      "name": {
+        "local": "Isin",
+        "en": "Isin",
+        "slug": "isin-ng024010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024010",
+        "level": 2,
+        "name": {
+          "local": "Isin",
+          "en": "Isin",
+          "slug": "isin-ng024010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "5.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024010_ijara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijara",
+      "en": "Ijara",
+      "slug": "ijara"
+    },
+    "code": {
+      "id": "NG024010_ijara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024010",
+      "level": 2,
+      "name": {
+        "local": "Isin",
+        "en": "Isin",
+        "slug": "isin-ng024010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024010",
+        "level": 2,
+        "name": {
+          "local": "Isin",
+          "en": "Isin",
+          "slug": "isin-ng024010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "5.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024010_isanlu-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isanlu 1",
+      "en": "Isanlu 1",
+      "slug": "isanlu-1"
+    },
+    "code": {
+      "id": "NG024010_isanlu-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024010",
+      "level": 2,
+      "name": {
+        "local": "Isin",
+        "en": "Isin",
+        "slug": "isin-ng024010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024010",
+        "level": 2,
+        "name": {
+          "local": "Isin",
+          "en": "Isin",
+          "slug": "isin-ng024010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "5.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024010_isanlu-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isanlu 11",
+      "en": "Isanlu 11",
+      "slug": "isanlu-11"
+    },
+    "code": {
+      "id": "NG024010_isanlu-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024010",
+      "level": 2,
+      "name": {
+        "local": "Isin",
+        "en": "Isin",
+        "slug": "isin-ng024010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024010",
+        "level": 2,
+        "name": {
+          "local": "Isin",
+          "en": "Isin",
+          "slug": "isin-ng024010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "5.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024010_iwo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iwo",
+      "en": "Iwo",
+      "slug": "iwo"
+    },
+    "code": {
+      "id": "NG024010_iwo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024010",
+      "level": 2,
+      "name": {
+        "local": "Isin",
+        "en": "Isin",
+        "slug": "isin-ng024010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024010",
+        "level": 2,
+        "name": {
+          "local": "Isin",
+          "en": "Isin",
+          "slug": "isin-ng024010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "5.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024010_oke-aba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke Aba",
+      "en": "Oke Aba",
+      "slug": "oke-aba"
+    },
+    "code": {
+      "id": "NG024010_oke-aba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024010",
+      "level": 2,
+      "name": {
+        "local": "Isin",
+        "en": "Isin",
+        "slug": "isin-ng024010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024010",
+        "level": 2,
+        "name": {
+          "local": "Isin",
+          "en": "Isin",
+          "slug": "isin-ng024010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "5.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024010_oke-onigbin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke Onigbin",
+      "en": "Oke Onigbin",
+      "slug": "oke-onigbin"
+    },
+    "code": {
+      "id": "NG024010_oke-onigbin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024010",
+      "level": 2,
+      "name": {
+        "local": "Isin",
+        "en": "Isin",
+        "slug": "isin-ng024010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024010",
+        "level": 2,
+        "name": {
+          "local": "Isin",
+          "en": "Isin",
+          "slug": "isin-ng024010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "5.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024010_olla",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olla",
+      "en": "Olla",
+      "slug": "olla"
+    },
+    "code": {
+      "id": "NG024010_olla",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024010",
+      "level": 2,
+      "name": {
+        "local": "Isin",
+        "en": "Isin",
+        "slug": "isin-ng024010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024010",
+        "level": 2,
+        "name": {
+          "local": "Isin",
+          "en": "Isin",
+          "slug": "isin-ng024010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "5.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024010_owu-isin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owu Isin",
+      "en": "Owu Isin",
+      "slug": "owu-isin"
+    },
+    "code": {
+      "id": "NG024010_owu-isin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024010",
+      "level": 2,
+      "name": {
+        "local": "Isin",
+        "en": "Isin",
+        "slug": "isin-ng024010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024010",
+        "level": 2,
+        "name": {
+          "local": "Isin",
+          "en": "Isin",
+          "slug": "isin-ng024010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "5.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024010_sabajapamo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabaja/pamo",
+      "en": "Sabaja/pamo",
+      "slug": "sabajapamo"
+    },
+    "code": {
+      "id": "NG024010_sabajapamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024010",
+      "level": 2,
+      "name": {
+        "local": "Isin",
+        "en": "Isin",
+        "slug": "isin-ng024010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024010",
+        "level": 2,
+        "name": {
+          "local": "Isin",
+          "en": "Isin",
+          "slug": "isin-ng024010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "5.039"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

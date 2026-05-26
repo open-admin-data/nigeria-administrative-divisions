@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG025015_alagomeji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alagomeji",
+      "en": "Alagomeji",
+      "slug": "alagomeji"
+    },
+    "code": {
+      "id": "NG025015_alagomeji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025015",
+      "level": 2,
+      "name": {
+        "local": "Lagos Mainland",
+        "en": "Lagos Mainland",
+        "slug": "lagos-mainland-ng025015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025015",
+        "level": 2,
+        "name": {
+          "local": "Lagos Mainland",
+          "en": "Lagos Mainland",
+          "slug": "lagos-mainland-ng025015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025015_epetedo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Epetedo",
+      "en": "Epetedo",
+      "slug": "epetedo"
+    },
+    "code": {
+      "id": "NG025015_epetedo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025015",
+      "level": 2,
+      "name": {
+        "local": "Lagos Mainland",
+        "en": "Lagos Mainland",
+        "slug": "lagos-mainland-ng025015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025015",
+        "level": 2,
+        "name": {
+          "local": "Lagos Mainland",
+          "en": "Lagos Mainland",
+          "slug": "lagos-mainland-ng025015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025015_gloverebute-metta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Glover/ebute Metta",
+      "en": "Glover/ebute Metta",
+      "slug": "gloverebute-metta"
+    },
+    "code": {
+      "id": "NG025015_gloverebute-metta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025015",
+      "level": 2,
+      "name": {
+        "local": "Lagos Mainland",
+        "en": "Lagos Mainland",
+        "slug": "lagos-mainland-ng025015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025015",
+        "level": 2,
+        "name": {
+          "local": "Lagos Mainland",
+          "en": "Lagos Mainland",
+          "slug": "lagos-mainland-ng025015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025015_iwaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iwaya",
+      "en": "Iwaya",
+      "slug": "iwaya"
+    },
+    "code": {
+      "id": "NG025015_iwaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025015",
+      "level": 2,
+      "name": {
+        "local": "Lagos Mainland",
+        "en": "Lagos Mainland",
+        "slug": "lagos-mainland-ng025015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025015",
+        "level": 2,
+        "name": {
+          "local": "Lagos Mainland",
+          "en": "Lagos Mainland",
+          "slug": "lagos-mainland-ng025015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025015_marokoebute-metta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maroko/ebute Metta",
+      "en": "Maroko/ebute Metta",
+      "slug": "marokoebute-metta"
+    },
+    "code": {
+      "id": "NG025015_marokoebute-metta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025015",
+      "level": 2,
+      "name": {
+        "local": "Lagos Mainland",
+        "en": "Lagos Mainland",
+        "slug": "lagos-mainland-ng025015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025015",
+        "level": 2,
+        "name": {
+          "local": "Lagos Mainland",
+          "en": "Lagos Mainland",
+          "slug": "lagos-mainland-ng025015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025015_oko-baba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oko-baba",
+      "en": "Oko-baba",
+      "slug": "oko-baba"
+    },
+    "code": {
+      "id": "NG025015_oko-baba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025015",
+      "level": 2,
+      "name": {
+        "local": "Lagos Mainland",
+        "en": "Lagos Mainland",
+        "slug": "lagos-mainland-ng025015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025015",
+        "level": 2,
+        "name": {
+          "local": "Lagos Mainland",
+          "en": "Lagos Mainland",
+          "slug": "lagos-mainland-ng025015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025015_olaleye-village",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olaleye Village",
+      "en": "Olaleye Village",
+      "slug": "olaleye-village"
+    },
+    "code": {
+      "id": "NG025015_olaleye-village",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025015",
+      "level": 2,
+      "name": {
+        "local": "Lagos Mainland",
+        "en": "Lagos Mainland",
+        "slug": "lagos-mainland-ng025015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025015",
+        "level": 2,
+        "name": {
+          "local": "Lagos Mainland",
+          "en": "Lagos Mainland",
+          "slug": "lagos-mainland-ng025015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025015_ottoiddo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otto/iddo",
+      "en": "Otto/iddo",
+      "slug": "ottoiddo"
+    },
+    "code": {
+      "id": "NG025015_ottoiddo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025015",
+      "level": 2,
+      "name": {
+        "local": "Lagos Mainland",
+        "en": "Lagos Mainland",
+        "slug": "lagos-mainland-ng025015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025015",
+        "level": 2,
+        "name": {
+          "local": "Lagos Mainland",
+          "en": "Lagos Mainland",
+          "slug": "lagos-mainland-ng025015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025015_oyadiran-estateabule-oja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oyadiran Estate/abule-oja",
+      "en": "Oyadiran Estate/abule-oja",
+      "slug": "oyadiran-estateabule-oja"
+    },
+    "code": {
+      "id": "NG025015_oyadiran-estateabule-oja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025015",
+      "level": 2,
+      "name": {
+        "local": "Lagos Mainland",
+        "en": "Lagos Mainland",
+        "slug": "lagos-mainland-ng025015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025015",
+        "level": 2,
+        "name": {
+          "local": "Lagos Mainland",
+          "en": "Lagos Mainland",
+          "slug": "lagos-mainland-ng025015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025015_oyingbo-marketebute-metta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oyingbo Market/ebute Metta",
+      "en": "Oyingbo Market/ebute Metta",
+      "slug": "oyingbo-marketebute-metta"
+    },
+    "code": {
+      "id": "NG025015_oyingbo-marketebute-metta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025015",
+      "level": 2,
+      "name": {
+        "local": "Lagos Mainland",
+        "en": "Lagos Mainland",
+        "slug": "lagos-mainland-ng025015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025015",
+        "level": 2,
+        "name": {
+          "local": "Lagos Mainland",
+          "en": "Lagos Mainland",
+          "slug": "lagos-mainland-ng025015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025015_yabaigbobi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yaba/igbobi",
+      "en": "Yaba/igbobi",
+      "slug": "yabaigbobi"
+    },
+    "code": {
+      "id": "NG025015_yabaigbobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025015",
+      "level": 2,
+      "name": {
+        "local": "Lagos Mainland",
+        "en": "Lagos Mainland",
+        "slug": "lagos-mainland-ng025015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025015",
+        "level": 2,
+        "name": {
+          "local": "Lagos Mainland",
+          "en": "Lagos Mainland",
+          "slug": "lagos-mainland-ng025015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.386"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

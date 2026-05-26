@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG002012_bajama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bajama",
+      "en": "Bajama",
+      "slug": "bajama"
+    },
+    "code": {
+      "id": "NG002012_bajama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002012",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Belwa",
+        "en": "Mayo-Belwa",
+        "slug": "mayo-belwa-ng002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002012",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Belwa",
+          "en": "Mayo-Belwa",
+          "slug": "mayo-belwa-ng002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.081",
+      "lon": "11.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002012_binyeri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Binyeri",
+      "en": "Binyeri",
+      "slug": "binyeri"
+    },
+    "code": {
+      "id": "NG002012_binyeri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002012",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Belwa",
+        "en": "Mayo-Belwa",
+        "slug": "mayo-belwa-ng002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002012",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Belwa",
+          "en": "Mayo-Belwa",
+          "slug": "mayo-belwa-ng002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.735",
+      "lon": "11.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002012_gangfada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gangfada",
+      "en": "Gangfada",
+      "slug": "gangfada"
+    },
+    "code": {
+      "id": "NG002012_gangfada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002012",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Belwa",
+        "en": "Mayo-Belwa",
+        "slug": "mayo-belwa-ng002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002012",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Belwa",
+          "en": "Mayo-Belwa",
+          "slug": "mayo-belwa-ng002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.908",
+      "lon": "12.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002012_gengle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gengle",
+      "en": "Gengle",
+      "slug": "gengle"
+    },
+    "code": {
+      "id": "NG002012_gengle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002012",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Belwa",
+        "en": "Mayo-Belwa",
+        "slug": "mayo-belwa-ng002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002012",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Belwa",
+          "en": "Mayo-Belwa",
+          "slug": "mayo-belwa-ng002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.162",
+      "lon": "11.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002012_gorobi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gorobi",
+      "en": "Gorobi",
+      "slug": "gorobi"
+    },
+    "code": {
+      "id": "NG002012_gorobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002012",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Belwa",
+        "en": "Mayo-Belwa",
+        "slug": "mayo-belwa-ng002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002012",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Belwa",
+          "en": "Mayo-Belwa",
+          "slug": "mayo-belwa-ng002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.141",
+      "lon": "11.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002012_mayo-farang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayo Farang",
+      "en": "Mayo Farang",
+      "slug": "mayo-farang"
+    },
+    "code": {
+      "id": "NG002012_mayo-farang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002012",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Belwa",
+        "en": "Mayo-Belwa",
+        "slug": "mayo-belwa-ng002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002012",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Belwa",
+          "en": "Mayo-Belwa",
+          "slug": "mayo-belwa-ng002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.922",
+      "lon": "12.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002012_mayo-belwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayo-belwa",
+      "en": "Mayo-belwa",
+      "slug": "mayo-belwa"
+    },
+    "code": {
+      "id": "NG002012_mayo-belwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002012",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Belwa",
+        "en": "Mayo-Belwa",
+        "slug": "mayo-belwa-ng002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002012",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Belwa",
+          "en": "Mayo-Belwa",
+          "slug": "mayo-belwa-ng002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.922",
+      "lon": "12.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002012_nassarawo-jereng",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nassarawo Jereng",
+      "en": "Nassarawo Jereng",
+      "slug": "nassarawo-jereng"
+    },
+    "code": {
+      "id": "NG002012_nassarawo-jereng",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002012",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Belwa",
+        "en": "Mayo-Belwa",
+        "slug": "mayo-belwa-ng002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002012",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Belwa",
+          "en": "Mayo-Belwa",
+          "slug": "mayo-belwa-ng002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.922",
+      "lon": "11.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002012_ndikong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndikong",
+      "en": "Ndikong",
+      "slug": "ndikong"
+    },
+    "code": {
+      "id": "NG002012_ndikong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002012",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Belwa",
+        "en": "Mayo-Belwa",
+        "slug": "mayo-belwa-ng002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002012",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Belwa",
+          "en": "Mayo-Belwa",
+          "slug": "mayo-belwa-ng002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.172",
+      "lon": "12.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002012_ribadu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ribadu",
+      "en": "Ribadu",
+      "slug": "ribadu"
+    },
+    "code": {
+      "id": "NG002012_ribadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002012",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Belwa",
+        "en": "Mayo-Belwa",
+        "slug": "mayo-belwa-ng002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002012",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Belwa",
+          "en": "Mayo-Belwa",
+          "slug": "mayo-belwa-ng002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.108",
+      "lon": "12.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002012_tola",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tola",
+      "en": "Tola",
+      "slug": "tola"
+    },
+    "code": {
+      "id": "NG002012_tola",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002012",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Belwa",
+        "en": "Mayo-Belwa",
+        "slug": "mayo-belwa-ng002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002012",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Belwa",
+          "en": "Mayo-Belwa",
+          "slug": "mayo-belwa-ng002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.791",
+      "lon": "11.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002012_yoffo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yoffo",
+      "en": "Yoffo",
+      "slug": "yoffo"
+    },
+    "code": {
+      "id": "NG002012_yoffo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002012",
+      "level": 2,
+      "name": {
+        "local": "Mayo-Belwa",
+        "en": "Mayo-Belwa",
+        "slug": "mayo-belwa-ng002012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002012",
+        "level": 2,
+        "name": {
+          "local": "Mayo-Belwa",
+          "en": "Mayo-Belwa",
+          "slug": "mayo-belwa-ng002012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.067",
+      "lon": "11.978"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

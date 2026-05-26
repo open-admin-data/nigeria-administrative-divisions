@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG034007_awulkiti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awulkiti",
+      "en": "Awulkiti",
+      "slug": "awulkiti"
+    },
+    "code": {
+      "id": "NG034007_awulkiti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034007",
+      "level": 2,
+      "name": {
+        "local": "Gudu",
+        "en": "Gudu",
+        "slug": "gudu-ng034007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034007",
+        "level": 2,
+        "name": {
+          "local": "Gudu",
+          "en": "Gudu",
+          "slug": "gudu-ng034007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.459",
+      "lon": "4.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034007_bachaka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bachaka",
+      "en": "Bachaka",
+      "slug": "bachaka"
+    },
+    "code": {
+      "id": "NG034007_bachaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034007",
+      "level": 2,
+      "name": {
+        "local": "Gudu",
+        "en": "Gudu",
+        "slug": "gudu-ng034007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034007",
+        "level": 2,
+        "name": {
+          "local": "Gudu",
+          "en": "Gudu",
+          "slug": "gudu-ng034007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.459",
+      "lon": "4.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034007_balle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Balle",
+      "en": "Balle",
+      "slug": "balle"
+    },
+    "code": {
+      "id": "NG034007_balle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034007",
+      "level": 2,
+      "name": {
+        "local": "Gudu",
+        "en": "Gudu",
+        "slug": "gudu-ng034007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034007",
+        "level": 2,
+        "name": {
+          "local": "Gudu",
+          "en": "Gudu",
+          "slug": "gudu-ng034007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.459",
+      "lon": "4.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034007_chilasmakuya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chilas/makuya",
+      "en": "Chilas/makuya",
+      "slug": "chilasmakuya"
+    },
+    "code": {
+      "id": "NG034007_chilasmakuya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034007",
+      "level": 2,
+      "name": {
+        "local": "Gudu",
+        "en": "Gudu",
+        "slug": "gudu-ng034007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034007",
+        "level": 2,
+        "name": {
+          "local": "Gudu",
+          "en": "Gudu",
+          "slug": "gudu-ng034007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.459",
+      "lon": "4.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034007_gwazangeboto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwazange/boto",
+      "en": "Gwazange/boto",
+      "slug": "gwazangeboto"
+    },
+    "code": {
+      "id": "NG034007_gwazangeboto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034007",
+      "level": 2,
+      "name": {
+        "local": "Gudu",
+        "en": "Gudu",
+        "slug": "gudu-ng034007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034007",
+        "level": 2,
+        "name": {
+          "local": "Gudu",
+          "en": "Gudu",
+          "slug": "gudu-ng034007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.459",
+      "lon": "4.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034007_karfen-chana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karfen Chana",
+      "en": "Karfen Chana",
+      "slug": "karfen-chana"
+    },
+    "code": {
+      "id": "NG034007_karfen-chana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034007",
+      "level": 2,
+      "name": {
+        "local": "Gudu",
+        "en": "Gudu",
+        "slug": "gudu-ng034007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034007",
+        "level": 2,
+        "name": {
+          "local": "Gudu",
+          "en": "Gudu",
+          "slug": "gudu-ng034007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.459",
+      "lon": "4.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034007_karfen-sarki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karfen Sarki",
+      "en": "Karfen Sarki",
+      "slug": "karfen-sarki"
+    },
+    "code": {
+      "id": "NG034007_karfen-sarki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034007",
+      "level": 2,
+      "name": {
+        "local": "Gudu",
+        "en": "Gudu",
+        "slug": "gudu-ng034007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034007",
+        "level": 2,
+        "name": {
+          "local": "Gudu",
+          "en": "Gudu",
+          "slug": "gudu-ng034007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.459",
+      "lon": "4.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034007_kurdula",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurdula",
+      "en": "Kurdula",
+      "slug": "kurdula"
+    },
+    "code": {
+      "id": "NG034007_kurdula",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034007",
+      "level": 2,
+      "name": {
+        "local": "Gudu",
+        "en": "Gudu",
+        "slug": "gudu-ng034007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034007",
+        "level": 2,
+        "name": {
+          "local": "Gudu",
+          "en": "Gudu",
+          "slug": "gudu-ng034007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.459",
+      "lon": "4.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034007_maraken-bori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maraken Bori",
+      "en": "Maraken Bori",
+      "slug": "maraken-bori"
+    },
+    "code": {
+      "id": "NG034007_maraken-bori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034007",
+      "level": 2,
+      "name": {
+        "local": "Gudu",
+        "en": "Gudu",
+        "slug": "gudu-ng034007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034007",
+        "level": 2,
+        "name": {
+          "local": "Gudu",
+          "en": "Gudu",
+          "slug": "gudu-ng034007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.459",
+      "lon": "4.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034007_tulun-doya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tulun Doya",
+      "en": "Tulun Doya",
+      "slug": "tulun-doya"
+    },
+    "code": {
+      "id": "NG034007_tulun-doya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034007",
+      "level": 2,
+      "name": {
+        "local": "Gudu",
+        "en": "Gudu",
+        "slug": "gudu-ng034007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034007",
+        "level": 2,
+        "name": {
+          "local": "Gudu",
+          "en": "Gudu",
+          "slug": "gudu-ng034007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.459",
+      "lon": "4.446"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NG007011",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Kwande",
+    "en": "Kwande",
+    "slug": "kwande-ng007011"
+  },
+  "code": {
+    "id": "NG007011",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG007",
+    "level": 1,
+    "name": {
+      "local": "Benue",
+      "en": "Benue",
+      "slug": "benue-ng007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG007",
+      "level": 1,
+      "name": {
+        "local": "Benue",
+        "en": "Benue",
+        "slug": "benue-ng007"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.778",
+    "lon": "9.413"
+  },
+  "metadata": {},
+  "source": {}
+}

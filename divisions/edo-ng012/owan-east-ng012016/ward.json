@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG012016_emai-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Emai I",
+      "en": "Emai I",
+      "slug": "emai-i"
+    },
+    "code": {
+      "id": "NG012016_emai-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012016",
+      "level": 2,
+      "name": {
+        "local": "Owan East",
+        "en": "Owan East",
+        "slug": "owan-east-ng012016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012016",
+        "level": 2,
+        "name": {
+          "local": "Owan East",
+          "en": "Owan East",
+          "slug": "owan-east-ng012016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.029",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012016_emai-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Emai Ii",
+      "en": "Emai Ii",
+      "slug": "emai-ii"
+    },
+    "code": {
+      "id": "NG012016_emai-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012016",
+      "level": 2,
+      "name": {
+        "local": "Owan East",
+        "en": "Owan East",
+        "slug": "owan-east-ng012016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012016",
+        "level": 2,
+        "name": {
+          "local": "Owan East",
+          "en": "Owan East",
+          "slug": "owan-east-ng012016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.029",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012016_igueikao",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igue/ikao",
+      "en": "Igue/ikao",
+      "slug": "igueikao"
+    },
+    "code": {
+      "id": "NG012016_igueikao",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012016",
+      "level": 2,
+      "name": {
+        "local": "Owan East",
+        "en": "Owan East",
+        "slug": "owan-east-ng012016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012016",
+        "level": 2,
+        "name": {
+          "local": "Owan East",
+          "en": "Owan East",
+          "slug": "owan-east-ng012016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.029",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012016_ihievbe-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ihievbe I",
+      "en": "Ihievbe I",
+      "slug": "ihievbe-i"
+    },
+    "code": {
+      "id": "NG012016_ihievbe-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012016",
+      "level": 2,
+      "name": {
+        "local": "Owan East",
+        "en": "Owan East",
+        "slug": "owan-east-ng012016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012016",
+        "level": 2,
+        "name": {
+          "local": "Owan East",
+          "en": "Owan East",
+          "slug": "owan-east-ng012016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.029",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012016_ihievbe-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ihievbe Ii",
+      "en": "Ihievbe Ii",
+      "slug": "ihievbe-ii"
+    },
+    "code": {
+      "id": "NG012016_ihievbe-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012016",
+      "level": 2,
+      "name": {
+        "local": "Owan East",
+        "en": "Owan East",
+        "slug": "owan-east-ng012016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012016",
+        "level": 2,
+        "name": {
+          "local": "Owan East",
+          "en": "Owan East",
+          "slug": "owan-east-ng012016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.029",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012016_ivbiadaobi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ivbiadaobi",
+      "en": "Ivbiadaobi",
+      "slug": "ivbiadaobi"
+    },
+    "code": {
+      "id": "NG012016_ivbiadaobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012016",
+      "level": 2,
+      "name": {
+        "local": "Owan East",
+        "en": "Owan East",
+        "slug": "owan-east-ng012016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012016",
+        "level": 2,
+        "name": {
+          "local": "Owan East",
+          "en": "Owan East",
+          "slug": "owan-east-ng012016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.029",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012016_ivbimion",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ivbimion",
+      "en": "Ivbimion",
+      "slug": "ivbimion"
+    },
+    "code": {
+      "id": "NG012016_ivbimion",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012016",
+      "level": 2,
+      "name": {
+        "local": "Owan East",
+        "en": "Owan East",
+        "slug": "owan-east-ng012016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012016",
+        "level": 2,
+        "name": {
+          "local": "Owan East",
+          "en": "Owan East",
+          "slug": "owan-east-ng012016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.029",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012016_otuo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otuo I",
+      "en": "Otuo I",
+      "slug": "otuo-i"
+    },
+    "code": {
+      "id": "NG012016_otuo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012016",
+      "level": 2,
+      "name": {
+        "local": "Owan East",
+        "en": "Owan East",
+        "slug": "owan-east-ng012016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012016",
+        "level": 2,
+        "name": {
+          "local": "Owan East",
+          "en": "Owan East",
+          "slug": "owan-east-ng012016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.029",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012016_otuo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otuo Ii",
+      "en": "Otuo Ii",
+      "slug": "otuo-ii"
+    },
+    "code": {
+      "id": "NG012016_otuo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012016",
+      "level": 2,
+      "name": {
+        "local": "Owan East",
+        "en": "Owan East",
+        "slug": "owan-east-ng012016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012016",
+        "level": 2,
+        "name": {
+          "local": "Owan East",
+          "en": "Owan East",
+          "slug": "owan-east-ng012016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.029",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012016_uokhaake",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uokha/ake",
+      "en": "Uokha/ake",
+      "slug": "uokhaake"
+    },
+    "code": {
+      "id": "NG012016_uokhaake",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012016",
+      "level": 2,
+      "name": {
+        "local": "Owan East",
+        "en": "Owan East",
+        "slug": "owan-east-ng012016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012016",
+        "level": 2,
+        "name": {
+          "local": "Owan East",
+          "en": "Owan East",
+          "slug": "owan-east-ng012016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.029",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012016_warrake",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Warrake",
+      "en": "Warrake",
+      "slug": "warrake"
+    },
+    "code": {
+      "id": "NG012016_warrake",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012016",
+      "level": 2,
+      "name": {
+        "local": "Owan East",
+        "en": "Owan East",
+        "slug": "owan-east-ng012016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012016",
+        "level": 2,
+        "name": {
+          "local": "Owan East",
+          "en": "Owan East",
+          "slug": "owan-east-ng012016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.029",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

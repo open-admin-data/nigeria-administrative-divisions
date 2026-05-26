@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG010025_aja---udaibo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aja - Udaibo",
+      "en": "Aja - Udaibo",
+      "slug": "aja---udaibo"
+    },
+    "code": {
+      "id": "NG010025_aja---udaibo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010025",
+      "level": 2,
+      "name": {
+        "local": "Warri South West",
+        "en": "Warri South West",
+        "slug": "warri-south-west-ng010025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010025",
+        "level": 2,
+        "name": {
+          "local": "Warri South West",
+          "en": "Warri South West",
+          "slug": "warri-south-west-ng010025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "5.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010025_akpikpa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akpikpa",
+      "en": "Akpikpa",
+      "slug": "akpikpa"
+    },
+    "code": {
+      "id": "NG010025_akpikpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010025",
+      "level": 2,
+      "name": {
+        "local": "Warri South West",
+        "en": "Warri South West",
+        "slug": "warri-south-west-ng010025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010025",
+        "level": 2,
+        "name": {
+          "local": "Warri South West",
+          "en": "Warri South West",
+          "slug": "warri-south-west-ng010025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "5.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010025_gbaramatu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gbaramatu",
+      "en": "Gbaramatu",
+      "slug": "gbaramatu"
+    },
+    "code": {
+      "id": "NG010025_gbaramatu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010025",
+      "level": 2,
+      "name": {
+        "local": "Warri South West",
+        "en": "Warri South West",
+        "slug": "warri-south-west-ng010025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010025",
+        "level": 2,
+        "name": {
+          "local": "Warri South West",
+          "en": "Warri South West",
+          "slug": "warri-south-west-ng010025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "5.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010025_isaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isaba",
+      "en": "Isaba",
+      "slug": "isaba"
+    },
+    "code": {
+      "id": "NG010025_isaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010025",
+      "level": 2,
+      "name": {
+        "local": "Warri South West",
+        "en": "Warri South West",
+        "slug": "warri-south-west-ng010025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010025",
+        "level": 2,
+        "name": {
+          "local": "Warri South West",
+          "en": "Warri South West",
+          "slug": "warri-south-west-ng010025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "5.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010025_madangho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madangho",
+      "en": "Madangho",
+      "slug": "madangho"
+    },
+    "code": {
+      "id": "NG010025_madangho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010025",
+      "level": 2,
+      "name": {
+        "local": "Warri South West",
+        "en": "Warri South West",
+        "slug": "warri-south-west-ng010025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010025",
+        "level": 2,
+        "name": {
+          "local": "Warri South West",
+          "en": "Warri South West",
+          "slug": "warri-south-west-ng010025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "5.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010025_ogbe---ijoh",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbe - Ijoh",
+      "en": "Ogbe - Ijoh",
+      "slug": "ogbe---ijoh"
+    },
+    "code": {
+      "id": "NG010025_ogbe---ijoh",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010025",
+      "level": 2,
+      "name": {
+        "local": "Warri South West",
+        "en": "Warri South West",
+        "slug": "warri-south-west-ng010025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010025",
+        "level": 2,
+        "name": {
+          "local": "Warri South West",
+          "en": "Warri South West",
+          "slug": "warri-south-west-ng010025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "5.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010025_ogidigben",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogidigben",
+      "en": "Ogidigben",
+      "slug": "ogidigben"
+    },
+    "code": {
+      "id": "NG010025_ogidigben",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010025",
+      "level": 2,
+      "name": {
+        "local": "Warri South West",
+        "en": "Warri South West",
+        "slug": "warri-south-west-ng010025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010025",
+        "level": 2,
+        "name": {
+          "local": "Warri South West",
+          "en": "Warri South West",
+          "slug": "warri-south-west-ng010025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "5.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010025_oporoza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oporoza",
+      "en": "Oporoza",
+      "slug": "oporoza"
+    },
+    "code": {
+      "id": "NG010025_oporoza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010025",
+      "level": 2,
+      "name": {
+        "local": "Warri South West",
+        "en": "Warri South West",
+        "slug": "warri-south-west-ng010025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010025",
+        "level": 2,
+        "name": {
+          "local": "Warri South West",
+          "en": "Warri South West",
+          "slug": "warri-south-west-ng010025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "5.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010025_orere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orere",
+      "en": "Orere",
+      "slug": "orere"
+    },
+    "code": {
+      "id": "NG010025_orere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010025",
+      "level": 2,
+      "name": {
+        "local": "Warri South West",
+        "en": "Warri South West",
+        "slug": "warri-south-west-ng010025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010025",
+        "level": 2,
+        "name": {
+          "local": "Warri South West",
+          "en": "Warri South West",
+          "slug": "warri-south-west-ng010025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "5.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010025_ugborodo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugborodo",
+      "en": "Ugborodo",
+      "slug": "ugborodo"
+    },
+    "code": {
+      "id": "NG010025_ugborodo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010025",
+      "level": 2,
+      "name": {
+        "local": "Warri South West",
+        "en": "Warri South West",
+        "slug": "warri-south-west-ng010025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010025",
+        "level": 2,
+        "name": {
+          "local": "Warri South West",
+          "en": "Warri South West",
+          "slug": "warri-south-west-ng010025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "5.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

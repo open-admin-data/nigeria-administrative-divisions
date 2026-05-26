@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG009002_akamkpa-urban",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akamkpa Urban",
+      "en": "Akamkpa Urban",
+      "slug": "akamkpa-urban"
+    },
+    "code": {
+      "id": "NG009002_akamkpa-urban",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009002",
+      "level": 2,
+      "name": {
+        "local": "Akamkpa",
+        "en": "Akamkpa",
+        "slug": "akamkpa-ng009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009002",
+        "level": 2,
+        "name": {
+          "local": "Akamkpa",
+          "en": "Akamkpa",
+          "slug": "akamkpa-ng009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.388",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009002_awi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awi",
+      "en": "Awi",
+      "slug": "awi"
+    },
+    "code": {
+      "id": "NG009002_awi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009002",
+      "level": 2,
+      "name": {
+        "local": "Akamkpa",
+        "en": "Akamkpa",
+        "slug": "akamkpa-ng009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009002",
+        "level": 2,
+        "name": {
+          "local": "Akamkpa",
+          "en": "Akamkpa",
+          "slug": "akamkpa-ng009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.388",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009002_eku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eku",
+      "en": "Eku",
+      "slug": "eku"
+    },
+    "code": {
+      "id": "NG009002_eku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009002",
+      "level": 2,
+      "name": {
+        "local": "Akamkpa",
+        "en": "Akamkpa",
+        "slug": "akamkpa-ng009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009002",
+        "level": 2,
+        "name": {
+          "local": "Akamkpa",
+          "en": "Akamkpa",
+          "slug": "akamkpa-ng009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.388",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009002_iko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iko",
+      "en": "Iko",
+      "slug": "iko"
+    },
+    "code": {
+      "id": "NG009002_iko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009002",
+      "level": 2,
+      "name": {
+        "local": "Akamkpa",
+        "en": "Akamkpa",
+        "slug": "akamkpa-ng009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009002",
+        "level": 2,
+        "name": {
+          "local": "Akamkpa",
+          "en": "Akamkpa",
+          "slug": "akamkpa-ng009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.388",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009002_ikpai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikpai",
+      "en": "Ikpai",
+      "slug": "ikpai"
+    },
+    "code": {
+      "id": "NG009002_ikpai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009002",
+      "level": 2,
+      "name": {
+        "local": "Akamkpa",
+        "en": "Akamkpa",
+        "slug": "akamkpa-ng009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009002",
+        "level": 2,
+        "name": {
+          "local": "Akamkpa",
+          "en": "Akamkpa",
+          "slug": "akamkpa-ng009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.388",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009002_mbarakom",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbarakom",
+      "en": "Mbarakom",
+      "slug": "mbarakom"
+    },
+    "code": {
+      "id": "NG009002_mbarakom",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009002",
+      "level": 2,
+      "name": {
+        "local": "Akamkpa",
+        "en": "Akamkpa",
+        "slug": "akamkpa-ng009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009002",
+        "level": 2,
+        "name": {
+          "local": "Akamkpa",
+          "en": "Akamkpa",
+          "slug": "akamkpa-ng009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.388",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009002_oban",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oban",
+      "en": "Oban",
+      "slug": "oban"
+    },
+    "code": {
+      "id": "NG009002_oban",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009002",
+      "level": 2,
+      "name": {
+        "local": "Akamkpa",
+        "en": "Akamkpa",
+        "slug": "akamkpa-ng009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009002",
+        "level": 2,
+        "name": {
+          "local": "Akamkpa",
+          "en": "Akamkpa",
+          "slug": "akamkpa-ng009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.388",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009002_ojuk-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojuk North",
+      "en": "Ojuk North",
+      "slug": "ojuk-north"
+    },
+    "code": {
+      "id": "NG009002_ojuk-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009002",
+      "level": 2,
+      "name": {
+        "local": "Akamkpa",
+        "en": "Akamkpa",
+        "slug": "akamkpa-ng009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009002",
+        "level": 2,
+        "name": {
+          "local": "Akamkpa",
+          "en": "Akamkpa",
+          "slug": "akamkpa-ng009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.388",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009002_ojuk-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojuk South",
+      "en": "Ojuk South",
+      "slug": "ojuk-south"
+    },
+    "code": {
+      "id": "NG009002_ojuk-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009002",
+      "level": 2,
+      "name": {
+        "local": "Akamkpa",
+        "en": "Akamkpa",
+        "slug": "akamkpa-ng009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009002",
+        "level": 2,
+        "name": {
+          "local": "Akamkpa",
+          "en": "Akamkpa",
+          "slug": "akamkpa-ng009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.388",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009002_uyanga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uyanga",
+      "en": "Uyanga",
+      "slug": "uyanga"
+    },
+    "code": {
+      "id": "NG009002_uyanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009002",
+      "level": 2,
+      "name": {
+        "local": "Akamkpa",
+        "en": "Akamkpa",
+        "slug": "akamkpa-ng009002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009002",
+        "level": 2,
+        "name": {
+          "local": "Akamkpa",
+          "en": "Akamkpa",
+          "slug": "akamkpa-ng009002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.388",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018021_arki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Arki",
+      "en": "Arki",
+      "slug": "arki"
+    },
+    "code": {
+      "id": "NG018021_arki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018021",
+      "level": 2,
+      "name": {
+        "local": "Malam Madori",
+        "en": "Malam Madori",
+        "slug": "malam-madori-ng018021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018021",
+        "level": 2,
+        "name": {
+          "local": "Malam Madori",
+          "en": "Malam Madori",
+          "slug": "malam-madori-ng018021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "9.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018021_dunari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dunari",
+      "en": "Dunari",
+      "slug": "dunari"
+    },
+    "code": {
+      "id": "NG018021_dunari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018021",
+      "level": 2,
+      "name": {
+        "local": "Malam Madori",
+        "en": "Malam Madori",
+        "slug": "malam-madori-ng018021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018021",
+        "level": 2,
+        "name": {
+          "local": "Malam Madori",
+          "en": "Malam Madori",
+          "slug": "malam-madori-ng018021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "9.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018021_fateka-akurya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fateka Akurya",
+      "en": "Fateka Akurya",
+      "slug": "fateka-akurya"
+    },
+    "code": {
+      "id": "NG018021_fateka-akurya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018021",
+      "level": 2,
+      "name": {
+        "local": "Malam Madori",
+        "en": "Malam Madori",
+        "slug": "malam-madori-ng018021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018021",
+        "level": 2,
+        "name": {
+          "local": "Malam Madori",
+          "en": "Malam Madori",
+          "slug": "malam-madori-ng018021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "9.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018021_garin-gabas",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garin Gabas",
+      "en": "Garin Gabas",
+      "slug": "garin-gabas"
+    },
+    "code": {
+      "id": "NG018021_garin-gabas",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018021",
+      "level": 2,
+      "name": {
+        "local": "Malam Madori",
+        "en": "Malam Madori",
+        "slug": "malam-madori-ng018021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018021",
+        "level": 2,
+        "name": {
+          "local": "Malam Madori",
+          "en": "Malam Madori",
+          "slug": "malam-madori-ng018021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "9.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018021_maira-kumi-bara-musa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maira Kumi-bara Musa",
+      "en": "Maira Kumi-bara Musa",
+      "slug": "maira-kumi-bara-musa"
+    },
+    "code": {
+      "id": "NG018021_maira-kumi-bara-musa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018021",
+      "level": 2,
+      "name": {
+        "local": "Malam Madori",
+        "en": "Malam Madori",
+        "slug": "malam-madori-ng018021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018021",
+        "level": 2,
+        "name": {
+          "local": "Malam Madori",
+          "en": "Malam Madori",
+          "slug": "malam-madori-ng018021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "9.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018021_maka-ddari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maka Ddari",
+      "en": "Maka Ddari",
+      "slug": "maka-ddari"
+    },
+    "code": {
+      "id": "NG018021_maka-ddari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018021",
+      "level": 2,
+      "name": {
+        "local": "Malam Madori",
+        "en": "Malam Madori",
+        "slug": "malam-madori-ng018021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018021",
+        "level": 2,
+        "name": {
+          "local": "Malam Madori",
+          "en": "Malam Madori",
+          "slug": "malam-madori-ng018021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "9.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018021_malam-madori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Malam Madori",
+      "en": "Malam Madori",
+      "slug": "malam-madori"
+    },
+    "code": {
+      "id": "NG018021_malam-madori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018021",
+      "level": 2,
+      "name": {
+        "local": "Malam Madori",
+        "en": "Malam Madori",
+        "slug": "malam-madori-ng018021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018021",
+        "level": 2,
+        "name": {
+          "local": "Malam Madori",
+          "en": "Malam Madori",
+          "slug": "malam-madori-ng018021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "9.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018021_shaiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shaiya",
+      "en": "Shaiya",
+      "slug": "shaiya"
+    },
+    "code": {
+      "id": "NG018021_shaiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018021",
+      "level": 2,
+      "name": {
+        "local": "Malam Madori",
+        "en": "Malam Madori",
+        "slug": "malam-madori-ng018021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018021",
+        "level": 2,
+        "name": {
+          "local": "Malam Madori",
+          "en": "Malam Madori",
+          "slug": "malam-madori-ng018021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "9.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018021_tagwaro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tagwaro",
+      "en": "Tagwaro",
+      "slug": "tagwaro"
+    },
+    "code": {
+      "id": "NG018021_tagwaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018021",
+      "level": 2,
+      "name": {
+        "local": "Malam Madori",
+        "en": "Malam Madori",
+        "slug": "malam-madori-ng018021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018021",
+        "level": 2,
+        "name": {
+          "local": "Malam Madori",
+          "en": "Malam Madori",
+          "slug": "malam-madori-ng018021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "9.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018021_tashena",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tashena",
+      "en": "Tashena",
+      "slug": "tashena"
+    },
+    "code": {
+      "id": "NG018021_tashena",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018021",
+      "level": 2,
+      "name": {
+        "local": "Malam Madori",
+        "en": "Malam Madori",
+        "slug": "malam-madori-ng018021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018021",
+        "level": 2,
+        "name": {
+          "local": "Malam Madori",
+          "en": "Malam Madori",
+          "slug": "malam-madori-ng018021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "9.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018021_tonikutara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tonikutara",
+      "en": "Tonikutara",
+      "slug": "tonikutara"
+    },
+    "code": {
+      "id": "NG018021_tonikutara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018021",
+      "level": 2,
+      "name": {
+        "local": "Malam Madori",
+        "en": "Malam Madori",
+        "slug": "malam-madori-ng018021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018021",
+        "level": 2,
+        "name": {
+          "local": "Malam Madori",
+          "en": "Malam Madori",
+          "slug": "malam-madori-ng018021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.533",
+      "lon": "9.953"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

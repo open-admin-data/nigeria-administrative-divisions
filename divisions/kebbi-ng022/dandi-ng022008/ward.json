@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG022008_bani-zumbu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bani Zumbu",
+      "en": "Bani Zumbu",
+      "slug": "bani-zumbu"
+    },
+    "code": {
+      "id": "NG022008_bani-zumbu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022008",
+      "level": 2,
+      "name": {
+        "local": "Dandi",
+        "en": "Dandi",
+        "slug": "dandi-ng022008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022008",
+        "level": 2,
+        "name": {
+          "local": "Dandi",
+          "en": "Dandi",
+          "slug": "dandi-ng022008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.861",
+      "lon": "3.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022008_buma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buma",
+      "en": "Buma",
+      "slug": "buma"
+    },
+    "code": {
+      "id": "NG022008_buma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022008",
+      "level": 2,
+      "name": {
+        "local": "Dandi",
+        "en": "Dandi",
+        "slug": "dandi-ng022008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022008",
+        "level": 2,
+        "name": {
+          "local": "Dandi",
+          "en": "Dandi",
+          "slug": "dandi-ng022008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.861",
+      "lon": "3.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022008_dolekaina",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dolekaina",
+      "en": "Dolekaina",
+      "slug": "dolekaina"
+    },
+    "code": {
+      "id": "NG022008_dolekaina",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022008",
+      "level": 2,
+      "name": {
+        "local": "Dandi",
+        "en": "Dandi",
+        "slug": "dandi-ng022008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022008",
+        "level": 2,
+        "name": {
+          "local": "Dandi",
+          "en": "Dandi",
+          "slug": "dandi-ng022008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.861",
+      "lon": "3.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022008_fana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fana",
+      "en": "Fana",
+      "slug": "fana"
+    },
+    "code": {
+      "id": "NG022008_fana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022008",
+      "level": 2,
+      "name": {
+        "local": "Dandi",
+        "en": "Dandi",
+        "slug": "dandi-ng022008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022008",
+        "level": 2,
+        "name": {
+          "local": "Dandi",
+          "en": "Dandi",
+          "slug": "dandi-ng022008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.861",
+      "lon": "3.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022008_geza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Geza",
+      "en": "Geza",
+      "slug": "geza"
+    },
+    "code": {
+      "id": "NG022008_geza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022008",
+      "level": 2,
+      "name": {
+        "local": "Dandi",
+        "en": "Dandi",
+        "slug": "dandi-ng022008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022008",
+        "level": 2,
+        "name": {
+          "local": "Dandi",
+          "en": "Dandi",
+          "slug": "dandi-ng022008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.861",
+      "lon": "3.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022008_kamba-kamba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kamba / Kamba",
+      "en": "Kamba / Kamba",
+      "slug": "kamba-kamba"
+    },
+    "code": {
+      "id": "NG022008_kamba-kamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022008",
+      "level": 2,
+      "name": {
+        "local": "Dandi",
+        "en": "Dandi",
+        "slug": "dandi-ng022008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022008",
+        "level": 2,
+        "name": {
+          "local": "Dandi",
+          "en": "Dandi",
+          "slug": "dandi-ng022008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.861",
+      "lon": "3.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022008_kwakkwaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwakkwaba",
+      "en": "Kwakkwaba",
+      "slug": "kwakkwaba"
+    },
+    "code": {
+      "id": "NG022008_kwakkwaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022008",
+      "level": 2,
+      "name": {
+        "local": "Dandi",
+        "en": "Dandi",
+        "slug": "dandi-ng022008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022008",
+        "level": 2,
+        "name": {
+          "local": "Dandi",
+          "en": "Dandi",
+          "slug": "dandi-ng022008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.861",
+      "lon": "3.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022008_kyangakwai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kyangakwai",
+      "en": "Kyangakwai",
+      "slug": "kyangakwai"
+    },
+    "code": {
+      "id": "NG022008_kyangakwai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022008",
+      "level": 2,
+      "name": {
+        "local": "Dandi",
+        "en": "Dandi",
+        "slug": "dandi-ng022008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022008",
+        "level": 2,
+        "name": {
+          "local": "Dandi",
+          "en": "Dandi",
+          "slug": "dandi-ng022008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.861",
+      "lon": "3.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022008_maigwaza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maigwaza",
+      "en": "Maigwaza",
+      "slug": "maigwaza"
+    },
+    "code": {
+      "id": "NG022008_maigwaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022008",
+      "level": 2,
+      "name": {
+        "local": "Dandi",
+        "en": "Dandi",
+        "slug": "dandi-ng022008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022008",
+        "level": 2,
+        "name": {
+          "local": "Dandi",
+          "en": "Dandi",
+          "slug": "dandi-ng022008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.861",
+      "lon": "3.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022008_maihausawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maihausawa",
+      "en": "Maihausawa",
+      "slug": "maihausawa"
+    },
+    "code": {
+      "id": "NG022008_maihausawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022008",
+      "level": 2,
+      "name": {
+        "local": "Dandi",
+        "en": "Dandi",
+        "slug": "dandi-ng022008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022008",
+        "level": 2,
+        "name": {
+          "local": "Dandi",
+          "en": "Dandi",
+          "slug": "dandi-ng022008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.861",
+      "lon": "3.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022008_shiko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shiko",
+      "en": "Shiko",
+      "slug": "shiko"
+    },
+    "code": {
+      "id": "NG022008_shiko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022008",
+      "level": 2,
+      "name": {
+        "local": "Dandi",
+        "en": "Dandi",
+        "slug": "dandi-ng022008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022008",
+        "level": 2,
+        "name": {
+          "local": "Dandi",
+          "en": "Dandi",
+          "slug": "dandi-ng022008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.861",
+      "lon": "3.801"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

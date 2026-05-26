@@ -1,0 +1,47 @@
+{
+  "id": "NG033017",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ogu/Bolo",
+    "en": "Ogu/Bolo",
+    "slug": "ogubolo-ng033017"
+  },
+  "code": {
+    "id": "NG033017",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG033",
+    "level": 1,
+    "name": {
+      "local": "Rivers",
+      "en": "Rivers",
+      "slug": "rivers-ng033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.651",
+    "lon": "7.196"
+  },
+  "metadata": {},
+  "source": {}
+}

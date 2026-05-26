@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG018026_ajaura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajaura",
+      "en": "Ajaura",
+      "slug": "ajaura"
+    },
+    "code": {
+      "id": "NG018026_ajaura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018026",
+      "level": 2,
+      "name": {
+        "local": "Taura",
+        "en": "Taura",
+        "slug": "taura-ng018026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018026",
+        "level": 2,
+        "name": {
+          "local": "Taura",
+          "en": "Taura",
+          "slug": "taura-ng018026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.279",
+      "lon": "9.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018026_chakwaikwaiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chakwaikwaiwa",
+      "en": "Chakwaikwaiwa",
+      "slug": "chakwaikwaiwa"
+    },
+    "code": {
+      "id": "NG018026_chakwaikwaiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018026",
+      "level": 2,
+      "name": {
+        "local": "Taura",
+        "en": "Taura",
+        "slug": "taura-ng018026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018026",
+        "level": 2,
+        "name": {
+          "local": "Taura",
+          "en": "Taura",
+          "slug": "taura-ng018026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.279",
+      "lon": "9.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018026_chukuto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chukuto",
+      "en": "Chukuto",
+      "slug": "chukuto"
+    },
+    "code": {
+      "id": "NG018026_chukuto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018026",
+      "level": 2,
+      "name": {
+        "local": "Taura",
+        "en": "Taura",
+        "slug": "taura-ng018026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018026",
+        "level": 2,
+        "name": {
+          "local": "Taura",
+          "en": "Taura",
+          "slug": "taura-ng018026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.279",
+      "lon": "9.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018026_gujungu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gujungu",
+      "en": "Gujungu",
+      "slug": "gujungu"
+    },
+    "code": {
+      "id": "NG018026_gujungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018026",
+      "level": 2,
+      "name": {
+        "local": "Taura",
+        "en": "Taura",
+        "slug": "taura-ng018026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018026",
+        "level": 2,
+        "name": {
+          "local": "Taura",
+          "en": "Taura",
+          "slug": "taura-ng018026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.279",
+      "lon": "9.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018026_kiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kiri",
+      "en": "Kiri",
+      "slug": "kiri"
+    },
+    "code": {
+      "id": "NG018026_kiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018026",
+      "level": 2,
+      "name": {
+        "local": "Taura",
+        "en": "Taura",
+        "slug": "taura-ng018026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018026",
+        "level": 2,
+        "name": {
+          "local": "Taura",
+          "en": "Taura",
+          "slug": "taura-ng018026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.279",
+      "lon": "9.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018026_kwalam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwalam",
+      "en": "Kwalam",
+      "slug": "kwalam"
+    },
+    "code": {
+      "id": "NG018026_kwalam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018026",
+      "level": 2,
+      "name": {
+        "local": "Taura",
+        "en": "Taura",
+        "slug": "taura-ng018026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018026",
+        "level": 2,
+        "name": {
+          "local": "Taura",
+          "en": "Taura",
+          "slug": "taura-ng018026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.279",
+      "lon": "9.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018026_maje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maje",
+      "en": "Maje",
+      "slug": "maje"
+    },
+    "code": {
+      "id": "NG018026_maje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018026",
+      "level": 2,
+      "name": {
+        "local": "Taura",
+        "en": "Taura",
+        "slug": "taura-ng018026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018026",
+        "level": 2,
+        "name": {
+          "local": "Taura",
+          "en": "Taura",
+          "slug": "taura-ng018026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.279",
+      "lon": "9.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018026_majiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Majiya",
+      "en": "Majiya",
+      "slug": "majiya"
+    },
+    "code": {
+      "id": "NG018026_majiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018026",
+      "level": 2,
+      "name": {
+        "local": "Taura",
+        "en": "Taura",
+        "slug": "taura-ng018026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018026",
+        "level": 2,
+        "name": {
+          "local": "Taura",
+          "en": "Taura",
+          "slug": "taura-ng018026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.279",
+      "lon": "9.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018026_sgarin-yaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S/garin Yaya",
+      "en": "S/garin Yaya",
+      "slug": "sgarin-yaya"
+    },
+    "code": {
+      "id": "NG018026_sgarin-yaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018026",
+      "level": 2,
+      "name": {
+        "local": "Taura",
+        "en": "Taura",
+        "slug": "taura-ng018026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018026",
+        "level": 2,
+        "name": {
+          "local": "Taura",
+          "en": "Taura",
+          "slug": "taura-ng018026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.279",
+      "lon": "9.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018026_taura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Taura",
+      "en": "Taura",
+      "slug": "taura"
+    },
+    "code": {
+      "id": "NG018026_taura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018026",
+      "level": 2,
+      "name": {
+        "local": "Taura",
+        "en": "Taura",
+        "slug": "taura-ng018026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018026",
+        "level": 2,
+        "name": {
+          "local": "Taura",
+          "en": "Taura",
+          "slug": "taura-ng018026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.279",
+      "lon": "9.353"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

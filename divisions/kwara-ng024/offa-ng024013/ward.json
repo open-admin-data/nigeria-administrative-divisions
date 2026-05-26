@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG024013_balogun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Balogun",
+      "en": "Balogun",
+      "slug": "balogun"
+    },
+    "code": {
+      "id": "NG024013_balogun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024013",
+      "level": 2,
+      "name": {
+        "local": "Offa",
+        "en": "Offa",
+        "slug": "offa-ng024013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024013",
+        "level": 2,
+        "name": {
+          "local": "Offa",
+          "en": "Offa",
+          "slug": "offa-ng024013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.163",
+      "lon": "4.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024013_essa---a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Essa - A",
+      "en": "Essa - A",
+      "slug": "essa---a"
+    },
+    "code": {
+      "id": "NG024013_essa---a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024013",
+      "level": 2,
+      "name": {
+        "local": "Offa",
+        "en": "Offa",
+        "slug": "offa-ng024013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024013",
+        "level": 2,
+        "name": {
+          "local": "Offa",
+          "en": "Offa",
+          "slug": "offa-ng024013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.163",
+      "lon": "4.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024013_essa---b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Essa - B",
+      "en": "Essa - B",
+      "slug": "essa---b"
+    },
+    "code": {
+      "id": "NG024013_essa---b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024013",
+      "level": 2,
+      "name": {
+        "local": "Offa",
+        "en": "Offa",
+        "slug": "offa-ng024013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024013",
+        "level": 2,
+        "name": {
+          "local": "Offa",
+          "en": "Offa",
+          "slug": "offa-ng024013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.163",
+      "lon": "4.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024013_essa---c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Essa - C",
+      "en": "Essa - C",
+      "slug": "essa---c"
+    },
+    "code": {
+      "id": "NG024013_essa---c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024013",
+      "level": 2,
+      "name": {
+        "local": "Offa",
+        "en": "Offa",
+        "slug": "offa-ng024013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024013",
+        "level": 2,
+        "name": {
+          "local": "Offa",
+          "en": "Offa",
+          "slug": "offa-ng024013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.163",
+      "lon": "4.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024013_igboidun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igboidun",
+      "en": "Igboidun",
+      "slug": "igboidun"
+    },
+    "code": {
+      "id": "NG024013_igboidun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024013",
+      "level": 2,
+      "name": {
+        "local": "Offa",
+        "en": "Offa",
+        "slug": "offa-ng024013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024013",
+        "level": 2,
+        "name": {
+          "local": "Offa",
+          "en": "Offa",
+          "slug": "offa-ng024013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.163",
+      "lon": "4.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024013_ojomu-central-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojomu Central 1",
+      "en": "Ojomu Central 1",
+      "slug": "ojomu-central-1"
+    },
+    "code": {
+      "id": "NG024013_ojomu-central-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024013",
+      "level": 2,
+      "name": {
+        "local": "Offa",
+        "en": "Offa",
+        "slug": "offa-ng024013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024013",
+        "level": 2,
+        "name": {
+          "local": "Offa",
+          "en": "Offa",
+          "slug": "offa-ng024013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.163",
+      "lon": "4.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024013_ojomu-central-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojomu Central 11",
+      "en": "Ojomu Central 11",
+      "slug": "ojomu-central-11"
+    },
+    "code": {
+      "id": "NG024013_ojomu-central-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024013",
+      "level": 2,
+      "name": {
+        "local": "Offa",
+        "en": "Offa",
+        "slug": "offa-ng024013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024013",
+        "level": 2,
+        "name": {
+          "local": "Offa",
+          "en": "Offa",
+          "slug": "offa-ng024013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.163",
+      "lon": "4.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024013_ojomu-northnorth-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojomu North/north West",
+      "en": "Ojomu North/north West",
+      "slug": "ojomu-northnorth-west"
+    },
+    "code": {
+      "id": "NG024013_ojomu-northnorth-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024013",
+      "level": 2,
+      "name": {
+        "local": "Offa",
+        "en": "Offa",
+        "slug": "offa-ng024013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024013",
+        "level": 2,
+        "name": {
+          "local": "Offa",
+          "en": "Offa",
+          "slug": "offa-ng024013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.163",
+      "lon": "4.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024013_ojomu-south-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojomu South East",
+      "en": "Ojomu South East",
+      "slug": "ojomu-south-east"
+    },
+    "code": {
+      "id": "NG024013_ojomu-south-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024013",
+      "level": 2,
+      "name": {
+        "local": "Offa",
+        "en": "Offa",
+        "slug": "offa-ng024013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024013",
+        "level": 2,
+        "name": {
+          "local": "Offa",
+          "en": "Offa",
+          "slug": "offa-ng024013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.163",
+      "lon": "4.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024013_shawo-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shawo Central",
+      "en": "Shawo Central",
+      "slug": "shawo-central"
+    },
+    "code": {
+      "id": "NG024013_shawo-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024013",
+      "level": 2,
+      "name": {
+        "local": "Offa",
+        "en": "Offa",
+        "slug": "offa-ng024013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024013",
+        "level": 2,
+        "name": {
+          "local": "Offa",
+          "en": "Offa",
+          "slug": "offa-ng024013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.163",
+      "lon": "4.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024013_shawo-south-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shawo South East",
+      "en": "Shawo South East",
+      "slug": "shawo-south-east"
+    },
+    "code": {
+      "id": "NG024013_shawo-south-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024013",
+      "level": 2,
+      "name": {
+        "local": "Offa",
+        "en": "Offa",
+        "slug": "offa-ng024013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024013",
+        "level": 2,
+        "name": {
+          "local": "Offa",
+          "en": "Offa",
+          "slug": "offa-ng024013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.163",
+      "lon": "4.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024013_shawo-south-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shawo South West",
+      "en": "Shawo South West",
+      "slug": "shawo-south-west"
+    },
+    "code": {
+      "id": "NG024013_shawo-south-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024013",
+      "level": 2,
+      "name": {
+        "local": "Offa",
+        "en": "Offa",
+        "slug": "offa-ng024013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024013",
+        "level": 2,
+        "name": {
+          "local": "Offa",
+          "en": "Offa",
+          "slug": "offa-ng024013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.163",
+      "lon": "4.69"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

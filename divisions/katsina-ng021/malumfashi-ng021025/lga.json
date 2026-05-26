@@ -1,0 +1,47 @@
+{
+  "id": "NG021025",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Malumfashi",
+    "en": "Malumfashi",
+    "slug": "malumfashi-ng021025"
+  },
+  "code": {
+    "id": "NG021025",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG021",
+    "level": 1,
+    "name": {
+      "local": "Katsina",
+      "en": "Katsina",
+      "slug": "katsina-ng021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG021",
+      "level": 1,
+      "name": {
+        "local": "Katsina",
+        "en": "Katsina",
+        "slug": "katsina-ng021"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.845",
+    "lon": "7.679"
+  },
+  "metadata": {},
+  "source": {}
+}

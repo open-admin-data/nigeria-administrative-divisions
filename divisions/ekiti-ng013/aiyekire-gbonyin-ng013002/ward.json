@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG013002_agbado",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbado",
+      "en": "Agbado",
+      "slug": "agbado"
+    },
+    "code": {
+      "id": "NG013002_agbado",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013002",
+      "level": 2,
+      "name": {
+        "local": "Aiyekire (Gbonyin)",
+        "en": "Aiyekire (Gbonyin)",
+        "slug": "aiyekire-gbonyin-ng013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013002",
+        "level": 2,
+        "name": {
+          "local": "Aiyekire (Gbonyin)",
+          "en": "Aiyekire (Gbonyin)",
+          "slug": "aiyekire-gbonyin-ng013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013002_aisegba-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aisegba I",
+      "en": "Aisegba I",
+      "slug": "aisegba-i"
+    },
+    "code": {
+      "id": "NG013002_aisegba-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013002",
+      "level": 2,
+      "name": {
+        "local": "Aiyekire (Gbonyin)",
+        "en": "Aiyekire (Gbonyin)",
+        "slug": "aiyekire-gbonyin-ng013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013002",
+        "level": 2,
+        "name": {
+          "local": "Aiyekire (Gbonyin)",
+          "en": "Aiyekire (Gbonyin)",
+          "slug": "aiyekire-gbonyin-ng013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013002_aisegba-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aisegba Ii",
+      "en": "Aisegba Ii",
+      "slug": "aisegba-ii"
+    },
+    "code": {
+      "id": "NG013002_aisegba-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013002",
+      "level": 2,
+      "name": {
+        "local": "Aiyekire (Gbonyin)",
+        "en": "Aiyekire (Gbonyin)",
+        "slug": "aiyekire-gbonyin-ng013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013002",
+        "level": 2,
+        "name": {
+          "local": "Aiyekire (Gbonyin)",
+          "en": "Aiyekire (Gbonyin)",
+          "slug": "aiyekire-gbonyin-ng013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013002_egbe-iro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egbe / Iro",
+      "en": "Egbe / Iro",
+      "slug": "egbe-iro"
+    },
+    "code": {
+      "id": "NG013002_egbe-iro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013002",
+      "level": 2,
+      "name": {
+        "local": "Aiyekire (Gbonyin)",
+        "en": "Aiyekire (Gbonyin)",
+        "slug": "aiyekire-gbonyin-ng013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013002",
+        "level": 2,
+        "name": {
+          "local": "Aiyekire (Gbonyin)",
+          "en": "Aiyekire (Gbonyin)",
+          "slug": "aiyekire-gbonyin-ng013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013002_ijan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijan",
+      "en": "Ijan",
+      "slug": "ijan"
+    },
+    "code": {
+      "id": "NG013002_ijan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013002",
+      "level": 2,
+      "name": {
+        "local": "Aiyekire (Gbonyin)",
+        "en": "Aiyekire (Gbonyin)",
+        "slug": "aiyekire-gbonyin-ng013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013002",
+        "level": 2,
+        "name": {
+          "local": "Aiyekire (Gbonyin)",
+          "en": "Aiyekire (Gbonyin)",
+          "slug": "aiyekire-gbonyin-ng013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013002_iluomoba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iluomoba",
+      "en": "Iluomoba",
+      "slug": "iluomoba"
+    },
+    "code": {
+      "id": "NG013002_iluomoba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013002",
+      "level": 2,
+      "name": {
+        "local": "Aiyekire (Gbonyin)",
+        "en": "Aiyekire (Gbonyin)",
+        "slug": "aiyekire-gbonyin-ng013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013002",
+        "level": 2,
+        "name": {
+          "local": "Aiyekire (Gbonyin)",
+          "en": "Aiyekire (Gbonyin)",
+          "slug": "aiyekire-gbonyin-ng013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013002_imesi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imesi",
+      "en": "Imesi",
+      "slug": "imesi"
+    },
+    "code": {
+      "id": "NG013002_imesi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013002",
+      "level": 2,
+      "name": {
+        "local": "Aiyekire (Gbonyin)",
+        "en": "Aiyekire (Gbonyin)",
+        "slug": "aiyekire-gbonyin-ng013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013002",
+        "level": 2,
+        "name": {
+          "local": "Aiyekire (Gbonyin)",
+          "en": "Aiyekire (Gbonyin)",
+          "slug": "aiyekire-gbonyin-ng013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013002_ode-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ode I",
+      "en": "Ode I",
+      "slug": "ode-i"
+    },
+    "code": {
+      "id": "NG013002_ode-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013002",
+      "level": 2,
+      "name": {
+        "local": "Aiyekire (Gbonyin)",
+        "en": "Aiyekire (Gbonyin)",
+        "slug": "aiyekire-gbonyin-ng013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013002",
+        "level": 2,
+        "name": {
+          "local": "Aiyekire (Gbonyin)",
+          "en": "Aiyekire (Gbonyin)",
+          "slug": "aiyekire-gbonyin-ng013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013002_ode-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ode Ii",
+      "en": "Ode Ii",
+      "slug": "ode-ii"
+    },
+    "code": {
+      "id": "NG013002_ode-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013002",
+      "level": 2,
+      "name": {
+        "local": "Aiyekire (Gbonyin)",
+        "en": "Aiyekire (Gbonyin)",
+        "slug": "aiyekire-gbonyin-ng013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013002",
+        "level": 2,
+        "name": {
+          "local": "Aiyekire (Gbonyin)",
+          "en": "Aiyekire (Gbonyin)",
+          "slug": "aiyekire-gbonyin-ng013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013002_ode-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ode Iii",
+      "en": "Ode Iii",
+      "slug": "ode-iii"
+    },
+    "code": {
+      "id": "NG013002_ode-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013002",
+      "level": 2,
+      "name": {
+        "local": "Aiyekire (Gbonyin)",
+        "en": "Aiyekire (Gbonyin)",
+        "slug": "aiyekire-gbonyin-ng013002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013002",
+        "level": 2,
+        "name": {
+          "local": "Aiyekire (Gbonyin)",
+          "en": "Aiyekire (Gbonyin)",
+          "slug": "aiyekire-gbonyin-ng013002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.602",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

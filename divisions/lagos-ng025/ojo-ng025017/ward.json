@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG025017_ajangbadi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajangbadi",
+      "en": "Ajangbadi",
+      "slug": "ajangbadi"
+    },
+    "code": {
+      "id": "NG025017_ajangbadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025017",
+      "level": 2,
+      "name": {
+        "local": "Ojo",
+        "en": "Ojo",
+        "slug": "ojo-ng025017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025017",
+        "level": 2,
+        "name": {
+          "local": "Ojo",
+          "en": "Ojo",
+          "slug": "ojo-ng025017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "3.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025017_etegbin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Etegbin",
+      "en": "Etegbin",
+      "slug": "etegbin"
+    },
+    "code": {
+      "id": "NG025017_etegbin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025017",
+      "level": 2,
+      "name": {
+        "local": "Ojo",
+        "en": "Ojo",
+        "slug": "ojo-ng025017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025017",
+        "level": 2,
+        "name": {
+          "local": "Ojo",
+          "en": "Ojo",
+          "slug": "ojo-ng025017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "3.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025017_iba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iba",
+      "en": "Iba",
+      "slug": "iba"
+    },
+    "code": {
+      "id": "NG025017_iba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025017",
+      "level": 2,
+      "name": {
+        "local": "Ojo",
+        "en": "Ojo",
+        "slug": "ojo-ng025017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025017",
+        "level": 2,
+        "name": {
+          "local": "Ojo",
+          "en": "Ojo",
+          "slug": "ojo-ng025017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "3.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025017_idoluwo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idoluwo",
+      "en": "Idoluwo",
+      "slug": "idoluwo"
+    },
+    "code": {
+      "id": "NG025017_idoluwo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025017",
+      "level": 2,
+      "name": {
+        "local": "Ojo",
+        "en": "Ojo",
+        "slug": "ojo-ng025017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025017",
+        "level": 2,
+        "name": {
+          "local": "Ojo",
+          "en": "Ojo",
+          "slug": "ojo-ng025017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "3.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025017_ijanikin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijanikin",
+      "en": "Ijanikin",
+      "slug": "ijanikin"
+    },
+    "code": {
+      "id": "NG025017_ijanikin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025017",
+      "level": 2,
+      "name": {
+        "local": "Ojo",
+        "en": "Ojo",
+        "slug": "ojo-ng025017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025017",
+        "level": 2,
+        "name": {
+          "local": "Ojo",
+          "en": "Ojo",
+          "slug": "ojo-ng025017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "3.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025017_ilogbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilogbo",
+      "en": "Ilogbo",
+      "slug": "ilogbo"
+    },
+    "code": {
+      "id": "NG025017_ilogbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025017",
+      "level": 2,
+      "name": {
+        "local": "Ojo",
+        "en": "Ojo",
+        "slug": "ojo-ng025017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025017",
+        "level": 2,
+        "name": {
+          "local": "Ojo",
+          "en": "Ojo",
+          "slug": "ojo-ng025017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "3.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025017_irewe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Irewe",
+      "en": "Irewe",
+      "slug": "irewe"
+    },
+    "code": {
+      "id": "NG025017_irewe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025017",
+      "level": 2,
+      "name": {
+        "local": "Ojo",
+        "en": "Ojo",
+        "slug": "ojo-ng025017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025017",
+        "level": 2,
+        "name": {
+          "local": "Ojo",
+          "en": "Ojo",
+          "slug": "ojo-ng025017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "3.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025017_ojo-town",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojo Town",
+      "en": "Ojo Town",
+      "slug": "ojo-town"
+    },
+    "code": {
+      "id": "NG025017_ojo-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025017",
+      "level": 2,
+      "name": {
+        "local": "Ojo",
+        "en": "Ojo",
+        "slug": "ojo-ng025017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025017",
+        "level": 2,
+        "name": {
+          "local": "Ojo",
+          "en": "Ojo",
+          "slug": "ojo-ng025017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "3.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025017_okokomaiko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okokomaiko",
+      "en": "Okokomaiko",
+      "slug": "okokomaiko"
+    },
+    "code": {
+      "id": "NG025017_okokomaiko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025017",
+      "level": 2,
+      "name": {
+        "local": "Ojo",
+        "en": "Ojo",
+        "slug": "ojo-ng025017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025017",
+        "level": 2,
+        "name": {
+          "local": "Ojo",
+          "en": "Ojo",
+          "slug": "ojo-ng025017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "3.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025017_sabo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabo",
+      "en": "Sabo",
+      "slug": "sabo"
+    },
+    "code": {
+      "id": "NG025017_sabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025017",
+      "level": 2,
+      "name": {
+        "local": "Ojo",
+        "en": "Ojo",
+        "slug": "ojo-ng025017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025017",
+        "level": 2,
+        "name": {
+          "local": "Ojo",
+          "en": "Ojo",
+          "slug": "ojo-ng025017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "3.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025017_tafi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tafi",
+      "en": "Tafi",
+      "slug": "tafi"
+    },
+    "code": {
+      "id": "NG025017_tafi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025017",
+      "level": 2,
+      "name": {
+        "local": "Ojo",
+        "en": "Ojo",
+        "slug": "ojo-ng025017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025017",
+        "level": 2,
+        "name": {
+          "local": "Ojo",
+          "en": "Ojo",
+          "slug": "ojo-ng025017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "3.166"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

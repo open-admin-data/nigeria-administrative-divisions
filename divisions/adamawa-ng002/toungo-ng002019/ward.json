@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG002019_dawo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dawo I",
+      "en": "Dawo I",
+      "slug": "dawo-i"
+    },
+    "code": {
+      "id": "NG002019_dawo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002019",
+      "level": 2,
+      "name": {
+        "local": "Toungo",
+        "en": "Toungo",
+        "slug": "toungo-ng002019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002019",
+        "level": 2,
+        "name": {
+          "local": "Toungo",
+          "en": "Toungo",
+          "slug": "toungo-ng002019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.312",
+      "lon": "11.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002019_dawo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dawo Ii",
+      "en": "Dawo Ii",
+      "slug": "dawo-ii"
+    },
+    "code": {
+      "id": "NG002019_dawo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002019",
+      "level": 2,
+      "name": {
+        "local": "Toungo",
+        "en": "Toungo",
+        "slug": "toungo-ng002019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002019",
+        "level": 2,
+        "name": {
+          "local": "Toungo",
+          "en": "Toungo",
+          "slug": "toungo-ng002019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.312",
+      "lon": "11.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002019_gumti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gumti",
+      "en": "Gumti",
+      "slug": "gumti"
+    },
+    "code": {
+      "id": "NG002019_gumti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002019",
+      "level": 2,
+      "name": {
+        "local": "Toungo",
+        "en": "Toungo",
+        "slug": "toungo-ng002019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002019",
+        "level": 2,
+        "name": {
+          "local": "Toungo",
+          "en": "Toungo",
+          "slug": "toungo-ng002019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.7",
+      "lon": "11.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002019_kiri-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kiri I",
+      "en": "Kiri I",
+      "slug": "kiri-i"
+    },
+    "code": {
+      "id": "NG002019_kiri-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002019",
+      "level": 2,
+      "name": {
+        "local": "Toungo",
+        "en": "Toungo",
+        "slug": "toungo-ng002019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002019",
+        "level": 2,
+        "name": {
+          "local": "Toungo",
+          "en": "Toungo",
+          "slug": "toungo-ng002019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.119",
+      "lon": "11.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002019_kiri-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kiri Ii",
+      "en": "Kiri Ii",
+      "slug": "kiri-ii"
+    },
+    "code": {
+      "id": "NG002019_kiri-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002019",
+      "level": 2,
+      "name": {
+        "local": "Toungo",
+        "en": "Toungo",
+        "slug": "toungo-ng002019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002019",
+        "level": 2,
+        "name": {
+          "local": "Toungo",
+          "en": "Toungo",
+          "slug": "toungo-ng002019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.119",
+      "lon": "11.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002019_kongin-baba-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kongin Baba I",
+      "en": "Kongin Baba I",
+      "slug": "kongin-baba-i"
+    },
+    "code": {
+      "id": "NG002019_kongin-baba-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002019",
+      "level": 2,
+      "name": {
+        "local": "Toungo",
+        "en": "Toungo",
+        "slug": "toungo-ng002019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002019",
+        "level": 2,
+        "name": {
+          "local": "Toungo",
+          "en": "Toungo",
+          "slug": "toungo-ng002019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.902",
+      "lon": "11.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002019_kongin-baba-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kongin Baba Ii",
+      "en": "Kongin Baba Ii",
+      "slug": "kongin-baba-ii"
+    },
+    "code": {
+      "id": "NG002019_kongin-baba-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002019",
+      "level": 2,
+      "name": {
+        "local": "Toungo",
+        "en": "Toungo",
+        "slug": "toungo-ng002019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002019",
+        "level": 2,
+        "name": {
+          "local": "Toungo",
+          "en": "Toungo",
+          "slug": "toungo-ng002019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.902",
+      "lon": "11.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002019_toungo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Toungo I",
+      "en": "Toungo I",
+      "slug": "toungo-i"
+    },
+    "code": {
+      "id": "NG002019_toungo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002019",
+      "level": 2,
+      "name": {
+        "local": "Toungo",
+        "en": "Toungo",
+        "slug": "toungo-ng002019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002019",
+        "level": 2,
+        "name": {
+          "local": "Toungo",
+          "en": "Toungo",
+          "slug": "toungo-ng002019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.099",
+      "lon": "12.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002019_toungo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Toungo Ii",
+      "en": "Toungo Ii",
+      "slug": "toungo-ii"
+    },
+    "code": {
+      "id": "NG002019_toungo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002019",
+      "level": 2,
+      "name": {
+        "local": "Toungo",
+        "en": "Toungo",
+        "slug": "toungo-ng002019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002019",
+        "level": 2,
+        "name": {
+          "local": "Toungo",
+          "en": "Toungo",
+          "slug": "toungo-ng002019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.099",
+      "lon": "12.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002019_toungo-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Toungo Iii",
+      "en": "Toungo Iii",
+      "slug": "toungo-iii"
+    },
+    "code": {
+      "id": "NG002019_toungo-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002019",
+      "level": 2,
+      "name": {
+        "local": "Toungo",
+        "en": "Toungo",
+        "slug": "toungo-ng002019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002019",
+        "level": 2,
+        "name": {
+          "local": "Toungo",
+          "en": "Toungo",
+          "slug": "toungo-ng002019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.099",
+      "lon": "12.04"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

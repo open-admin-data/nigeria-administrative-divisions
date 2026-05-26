@@ -1,0 +1,1459 @@
+[
+  {
+    "id": "NG003001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Abak",
+      "en": "Abak",
+      "slug": "abak-ng003001"
+    },
+    "code": {
+      "id": "NG003001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.004",
+      "lon": "7.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Eastern Obolo",
+      "en": "Eastern Obolo",
+      "slug": "eastern-obolo-ng003002"
+    },
+    "code": {
+      "id": "NG003002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.515",
+      "lon": "7.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Eket",
+      "en": "Eket",
+      "slug": "eket-ng003003"
+    },
+    "code": {
+      "id": "NG003003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.636",
+      "lon": "7.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Esit - Eket",
+      "en": "Esit - Eket",
+      "slug": "esit-eket-ng003004"
+    },
+    "code": {
+      "id": "NG003004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.642",
+      "lon": "8.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Essien Udim",
+      "en": "Essien Udim",
+      "slug": "essien-udim-ng003005"
+    },
+    "code": {
+      "id": "NG003005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "7.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Etim Ekpo",
+      "en": "Etim Ekpo",
+      "slug": "etim-ekpo-ng003006"
+    },
+    "code": {
+      "id": "NG003006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.953",
+      "lon": "7.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Etinan",
+      "en": "Etinan",
+      "slug": "etinan-ng003007"
+    },
+    "code": {
+      "id": "NG003007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.846",
+      "lon": "7.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ibeno",
+      "en": "Ibeno",
+      "slug": "ibeno-ng003008"
+    },
+    "code": {
+      "id": "NG003008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.563",
+      "lon": "8.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ibesikpo Asutan",
+      "en": "Ibesikpo Asutan",
+      "slug": "ibesikpo-asutan-ng003009"
+    },
+    "code": {
+      "id": "NG003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.896",
+      "lon": "7.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ibiono Ibom",
+      "en": "Ibiono Ibom",
+      "slug": "ibiono-ibom-ng003010"
+    },
+    "code": {
+      "id": "NG003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ika",
+      "en": "Ika",
+      "slug": "ika-ng003011"
+    },
+    "code": {
+      "id": "NG003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.016",
+      "lon": "7.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ikono",
+      "en": "Ikono",
+      "slug": "ikono-ng003012"
+    },
+    "code": {
+      "id": "NG003012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "7.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ikot Abasi",
+      "en": "Ikot Abasi",
+      "slug": "ikot-abasi-ng003013"
+    },
+    "code": {
+      "id": "NG003013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.609",
+      "lon": "7.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ikot Ekpene",
+      "en": "Ikot Ekpene",
+      "slug": "ikot-ekpene-ng003014"
+    },
+    "code": {
+      "id": "NG003014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ini",
+      "en": "Ini",
+      "slug": "ini-ng003015"
+    },
+    "code": {
+      "id": "NG003015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.404",
+      "lon": "7.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Itu",
+      "en": "Itu",
+      "slug": "itu-ng003016"
+    },
+    "code": {
+      "id": "NG003016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.138",
+      "lon": "8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mbo",
+      "en": "Mbo",
+      "slug": "mbo-ng003017"
+    },
+    "code": {
+      "id": "NG003017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.626",
+      "lon": "8.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mkpat Enin",
+      "en": "Mkpat Enin",
+      "slug": "mkpat-enin-ng003018"
+    },
+    "code": {
+      "id": "NG003018",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.705",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nsit Atai",
+      "en": "Nsit Atai",
+      "slug": "nsit-atai-ng003019"
+    },
+    "code": {
+      "id": "NG003019",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.819",
+      "lon": "8.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nsit Ibom",
+      "en": "Nsit Ibom",
+      "slug": "nsit-ibom-ng003020"
+    },
+    "code": {
+      "id": "NG003020",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.904",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nsit Ubium",
+      "en": "Nsit Ubium",
+      "slug": "nsit-ubium-ng003021"
+    },
+    "code": {
+      "id": "NG003021",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.76",
+      "lon": "7.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Obot Akara",
+      "en": "Obot Akara",
+      "slug": "obot-akara-ng003022"
+    },
+    "code": {
+      "id": "NG003022",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.243",
+      "lon": "7.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Okobo",
+      "en": "Okobo",
+      "slug": "okobo-ng003023"
+    },
+    "code": {
+      "id": "NG003023",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.813",
+      "lon": "8.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003024",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Onna",
+      "en": "Onna",
+      "slug": "onna-ng003024"
+    },
+    "code": {
+      "id": "NG003024",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.639",
+      "lon": "7.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003025",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Oron",
+      "en": "Oron",
+      "slug": "oron-ng003025"
+    },
+    "code": {
+      "id": "NG003025",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.816",
+      "lon": "8.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003026",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Oruk Anam",
+      "en": "Oruk Anam",
+      "slug": "oruk-anam-ng003026"
+    },
+    "code": {
+      "id": "NG003026",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.828",
+      "lon": "7.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003027",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Udung Uko",
+      "en": "Udung Uko",
+      "slug": "udung-uko-ng003027"
+    },
+    "code": {
+      "id": "NG003027",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.749",
+      "lon": "8.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003028",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ukanafun",
+      "en": "Ukanafun",
+      "slug": "ukanafun-ng003028"
+    },
+    "code": {
+      "id": "NG003028",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.876",
+      "lon": "7.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003029",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Uruan",
+      "en": "Uruan",
+      "slug": "uruan-ng003029"
+    },
+    "code": {
+      "id": "NG003029",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.003",
+      "lon": "8.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003030",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Urue-Offong/Oruko",
+      "en": "Urue-Offong/Oruko",
+      "slug": "urue-offongoruko-ng003030"
+    },
+    "code": {
+      "id": "NG003030",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.723",
+      "lon": "8.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003031",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Uyo",
+      "en": "Uyo",
+      "slug": "uyo-ng003031"
+    },
+    "code": {
+      "id": "NG003031",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

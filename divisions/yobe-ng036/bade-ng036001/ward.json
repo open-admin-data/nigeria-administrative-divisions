@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG036001_dagona",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dagona",
+      "en": "Dagona",
+      "slug": "dagona"
+    },
+    "code": {
+      "id": "NG036001_dagona",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036001",
+      "level": 2,
+      "name": {
+        "local": "Bade",
+        "en": "Bade",
+        "slug": "bade-ng036001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036001",
+        "level": 2,
+        "name": {
+          "local": "Bade",
+          "en": "Bade",
+          "slug": "bade-ng036001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.792",
+      "lon": "10.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036001_gwio-kura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwio-kura",
+      "en": "Gwio-kura",
+      "slug": "gwio-kura"
+    },
+    "code": {
+      "id": "NG036001_gwio-kura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036001",
+      "level": 2,
+      "name": {
+        "local": "Bade",
+        "en": "Bade",
+        "slug": "bade-ng036001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036001",
+        "level": 2,
+        "name": {
+          "local": "Bade",
+          "en": "Bade",
+          "slug": "bade-ng036001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.619",
+      "lon": "11.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036001_katuzu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Katuzu",
+      "en": "Katuzu",
+      "slug": "katuzu"
+    },
+    "code": {
+      "id": "NG036001_katuzu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036001",
+      "level": 2,
+      "name": {
+        "local": "Bade",
+        "en": "Bade",
+        "slug": "bade-ng036001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036001",
+        "level": 2,
+        "name": {
+          "local": "Bade",
+          "en": "Bade",
+          "slug": "bade-ng036001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.859",
+      "lon": "11.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036001_lawan-audulawan-al---wali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lawan Audu/lawan Al - Wali",
+      "en": "Lawan Audu/lawan Al - Wali",
+      "slug": "lawan-audulawan-al---wali"
+    },
+    "code": {
+      "id": "NG036001_lawan-audulawan-al---wali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036001",
+      "level": 2,
+      "name": {
+        "local": "Bade",
+        "en": "Bade",
+        "slug": "bade-ng036001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036001",
+        "level": 2,
+        "name": {
+          "local": "Bade",
+          "en": "Bade",
+          "slug": "bade-ng036001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.881",
+      "lon": "11.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036001_lawan-fannami",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lawan Fannami",
+      "en": "Lawan Fannami",
+      "slug": "lawan-fannami"
+    },
+    "code": {
+      "id": "NG036001_lawan-fannami",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036001",
+      "level": 2,
+      "name": {
+        "local": "Bade",
+        "en": "Bade",
+        "slug": "bade-ng036001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036001",
+        "level": 2,
+        "name": {
+          "local": "Bade",
+          "en": "Bade",
+          "slug": "bade-ng036001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.881",
+      "lon": "11.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036001_lawan-musa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lawan Musa",
+      "en": "Lawan Musa",
+      "slug": "lawan-musa"
+    },
+    "code": {
+      "id": "NG036001_lawan-musa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036001",
+      "level": 2,
+      "name": {
+        "local": "Bade",
+        "en": "Bade",
+        "slug": "bade-ng036001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036001",
+        "level": 2,
+        "name": {
+          "local": "Bade",
+          "en": "Bade",
+          "slug": "bade-ng036001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.877",
+      "lon": "11.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036001_sarkin-hausawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarkin Hausawa",
+      "en": "Sarkin Hausawa",
+      "slug": "sarkin-hausawa"
+    },
+    "code": {
+      "id": "NG036001_sarkin-hausawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036001",
+      "level": 2,
+      "name": {
+        "local": "Bade",
+        "en": "Bade",
+        "slug": "bade-ng036001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036001",
+        "level": 2,
+        "name": {
+          "local": "Bade",
+          "en": "Bade",
+          "slug": "bade-ng036001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.849",
+      "lon": "11.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036001_tagalisugum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tagali/sugum",
+      "en": "Tagali/sugum",
+      "slug": "tagalisugum"
+    },
+    "code": {
+      "id": "NG036001_tagalisugum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036001",
+      "level": 2,
+      "name": {
+        "local": "Bade",
+        "en": "Bade",
+        "slug": "bade-ng036001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036001",
+        "level": 2,
+        "name": {
+          "local": "Bade",
+          "en": "Bade",
+          "slug": "bade-ng036001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.784",
+      "lon": "10.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036001_usurdawayo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Usur/dawayo",
+      "en": "Usur/dawayo",
+      "slug": "usurdawayo"
+    },
+    "code": {
+      "id": "NG036001_usurdawayo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036001",
+      "level": 2,
+      "name": {
+        "local": "Bade",
+        "en": "Bade",
+        "slug": "bade-ng036001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036001",
+        "level": 2,
+        "name": {
+          "local": "Bade",
+          "en": "Bade",
+          "slug": "bade-ng036001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.848",
+      "lon": "10.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036001_zangon-musazango-umaru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zangon Musa/zango Umaru",
+      "en": "Zangon Musa/zango Umaru",
+      "slug": "zangon-musazango-umaru"
+    },
+    "code": {
+      "id": "NG036001_zangon-musazango-umaru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036001",
+      "level": 2,
+      "name": {
+        "local": "Bade",
+        "en": "Bade",
+        "slug": "bade-ng036001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036001",
+        "level": 2,
+        "name": {
+          "local": "Bade",
+          "en": "Bade",
+          "slug": "bade-ng036001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.869",
+      "lon": "11.055"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

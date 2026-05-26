@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG035001_alim-gora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alim Gora",
+      "en": "Alim Gora",
+      "slug": "alim-gora"
+    },
+    "code": {
+      "id": "NG035001_alim-gora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035001",
+      "level": 2,
+      "name": {
+        "local": "Ardo-Kola",
+        "en": "Ardo-Kola",
+        "slug": "ardo-kola-ng035001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035001",
+        "level": 2,
+        "name": {
+          "local": "Ardo-Kola",
+          "en": "Ardo-Kola",
+          "slug": "ardo-kola-ng035001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.847",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035001_ardo-kola",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ardo Kola",
+      "en": "Ardo Kola",
+      "slug": "ardo-kola"
+    },
+    "code": {
+      "id": "NG035001_ardo-kola",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035001",
+      "level": 2,
+      "name": {
+        "local": "Ardo-Kola",
+        "en": "Ardo-Kola",
+        "slug": "ardo-kola-ng035001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035001",
+        "level": 2,
+        "name": {
+          "local": "Ardo-Kola",
+          "en": "Ardo-Kola",
+          "slug": "ardo-kola-ng035001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.847",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035001_iware",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iware",
+      "en": "Iware",
+      "slug": "iware"
+    },
+    "code": {
+      "id": "NG035001_iware",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035001",
+      "level": 2,
+      "name": {
+        "local": "Ardo-Kola",
+        "en": "Ardo-Kola",
+        "slug": "ardo-kola-ng035001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035001",
+        "level": 2,
+        "name": {
+          "local": "Ardo-Kola",
+          "en": "Ardo-Kola",
+          "slug": "ardo-kola-ng035001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.847",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035001_jauro-yinu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jauro Yinu",
+      "en": "Jauro Yinu",
+      "slug": "jauro-yinu"
+    },
+    "code": {
+      "id": "NG035001_jauro-yinu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035001",
+      "level": 2,
+      "name": {
+        "local": "Ardo-Kola",
+        "en": "Ardo-Kola",
+        "slug": "ardo-kola-ng035001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035001",
+        "level": 2,
+        "name": {
+          "local": "Ardo-Kola",
+          "en": "Ardo-Kola",
+          "slug": "ardo-kola-ng035001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.847",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035001_lamido-borno",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lamido Borno",
+      "en": "Lamido Borno",
+      "slug": "lamido-borno"
+    },
+    "code": {
+      "id": "NG035001_lamido-borno",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035001",
+      "level": 2,
+      "name": {
+        "local": "Ardo-Kola",
+        "en": "Ardo-Kola",
+        "slug": "ardo-kola-ng035001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035001",
+        "level": 2,
+        "name": {
+          "local": "Ardo-Kola",
+          "en": "Ardo-Kola",
+          "slug": "ardo-kola-ng035001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.847",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035001_mayo-ranewo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayo Ranewo",
+      "en": "Mayo Ranewo",
+      "slug": "mayo-ranewo"
+    },
+    "code": {
+      "id": "NG035001_mayo-ranewo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035001",
+      "level": 2,
+      "name": {
+        "local": "Ardo-Kola",
+        "en": "Ardo-Kola",
+        "slug": "ardo-kola-ng035001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035001",
+        "level": 2,
+        "name": {
+          "local": "Ardo-Kola",
+          "en": "Ardo-Kola",
+          "slug": "ardo-kola-ng035001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.847",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035001_sarkin-dutse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarkin Dutse",
+      "en": "Sarkin Dutse",
+      "slug": "sarkin-dutse"
+    },
+    "code": {
+      "id": "NG035001_sarkin-dutse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035001",
+      "level": 2,
+      "name": {
+        "local": "Ardo-Kola",
+        "en": "Ardo-Kola",
+        "slug": "ardo-kola-ng035001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035001",
+        "level": 2,
+        "name": {
+          "local": "Ardo-Kola",
+          "en": "Ardo-Kola",
+          "slug": "ardo-kola-ng035001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.847",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035001_sunkani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sunkani",
+      "en": "Sunkani",
+      "slug": "sunkani"
+    },
+    "code": {
+      "id": "NG035001_sunkani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035001",
+      "level": 2,
+      "name": {
+        "local": "Ardo-Kola",
+        "en": "Ardo-Kola",
+        "slug": "ardo-kola-ng035001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035001",
+        "level": 2,
+        "name": {
+          "local": "Ardo-Kola",
+          "en": "Ardo-Kola",
+          "slug": "ardo-kola-ng035001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.847",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035001_tau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tau",
+      "en": "Tau",
+      "slug": "tau"
+    },
+    "code": {
+      "id": "NG035001_tau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035001",
+      "level": 2,
+      "name": {
+        "local": "Ardo-Kola",
+        "en": "Ardo-Kola",
+        "slug": "ardo-kola-ng035001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035001",
+        "level": 2,
+        "name": {
+          "local": "Ardo-Kola",
+          "en": "Ardo-Kola",
+          "slug": "ardo-kola-ng035001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.847",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035001_zongon-kombi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zongon Kombi",
+      "en": "Zongon Kombi",
+      "slug": "zongon-kombi"
+    },
+    "code": {
+      "id": "NG035001_zongon-kombi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035001",
+      "level": 2,
+      "name": {
+        "local": "Ardo-Kola",
+        "en": "Ardo-Kola",
+        "slug": "ardo-kola-ng035001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035001",
+        "level": 2,
+        "name": {
+          "local": "Ardo-Kola",
+          "en": "Ardo-Kola",
+          "slug": "ardo-kola-ng035001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.847",
+      "lon": "11.133"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

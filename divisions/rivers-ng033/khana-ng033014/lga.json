@@ -1,0 +1,47 @@
+{
+  "id": "NG033014",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Khana",
+    "en": "Khana",
+    "slug": "khana-ng033014"
+  },
+  "code": {
+    "id": "NG033014",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG033",
+    "level": 1,
+    "name": {
+      "local": "Rivers",
+      "en": "Rivers",
+      "slug": "rivers-ng033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.672",
+    "lon": "7.432"
+  },
+  "metadata": {},
+  "source": {}
+}

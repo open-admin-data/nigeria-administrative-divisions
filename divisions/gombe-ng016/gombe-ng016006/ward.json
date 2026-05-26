@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG016006_ajiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajiya",
+      "en": "Ajiya",
+      "slug": "ajiya"
+    },
+    "code": {
+      "id": "NG016006_ajiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016006",
+      "level": 2,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016006",
+        "level": 2,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "11.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016006_bajoga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bajoga",
+      "en": "Bajoga",
+      "slug": "bajoga"
+    },
+    "code": {
+      "id": "NG016006_bajoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016006",
+      "level": 2,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016006",
+        "level": 2,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "11.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016006_bolari-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bolari East",
+      "en": "Bolari East",
+      "slug": "bolari-east"
+    },
+    "code": {
+      "id": "NG016006_bolari-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016006",
+      "level": 2,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016006",
+        "level": 2,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "11.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016006_bolari-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bolari West",
+      "en": "Bolari West",
+      "slug": "bolari-west"
+    },
+    "code": {
+      "id": "NG016006_bolari-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016006",
+      "level": 2,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016006",
+        "level": 2,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "11.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016006_dawaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dawaki",
+      "en": "Dawaki",
+      "slug": "dawaki"
+    },
+    "code": {
+      "id": "NG016006_dawaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016006",
+      "level": 2,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016006",
+        "level": 2,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "11.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016006_herwagana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Herwagana",
+      "en": "Herwagana",
+      "slug": "herwagana"
+    },
+    "code": {
+      "id": "NG016006_herwagana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016006",
+      "level": 2,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016006",
+        "level": 2,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "11.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016006_jeka-dafari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jeka Dafari",
+      "en": "Jeka Dafari",
+      "slug": "jeka-dafari"
+    },
+    "code": {
+      "id": "NG016006_jeka-dafari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016006",
+      "level": 2,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016006",
+        "level": 2,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "11.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016006_kumbiya---kumbiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumbiya - Kumbiya",
+      "en": "Kumbiya - Kumbiya",
+      "slug": "kumbiya---kumbiya"
+    },
+    "code": {
+      "id": "NG016006_kumbiya---kumbiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016006",
+      "level": 2,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016006",
+        "level": 2,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "11.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016006_nasarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasarawa",
+      "en": "Nasarawa",
+      "slug": "nasarawa"
+    },
+    "code": {
+      "id": "NG016006_nasarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016006",
+      "level": 2,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016006",
+        "level": 2,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "11.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016006_pantami",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pantami",
+      "en": "Pantami",
+      "slug": "pantami"
+    },
+    "code": {
+      "id": "NG016006_pantami",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016006",
+      "level": 2,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016006",
+        "level": 2,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "11.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016006_shamaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shamaki",
+      "en": "Shamaki",
+      "slug": "shamaki"
+    },
+    "code": {
+      "id": "NG016006_shamaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016006",
+      "level": 2,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016006",
+        "level": 2,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "11.158"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

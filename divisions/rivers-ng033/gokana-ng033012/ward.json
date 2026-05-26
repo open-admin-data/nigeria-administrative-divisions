@@ -1,0 +1,920 @@
+[
+  {
+    "id": "NG033012_b-dere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "B-dere",
+      "en": "B-dere",
+      "slug": "b-dere"
+    },
+    "code": {
+      "id": "NG033012_b-dere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_bera",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bera",
+      "en": "Bera",
+      "slug": "bera"
+    },
+    "code": {
+      "id": "NG033012_bera",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_biara-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Biara I",
+      "en": "Biara I",
+      "slug": "biara-i"
+    },
+    "code": {
+      "id": "NG033012_biara-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_biara-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Biara Ii",
+      "en": "Biara Ii",
+      "slug": "biara-ii"
+    },
+    "code": {
+      "id": "NG033012_biara-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_bodo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bodo I",
+      "en": "Bodo I",
+      "slug": "bodo-i"
+    },
+    "code": {
+      "id": "NG033012_bodo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_bodo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bodo Ii",
+      "en": "Bodo Ii",
+      "slug": "bodo-ii"
+    },
+    "code": {
+      "id": "NG033012_bodo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_bodo-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bodo Iii",
+      "en": "Bodo Iii",
+      "slug": "bodo-iii"
+    },
+    "code": {
+      "id": "NG033012_bodo-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_bomu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bomu I",
+      "en": "Bomu I",
+      "slug": "bomu-i"
+    },
+    "code": {
+      "id": "NG033012_bomu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_bomu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bomu Ii",
+      "en": "Bomu Ii",
+      "slug": "bomu-ii"
+    },
+    "code": {
+      "id": "NG033012_bomu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_derkendeeyornweribiara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Derken/deeyor/nweribiara",
+      "en": "Derken/deeyor/nweribiara",
+      "slug": "derkendeeyornweribiara"
+    },
+    "code": {
+      "id": "NG033012_derkendeeyornweribiara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_k-dere-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "K-dere I",
+      "en": "K-dere I",
+      "slug": "k-dere-i"
+    },
+    "code": {
+      "id": "NG033012_k-dere-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_k-dere-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "K-dere Ii",
+      "en": "K-dere Ii",
+      "slug": "k-dere-ii"
+    },
+    "code": {
+      "id": "NG033012_k-dere-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_kporlewegbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kpor/lewe/gbe",
+      "en": "Kpor/lewe/gbe",
+      "slug": "kporlewegbe"
+    },
+    "code": {
+      "id": "NG033012_kporlewegbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_mogho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mogho",
+      "en": "Mogho",
+      "slug": "mogho"
+    },
+    "code": {
+      "id": "NG033012_mogho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_nweolgiokobarako",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nweol/gioko/barako",
+      "en": "Nweol/gioko/barako",
+      "slug": "nweolgiokobarako"
+    },
+    "code": {
+      "id": "NG033012_nweolgiokobarako",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_yeghe-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yeghe I",
+      "en": "Yeghe I",
+      "slug": "yeghe-i"
+    },
+    "code": {
+      "id": "NG033012_yeghe-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012_yeghe-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yeghe Ii",
+      "en": "Yeghe Ii",
+      "slug": "yeghe-ii"
+    },
+    "code": {
+      "id": "NG033012_yeghe-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033012",
+      "level": 2,
+      "name": {
+        "local": "Gokana",
+        "en": "Gokana",
+        "slug": "gokana-ng033012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033012",
+        "level": 2,
+        "name": {
+          "local": "Gokana",
+          "en": "Gokana",
+          "slug": "gokana-ng033012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

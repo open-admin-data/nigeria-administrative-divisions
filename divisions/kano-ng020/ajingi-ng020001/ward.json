@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020001_ajingi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajingi",
+      "en": "Ajingi",
+      "slug": "ajingi"
+    },
+    "code": {
+      "id": "NG020001_ajingi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020001",
+      "level": 2,
+      "name": {
+        "local": "Ajingi",
+        "en": "Ajingi",
+        "slug": "ajingi-ng020001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020001",
+        "level": 2,
+        "name": {
+          "local": "Ajingi",
+          "en": "Ajingi",
+          "slug": "ajingi-ng020001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "9.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020001_balare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Balare",
+      "en": "Balare",
+      "slug": "balare"
+    },
+    "code": {
+      "id": "NG020001_balare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020001",
+      "level": 2,
+      "name": {
+        "local": "Ajingi",
+        "en": "Ajingi",
+        "slug": "ajingi-ng020001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020001",
+        "level": 2,
+        "name": {
+          "local": "Ajingi",
+          "en": "Ajingi",
+          "slug": "ajingi-ng020001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "9.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020001_chula",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chula",
+      "en": "Chula",
+      "slug": "chula"
+    },
+    "code": {
+      "id": "NG020001_chula",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020001",
+      "level": 2,
+      "name": {
+        "local": "Ajingi",
+        "en": "Ajingi",
+        "slug": "ajingi-ng020001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020001",
+        "level": 2,
+        "name": {
+          "local": "Ajingi",
+          "en": "Ajingi",
+          "slug": "ajingi-ng020001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "9.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020001_dabin-kanawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dabin Kanawa",
+      "en": "Dabin Kanawa",
+      "slug": "dabin-kanawa"
+    },
+    "code": {
+      "id": "NG020001_dabin-kanawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020001",
+      "level": 2,
+      "name": {
+        "local": "Ajingi",
+        "en": "Ajingi",
+        "slug": "ajingi-ng020001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020001",
+        "level": 2,
+        "name": {
+          "local": "Ajingi",
+          "en": "Ajingi",
+          "slug": "ajingi-ng020001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "9.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020001_dundun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dundun",
+      "en": "Dundun",
+      "slug": "dundun"
+    },
+    "code": {
+      "id": "NG020001_dundun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020001",
+      "level": 2,
+      "name": {
+        "local": "Ajingi",
+        "en": "Ajingi",
+        "slug": "ajingi-ng020001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020001",
+        "level": 2,
+        "name": {
+          "local": "Ajingi",
+          "en": "Ajingi",
+          "slug": "ajingi-ng020001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "9.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020001_gafasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gafasa",
+      "en": "Gafasa",
+      "slug": "gafasa"
+    },
+    "code": {
+      "id": "NG020001_gafasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020001",
+      "level": 2,
+      "name": {
+        "local": "Ajingi",
+        "en": "Ajingi",
+        "slug": "ajingi-ng020001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020001",
+        "level": 2,
+        "name": {
+          "local": "Ajingi",
+          "en": "Ajingi",
+          "slug": "ajingi-ng020001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "9.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020001_gurduba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gurduba",
+      "en": "Gurduba",
+      "slug": "gurduba"
+    },
+    "code": {
+      "id": "NG020001_gurduba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020001",
+      "level": 2,
+      "name": {
+        "local": "Ajingi",
+        "en": "Ajingi",
+        "slug": "ajingi-ng020001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020001",
+        "level": 2,
+        "name": {
+          "local": "Ajingi",
+          "en": "Ajingi",
+          "slug": "ajingi-ng020001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "9.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020001_kunkurawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kunkurawa",
+      "en": "Kunkurawa",
+      "slug": "kunkurawa"
+    },
+    "code": {
+      "id": "NG020001_kunkurawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020001",
+      "level": 2,
+      "name": {
+        "local": "Ajingi",
+        "en": "Ajingi",
+        "slug": "ajingi-ng020001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020001",
+        "level": 2,
+        "name": {
+          "local": "Ajingi",
+          "en": "Ajingi",
+          "slug": "ajingi-ng020001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "9.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020001_toranke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Toranke",
+      "en": "Toranke",
+      "slug": "toranke"
+    },
+    "code": {
+      "id": "NG020001_toranke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020001",
+      "level": 2,
+      "name": {
+        "local": "Ajingi",
+        "en": "Ajingi",
+        "slug": "ajingi-ng020001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020001",
+        "level": 2,
+        "name": {
+          "local": "Ajingi",
+          "en": "Ajingi",
+          "slug": "ajingi-ng020001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "9.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020001_ungawar-bai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ungawar Bai",
+      "en": "Ungawar Bai",
+      "slug": "ungawar-bai"
+    },
+    "code": {
+      "id": "NG020001_ungawar-bai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020001",
+      "level": 2,
+      "name": {
+        "local": "Ajingi",
+        "en": "Ajingi",
+        "slug": "ajingi-ng020001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020001",
+        "level": 2,
+        "name": {
+          "local": "Ajingi",
+          "en": "Ajingi",
+          "slug": "ajingi-ng020001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "9.075"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

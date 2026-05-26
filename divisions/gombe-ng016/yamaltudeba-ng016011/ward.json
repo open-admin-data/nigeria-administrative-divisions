@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG016011_deba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Deba",
+      "en": "Deba",
+      "slug": "deba"
+    },
+    "code": {
+      "id": "NG016011_deba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016011",
+      "level": 2,
+      "name": {
+        "local": "Yamaltu/Deba",
+        "en": "Yamaltu/Deba",
+        "slug": "yamaltudeba-ng016011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016011",
+        "level": 2,
+        "name": {
+          "local": "Yamaltu/Deba",
+          "en": "Yamaltu/Deba",
+          "slug": "yamaltudeba-ng016011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.315",
+      "lon": "11.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016011_difa-lubo-kinafa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Difa / Lubo / Kinafa",
+      "en": "Difa / Lubo / Kinafa",
+      "slug": "difa-lubo-kinafa"
+    },
+    "code": {
+      "id": "NG016011_difa-lubo-kinafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016011",
+      "level": 2,
+      "name": {
+        "local": "Yamaltu/Deba",
+        "en": "Yamaltu/Deba",
+        "slug": "yamaltudeba-ng016011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016011",
+        "level": 2,
+        "name": {
+          "local": "Yamaltu/Deba",
+          "en": "Yamaltu/Deba",
+          "slug": "yamaltudeba-ng016011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.315",
+      "lon": "11.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016011_gwani-shinga-wade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwani / Shinga / Wade",
+      "en": "Gwani / Shinga / Wade",
+      "slug": "gwani-shinga-wade"
+    },
+    "code": {
+      "id": "NG016011_gwani-shinga-wade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016011",
+      "level": 2,
+      "name": {
+        "local": "Yamaltu/Deba",
+        "en": "Yamaltu/Deba",
+        "slug": "yamaltudeba-ng016011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016011",
+        "level": 2,
+        "name": {
+          "local": "Yamaltu/Deba",
+          "en": "Yamaltu/Deba",
+          "slug": "yamaltudeba-ng016011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.315",
+      "lon": "11.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016011_hinna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hinna",
+      "en": "Hinna",
+      "slug": "hinna"
+    },
+    "code": {
+      "id": "NG016011_hinna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016011",
+      "level": 2,
+      "name": {
+        "local": "Yamaltu/Deba",
+        "en": "Yamaltu/Deba",
+        "slug": "yamaltudeba-ng016011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016011",
+        "level": 2,
+        "name": {
+          "local": "Yamaltu/Deba",
+          "en": "Yamaltu/Deba",
+          "slug": "yamaltudeba-ng016011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.315",
+      "lon": "11.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016011_jagali-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jagali North",
+      "en": "Jagali North",
+      "slug": "jagali-north"
+    },
+    "code": {
+      "id": "NG016011_jagali-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016011",
+      "level": 2,
+      "name": {
+        "local": "Yamaltu/Deba",
+        "en": "Yamaltu/Deba",
+        "slug": "yamaltudeba-ng016011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016011",
+        "level": 2,
+        "name": {
+          "local": "Yamaltu/Deba",
+          "en": "Yamaltu/Deba",
+          "slug": "yamaltudeba-ng016011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.315",
+      "lon": "11.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016011_jagali-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jagali South",
+      "en": "Jagali South",
+      "slug": "jagali-south"
+    },
+    "code": {
+      "id": "NG016011_jagali-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016011",
+      "level": 2,
+      "name": {
+        "local": "Yamaltu/Deba",
+        "en": "Yamaltu/Deba",
+        "slug": "yamaltudeba-ng016011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016011",
+        "level": 2,
+        "name": {
+          "local": "Yamaltu/Deba",
+          "en": "Yamaltu/Deba",
+          "slug": "yamaltudeba-ng016011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.315",
+      "lon": "11.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016011_kanawa-wajari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanawa / Wajari",
+      "en": "Kanawa / Wajari",
+      "slug": "kanawa-wajari"
+    },
+    "code": {
+      "id": "NG016011_kanawa-wajari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016011",
+      "level": 2,
+      "name": {
+        "local": "Yamaltu/Deba",
+        "en": "Yamaltu/Deba",
+        "slug": "yamaltudeba-ng016011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016011",
+        "level": 2,
+        "name": {
+          "local": "Yamaltu/Deba",
+          "en": "Yamaltu/Deba",
+          "slug": "yamaltudeba-ng016011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.315",
+      "lon": "11.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016011_kuri-lano-lambam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuri /lano / Lambam",
+      "en": "Kuri /lano / Lambam",
+      "slug": "kuri-lano-lambam"
+    },
+    "code": {
+      "id": "NG016011_kuri-lano-lambam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016011",
+      "level": 2,
+      "name": {
+        "local": "Yamaltu/Deba",
+        "en": "Yamaltu/Deba",
+        "slug": "yamaltudeba-ng016011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016011",
+        "level": 2,
+        "name": {
+          "local": "Yamaltu/Deba",
+          "en": "Yamaltu/Deba",
+          "slug": "yamaltudeba-ng016011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.315",
+      "lon": "11.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016011_kwadon-liji-kurba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwadon / Liji / Kurba",
+      "en": "Kwadon / Liji / Kurba",
+      "slug": "kwadon-liji-kurba"
+    },
+    "code": {
+      "id": "NG016011_kwadon-liji-kurba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016011",
+      "level": 2,
+      "name": {
+        "local": "Yamaltu/Deba",
+        "en": "Yamaltu/Deba",
+        "slug": "yamaltudeba-ng016011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016011",
+        "level": 2,
+        "name": {
+          "local": "Yamaltu/Deba",
+          "en": "Yamaltu/Deba",
+          "slug": "yamaltudeba-ng016011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.315",
+      "lon": "11.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016011_nono-kunwal-w-birdeka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nono / Kunwal / W. Birdeka",
+      "en": "Nono / Kunwal / W. Birdeka",
+      "slug": "nono-kunwal-w-birdeka"
+    },
+    "code": {
+      "id": "NG016011_nono-kunwal-w-birdeka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016011",
+      "level": 2,
+      "name": {
+        "local": "Yamaltu/Deba",
+        "en": "Yamaltu/Deba",
+        "slug": "yamaltudeba-ng016011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016011",
+        "level": 2,
+        "name": {
+          "local": "Yamaltu/Deba",
+          "en": "Yamaltu/Deba",
+          "slug": "yamaltudeba-ng016011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.315",
+      "lon": "11.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016011_zambuk-kwali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zambuk / Kwali",
+      "en": "Zambuk / Kwali",
+      "slug": "zambuk-kwali"
+    },
+    "code": {
+      "id": "NG016011_zambuk-kwali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016011",
+      "level": 2,
+      "name": {
+        "local": "Yamaltu/Deba",
+        "en": "Yamaltu/Deba",
+        "slug": "yamaltudeba-ng016011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016011",
+        "level": 2,
+        "name": {
+          "local": "Yamaltu/Deba",
+          "en": "Yamaltu/Deba",
+          "slug": "yamaltudeba-ng016011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.315",
+      "lon": "11.372"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

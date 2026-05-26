@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018011_basirka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Basirka",
+      "en": "Basirka",
+      "slug": "basirka"
+    },
+    "code": {
+      "id": "NG018011_basirka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018011",
+      "level": 2,
+      "name": {
+        "local": "Gwaram",
+        "en": "Gwaram",
+        "slug": "gwaram-ng018011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018011",
+        "level": 2,
+        "name": {
+          "local": "Gwaram",
+          "en": "Gwaram",
+          "slug": "gwaram-ng018011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018011_dingaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dingaya",
+      "en": "Dingaya",
+      "slug": "dingaya"
+    },
+    "code": {
+      "id": "NG018011_dingaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018011",
+      "level": 2,
+      "name": {
+        "local": "Gwaram",
+        "en": "Gwaram",
+        "slug": "gwaram-ng018011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018011",
+        "level": 2,
+        "name": {
+          "local": "Gwaram",
+          "en": "Gwaram",
+          "slug": "gwaram-ng018011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018011_fagam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fagam",
+      "en": "Fagam",
+      "slug": "fagam"
+    },
+    "code": {
+      "id": "NG018011_fagam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018011",
+      "level": 2,
+      "name": {
+        "local": "Gwaram",
+        "en": "Gwaram",
+        "slug": "gwaram-ng018011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018011",
+        "level": 2,
+        "name": {
+          "local": "Gwaram",
+          "en": "Gwaram",
+          "slug": "gwaram-ng018011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018011_farin-dutse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Farin Dutse",
+      "en": "Farin Dutse",
+      "slug": "farin-dutse"
+    },
+    "code": {
+      "id": "NG018011_farin-dutse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018011",
+      "level": 2,
+      "name": {
+        "local": "Gwaram",
+        "en": "Gwaram",
+        "slug": "gwaram-ng018011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018011",
+        "level": 2,
+        "name": {
+          "local": "Gwaram",
+          "en": "Gwaram",
+          "slug": "gwaram-ng018011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018011_gwaram-tsohuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwaram Tsohuwa",
+      "en": "Gwaram Tsohuwa",
+      "slug": "gwaram-tsohuwa"
+    },
+    "code": {
+      "id": "NG018011_gwaram-tsohuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018011",
+      "level": 2,
+      "name": {
+        "local": "Gwaram",
+        "en": "Gwaram",
+        "slug": "gwaram-ng018011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018011",
+        "level": 2,
+        "name": {
+          "local": "Gwaram",
+          "en": "Gwaram",
+          "slug": "gwaram-ng018011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018011_kila",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kila",
+      "en": "Kila",
+      "slug": "kila"
+    },
+    "code": {
+      "id": "NG018011_kila",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018011",
+      "level": 2,
+      "name": {
+        "local": "Gwaram",
+        "en": "Gwaram",
+        "slug": "gwaram-ng018011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018011",
+        "level": 2,
+        "name": {
+          "local": "Gwaram",
+          "en": "Gwaram",
+          "slug": "gwaram-ng018011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018011_kwandiko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwandiko",
+      "en": "Kwandiko",
+      "slug": "kwandiko"
+    },
+    "code": {
+      "id": "NG018011_kwandiko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018011",
+      "level": 2,
+      "name": {
+        "local": "Gwaram",
+        "en": "Gwaram",
+        "slug": "gwaram-ng018011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018011",
+        "level": 2,
+        "name": {
+          "local": "Gwaram",
+          "en": "Gwaram",
+          "slug": "gwaram-ng018011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018011_maruta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maruta",
+      "en": "Maruta",
+      "slug": "maruta"
+    },
+    "code": {
+      "id": "NG018011_maruta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018011",
+      "level": 2,
+      "name": {
+        "local": "Gwaram",
+        "en": "Gwaram",
+        "slug": "gwaram-ng018011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018011",
+        "level": 2,
+        "name": {
+          "local": "Gwaram",
+          "en": "Gwaram",
+          "slug": "gwaram-ng018011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018011_sara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sara",
+      "en": "Sara",
+      "slug": "sara"
+    },
+    "code": {
+      "id": "NG018011_sara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018011",
+      "level": 2,
+      "name": {
+        "local": "Gwaram",
+        "en": "Gwaram",
+        "slug": "gwaram-ng018011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018011",
+        "level": 2,
+        "name": {
+          "local": "Gwaram",
+          "en": "Gwaram",
+          "slug": "gwaram-ng018011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018011_tsangarwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsangarwa",
+      "en": "Tsangarwa",
+      "slug": "tsangarwa"
+    },
+    "code": {
+      "id": "NG018011_tsangarwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018011",
+      "level": 2,
+      "name": {
+        "local": "Gwaram",
+        "en": "Gwaram",
+        "slug": "gwaram-ng018011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018011",
+        "level": 2,
+        "name": {
+          "local": "Gwaram",
+          "en": "Gwaram",
+          "slug": "gwaram-ng018011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018011_zandan-nagogo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zandan Nagogo",
+      "en": "Zandan Nagogo",
+      "slug": "zandan-nagogo"
+    },
+    "code": {
+      "id": "NG018011_zandan-nagogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018011",
+      "level": 2,
+      "name": {
+        "local": "Gwaram",
+        "en": "Gwaram",
+        "slug": "gwaram-ng018011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018011",
+        "level": 2,
+        "name": {
+          "local": "Gwaram",
+          "en": "Gwaram",
+          "slug": "gwaram-ng018011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "10.071"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

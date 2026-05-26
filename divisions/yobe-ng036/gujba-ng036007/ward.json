@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG036007_bunigarilawanti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bunigari/lawanti",
+      "en": "Bunigari/lawanti",
+      "slug": "bunigarilawanti"
+    },
+    "code": {
+      "id": "NG036007_bunigarilawanti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036007",
+      "level": 2,
+      "name": {
+        "local": "Gujba",
+        "en": "Gujba",
+        "slug": "gujba-ng036007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036007",
+        "level": 2,
+        "name": {
+          "local": "Gujba",
+          "en": "Gujba",
+          "slug": "gujba-ng036007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.364",
+      "lon": "11.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036007_buniyadi-north-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buniyadi North / South",
+      "en": "Buniyadi North / South",
+      "slug": "buniyadi-north-south"
+    },
+    "code": {
+      "id": "NG036007_buniyadi-north-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036007",
+      "level": 2,
+      "name": {
+        "local": "Gujba",
+        "en": "Gujba",
+        "slug": "gujba-ng036007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036007",
+        "level": 2,
+        "name": {
+          "local": "Gujba",
+          "en": "Gujba",
+          "slug": "gujba-ng036007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.364",
+      "lon": "11.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036007_dadingel",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dadingel",
+      "en": "Dadingel",
+      "slug": "dadingel"
+    },
+    "code": {
+      "id": "NG036007_dadingel",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036007",
+      "level": 2,
+      "name": {
+        "local": "Gujba",
+        "en": "Gujba",
+        "slug": "gujba-ng036007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036007",
+        "level": 2,
+        "name": {
+          "local": "Gujba",
+          "en": "Gujba",
+          "slug": "gujba-ng036007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.553",
+      "lon": "12.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036007_goniri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Goniri",
+      "en": "Goniri",
+      "slug": "goniri"
+    },
+    "code": {
+      "id": "NG036007_goniri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036007",
+      "level": 2,
+      "name": {
+        "local": "Gujba",
+        "en": "Gujba",
+        "slug": "gujba-ng036007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036007",
+        "level": 2,
+        "name": {
+          "local": "Gujba",
+          "en": "Gujba",
+          "slug": "gujba-ng036007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.486",
+      "lon": "12.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036007_gotalagotumba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gotala/gotumba",
+      "en": "Gotala/gotumba",
+      "slug": "gotalagotumba"
+    },
+    "code": {
+      "id": "NG036007_gotalagotumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036007",
+      "level": 2,
+      "name": {
+        "local": "Gujba",
+        "en": "Gujba",
+        "slug": "gujba-ng036007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036007",
+        "level": 2,
+        "name": {
+          "local": "Gujba",
+          "en": "Gujba",
+          "slug": "gujba-ng036007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.595",
+      "lon": "12.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036007_gujba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gujba",
+      "en": "Gujba",
+      "slug": "gujba"
+    },
+    "code": {
+      "id": "NG036007_gujba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036007",
+      "level": 2,
+      "name": {
+        "local": "Gujba",
+        "en": "Gujba",
+        "slug": "gujba-ng036007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036007",
+        "level": 2,
+        "name": {
+          "local": "Gujba",
+          "en": "Gujba",
+          "slug": "gujba-ng036007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.451",
+      "lon": "11.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036007_mallam-dunari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mallam Dunari",
+      "en": "Mallam Dunari",
+      "slug": "mallam-dunari"
+    },
+    "code": {
+      "id": "NG036007_mallam-dunari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036007",
+      "level": 2,
+      "name": {
+        "local": "Gujba",
+        "en": "Gujba",
+        "slug": "gujba-ng036007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036007",
+        "level": 2,
+        "name": {
+          "local": "Gujba",
+          "en": "Gujba",
+          "slug": "gujba-ng036007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.364",
+      "lon": "11.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036007_mutai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mutai",
+      "en": "Mutai",
+      "slug": "mutai"
+    },
+    "code": {
+      "id": "NG036007_mutai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036007",
+      "level": 2,
+      "name": {
+        "local": "Gujba",
+        "en": "Gujba",
+        "slug": "gujba-ng036007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036007",
+        "level": 2,
+        "name": {
+          "local": "Gujba",
+          "en": "Gujba",
+          "slug": "gujba-ng036007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.317",
+      "lon": "11.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036007_ngurbuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngurbuwa",
+      "en": "Ngurbuwa",
+      "slug": "ngurbuwa"
+    },
+    "code": {
+      "id": "NG036007_ngurbuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036007",
+      "level": 2,
+      "name": {
+        "local": "Gujba",
+        "en": "Gujba",
+        "slug": "gujba-ng036007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036007",
+        "level": 2,
+        "name": {
+          "local": "Gujba",
+          "en": "Gujba",
+          "slug": "gujba-ng036007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.522",
+      "lon": "12.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036007_wagir",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wagir",
+      "en": "Wagir",
+      "slug": "wagir"
+    },
+    "code": {
+      "id": "NG036007_wagir",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036007",
+      "level": 2,
+      "name": {
+        "local": "Gujba",
+        "en": "Gujba",
+        "slug": "gujba-ng036007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036007",
+        "level": 2,
+        "name": {
+          "local": "Gujba",
+          "en": "Gujba",
+          "slug": "gujba-ng036007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.305",
+      "lon": "11.84"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

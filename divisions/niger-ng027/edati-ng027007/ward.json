@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG027007_enagi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Enagi",
+      "en": "Enagi",
+      "slug": "enagi"
+    },
+    "code": {
+      "id": "NG027007_enagi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027007",
+      "level": 2,
+      "name": {
+        "local": "Edati",
+        "en": "Edati",
+        "slug": "edati-ng027007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027007",
+        "level": 2,
+        "name": {
+          "local": "Edati",
+          "en": "Edati",
+          "slug": "edati-ng027007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.047",
+      "lon": "5.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027007_etsu-tasha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Etsu Tasha",
+      "en": "Etsu Tasha",
+      "slug": "etsu-tasha"
+    },
+    "code": {
+      "id": "NG027007_etsu-tasha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027007",
+      "level": 2,
+      "name": {
+        "local": "Edati",
+        "en": "Edati",
+        "slug": "edati-ng027007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027007",
+        "level": 2,
+        "name": {
+          "local": "Edati",
+          "en": "Edati",
+          "slug": "edati-ng027007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.047",
+      "lon": "5.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027007_fazhi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fazhi",
+      "en": "Fazhi",
+      "slug": "fazhi"
+    },
+    "code": {
+      "id": "NG027007_fazhi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027007",
+      "level": 2,
+      "name": {
+        "local": "Edati",
+        "en": "Edati",
+        "slug": "edati-ng027007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027007",
+        "level": 2,
+        "name": {
+          "local": "Edati",
+          "en": "Edati",
+          "slug": "edati-ng027007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.047",
+      "lon": "5.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027007_gazhe-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gazhe I",
+      "en": "Gazhe I",
+      "slug": "gazhe-i"
+    },
+    "code": {
+      "id": "NG027007_gazhe-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027007",
+      "level": 2,
+      "name": {
+        "local": "Edati",
+        "en": "Edati",
+        "slug": "edati-ng027007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027007",
+        "level": 2,
+        "name": {
+          "local": "Edati",
+          "en": "Edati",
+          "slug": "edati-ng027007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.047",
+      "lon": "5.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027007_gazhe-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gazhe Ii",
+      "en": "Gazhe Ii",
+      "slug": "gazhe-ii"
+    },
+    "code": {
+      "id": "NG027007_gazhe-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027007",
+      "level": 2,
+      "name": {
+        "local": "Edati",
+        "en": "Edati",
+        "slug": "edati-ng027007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027007",
+        "level": 2,
+        "name": {
+          "local": "Edati",
+          "en": "Edati",
+          "slug": "edati-ng027007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.047",
+      "lon": "5.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027007_gbangban",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gbangban",
+      "en": "Gbangban",
+      "slug": "gbangban"
+    },
+    "code": {
+      "id": "NG027007_gbangban",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027007",
+      "level": 2,
+      "name": {
+        "local": "Edati",
+        "en": "Edati",
+        "slug": "edati-ng027007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027007",
+        "level": 2,
+        "name": {
+          "local": "Edati",
+          "en": "Edati",
+          "slug": "edati-ng027007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.047",
+      "lon": "5.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027007_gonagi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gonagi",
+      "en": "Gonagi",
+      "slug": "gonagi"
+    },
+    "code": {
+      "id": "NG027007_gonagi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027007",
+      "level": 2,
+      "name": {
+        "local": "Edati",
+        "en": "Edati",
+        "slug": "edati-ng027007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027007",
+        "level": 2,
+        "name": {
+          "local": "Edati",
+          "en": "Edati",
+          "slug": "edati-ng027007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.047",
+      "lon": "5.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027007_guzan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guzan",
+      "en": "Guzan",
+      "slug": "guzan"
+    },
+    "code": {
+      "id": "NG027007_guzan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027007",
+      "level": 2,
+      "name": {
+        "local": "Edati",
+        "en": "Edati",
+        "slug": "edati-ng027007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027007",
+        "level": 2,
+        "name": {
+          "local": "Edati",
+          "en": "Edati",
+          "slug": "edati-ng027007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.047",
+      "lon": "5.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027007_rokota",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rokota",
+      "en": "Rokota",
+      "slug": "rokota"
+    },
+    "code": {
+      "id": "NG027007_rokota",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027007",
+      "level": 2,
+      "name": {
+        "local": "Edati",
+        "en": "Edati",
+        "slug": "edati-ng027007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027007",
+        "level": 2,
+        "name": {
+          "local": "Edati",
+          "en": "Edati",
+          "slug": "edati-ng027007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.047",
+      "lon": "5.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027007_sakpe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sakpe",
+      "en": "Sakpe",
+      "slug": "sakpe"
+    },
+    "code": {
+      "id": "NG027007_sakpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027007",
+      "level": 2,
+      "name": {
+        "local": "Edati",
+        "en": "Edati",
+        "slug": "edati-ng027007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027007",
+        "level": 2,
+        "name": {
+          "local": "Edati",
+          "en": "Edati",
+          "slug": "edati-ng027007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.047",
+      "lon": "5.638"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

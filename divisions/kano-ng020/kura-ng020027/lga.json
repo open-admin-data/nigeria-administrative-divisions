@@ -1,0 +1,47 @@
+{
+  "id": "NG020027",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Kura",
+    "en": "Kura",
+    "slug": "kura-ng020027"
+  },
+  "code": {
+    "id": "NG020027",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG020",
+    "level": 1,
+    "name": {
+      "local": "Kano",
+      "en": "Kano",
+      "slug": "kano-ng020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.775",
+    "lon": "8.478"
+  },
+  "metadata": {},
+  "source": {}
+}

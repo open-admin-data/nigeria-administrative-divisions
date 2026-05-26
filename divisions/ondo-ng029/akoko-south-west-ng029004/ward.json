@@ -1,0 +1,812 @@
+[
+  {
+    "id": "NG029004_akungba-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akungba I",
+      "en": "Akungba I",
+      "slug": "akungba-i"
+    },
+    "code": {
+      "id": "NG029004_akungba-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_akungba-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akungba Ii",
+      "en": "Akungba Ii",
+      "slug": "akungba-ii"
+    },
+    "code": {
+      "id": "NG029004_akungba-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_ikun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikun",
+      "en": "Ikun",
+      "slug": "ikun"
+    },
+    "code": {
+      "id": "NG029004_ikun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_oba-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oba I",
+      "en": "Oba I",
+      "slug": "oba-i"
+    },
+    "code": {
+      "id": "NG029004_oba-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_oba-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oba Ii",
+      "en": "Oba Ii",
+      "slug": "oba-ii"
+    },
+    "code": {
+      "id": "NG029004_oba-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_oka-i-ibaka-sabo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oka I Ibaka / Sabo",
+      "en": "Oka I Ibaka / Sabo",
+      "slug": "oka-i-ibaka-sabo"
+    },
+    "code": {
+      "id": "NG029004_oka-i-ibaka-sabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_oka-ii-a-ikanmu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oka Ii A Ikanmu",
+      "en": "Oka Ii A Ikanmu",
+      "slug": "oka-ii-a-ikanmu"
+    },
+    "code": {
+      "id": "NG029004_oka-ii-a-ikanmu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_oka-ii-b-okiakorowasimerinuba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oka Ii B Okia/korowa/simerin/uba",
+      "en": "Oka Ii B Okia/korowa/simerin/uba",
+      "slug": "oka-ii-b-okiakorowasimerinuba"
+    },
+    "code": {
+      "id": "NG029004_oka-ii-b-okiakorowasimerinuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_oka-iii-a-agba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oka Iii A Agba",
+      "en": "Oka Iii A Agba",
+      "slug": "oka-iii-a-agba"
+    },
+    "code": {
+      "id": "NG029004_oka-iii-a-agba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_oka-iii-b-owase-ikeseiwonrinebinrinidorin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oka Iii B Owase /ikese/iwonrin/ebinrin/idorin",
+      "en": "Oka Iii B Owase /ikese/iwonrin/ebinrin/idorin",
+      "slug": "oka-iii-b-owase-ikeseiwonrinebinrinidorin"
+    },
+    "code": {
+      "id": "NG029004_oka-iii-b-owase-ikeseiwonrinebinrinidorin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_oka-ivowakeeboayegunle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oka Iv/owake/ebo/ayegunle",
+      "en": "Oka Iv/owake/ebo/ayegunle",
+      "slug": "oka-ivowakeeboayegunle"
+    },
+    "code": {
+      "id": "NG029004_oka-ivowakeeboayegunle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_oka-v-a-owalusinayepe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oka V A Owalusin/ayepe",
+      "en": "Oka V A Owalusin/ayepe",
+      "slug": "oka-v-a-owalusinayepe"
+    },
+    "code": {
+      "id": "NG029004_oka-v-a-owalusinayepe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_oka-v-b-oka-odookelabolorunduro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oka V B Oka Odo/okela/bolorunduro",
+      "en": "Oka V B Oka Odo/okela/bolorunduro",
+      "slug": "oka-v-b-oka-odookelabolorunduro"
+    },
+    "code": {
+      "id": "NG029004_oka-v-b-oka-odookelabolorunduro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_supare-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Supare I",
+      "en": "Supare I",
+      "slug": "supare-i"
+    },
+    "code": {
+      "id": "NG029004_supare-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029004_supare-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Supare Ii",
+      "en": "Supare Ii",
+      "slug": "supare-ii"
+    },
+    "code": {
+      "id": "NG029004_supare-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029004",
+      "level": 2,
+      "name": {
+        "local": "Akoko South West",
+        "en": "Akoko South West",
+        "slug": "akoko-south-west-ng029004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029004",
+        "level": 2,
+        "name": {
+          "local": "Akoko South West",
+          "en": "Akoko South West",
+          "slug": "akoko-south-west-ng029004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.403",
+      "lon": "5.706"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021001_bakori-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakori A",
+      "en": "Bakori A",
+      "slug": "bakori-a"
+    },
+    "code": {
+      "id": "NG021001_bakori-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021001",
+      "level": 2,
+      "name": {
+        "local": "Bakori",
+        "en": "Bakori",
+        "slug": "bakori-ng021001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021001",
+        "level": 2,
+        "name": {
+          "local": "Bakori",
+          "en": "Bakori",
+          "slug": "bakori-ng021001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.646",
+      "lon": "7.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021001_bakori-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakori B",
+      "en": "Bakori B",
+      "slug": "bakori-b"
+    },
+    "code": {
+      "id": "NG021001_bakori-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021001",
+      "level": 2,
+      "name": {
+        "local": "Bakori",
+        "en": "Bakori",
+        "slug": "bakori-ng021001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021001",
+        "level": 2,
+        "name": {
+          "local": "Bakori",
+          "en": "Bakori",
+          "slug": "bakori-ng021001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.646",
+      "lon": "7.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021001_bardekwantakwaran",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Barde/kwantakwaran",
+      "en": "Barde/kwantakwaran",
+      "slug": "bardekwantakwaran"
+    },
+    "code": {
+      "id": "NG021001_bardekwantakwaran",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021001",
+      "level": 2,
+      "name": {
+        "local": "Bakori",
+        "en": "Bakori",
+        "slug": "bakori-ng021001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021001",
+        "level": 2,
+        "name": {
+          "local": "Bakori",
+          "en": "Bakori",
+          "slug": "bakori-ng021001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.646",
+      "lon": "7.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021001_dawan-musa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dawan Musa",
+      "en": "Dawan Musa",
+      "slug": "dawan-musa"
+    },
+    "code": {
+      "id": "NG021001_dawan-musa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021001",
+      "level": 2,
+      "name": {
+        "local": "Bakori",
+        "en": "Bakori",
+        "slug": "bakori-ng021001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021001",
+        "level": 2,
+        "name": {
+          "local": "Bakori",
+          "en": "Bakori",
+          "slug": "bakori-ng021001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.646",
+      "lon": "7.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021001_guga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guga",
+      "en": "Guga",
+      "slug": "guga"
+    },
+    "code": {
+      "id": "NG021001_guga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021001",
+      "level": 2,
+      "name": {
+        "local": "Bakori",
+        "en": "Bakori",
+        "slug": "bakori-ng021001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021001",
+        "level": 2,
+        "name": {
+          "local": "Bakori",
+          "en": "Bakori",
+          "slug": "bakori-ng021001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.646",
+      "lon": "7.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021001_jargaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jargaba",
+      "en": "Jargaba",
+      "slug": "jargaba"
+    },
+    "code": {
+      "id": "NG021001_jargaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021001",
+      "level": 2,
+      "name": {
+        "local": "Bakori",
+        "en": "Bakori",
+        "slug": "bakori-ng021001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021001",
+        "level": 2,
+        "name": {
+          "local": "Bakori",
+          "en": "Bakori",
+          "slug": "bakori-ng021001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.646",
+      "lon": "7.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021001_kabomo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kabomo",
+      "en": "Kabomo",
+      "slug": "kabomo"
+    },
+    "code": {
+      "id": "NG021001_kabomo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021001",
+      "level": 2,
+      "name": {
+        "local": "Bakori",
+        "en": "Bakori",
+        "slug": "bakori-ng021001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021001",
+        "level": 2,
+        "name": {
+          "local": "Bakori",
+          "en": "Bakori",
+          "slug": "bakori-ng021001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.646",
+      "lon": "7.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021001_kakumi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kakumi",
+      "en": "Kakumi",
+      "slug": "kakumi"
+    },
+    "code": {
+      "id": "NG021001_kakumi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021001",
+      "level": 2,
+      "name": {
+        "local": "Bakori",
+        "en": "Bakori",
+        "slug": "bakori-ng021001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021001",
+        "level": 2,
+        "name": {
+          "local": "Bakori",
+          "en": "Bakori",
+          "slug": "bakori-ng021001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.646",
+      "lon": "7.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021001_kandarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kandarawa",
+      "en": "Kandarawa",
+      "slug": "kandarawa"
+    },
+    "code": {
+      "id": "NG021001_kandarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021001",
+      "level": 2,
+      "name": {
+        "local": "Bakori",
+        "en": "Bakori",
+        "slug": "bakori-ng021001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021001",
+        "level": 2,
+        "name": {
+          "local": "Bakori",
+          "en": "Bakori",
+          "slug": "bakori-ng021001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.646",
+      "lon": "7.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021001_kuramiyankwani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurami/yankwani",
+      "en": "Kurami/yankwani",
+      "slug": "kuramiyankwani"
+    },
+    "code": {
+      "id": "NG021001_kuramiyankwani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021001",
+      "level": 2,
+      "name": {
+        "local": "Bakori",
+        "en": "Bakori",
+        "slug": "bakori-ng021001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021001",
+        "level": 2,
+        "name": {
+          "local": "Bakori",
+          "en": "Bakori",
+          "slug": "bakori-ng021001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.646",
+      "lon": "7.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021001_tsiga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsiga",
+      "en": "Tsiga",
+      "slug": "tsiga"
+    },
+    "code": {
+      "id": "NG021001_tsiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021001",
+      "level": 2,
+      "name": {
+        "local": "Bakori",
+        "en": "Bakori",
+        "slug": "bakori-ng021001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021001",
+        "level": 2,
+        "name": {
+          "local": "Bakori",
+          "en": "Bakori",
+          "slug": "bakori-ng021001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.646",
+      "lon": "7.429"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

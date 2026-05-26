@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021014_dandutse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dandutse",
+      "en": "Dandutse",
+      "slug": "dandutse"
+    },
+    "code": {
+      "id": "NG021014_dandutse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021014",
+      "level": 2,
+      "name": {
+        "local": "Funtua",
+        "en": "Funtua",
+        "slug": "funtua-ng021014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021014",
+        "level": 2,
+        "name": {
+          "local": "Funtua",
+          "en": "Funtua",
+          "slug": "funtua-ng021014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.434",
+      "lon": "7.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021014_dukke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dukke",
+      "en": "Dukke",
+      "slug": "dukke"
+    },
+    "code": {
+      "id": "NG021014_dukke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021014",
+      "level": 2,
+      "name": {
+        "local": "Funtua",
+        "en": "Funtua",
+        "slug": "funtua-ng021014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021014",
+        "level": 2,
+        "name": {
+          "local": "Funtua",
+          "en": "Funtua",
+          "slug": "funtua-ng021014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.434",
+      "lon": "7.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021014_goya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Goya",
+      "en": "Goya",
+      "slug": "goya"
+    },
+    "code": {
+      "id": "NG021014_goya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021014",
+      "level": 2,
+      "name": {
+        "local": "Funtua",
+        "en": "Funtua",
+        "slug": "funtua-ng021014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021014",
+        "level": 2,
+        "name": {
+          "local": "Funtua",
+          "en": "Funtua",
+          "slug": "funtua-ng021014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.434",
+      "lon": "7.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021014_mai-gamji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mai Gamji",
+      "en": "Mai Gamji",
+      "slug": "mai-gamji"
+    },
+    "code": {
+      "id": "NG021014_mai-gamji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021014",
+      "level": 2,
+      "name": {
+        "local": "Funtua",
+        "en": "Funtua",
+        "slug": "funtua-ng021014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021014",
+        "level": 2,
+        "name": {
+          "local": "Funtua",
+          "en": "Funtua",
+          "slug": "funtua-ng021014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.434",
+      "lon": "7.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021014_makera",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makera",
+      "en": "Makera",
+      "slug": "makera"
+    },
+    "code": {
+      "id": "NG021014_makera",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021014",
+      "level": 2,
+      "name": {
+        "local": "Funtua",
+        "en": "Funtua",
+        "slug": "funtua-ng021014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021014",
+        "level": 2,
+        "name": {
+          "local": "Funtua",
+          "en": "Funtua",
+          "slug": "funtua-ng021014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.434",
+      "lon": "7.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021014_maska",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maska",
+      "en": "Maska",
+      "slug": "maska"
+    },
+    "code": {
+      "id": "NG021014_maska",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021014",
+      "level": 2,
+      "name": {
+        "local": "Funtua",
+        "en": "Funtua",
+        "slug": "funtua-ng021014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021014",
+        "level": 2,
+        "name": {
+          "local": "Funtua",
+          "en": "Funtua",
+          "slug": "funtua-ng021014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.434",
+      "lon": "7.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021014_sabon-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Gari",
+      "en": "Sabon Gari",
+      "slug": "sabon-gari"
+    },
+    "code": {
+      "id": "NG021014_sabon-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021014",
+      "level": 2,
+      "name": {
+        "local": "Funtua",
+        "en": "Funtua",
+        "slug": "funtua-ng021014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021014",
+        "level": 2,
+        "name": {
+          "local": "Funtua",
+          "en": "Funtua",
+          "slug": "funtua-ng021014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.434",
+      "lon": "7.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021014_tudun-iya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Iya",
+      "en": "Tudun Iya",
+      "slug": "tudun-iya"
+    },
+    "code": {
+      "id": "NG021014_tudun-iya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021014",
+      "level": 2,
+      "name": {
+        "local": "Funtua",
+        "en": "Funtua",
+        "slug": "funtua-ng021014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021014",
+        "level": 2,
+        "name": {
+          "local": "Funtua",
+          "en": "Funtua",
+          "slug": "funtua-ng021014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.434",
+      "lon": "7.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021014_ung-ibrahim",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ung Ibrahim",
+      "en": "Ung Ibrahim",
+      "slug": "ung-ibrahim"
+    },
+    "code": {
+      "id": "NG021014_ung-ibrahim",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021014",
+      "level": 2,
+      "name": {
+        "local": "Funtua",
+        "en": "Funtua",
+        "slug": "funtua-ng021014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021014",
+        "level": 2,
+        "name": {
+          "local": "Funtua",
+          "en": "Funtua",
+          "slug": "funtua-ng021014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.434",
+      "lon": "7.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021014_unguwar-musa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Musa",
+      "en": "Unguwar Musa",
+      "slug": "unguwar-musa"
+    },
+    "code": {
+      "id": "NG021014_unguwar-musa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021014",
+      "level": 2,
+      "name": {
+        "local": "Funtua",
+        "en": "Funtua",
+        "slug": "funtua-ng021014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021014",
+        "level": 2,
+        "name": {
+          "local": "Funtua",
+          "en": "Funtua",
+          "slug": "funtua-ng021014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.434",
+      "lon": "7.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021014_unguwar-rabiu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Rabiu",
+      "en": "Unguwar Rabiu",
+      "slug": "unguwar-rabiu"
+    },
+    "code": {
+      "id": "NG021014_unguwar-rabiu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021014",
+      "level": 2,
+      "name": {
+        "local": "Funtua",
+        "en": "Funtua",
+        "slug": "funtua-ng021014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021014",
+        "level": 2,
+        "name": {
+          "local": "Funtua",
+          "en": "Funtua",
+          "slug": "funtua-ng021014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.434",
+      "lon": "7.344"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

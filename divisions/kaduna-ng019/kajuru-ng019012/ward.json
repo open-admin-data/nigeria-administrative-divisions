@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG019012_afogo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Afogo",
+      "en": "Afogo",
+      "slug": "afogo"
+    },
+    "code": {
+      "id": "NG019012_afogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019012",
+      "level": 2,
+      "name": {
+        "local": "Kajuru",
+        "en": "Kajuru",
+        "slug": "kajuru-ng019012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019012",
+        "level": 2,
+        "name": {
+          "local": "Kajuru",
+          "en": "Kajuru",
+          "slug": "kajuru-ng019012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.263",
+      "lon": "7.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019012_buda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buda",
+      "en": "Buda",
+      "slug": "buda"
+    },
+    "code": {
+      "id": "NG019012_buda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019012",
+      "level": 2,
+      "name": {
+        "local": "Kajuru",
+        "en": "Kajuru",
+        "slug": "kajuru-ng019012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019012",
+        "level": 2,
+        "name": {
+          "local": "Kajuru",
+          "en": "Kajuru",
+          "slug": "kajuru-ng019012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.263",
+      "lon": "7.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019012_idon",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idon",
+      "en": "Idon",
+      "slug": "idon"
+    },
+    "code": {
+      "id": "NG019012_idon",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019012",
+      "level": 2,
+      "name": {
+        "local": "Kajuru",
+        "en": "Kajuru",
+        "slug": "kajuru-ng019012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019012",
+        "level": 2,
+        "name": {
+          "local": "Kajuru",
+          "en": "Kajuru",
+          "slug": "kajuru-ng019012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.263",
+      "lon": "7.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019012_kajuru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kajuru",
+      "en": "Kajuru",
+      "slug": "kajuru"
+    },
+    "code": {
+      "id": "NG019012_kajuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019012",
+      "level": 2,
+      "name": {
+        "local": "Kajuru",
+        "en": "Kajuru",
+        "slug": "kajuru-ng019012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019012",
+        "level": 2,
+        "name": {
+          "local": "Kajuru",
+          "en": "Kajuru",
+          "slug": "kajuru-ng019012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.263",
+      "lon": "7.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019012_kallah",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kallah",
+      "en": "Kallah",
+      "slug": "kallah"
+    },
+    "code": {
+      "id": "NG019012_kallah",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019012",
+      "level": 2,
+      "name": {
+        "local": "Kajuru",
+        "en": "Kajuru",
+        "slug": "kajuru-ng019012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019012",
+        "level": 2,
+        "name": {
+          "local": "Kajuru",
+          "en": "Kajuru",
+          "slug": "kajuru-ng019012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.263",
+      "lon": "7.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019012_kasuwan-magani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kasuwan Magani",
+      "en": "Kasuwan Magani",
+      "slug": "kasuwan-magani"
+    },
+    "code": {
+      "id": "NG019012_kasuwan-magani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019012",
+      "level": 2,
+      "name": {
+        "local": "Kajuru",
+        "en": "Kajuru",
+        "slug": "kajuru-ng019012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019012",
+        "level": 2,
+        "name": {
+          "local": "Kajuru",
+          "en": "Kajuru",
+          "slug": "kajuru-ng019012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.263",
+      "lon": "7.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019012_kufana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kufana",
+      "en": "Kufana",
+      "slug": "kufana"
+    },
+    "code": {
+      "id": "NG019012_kufana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019012",
+      "level": 2,
+      "name": {
+        "local": "Kajuru",
+        "en": "Kajuru",
+        "slug": "kajuru-ng019012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019012",
+        "level": 2,
+        "name": {
+          "local": "Kajuru",
+          "en": "Kajuru",
+          "slug": "kajuru-ng019012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.263",
+      "lon": "7.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019012_maro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maro",
+      "en": "Maro",
+      "slug": "maro"
+    },
+    "code": {
+      "id": "NG019012_maro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019012",
+      "level": 2,
+      "name": {
+        "local": "Kajuru",
+        "en": "Kajuru",
+        "slug": "kajuru-ng019012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019012",
+        "level": 2,
+        "name": {
+          "local": "Kajuru",
+          "en": "Kajuru",
+          "slug": "kajuru-ng019012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.263",
+      "lon": "7.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019012_rimau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rimau",
+      "en": "Rimau",
+      "slug": "rimau"
+    },
+    "code": {
+      "id": "NG019012_rimau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019012",
+      "level": 2,
+      "name": {
+        "local": "Kajuru",
+        "en": "Kajuru",
+        "slug": "kajuru-ng019012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019012",
+        "level": 2,
+        "name": {
+          "local": "Kajuru",
+          "en": "Kajuru",
+          "slug": "kajuru-ng019012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.263",
+      "lon": "7.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019012_tantatu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tantatu",
+      "en": "Tantatu",
+      "slug": "tantatu"
+    },
+    "code": {
+      "id": "NG019012_tantatu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019012",
+      "level": 2,
+      "name": {
+        "local": "Kajuru",
+        "en": "Kajuru",
+        "slug": "kajuru-ng019012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019012",
+        "level": 2,
+        "name": {
+          "local": "Kajuru",
+          "en": "Kajuru",
+          "slug": "kajuru-ng019012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.263",
+      "lon": "7.862"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

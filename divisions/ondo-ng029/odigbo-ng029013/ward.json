@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG029013_agbabu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbabu",
+      "en": "Agbabu",
+      "slug": "agbabu"
+    },
+    "code": {
+      "id": "NG029013_agbabu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029013",
+      "level": 2,
+      "name": {
+        "local": "Odigbo",
+        "en": "Odigbo",
+        "slug": "odigbo-ng029013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029013",
+        "level": 2,
+        "name": {
+          "local": "Odigbo",
+          "en": "Odigbo",
+          "slug": "odigbo-ng029013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.732",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029013_ago-alaye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ago-alaye",
+      "en": "Ago-alaye",
+      "slug": "ago-alaye"
+    },
+    "code": {
+      "id": "NG029013_ago-alaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029013",
+      "level": 2,
+      "name": {
+        "local": "Odigbo",
+        "en": "Odigbo",
+        "slug": "odigbo-ng029013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029013",
+        "level": 2,
+        "name": {
+          "local": "Odigbo",
+          "en": "Odigbo",
+          "slug": "odigbo-ng029013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.732",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029013_ajue",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajue",
+      "en": "Ajue",
+      "slug": "ajue"
+    },
+    "code": {
+      "id": "NG029013_ajue",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029013",
+      "level": 2,
+      "name": {
+        "local": "Odigbo",
+        "en": "Odigbo",
+        "slug": "odigbo-ng029013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029013",
+        "level": 2,
+        "name": {
+          "local": "Odigbo",
+          "en": "Odigbo",
+          "slug": "odigbo-ng029013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.732",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029013_araromi-obu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Araromi Obu",
+      "en": "Araromi Obu",
+      "slug": "araromi-obu"
+    },
+    "code": {
+      "id": "NG029013_araromi-obu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029013",
+      "level": 2,
+      "name": {
+        "local": "Odigbo",
+        "en": "Odigbo",
+        "slug": "odigbo-ng029013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029013",
+        "level": 2,
+        "name": {
+          "local": "Odigbo",
+          "en": "Odigbo",
+          "slug": "odigbo-ng029013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.732",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029013_ayesan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayesan",
+      "en": "Ayesan",
+      "slug": "ayesan"
+    },
+    "code": {
+      "id": "NG029013_ayesan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029013",
+      "level": 2,
+      "name": {
+        "local": "Odigbo",
+        "en": "Odigbo",
+        "slug": "odigbo-ng029013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029013",
+        "level": 2,
+        "name": {
+          "local": "Odigbo",
+          "en": "Odigbo",
+          "slug": "odigbo-ng029013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.732",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029013_ebijan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ebijan",
+      "en": "Ebijan",
+      "slug": "ebijan"
+    },
+    "code": {
+      "id": "NG029013_ebijan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029013",
+      "level": 2,
+      "name": {
+        "local": "Odigbo",
+        "en": "Odigbo",
+        "slug": "odigbo-ng029013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029013",
+        "level": 2,
+        "name": {
+          "local": "Odigbo",
+          "en": "Odigbo",
+          "slug": "odigbo-ng029013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.732",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029013_koseru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koseru",
+      "en": "Koseru",
+      "slug": "koseru"
+    },
+    "code": {
+      "id": "NG029013_koseru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029013",
+      "level": 2,
+      "name": {
+        "local": "Odigbo",
+        "en": "Odigbo",
+        "slug": "odigbo-ng029013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029013",
+        "level": 2,
+        "name": {
+          "local": "Odigbo",
+          "en": "Odigbo",
+          "slug": "odigbo-ng029013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.732",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029013_odigbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odigbo",
+      "en": "Odigbo",
+      "slug": "odigbo"
+    },
+    "code": {
+      "id": "NG029013_odigbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029013",
+      "level": 2,
+      "name": {
+        "local": "Odigbo",
+        "en": "Odigbo",
+        "slug": "odigbo-ng029013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029013",
+        "level": 2,
+        "name": {
+          "local": "Odigbo",
+          "en": "Odigbo",
+          "slug": "odigbo-ng029013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.732",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029013_oniparaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oniparaga",
+      "en": "Oniparaga",
+      "slug": "oniparaga"
+    },
+    "code": {
+      "id": "NG029013_oniparaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029013",
+      "level": 2,
+      "name": {
+        "local": "Odigbo",
+        "en": "Odigbo",
+        "slug": "odigbo-ng029013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029013",
+        "level": 2,
+        "name": {
+          "local": "Odigbo",
+          "en": "Odigbo",
+          "slug": "odigbo-ng029013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.732",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029013_ore-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ore 1",
+      "en": "Ore 1",
+      "slug": "ore-1"
+    },
+    "code": {
+      "id": "NG029013_ore-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029013",
+      "level": 2,
+      "name": {
+        "local": "Odigbo",
+        "en": "Odigbo",
+        "slug": "odigbo-ng029013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029013",
+        "level": 2,
+        "name": {
+          "local": "Odigbo",
+          "en": "Odigbo",
+          "slug": "odigbo-ng029013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.732",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029013_ore-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ore 11",
+      "en": "Ore 11",
+      "slug": "ore-11"
+    },
+    "code": {
+      "id": "NG029013_ore-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029013",
+      "level": 2,
+      "name": {
+        "local": "Odigbo",
+        "en": "Odigbo",
+        "slug": "odigbo-ng029013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029013",
+        "level": 2,
+        "name": {
+          "local": "Odigbo",
+          "en": "Odigbo",
+          "slug": "odigbo-ng029013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.732",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

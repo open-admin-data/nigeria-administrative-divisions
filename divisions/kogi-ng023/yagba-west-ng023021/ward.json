@@ -1,0 +1,758 @@
+[
+  {
+    "id": "NG023021_ejiba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ejiba",
+      "en": "Ejiba",
+      "slug": "ejiba"
+    },
+    "code": {
+      "id": "NG023021_ejiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_isaulu-esaokolokeokunran",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isaulu Esa/okoloke/okunran",
+      "en": "Isaulu Esa/okoloke/okunran",
+      "slug": "isaulu-esaokolokeokunran"
+    },
+    "code": {
+      "id": "NG023021_isaulu-esaokolokeokunran",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_iyamerinigbaruku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iyamerin/igbaruku",
+      "en": "Iyamerin/igbaruku",
+      "slug": "iyamerinigbaruku"
+    },
+    "code": {
+      "id": "NG023021_iyamerinigbaruku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_odo-ara-omi-ogga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odo Ara Omi Ogga",
+      "en": "Odo Ara Omi Ogga",
+      "slug": "odo-ara-omi-ogga"
+    },
+    "code": {
+      "id": "NG023021_odo-ara-omi-ogga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_odo-egbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odo Egbe",
+      "en": "Odo Egbe",
+      "slug": "odo-egbe"
+    },
+    "code": {
+      "id": "NG023021_odo-egbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_odo-egbe-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odo Egbe I",
+      "en": "Odo Egbe I",
+      "slug": "odo-egbe-i"
+    },
+    "code": {
+      "id": "NG023021_odo-egbe-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_odo-egbe-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odo Egbe Ii",
+      "en": "Odo Egbe Ii",
+      "slug": "odo-egbe-ii"
+    },
+    "code": {
+      "id": "NG023021_odo-egbe-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_odo-ere-oke-ere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odo Ere Oke Ere",
+      "en": "Odo Ere Oke Ere",
+      "slug": "odo-ere-oke-ere"
+    },
+    "code": {
+      "id": "NG023021_odo-ere-oke-ere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_odo-eri-okoto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odo Eri Okoto",
+      "en": "Odo Eri Okoto",
+      "slug": "odo-eri-okoto"
+    },
+    "code": {
+      "id": "NG023021_odo-eri-okoto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_ogbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbe",
+      "en": "Ogbe",
+      "slug": "ogbe"
+    },
+    "code": {
+      "id": "NG023021_ogbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_oke-egbe-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke Egbe I",
+      "en": "Oke Egbe I",
+      "slug": "oke-egbe-i"
+    },
+    "code": {
+      "id": "NG023021_oke-egbe-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_oke-egbe-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke Egbe Ii",
+      "en": "Oke Egbe Ii",
+      "slug": "oke-egbe-ii"
+    },
+    "code": {
+      "id": "NG023021_oke-egbe-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_oke-egbe-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke Egbe Iii",
+      "en": "Oke Egbe Iii",
+      "slug": "oke-egbe-iii"
+    },
+    "code": {
+      "id": "NG023021_oke-egbe-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023021_oke-egbe-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke Egbe Iv",
+      "en": "Oke Egbe Iv",
+      "slug": "oke-egbe-iv"
+    },
+    "code": {
+      "id": "NG023021_oke-egbe-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023021",
+      "level": 2,
+      "name": {
+        "local": "Yagba West",
+        "en": "Yagba West",
+        "slug": "yagba-west-ng023021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023021",
+        "level": 2,
+        "name": {
+          "local": "Yagba West",
+          "en": "Yagba West",
+          "slug": "yagba-west-ng023021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.277",
+      "lon": "5.552"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NG010015",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Oshimili South",
+    "en": "Oshimili South",
+    "slug": "oshimili-south-ng010015"
+  },
+  "code": {
+    "id": "NG010015",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG010",
+    "level": 1,
+    "name": {
+      "local": "Delta",
+      "en": "Delta",
+      "slug": "delta-ng010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.13",
+    "lon": "6.731"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "NG023013",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Mopa-Muro",
+    "en": "Mopa-Muro",
+    "slug": "mopa-muro-ng023013"
+  },
+  "code": {
+    "id": "NG023013",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG023",
+    "level": 1,
+    "name": {
+      "local": "Kogi",
+      "en": "Kogi",
+      "slug": "kogi-ng023"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG023",
+      "level": 1,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.14",
+    "lon": "5.903"
+  },
+  "metadata": {},
+  "source": {}
+}

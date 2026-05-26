@@ -1,0 +1,812 @@
+[
+  {
+    "id": "NG020039_dindere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dindere",
+      "en": "Dindere",
+      "slug": "dindere"
+    },
+    "code": {
+      "id": "NG020039_dindere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_doka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doka",
+      "en": "Doka",
+      "slug": "doka"
+    },
+    "code": {
+      "id": "NG020039_doka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_gajida",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gajida",
+      "en": "Gajida",
+      "slug": "gajida"
+    },
+    "code": {
+      "id": "NG020039_gajida",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_ginsawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ginsawa",
+      "en": "Ginsawa",
+      "slug": "ginsawa"
+    },
+    "code": {
+      "id": "NG020039_ginsawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_janguza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Janguza",
+      "en": "Janguza",
+      "slug": "janguza"
+    },
+    "code": {
+      "id": "NG020039_janguza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_jauben-kudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jauben Kudu",
+      "en": "Jauben Kudu",
+      "slug": "jauben-kudu"
+    },
+    "code": {
+      "id": "NG020039_jauben-kudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_kwami",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwami",
+      "en": "Kwami",
+      "slug": "kwami"
+    },
+    "code": {
+      "id": "NG020039_kwami",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_lambu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lambu",
+      "en": "Lambu",
+      "slug": "lambu"
+    },
+    "code": {
+      "id": "NG020039_lambu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_langel",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Langel",
+      "en": "Langel",
+      "slug": "langel"
+    },
+    "code": {
+      "id": "NG020039_langel",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_tofa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tofa",
+      "en": "Tofa",
+      "slug": "tofa"
+    },
+    "code": {
+      "id": "NG020039_tofa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_unguwar-rimi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Rimi",
+      "en": "Unguwar Rimi",
+      "slug": "unguwar-rimi"
+    },
+    "code": {
+      "id": "NG020039_unguwar-rimi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_wangara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wangara",
+      "en": "Wangara",
+      "slug": "wangara"
+    },
+    "code": {
+      "id": "NG020039_wangara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_yalwa-karama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yalwa Karama",
+      "en": "Yalwa Karama",
+      "slug": "yalwa-karama"
+    },
+    "code": {
+      "id": "NG020039_yalwa-karama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_yanoko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yanoko",
+      "en": "Yanoko",
+      "slug": "yanoko"
+    },
+    "code": {
+      "id": "NG020039_yanoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039_yarimawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yarimawa",
+      "en": "Yarimawa",
+      "slug": "yarimawa"
+    },
+    "code": {
+      "id": "NG020039_yarimawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020039",
+      "level": 2,
+      "name": {
+        "local": "Tofa",
+        "en": "Tofa",
+        "slug": "tofa-ng020039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020039",
+        "level": 2,
+        "name": {
+          "local": "Tofa",
+          "en": "Tofa",
+          "slug": "tofa-ng020039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

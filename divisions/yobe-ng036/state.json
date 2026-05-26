@@ -1,0 +1,30 @@
+{
+  "id": "NG036",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Yobe",
+    "en": "Yobe",
+    "slug": "yobe-ng036"
+  },
+  "code": {
+    "id": "NG036",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 17,
+    "ward": 178
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.974",
+    "lon": "11.524"
+  },
+  "metadata": {},
+  "source": {}
+}

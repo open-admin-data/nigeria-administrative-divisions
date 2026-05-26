@@ -1,0 +1,30 @@
+{
+  "id": "NG005",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Bauchi",
+    "en": "Bauchi",
+    "slug": "bauchi-ng005"
+  },
+  "code": {
+    "id": "NG005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 20,
+    "ward": 212
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.998",
+    "lon": "9.326"
+  },
+  "metadata": {},
+  "source": {}
+}

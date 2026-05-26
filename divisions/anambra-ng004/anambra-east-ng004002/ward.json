@@ -1,0 +1,812 @@
+[
+  {
+    "id": "NG004002_aguleri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aguleri",
+      "en": "Aguleri",
+      "slug": "aguleri"
+    },
+    "code": {
+      "id": "NG004002_aguleri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_aguleri-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aguleri Ii",
+      "en": "Aguleri Ii",
+      "slug": "aguleri-ii"
+    },
+    "code": {
+      "id": "NG004002_aguleri-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_enugwu-otu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Enugwu-otu",
+      "en": "Enugwu-otu",
+      "slug": "enugwu-otu"
+    },
+    "code": {
+      "id": "NG004002_enugwu-otu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_eziagulu-otu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eziagulu-otu",
+      "en": "Eziagulu-otu",
+      "slug": "eziagulu-otu"
+    },
+    "code": {
+      "id": "NG004002_eziagulu-otu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_igbariam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igbariam",
+      "en": "Igbariam",
+      "slug": "igbariam"
+    },
+    "code": {
+      "id": "NG004002_igbariam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_nando-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nando I",
+      "en": "Nando I",
+      "slug": "nando-i"
+    },
+    "code": {
+      "id": "NG004002_nando-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_nando-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nando Ii",
+      "en": "Nando Ii",
+      "slug": "nando-ii"
+    },
+    "code": {
+      "id": "NG004002_nando-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_nando-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nando Iii",
+      "en": "Nando Iii",
+      "slug": "nando-iii"
+    },
+    "code": {
+      "id": "NG004002_nando-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_nsugbe-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nsugbe I",
+      "en": "Nsugbe I",
+      "slug": "nsugbe-i"
+    },
+    "code": {
+      "id": "NG004002_nsugbe-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_nsugbe-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nsugbe Ii",
+      "en": "Nsugbe Ii",
+      "slug": "nsugbe-ii"
+    },
+    "code": {
+      "id": "NG004002_nsugbe-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_otuocha-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otuocha I",
+      "en": "Otuocha I",
+      "slug": "otuocha-i"
+    },
+    "code": {
+      "id": "NG004002_otuocha-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_otuocha-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otuocha Ii",
+      "en": "Otuocha Ii",
+      "slug": "otuocha-ii"
+    },
+    "code": {
+      "id": "NG004002_otuocha-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_umuleri-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuleri Ii",
+      "en": "Umuleri Ii",
+      "slug": "umuleri-ii"
+    },
+    "code": {
+      "id": "NG004002_umuleri-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_umuoba-anam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuoba-anam",
+      "en": "Umuoba-anam",
+      "slug": "umuoba-anam"
+    },
+    "code": {
+      "id": "NG004002_umuoba-anam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002_umureli-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umureli I",
+      "en": "Umureli I",
+      "slug": "umureli-i"
+    },
+    "code": {
+      "id": "NG004002_umureli-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004002",
+      "level": 2,
+      "name": {
+        "local": "Anambra East",
+        "en": "Anambra East",
+        "slug": "anambra-east-ng004002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004002",
+        "level": 2,
+        "name": {
+          "local": "Anambra East",
+          "en": "Anambra East",
+          "slug": "anambra-east-ng004002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

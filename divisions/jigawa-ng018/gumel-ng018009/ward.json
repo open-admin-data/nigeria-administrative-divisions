@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018009_baikarya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baikarya",
+      "en": "Baikarya",
+      "slug": "baikarya"
+    },
+    "code": {
+      "id": "NG018009_baikarya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018009",
+      "level": 2,
+      "name": {
+        "local": "Gumel",
+        "en": "Gumel",
+        "slug": "gumel-ng018009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018009",
+        "level": 2,
+        "name": {
+          "local": "Gumel",
+          "en": "Gumel",
+          "slug": "gumel-ng018009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.632",
+      "lon": "9.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018009_danama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danama",
+      "en": "Danama",
+      "slug": "danama"
+    },
+    "code": {
+      "id": "NG018009_danama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018009",
+      "level": 2,
+      "name": {
+        "local": "Gumel",
+        "en": "Gumel",
+        "slug": "gumel-ng018009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018009",
+        "level": 2,
+        "name": {
+          "local": "Gumel",
+          "en": "Gumel",
+          "slug": "gumel-ng018009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.632",
+      "lon": "9.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018009_dantanoma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dantanoma",
+      "en": "Dantanoma",
+      "slug": "dantanoma"
+    },
+    "code": {
+      "id": "NG018009_dantanoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018009",
+      "level": 2,
+      "name": {
+        "local": "Gumel",
+        "en": "Gumel",
+        "slug": "gumel-ng018009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018009",
+        "level": 2,
+        "name": {
+          "local": "Gumel",
+          "en": "Gumel",
+          "slug": "gumel-ng018009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.632",
+      "lon": "9.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018009_galagamma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galagamma",
+      "en": "Galagamma",
+      "slug": "galagamma"
+    },
+    "code": {
+      "id": "NG018009_galagamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018009",
+      "level": 2,
+      "name": {
+        "local": "Gumel",
+        "en": "Gumel",
+        "slug": "gumel-ng018009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018009",
+        "level": 2,
+        "name": {
+          "local": "Gumel",
+          "en": "Gumel",
+          "slug": "gumel-ng018009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.632",
+      "lon": "9.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018009_garin-alhaji-barka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garin Alhaji Barka",
+      "en": "Garin Alhaji Barka",
+      "slug": "garin-alhaji-barka"
+    },
+    "code": {
+      "id": "NG018009_garin-alhaji-barka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018009",
+      "level": 2,
+      "name": {
+        "local": "Gumel",
+        "en": "Gumel",
+        "slug": "gumel-ng018009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018009",
+        "level": 2,
+        "name": {
+          "local": "Gumel",
+          "en": "Gumel",
+          "slug": "gumel-ng018009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.632",
+      "lon": "9.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018009_garin-gambo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garin Gambo",
+      "en": "Garin Gambo",
+      "slug": "garin-gambo"
+    },
+    "code": {
+      "id": "NG018009_garin-gambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018009",
+      "level": 2,
+      "name": {
+        "local": "Gumel",
+        "en": "Gumel",
+        "slug": "gumel-ng018009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018009",
+        "level": 2,
+        "name": {
+          "local": "Gumel",
+          "en": "Gumel",
+          "slug": "gumel-ng018009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.632",
+      "lon": "9.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018009_gusau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gusau",
+      "en": "Gusau",
+      "slug": "gusau"
+    },
+    "code": {
+      "id": "NG018009_gusau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018009",
+      "level": 2,
+      "name": {
+        "local": "Gumel",
+        "en": "Gumel",
+        "slug": "gumel-ng018009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018009",
+        "level": 2,
+        "name": {
+          "local": "Gumel",
+          "en": "Gumel",
+          "slug": "gumel-ng018009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.632",
+      "lon": "9.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018009_hammado",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hammado",
+      "en": "Hammado",
+      "slug": "hammado"
+    },
+    "code": {
+      "id": "NG018009_hammado",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018009",
+      "level": 2,
+      "name": {
+        "local": "Gumel",
+        "en": "Gumel",
+        "slug": "gumel-ng018009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018009",
+        "level": 2,
+        "name": {
+          "local": "Gumel",
+          "en": "Gumel",
+          "slug": "gumel-ng018009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.632",
+      "lon": "9.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018009_kofar-arewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kofar Arewa",
+      "en": "Kofar Arewa",
+      "slug": "kofar-arewa"
+    },
+    "code": {
+      "id": "NG018009_kofar-arewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018009",
+      "level": 2,
+      "name": {
+        "local": "Gumel",
+        "en": "Gumel",
+        "slug": "gumel-ng018009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018009",
+        "level": 2,
+        "name": {
+          "local": "Gumel",
+          "en": "Gumel",
+          "slug": "gumel-ng018009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.632",
+      "lon": "9.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018009_kofar-yamma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kofar Yamma",
+      "en": "Kofar Yamma",
+      "slug": "kofar-yamma"
+    },
+    "code": {
+      "id": "NG018009_kofar-yamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018009",
+      "level": 2,
+      "name": {
+        "local": "Gumel",
+        "en": "Gumel",
+        "slug": "gumel-ng018009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018009",
+        "level": 2,
+        "name": {
+          "local": "Gumel",
+          "en": "Gumel",
+          "slug": "gumel-ng018009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.632",
+      "lon": "9.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018009_zango",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zango",
+      "en": "Zango",
+      "slug": "zango"
+    },
+    "code": {
+      "id": "NG018009_zango",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018009",
+      "level": 2,
+      "name": {
+        "local": "Gumel",
+        "en": "Gumel",
+        "slug": "gumel-ng018009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018009",
+        "level": 2,
+        "name": {
+          "local": "Gumel",
+          "en": "Gumel",
+          "slug": "gumel-ng018009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.632",
+      "lon": "9.399"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

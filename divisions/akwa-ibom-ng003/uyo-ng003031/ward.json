@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG003031_etoi-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Etoi 1",
+      "en": "Etoi 1",
+      "slug": "etoi-1"
+    },
+    "code": {
+      "id": "NG003031_etoi-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003031",
+      "level": 2,
+      "name": {
+        "local": "Uyo",
+        "en": "Uyo",
+        "slug": "uyo-ng003031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003031",
+        "level": 2,
+        "name": {
+          "local": "Uyo",
+          "en": "Uyo",
+          "slug": "uyo-ng003031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003031_etoi-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Etoi 11",
+      "en": "Etoi 11",
+      "slug": "etoi-11"
+    },
+    "code": {
+      "id": "NG003031_etoi-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003031",
+      "level": 2,
+      "name": {
+        "local": "Uyo",
+        "en": "Uyo",
+        "slug": "uyo-ng003031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003031",
+        "level": 2,
+        "name": {
+          "local": "Uyo",
+          "en": "Uyo",
+          "slug": "uyo-ng003031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003031_ikono-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikono 1",
+      "en": "Ikono 1",
+      "slug": "ikono-1"
+    },
+    "code": {
+      "id": "NG003031_ikono-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003031",
+      "level": 2,
+      "name": {
+        "local": "Uyo",
+        "en": "Uyo",
+        "slug": "uyo-ng003031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003031",
+        "level": 2,
+        "name": {
+          "local": "Uyo",
+          "en": "Uyo",
+          "slug": "uyo-ng003031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003031_ikono-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikono 11",
+      "en": "Ikono 11",
+      "slug": "ikono-11"
+    },
+    "code": {
+      "id": "NG003031_ikono-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003031",
+      "level": 2,
+      "name": {
+        "local": "Uyo",
+        "en": "Uyo",
+        "slug": "uyo-ng003031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003031",
+        "level": 2,
+        "name": {
+          "local": "Uyo",
+          "en": "Uyo",
+          "slug": "uyo-ng003031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003031_offot-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Offot 1",
+      "en": "Offot 1",
+      "slug": "offot-1"
+    },
+    "code": {
+      "id": "NG003031_offot-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003031",
+      "level": 2,
+      "name": {
+        "local": "Uyo",
+        "en": "Uyo",
+        "slug": "uyo-ng003031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003031",
+        "level": 2,
+        "name": {
+          "local": "Uyo",
+          "en": "Uyo",
+          "slug": "uyo-ng003031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003031_offot-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Offot 11",
+      "en": "Offot 11",
+      "slug": "offot-11"
+    },
+    "code": {
+      "id": "NG003031_offot-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003031",
+      "level": 2,
+      "name": {
+        "local": "Uyo",
+        "en": "Uyo",
+        "slug": "uyo-ng003031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003031",
+        "level": 2,
+        "name": {
+          "local": "Uyo",
+          "en": "Uyo",
+          "slug": "uyo-ng003031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003031_oku-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oku 1",
+      "en": "Oku 1",
+      "slug": "oku-1"
+    },
+    "code": {
+      "id": "NG003031_oku-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003031",
+      "level": 2,
+      "name": {
+        "local": "Uyo",
+        "en": "Uyo",
+        "slug": "uyo-ng003031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003031",
+        "level": 2,
+        "name": {
+          "local": "Uyo",
+          "en": "Uyo",
+          "slug": "uyo-ng003031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003031_oku-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oku 11",
+      "en": "Oku 11",
+      "slug": "oku-11"
+    },
+    "code": {
+      "id": "NG003031_oku-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003031",
+      "level": 2,
+      "name": {
+        "local": "Uyo",
+        "en": "Uyo",
+        "slug": "uyo-ng003031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003031",
+        "level": 2,
+        "name": {
+          "local": "Uyo",
+          "en": "Uyo",
+          "slug": "uyo-ng003031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003031_uyo-urban-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uyo Urban 1",
+      "en": "Uyo Urban 1",
+      "slug": "uyo-urban-1"
+    },
+    "code": {
+      "id": "NG003031_uyo-urban-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003031",
+      "level": 2,
+      "name": {
+        "local": "Uyo",
+        "en": "Uyo",
+        "slug": "uyo-ng003031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003031",
+        "level": 2,
+        "name": {
+          "local": "Uyo",
+          "en": "Uyo",
+          "slug": "uyo-ng003031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003031_uyo-urban-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uyo Urban 11",
+      "en": "Uyo Urban 11",
+      "slug": "uyo-urban-11"
+    },
+    "code": {
+      "id": "NG003031_uyo-urban-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003031",
+      "level": 2,
+      "name": {
+        "local": "Uyo",
+        "en": "Uyo",
+        "slug": "uyo-ng003031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003031",
+        "level": 2,
+        "name": {
+          "local": "Uyo",
+          "en": "Uyo",
+          "slug": "uyo-ng003031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003031_uyo-urban-111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uyo Urban 111",
+      "en": "Uyo Urban 111",
+      "slug": "uyo-urban-111"
+    },
+    "code": {
+      "id": "NG003031_uyo-urban-111",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003031",
+      "level": 2,
+      "name": {
+        "local": "Uyo",
+        "en": "Uyo",
+        "slug": "uyo-ng003031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003031",
+        "level": 2,
+        "name": {
+          "local": "Uyo",
+          "en": "Uyo",
+          "slug": "uyo-ng003031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018017_baauzini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ba'auzini",
+      "en": "Ba'auzini",
+      "slug": "baauzini"
+    },
+    "code": {
+      "id": "NG018017_baauzini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018017",
+      "level": 2,
+      "name": {
+        "local": "Kazaure",
+        "en": "Kazaure",
+        "slug": "kazaure-ng018017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018017",
+        "level": 2,
+        "name": {
+          "local": "Kazaure",
+          "en": "Kazaure",
+          "slug": "kazaure-ng018017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "8.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018017_daba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daba",
+      "en": "Daba",
+      "slug": "daba"
+    },
+    "code": {
+      "id": "NG018017_daba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018017",
+      "level": 2,
+      "name": {
+        "local": "Kazaure",
+        "en": "Kazaure",
+        "slug": "kazaure-ng018017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018017",
+        "level": 2,
+        "name": {
+          "local": "Kazaure",
+          "en": "Kazaure",
+          "slug": "kazaure-ng018017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "8.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018017_dabaza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dabaza",
+      "en": "Dabaza",
+      "slug": "dabaza"
+    },
+    "code": {
+      "id": "NG018017_dabaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018017",
+      "level": 2,
+      "name": {
+        "local": "Kazaure",
+        "en": "Kazaure",
+        "slug": "kazaure-ng018017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018017",
+        "level": 2,
+        "name": {
+          "local": "Kazaure",
+          "en": "Kazaure",
+          "slug": "kazaure-ng018017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "8.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018017_dandi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dandi",
+      "en": "Dandi",
+      "slug": "dandi"
+    },
+    "code": {
+      "id": "NG018017_dandi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018017",
+      "level": 2,
+      "name": {
+        "local": "Kazaure",
+        "en": "Kazaure",
+        "slug": "kazaure-ng018017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018017",
+        "level": 2,
+        "name": {
+          "local": "Kazaure",
+          "en": "Kazaure",
+          "slug": "kazaure-ng018017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "8.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018017_gada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gada",
+      "en": "Gada",
+      "slug": "gada"
+    },
+    "code": {
+      "id": "NG018017_gada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018017",
+      "level": 2,
+      "name": {
+        "local": "Kazaure",
+        "en": "Kazaure",
+        "slug": "kazaure-ng018017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018017",
+        "level": 2,
+        "name": {
+          "local": "Kazaure",
+          "en": "Kazaure",
+          "slug": "kazaure-ng018017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "8.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018017_kanti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanti",
+      "en": "Kanti",
+      "slug": "kanti"
+    },
+    "code": {
+      "id": "NG018017_kanti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018017",
+      "level": 2,
+      "name": {
+        "local": "Kazaure",
+        "en": "Kazaure",
+        "slug": "kazaure-ng018017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018017",
+        "level": 2,
+        "name": {
+          "local": "Kazaure",
+          "en": "Kazaure",
+          "slug": "kazaure-ng018017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "8.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018017_maradawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maradawa",
+      "en": "Maradawa",
+      "slug": "maradawa"
+    },
+    "code": {
+      "id": "NG018017_maradawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018017",
+      "level": 2,
+      "name": {
+        "local": "Kazaure",
+        "en": "Kazaure",
+        "slug": "kazaure-ng018017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018017",
+        "level": 2,
+        "name": {
+          "local": "Kazaure",
+          "en": "Kazaure",
+          "slug": "kazaure-ng018017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "8.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018017_sabaru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabaru",
+      "en": "Sabaru",
+      "slug": "sabaru"
+    },
+    "code": {
+      "id": "NG018017_sabaru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018017",
+      "level": 2,
+      "name": {
+        "local": "Kazaure",
+        "en": "Kazaure",
+        "slug": "kazaure-ng018017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018017",
+        "level": 2,
+        "name": {
+          "local": "Kazaure",
+          "en": "Kazaure",
+          "slug": "kazaure-ng018017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "8.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018017_unguwar-arewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Arewa",
+      "en": "Unguwar Arewa",
+      "slug": "unguwar-arewa"
+    },
+    "code": {
+      "id": "NG018017_unguwar-arewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018017",
+      "level": 2,
+      "name": {
+        "local": "Kazaure",
+        "en": "Kazaure",
+        "slug": "kazaure-ng018017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018017",
+        "level": 2,
+        "name": {
+          "local": "Kazaure",
+          "en": "Kazaure",
+          "slug": "kazaure-ng018017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "8.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018017_unguwar-gabas",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Gabas",
+      "en": "Unguwar Gabas",
+      "slug": "unguwar-gabas"
+    },
+    "code": {
+      "id": "NG018017_unguwar-gabas",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018017",
+      "level": 2,
+      "name": {
+        "local": "Kazaure",
+        "en": "Kazaure",
+        "slug": "kazaure-ng018017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018017",
+        "level": 2,
+        "name": {
+          "local": "Kazaure",
+          "en": "Kazaure",
+          "slug": "kazaure-ng018017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "8.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018017_unguwar-yamma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Yamma",
+      "en": "Unguwar Yamma",
+      "slug": "unguwar-yamma"
+    },
+    "code": {
+      "id": "NG018017_unguwar-yamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018017",
+      "level": 2,
+      "name": {
+        "local": "Kazaure",
+        "en": "Kazaure",
+        "slug": "kazaure-ng018017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018017",
+        "level": 2,
+        "name": {
+          "local": "Kazaure",
+          "en": "Kazaure",
+          "slug": "kazaure-ng018017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.661",
+      "lon": "8.451"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

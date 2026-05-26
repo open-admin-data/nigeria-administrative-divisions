@@ -1,0 +1,47 @@
+{
+  "id": "NG020007",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Dala",
+    "en": "Dala",
+    "slug": "dala-ng020007"
+  },
+  "code": {
+    "id": "NG020007",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG020",
+    "level": 1,
+    "name": {
+      "local": "Kano",
+      "en": "Kano",
+      "slug": "kano-ng020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.027",
+    "lon": "8.494"
+  },
+  "metadata": {},
+  "source": {}
+}

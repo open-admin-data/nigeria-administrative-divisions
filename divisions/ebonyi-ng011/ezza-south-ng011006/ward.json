@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG011006_amaezekwe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amaezekwe",
+      "en": "Amaezekwe",
+      "slug": "amaezekwe"
+    },
+    "code": {
+      "id": "NG011006_amaezekwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011006",
+      "level": 2,
+      "name": {
+        "local": "Ezza South",
+        "en": "Ezza South",
+        "slug": "ezza-south-ng011006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011006",
+        "level": 2,
+        "name": {
+          "local": "Ezza South",
+          "en": "Ezza South",
+          "slug": "ezza-south-ng011006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011006_amagunsokkara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amagu/nsokkara",
+      "en": "Amagu/nsokkara",
+      "slug": "amagunsokkara"
+    },
+    "code": {
+      "id": "NG011006_amagunsokkara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011006",
+      "level": 2,
+      "name": {
+        "local": "Ezza South",
+        "en": "Ezza South",
+        "slug": "ezza-south-ng011006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011006",
+        "level": 2,
+        "name": {
+          "local": "Ezza South",
+          "en": "Ezza South",
+          "slug": "ezza-south-ng011006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011006_amana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amana",
+      "en": "Amana",
+      "slug": "amana"
+    },
+    "code": {
+      "id": "NG011006_amana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011006",
+      "level": 2,
+      "name": {
+        "local": "Ezza South",
+        "en": "Ezza South",
+        "slug": "ezza-south-ng011006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011006",
+        "level": 2,
+        "name": {
+          "local": "Ezza South",
+          "en": "Ezza South",
+          "slug": "ezza-south-ng011006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011006_ameka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ameka",
+      "en": "Ameka",
+      "slug": "ameka"
+    },
+    "code": {
+      "id": "NG011006_ameka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011006",
+      "level": 2,
+      "name": {
+        "local": "Ezza South",
+        "en": "Ezza South",
+        "slug": "ezza-south-ng011006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011006",
+        "level": 2,
+        "name": {
+          "local": "Ezza South",
+          "en": "Ezza South",
+          "slug": "ezza-south-ng011006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011006_amudookoffia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amudo/okoffia",
+      "en": "Amudo/okoffia",
+      "slug": "amudookoffia"
+    },
+    "code": {
+      "id": "NG011006_amudookoffia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011006",
+      "level": 2,
+      "name": {
+        "local": "Ezza South",
+        "en": "Ezza South",
+        "slug": "ezza-south-ng011006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011006",
+        "level": 2,
+        "name": {
+          "local": "Ezza South",
+          "en": "Ezza South",
+          "slug": "ezza-south-ng011006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011006_amuzu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amuzu",
+      "en": "Amuzu",
+      "slug": "amuzu"
+    },
+    "code": {
+      "id": "NG011006_amuzu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011006",
+      "level": 2,
+      "name": {
+        "local": "Ezza South",
+        "en": "Ezza South",
+        "slug": "ezza-south-ng011006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011006",
+        "level": 2,
+        "name": {
+          "local": "Ezza South",
+          "en": "Ezza South",
+          "slug": "ezza-south-ng011006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011006_echara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Echara",
+      "en": "Echara",
+      "slug": "echara"
+    },
+    "code": {
+      "id": "NG011006_echara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011006",
+      "level": 2,
+      "name": {
+        "local": "Ezza South",
+        "en": "Ezza South",
+        "slug": "ezza-south-ng011006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011006",
+        "level": 2,
+        "name": {
+          "local": "Ezza South",
+          "en": "Ezza South",
+          "slug": "ezza-south-ng011006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011006_ezzama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ezzama",
+      "en": "Ezzama",
+      "slug": "ezzama"
+    },
+    "code": {
+      "id": "NG011006_ezzama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011006",
+      "level": 2,
+      "name": {
+        "local": "Ezza South",
+        "en": "Ezza South",
+        "slug": "ezza-south-ng011006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011006",
+        "level": 2,
+        "name": {
+          "local": "Ezza South",
+          "en": "Ezza South",
+          "slug": "ezza-south-ng011006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011006_ikwuatoridembia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikwuator/idembia",
+      "en": "Ikwuator/idembia",
+      "slug": "ikwuatoridembia"
+    },
+    "code": {
+      "id": "NG011006_ikwuatoridembia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011006",
+      "level": 2,
+      "name": {
+        "local": "Ezza South",
+        "en": "Ezza South",
+        "slug": "ezza-south-ng011006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011006",
+        "level": 2,
+        "name": {
+          "local": "Ezza South",
+          "en": "Ezza South",
+          "slug": "ezza-south-ng011006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011006_onueke-urban",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Onueke Urban",
+      "en": "Onueke Urban",
+      "slug": "onueke-urban"
+    },
+    "code": {
+      "id": "NG011006_onueke-urban",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011006",
+      "level": 2,
+      "name": {
+        "local": "Ezza South",
+        "en": "Ezza South",
+        "slug": "ezza-south-ng011006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011006",
+        "level": 2,
+        "name": {
+          "local": "Ezza South",
+          "en": "Ezza South",
+          "slug": "ezza-south-ng011006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011006_umunwagu-idembia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umunwagu / Idembia",
+      "en": "Umunwagu / Idembia",
+      "slug": "umunwagu-idembia"
+    },
+    "code": {
+      "id": "NG011006_umunwagu-idembia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011006",
+      "level": 2,
+      "name": {
+        "local": "Ezza South",
+        "en": "Ezza South",
+        "slug": "ezza-south-ng011006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011006",
+        "level": 2,
+        "name": {
+          "local": "Ezza South",
+          "en": "Ezza South",
+          "slug": "ezza-south-ng011006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "7.998"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

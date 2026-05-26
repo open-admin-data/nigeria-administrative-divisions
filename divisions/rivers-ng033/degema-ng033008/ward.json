@@ -1,0 +1,920 @@
+[
+  {
+    "id": "NG033008_bakana-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakana I",
+      "en": "Bakana I",
+      "slug": "bakana-i"
+    },
+    "code": {
+      "id": "NG033008_bakana-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_bakana-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakana Ii",
+      "en": "Bakana Ii",
+      "slug": "bakana-ii"
+    },
+    "code": {
+      "id": "NG033008_bakana-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_bakana-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakana Iii",
+      "en": "Bakana Iii",
+      "slug": "bakana-iii"
+    },
+    "code": {
+      "id": "NG033008_bakana-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_bakana-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakana Iv",
+      "en": "Bakana Iv",
+      "slug": "bakana-iv"
+    },
+    "code": {
+      "id": "NG033008_bakana-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_bakana-v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakana V",
+      "en": "Bakana V",
+      "slug": "bakana-v"
+    },
+    "code": {
+      "id": "NG033008_bakana-v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_bakana-vi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakana Vi",
+      "en": "Bakana Vi",
+      "slug": "bakana-vi"
+    },
+    "code": {
+      "id": "NG033008_bakana-vi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_bille",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bille",
+      "en": "Bille",
+      "slug": "bille"
+    },
+    "code": {
+      "id": "NG033008_bille",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_bukuma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bukuma",
+      "en": "Bukuma",
+      "slug": "bukuma"
+    },
+    "code": {
+      "id": "NG033008_bukuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_degema-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Degema I",
+      "en": "Degema I",
+      "slug": "degema-i"
+    },
+    "code": {
+      "id": "NG033008_degema-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_degema-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Degema Ii",
+      "en": "Degema Ii",
+      "slug": "degema-ii"
+    },
+    "code": {
+      "id": "NG033008_degema-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_degema-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Degema Iii",
+      "en": "Degema Iii",
+      "slug": "degema-iii"
+    },
+    "code": {
+      "id": "NG033008_degema-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_keold-bakana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ke/old Bakana",
+      "en": "Ke/old Bakana",
+      "slug": "keold-bakana"
+    },
+    "code": {
+      "id": "NG033008_keold-bakana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_obuama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obuama",
+      "en": "Obuama",
+      "slug": "obuama"
+    },
+    "code": {
+      "id": "NG033008_obuama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_tombia-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tombia I",
+      "en": "Tombia I",
+      "slug": "tombia-i"
+    },
+    "code": {
+      "id": "NG033008_tombia-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_tombia-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tombia Ii",
+      "en": "Tombia Ii",
+      "slug": "tombia-ii"
+    },
+    "code": {
+      "id": "NG033008_tombia-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_tombia-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tombia Iii",
+      "en": "Tombia Iii",
+      "slug": "tombia-iii"
+    },
+    "code": {
+      "id": "NG033008_tombia-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008_tombia-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tombia Iv",
+      "en": "Tombia Iv",
+      "slug": "tombia-iv"
+    },
+    "code": {
+      "id": "NG033008_tombia-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033008",
+      "level": 2,
+      "name": {
+        "local": "Degema",
+        "en": "Degema",
+        "slug": "degema-ng033008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033008",
+        "level": 2,
+        "name": {
+          "local": "Degema",
+          "en": "Degema",
+          "slug": "degema-ng033008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

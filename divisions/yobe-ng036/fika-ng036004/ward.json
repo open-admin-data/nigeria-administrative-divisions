@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG036004_dayachana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daya/chana",
+      "en": "Daya/chana",
+      "slug": "dayachana"
+    },
+    "code": {
+      "id": "NG036004_dayachana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036004",
+      "level": 2,
+      "name": {
+        "local": "Fika",
+        "en": "Fika",
+        "slug": "fika-ng036004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036004",
+        "level": 2,
+        "name": {
+          "local": "Fika",
+          "en": "Fika",
+          "slug": "fika-ng036004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.351",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036004_fikaanze",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fika/anze",
+      "en": "Fika/anze",
+      "slug": "fikaanze"
+    },
+    "code": {
+      "id": "NG036004_fikaanze",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036004",
+      "level": 2,
+      "name": {
+        "local": "Fika",
+        "en": "Fika",
+        "slug": "fika-ng036004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036004",
+        "level": 2,
+        "name": {
+          "local": "Fika",
+          "en": "Fika",
+          "slug": "fika-ng036004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.271",
+      "lon": "11.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036004_gadakashembire",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gadaka/shembire",
+      "en": "Gadaka/shembire",
+      "slug": "gadakashembire"
+    },
+    "code": {
+      "id": "NG036004_gadakashembire",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036004",
+      "level": 2,
+      "name": {
+        "local": "Fika",
+        "en": "Fika",
+        "slug": "fika-ng036004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036004",
+        "level": 2,
+        "name": {
+          "local": "Fika",
+          "en": "Fika",
+          "slug": "fika-ng036004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.337",
+      "lon": "11.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036004_gudi-dozi-godo-woli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gudi / Dozi / Godo Woli",
+      "en": "Gudi / Dozi / Godo Woli",
+      "slug": "gudi-dozi-godo-woli"
+    },
+    "code": {
+      "id": "NG036004_gudi-dozi-godo-woli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036004",
+      "level": 2,
+      "name": {
+        "local": "Fika",
+        "en": "Fika",
+        "slug": "fika-ng036004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036004",
+        "level": 2,
+        "name": {
+          "local": "Fika",
+          "en": "Fika",
+          "slug": "fika-ng036004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.363",
+      "lon": "11.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036004_janga-boza-fa-sawa-t-nanai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Janga / Boza / Fa. Sawa / T. Nanai",
+      "en": "Janga / Boza / Fa. Sawa / T. Nanai",
+      "slug": "janga-boza-fa-sawa-t-nanai"
+    },
+    "code": {
+      "id": "NG036004_janga-boza-fa-sawa-t-nanai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036004",
+      "level": 2,
+      "name": {
+        "local": "Fika",
+        "en": "Fika",
+        "slug": "fika-ng036004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036004",
+        "level": 2,
+        "name": {
+          "local": "Fika",
+          "en": "Fika",
+          "slug": "fika-ng036004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.528",
+      "lon": "11.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036004_mubi-fusami-garin-wayo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mubi / Fusami / Garin Wayo",
+      "en": "Mubi / Fusami / Garin Wayo",
+      "slug": "mubi-fusami-garin-wayo"
+    },
+    "code": {
+      "id": "NG036004_mubi-fusami-garin-wayo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036004",
+      "level": 2,
+      "name": {
+        "local": "Fika",
+        "en": "Fika",
+        "slug": "fika-ng036004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036004",
+        "level": 2,
+        "name": {
+          "local": "Fika",
+          "en": "Fika",
+          "slug": "fika-ng036004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.222",
+      "lon": "11.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036004_ngaldadumbulwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngalda/dumbulwa",
+      "en": "Ngalda/dumbulwa",
+      "slug": "ngaldadumbulwa"
+    },
+    "code": {
+      "id": "NG036004_ngaldadumbulwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036004",
+      "level": 2,
+      "name": {
+        "local": "Fika",
+        "en": "Fika",
+        "slug": "fika-ng036004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036004",
+        "level": 2,
+        "name": {
+          "local": "Fika",
+          "en": "Fika",
+          "slug": "fika-ng036004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.138",
+      "lon": "11.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036004_shoyegarin-aba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shoye/garin Aba",
+      "en": "Shoye/garin Aba",
+      "slug": "shoyegarin-aba"
+    },
+    "code": {
+      "id": "NG036004_shoyegarin-aba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036004",
+      "level": 2,
+      "name": {
+        "local": "Fika",
+        "en": "Fika",
+        "slug": "fika-ng036004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036004",
+        "level": 2,
+        "name": {
+          "local": "Fika",
+          "en": "Fika",
+          "slug": "fika-ng036004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.288",
+      "lon": "11.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036004_turmi-maluri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Turmi / Maluri",
+      "en": "Turmi / Maluri",
+      "slug": "turmi-maluri"
+    },
+    "code": {
+      "id": "NG036004_turmi-maluri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036004",
+      "level": 2,
+      "name": {
+        "local": "Fika",
+        "en": "Fika",
+        "slug": "fika-ng036004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036004",
+        "level": 2,
+        "name": {
+          "local": "Fika",
+          "en": "Fika",
+          "slug": "fika-ng036004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.334",
+      "lon": "11.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036004_zangayamazawaun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zangaya/mazawaun",
+      "en": "Zangaya/mazawaun",
+      "slug": "zangayamazawaun"
+    },
+    "code": {
+      "id": "NG036004_zangayamazawaun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036004",
+      "level": 2,
+      "name": {
+        "local": "Fika",
+        "en": "Fika",
+        "slug": "fika-ng036004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036004",
+        "level": 2,
+        "name": {
+          "local": "Fika",
+          "en": "Fika",
+          "slug": "fika-ng036004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.264",
+      "lon": "11.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

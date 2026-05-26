@@ -1,0 +1,47 @@
+{
+  "id": "NG003009",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ibesikpo Asutan",
+    "en": "Ibesikpo Asutan",
+    "slug": "ibesikpo-asutan-ng003009"
+  },
+  "code": {
+    "id": "NG003009",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG003",
+    "level": 1,
+    "name": {
+      "local": "Akwa Ibom",
+      "en": "Akwa Ibom",
+      "slug": "akwa-ibom-ng003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.896",
+    "lon": "7.966"
+  },
+  "metadata": {},
+  "source": {}
+}

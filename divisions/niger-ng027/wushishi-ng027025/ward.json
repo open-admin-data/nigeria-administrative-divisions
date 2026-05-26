@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG027025_akare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akare",
+      "en": "Akare",
+      "slug": "akare"
+    },
+    "code": {
+      "id": "NG027025_akare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027025",
+      "level": 2,
+      "name": {
+        "local": "Wushishi",
+        "en": "Wushishi",
+        "slug": "wushishi-ng027025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027025",
+        "level": 2,
+        "name": {
+          "local": "Wushishi",
+          "en": "Wushishi",
+          "slug": "wushishi-ng027025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "5.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027025_barwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Barwa",
+      "en": "Barwa",
+      "slug": "barwa"
+    },
+    "code": {
+      "id": "NG027025_barwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027025",
+      "level": 2,
+      "name": {
+        "local": "Wushishi",
+        "en": "Wushishi",
+        "slug": "wushishi-ng027025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027025",
+        "level": 2,
+        "name": {
+          "local": "Wushishi",
+          "en": "Wushishi",
+          "slug": "wushishi-ng027025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "5.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027025_gwarjiko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwarjiko",
+      "en": "Gwarjiko",
+      "slug": "gwarjiko"
+    },
+    "code": {
+      "id": "NG027025_gwarjiko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027025",
+      "level": 2,
+      "name": {
+        "local": "Wushishi",
+        "en": "Wushishi",
+        "slug": "wushishi-ng027025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027025",
+        "level": 2,
+        "name": {
+          "local": "Wushishi",
+          "en": "Wushishi",
+          "slug": "wushishi-ng027025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "5.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027025_kanwuri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanwuri",
+      "en": "Kanwuri",
+      "slug": "kanwuri"
+    },
+    "code": {
+      "id": "NG027025_kanwuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027025",
+      "level": 2,
+      "name": {
+        "local": "Wushishi",
+        "en": "Wushishi",
+        "slug": "wushishi-ng027025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027025",
+        "level": 2,
+        "name": {
+          "local": "Wushishi",
+          "en": "Wushishi",
+          "slug": "wushishi-ng027025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "5.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027025_kodo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kodo",
+      "en": "Kodo",
+      "slug": "kodo"
+    },
+    "code": {
+      "id": "NG027025_kodo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027025",
+      "level": 2,
+      "name": {
+        "local": "Wushishi",
+        "en": "Wushishi",
+        "slug": "wushishi-ng027025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027025",
+        "level": 2,
+        "name": {
+          "local": "Wushishi",
+          "en": "Wushishi",
+          "slug": "wushishi-ng027025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "5.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027025_kwata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwata",
+      "en": "Kwata",
+      "slug": "kwata"
+    },
+    "code": {
+      "id": "NG027025_kwata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027025",
+      "level": 2,
+      "name": {
+        "local": "Wushishi",
+        "en": "Wushishi",
+        "slug": "wushishi-ng027025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027025",
+        "level": 2,
+        "name": {
+          "local": "Wushishi",
+          "en": "Wushishi",
+          "slug": "wushishi-ng027025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "5.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027025_lokogoma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lokogoma",
+      "en": "Lokogoma",
+      "slug": "lokogoma"
+    },
+    "code": {
+      "id": "NG027025_lokogoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027025",
+      "level": 2,
+      "name": {
+        "local": "Wushishi",
+        "en": "Wushishi",
+        "slug": "wushishi-ng027025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027025",
+        "level": 2,
+        "name": {
+          "local": "Wushishi",
+          "en": "Wushishi",
+          "slug": "wushishi-ng027025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "5.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027025_maito",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maito",
+      "en": "Maito",
+      "slug": "maito"
+    },
+    "code": {
+      "id": "NG027025_maito",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027025",
+      "level": 2,
+      "name": {
+        "local": "Wushishi",
+        "en": "Wushishi",
+        "slug": "wushishi-ng027025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027025",
+        "level": 2,
+        "name": {
+          "local": "Wushishi",
+          "en": "Wushishi",
+          "slug": "wushishi-ng027025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "5.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027025_sabon-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Gari",
+      "en": "Sabon Gari",
+      "slug": "sabon-gari"
+    },
+    "code": {
+      "id": "NG027025_sabon-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027025",
+      "level": 2,
+      "name": {
+        "local": "Wushishi",
+        "en": "Wushishi",
+        "slug": "wushishi-ng027025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027025",
+        "level": 2,
+        "name": {
+          "local": "Wushishi",
+          "en": "Wushishi",
+          "slug": "wushishi-ng027025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "5.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027025_tukunjiyamigi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tukunji/yamigi",
+      "en": "Tukunji/yamigi",
+      "slug": "tukunjiyamigi"
+    },
+    "code": {
+      "id": "NG027025_tukunjiyamigi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027025",
+      "level": 2,
+      "name": {
+        "local": "Wushishi",
+        "en": "Wushishi",
+        "slug": "wushishi-ng027025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027025",
+        "level": 2,
+        "name": {
+          "local": "Wushishi",
+          "en": "Wushishi",
+          "slug": "wushishi-ng027025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "5.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027025_zungeru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zungeru",
+      "en": "Zungeru",
+      "slug": "zungeru"
+    },
+    "code": {
+      "id": "NG027025_zungeru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027025",
+      "level": 2,
+      "name": {
+        "local": "Wushishi",
+        "en": "Wushishi",
+        "slug": "wushishi-ng027025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027025",
+        "level": 2,
+        "name": {
+          "local": "Wushishi",
+          "en": "Wushishi",
+          "slug": "wushishi-ng027025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.71",
+      "lon": "5.912"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020032_dawaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dawaki",
+      "en": "Dawaki",
+      "slug": "dawaki"
+    },
+    "code": {
+      "id": "NG020032_dawaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020032",
+      "level": 2,
+      "name": {
+        "local": "Rano",
+        "en": "Rano",
+        "slug": "rano-ng020032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020032",
+        "level": 2,
+        "name": {
+          "local": "Rano",
+          "en": "Rano",
+          "slug": "rano-ng020032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.484",
+      "lon": "8.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020032_lausu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lausu",
+      "en": "Lausu",
+      "slug": "lausu"
+    },
+    "code": {
+      "id": "NG020032_lausu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020032",
+      "level": 2,
+      "name": {
+        "local": "Rano",
+        "en": "Rano",
+        "slug": "rano-ng020032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020032",
+        "level": 2,
+        "name": {
+          "local": "Rano",
+          "en": "Rano",
+          "slug": "rano-ng020032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.484",
+      "lon": "8.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020032_madachi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madachi",
+      "en": "Madachi",
+      "slug": "madachi"
+    },
+    "code": {
+      "id": "NG020032_madachi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020032",
+      "level": 2,
+      "name": {
+        "local": "Rano",
+        "en": "Rano",
+        "slug": "rano-ng020032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020032",
+        "level": 2,
+        "name": {
+          "local": "Rano",
+          "en": "Rano",
+          "slug": "rano-ng020032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.484",
+      "lon": "8.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020032_rano",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rano",
+      "en": "Rano",
+      "slug": "rano"
+    },
+    "code": {
+      "id": "NG020032_rano",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020032",
+      "level": 2,
+      "name": {
+        "local": "Rano",
+        "en": "Rano",
+        "slug": "rano-ng020032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020032",
+        "level": 2,
+        "name": {
+          "local": "Rano",
+          "en": "Rano",
+          "slug": "rano-ng020032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.484",
+      "lon": "8.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020032_rurum-sabon-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rurum Sabon-gari",
+      "en": "Rurum Sabon-gari",
+      "slug": "rurum-sabon-gari"
+    },
+    "code": {
+      "id": "NG020032_rurum-sabon-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020032",
+      "level": 2,
+      "name": {
+        "local": "Rano",
+        "en": "Rano",
+        "slug": "rano-ng020032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020032",
+        "level": 2,
+        "name": {
+          "local": "Rano",
+          "en": "Rano",
+          "slug": "rano-ng020032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.484",
+      "lon": "8.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020032_rurum-tsohon-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rurum Tsohon-gari",
+      "en": "Rurum Tsohon-gari",
+      "slug": "rurum-tsohon-gari"
+    },
+    "code": {
+      "id": "NG020032_rurum-tsohon-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020032",
+      "level": 2,
+      "name": {
+        "local": "Rano",
+        "en": "Rano",
+        "slug": "rano-ng020032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020032",
+        "level": 2,
+        "name": {
+          "local": "Rano",
+          "en": "Rano",
+          "slug": "rano-ng020032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.484",
+      "lon": "8.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020032_saji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Saji",
+      "en": "Saji",
+      "slug": "saji"
+    },
+    "code": {
+      "id": "NG020032_saji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020032",
+      "level": 2,
+      "name": {
+        "local": "Rano",
+        "en": "Rano",
+        "slug": "rano-ng020032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020032",
+        "level": 2,
+        "name": {
+          "local": "Rano",
+          "en": "Rano",
+          "slug": "rano-ng020032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.484",
+      "lon": "8.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020032_yalwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yalwa",
+      "en": "Yalwa",
+      "slug": "yalwa"
+    },
+    "code": {
+      "id": "NG020032_yalwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020032",
+      "level": 2,
+      "name": {
+        "local": "Rano",
+        "en": "Rano",
+        "slug": "rano-ng020032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020032",
+        "level": 2,
+        "name": {
+          "local": "Rano",
+          "en": "Rano",
+          "slug": "rano-ng020032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.484",
+      "lon": "8.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020032_zinyau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zinyau",
+      "en": "Zinyau",
+      "slug": "zinyau"
+    },
+    "code": {
+      "id": "NG020032_zinyau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020032",
+      "level": 2,
+      "name": {
+        "local": "Rano",
+        "en": "Rano",
+        "slug": "rano-ng020032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020032",
+        "level": 2,
+        "name": {
+          "local": "Rano",
+          "en": "Rano",
+          "slug": "rano-ng020032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.484",
+      "lon": "8.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020032_zurgu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zurgu",
+      "en": "Zurgu",
+      "slug": "zurgu"
+    },
+    "code": {
+      "id": "NG020032_zurgu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020032",
+      "level": 2,
+      "name": {
+        "local": "Rano",
+        "en": "Rano",
+        "slug": "rano-ng020032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020032",
+        "level": 2,
+        "name": {
+          "local": "Rano",
+          "en": "Rano",
+          "slug": "rano-ng020032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.484",
+      "lon": "8.51"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

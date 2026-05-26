@@ -1,0 +1,47 @@
+{
+  "id": "NG013010",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ikere",
+    "en": "Ikere",
+    "slug": "ikere-ng013010"
+  },
+  "code": {
+    "id": "NG013010",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG013",
+    "level": 1,
+    "name": {
+      "local": "Ekiti",
+      "en": "Ekiti",
+      "slug": "ekiti-ng013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG013",
+      "level": 1,
+      "name": {
+        "local": "Ekiti",
+        "en": "Ekiti",
+        "slug": "ekiti-ng013"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.494",
+    "lon": "5.209"
+  },
+  "metadata": {},
+  "source": {}
+}

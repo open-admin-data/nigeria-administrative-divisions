@@ -1,0 +1,30 @@
+{
+  "id": "NG032",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Plateau",
+    "en": "Plateau",
+    "slug": "plateau-ng032"
+  },
+  "code": {
+    "id": "NG032",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 17,
+    "ward": 217
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.38",
+    "lon": "9.628"
+  },
+  "metadata": {},
+  "source": {}
+}

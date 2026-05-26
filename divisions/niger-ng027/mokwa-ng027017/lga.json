@@ -1,0 +1,47 @@
+{
+  "id": "NG027017",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Mokwa",
+    "en": "Mokwa",
+    "slug": "mokwa-ng027017"
+  },
+  "code": {
+    "id": "NG027017",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG027",
+    "level": 1,
+    "name": {
+      "local": "Niger",
+      "en": "Niger",
+      "slug": "niger-ng027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG027",
+      "level": 1,
+      "name": {
+        "local": "Niger",
+        "en": "Niger",
+        "slug": "niger-ng027"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.121",
+    "lon": "5.324"
+  },
+  "metadata": {},
+  "source": {}
+}

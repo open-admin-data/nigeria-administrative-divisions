@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG010009_elluradheoovrode",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ellu/radheo/ovrode",
+      "en": "Ellu/radheo/ovrode",
+      "slug": "elluradheoovrode"
+    },
+    "code": {
+      "id": "NG010009_elluradheoovrode",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009_emevor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Emevor",
+      "en": "Emevor",
+      "slug": "emevor"
+    },
+    "code": {
+      "id": "NG010009_emevor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009_iluelogbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iluelogbo",
+      "en": "Iluelogbo",
+      "slug": "iluelogbo"
+    },
+    "code": {
+      "id": "NG010009_iluelogbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009_iyede-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iyede I",
+      "en": "Iyede I",
+      "slug": "iyede-i"
+    },
+    "code": {
+      "id": "NG010009_iyede-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009_iyede-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iyede Ii",
+      "en": "Iyede Ii",
+      "slug": "iyede-ii"
+    },
+    "code": {
+      "id": "NG010009_iyede-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009_ofagbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ofagbe",
+      "en": "Ofagbe",
+      "slug": "ofagbe"
+    },
+    "code": {
+      "id": "NG010009_ofagbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009_okpe---isoko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpe - Isoko",
+      "en": "Okpe - Isoko",
+      "slug": "okpe---isoko"
+    },
+    "code": {
+      "id": "NG010009_okpe---isoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009_otibio",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otibio",
+      "en": "Otibio",
+      "slug": "otibio"
+    },
+    "code": {
+      "id": "NG010009_otibio",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009_owheakiehwe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owhe/akiehwe",
+      "en": "Owhe/akiehwe",
+      "slug": "owheakiehwe"
+    },
+    "code": {
+      "id": "NG010009_owheakiehwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009_oyede",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oyede",
+      "en": "Oyede",
+      "slug": "oyede"
+    },
+    "code": {
+      "id": "NG010009_oyede",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009_ozoro-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ozoro I",
+      "en": "Ozoro I",
+      "slug": "ozoro-i"
+    },
+    "code": {
+      "id": "NG010009_ozoro-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009_ozoro-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ozoro Ii",
+      "en": "Ozoro Ii",
+      "slug": "ozoro-ii"
+    },
+    "code": {
+      "id": "NG010009_ozoro-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009_ozoro-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ozoro Iii",
+      "en": "Ozoro Iii",
+      "slug": "ozoro-iii"
+    },
+    "code": {
+      "id": "NG010009_ozoro-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010009",
+      "level": 2,
+      "name": {
+        "local": "Isoko North",
+        "en": "Isoko North",
+        "slug": "isoko-north-ng010009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010009",
+        "level": 2,
+        "name": {
+          "local": "Isoko North",
+          "en": "Isoko North",
+          "slug": "isoko-north-ng010009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

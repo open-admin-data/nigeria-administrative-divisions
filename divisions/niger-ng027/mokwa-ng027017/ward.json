@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG027017_bokani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bokani",
+      "en": "Bokani",
+      "slug": "bokani"
+    },
+    "code": {
+      "id": "NG027017_bokani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027017",
+      "level": 2,
+      "name": {
+        "local": "Mokwa",
+        "en": "Mokwa",
+        "slug": "mokwa-ng027017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027017",
+        "level": 2,
+        "name": {
+          "local": "Mokwa",
+          "en": "Mokwa",
+          "slug": "mokwa-ng027017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.121",
+      "lon": "5.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027017_gbajibomuwo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gbajibo/muwo",
+      "en": "Gbajibo/muwo",
+      "slug": "gbajibomuwo"
+    },
+    "code": {
+      "id": "NG027017_gbajibomuwo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027017",
+      "level": 2,
+      "name": {
+        "local": "Mokwa",
+        "en": "Mokwa",
+        "slug": "mokwa-ng027017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027017",
+        "level": 2,
+        "name": {
+          "local": "Mokwa",
+          "en": "Mokwa",
+          "slug": "mokwa-ng027017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.121",
+      "lon": "5.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027017_gbara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gbara",
+      "en": "Gbara",
+      "slug": "gbara"
+    },
+    "code": {
+      "id": "NG027017_gbara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027017",
+      "level": 2,
+      "name": {
+        "local": "Mokwa",
+        "en": "Mokwa",
+        "slug": "mokwa-ng027017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027017",
+        "level": 2,
+        "name": {
+          "local": "Mokwa",
+          "en": "Mokwa",
+          "slug": "mokwa-ng027017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.121",
+      "lon": "5.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027017_jaagi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ja'agi",
+      "en": "Ja'agi",
+      "slug": "jaagi"
+    },
+    "code": {
+      "id": "NG027017_jaagi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027017",
+      "level": 2,
+      "name": {
+        "local": "Mokwa",
+        "en": "Mokwa",
+        "slug": "mokwa-ng027017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027017",
+        "level": 2,
+        "name": {
+          "local": "Mokwa",
+          "en": "Mokwa",
+          "slug": "mokwa-ng027017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.121",
+      "lon": "5.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027017_jebba-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jebba North",
+      "en": "Jebba North",
+      "slug": "jebba-north"
+    },
+    "code": {
+      "id": "NG027017_jebba-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027017",
+      "level": 2,
+      "name": {
+        "local": "Mokwa",
+        "en": "Mokwa",
+        "slug": "mokwa-ng027017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027017",
+        "level": 2,
+        "name": {
+          "local": "Mokwa",
+          "en": "Mokwa",
+          "slug": "mokwa-ng027017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.121",
+      "lon": "5.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027017_kpakitakuma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kpaki/takuma",
+      "en": "Kpaki/takuma",
+      "slug": "kpakitakuma"
+    },
+    "code": {
+      "id": "NG027017_kpakitakuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027017",
+      "level": 2,
+      "name": {
+        "local": "Mokwa",
+        "en": "Mokwa",
+        "slug": "mokwa-ng027017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027017",
+        "level": 2,
+        "name": {
+          "local": "Mokwa",
+          "en": "Mokwa",
+          "slug": "mokwa-ng027017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.121",
+      "lon": "5.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027017_kudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kudu",
+      "en": "Kudu",
+      "slug": "kudu"
+    },
+    "code": {
+      "id": "NG027017_kudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027017",
+      "level": 2,
+      "name": {
+        "local": "Mokwa",
+        "en": "Mokwa",
+        "slug": "mokwa-ng027017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027017",
+        "level": 2,
+        "name": {
+          "local": "Mokwa",
+          "en": "Mokwa",
+          "slug": "mokwa-ng027017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.121",
+      "lon": "5.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027017_labozhi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Labozhi",
+      "en": "Labozhi",
+      "slug": "labozhi"
+    },
+    "code": {
+      "id": "NG027017_labozhi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027017",
+      "level": 2,
+      "name": {
+        "local": "Mokwa",
+        "en": "Mokwa",
+        "slug": "mokwa-ng027017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027017",
+        "level": 2,
+        "name": {
+          "local": "Mokwa",
+          "en": "Mokwa",
+          "slug": "mokwa-ng027017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.121",
+      "lon": "5.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027017_mokwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mokwa",
+      "en": "Mokwa",
+      "slug": "mokwa"
+    },
+    "code": {
+      "id": "NG027017_mokwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027017",
+      "level": 2,
+      "name": {
+        "local": "Mokwa",
+        "en": "Mokwa",
+        "slug": "mokwa-ng027017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027017",
+        "level": 2,
+        "name": {
+          "local": "Mokwa",
+          "en": "Mokwa",
+          "slug": "mokwa-ng027017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.121",
+      "lon": "5.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027017_muregi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Muregi",
+      "en": "Muregi",
+      "slug": "muregi"
+    },
+    "code": {
+      "id": "NG027017_muregi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027017",
+      "level": 2,
+      "name": {
+        "local": "Mokwa",
+        "en": "Mokwa",
+        "slug": "mokwa-ng027017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027017",
+        "level": 2,
+        "name": {
+          "local": "Mokwa",
+          "en": "Mokwa",
+          "slug": "mokwa-ng027017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.121",
+      "lon": "5.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027017_rabbandayako",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rabba/ndayako",
+      "en": "Rabba/ndayako",
+      "slug": "rabbandayako"
+    },
+    "code": {
+      "id": "NG027017_rabbandayako",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027017",
+      "level": 2,
+      "name": {
+        "local": "Mokwa",
+        "en": "Mokwa",
+        "slug": "mokwa-ng027017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027017",
+        "level": 2,
+        "name": {
+          "local": "Mokwa",
+          "en": "Mokwa",
+          "slug": "mokwa-ng027017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.121",
+      "lon": "5.324"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

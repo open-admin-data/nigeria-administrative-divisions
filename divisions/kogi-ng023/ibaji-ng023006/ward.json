@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG023006_akpanyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akpanyo",
+      "en": "Akpanyo",
+      "slug": "akpanyo"
+    },
+    "code": {
+      "id": "NG023006_akpanyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023006",
+      "level": 2,
+      "name": {
+        "local": "Ibaji",
+        "en": "Ibaji",
+        "slug": "ibaji-ng023006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023006",
+        "level": 2,
+        "name": {
+          "local": "Ibaji",
+          "en": "Ibaji",
+          "slug": "ibaji-ng023006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "6.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023006_analo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Analo",
+      "en": "Analo",
+      "slug": "analo"
+    },
+    "code": {
+      "id": "NG023006_analo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023006",
+      "level": 2,
+      "name": {
+        "local": "Ibaji",
+        "en": "Ibaji",
+        "slug": "ibaji-ng023006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023006",
+        "level": 2,
+        "name": {
+          "local": "Ibaji",
+          "en": "Ibaji",
+          "slug": "ibaji-ng023006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "6.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023006_ayah",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayah",
+      "en": "Ayah",
+      "slug": "ayah"
+    },
+    "code": {
+      "id": "NG023006_ayah",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023006",
+      "level": 2,
+      "name": {
+        "local": "Ibaji",
+        "en": "Ibaji",
+        "slug": "ibaji-ng023006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023006",
+        "level": 2,
+        "name": {
+          "local": "Ibaji",
+          "en": "Ibaji",
+          "slug": "ibaji-ng023006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "6.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023006_ejule",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ejule",
+      "en": "Ejule",
+      "slug": "ejule"
+    },
+    "code": {
+      "id": "NG023006_ejule",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023006",
+      "level": 2,
+      "name": {
+        "local": "Ibaji",
+        "en": "Ibaji",
+        "slug": "ibaji-ng023006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023006",
+        "level": 2,
+        "name": {
+          "local": "Ibaji",
+          "en": "Ibaji",
+          "slug": "ibaji-ng023006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "6.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023006_iyano",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iyano",
+      "en": "Iyano",
+      "slug": "iyano"
+    },
+    "code": {
+      "id": "NG023006_iyano",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023006",
+      "level": 2,
+      "name": {
+        "local": "Ibaji",
+        "en": "Ibaji",
+        "slug": "ibaji-ng023006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023006",
+        "level": 2,
+        "name": {
+          "local": "Ibaji",
+          "en": "Ibaji",
+          "slug": "ibaji-ng023006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "6.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023006_odeke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odeke",
+      "en": "Odeke",
+      "slug": "odeke"
+    },
+    "code": {
+      "id": "NG023006_odeke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023006",
+      "level": 2,
+      "name": {
+        "local": "Ibaji",
+        "en": "Ibaji",
+        "slug": "ibaji-ng023006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023006",
+        "level": 2,
+        "name": {
+          "local": "Ibaji",
+          "en": "Ibaji",
+          "slug": "ibaji-ng023006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "6.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023006_ojila",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojila",
+      "en": "Ojila",
+      "slug": "ojila"
+    },
+    "code": {
+      "id": "NG023006_ojila",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023006",
+      "level": 2,
+      "name": {
+        "local": "Ibaji",
+        "en": "Ibaji",
+        "slug": "ibaji-ng023006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023006",
+        "level": 2,
+        "name": {
+          "local": "Ibaji",
+          "en": "Ibaji",
+          "slug": "ibaji-ng023006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "6.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023006_onyedega",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Onyedega",
+      "en": "Onyedega",
+      "slug": "onyedega"
+    },
+    "code": {
+      "id": "NG023006_onyedega",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023006",
+      "level": 2,
+      "name": {
+        "local": "Ibaji",
+        "en": "Ibaji",
+        "slug": "ibaji-ng023006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023006",
+        "level": 2,
+        "name": {
+          "local": "Ibaji",
+          "en": "Ibaji",
+          "slug": "ibaji-ng023006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "6.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023006_ujeh",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ujeh",
+      "en": "Ujeh",
+      "slug": "ujeh"
+    },
+    "code": {
+      "id": "NG023006_ujeh",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023006",
+      "level": 2,
+      "name": {
+        "local": "Ibaji",
+        "en": "Ibaji",
+        "slug": "ibaji-ng023006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023006",
+        "level": 2,
+        "name": {
+          "local": "Ibaji",
+          "en": "Ibaji",
+          "slug": "ibaji-ng023006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "6.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023006_unale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unale",
+      "en": "Unale",
+      "slug": "unale"
+    },
+    "code": {
+      "id": "NG023006_unale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023006",
+      "level": 2,
+      "name": {
+        "local": "Ibaji",
+        "en": "Ibaji",
+        "slug": "ibaji-ng023006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023006",
+        "level": 2,
+        "name": {
+          "local": "Ibaji",
+          "en": "Ibaji",
+          "slug": "ibaji-ng023006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "6.758"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

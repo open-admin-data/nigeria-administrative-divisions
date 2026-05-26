@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG023012_eggan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eggan",
+      "en": "Eggan",
+      "slug": "eggan"
+    },
+    "code": {
+      "id": "NG023012_eggan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023012",
+      "level": 2,
+      "name": {
+        "local": "Lokoja",
+        "en": "Lokoja",
+        "slug": "lokoja-ng023012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023012",
+        "level": 2,
+        "name": {
+          "local": "Lokoja",
+          "en": "Lokoja",
+          "slug": "lokoja-ng023012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.239",
+      "lon": "6.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023012_kakanda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kakanda",
+      "en": "Kakanda",
+      "slug": "kakanda"
+    },
+    "code": {
+      "id": "NG023012_kakanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023012",
+      "level": 2,
+      "name": {
+        "local": "Lokoja",
+        "en": "Lokoja",
+        "slug": "lokoja-ng023012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023012",
+        "level": 2,
+        "name": {
+          "local": "Lokoja",
+          "en": "Lokoja",
+          "slug": "lokoja-ng023012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.239",
+      "lon": "6.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023012_kupa-north-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kupa North East",
+      "en": "Kupa North East",
+      "slug": "kupa-north-east"
+    },
+    "code": {
+      "id": "NG023012_kupa-north-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023012",
+      "level": 2,
+      "name": {
+        "local": "Lokoja",
+        "en": "Lokoja",
+        "slug": "lokoja-ng023012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023012",
+        "level": 2,
+        "name": {
+          "local": "Lokoja",
+          "en": "Lokoja",
+          "slug": "lokoja-ng023012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.239",
+      "lon": "6.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023012_kupa-south-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kupa South West",
+      "en": "Kupa South West",
+      "slug": "kupa-south-west"
+    },
+    "code": {
+      "id": "NG023012_kupa-south-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023012",
+      "level": 2,
+      "name": {
+        "local": "Lokoja",
+        "en": "Lokoja",
+        "slug": "lokoja-ng023012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023012",
+        "level": 2,
+        "name": {
+          "local": "Lokoja",
+          "en": "Lokoja",
+          "slug": "lokoja-ng023012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.239",
+      "lon": "6.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023012_lokoja---a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lokoja - A",
+      "en": "Lokoja - A",
+      "slug": "lokoja---a"
+    },
+    "code": {
+      "id": "NG023012_lokoja---a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023012",
+      "level": 2,
+      "name": {
+        "local": "Lokoja",
+        "en": "Lokoja",
+        "slug": "lokoja-ng023012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023012",
+        "level": 2,
+        "name": {
+          "local": "Lokoja",
+          "en": "Lokoja",
+          "slug": "lokoja-ng023012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.239",
+      "lon": "6.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023012_lokoja---b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lokoja - B",
+      "en": "Lokoja - B",
+      "slug": "lokoja---b"
+    },
+    "code": {
+      "id": "NG023012_lokoja---b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023012",
+      "level": 2,
+      "name": {
+        "local": "Lokoja",
+        "en": "Lokoja",
+        "slug": "lokoja-ng023012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023012",
+        "level": 2,
+        "name": {
+          "local": "Lokoja",
+          "en": "Lokoja",
+          "slug": "lokoja-ng023012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.239",
+      "lon": "6.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023012_lokoja---c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lokoja - C",
+      "en": "Lokoja - C",
+      "slug": "lokoja---c"
+    },
+    "code": {
+      "id": "NG023012_lokoja---c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023012",
+      "level": 2,
+      "name": {
+        "local": "Lokoja",
+        "en": "Lokoja",
+        "slug": "lokoja-ng023012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023012",
+        "level": 2,
+        "name": {
+          "local": "Lokoja",
+          "en": "Lokoja",
+          "slug": "lokoja-ng023012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.239",
+      "lon": "6.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023012_lokoja---d",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lokoja - D",
+      "en": "Lokoja - D",
+      "slug": "lokoja---d"
+    },
+    "code": {
+      "id": "NG023012_lokoja---d",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023012",
+      "level": 2,
+      "name": {
+        "local": "Lokoja",
+        "en": "Lokoja",
+        "slug": "lokoja-ng023012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023012",
+        "level": 2,
+        "name": {
+          "local": "Lokoja",
+          "en": "Lokoja",
+          "slug": "lokoja-ng023012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.239",
+      "lon": "6.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023012_lokoja---e",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lokoja - E",
+      "en": "Lokoja - E",
+      "slug": "lokoja---e"
+    },
+    "code": {
+      "id": "NG023012_lokoja---e",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023012",
+      "level": 2,
+      "name": {
+        "local": "Lokoja",
+        "en": "Lokoja",
+        "slug": "lokoja-ng023012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023012",
+        "level": 2,
+        "name": {
+          "local": "Lokoja",
+          "en": "Lokoja",
+          "slug": "lokoja-ng023012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.239",
+      "lon": "6.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023012_oworo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oworo",
+      "en": "Oworo",
+      "slug": "oworo"
+    },
+    "code": {
+      "id": "NG023012_oworo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023012",
+      "level": 2,
+      "name": {
+        "local": "Lokoja",
+        "en": "Lokoja",
+        "slug": "lokoja-ng023012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023012",
+        "level": 2,
+        "name": {
+          "local": "Lokoja",
+          "en": "Lokoja",
+          "slug": "lokoja-ng023012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.239",
+      "lon": "6.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

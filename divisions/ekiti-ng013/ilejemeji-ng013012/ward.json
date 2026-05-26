@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG013012_eda-oniyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eda Oniyo",
+      "en": "Eda Oniyo",
+      "slug": "eda-oniyo"
+    },
+    "code": {
+      "id": "NG013012_eda-oniyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013012",
+      "level": 2,
+      "name": {
+        "local": "Ilejemeji",
+        "en": "Ilejemeji",
+        "slug": "ilejemeji-ng013012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013012",
+        "level": 2,
+        "name": {
+          "local": "Ilejemeji",
+          "en": "Ilejemeji",
+          "slug": "ilejemeji-ng013012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "5.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013012_ewu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ewu",
+      "en": "Ewu",
+      "slug": "ewu"
+    },
+    "code": {
+      "id": "NG013012_ewu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013012",
+      "level": 2,
+      "name": {
+        "local": "Ilejemeji",
+        "en": "Ilejemeji",
+        "slug": "ilejemeji-ng013012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013012",
+        "level": 2,
+        "name": {
+          "local": "Ilejemeji",
+          "en": "Ilejemeji",
+          "slug": "ilejemeji-ng013012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "5.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013012_ijesamodu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijesamodu",
+      "en": "Ijesamodu",
+      "slug": "ijesamodu"
+    },
+    "code": {
+      "id": "NG013012_ijesamodu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013012",
+      "level": 2,
+      "name": {
+        "local": "Ilejemeji",
+        "en": "Ilejemeji",
+        "slug": "ilejemeji-ng013012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013012",
+        "level": 2,
+        "name": {
+          "local": "Ilejemeji",
+          "en": "Ilejemeji",
+          "slug": "ilejemeji-ng013012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "5.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013012_iludun-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iludun I",
+      "en": "Iludun I",
+      "slug": "iludun-i"
+    },
+    "code": {
+      "id": "NG013012_iludun-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013012",
+      "level": 2,
+      "name": {
+        "local": "Ilejemeji",
+        "en": "Ilejemeji",
+        "slug": "ilejemeji-ng013012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013012",
+        "level": 2,
+        "name": {
+          "local": "Ilejemeji",
+          "en": "Ilejemeji",
+          "slug": "ilejemeji-ng013012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "5.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013012_iludun-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iludun Ii",
+      "en": "Iludun Ii",
+      "slug": "iludun-ii"
+    },
+    "code": {
+      "id": "NG013012_iludun-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013012",
+      "level": 2,
+      "name": {
+        "local": "Ilejemeji",
+        "en": "Ilejemeji",
+        "slug": "ilejemeji-ng013012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013012",
+        "level": 2,
+        "name": {
+          "local": "Ilejemeji",
+          "en": "Ilejemeji",
+          "slug": "ilejemeji-ng013012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "5.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013012_ipere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipere",
+      "en": "Ipere",
+      "slug": "ipere"
+    },
+    "code": {
+      "id": "NG013012_ipere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013012",
+      "level": 2,
+      "name": {
+        "local": "Ilejemeji",
+        "en": "Ilejemeji",
+        "slug": "ilejemeji-ng013012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013012",
+        "level": 2,
+        "name": {
+          "local": "Ilejemeji",
+          "en": "Ilejemeji",
+          "slug": "ilejemeji-ng013012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "5.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013012_iye-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iye I",
+      "en": "Iye I",
+      "slug": "iye-i"
+    },
+    "code": {
+      "id": "NG013012_iye-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013012",
+      "level": 2,
+      "name": {
+        "local": "Ilejemeji",
+        "en": "Ilejemeji",
+        "slug": "ilejemeji-ng013012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013012",
+        "level": 2,
+        "name": {
+          "local": "Ilejemeji",
+          "en": "Ilejemeji",
+          "slug": "ilejemeji-ng013012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "5.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013012_iye-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iye Ii",
+      "en": "Iye Ii",
+      "slug": "iye-ii"
+    },
+    "code": {
+      "id": "NG013012_iye-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013012",
+      "level": 2,
+      "name": {
+        "local": "Ilejemeji",
+        "en": "Ilejemeji",
+        "slug": "ilejemeji-ng013012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013012",
+        "level": 2,
+        "name": {
+          "local": "Ilejemeji",
+          "en": "Ilejemeji",
+          "slug": "ilejemeji-ng013012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "5.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013012_iye-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iye Iii",
+      "en": "Iye Iii",
+      "slug": "iye-iii"
+    },
+    "code": {
+      "id": "NG013012_iye-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013012",
+      "level": 2,
+      "name": {
+        "local": "Ilejemeji",
+        "en": "Ilejemeji",
+        "slug": "ilejemeji-ng013012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013012",
+        "level": 2,
+        "name": {
+          "local": "Ilejemeji",
+          "en": "Ilejemeji",
+          "slug": "ilejemeji-ng013012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "5.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013012_obada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obada",
+      "en": "Obada",
+      "slug": "obada"
+    },
+    "code": {
+      "id": "NG013012_obada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013012",
+      "level": 2,
+      "name": {
+        "local": "Ilejemeji",
+        "en": "Ilejemeji",
+        "slug": "ilejemeji-ng013012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013012",
+        "level": 2,
+        "name": {
+          "local": "Ilejemeji",
+          "en": "Ilejemeji",
+          "slug": "ilejemeji-ng013012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.96",
+      "lon": "5.231"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

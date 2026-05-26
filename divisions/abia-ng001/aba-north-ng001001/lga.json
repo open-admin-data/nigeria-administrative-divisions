@@ -1,0 +1,47 @@
+{
+  "id": "NG001001",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Aba North",
+    "en": "Aba North",
+    "slug": "aba-north-ng001001"
+  },
+  "code": {
+    "id": "NG001001",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG001",
+    "level": 1,
+    "name": {
+      "local": "Abia",
+      "en": "Abia",
+      "slug": "abia-ng001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.108",
+    "lon": "7.342"
+  },
+  "metadata": {},
+  "source": {}
+}

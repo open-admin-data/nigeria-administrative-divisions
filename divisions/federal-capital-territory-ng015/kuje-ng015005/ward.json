@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG015005_chibiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chibiri",
+      "en": "Chibiri",
+      "slug": "chibiri"
+    },
+    "code": {
+      "id": "NG015005_chibiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015005",
+      "level": 2,
+      "name": {
+        "local": "Kuje",
+        "en": "Kuje",
+        "slug": "kuje-ng015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015005",
+        "level": 2,
+        "name": {
+          "local": "Kuje",
+          "en": "Kuje",
+          "slug": "kuje-ng015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "7.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015005_gaube",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gaube",
+      "en": "Gaube",
+      "slug": "gaube"
+    },
+    "code": {
+      "id": "NG015005_gaube",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015005",
+      "level": 2,
+      "name": {
+        "local": "Kuje",
+        "en": "Kuje",
+        "slug": "kuje-ng015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015005",
+        "level": 2,
+        "name": {
+          "local": "Kuje",
+          "en": "Kuje",
+          "slug": "kuje-ng015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "7.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015005_gudun-karya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gudun Karya",
+      "en": "Gudun Karya",
+      "slug": "gudun-karya"
+    },
+    "code": {
+      "id": "NG015005_gudun-karya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015005",
+      "level": 2,
+      "name": {
+        "local": "Kuje",
+        "en": "Kuje",
+        "slug": "kuje-ng015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015005",
+        "level": 2,
+        "name": {
+          "local": "Kuje",
+          "en": "Kuje",
+          "slug": "kuje-ng015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "7.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015005_gwargwada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwargwada",
+      "en": "Gwargwada",
+      "slug": "gwargwada"
+    },
+    "code": {
+      "id": "NG015005_gwargwada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015005",
+      "level": 2,
+      "name": {
+        "local": "Kuje",
+        "en": "Kuje",
+        "slug": "kuje-ng015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015005",
+        "level": 2,
+        "name": {
+          "local": "Kuje",
+          "en": "Kuje",
+          "slug": "kuje-ng015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "7.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015005_kabi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kabi",
+      "en": "Kabi",
+      "slug": "kabi"
+    },
+    "code": {
+      "id": "NG015005_kabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015005",
+      "level": 2,
+      "name": {
+        "local": "Kuje",
+        "en": "Kuje",
+        "slug": "kuje-ng015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015005",
+        "level": 2,
+        "name": {
+          "local": "Kuje",
+          "en": "Kuje",
+          "slug": "kuje-ng015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "7.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015005_kuje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuje",
+      "en": "Kuje",
+      "slug": "kuje"
+    },
+    "code": {
+      "id": "NG015005_kuje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015005",
+      "level": 2,
+      "name": {
+        "local": "Kuje",
+        "en": "Kuje",
+        "slug": "kuje-ng015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015005",
+        "level": 2,
+        "name": {
+          "local": "Kuje",
+          "en": "Kuje",
+          "slug": "kuje-ng015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "7.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015005_kujekwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kujekwa",
+      "en": "Kujekwa",
+      "slug": "kujekwa"
+    },
+    "code": {
+      "id": "NG015005_kujekwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015005",
+      "level": 2,
+      "name": {
+        "local": "Kuje",
+        "en": "Kuje",
+        "slug": "kuje-ng015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015005",
+        "level": 2,
+        "name": {
+          "local": "Kuje",
+          "en": "Kuje",
+          "slug": "kuje-ng015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "7.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015005_kwaku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwaku",
+      "en": "Kwaku",
+      "slug": "kwaku"
+    },
+    "code": {
+      "id": "NG015005_kwaku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015005",
+      "level": 2,
+      "name": {
+        "local": "Kuje",
+        "en": "Kuje",
+        "slug": "kuje-ng015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015005",
+        "level": 2,
+        "name": {
+          "local": "Kuje",
+          "en": "Kuje",
+          "slug": "kuje-ng015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "7.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015005_rubochi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rubochi",
+      "en": "Rubochi",
+      "slug": "rubochi"
+    },
+    "code": {
+      "id": "NG015005_rubochi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015005",
+      "level": 2,
+      "name": {
+        "local": "Kuje",
+        "en": "Kuje",
+        "slug": "kuje-ng015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015005",
+        "level": 2,
+        "name": {
+          "local": "Kuje",
+          "en": "Kuje",
+          "slug": "kuje-ng015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "7.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015005_yenche",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yenche",
+      "en": "Yenche",
+      "slug": "yenche"
+    },
+    "code": {
+      "id": "NG015005_yenche",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015005",
+      "level": 2,
+      "name": {
+        "local": "Kuje",
+        "en": "Kuje",
+        "slug": "kuje-ng015005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015005",
+        "level": 2,
+        "name": {
+          "local": "Kuje",
+          "en": "Kuje",
+          "slug": "kuje-ng015005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "7.278"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

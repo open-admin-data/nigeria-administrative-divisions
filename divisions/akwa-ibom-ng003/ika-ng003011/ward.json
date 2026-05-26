@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG003011_achan-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Achan 11",
+      "en": "Achan 11",
+      "slug": "achan-11"
+    },
+    "code": {
+      "id": "NG003011_achan-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003011",
+      "level": 2,
+      "name": {
+        "local": "Ika",
+        "en": "Ika",
+        "slug": "ika-ng003011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003011",
+        "level": 2,
+        "name": {
+          "local": "Ika",
+          "en": "Ika",
+          "slug": "ika-ng003011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.016",
+      "lon": "7.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003011_achan-111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Achan 111",
+      "en": "Achan 111",
+      "slug": "achan-111"
+    },
+    "code": {
+      "id": "NG003011_achan-111",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003011",
+      "level": 2,
+      "name": {
+        "local": "Ika",
+        "en": "Ika",
+        "slug": "ika-ng003011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003011",
+        "level": 2,
+        "name": {
+          "local": "Ika",
+          "en": "Ika",
+          "slug": "ika-ng003011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.016",
+      "lon": "7.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003011_achan-ika",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Achan Ika",
+      "en": "Achan Ika",
+      "slug": "achan-ika"
+    },
+    "code": {
+      "id": "NG003011_achan-ika",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003011",
+      "level": 2,
+      "name": {
+        "local": "Ika",
+        "en": "Ika",
+        "slug": "ika-ng003011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003011",
+        "level": 2,
+        "name": {
+          "local": "Ika",
+          "en": "Ika",
+          "slug": "ika-ng003011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.016",
+      "lon": "7.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003011_ito-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ito 1",
+      "en": "Ito 1",
+      "slug": "ito-1"
+    },
+    "code": {
+      "id": "NG003011_ito-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003011",
+      "level": 2,
+      "name": {
+        "local": "Ika",
+        "en": "Ika",
+        "slug": "ika-ng003011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003011",
+        "level": 2,
+        "name": {
+          "local": "Ika",
+          "en": "Ika",
+          "slug": "ika-ng003011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.016",
+      "lon": "7.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003011_ito-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ito 11",
+      "en": "Ito 11",
+      "slug": "ito-11"
+    },
+    "code": {
+      "id": "NG003011_ito-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003011",
+      "level": 2,
+      "name": {
+        "local": "Ika",
+        "en": "Ika",
+        "slug": "ika-ng003011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003011",
+        "level": 2,
+        "name": {
+          "local": "Ika",
+          "en": "Ika",
+          "slug": "ika-ng003011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.016",
+      "lon": "7.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003011_ito-111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ito 111",
+      "en": "Ito 111",
+      "slug": "ito-111"
+    },
+    "code": {
+      "id": "NG003011_ito-111",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003011",
+      "level": 2,
+      "name": {
+        "local": "Ika",
+        "en": "Ika",
+        "slug": "ika-ng003011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003011",
+        "level": 2,
+        "name": {
+          "local": "Ika",
+          "en": "Ika",
+          "slug": "ika-ng003011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.016",
+      "lon": "7.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003011_odoro-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odoro 1",
+      "en": "Odoro 1",
+      "slug": "odoro-1"
+    },
+    "code": {
+      "id": "NG003011_odoro-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003011",
+      "level": 2,
+      "name": {
+        "local": "Ika",
+        "en": "Ika",
+        "slug": "ika-ng003011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003011",
+        "level": 2,
+        "name": {
+          "local": "Ika",
+          "en": "Ika",
+          "slug": "ika-ng003011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.016",
+      "lon": "7.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003011_odoro-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odoro 11",
+      "en": "Odoro 11",
+      "slug": "odoro-11"
+    },
+    "code": {
+      "id": "NG003011_odoro-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003011",
+      "level": 2,
+      "name": {
+        "local": "Ika",
+        "en": "Ika",
+        "slug": "ika-ng003011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003011",
+        "level": 2,
+        "name": {
+          "local": "Ika",
+          "en": "Ika",
+          "slug": "ika-ng003011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.016",
+      "lon": "7.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003011_urban-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Urban 1",
+      "en": "Urban 1",
+      "slug": "urban-1"
+    },
+    "code": {
+      "id": "NG003011_urban-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003011",
+      "level": 2,
+      "name": {
+        "local": "Ika",
+        "en": "Ika",
+        "slug": "ika-ng003011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003011",
+        "level": 2,
+        "name": {
+          "local": "Ika",
+          "en": "Ika",
+          "slug": "ika-ng003011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.016",
+      "lon": "7.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003011_urban-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Urban 11",
+      "en": "Urban 11",
+      "slug": "urban-11"
+    },
+    "code": {
+      "id": "NG003011_urban-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003011",
+      "level": 2,
+      "name": {
+        "local": "Ika",
+        "en": "Ika",
+        "slug": "ika-ng003011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003011",
+        "level": 2,
+        "name": {
+          "local": "Ika",
+          "en": "Ika",
+          "slug": "ika-ng003011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.016",
+      "lon": "7.543"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

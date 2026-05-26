@@ -1,0 +1,47 @@
+{
+  "id": "NG006002",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ekeremor",
+    "en": "Ekeremor",
+    "slug": "ekeremor-ng006002"
+  },
+  "code": {
+    "id": "NG006002",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG006",
+    "level": 1,
+    "name": {
+      "local": "Bayelsa",
+      "en": "Bayelsa",
+      "slug": "bayelsa-ng006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG006",
+      "level": 1,
+      "name": {
+        "local": "Bayelsa",
+        "en": "Bayelsa",
+        "slug": "bayelsa-ng006"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.941",
+    "lon": "5.715"
+  },
+  "metadata": {},
+  "source": {}
+}

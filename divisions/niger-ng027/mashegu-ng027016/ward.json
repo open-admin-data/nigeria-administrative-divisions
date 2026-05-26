@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG027016_babban-rami",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Babban Rami",
+      "en": "Babban Rami",
+      "slug": "babban-rami"
+    },
+    "code": {
+      "id": "NG027016_babban-rami",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027016",
+      "level": 2,
+      "name": {
+        "local": "Mashegu",
+        "en": "Mashegu",
+        "slug": "mashegu-ng027016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027016",
+        "level": 2,
+        "name": {
+          "local": "Mashegu",
+          "en": "Mashegu",
+          "slug": "mashegu-ng027016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.82",
+      "lon": "5.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027016_dapangimakera",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dapangi/makera",
+      "en": "Dapangi/makera",
+      "slug": "dapangimakera"
+    },
+    "code": {
+      "id": "NG027016_dapangimakera",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027016",
+      "level": 2,
+      "name": {
+        "local": "Mashegu",
+        "en": "Mashegu",
+        "slug": "mashegu-ng027016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027016",
+        "level": 2,
+        "name": {
+          "local": "Mashegu",
+          "en": "Mashegu",
+          "slug": "mashegu-ng027016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.82",
+      "lon": "5.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027016_ibbi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibbi",
+      "en": "Ibbi",
+      "slug": "ibbi"
+    },
+    "code": {
+      "id": "NG027016_ibbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027016",
+      "level": 2,
+      "name": {
+        "local": "Mashegu",
+        "en": "Mashegu",
+        "slug": "mashegu-ng027016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027016",
+        "level": 2,
+        "name": {
+          "local": "Mashegu",
+          "en": "Mashegu",
+          "slug": "mashegu-ng027016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.82",
+      "lon": "5.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027016_kaboji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaboji",
+      "en": "Kaboji",
+      "slug": "kaboji"
+    },
+    "code": {
+      "id": "NG027016_kaboji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027016",
+      "level": 2,
+      "name": {
+        "local": "Mashegu",
+        "en": "Mashegu",
+        "slug": "mashegu-ng027016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027016",
+        "level": 2,
+        "name": {
+          "local": "Mashegu",
+          "en": "Mashegu",
+          "slug": "mashegu-ng027016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.82",
+      "lon": "5.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027016_kasanga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kasanga",
+      "en": "Kasanga",
+      "slug": "kasanga"
+    },
+    "code": {
+      "id": "NG027016_kasanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027016",
+      "level": 2,
+      "name": {
+        "local": "Mashegu",
+        "en": "Mashegu",
+        "slug": "mashegu-ng027016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027016",
+        "level": 2,
+        "name": {
+          "local": "Mashegu",
+          "en": "Mashegu",
+          "slug": "mashegu-ng027016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.82",
+      "lon": "5.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027016_kulho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kulho",
+      "en": "Kulho",
+      "slug": "kulho"
+    },
+    "code": {
+      "id": "NG027016_kulho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027016",
+      "level": 2,
+      "name": {
+        "local": "Mashegu",
+        "en": "Mashegu",
+        "slug": "mashegu-ng027016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027016",
+        "level": 2,
+        "name": {
+          "local": "Mashegu",
+          "en": "Mashegu",
+          "slug": "mashegu-ng027016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.82",
+      "lon": "5.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027016_kwatachi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwatachi",
+      "en": "Kwatachi",
+      "slug": "kwatachi"
+    },
+    "code": {
+      "id": "NG027016_kwatachi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027016",
+      "level": 2,
+      "name": {
+        "local": "Mashegu",
+        "en": "Mashegu",
+        "slug": "mashegu-ng027016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027016",
+        "level": 2,
+        "name": {
+          "local": "Mashegu",
+          "en": "Mashegu",
+          "slug": "mashegu-ng027016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.82",
+      "lon": "5.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027016_mashegu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mashegu",
+      "en": "Mashegu",
+      "slug": "mashegu"
+    },
+    "code": {
+      "id": "NG027016_mashegu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027016",
+      "level": 2,
+      "name": {
+        "local": "Mashegu",
+        "en": "Mashegu",
+        "slug": "mashegu-ng027016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027016",
+        "level": 2,
+        "name": {
+          "local": "Mashegu",
+          "en": "Mashegu",
+          "slug": "mashegu-ng027016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.82",
+      "lon": "5.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027016_mazakukalikoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mazakuka/likoro",
+      "en": "Mazakuka/likoro",
+      "slug": "mazakukalikoro"
+    },
+    "code": {
+      "id": "NG027016_mazakukalikoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027016",
+      "level": 2,
+      "name": {
+        "local": "Mashegu",
+        "en": "Mashegu",
+        "slug": "mashegu-ng027016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027016",
+        "level": 2,
+        "name": {
+          "local": "Mashegu",
+          "en": "Mashegu",
+          "slug": "mashegu-ng027016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.82",
+      "lon": "5.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027016_saho-rami",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Saho-rami",
+      "en": "Saho-rami",
+      "slug": "saho-rami"
+    },
+    "code": {
+      "id": "NG027016_saho-rami",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027016",
+      "level": 2,
+      "name": {
+        "local": "Mashegu",
+        "en": "Mashegu",
+        "slug": "mashegu-ng027016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027016",
+        "level": 2,
+        "name": {
+          "local": "Mashegu",
+          "en": "Mashegu",
+          "slug": "mashegu-ng027016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.82",
+      "lon": "5.249"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

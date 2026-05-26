@@ -1,0 +1,47 @@
+{
+  "id": "NG031009",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ibadan South East",
+    "en": "Ibadan South East",
+    "slug": "ibadan-south-east-ng031009"
+  },
+  "code": {
+    "id": "NG031009",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG031",
+    "level": 1,
+    "name": {
+      "local": "Oyo",
+      "en": "Oyo",
+      "slug": "oyo-ng031"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG031",
+      "level": 1,
+      "name": {
+        "local": "Oyo",
+        "en": "Oyo",
+        "slug": "oyo-ng031"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.357",
+    "lon": "3.905"
+  },
+  "metadata": {},
+  "source": {}
+}

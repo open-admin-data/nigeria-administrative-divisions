@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020026_bumai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bumai",
+      "en": "Bumai",
+      "slug": "bumai"
+    },
+    "code": {
+      "id": "NG020026_bumai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020026",
+      "level": 2,
+      "name": {
+        "local": "Kunchi",
+        "en": "Kunchi",
+        "slug": "kunchi-ng020026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020026",
+        "level": 2,
+        "name": {
+          "local": "Kunchi",
+          "en": "Kunchi",
+          "slug": "kunchi-ng020026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.468",
+      "lon": "8.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020026_garin-sheme",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garin Sheme",
+      "en": "Garin Sheme",
+      "slug": "garin-sheme"
+    },
+    "code": {
+      "id": "NG020026_garin-sheme",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020026",
+      "level": 2,
+      "name": {
+        "local": "Kunchi",
+        "en": "Kunchi",
+        "slug": "kunchi-ng020026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020026",
+        "level": 2,
+        "name": {
+          "local": "Kunchi",
+          "en": "Kunchi",
+          "slug": "kunchi-ng020026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.468",
+      "lon": "8.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020026_gwarmai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwarmai",
+      "en": "Gwarmai",
+      "slug": "gwarmai"
+    },
+    "code": {
+      "id": "NG020026_gwarmai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020026",
+      "level": 2,
+      "name": {
+        "local": "Kunchi",
+        "en": "Kunchi",
+        "slug": "kunchi-ng020026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020026",
+        "level": 2,
+        "name": {
+          "local": "Kunchi",
+          "en": "Kunchi",
+          "slug": "kunchi-ng020026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.468",
+      "lon": "8.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020026_kasuwar-kuka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kasuwar Kuka",
+      "en": "Kasuwar Kuka",
+      "slug": "kasuwar-kuka"
+    },
+    "code": {
+      "id": "NG020026_kasuwar-kuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020026",
+      "level": 2,
+      "name": {
+        "local": "Kunchi",
+        "en": "Kunchi",
+        "slug": "kunchi-ng020026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020026",
+        "level": 2,
+        "name": {
+          "local": "Kunchi",
+          "en": "Kunchi",
+          "slug": "kunchi-ng020026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.468",
+      "lon": "8.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020026_kunchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kunchi",
+      "en": "Kunchi",
+      "slug": "kunchi"
+    },
+    "code": {
+      "id": "NG020026_kunchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020026",
+      "level": 2,
+      "name": {
+        "local": "Kunchi",
+        "en": "Kunchi",
+        "slug": "kunchi-ng020026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020026",
+        "level": 2,
+        "name": {
+          "local": "Kunchi",
+          "en": "Kunchi",
+          "slug": "kunchi-ng020026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.468",
+      "lon": "8.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020026_matan-fada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Matan Fada",
+      "en": "Matan Fada",
+      "slug": "matan-fada"
+    },
+    "code": {
+      "id": "NG020026_matan-fada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020026",
+      "level": 2,
+      "name": {
+        "local": "Kunchi",
+        "en": "Kunchi",
+        "slug": "kunchi-ng020026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020026",
+        "level": 2,
+        "name": {
+          "local": "Kunchi",
+          "en": "Kunchi",
+          "slug": "kunchi-ng020026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.468",
+      "lon": "8.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020026_ridawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ridawa",
+      "en": "Ridawa",
+      "slug": "ridawa"
+    },
+    "code": {
+      "id": "NG020026_ridawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020026",
+      "level": 2,
+      "name": {
+        "local": "Kunchi",
+        "en": "Kunchi",
+        "slug": "kunchi-ng020026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020026",
+        "level": 2,
+        "name": {
+          "local": "Kunchi",
+          "en": "Kunchi",
+          "slug": "kunchi-ng020026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.468",
+      "lon": "8.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020026_shamakawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shamakawa",
+      "en": "Shamakawa",
+      "slug": "shamakawa"
+    },
+    "code": {
+      "id": "NG020026_shamakawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020026",
+      "level": 2,
+      "name": {
+        "local": "Kunchi",
+        "en": "Kunchi",
+        "slug": "kunchi-ng020026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020026",
+        "level": 2,
+        "name": {
+          "local": "Kunchi",
+          "en": "Kunchi",
+          "slug": "kunchi-ng020026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.468",
+      "lon": "8.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020026_shuwaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shuwaki",
+      "en": "Shuwaki",
+      "slug": "shuwaki"
+    },
+    "code": {
+      "id": "NG020026_shuwaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020026",
+      "level": 2,
+      "name": {
+        "local": "Kunchi",
+        "en": "Kunchi",
+        "slug": "kunchi-ng020026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020026",
+        "level": 2,
+        "name": {
+          "local": "Kunchi",
+          "en": "Kunchi",
+          "slug": "kunchi-ng020026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.468",
+      "lon": "8.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020026_yandadi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yandadi",
+      "en": "Yandadi",
+      "slug": "yandadi"
+    },
+    "code": {
+      "id": "NG020026_yandadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020026",
+      "level": 2,
+      "name": {
+        "local": "Kunchi",
+        "en": "Kunchi",
+        "slug": "kunchi-ng020026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020026",
+        "level": 2,
+        "name": {
+          "local": "Kunchi",
+          "en": "Kunchi",
+          "slug": "kunchi-ng020026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.468",
+      "lon": "8.267"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

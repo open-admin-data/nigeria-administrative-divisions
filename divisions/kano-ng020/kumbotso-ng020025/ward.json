@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG020025_challawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Challawa",
+      "en": "Challawa",
+      "slug": "challawa"
+    },
+    "code": {
+      "id": "NG020025_challawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020025",
+      "level": 2,
+      "name": {
+        "local": "Kumbotso",
+        "en": "Kumbotso",
+        "slug": "kumbotso-ng020025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020025",
+        "level": 2,
+        "name": {
+          "local": "Kumbotso",
+          "en": "Kumbotso",
+          "slug": "kumbotso-ng020025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.921",
+      "lon": "8.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020025_chiranchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chiranchi",
+      "en": "Chiranchi",
+      "slug": "chiranchi"
+    },
+    "code": {
+      "id": "NG020025_chiranchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020025",
+      "level": 2,
+      "name": {
+        "local": "Kumbotso",
+        "en": "Kumbotso",
+        "slug": "kumbotso-ng020025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020025",
+        "level": 2,
+        "name": {
+          "local": "Kumbotso",
+          "en": "Kumbotso",
+          "slug": "kumbotso-ng020025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.921",
+      "lon": "8.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020025_danbare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danbare",
+      "en": "Danbare",
+      "slug": "danbare"
+    },
+    "code": {
+      "id": "NG020025_danbare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020025",
+      "level": 2,
+      "name": {
+        "local": "Kumbotso",
+        "en": "Kumbotso",
+        "slug": "kumbotso-ng020025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020025",
+        "level": 2,
+        "name": {
+          "local": "Kumbotso",
+          "en": "Kumbotso",
+          "slug": "kumbotso-ng020025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.921",
+      "lon": "8.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020025_danmaliki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danmaliki",
+      "en": "Danmaliki",
+      "slug": "danmaliki"
+    },
+    "code": {
+      "id": "NG020025_danmaliki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020025",
+      "level": 2,
+      "name": {
+        "local": "Kumbotso",
+        "en": "Kumbotso",
+        "slug": "kumbotso-ng020025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020025",
+        "level": 2,
+        "name": {
+          "local": "Kumbotso",
+          "en": "Kumbotso",
+          "slug": "kumbotso-ng020025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.921",
+      "lon": "8.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020025_guringawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guringawa",
+      "en": "Guringawa",
+      "slug": "guringawa"
+    },
+    "code": {
+      "id": "NG020025_guringawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020025",
+      "level": 2,
+      "name": {
+        "local": "Kumbotso",
+        "en": "Kumbotso",
+        "slug": "kumbotso-ng020025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020025",
+        "level": 2,
+        "name": {
+          "local": "Kumbotso",
+          "en": "Kumbotso",
+          "slug": "kumbotso-ng020025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.921",
+      "lon": "8.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020025_kumbotso",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumbotso",
+      "en": "Kumbotso",
+      "slug": "kumbotso"
+    },
+    "code": {
+      "id": "NG020025_kumbotso",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020025",
+      "level": 2,
+      "name": {
+        "local": "Kumbotso",
+        "en": "Kumbotso",
+        "slug": "kumbotso-ng020025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020025",
+        "level": 2,
+        "name": {
+          "local": "Kumbotso",
+          "en": "Kumbotso",
+          "slug": "kumbotso-ng020025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.921",
+      "lon": "8.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020025_kureken-sani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kureken Sani",
+      "en": "Kureken Sani",
+      "slug": "kureken-sani"
+    },
+    "code": {
+      "id": "NG020025_kureken-sani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020025",
+      "level": 2,
+      "name": {
+        "local": "Kumbotso",
+        "en": "Kumbotso",
+        "slug": "kumbotso-ng020025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020025",
+        "level": 2,
+        "name": {
+          "local": "Kumbotso",
+          "en": "Kumbotso",
+          "slug": "kumbotso-ng020025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.921",
+      "lon": "8.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020025_mariri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mariri",
+      "en": "Mariri",
+      "slug": "mariri"
+    },
+    "code": {
+      "id": "NG020025_mariri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020025",
+      "level": 2,
+      "name": {
+        "local": "Kumbotso",
+        "en": "Kumbotso",
+        "slug": "kumbotso-ng020025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020025",
+        "level": 2,
+        "name": {
+          "local": "Kumbotso",
+          "en": "Kumbotso",
+          "slug": "kumbotso-ng020025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.921",
+      "lon": "8.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020025_naibawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Na'ibawa",
+      "en": "Na'ibawa",
+      "slug": "naibawa"
+    },
+    "code": {
+      "id": "NG020025_naibawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020025",
+      "level": 2,
+      "name": {
+        "local": "Kumbotso",
+        "en": "Kumbotso",
+        "slug": "kumbotso-ng020025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020025",
+        "level": 2,
+        "name": {
+          "local": "Kumbotso",
+          "en": "Kumbotso",
+          "slug": "kumbotso-ng020025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.921",
+      "lon": "8.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020025_panshekara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Panshekara",
+      "en": "Panshekara",
+      "slug": "panshekara"
+    },
+    "code": {
+      "id": "NG020025_panshekara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020025",
+      "level": 2,
+      "name": {
+        "local": "Kumbotso",
+        "en": "Kumbotso",
+        "slug": "kumbotso-ng020025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020025",
+        "level": 2,
+        "name": {
+          "local": "Kumbotso",
+          "en": "Kumbotso",
+          "slug": "kumbotso-ng020025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.921",
+      "lon": "8.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020025_unguwar-rimi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Rimi",
+      "en": "Unguwar Rimi",
+      "slug": "unguwar-rimi"
+    },
+    "code": {
+      "id": "NG020025_unguwar-rimi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020025",
+      "level": 2,
+      "name": {
+        "local": "Kumbotso",
+        "en": "Kumbotso",
+        "slug": "kumbotso-ng020025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020025",
+        "level": 2,
+        "name": {
+          "local": "Kumbotso",
+          "en": "Kumbotso",
+          "slug": "kumbotso-ng020025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.921",
+      "lon": "8.52"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

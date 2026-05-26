@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG029015_asantan-oja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asantan Oja",
+      "en": "Asantan Oja",
+      "slug": "asantan-oja"
+    },
+    "code": {
+      "id": "NG029015_asantan-oja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029015",
+      "level": 2,
+      "name": {
+        "local": "Ondo East",
+        "en": "Ondo East",
+        "slug": "ondo-east-ng029015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029015",
+        "level": 2,
+        "name": {
+          "local": "Ondo East",
+          "en": "Ondo East",
+          "slug": "ondo-east-ng029015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.159",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029015_ateruotasanigba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ateru/otasan/igba",
+      "en": "Ateru/otasan/igba",
+      "slug": "ateruotasanigba"
+    },
+    "code": {
+      "id": "NG029015_ateruotasanigba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029015",
+      "level": 2,
+      "name": {
+        "local": "Ondo East",
+        "en": "Ondo East",
+        "slug": "ondo-east-ng029015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029015",
+        "level": 2,
+        "name": {
+          "local": "Ondo East",
+          "en": "Ondo East",
+          "slug": "ondo-east-ng029015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.159",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029015_bolorunduro-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bolorunduro 1",
+      "en": "Bolorunduro 1",
+      "slug": "bolorunduro-1"
+    },
+    "code": {
+      "id": "NG029015_bolorunduro-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029015",
+      "level": 2,
+      "name": {
+        "local": "Ondo East",
+        "en": "Ondo East",
+        "slug": "ondo-east-ng029015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029015",
+        "level": 2,
+        "name": {
+          "local": "Ondo East",
+          "en": "Ondo East",
+          "slug": "ondo-east-ng029015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.159",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029015_epe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Epe",
+      "en": "Epe",
+      "slug": "epe"
+    },
+    "code": {
+      "id": "NG029015_epe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029015",
+      "level": 2,
+      "name": {
+        "local": "Ondo East",
+        "en": "Ondo East",
+        "slug": "ondo-east-ng029015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029015",
+        "level": 2,
+        "name": {
+          "local": "Ondo East",
+          "en": "Ondo East",
+          "slug": "ondo-east-ng029015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.159",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029015_fagbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fagbo",
+      "en": "Fagbo",
+      "slug": "fagbo"
+    },
+    "code": {
+      "id": "NG029015_fagbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029015",
+      "level": 2,
+      "name": {
+        "local": "Ondo East",
+        "en": "Ondo East",
+        "slug": "ondo-east-ng029015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029015",
+        "level": 2,
+        "name": {
+          "local": "Ondo East",
+          "en": "Ondo East",
+          "slug": "ondo-east-ng029015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.159",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029015_obada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obada",
+      "en": "Obada",
+      "slug": "obada"
+    },
+    "code": {
+      "id": "NG029015_obada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029015",
+      "level": 2,
+      "name": {
+        "local": "Ondo East",
+        "en": "Ondo East",
+        "slug": "ondo-east-ng029015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029015",
+        "level": 2,
+        "name": {
+          "local": "Ondo East",
+          "en": "Ondo East",
+          "slug": "ondo-east-ng029015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.159",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029015_oboto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oboto",
+      "en": "Oboto",
+      "slug": "oboto"
+    },
+    "code": {
+      "id": "NG029015_oboto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029015",
+      "level": 2,
+      "name": {
+        "local": "Ondo East",
+        "en": "Ondo East",
+        "slug": "ondo-east-ng029015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029015",
+        "level": 2,
+        "name": {
+          "local": "Ondo East",
+          "en": "Ondo East",
+          "slug": "ondo-east-ng029015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.159",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029015_orisunmibare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orisunmibare",
+      "en": "Orisunmibare",
+      "slug": "orisunmibare"
+    },
+    "code": {
+      "id": "NG029015_orisunmibare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029015",
+      "level": 2,
+      "name": {
+        "local": "Ondo East",
+        "en": "Ondo East",
+        "slug": "ondo-east-ng029015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029015",
+        "level": 2,
+        "name": {
+          "local": "Ondo East",
+          "en": "Ondo East",
+          "slug": "ondo-east-ng029015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.159",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029015_owena-bridge",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owena Bridge",
+      "en": "Owena Bridge",
+      "slug": "owena-bridge"
+    },
+    "code": {
+      "id": "NG029015_owena-bridge",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029015",
+      "level": 2,
+      "name": {
+        "local": "Ondo East",
+        "en": "Ondo East",
+        "slug": "ondo-east-ng029015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029015",
+        "level": 2,
+        "name": {
+          "local": "Ondo East",
+          "en": "Ondo East",
+          "slug": "ondo-east-ng029015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.159",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029015_tepo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tepo",
+      "en": "Tepo",
+      "slug": "tepo"
+    },
+    "code": {
+      "id": "NG029015_tepo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029015",
+      "level": 2,
+      "name": {
+        "local": "Ondo East",
+        "en": "Ondo East",
+        "slug": "ondo-east-ng029015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029015",
+        "level": 2,
+        "name": {
+          "local": "Ondo East",
+          "en": "Ondo East",
+          "slug": "ondo-east-ng029015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.159",
+      "lon": "4.885"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

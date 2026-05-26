@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG033021_asa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asa",
+      "en": "Asa",
+      "slug": "asa"
+    },
+    "code": {
+      "id": "NG033021_asa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033021",
+      "level": 2,
+      "name": {
+        "local": "Oyigbo",
+        "en": "Oyigbo",
+        "slug": "oyigbo-ng033021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033021",
+        "level": 2,
+        "name": {
+          "local": "Oyigbo",
+          "en": "Oyigbo",
+          "slug": "oyigbo-ng033021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.847",
+      "lon": "7.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033021_azuogu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Azuogu",
+      "en": "Azuogu",
+      "slug": "azuogu"
+    },
+    "code": {
+      "id": "NG033021_azuogu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033021",
+      "level": 2,
+      "name": {
+        "local": "Oyigbo",
+        "en": "Oyigbo",
+        "slug": "oyigbo-ng033021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033021",
+        "level": 2,
+        "name": {
+          "local": "Oyigbo",
+          "en": "Oyigbo",
+          "slug": "oyigbo-ng033021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.847",
+      "lon": "7.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033021_egburu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egburu",
+      "en": "Egburu",
+      "slug": "egburu"
+    },
+    "code": {
+      "id": "NG033021_egburu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033021",
+      "level": 2,
+      "name": {
+        "local": "Oyigbo",
+        "en": "Oyigbo",
+        "slug": "oyigbo-ng033021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033021",
+        "level": 2,
+        "name": {
+          "local": "Oyigbo",
+          "en": "Oyigbo",
+          "slug": "oyigbo-ng033021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.847",
+      "lon": "7.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033021_komkom",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Komkom",
+      "en": "Komkom",
+      "slug": "komkom"
+    },
+    "code": {
+      "id": "NG033021_komkom",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033021",
+      "level": 2,
+      "name": {
+        "local": "Oyigbo",
+        "en": "Oyigbo",
+        "slug": "oyigbo-ng033021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033021",
+        "level": 2,
+        "name": {
+          "local": "Oyigbo",
+          "en": "Oyigbo",
+          "slug": "oyigbo-ng033021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.847",
+      "lon": "7.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033021_obeakpu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obeakpu",
+      "en": "Obeakpu",
+      "slug": "obeakpu"
+    },
+    "code": {
+      "id": "NG033021_obeakpu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033021",
+      "level": 2,
+      "name": {
+        "local": "Oyigbo",
+        "en": "Oyigbo",
+        "slug": "oyigbo-ng033021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033021",
+        "level": 2,
+        "name": {
+          "local": "Oyigbo",
+          "en": "Oyigbo",
+          "slug": "oyigbo-ng033021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.847",
+      "lon": "7.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033021_obete",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obete",
+      "en": "Obete",
+      "slug": "obete"
+    },
+    "code": {
+      "id": "NG033021_obete",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033021",
+      "level": 2,
+      "name": {
+        "local": "Oyigbo",
+        "en": "Oyigbo",
+        "slug": "oyigbo-ng033021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033021",
+        "level": 2,
+        "name": {
+          "local": "Oyigbo",
+          "en": "Oyigbo",
+          "slug": "oyigbo-ng033021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.847",
+      "lon": "7.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033021_okoloma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okoloma",
+      "en": "Okoloma",
+      "slug": "okoloma"
+    },
+    "code": {
+      "id": "NG033021_okoloma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033021",
+      "level": 2,
+      "name": {
+        "local": "Oyigbo",
+        "en": "Oyigbo",
+        "slug": "oyigbo-ng033021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033021",
+        "level": 2,
+        "name": {
+          "local": "Oyigbo",
+          "en": "Oyigbo",
+          "slug": "oyigbo-ng033021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.847",
+      "lon": "7.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033021_oyigbo-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oyigbo Central",
+      "en": "Oyigbo Central",
+      "slug": "oyigbo-central"
+    },
+    "code": {
+      "id": "NG033021_oyigbo-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033021",
+      "level": 2,
+      "name": {
+        "local": "Oyigbo",
+        "en": "Oyigbo",
+        "slug": "oyigbo-ng033021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033021",
+        "level": 2,
+        "name": {
+          "local": "Oyigbo",
+          "en": "Oyigbo",
+          "slug": "oyigbo-ng033021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.847",
+      "lon": "7.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033021_oyigbo-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oyigbo West",
+      "en": "Oyigbo West",
+      "slug": "oyigbo-west"
+    },
+    "code": {
+      "id": "NG033021_oyigbo-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033021",
+      "level": 2,
+      "name": {
+        "local": "Oyigbo",
+        "en": "Oyigbo",
+        "slug": "oyigbo-ng033021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033021",
+        "level": 2,
+        "name": {
+          "local": "Oyigbo",
+          "en": "Oyigbo",
+          "slug": "oyigbo-ng033021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.847",
+      "lon": "7.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033021_umuagbai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuagbai",
+      "en": "Umuagbai",
+      "slug": "umuagbai"
+    },
+    "code": {
+      "id": "NG033021_umuagbai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033021",
+      "level": 2,
+      "name": {
+        "local": "Oyigbo",
+        "en": "Oyigbo",
+        "slug": "oyigbo-ng033021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033021",
+        "level": 2,
+        "name": {
+          "local": "Oyigbo",
+          "en": "Oyigbo",
+          "slug": "oyigbo-ng033021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.847",
+      "lon": "7.302"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,801 @@
+[
+  {
+    "id": "NG001001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Aba North",
+      "en": "Aba North",
+      "slug": "aba-north-ng001001"
+    },
+    "code": {
+      "id": "NG001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Aba South",
+      "en": "Aba South",
+      "slug": "aba-south-ng001002"
+    },
+    "code": {
+      "id": "NG001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.084",
+      "lon": "7.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Arochukwu",
+      "en": "Arochukwu",
+      "slug": "arochukwu-ng001003"
+    },
+    "code": {
+      "id": "NG001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.519",
+      "lon": "7.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bende",
+      "en": "Bende",
+      "slug": "bende-ng001004"
+    },
+    "code": {
+      "id": "NG001004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ikwuano",
+      "en": "Ikwuano",
+      "slug": "ikwuano-ng001005"
+    },
+    "code": {
+      "id": "NG001005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.409",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Isiala-Ngwa North",
+      "en": "Isiala-Ngwa North",
+      "slug": "isiala-ngwa-north-ng001006"
+    },
+    "code": {
+      "id": "NG001006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.28",
+      "lon": "7.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Isiala-Ngwa South",
+      "en": "Isiala-Ngwa South",
+      "slug": "isiala-ngwa-south-ng001007"
+    },
+    "code": {
+      "id": "NG001007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.38",
+      "lon": "7.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Isiukwuato",
+      "en": "Isiukwuato",
+      "slug": "isiukwuato-ng001008"
+    },
+    "code": {
+      "id": "NG001008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.8",
+      "lon": "7.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Obi Ngwa",
+      "en": "Obi Ngwa",
+      "slug": "obi-ngwa-ng001009"
+    },
+    "code": {
+      "id": "NG001009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.152",
+      "lon": "7.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ohafia",
+      "en": "Ohafia",
+      "slug": "ohafia-ng001010"
+    },
+    "code": {
+      "id": "NG001010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.663",
+      "lon": "7.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Osisioma Ngwa",
+      "en": "Osisioma Ngwa",
+      "slug": "osisioma-ngwa-ng001011"
+    },
+    "code": {
+      "id": "NG001011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.173",
+      "lon": "7.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ugwunagbo",
+      "en": "Ugwunagbo",
+      "slug": "ugwunagbo-ng001012"
+    },
+    "code": {
+      "id": "NG001012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.025",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ukwa East",
+      "en": "Ukwa East",
+      "slug": "ukwa-east-ng001013"
+    },
+    "code": {
+      "id": "NG001013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.937",
+      "lon": "7.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ukwa West",
+      "en": "Ukwa West",
+      "slug": "ukwa-west-ng001014"
+    },
+    "code": {
+      "id": "NG001014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.979",
+      "lon": "7.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Umu-Nneochi",
+      "en": "Umu-Nneochi",
+      "slug": "umu-nneochi-ng001017"
+    },
+    "code": {
+      "id": "NG001017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.972",
+      "lon": "7.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Umuahia North",
+      "en": "Umuahia North",
+      "slug": "umuahia-north-ng001015"
+    },
+    "code": {
+      "id": "NG001015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Umuahia South",
+      "en": "Umuahia South",
+      "slug": "umuahia-south-ng001016"
+    },
+    "code": {
+      "id": "NG001016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.499",
+      "lon": "7.436"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

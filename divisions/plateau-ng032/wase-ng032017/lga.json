@@ -1,0 +1,47 @@
+{
+  "id": "NG032017",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Wase",
+    "en": "Wase",
+    "slug": "wase-ng032017"
+  },
+  "code": {
+    "id": "NG032017",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG032",
+    "level": 1,
+    "name": {
+      "local": "Plateau",
+      "en": "Plateau",
+      "slug": "plateau-ng032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG032",
+      "level": 1,
+      "name": {
+        "local": "Plateau",
+        "en": "Plateau",
+        "slug": "plateau-ng032"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.004",
+    "lon": "10.244"
+  },
+  "metadata": {},
+  "source": {}
+}

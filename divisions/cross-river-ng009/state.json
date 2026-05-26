@@ -1,0 +1,30 @@
+{
+  "id": "NG009",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Cross River",
+    "en": "Cross River",
+    "slug": "cross-river-ng009"
+  },
+  "code": {
+    "id": "NG009",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 18,
+    "ward": 193
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.791",
+    "lon": "8.403"
+  },
+  "metadata": {},
+  "source": {}
+}

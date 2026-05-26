@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG008020_ardo-ram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ardo Ram",
+      "en": "Ardo Ram",
+      "slug": "ardo-ram"
+    },
+    "code": {
+      "id": "NG008020_ardo-ram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "12.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008020_ayi-yasku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayi / Yasku",
+      "en": "Ayi / Yasku",
+      "slug": "ayi-yasku"
+    },
+    "code": {
+      "id": "NG008020_ayi-yasku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.956",
+      "lon": "12.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008020_borno-yesu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Borno Yesu",
+      "en": "Borno Yesu",
+      "slug": "borno-yesu"
+    },
+    "code": {
+      "id": "NG008020_borno-yesu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.281",
+      "lon": "12.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008020_furram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Furram",
+      "en": "Furram",
+      "slug": "furram"
+    },
+    "code": {
+      "id": "NG008020_furram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.291",
+      "lon": "12.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008020_gaji-ganna-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gaji Ganna I",
+      "en": "Gaji Ganna I",
+      "slug": "gaji-ganna-i"
+    },
+    "code": {
+      "id": "NG008020_gaji-ganna-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "12.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008020_gaji-ganna-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gaji Ganna Ii",
+      "en": "Gaji Ganna Ii",
+      "slug": "gaji-ganna-ii"
+    },
+    "code": {
+      "id": "NG008020_gaji-ganna-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "12.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008020_hoyo-chin-gowa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hoyo / Chin Gowa",
+      "en": "Hoyo / Chin Gowa",
+      "slug": "hoyo-chin-gowa"
+    },
+    "code": {
+      "id": "NG008020_hoyo-chin-gowa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.023",
+      "lon": "12.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008020_kalizoram-banoram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kalizoram / Banoram",
+      "en": "Kalizoram / Banoram",
+      "slug": "kalizoram-banoram"
+    },
+    "code": {
+      "id": "NG008020_kalizoram-banoram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.245",
+      "lon": "12.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008020_kareram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kareram",
+      "en": "Kareram",
+      "slug": "kareram"
+    },
+    "code": {
+      "id": "NG008020_kareram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "12.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008020_kubti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kubti",
+      "en": "Kubti",
+      "slug": "kubti"
+    },
+    "code": {
+      "id": "NG008020_kubti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "12.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008020_magumeri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magumeri",
+      "en": "Magumeri",
+      "slug": "magumeri"
+    },
+    "code": {
+      "id": "NG008020_magumeri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.078",
+      "lon": "12.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008020_ngamma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngamma",
+      "en": "Ngamma",
+      "slug": "ngamma"
+    },
+    "code": {
+      "id": "NG008020_ngamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.358",
+      "lon": "12.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008020_ngubala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngubala",
+      "en": "Ngubala",
+      "slug": "ngubala"
+    },
+    "code": {
+      "id": "NG008020_ngubala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008020",
+      "level": 2,
+      "name": {
+        "local": "Magumeri",
+        "en": "Magumeri",
+        "slug": "magumeri-ng008020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008020",
+        "level": 2,
+        "name": {
+          "local": "Magumeri",
+          "en": "Magumeri",
+          "slug": "magumeri-ng008020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.926",
+      "lon": "12.922"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

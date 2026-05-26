@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG032014_bwall",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bwall",
+      "en": "Bwall",
+      "slug": "bwall"
+    },
+    "code": {
+      "id": "NG032014_bwall",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032014",
+      "level": 2,
+      "name": {
+        "local": "Qua'an Pan",
+        "en": "Qua'an Pan",
+        "slug": "quaan-pan-ng032014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032014",
+        "level": 2,
+        "name": {
+          "local": "Qua'an Pan",
+          "en": "Qua'an Pan",
+          "slug": "quaan-pan-ng032014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.778",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032014_doemak-goechim",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doemak-goechim",
+      "en": "Doemak-goechim",
+      "slug": "doemak-goechim"
+    },
+    "code": {
+      "id": "NG032014_doemak-goechim",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032014",
+      "level": 2,
+      "name": {
+        "local": "Qua'an Pan",
+        "en": "Qua'an Pan",
+        "slug": "quaan-pan-ng032014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032014",
+        "level": 2,
+        "name": {
+          "local": "Qua'an Pan",
+          "en": "Qua'an Pan",
+          "slug": "quaan-pan-ng032014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.778",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032014_doemak-koplong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doemak-koplong",
+      "en": "Doemak-koplong",
+      "slug": "doemak-koplong"
+    },
+    "code": {
+      "id": "NG032014_doemak-koplong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032014",
+      "level": 2,
+      "name": {
+        "local": "Qua'an Pan",
+        "en": "Qua'an Pan",
+        "slug": "quaan-pan-ng032014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032014",
+        "level": 2,
+        "name": {
+          "local": "Qua'an Pan",
+          "en": "Qua'an Pan",
+          "slug": "quaan-pan-ng032014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.778",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032014_dokan-kasuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dokan Kasuwa",
+      "en": "Dokan Kasuwa",
+      "slug": "dokan-kasuwa"
+    },
+    "code": {
+      "id": "NG032014_dokan-kasuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032014",
+      "level": 2,
+      "name": {
+        "local": "Qua'an Pan",
+        "en": "Qua'an Pan",
+        "slug": "quaan-pan-ng032014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032014",
+        "level": 2,
+        "name": {
+          "local": "Qua'an Pan",
+          "en": "Qua'an Pan",
+          "slug": "quaan-pan-ng032014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.778",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032014_kurgwi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurgwi",
+      "en": "Kurgwi",
+      "slug": "kurgwi"
+    },
+    "code": {
+      "id": "NG032014_kurgwi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032014",
+      "level": 2,
+      "name": {
+        "local": "Qua'an Pan",
+        "en": "Qua'an Pan",
+        "slug": "quaan-pan-ng032014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032014",
+        "level": 2,
+        "name": {
+          "local": "Qua'an Pan",
+          "en": "Qua'an Pan",
+          "slug": "quaan-pan-ng032014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.778",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032014_kwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwa",
+      "en": "Kwa",
+      "slug": "kwa"
+    },
+    "code": {
+      "id": "NG032014_kwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032014",
+      "level": 2,
+      "name": {
+        "local": "Qua'an Pan",
+        "en": "Qua'an Pan",
+        "slug": "quaan-pan-ng032014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032014",
+        "level": 2,
+        "name": {
+          "local": "Qua'an Pan",
+          "en": "Qua'an Pan",
+          "slug": "quaan-pan-ng032014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.778",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032014_kwalla-moeda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwalla Moeda",
+      "en": "Kwalla Moeda",
+      "slug": "kwalla-moeda"
+    },
+    "code": {
+      "id": "NG032014_kwalla-moeda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032014",
+      "level": 2,
+      "name": {
+        "local": "Qua'an Pan",
+        "en": "Qua'an Pan",
+        "slug": "quaan-pan-ng032014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032014",
+        "level": 2,
+        "name": {
+          "local": "Qua'an Pan",
+          "en": "Qua'an Pan",
+          "slug": "quaan-pan-ng032014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.778",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032014_kwalla-yitlaar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwalla Yitla'ar",
+      "en": "Kwalla Yitla'ar",
+      "slug": "kwalla-yitlaar"
+    },
+    "code": {
+      "id": "NG032014_kwalla-yitlaar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032014",
+      "level": 2,
+      "name": {
+        "local": "Qua'an Pan",
+        "en": "Qua'an Pan",
+        "slug": "quaan-pan-ng032014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032014",
+        "level": 2,
+        "name": {
+          "local": "Qua'an Pan",
+          "en": "Qua'an Pan",
+          "slug": "quaan-pan-ng032014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.778",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032014_kwande",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwande",
+      "en": "Kwande",
+      "slug": "kwande"
+    },
+    "code": {
+      "id": "NG032014_kwande",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032014",
+      "level": 2,
+      "name": {
+        "local": "Qua'an Pan",
+        "en": "Qua'an Pan",
+        "slug": "quaan-pan-ng032014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032014",
+        "level": 2,
+        "name": {
+          "local": "Qua'an Pan",
+          "en": "Qua'an Pan",
+          "slug": "quaan-pan-ng032014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.778",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032014_kwang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwang",
+      "en": "Kwang",
+      "slug": "kwang"
+    },
+    "code": {
+      "id": "NG032014_kwang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032014",
+      "level": 2,
+      "name": {
+        "local": "Qua'an Pan",
+        "en": "Qua'an Pan",
+        "slug": "quaan-pan-ng032014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032014",
+        "level": 2,
+        "name": {
+          "local": "Qua'an Pan",
+          "en": "Qua'an Pan",
+          "slug": "quaan-pan-ng032014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.778",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032014_namu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Namu",
+      "en": "Namu",
+      "slug": "namu"
+    },
+    "code": {
+      "id": "NG032014_namu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032014",
+      "level": 2,
+      "name": {
+        "local": "Qua'an Pan",
+        "en": "Qua'an Pan",
+        "slug": "quaan-pan-ng032014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032014",
+        "level": 2,
+        "name": {
+          "local": "Qua'an Pan",
+          "en": "Qua'an Pan",
+          "slug": "quaan-pan-ng032014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.778",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

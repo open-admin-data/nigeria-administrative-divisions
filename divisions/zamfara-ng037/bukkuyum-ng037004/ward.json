@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG037004_adabka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adabka",
+      "en": "Adabka",
+      "slug": "adabka"
+    },
+    "code": {
+      "id": "NG037004_adabka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037004",
+      "level": 2,
+      "name": {
+        "local": "Bukkuyum",
+        "en": "Bukkuyum",
+        "slug": "bukkuyum-ng037004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037004",
+        "level": 2,
+        "name": {
+          "local": "Bukkuyum",
+          "en": "Bukkuyum",
+          "slug": "bukkuyum-ng037004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.951",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037004_bukkuyum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bukkuyum",
+      "en": "Bukkuyum",
+      "slug": "bukkuyum"
+    },
+    "code": {
+      "id": "NG037004_bukkuyum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037004",
+      "level": 2,
+      "name": {
+        "local": "Bukkuyum",
+        "en": "Bukkuyum",
+        "slug": "bukkuyum-ng037004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037004",
+        "level": 2,
+        "name": {
+          "local": "Bukkuyum",
+          "en": "Bukkuyum",
+          "slug": "bukkuyum-ng037004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.951",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037004_gwashi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwashi",
+      "en": "Gwashi",
+      "slug": "gwashi"
+    },
+    "code": {
+      "id": "NG037004_gwashi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037004",
+      "level": 2,
+      "name": {
+        "local": "Bukkuyum",
+        "en": "Bukkuyum",
+        "slug": "bukkuyum-ng037004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037004",
+        "level": 2,
+        "name": {
+          "local": "Bukkuyum",
+          "en": "Bukkuyum",
+          "slug": "bukkuyum-ng037004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.951",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037004_kyaram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kyaram",
+      "en": "Kyaram",
+      "slug": "kyaram"
+    },
+    "code": {
+      "id": "NG037004_kyaram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037004",
+      "level": 2,
+      "name": {
+        "local": "Bukkuyum",
+        "en": "Bukkuyum",
+        "slug": "bukkuyum-ng037004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037004",
+        "level": 2,
+        "name": {
+          "local": "Bukkuyum",
+          "en": "Bukkuyum",
+          "slug": "bukkuyum-ng037004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.951",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037004_masama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Masama",
+      "en": "Masama",
+      "slug": "masama"
+    },
+    "code": {
+      "id": "NG037004_masama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037004",
+      "level": 2,
+      "name": {
+        "local": "Bukkuyum",
+        "en": "Bukkuyum",
+        "slug": "bukkuyum-ng037004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037004",
+        "level": 2,
+        "name": {
+          "local": "Bukkuyum",
+          "en": "Bukkuyum",
+          "slug": "bukkuyum-ng037004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.951",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037004_nasarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasarawa",
+      "en": "Nasarawa",
+      "slug": "nasarawa"
+    },
+    "code": {
+      "id": "NG037004_nasarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037004",
+      "level": 2,
+      "name": {
+        "local": "Bukkuyum",
+        "en": "Bukkuyum",
+        "slug": "bukkuyum-ng037004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037004",
+        "level": 2,
+        "name": {
+          "local": "Bukkuyum",
+          "en": "Bukkuyum",
+          "slug": "bukkuyum-ng037004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.951",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037004_ruwan-jema",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ruwan Jema",
+      "en": "Ruwan Jema",
+      "slug": "ruwan-jema"
+    },
+    "code": {
+      "id": "NG037004_ruwan-jema",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037004",
+      "level": 2,
+      "name": {
+        "local": "Bukkuyum",
+        "en": "Bukkuyum",
+        "slug": "bukkuyum-ng037004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037004",
+        "level": 2,
+        "name": {
+          "local": "Bukkuyum",
+          "en": "Bukkuyum",
+          "slug": "bukkuyum-ng037004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.951",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037004_yashi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yashi",
+      "en": "Yashi",
+      "slug": "yashi"
+    },
+    "code": {
+      "id": "NG037004_yashi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037004",
+      "level": 2,
+      "name": {
+        "local": "Bukkuyum",
+        "en": "Bukkuyum",
+        "slug": "bukkuyum-ng037004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037004",
+        "level": 2,
+        "name": {
+          "local": "Bukkuyum",
+          "en": "Bukkuyum",
+          "slug": "bukkuyum-ng037004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.951",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037004_zarummai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zarummai",
+      "en": "Zarummai",
+      "slug": "zarummai"
+    },
+    "code": {
+      "id": "NG037004_zarummai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037004",
+      "level": 2,
+      "name": {
+        "local": "Bukkuyum",
+        "en": "Bukkuyum",
+        "slug": "bukkuyum-ng037004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037004",
+        "level": 2,
+        "name": {
+          "local": "Bukkuyum",
+          "en": "Bukkuyum",
+          "slug": "bukkuyum-ng037004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.951",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037004_zauma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zauma",
+      "en": "Zauma",
+      "slug": "zauma"
+    },
+    "code": {
+      "id": "NG037004_zauma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037004",
+      "level": 2,
+      "name": {
+        "local": "Bukkuyum",
+        "en": "Bukkuyum",
+        "slug": "bukkuyum-ng037004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037004",
+        "level": 2,
+        "name": {
+          "local": "Bukkuyum",
+          "en": "Bukkuyum",
+          "slug": "bukkuyum-ng037004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.951",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG036010_bukarti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bukarti",
+      "en": "Bukarti",
+      "slug": "bukarti"
+    },
+    "code": {
+      "id": "NG036010_bukarti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036010",
+      "level": 2,
+      "name": {
+        "local": "Karasuwa",
+        "en": "Karasuwa",
+        "slug": "karasuwa-ng036010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036010",
+        "level": 2,
+        "name": {
+          "local": "Karasuwa",
+          "en": "Karasuwa",
+          "slug": "karasuwa-ng036010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.933",
+      "lon": "10.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036010_fajiganari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fajiganari",
+      "en": "Fajiganari",
+      "slug": "fajiganari"
+    },
+    "code": {
+      "id": "NG036010_fajiganari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036010",
+      "level": 2,
+      "name": {
+        "local": "Karasuwa",
+        "en": "Karasuwa",
+        "slug": "karasuwa-ng036010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036010",
+        "level": 2,
+        "name": {
+          "local": "Karasuwa",
+          "en": "Karasuwa",
+          "slug": "karasuwa-ng036010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.016",
+      "lon": "10.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036010_garin-gawo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garin Gawo",
+      "en": "Garin Gawo",
+      "slug": "garin-gawo"
+    },
+    "code": {
+      "id": "NG036010_garin-gawo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036010",
+      "level": 2,
+      "name": {
+        "local": "Karasuwa",
+        "en": "Karasuwa",
+        "slug": "karasuwa-ng036010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036010",
+        "level": 2,
+        "name": {
+          "local": "Karasuwa",
+          "en": "Karasuwa",
+          "slug": "karasuwa-ng036010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.914",
+      "lon": "10.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036010_gasma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gasma",
+      "en": "Gasma",
+      "slug": "gasma"
+    },
+    "code": {
+      "id": "NG036010_gasma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036010",
+      "level": 2,
+      "name": {
+        "local": "Karasuwa",
+        "en": "Karasuwa",
+        "slug": "karasuwa-ng036010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036010",
+        "level": 2,
+        "name": {
+          "local": "Karasuwa",
+          "en": "Karasuwa",
+          "slug": "karasuwa-ng036010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.917",
+      "lon": "10.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036010_jaji-maji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jaji Maji",
+      "en": "Jaji Maji",
+      "slug": "jaji-maji"
+    },
+    "code": {
+      "id": "NG036010_jaji-maji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036010",
+      "level": 2,
+      "name": {
+        "local": "Karasuwa",
+        "en": "Karasuwa",
+        "slug": "karasuwa-ng036010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036010",
+        "level": 2,
+        "name": {
+          "local": "Karasuwa",
+          "en": "Karasuwa",
+          "slug": "karasuwa-ng036010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.912",
+      "lon": "10.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036010_karasuwa-galu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karasuwa Galu",
+      "en": "Karasuwa Galu",
+      "slug": "karasuwa-galu"
+    },
+    "code": {
+      "id": "NG036010_karasuwa-galu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036010",
+      "level": 2,
+      "name": {
+        "local": "Karasuwa",
+        "en": "Karasuwa",
+        "slug": "karasuwa-ng036010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036010",
+        "level": 2,
+        "name": {
+          "local": "Karasuwa",
+          "en": "Karasuwa",
+          "slug": "karasuwa-ng036010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.952",
+      "lon": "10.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036010_karauswa-garu-guna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karauswa Garu Guna",
+      "en": "Karauswa Garu Guna",
+      "slug": "karauswa-garu-guna"
+    },
+    "code": {
+      "id": "NG036010_karauswa-garu-guna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036010",
+      "level": 2,
+      "name": {
+        "local": "Karasuwa",
+        "en": "Karasuwa",
+        "slug": "karasuwa-ng036010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036010",
+        "level": 2,
+        "name": {
+          "local": "Karasuwa",
+          "en": "Karasuwa",
+          "slug": "karasuwa-ng036010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.097",
+      "lon": "10.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036010_wachakal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wachakal",
+      "en": "Wachakal",
+      "slug": "wachakal"
+    },
+    "code": {
+      "id": "NG036010_wachakal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036010",
+      "level": 2,
+      "name": {
+        "local": "Karasuwa",
+        "en": "Karasuwa",
+        "slug": "karasuwa-ng036010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036010",
+        "level": 2,
+        "name": {
+          "local": "Karasuwa",
+          "en": "Karasuwa",
+          "slug": "karasuwa-ng036010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.84",
+      "lon": "10.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036010_waro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Waro",
+      "en": "Waro",
+      "slug": "waro"
+    },
+    "code": {
+      "id": "NG036010_waro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036010",
+      "level": 2,
+      "name": {
+        "local": "Karasuwa",
+        "en": "Karasuwa",
+        "slug": "karasuwa-ng036010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036010",
+        "level": 2,
+        "name": {
+          "local": "Karasuwa",
+          "en": "Karasuwa",
+          "slug": "karasuwa-ng036010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.927",
+      "lon": "11.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036010_yajiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yajiri",
+      "en": "Yajiri",
+      "slug": "yajiri"
+    },
+    "code": {
+      "id": "NG036010_yajiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036010",
+      "level": 2,
+      "name": {
+        "local": "Karasuwa",
+        "en": "Karasuwa",
+        "slug": "karasuwa-ng036010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036010",
+        "level": 2,
+        "name": {
+          "local": "Karasuwa",
+          "en": "Karasuwa",
+          "slug": "karasuwa-ng036010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "10.692"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NG017002",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ahiazu-Mbaise",
+    "en": "Ahiazu-Mbaise",
+    "slug": "ahiazu-mbaise-ng017002"
+  },
+  "code": {
+    "id": "NG017002",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG017",
+    "level": 1,
+    "name": {
+      "local": "Imo",
+      "en": "Imo",
+      "slug": "imo-ng017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.563",
+    "lon": "7.264"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG019014_badurum-sama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Badurum Sama",
+      "en": "Badurum Sama",
+      "slug": "badurum-sama"
+    },
+    "code": {
+      "id": "NG019014_badurum-sama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019014",
+      "level": 2,
+      "name": {
+        "local": "Kauru",
+        "en": "Kauru",
+        "slug": "kauru-ng019014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019014",
+        "level": 2,
+        "name": {
+          "local": "Kauru",
+          "en": "Kauru",
+          "slug": "kauru-ng019014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.22",
+      "lon": "8.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019014_bital",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bital",
+      "en": "Bital",
+      "slug": "bital"
+    },
+    "code": {
+      "id": "NG019014_bital",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019014",
+      "level": 2,
+      "name": {
+        "local": "Kauru",
+        "en": "Kauru",
+        "slug": "kauru-ng019014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019014",
+        "level": 2,
+        "name": {
+          "local": "Kauru",
+          "en": "Kauru",
+          "slug": "kauru-ng019014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.22",
+      "lon": "8.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019014_damakasuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damakasuwa",
+      "en": "Damakasuwa",
+      "slug": "damakasuwa"
+    },
+    "code": {
+      "id": "NG019014_damakasuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019014",
+      "level": 2,
+      "name": {
+        "local": "Kauru",
+        "en": "Kauru",
+        "slug": "kauru-ng019014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019014",
+        "level": 2,
+        "name": {
+          "local": "Kauru",
+          "en": "Kauru",
+          "slug": "kauru-ng019014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.22",
+      "lon": "8.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019014_dawaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dawaki",
+      "en": "Dawaki",
+      "slug": "dawaki"
+    },
+    "code": {
+      "id": "NG019014_dawaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019014",
+      "level": 2,
+      "name": {
+        "local": "Kauru",
+        "en": "Kauru",
+        "slug": "kauru-ng019014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019014",
+        "level": 2,
+        "name": {
+          "local": "Kauru",
+          "en": "Kauru",
+          "slug": "kauru-ng019014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.22",
+      "lon": "8.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019014_geshere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Geshere",
+      "en": "Geshere",
+      "slug": "geshere"
+    },
+    "code": {
+      "id": "NG019014_geshere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019014",
+      "level": 2,
+      "name": {
+        "local": "Kauru",
+        "en": "Kauru",
+        "slug": "kauru-ng019014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019014",
+        "level": 2,
+        "name": {
+          "local": "Kauru",
+          "en": "Kauru",
+          "slug": "kauru-ng019014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.22",
+      "lon": "8.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019014_kamaru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kamaru",
+      "en": "Kamaru",
+      "slug": "kamaru"
+    },
+    "code": {
+      "id": "NG019014_kamaru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019014",
+      "level": 2,
+      "name": {
+        "local": "Kauru",
+        "en": "Kauru",
+        "slug": "kauru-ng019014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019014",
+        "level": 2,
+        "name": {
+          "local": "Kauru",
+          "en": "Kauru",
+          "slug": "kauru-ng019014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.22",
+      "lon": "8.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019014_kauru-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kauru East",
+      "en": "Kauru East",
+      "slug": "kauru-east"
+    },
+    "code": {
+      "id": "NG019014_kauru-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019014",
+      "level": 2,
+      "name": {
+        "local": "Kauru",
+        "en": "Kauru",
+        "slug": "kauru-ng019014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019014",
+        "level": 2,
+        "name": {
+          "local": "Kauru",
+          "en": "Kauru",
+          "slug": "kauru-ng019014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.22",
+      "lon": "8.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019014_kauru-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kauru West",
+      "en": "Kauru West",
+      "slug": "kauru-west"
+    },
+    "code": {
+      "id": "NG019014_kauru-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019014",
+      "level": 2,
+      "name": {
+        "local": "Kauru",
+        "en": "Kauru",
+        "slug": "kauru-ng019014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019014",
+        "level": 2,
+        "name": {
+          "local": "Kauru",
+          "en": "Kauru",
+          "slug": "kauru-ng019014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.22",
+      "lon": "8.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019014_kwassam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwassam",
+      "en": "Kwassam",
+      "slug": "kwassam"
+    },
+    "code": {
+      "id": "NG019014_kwassam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019014",
+      "level": 2,
+      "name": {
+        "local": "Kauru",
+        "en": "Kauru",
+        "slug": "kauru-ng019014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019014",
+        "level": 2,
+        "name": {
+          "local": "Kauru",
+          "en": "Kauru",
+          "slug": "kauru-ng019014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.22",
+      "lon": "8.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019014_makami",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makami",
+      "en": "Makami",
+      "slug": "makami"
+    },
+    "code": {
+      "id": "NG019014_makami",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019014",
+      "level": 2,
+      "name": {
+        "local": "Kauru",
+        "en": "Kauru",
+        "slug": "kauru-ng019014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019014",
+        "level": 2,
+        "name": {
+          "local": "Kauru",
+          "en": "Kauru",
+          "slug": "kauru-ng019014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.22",
+      "lon": "8.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019014_pari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pari",
+      "en": "Pari",
+      "slug": "pari"
+    },
+    "code": {
+      "id": "NG019014_pari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019014",
+      "level": 2,
+      "name": {
+        "local": "Kauru",
+        "en": "Kauru",
+        "slug": "kauru-ng019014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019014",
+        "level": 2,
+        "name": {
+          "local": "Kauru",
+          "en": "Kauru",
+          "slug": "kauru-ng019014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.22",
+      "lon": "8.318"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

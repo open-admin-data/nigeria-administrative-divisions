@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG032004_federe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Federe",
+      "en": "Federe",
+      "slug": "federe"
+    },
+    "code": {
+      "id": "NG032004_federe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032004",
+      "level": 2,
+      "name": {
+        "local": "Jos East",
+        "en": "Jos East",
+        "slug": "jos-east-ng032004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032004",
+        "level": 2,
+        "name": {
+          "local": "Jos East",
+          "en": "Jos East",
+          "slug": "jos-east-ng032004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.876",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032004_fobur-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fobur 'a'",
+      "en": "Fobur 'a'",
+      "slug": "fobur-a"
+    },
+    "code": {
+      "id": "NG032004_fobur-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032004",
+      "level": 2,
+      "name": {
+        "local": "Jos East",
+        "en": "Jos East",
+        "slug": "jos-east-ng032004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032004",
+        "level": 2,
+        "name": {
+          "local": "Jos East",
+          "en": "Jos East",
+          "slug": "jos-east-ng032004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.876",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032004_fobur-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fobur 'b'",
+      "en": "Fobur 'b'",
+      "slug": "fobur-b"
+    },
+    "code": {
+      "id": "NG032004_fobur-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032004",
+      "level": 2,
+      "name": {
+        "local": "Jos East",
+        "en": "Jos East",
+        "slug": "jos-east-ng032004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032004",
+        "level": 2,
+        "name": {
+          "local": "Jos East",
+          "en": "Jos East",
+          "slug": "jos-east-ng032004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.876",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032004_fursum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fursum",
+      "en": "Fursum",
+      "slug": "fursum"
+    },
+    "code": {
+      "id": "NG032004_fursum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032004",
+      "level": 2,
+      "name": {
+        "local": "Jos East",
+        "en": "Jos East",
+        "slug": "jos-east-ng032004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032004",
+        "level": 2,
+        "name": {
+          "local": "Jos East",
+          "en": "Jos East",
+          "slug": "jos-east-ng032004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.876",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032004_jarawan-kogi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jarawan Kogi",
+      "en": "Jarawan Kogi",
+      "slug": "jarawan-kogi"
+    },
+    "code": {
+      "id": "NG032004_jarawan-kogi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032004",
+      "level": 2,
+      "name": {
+        "local": "Jos East",
+        "en": "Jos East",
+        "slug": "jos-east-ng032004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032004",
+        "level": 2,
+        "name": {
+          "local": "Jos East",
+          "en": "Jos East",
+          "slug": "jos-east-ng032004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.876",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032004_mai-gemu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mai Gemu",
+      "en": "Mai Gemu",
+      "slug": "mai-gemu"
+    },
+    "code": {
+      "id": "NG032004_mai-gemu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032004",
+      "level": 2,
+      "name": {
+        "local": "Jos East",
+        "en": "Jos East",
+        "slug": "jos-east-ng032004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032004",
+        "level": 2,
+        "name": {
+          "local": "Jos East",
+          "en": "Jos East",
+          "slug": "jos-east-ng032004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.876",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032004_maijuju",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maijuju",
+      "en": "Maijuju",
+      "slug": "maijuju"
+    },
+    "code": {
+      "id": "NG032004_maijuju",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032004",
+      "level": 2,
+      "name": {
+        "local": "Jos East",
+        "en": "Jos East",
+        "slug": "jos-east-ng032004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032004",
+        "level": 2,
+        "name": {
+          "local": "Jos East",
+          "en": "Jos East",
+          "slug": "jos-east-ng032004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.876",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032004_shere-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shere East",
+      "en": "Shere East",
+      "slug": "shere-east"
+    },
+    "code": {
+      "id": "NG032004_shere-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032004",
+      "level": 2,
+      "name": {
+        "local": "Jos East",
+        "en": "Jos East",
+        "slug": "jos-east-ng032004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032004",
+        "level": 2,
+        "name": {
+          "local": "Jos East",
+          "en": "Jos East",
+          "slug": "jos-east-ng032004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.876",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032004_shere-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shere West",
+      "en": "Shere West",
+      "slug": "shere-west"
+    },
+    "code": {
+      "id": "NG032004_shere-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032004",
+      "level": 2,
+      "name": {
+        "local": "Jos East",
+        "en": "Jos East",
+        "slug": "jos-east-ng032004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032004",
+        "level": 2,
+        "name": {
+          "local": "Jos East",
+          "en": "Jos East",
+          "slug": "jos-east-ng032004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.876",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032004_zandi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zandi",
+      "en": "Zandi",
+      "slug": "zandi"
+    },
+    "code": {
+      "id": "NG032004_zandi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032004",
+      "level": 2,
+      "name": {
+        "local": "Jos East",
+        "en": "Jos East",
+        "slug": "jos-east-ng032004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032004",
+        "level": 2,
+        "name": {
+          "local": "Jos East",
+          "en": "Jos East",
+          "slug": "jos-east-ng032004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.876",
+      "lon": "9.129"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

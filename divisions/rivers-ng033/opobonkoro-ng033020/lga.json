@@ -1,0 +1,47 @@
+{
+  "id": "NG033020",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Opobo/Nkoro",
+    "en": "Opobo/Nkoro",
+    "slug": "opobonkoro-ng033020"
+  },
+  "code": {
+    "id": "NG033020",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG033",
+    "level": 1,
+    "name": {
+      "local": "Rivers",
+      "en": "Rivers",
+      "slug": "rivers-ng033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.512",
+    "lon": "7.519"
+  },
+  "metadata": {},
+  "source": {}
+}

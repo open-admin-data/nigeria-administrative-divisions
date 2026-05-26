@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG030028_apoti-dagbaja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Apoti /dagbaja",
+      "en": "Apoti /dagbaja",
+      "slug": "apoti-dagbaja"
+    },
+    "code": {
+      "id": "NG030028_apoti-dagbaja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030028",
+      "level": 2,
+      "name": {
+        "local": "Oriade",
+        "en": "Oriade",
+        "slug": "oriade-ng030028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030028",
+        "level": 2,
+        "name": {
+          "local": "Oriade",
+          "en": "Oriade",
+          "slug": "oriade-ng030028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "4.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030028_erin-ijesa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Erin-ijesa",
+      "en": "Erin-ijesa",
+      "slug": "erin-ijesa"
+    },
+    "code": {
+      "id": "NG030028_erin-ijesa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030028",
+      "level": 2,
+      "name": {
+        "local": "Oriade",
+        "en": "Oriade",
+        "slug": "oriade-ng030028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030028",
+        "level": 2,
+        "name": {
+          "local": "Oriade",
+          "en": "Oriade",
+          "slug": "oriade-ng030028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "4.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030028_erin-oke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Erin-oke",
+      "en": "Erin-oke",
+      "slug": "erin-oke"
+    },
+    "code": {
+      "id": "NG030028_erin-oke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030028",
+      "level": 2,
+      "name": {
+        "local": "Oriade",
+        "en": "Oriade",
+        "slug": "oriade-ng030028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030028",
+        "level": 2,
+        "name": {
+          "local": "Oriade",
+          "en": "Oriade",
+          "slug": "oriade-ng030028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "4.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030028_erinmoiwaraja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Erinmo/iwaraja",
+      "en": "Erinmo/iwaraja",
+      "slug": "erinmoiwaraja"
+    },
+    "code": {
+      "id": "NG030028_erinmoiwaraja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030028",
+      "level": 2,
+      "name": {
+        "local": "Oriade",
+        "en": "Oriade",
+        "slug": "oriade-ng030028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030028",
+        "level": 2,
+        "name": {
+          "local": "Oriade",
+          "en": "Oriade",
+          "slug": "oriade-ng030028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "4.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030028_ijebu-jesa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijebu-jesa",
+      "en": "Ijebu-jesa",
+      "slug": "ijebu-jesa"
+    },
+    "code": {
+      "id": "NG030028_ijebu-jesa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030028",
+      "level": 2,
+      "name": {
+        "local": "Oriade",
+        "en": "Oriade",
+        "slug": "oriade-ng030028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030028",
+        "level": 2,
+        "name": {
+          "local": "Oriade",
+          "en": "Oriade",
+          "slug": "oriade-ng030028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "4.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030028_ijeda-iloko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijeda/ Iloko",
+      "en": "Ijeda/ Iloko",
+      "slug": "ijeda-iloko"
+    },
+    "code": {
+      "id": "NG030028_ijeda-iloko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030028",
+      "level": 2,
+      "name": {
+        "local": "Oriade",
+        "en": "Oriade",
+        "slug": "oriade-ng030028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030028",
+        "level": 2,
+        "name": {
+          "local": "Oriade",
+          "en": "Oriade",
+          "slug": "oriade-ng030028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "4.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030028_ikeji-arakejiowena",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikeji Arakeji/owena",
+      "en": "Ikeji Arakeji/owena",
+      "slug": "ikeji-arakejiowena"
+    },
+    "code": {
+      "id": "NG030028_ikeji-arakejiowena",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030028",
+      "level": 2,
+      "name": {
+        "local": "Oriade",
+        "en": "Oriade",
+        "slug": "oriade-ng030028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030028",
+        "level": 2,
+        "name": {
+          "local": "Oriade",
+          "en": "Oriade",
+          "slug": "oriade-ng030028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "4.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030028_ikeji-ile",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikeji-ile",
+      "en": "Ikeji-ile",
+      "slug": "ikeji-ile"
+    },
+    "code": {
+      "id": "NG030028_ikeji-ile",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030028",
+      "level": 2,
+      "name": {
+        "local": "Oriade",
+        "en": "Oriade",
+        "slug": "oriade-ng030028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030028",
+        "level": 2,
+        "name": {
+          "local": "Oriade",
+          "en": "Oriade",
+          "slug": "oriade-ng030028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "4.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030028_ipetu-ijesa-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipetu Ijesa I",
+      "en": "Ipetu Ijesa I",
+      "slug": "ipetu-ijesa-i"
+    },
+    "code": {
+      "id": "NG030028_ipetu-ijesa-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030028",
+      "level": 2,
+      "name": {
+        "local": "Oriade",
+        "en": "Oriade",
+        "slug": "oriade-ng030028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030028",
+        "level": 2,
+        "name": {
+          "local": "Oriade",
+          "en": "Oriade",
+          "slug": "oriade-ng030028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "4.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030028_ipetu-ijesa-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipetu-ijesa Ii",
+      "en": "Ipetu-ijesa Ii",
+      "slug": "ipetu-ijesa-ii"
+    },
+    "code": {
+      "id": "NG030028_ipetu-ijesa-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030028",
+      "level": 2,
+      "name": {
+        "local": "Oriade",
+        "en": "Oriade",
+        "slug": "oriade-ng030028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030028",
+        "level": 2,
+        "name": {
+          "local": "Oriade",
+          "en": "Oriade",
+          "slug": "oriade-ng030028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "4.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030028_ira",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ira",
+      "en": "Ira",
+      "slug": "ira"
+    },
+    "code": {
+      "id": "NG030028_ira",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030028",
+      "level": 2,
+      "name": {
+        "local": "Oriade",
+        "en": "Oriade",
+        "slug": "oriade-ng030028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030028",
+        "level": 2,
+        "name": {
+          "local": "Oriade",
+          "en": "Oriade",
+          "slug": "oriade-ng030028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "4.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030028_iwoye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iwoye",
+      "en": "Iwoye",
+      "slug": "iwoye"
+    },
+    "code": {
+      "id": "NG030028_iwoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030028",
+      "level": 2,
+      "name": {
+        "local": "Oriade",
+        "en": "Oriade",
+        "slug": "oriade-ng030028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030028",
+        "level": 2,
+        "name": {
+          "local": "Oriade",
+          "en": "Oriade",
+          "slug": "oriade-ng030028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.553",
+      "lon": "4.867"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

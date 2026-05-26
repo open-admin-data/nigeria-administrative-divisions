@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG035014_akwana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akwana",
+      "en": "Akwana",
+      "slug": "akwana"
+    },
+    "code": {
+      "id": "NG035014_akwana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035014",
+      "level": 2,
+      "name": {
+        "local": "Wukari",
+        "en": "Wukari",
+        "slug": "wukari-ng035014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035014",
+        "level": 2,
+        "name": {
+          "local": "Wukari",
+          "en": "Wukari",
+          "slug": "wukari-ng035014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.989",
+      "lon": "9.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035014_avyi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Avyi",
+      "en": "Avyi",
+      "slug": "avyi"
+    },
+    "code": {
+      "id": "NG035014_avyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035014",
+      "level": 2,
+      "name": {
+        "local": "Wukari",
+        "en": "Wukari",
+        "slug": "wukari-ng035014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035014",
+        "level": 2,
+        "name": {
+          "local": "Wukari",
+          "en": "Wukari",
+          "slug": "wukari-ng035014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.989",
+      "lon": "9.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035014_bantaje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bantaje",
+      "en": "Bantaje",
+      "slug": "bantaje"
+    },
+    "code": {
+      "id": "NG035014_bantaje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035014",
+      "level": 2,
+      "name": {
+        "local": "Wukari",
+        "en": "Wukari",
+        "slug": "wukari-ng035014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035014",
+        "level": 2,
+        "name": {
+          "local": "Wukari",
+          "en": "Wukari",
+          "slug": "wukari-ng035014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.989",
+      "lon": "9.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035014_chonku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chonku",
+      "en": "Chonku",
+      "slug": "chonku"
+    },
+    "code": {
+      "id": "NG035014_chonku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035014",
+      "level": 2,
+      "name": {
+        "local": "Wukari",
+        "en": "Wukari",
+        "slug": "wukari-ng035014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035014",
+        "level": 2,
+        "name": {
+          "local": "Wukari",
+          "en": "Wukari",
+          "slug": "wukari-ng035014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.989",
+      "lon": "9.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035014_hospital",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hospital",
+      "en": "Hospital",
+      "slug": "hospital"
+    },
+    "code": {
+      "id": "NG035014_hospital",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035014",
+      "level": 2,
+      "name": {
+        "local": "Wukari",
+        "en": "Wukari",
+        "slug": "wukari-ng035014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035014",
+        "level": 2,
+        "name": {
+          "local": "Wukari",
+          "en": "Wukari",
+          "slug": "wukari-ng035014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.989",
+      "lon": "9.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035014_jibu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jibu",
+      "en": "Jibu",
+      "slug": "jibu"
+    },
+    "code": {
+      "id": "NG035014_jibu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035014",
+      "level": 2,
+      "name": {
+        "local": "Wukari",
+        "en": "Wukari",
+        "slug": "wukari-ng035014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035014",
+        "level": 2,
+        "name": {
+          "local": "Wukari",
+          "en": "Wukari",
+          "slug": "wukari-ng035014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.989",
+      "lon": "9.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035014_kente",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kente",
+      "en": "Kente",
+      "slug": "kente"
+    },
+    "code": {
+      "id": "NG035014_kente",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035014",
+      "level": 2,
+      "name": {
+        "local": "Wukari",
+        "en": "Wukari",
+        "slug": "wukari-ng035014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035014",
+        "level": 2,
+        "name": {
+          "local": "Wukari",
+          "en": "Wukari",
+          "slug": "wukari-ng035014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.989",
+      "lon": "9.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035014_puje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Puje",
+      "en": "Puje",
+      "slug": "puje"
+    },
+    "code": {
+      "id": "NG035014_puje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035014",
+      "level": 2,
+      "name": {
+        "local": "Wukari",
+        "en": "Wukari",
+        "slug": "wukari-ng035014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035014",
+        "level": 2,
+        "name": {
+          "local": "Wukari",
+          "en": "Wukari",
+          "slug": "wukari-ng035014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.989",
+      "lon": "9.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035014_rafin-kada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rafin Kada",
+      "en": "Rafin Kada",
+      "slug": "rafin-kada"
+    },
+    "code": {
+      "id": "NG035014_rafin-kada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035014",
+      "level": 2,
+      "name": {
+        "local": "Wukari",
+        "en": "Wukari",
+        "slug": "wukari-ng035014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035014",
+        "level": 2,
+        "name": {
+          "local": "Wukari",
+          "en": "Wukari",
+          "slug": "wukari-ng035014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.989",
+      "lon": "9.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035014_tsokundi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsokundi",
+      "en": "Tsokundi",
+      "slug": "tsokundi"
+    },
+    "code": {
+      "id": "NG035014_tsokundi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035014",
+      "level": 2,
+      "name": {
+        "local": "Wukari",
+        "en": "Wukari",
+        "slug": "wukari-ng035014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035014",
+        "level": 2,
+        "name": {
+          "local": "Wukari",
+          "en": "Wukari",
+          "slug": "wukari-ng035014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.989",
+      "lon": "9.768"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

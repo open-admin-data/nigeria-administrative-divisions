@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG010017_amuokpe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amuokpe",
+      "en": "Amuokpe",
+      "slug": "amuokpe"
+    },
+    "code": {
+      "id": "NG010017_amuokpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010017",
+      "level": 2,
+      "name": {
+        "local": "Sapele",
+        "en": "Sapele",
+        "slug": "sapele-ng010017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010017",
+        "level": 2,
+        "name": {
+          "local": "Sapele",
+          "en": "Sapele",
+          "slug": "sapele-ng010017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.836",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010017_elume",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Elume",
+      "en": "Elume",
+      "slug": "elume"
+    },
+    "code": {
+      "id": "NG010017_elume",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010017",
+      "level": 2,
+      "name": {
+        "local": "Sapele",
+        "en": "Sapele",
+        "slug": "sapele-ng010017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010017",
+        "level": 2,
+        "name": {
+          "local": "Sapele",
+          "en": "Sapele",
+          "slug": "sapele-ng010017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.836",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010017_okokporougborhen",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okokporo/ugborhen",
+      "en": "Okokporo/ugborhen",
+      "slug": "okokporougborhen"
+    },
+    "code": {
+      "id": "NG010017_okokporougborhen",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010017",
+      "level": 2,
+      "name": {
+        "local": "Sapele",
+        "en": "Sapele",
+        "slug": "sapele-ng010017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010017",
+        "level": 2,
+        "name": {
+          "local": "Sapele",
+          "en": "Sapele",
+          "slug": "sapele-ng010017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.836",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010017_sapele-urban-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sapele Urban I",
+      "en": "Sapele Urban I",
+      "slug": "sapele-urban-i"
+    },
+    "code": {
+      "id": "NG010017_sapele-urban-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010017",
+      "level": 2,
+      "name": {
+        "local": "Sapele",
+        "en": "Sapele",
+        "slug": "sapele-ng010017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010017",
+        "level": 2,
+        "name": {
+          "local": "Sapele",
+          "en": "Sapele",
+          "slug": "sapele-ng010017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.836",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010017_sapele-urban-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sapele Urban Ii",
+      "en": "Sapele Urban Ii",
+      "slug": "sapele-urban-ii"
+    },
+    "code": {
+      "id": "NG010017_sapele-urban-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010017",
+      "level": 2,
+      "name": {
+        "local": "Sapele",
+        "en": "Sapele",
+        "slug": "sapele-ng010017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010017",
+        "level": 2,
+        "name": {
+          "local": "Sapele",
+          "en": "Sapele",
+          "slug": "sapele-ng010017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.836",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010017_sapele-urban-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sapele Urban Iii",
+      "en": "Sapele Urban Iii",
+      "slug": "sapele-urban-iii"
+    },
+    "code": {
+      "id": "NG010017_sapele-urban-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010017",
+      "level": 2,
+      "name": {
+        "local": "Sapele",
+        "en": "Sapele",
+        "slug": "sapele-ng010017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010017",
+        "level": 2,
+        "name": {
+          "local": "Sapele",
+          "en": "Sapele",
+          "slug": "sapele-ng010017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.836",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010017_sapele-urban-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sapele Urban Iv",
+      "en": "Sapele Urban Iv",
+      "slug": "sapele-urban-iv"
+    },
+    "code": {
+      "id": "NG010017_sapele-urban-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010017",
+      "level": 2,
+      "name": {
+        "local": "Sapele",
+        "en": "Sapele",
+        "slug": "sapele-ng010017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010017",
+        "level": 2,
+        "name": {
+          "local": "Sapele",
+          "en": "Sapele",
+          "slug": "sapele-ng010017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.836",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010017_sapele-urban-v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sapele Urban V",
+      "en": "Sapele Urban V",
+      "slug": "sapele-urban-v"
+    },
+    "code": {
+      "id": "NG010017_sapele-urban-v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010017",
+      "level": 2,
+      "name": {
+        "local": "Sapele",
+        "en": "Sapele",
+        "slug": "sapele-ng010017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010017",
+        "level": 2,
+        "name": {
+          "local": "Sapele",
+          "en": "Sapele",
+          "slug": "sapele-ng010017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.836",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010017_sapele-urban-vi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sapele Urban Vi",
+      "en": "Sapele Urban Vi",
+      "slug": "sapele-urban-vi"
+    },
+    "code": {
+      "id": "NG010017_sapele-urban-vi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010017",
+      "level": 2,
+      "name": {
+        "local": "Sapele",
+        "en": "Sapele",
+        "slug": "sapele-ng010017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010017",
+        "level": 2,
+        "name": {
+          "local": "Sapele",
+          "en": "Sapele",
+          "slug": "sapele-ng010017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.836",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010017_sapele-urban-vii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sapele Urban Vii",
+      "en": "Sapele Urban Vii",
+      "slug": "sapele-urban-vii"
+    },
+    "code": {
+      "id": "NG010017_sapele-urban-vii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010017",
+      "level": 2,
+      "name": {
+        "local": "Sapele",
+        "en": "Sapele",
+        "slug": "sapele-ng010017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010017",
+        "level": 2,
+        "name": {
+          "local": "Sapele",
+          "en": "Sapele",
+          "slug": "sapele-ng010017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.836",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010017_sapele-urban-viii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sapele Urban Viii",
+      "en": "Sapele Urban Viii",
+      "slug": "sapele-urban-viii"
+    },
+    "code": {
+      "id": "NG010017_sapele-urban-viii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010017",
+      "level": 2,
+      "name": {
+        "local": "Sapele",
+        "en": "Sapele",
+        "slug": "sapele-ng010017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010017",
+        "level": 2,
+        "name": {
+          "local": "Sapele",
+          "en": "Sapele",
+          "slug": "sapele-ng010017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.836",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

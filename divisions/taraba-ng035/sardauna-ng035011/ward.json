@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG035011_gembu-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gembu 'a'",
+      "en": "Gembu 'a'",
+      "slug": "gembu-a"
+    },
+    "code": {
+      "id": "NG035011_gembu-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035011",
+      "level": 2,
+      "name": {
+        "local": "Sardauna",
+        "en": "Sardauna",
+        "slug": "sardauna-ng035011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035011",
+        "level": 2,
+        "name": {
+          "local": "Sardauna",
+          "en": "Sardauna",
+          "slug": "sardauna-ng035011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "11.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035011_gembu-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gembu 'b'",
+      "en": "Gembu 'b'",
+      "slug": "gembu-b"
+    },
+    "code": {
+      "id": "NG035011_gembu-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035011",
+      "level": 2,
+      "name": {
+        "local": "Sardauna",
+        "en": "Sardauna",
+        "slug": "sardauna-ng035011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035011",
+        "level": 2,
+        "name": {
+          "local": "Sardauna",
+          "en": "Sardauna",
+          "slug": "sardauna-ng035011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "11.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035011_kabri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kabri",
+      "en": "Kabri",
+      "slug": "kabri"
+    },
+    "code": {
+      "id": "NG035011_kabri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035011",
+      "level": 2,
+      "name": {
+        "local": "Sardauna",
+        "en": "Sardauna",
+        "slug": "sardauna-ng035011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035011",
+        "level": 2,
+        "name": {
+          "local": "Sardauna",
+          "en": "Sardauna",
+          "slug": "sardauna-ng035011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "11.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035011_kakara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kakara",
+      "en": "Kakara",
+      "slug": "kakara"
+    },
+    "code": {
+      "id": "NG035011_kakara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035011",
+      "level": 2,
+      "name": {
+        "local": "Sardauna",
+        "en": "Sardauna",
+        "slug": "sardauna-ng035011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035011",
+        "level": 2,
+        "name": {
+          "local": "Sardauna",
+          "en": "Sardauna",
+          "slug": "sardauna-ng035011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "11.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035011_magu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magu",
+      "en": "Magu",
+      "slug": "magu"
+    },
+    "code": {
+      "id": "NG035011_magu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035011",
+      "level": 2,
+      "name": {
+        "local": "Sardauna",
+        "en": "Sardauna",
+        "slug": "sardauna-ng035011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035011",
+        "level": 2,
+        "name": {
+          "local": "Sardauna",
+          "en": "Sardauna",
+          "slug": "sardauna-ng035011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "11.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035011_mayo-ndaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayo-ndaga",
+      "en": "Mayo-ndaga",
+      "slug": "mayo-ndaga"
+    },
+    "code": {
+      "id": "NG035011_mayo-ndaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035011",
+      "level": 2,
+      "name": {
+        "local": "Sardauna",
+        "en": "Sardauna",
+        "slug": "sardauna-ng035011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035011",
+        "level": 2,
+        "name": {
+          "local": "Sardauna",
+          "en": "Sardauna",
+          "slug": "sardauna-ng035011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "11.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035011_mbamnga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbamnga",
+      "en": "Mbamnga",
+      "slug": "mbamnga"
+    },
+    "code": {
+      "id": "NG035011_mbamnga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035011",
+      "level": 2,
+      "name": {
+        "local": "Sardauna",
+        "en": "Sardauna",
+        "slug": "sardauna-ng035011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035011",
+        "level": 2,
+        "name": {
+          "local": "Sardauna",
+          "en": "Sardauna",
+          "slug": "sardauna-ng035011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "11.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035011_ndum-yaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndum-yaji",
+      "en": "Ndum-yaji",
+      "slug": "ndum-yaji"
+    },
+    "code": {
+      "id": "NG035011_ndum-yaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035011",
+      "level": 2,
+      "name": {
+        "local": "Sardauna",
+        "en": "Sardauna",
+        "slug": "sardauna-ng035011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035011",
+        "level": 2,
+        "name": {
+          "local": "Sardauna",
+          "en": "Sardauna",
+          "slug": "sardauna-ng035011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "11.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035011_nguroje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nguroje",
+      "en": "Nguroje",
+      "slug": "nguroje"
+    },
+    "code": {
+      "id": "NG035011_nguroje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035011",
+      "level": 2,
+      "name": {
+        "local": "Sardauna",
+        "en": "Sardauna",
+        "slug": "sardauna-ng035011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035011",
+        "level": 2,
+        "name": {
+          "local": "Sardauna",
+          "en": "Sardauna",
+          "slug": "sardauna-ng035011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "11.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035011_titong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Titong",
+      "en": "Titong",
+      "slug": "titong"
+    },
+    "code": {
+      "id": "NG035011_titong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035011",
+      "level": 2,
+      "name": {
+        "local": "Sardauna",
+        "en": "Sardauna",
+        "slug": "sardauna-ng035011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035011",
+        "level": 2,
+        "name": {
+          "local": "Sardauna",
+          "en": "Sardauna",
+          "slug": "sardauna-ng035011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "11.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035011_warwar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Warwar",
+      "en": "Warwar",
+      "slug": "warwar"
+    },
+    "code": {
+      "id": "NG035011_warwar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035011",
+      "level": 2,
+      "name": {
+        "local": "Sardauna",
+        "en": "Sardauna",
+        "slug": "sardauna-ng035011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035011",
+        "level": 2,
+        "name": {
+          "local": "Sardauna",
+          "en": "Sardauna",
+          "slug": "sardauna-ng035011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.928",
+      "lon": "11.231"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

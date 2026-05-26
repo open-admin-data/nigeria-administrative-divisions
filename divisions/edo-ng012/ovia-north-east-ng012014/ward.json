@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG012014_adolor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adolor",
+      "en": "Adolor",
+      "slug": "adolor"
+    },
+    "code": {
+      "id": "NG012014_adolor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012014_iguoshodin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iguoshodin",
+      "en": "Iguoshodin",
+      "slug": "iguoshodin"
+    },
+    "code": {
+      "id": "NG012014_iguoshodin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012014_isiuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isiuwa",
+      "en": "Isiuwa",
+      "slug": "isiuwa"
+    },
+    "code": {
+      "id": "NG012014_isiuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012014_oduna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oduna",
+      "en": "Oduna",
+      "slug": "oduna"
+    },
+    "code": {
+      "id": "NG012014_oduna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012014_ofunmwegbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ofunmwegbe",
+      "en": "Ofunmwegbe",
+      "slug": "ofunmwegbe"
+    },
+    "code": {
+      "id": "NG012014_ofunmwegbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012014_oghede",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oghede",
+      "en": "Oghede",
+      "slug": "oghede"
+    },
+    "code": {
+      "id": "NG012014_oghede",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012014_okada-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okada East",
+      "en": "Okada East",
+      "slug": "okada-east"
+    },
+    "code": {
+      "id": "NG012014_okada-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012014_okada-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okada West",
+      "en": "Okada West",
+      "slug": "okada-west"
+    },
+    "code": {
+      "id": "NG012014_okada-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012014_okokhuo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okokhuo",
+      "en": "Okokhuo",
+      "slug": "okokhuo"
+    },
+    "code": {
+      "id": "NG012014_okokhuo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012014_oluku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oluku",
+      "en": "Oluku",
+      "slug": "oluku"
+    },
+    "code": {
+      "id": "NG012014_oluku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012014_uhen",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uhen",
+      "en": "Uhen",
+      "slug": "uhen"
+    },
+    "code": {
+      "id": "NG012014_uhen",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012014_uhiere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uhiere",
+      "en": "Uhiere",
+      "slug": "uhiere"
+    },
+    "code": {
+      "id": "NG012014_uhiere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012014_utoka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Utoka",
+      "en": "Utoka",
+      "slug": "utoka"
+    },
+    "code": {
+      "id": "NG012014_utoka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012014",
+      "level": 2,
+      "name": {
+        "local": "Ovia North East",
+        "en": "Ovia North East",
+        "slug": "ovia-north-east-ng012014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012014",
+        "level": 2,
+        "name": {
+          "local": "Ovia North East",
+          "en": "Ovia North East",
+          "slug": "ovia-north-east-ng012014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "5.503"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG024011_adena",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adena",
+      "en": "Adena",
+      "slug": "adena"
+    },
+    "code": {
+      "id": "NG024011_adena",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024011",
+      "level": 2,
+      "name": {
+        "local": "Kaiama",
+        "en": "Kaiama",
+        "slug": "kaiama-ng024011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024011",
+        "level": 2,
+        "name": {
+          "local": "Kaiama",
+          "en": "Kaiama",
+          "slug": "kaiama-ng024011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.536",
+      "lon": "4.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024011_bani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bani",
+      "en": "Bani",
+      "slug": "bani"
+    },
+    "code": {
+      "id": "NG024011_bani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024011",
+      "level": 2,
+      "name": {
+        "local": "Kaiama",
+        "en": "Kaiama",
+        "slug": "kaiama-ng024011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024011",
+        "level": 2,
+        "name": {
+          "local": "Kaiama",
+          "en": "Kaiama",
+          "slug": "kaiama-ng024011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.536",
+      "lon": "4.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024011_gwanabe-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwanabe 1",
+      "en": "Gwanabe 1",
+      "slug": "gwanabe-1"
+    },
+    "code": {
+      "id": "NG024011_gwanabe-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024011",
+      "level": 2,
+      "name": {
+        "local": "Kaiama",
+        "en": "Kaiama",
+        "slug": "kaiama-ng024011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024011",
+        "level": 2,
+        "name": {
+          "local": "Kaiama",
+          "en": "Kaiama",
+          "slug": "kaiama-ng024011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.536",
+      "lon": "4.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024011_gwanabe-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwanabe 11",
+      "en": "Gwanabe 11",
+      "slug": "gwanabe-11"
+    },
+    "code": {
+      "id": "NG024011_gwanabe-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024011",
+      "level": 2,
+      "name": {
+        "local": "Kaiama",
+        "en": "Kaiama",
+        "slug": "kaiama-ng024011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024011",
+        "level": 2,
+        "name": {
+          "local": "Kaiama",
+          "en": "Kaiama",
+          "slug": "kaiama-ng024011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.536",
+      "lon": "4.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024011_gwari-a-gwaria",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwari A (gwaria)",
+      "en": "Gwari A (gwaria)",
+      "slug": "gwari-a-gwaria"
+    },
+    "code": {
+      "id": "NG024011_gwari-a-gwaria",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024011",
+      "level": 2,
+      "name": {
+        "local": "Kaiama",
+        "en": "Kaiama",
+        "slug": "kaiama-ng024011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024011",
+        "level": 2,
+        "name": {
+          "local": "Kaiama",
+          "en": "Kaiama",
+          "slug": "kaiama-ng024011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.536",
+      "lon": "4.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024011_kaiama-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaiama 1",
+      "en": "Kaiama 1",
+      "slug": "kaiama-1"
+    },
+    "code": {
+      "id": "NG024011_kaiama-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024011",
+      "level": 2,
+      "name": {
+        "local": "Kaiama",
+        "en": "Kaiama",
+        "slug": "kaiama-ng024011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024011",
+        "level": 2,
+        "name": {
+          "local": "Kaiama",
+          "en": "Kaiama",
+          "slug": "kaiama-ng024011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.536",
+      "lon": "4.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024011_kaiama-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaiama 11",
+      "en": "Kaiama 11",
+      "slug": "kaiama-11"
+    },
+    "code": {
+      "id": "NG024011_kaiama-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024011",
+      "level": 2,
+      "name": {
+        "local": "Kaiama",
+        "en": "Kaiama",
+        "slug": "kaiama-ng024011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024011",
+        "level": 2,
+        "name": {
+          "local": "Kaiama",
+          "en": "Kaiama",
+          "slug": "kaiama-ng024011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.536",
+      "lon": "4.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024011_kaiama-111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaiama 111",
+      "en": "Kaiama 111",
+      "slug": "kaiama-111"
+    },
+    "code": {
+      "id": "NG024011_kaiama-111",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024011",
+      "level": 2,
+      "name": {
+        "local": "Kaiama",
+        "en": "Kaiama",
+        "slug": "kaiama-ng024011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024011",
+        "level": 2,
+        "name": {
+          "local": "Kaiama",
+          "en": "Kaiama",
+          "slug": "kaiama-ng024011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.536",
+      "lon": "4.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024011_kemanji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kemanji",
+      "en": "Kemanji",
+      "slug": "kemanji"
+    },
+    "code": {
+      "id": "NG024011_kemanji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024011",
+      "level": 2,
+      "name": {
+        "local": "Kaiama",
+        "en": "Kaiama",
+        "slug": "kaiama-ng024011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024011",
+        "level": 2,
+        "name": {
+          "local": "Kaiama",
+          "en": "Kaiama",
+          "slug": "kaiama-ng024011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.536",
+      "lon": "4.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024011_wajibe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wajibe",
+      "en": "Wajibe",
+      "slug": "wajibe"
+    },
+    "code": {
+      "id": "NG024011_wajibe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024011",
+      "level": 2,
+      "name": {
+        "local": "Kaiama",
+        "en": "Kaiama",
+        "slug": "kaiama-ng024011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024011",
+        "level": 2,
+        "name": {
+          "local": "Kaiama",
+          "en": "Kaiama",
+          "slug": "kaiama-ng024011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.536",
+      "lon": "4.115"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

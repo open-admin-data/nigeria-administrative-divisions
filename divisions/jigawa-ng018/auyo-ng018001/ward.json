@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG018001_auyakayi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auyakayi",
+      "en": "Auyakayi",
+      "slug": "auyakayi"
+    },
+    "code": {
+      "id": "NG018001_auyakayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018001",
+      "level": 2,
+      "name": {
+        "local": "Auyo",
+        "en": "Auyo",
+        "slug": "auyo-ng018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018001",
+        "level": 2,
+        "name": {
+          "local": "Auyo",
+          "en": "Auyo",
+          "slug": "auyo-ng018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.338",
+      "lon": "9.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018001_auyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auyo",
+      "en": "Auyo",
+      "slug": "auyo"
+    },
+    "code": {
+      "id": "NG018001_auyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018001",
+      "level": 2,
+      "name": {
+        "local": "Auyo",
+        "en": "Auyo",
+        "slug": "auyo-ng018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018001",
+        "level": 2,
+        "name": {
+          "local": "Auyo",
+          "en": "Auyo",
+          "slug": "auyo-ng018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.338",
+      "lon": "9.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018001_ayama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayama",
+      "en": "Ayama",
+      "slug": "ayama"
+    },
+    "code": {
+      "id": "NG018001_ayama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018001",
+      "level": 2,
+      "name": {
+        "local": "Auyo",
+        "en": "Auyo",
+        "slug": "auyo-ng018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018001",
+        "level": 2,
+        "name": {
+          "local": "Auyo",
+          "en": "Auyo",
+          "slug": "auyo-ng018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.338",
+      "lon": "9.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018001_ayan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayan",
+      "en": "Ayan",
+      "slug": "ayan"
+    },
+    "code": {
+      "id": "NG018001_ayan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018001",
+      "level": 2,
+      "name": {
+        "local": "Auyo",
+        "en": "Auyo",
+        "slug": "auyo-ng018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018001",
+        "level": 2,
+        "name": {
+          "local": "Auyo",
+          "en": "Auyo",
+          "slug": "auyo-ng018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.338",
+      "lon": "9.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018001_gamafoi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamafoi",
+      "en": "Gamafoi",
+      "slug": "gamafoi"
+    },
+    "code": {
+      "id": "NG018001_gamafoi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018001",
+      "level": 2,
+      "name": {
+        "local": "Auyo",
+        "en": "Auyo",
+        "slug": "auyo-ng018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018001",
+        "level": 2,
+        "name": {
+          "local": "Auyo",
+          "en": "Auyo",
+          "slug": "auyo-ng018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.338",
+      "lon": "9.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018001_gamsarka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamsarka",
+      "en": "Gamsarka",
+      "slug": "gamsarka"
+    },
+    "code": {
+      "id": "NG018001_gamsarka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018001",
+      "level": 2,
+      "name": {
+        "local": "Auyo",
+        "en": "Auyo",
+        "slug": "auyo-ng018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018001",
+        "level": 2,
+        "name": {
+          "local": "Auyo",
+          "en": "Auyo",
+          "slug": "auyo-ng018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.338",
+      "lon": "9.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018001_gatafa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gatafa",
+      "en": "Gatafa",
+      "slug": "gatafa"
+    },
+    "code": {
+      "id": "NG018001_gatafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018001",
+      "level": 2,
+      "name": {
+        "local": "Auyo",
+        "en": "Auyo",
+        "slug": "auyo-ng018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018001",
+        "level": 2,
+        "name": {
+          "local": "Auyo",
+          "en": "Auyo",
+          "slug": "auyo-ng018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.338",
+      "lon": "9.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018001_kafur",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafur",
+      "en": "Kafur",
+      "slug": "kafur"
+    },
+    "code": {
+      "id": "NG018001_kafur",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018001",
+      "level": 2,
+      "name": {
+        "local": "Auyo",
+        "en": "Auyo",
+        "slug": "auyo-ng018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018001",
+        "level": 2,
+        "name": {
+          "local": "Auyo",
+          "en": "Auyo",
+          "slug": "auyo-ng018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.338",
+      "lon": "9.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018001_tsidir",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsidir",
+      "en": "Tsidir",
+      "slug": "tsidir"
+    },
+    "code": {
+      "id": "NG018001_tsidir",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018001",
+      "level": 2,
+      "name": {
+        "local": "Auyo",
+        "en": "Auyo",
+        "slug": "auyo-ng018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018001",
+        "level": 2,
+        "name": {
+          "local": "Auyo",
+          "en": "Auyo",
+          "slug": "auyo-ng018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.338",
+      "lon": "9.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018001_unik",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unik",
+      "en": "Unik",
+      "slug": "unik"
+    },
+    "code": {
+      "id": "NG018001_unik",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018001",
+      "level": 2,
+      "name": {
+        "local": "Auyo",
+        "en": "Auyo",
+        "slug": "auyo-ng018001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018001",
+        "level": 2,
+        "name": {
+          "local": "Auyo",
+          "en": "Auyo",
+          "slug": "auyo-ng018001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.338",
+      "lon": "9.919"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

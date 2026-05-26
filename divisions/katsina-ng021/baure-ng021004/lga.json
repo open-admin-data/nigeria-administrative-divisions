@@ -1,0 +1,47 @@
+{
+  "id": "NG021004",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Baure",
+    "en": "Baure",
+    "slug": "baure-ng021004"
+  },
+  "code": {
+    "id": "NG021004",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG021",
+    "level": 1,
+    "name": {
+      "local": "Katsina",
+      "en": "Katsina",
+      "slug": "katsina-ng021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG021",
+      "level": 1,
+      "name": {
+        "local": "Katsina",
+        "en": "Katsina",
+        "slug": "katsina-ng021"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.794",
+    "lon": "8.782"
+  },
+  "metadata": {},
+  "source": {}
+}

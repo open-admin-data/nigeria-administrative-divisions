@@ -1,0 +1,47 @@
+{
+  "id": "NG003026",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Oruk Anam",
+    "en": "Oruk Anam",
+    "slug": "oruk-anam-ng003026"
+  },
+  "code": {
+    "id": "NG003026",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG003",
+    "level": 1,
+    "name": {
+      "local": "Akwa Ibom",
+      "en": "Akwa Ibom",
+      "slug": "akwa-ibom-ng003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.828",
+    "lon": "7.697"
+  },
+  "metadata": {},
+  "source": {}
+}

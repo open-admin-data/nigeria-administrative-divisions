@@ -1,0 +1,47 @@
+{
+  "id": "NG002021",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Yola South",
+    "en": "Yola South",
+    "slug": "yola-south-ng002021"
+  },
+  "code": {
+    "id": "NG002021",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG002",
+    "level": 1,
+    "name": {
+      "local": "Adamawa",
+      "en": "Adamawa",
+      "slug": "adamawa-ng002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.272",
+    "lon": "12.261"
+  },
+  "metadata": {},
+  "source": {}
+}

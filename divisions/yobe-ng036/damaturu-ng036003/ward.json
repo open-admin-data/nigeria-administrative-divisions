@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG036003_bindigaripawari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bindigari/pawari",
+      "en": "Bindigari/pawari",
+      "slug": "bindigaripawari"
+    },
+    "code": {
+      "id": "NG036003_bindigaripawari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036003",
+      "level": 2,
+      "name": {
+        "local": "Damaturu",
+        "en": "Damaturu",
+        "slug": "damaturu-ng036003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036003",
+        "level": 2,
+        "name": {
+          "local": "Damaturu",
+          "en": "Damaturu",
+          "slug": "damaturu-ng036003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "11.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036003_damakasu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damakasu",
+      "en": "Damakasu",
+      "slug": "damakasu"
+    },
+    "code": {
+      "id": "NG036003_damakasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036003",
+      "level": 2,
+      "name": {
+        "local": "Damaturu",
+        "en": "Damaturu",
+        "slug": "damaturu-ng036003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036003",
+        "level": 2,
+        "name": {
+          "local": "Damaturu",
+          "en": "Damaturu",
+          "slug": "damaturu-ng036003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.799",
+      "lon": "12.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036003_damaturu-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damaturu Central",
+      "en": "Damaturu Central",
+      "slug": "damaturu-central"
+    },
+    "code": {
+      "id": "NG036003_damaturu-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036003",
+      "level": 2,
+      "name": {
+        "local": "Damaturu",
+        "en": "Damaturu",
+        "slug": "damaturu-ng036003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036003",
+        "level": 2,
+        "name": {
+          "local": "Damaturu",
+          "en": "Damaturu",
+          "slug": "damaturu-ng036003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.745",
+      "lon": "11.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036003_gambirmaduri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gambir/maduri",
+      "en": "Gambir/maduri",
+      "slug": "gambirmaduri"
+    },
+    "code": {
+      "id": "NG036003_gambirmaduri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036003",
+      "level": 2,
+      "name": {
+        "local": "Damaturu",
+        "en": "Damaturu",
+        "slug": "damaturu-ng036003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036003",
+        "level": 2,
+        "name": {
+          "local": "Damaturu",
+          "en": "Damaturu",
+          "slug": "damaturu-ng036003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.688",
+      "lon": "12.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036003_kalallawagabai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kalallawa/gabai",
+      "en": "Kalallawa/gabai",
+      "slug": "kalallawagabai"
+    },
+    "code": {
+      "id": "NG036003_kalallawagabai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036003",
+      "level": 2,
+      "name": {
+        "local": "Damaturu",
+        "en": "Damaturu",
+        "slug": "damaturu-ng036003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036003",
+        "level": 2,
+        "name": {
+          "local": "Damaturu",
+          "en": "Damaturu",
+          "slug": "damaturu-ng036003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.947",
+      "lon": "11.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036003_kukaretawarsala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kukareta/warsala",
+      "en": "Kukareta/warsala",
+      "slug": "kukaretawarsala"
+    },
+    "code": {
+      "id": "NG036003_kukaretawarsala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036003",
+      "level": 2,
+      "name": {
+        "local": "Damaturu",
+        "en": "Damaturu",
+        "slug": "damaturu-ng036003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036003",
+        "level": 2,
+        "name": {
+          "local": "Damaturu",
+          "en": "Damaturu",
+          "slug": "damaturu-ng036003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.905",
+      "lon": "12.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036003_maisandariwaziri-ibrahim-estate",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maisandari/waziri Ibrahim Estate",
+      "en": "Maisandari/waziri Ibrahim Estate",
+      "slug": "maisandariwaziri-ibrahim-estate"
+    },
+    "code": {
+      "id": "NG036003_maisandariwaziri-ibrahim-estate",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036003",
+      "level": 2,
+      "name": {
+        "local": "Damaturu",
+        "en": "Damaturu",
+        "slug": "damaturu-ng036003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036003",
+        "level": 2,
+        "name": {
+          "local": "Damaturu",
+          "en": "Damaturu",
+          "slug": "damaturu-ng036003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "12.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036003_murfa-kalam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Murfa Kalam",
+      "en": "Murfa Kalam",
+      "slug": "murfa-kalam"
+    },
+    "code": {
+      "id": "NG036003_murfa-kalam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036003",
+      "level": 2,
+      "name": {
+        "local": "Damaturu",
+        "en": "Damaturu",
+        "slug": "damaturu-ng036003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036003",
+        "level": 2,
+        "name": {
+          "local": "Damaturu",
+          "en": "Damaturu",
+          "slug": "damaturu-ng036003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.659",
+      "lon": "11.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036003_nayinawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nayinawa",
+      "en": "Nayinawa",
+      "slug": "nayinawa"
+    },
+    "code": {
+      "id": "NG036003_nayinawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036003",
+      "level": 2,
+      "name": {
+        "local": "Damaturu",
+        "en": "Damaturu",
+        "slug": "damaturu-ng036003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036003",
+        "level": 2,
+        "name": {
+          "local": "Damaturu",
+          "en": "Damaturu",
+          "slug": "damaturu-ng036003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.726",
+      "lon": "11.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036003_njiwajigwange",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Njiwaji/gwange",
+      "en": "Njiwaji/gwange",
+      "slug": "njiwajigwange"
+    },
+    "code": {
+      "id": "NG036003_njiwajigwange",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036003",
+      "level": 2,
+      "name": {
+        "local": "Damaturu",
+        "en": "Damaturu",
+        "slug": "damaturu-ng036003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036003",
+        "level": 2,
+        "name": {
+          "local": "Damaturu",
+          "en": "Damaturu",
+          "slug": "damaturu-ng036003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.767",
+      "lon": "11.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036003_sasawakabaru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sasawa/kabaru",
+      "en": "Sasawa/kabaru",
+      "slug": "sasawakabaru"
+    },
+    "code": {
+      "id": "NG036003_sasawakabaru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036003",
+      "level": 2,
+      "name": {
+        "local": "Damaturu",
+        "en": "Damaturu",
+        "slug": "damaturu-ng036003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036003",
+        "level": 2,
+        "name": {
+          "local": "Damaturu",
+          "en": "Damaturu",
+          "slug": "damaturu-ng036003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.83",
+      "lon": "11.987"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

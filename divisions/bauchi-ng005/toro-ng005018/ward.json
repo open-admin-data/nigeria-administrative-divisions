@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG005018_jamaa-zaranda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jama'a / Zaranda",
+      "en": "Jama'a / Zaranda",
+      "slug": "jamaa-zaranda"
+    },
+    "code": {
+      "id": "NG005018_jamaa-zaranda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005018",
+      "level": 2,
+      "name": {
+        "local": "Toro",
+        "en": "Toro",
+        "slug": "toro-ng005018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005018",
+        "level": 2,
+        "name": {
+          "local": "Toro",
+          "en": "Toro",
+          "slug": "toro-ng005018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.368",
+      "lon": "9.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005018_lame",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lame",
+      "en": "Lame",
+      "slug": "lame"
+    },
+    "code": {
+      "id": "NG005018_lame",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005018",
+      "level": 2,
+      "name": {
+        "local": "Toro",
+        "en": "Toro",
+        "slug": "toro-ng005018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005018",
+        "level": 2,
+        "name": {
+          "local": "Toro",
+          "en": "Toro",
+          "slug": "toro-ng005018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.368",
+      "lon": "9.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005018_mara-palama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mara / Palama",
+      "en": "Mara / Palama",
+      "slug": "mara-palama"
+    },
+    "code": {
+      "id": "NG005018_mara-palama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005018",
+      "level": 2,
+      "name": {
+        "local": "Toro",
+        "en": "Toro",
+        "slug": "toro-ng005018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005018",
+        "level": 2,
+        "name": {
+          "local": "Toro",
+          "en": "Toro",
+          "slug": "toro-ng005018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.368",
+      "lon": "9.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005018_rahama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rahama",
+      "en": "Rahama",
+      "slug": "rahama"
+    },
+    "code": {
+      "id": "NG005018_rahama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005018",
+      "level": 2,
+      "name": {
+        "local": "Toro",
+        "en": "Toro",
+        "slug": "toro-ng005018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005018",
+        "level": 2,
+        "name": {
+          "local": "Toro",
+          "en": "Toro",
+          "slug": "toro-ng005018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.368",
+      "lon": "9.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005018_rauta-geji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rauta / Geji",
+      "en": "Rauta / Geji",
+      "slug": "rauta-geji"
+    },
+    "code": {
+      "id": "NG005018_rauta-geji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005018",
+      "level": 2,
+      "name": {
+        "local": "Toro",
+        "en": "Toro",
+        "slug": "toro-ng005018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005018",
+        "level": 2,
+        "name": {
+          "local": "Toro",
+          "en": "Toro",
+          "slug": "toro-ng005018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.368",
+      "lon": "9.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005018_ribina",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ribina",
+      "en": "Ribina",
+      "slug": "ribina"
+    },
+    "code": {
+      "id": "NG005018_ribina",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005018",
+      "level": 2,
+      "name": {
+        "local": "Toro",
+        "en": "Toro",
+        "slug": "toro-ng005018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005018",
+        "level": 2,
+        "name": {
+          "local": "Toro",
+          "en": "Toro",
+          "slug": "toro-ng005018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.368",
+      "lon": "9.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005018_tama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tama",
+      "en": "Tama",
+      "slug": "tama"
+    },
+    "code": {
+      "id": "NG005018_tama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005018",
+      "level": 2,
+      "name": {
+        "local": "Toro",
+        "en": "Toro",
+        "slug": "toro-ng005018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005018",
+        "level": 2,
+        "name": {
+          "local": "Toro",
+          "en": "Toro",
+          "slug": "toro-ng005018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.368",
+      "lon": "9.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005018_tilden-fulani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tilden Fulani",
+      "en": "Tilden Fulani",
+      "slug": "tilden-fulani"
+    },
+    "code": {
+      "id": "NG005018_tilden-fulani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005018",
+      "level": 2,
+      "name": {
+        "local": "Toro",
+        "en": "Toro",
+        "slug": "toro-ng005018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005018",
+        "level": 2,
+        "name": {
+          "local": "Toro",
+          "en": "Toro",
+          "slug": "toro-ng005018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.368",
+      "lon": "9.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005018_toro-tulai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Toro / Tulai",
+      "en": "Toro / Tulai",
+      "slug": "toro-tulai"
+    },
+    "code": {
+      "id": "NG005018_toro-tulai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005018",
+      "level": 2,
+      "name": {
+        "local": "Toro",
+        "en": "Toro",
+        "slug": "toro-ng005018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005018",
+        "level": 2,
+        "name": {
+          "local": "Toro",
+          "en": "Toro",
+          "slug": "toro-ng005018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.368",
+      "lon": "9.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005018_wonu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wonu",
+      "en": "Wonu",
+      "slug": "wonu"
+    },
+    "code": {
+      "id": "NG005018_wonu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005018",
+      "level": 2,
+      "name": {
+        "local": "Toro",
+        "en": "Toro",
+        "slug": "toro-ng005018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005018",
+        "level": 2,
+        "name": {
+          "local": "Toro",
+          "en": "Toro",
+          "slug": "toro-ng005018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.368",
+      "lon": "9.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005018_zalau-rishi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zalau / Rishi",
+      "en": "Zalau / Rishi",
+      "slug": "zalau-rishi"
+    },
+    "code": {
+      "id": "NG005018_zalau-rishi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005018",
+      "level": 2,
+      "name": {
+        "local": "Toro",
+        "en": "Toro",
+        "slug": "toro-ng005018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005018",
+        "level": 2,
+        "name": {
+          "local": "Toro",
+          "en": "Toro",
+          "slug": "toro-ng005018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.368",
+      "lon": "9.252"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG030003_ajebandele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajebandele",
+      "en": "Ajebandele",
+      "slug": "ajebandele"
+    },
+    "code": {
+      "id": "NG030003_ajebandele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030003",
+      "level": 2,
+      "name": {
+        "local": "Atakumosa East",
+        "en": "Atakumosa East",
+        "slug": "atakumosa-east-ng030003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030003",
+        "level": 2,
+        "name": {
+          "local": "Atakumosa East",
+          "en": "Atakumosa East",
+          "slug": "atakumosa-east-ng030003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.41",
+      "lon": "4.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030003_ayegunle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayegunle",
+      "en": "Ayegunle",
+      "slug": "ayegunle"
+    },
+    "code": {
+      "id": "NG030003_ayegunle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030003",
+      "level": 2,
+      "name": {
+        "local": "Atakumosa East",
+        "en": "Atakumosa East",
+        "slug": "atakumosa-east-ng030003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030003",
+        "level": 2,
+        "name": {
+          "local": "Atakumosa East",
+          "en": "Atakumosa East",
+          "slug": "atakumosa-east-ng030003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.41",
+      "lon": "4.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030003_eti-oni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eti-oni",
+      "en": "Eti-oni",
+      "slug": "eti-oni"
+    },
+    "code": {
+      "id": "NG030003_eti-oni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030003",
+      "level": 2,
+      "name": {
+        "local": "Atakumosa East",
+        "en": "Atakumosa East",
+        "slug": "atakumosa-east-ng030003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030003",
+        "level": 2,
+        "name": {
+          "local": "Atakumosa East",
+          "en": "Atakumosa East",
+          "slug": "atakumosa-east-ng030003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.41",
+      "lon": "4.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030003_faforiji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Faforiji",
+      "en": "Faforiji",
+      "slug": "faforiji"
+    },
+    "code": {
+      "id": "NG030003_faforiji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030003",
+      "level": 2,
+      "name": {
+        "local": "Atakumosa East",
+        "en": "Atakumosa East",
+        "slug": "atakumosa-east-ng030003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030003",
+        "level": 2,
+        "name": {
+          "local": "Atakumosa East",
+          "en": "Atakumosa East",
+          "slug": "atakumosa-east-ng030003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.41",
+      "lon": "4.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030003_forest-reserve-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Forest Reserve 1",
+      "en": "Forest Reserve 1",
+      "slug": "forest-reserve-1"
+    },
+    "code": {
+      "id": "NG030003_forest-reserve-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030003",
+      "level": 2,
+      "name": {
+        "local": "Atakumosa East",
+        "en": "Atakumosa East",
+        "slug": "atakumosa-east-ng030003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030003",
+        "level": 2,
+        "name": {
+          "local": "Atakumosa East",
+          "en": "Atakumosa East",
+          "slug": "atakumosa-east-ng030003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.41",
+      "lon": "4.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030003_forest-reserve-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Forest Reserve Ii",
+      "en": "Forest Reserve Ii",
+      "slug": "forest-reserve-ii"
+    },
+    "code": {
+      "id": "NG030003_forest-reserve-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030003",
+      "level": 2,
+      "name": {
+        "local": "Atakumosa East",
+        "en": "Atakumosa East",
+        "slug": "atakumosa-east-ng030003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030003",
+        "level": 2,
+        "name": {
+          "local": "Atakumosa East",
+          "en": "Atakumosa East",
+          "slug": "atakumosa-east-ng030003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.41",
+      "lon": "4.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030003_igangan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igangan",
+      "en": "Igangan",
+      "slug": "igangan"
+    },
+    "code": {
+      "id": "NG030003_igangan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030003",
+      "level": 2,
+      "name": {
+        "local": "Atakumosa East",
+        "en": "Atakumosa East",
+        "slug": "atakumosa-east-ng030003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030003",
+        "level": 2,
+        "name": {
+          "local": "Atakumosa East",
+          "en": "Atakumosa East",
+          "slug": "atakumosa-east-ng030003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.41",
+      "lon": "4.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030003_iperindo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iperindo",
+      "en": "Iperindo",
+      "slug": "iperindo"
+    },
+    "code": {
+      "id": "NG030003_iperindo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030003",
+      "level": 2,
+      "name": {
+        "local": "Atakumosa East",
+        "en": "Atakumosa East",
+        "slug": "atakumosa-east-ng030003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030003",
+        "level": 2,
+        "name": {
+          "local": "Atakumosa East",
+          "en": "Atakumosa East",
+          "slug": "atakumosa-east-ng030003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.41",
+      "lon": "4.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030003_ipole",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipole",
+      "en": "Ipole",
+      "slug": "ipole"
+    },
+    "code": {
+      "id": "NG030003_ipole",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030003",
+      "level": 2,
+      "name": {
+        "local": "Atakumosa East",
+        "en": "Atakumosa East",
+        "slug": "atakumosa-east-ng030003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030003",
+        "level": 2,
+        "name": {
+          "local": "Atakumosa East",
+          "en": "Atakumosa East",
+          "slug": "atakumosa-east-ng030003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.41",
+      "lon": "4.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030003_iwara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iwara",
+      "en": "Iwara",
+      "slug": "iwara"
+    },
+    "code": {
+      "id": "NG030003_iwara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030003",
+      "level": 2,
+      "name": {
+        "local": "Atakumosa East",
+        "en": "Atakumosa East",
+        "slug": "atakumosa-east-ng030003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030003",
+        "level": 2,
+        "name": {
+          "local": "Atakumosa East",
+          "en": "Atakumosa East",
+          "slug": "atakumosa-east-ng030003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.41",
+      "lon": "4.752"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG019005_auchan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auchan",
+      "en": "Auchan",
+      "slug": "auchan"
+    },
+    "code": {
+      "id": "NG019005_auchan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019005",
+      "level": 2,
+      "name": {
+        "local": "Ikara",
+        "en": "Ikara",
+        "slug": "ikara-ng019005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019005",
+        "level": 2,
+        "name": {
+          "local": "Ikara",
+          "en": "Ikara",
+          "slug": "ikara-ng019005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "8.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019005_ikara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikara",
+      "en": "Ikara",
+      "slug": "ikara"
+    },
+    "code": {
+      "id": "NG019005_ikara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019005",
+      "level": 2,
+      "name": {
+        "local": "Ikara",
+        "en": "Ikara",
+        "slug": "ikara-ng019005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019005",
+        "level": 2,
+        "name": {
+          "local": "Ikara",
+          "en": "Ikara",
+          "slug": "ikara-ng019005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "8.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019005_janfala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Janfala",
+      "en": "Janfala",
+      "slug": "janfala"
+    },
+    "code": {
+      "id": "NG019005_janfala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019005",
+      "level": 2,
+      "name": {
+        "local": "Ikara",
+        "en": "Ikara",
+        "slug": "ikara-ng019005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019005",
+        "level": 2,
+        "name": {
+          "local": "Ikara",
+          "en": "Ikara",
+          "slug": "ikara-ng019005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "8.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019005_kkogi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "K/kogi",
+      "en": "K/kogi",
+      "slug": "kkogi"
+    },
+    "code": {
+      "id": "NG019005_kkogi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019005",
+      "level": 2,
+      "name": {
+        "local": "Ikara",
+        "en": "Ikara",
+        "slug": "ikara-ng019005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019005",
+        "level": 2,
+        "name": {
+          "local": "Ikara",
+          "en": "Ikara",
+          "slug": "ikara-ng019005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "8.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019005_kuya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuya",
+      "en": "Kuya",
+      "slug": "kuya"
+    },
+    "code": {
+      "id": "NG019005_kuya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019005",
+      "level": 2,
+      "name": {
+        "local": "Ikara",
+        "en": "Ikara",
+        "slug": "ikara-ng019005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019005",
+        "level": 2,
+        "name": {
+          "local": "Ikara",
+          "en": "Ikara",
+          "slug": "ikara-ng019005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "8.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019005_paki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Paki",
+      "en": "Paki",
+      "slug": "paki"
+    },
+    "code": {
+      "id": "NG019005_paki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019005",
+      "level": 2,
+      "name": {
+        "local": "Ikara",
+        "en": "Ikara",
+        "slug": "ikara-ng019005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019005",
+        "level": 2,
+        "name": {
+          "local": "Ikara",
+          "en": "Ikara",
+          "slug": "ikara-ng019005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "8.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019005_pala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pala",
+      "en": "Pala",
+      "slug": "pala"
+    },
+    "code": {
+      "id": "NG019005_pala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019005",
+      "level": 2,
+      "name": {
+        "local": "Ikara",
+        "en": "Ikara",
+        "slug": "ikara-ng019005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019005",
+        "level": 2,
+        "name": {
+          "local": "Ikara",
+          "en": "Ikara",
+          "slug": "ikara-ng019005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "8.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019005_rumi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumi",
+      "en": "Rumi",
+      "slug": "rumi"
+    },
+    "code": {
+      "id": "NG019005_rumi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019005",
+      "level": 2,
+      "name": {
+        "local": "Ikara",
+        "en": "Ikara",
+        "slug": "ikara-ng019005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019005",
+        "level": 2,
+        "name": {
+          "local": "Ikara",
+          "en": "Ikara",
+          "slug": "ikara-ng019005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "8.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019005_saulawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Saulawa",
+      "en": "Saulawa",
+      "slug": "saulawa"
+    },
+    "code": {
+      "id": "NG019005_saulawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019005",
+      "level": 2,
+      "name": {
+        "local": "Ikara",
+        "en": "Ikara",
+        "slug": "ikara-ng019005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019005",
+        "level": 2,
+        "name": {
+          "local": "Ikara",
+          "en": "Ikara",
+          "slug": "ikara-ng019005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "8.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019005_saya-saya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Saya-saya",
+      "en": "Saya-saya",
+      "slug": "saya-saya"
+    },
+    "code": {
+      "id": "NG019005_saya-saya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019005",
+      "level": 2,
+      "name": {
+        "local": "Ikara",
+        "en": "Ikara",
+        "slug": "ikara-ng019005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019005",
+        "level": 2,
+        "name": {
+          "local": "Ikara",
+          "en": "Ikara",
+          "slug": "ikara-ng019005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "8.147"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

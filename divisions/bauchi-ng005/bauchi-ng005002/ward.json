@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG005002_birshimiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birshi/miri",
+      "en": "Birshi/miri",
+      "slug": "birshimiri"
+    },
+    "code": {
+      "id": "NG005002_birshimiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005002",
+      "level": 2,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005002",
+        "level": 2,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "9.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005002_daniya-hardo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan'iya Hardo",
+      "en": "Dan'iya Hardo",
+      "slug": "daniya-hardo"
+    },
+    "code": {
+      "id": "NG005002_daniya-hardo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005002",
+      "level": 2,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005002",
+        "level": 2,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "9.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005002_dandangoyamrat",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dandango/yamrat",
+      "en": "Dandango/yamrat",
+      "slug": "dandangoyamrat"
+    },
+    "code": {
+      "id": "NG005002_dandangoyamrat",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005002",
+      "level": 2,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005002",
+        "level": 2,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "9.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005002_dawaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dawaki",
+      "en": "Dawaki",
+      "slug": "dawaki"
+    },
+    "code": {
+      "id": "NG005002_dawaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005002",
+      "level": 2,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005002",
+        "level": 2,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "9.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005002_galambigwaskwaram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galambi/gwaskwaram",
+      "en": "Galambi/gwaskwaram",
+      "slug": "galambigwaskwaram"
+    },
+    "code": {
+      "id": "NG005002_galambigwaskwaram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005002",
+      "level": 2,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005002",
+        "level": 2,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "9.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005002_kangyareturwun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kangyare/turwun",
+      "en": "Kangyare/turwun",
+      "slug": "kangyareturwun"
+    },
+    "code": {
+      "id": "NG005002_kangyareturwun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005002",
+      "level": 2,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005002",
+        "level": 2,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "9.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005002_kundumdurum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kundum/durum",
+      "en": "Kundum/durum",
+      "slug": "kundumdurum"
+    },
+    "code": {
+      "id": "NG005002_kundumdurum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005002",
+      "level": 2,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005002",
+        "level": 2,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "9.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005002_majidadi-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Majidadi 'a'",
+      "en": "Majidadi 'a'",
+      "slug": "majidadi-a"
+    },
+    "code": {
+      "id": "NG005002_majidadi-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005002",
+      "level": 2,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005002",
+        "level": 2,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "9.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005002_majidadi-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Majidadi 'b'",
+      "en": "Majidadi 'b'",
+      "slug": "majidadi-b"
+    },
+    "code": {
+      "id": "NG005002_majidadi-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005002",
+      "level": 2,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005002",
+        "level": 2,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "9.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005002_makamasarki-baki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makama/sarki Baki",
+      "en": "Makama/sarki Baki",
+      "slug": "makamasarki-baki"
+    },
+    "code": {
+      "id": "NG005002_makamasarki-baki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005002",
+      "level": 2,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005002",
+        "level": 2,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "9.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005002_munmunsal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mun/munsal",
+      "en": "Mun/munsal",
+      "slug": "munmunsal"
+    },
+    "code": {
+      "id": "NG005002_munmunsal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005002",
+      "level": 2,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005002",
+        "level": 2,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "9.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005002_zungurliman-katagum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zungur/liman Katagum",
+      "en": "Zungur/liman Katagum",
+      "slug": "zungurliman-katagum"
+    },
+    "code": {
+      "id": "NG005002_zungurliman-katagum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005002",
+      "level": 2,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005002",
+        "level": 2,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.245",
+      "lon": "9.956"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

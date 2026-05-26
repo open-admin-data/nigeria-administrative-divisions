@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021019_burdugau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Burdugau",
+      "en": "Burdugau",
+      "slug": "burdugau"
+    },
+    "code": {
+      "id": "NG021019_burdugau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021019",
+      "level": 2,
+      "name": {
+        "local": "Kankara",
+        "en": "Kankara",
+        "slug": "kankara-ng021019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021019",
+        "level": 2,
+        "name": {
+          "local": "Kankara",
+          "en": "Kankara",
+          "slug": "kankara-ng021019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.02",
+      "lon": "7.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021019_dan-murabu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Murabu",
+      "en": "Dan Murabu",
+      "slug": "dan-murabu"
+    },
+    "code": {
+      "id": "NG021019_dan-murabu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021019",
+      "level": 2,
+      "name": {
+        "local": "Kankara",
+        "en": "Kankara",
+        "slug": "kankara-ng021019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021019",
+        "level": 2,
+        "name": {
+          "local": "Kankara",
+          "en": "Kankara",
+          "slug": "kankara-ng021019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.02",
+      "lon": "7.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021019_danmaidaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan'maidaki",
+      "en": "Dan'maidaki",
+      "slug": "danmaidaki"
+    },
+    "code": {
+      "id": "NG021019_danmaidaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021019",
+      "level": 2,
+      "name": {
+        "local": "Kankara",
+        "en": "Kankara",
+        "slug": "kankara-ng021019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021019",
+        "level": 2,
+        "name": {
+          "local": "Kankara",
+          "en": "Kankara",
+          "slug": "kankara-ng021019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.02",
+      "lon": "7.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021019_garagi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garagi",
+      "en": "Garagi",
+      "slug": "garagi"
+    },
+    "code": {
+      "id": "NG021019_garagi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021019",
+      "level": 2,
+      "name": {
+        "local": "Kankara",
+        "en": "Kankara",
+        "slug": "kankara-ng021019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021019",
+        "level": 2,
+        "name": {
+          "local": "Kankara",
+          "en": "Kankara",
+          "slug": "kankara-ng021019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.02",
+      "lon": "7.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021019_gatakawa-sgarimabai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gatakawa S/gari/mabai",
+      "en": "Gatakawa S/gari/mabai",
+      "slug": "gatakawa-sgarimabai"
+    },
+    "code": {
+      "id": "NG021019_gatakawa-sgarimabai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021019",
+      "level": 2,
+      "name": {
+        "local": "Kankara",
+        "en": "Kankara",
+        "slug": "kankara-ng021019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021019",
+        "level": 2,
+        "name": {
+          "local": "Kankara",
+          "en": "Kankara",
+          "slug": "kankara-ng021019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.02",
+      "lon": "7.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021019_hurya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hurya",
+      "en": "Hurya",
+      "slug": "hurya"
+    },
+    "code": {
+      "id": "NG021019_hurya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021019",
+      "level": 2,
+      "name": {
+        "local": "Kankara",
+        "en": "Kankara",
+        "slug": "kankara-ng021019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021019",
+        "level": 2,
+        "name": {
+          "local": "Kankara",
+          "en": "Kankara",
+          "slug": "kankara-ng021019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.02",
+      "lon": "7.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021019_kankara-ab",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kankara A&b",
+      "en": "Kankara A&b",
+      "slug": "kankara-ab"
+    },
+    "code": {
+      "id": "NG021019_kankara-ab",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021019",
+      "level": 2,
+      "name": {
+        "local": "Kankara",
+        "en": "Kankara",
+        "slug": "kankara-ng021019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021019",
+        "level": 2,
+        "name": {
+          "local": "Kankara",
+          "en": "Kankara",
+          "slug": "kankara-ng021019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.02",
+      "lon": "7.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021019_kukasheka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kukasheka",
+      "en": "Kukasheka",
+      "slug": "kukasheka"
+    },
+    "code": {
+      "id": "NG021019_kukasheka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021019",
+      "level": 2,
+      "name": {
+        "local": "Kankara",
+        "en": "Kankara",
+        "slug": "kankara-ng021019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021019",
+        "level": 2,
+        "name": {
+          "local": "Kankara",
+          "en": "Kankara",
+          "slug": "kankara-ng021019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.02",
+      "lon": "7.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021019_pauwa-ab",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pauwa A&b",
+      "en": "Pauwa A&b",
+      "slug": "pauwa-ab"
+    },
+    "code": {
+      "id": "NG021019_pauwa-ab",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021019",
+      "level": 2,
+      "name": {
+        "local": "Kankara",
+        "en": "Kankara",
+        "slug": "kankara-ng021019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021019",
+        "level": 2,
+        "name": {
+          "local": "Kankara",
+          "en": "Kankara",
+          "slug": "kankara-ng021019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.02",
+      "lon": "7.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021019_wawar-kaza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wawar Kaza",
+      "en": "Wawar Kaza",
+      "slug": "wawar-kaza"
+    },
+    "code": {
+      "id": "NG021019_wawar-kaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021019",
+      "level": 2,
+      "name": {
+        "local": "Kankara",
+        "en": "Kankara",
+        "slug": "kankara-ng021019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021019",
+        "level": 2,
+        "name": {
+          "local": "Kankara",
+          "en": "Kankara",
+          "slug": "kankara-ng021019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.02",
+      "lon": "7.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021019_zangozabaro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zango/zabaro",
+      "en": "Zango/zabaro",
+      "slug": "zangozabaro"
+    },
+    "code": {
+      "id": "NG021019_zangozabaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021019",
+      "level": 2,
+      "name": {
+        "local": "Kankara",
+        "en": "Kankara",
+        "slug": "kankara-ng021019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021019",
+        "level": 2,
+        "name": {
+          "local": "Kankara",
+          "en": "Kankara",
+          "slug": "kankara-ng021019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.02",
+      "lon": "7.347"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "NG027022_allawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Allawa",
+      "en": "Allawa",
+      "slug": "allawa"
+    },
+    "code": {
+      "id": "NG027022_allawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_bangajiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bangajiya",
+      "en": "Bangajiya",
+      "slug": "bangajiya"
+    },
+    "code": {
+      "id": "NG027022_bangajiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_bassakukoki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bassa/kukoki",
+      "en": "Bassa/kukoki",
+      "slug": "bassakukoki"
+    },
+    "code": {
+      "id": "NG027022_bassakukoki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_egwagwada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egwa/gwada",
+      "en": "Egwa/gwada",
+      "slug": "egwagwada"
+    },
+    "code": {
+      "id": "NG027022_egwagwada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_erana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Erana",
+      "en": "Erana",
+      "slug": "erana"
+    },
+    "code": {
+      "id": "NG027022_erana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_galkogo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galkogo",
+      "en": "Galkogo",
+      "slug": "galkogo"
+    },
+    "code": {
+      "id": "NG027022_galkogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_gurmana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gurmana",
+      "en": "Gurmana",
+      "slug": "gurmana"
+    },
+    "code": {
+      "id": "NG027022_gurmana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_gussoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gussoro",
+      "en": "Gussoro",
+      "slug": "gussoro"
+    },
+    "code": {
+      "id": "NG027022_gussoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_kato",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kato",
+      "en": "Kato",
+      "slug": "kato"
+    },
+    "code": {
+      "id": "NG027022_kato",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_kushakakurebe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kushaka/kurebe",
+      "en": "Kushaka/kurebe",
+      "slug": "kushakakurebe"
+    },
+    "code": {
+      "id": "NG027022_kushakakurebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_kwakichukwuba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwaki/chukwuba",
+      "en": "Kwaki/chukwuba",
+      "slug": "kwakichukwuba"
+    },
+    "code": {
+      "id": "NG027022_kwakichukwuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_manta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Manta",
+      "en": "Manta",
+      "slug": "manta"
+    },
+    "code": {
+      "id": "NG027022_manta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_pina",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pina",
+      "en": "Pina",
+      "slug": "pina"
+    },
+    "code": {
+      "id": "NG027022_pina",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_she",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "She",
+      "en": "She",
+      "slug": "she"
+    },
+    "code": {
+      "id": "NG027022_she",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027022_ubandoma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ubandoma",
+      "en": "Ubandoma",
+      "slug": "ubandoma"
+    },
+    "code": {
+      "id": "NG027022_ubandoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027022",
+      "level": 2,
+      "name": {
+        "local": "Shiroro",
+        "en": "Shiroro",
+        "slug": "shiroro-ng027022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027022",
+        "level": 2,
+        "name": {
+          "local": "Shiroro",
+          "en": "Shiroro",
+          "slug": "shiroro-ng027022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.084",
+      "lon": "6.698"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

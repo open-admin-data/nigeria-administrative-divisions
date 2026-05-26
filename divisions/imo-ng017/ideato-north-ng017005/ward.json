@@ -1,0 +1,758 @@
+[
+  {
+    "id": "NG017005_akpulu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akpulu",
+      "en": "Akpulu",
+      "slug": "akpulu"
+    },
+    "code": {
+      "id": "NG017005_akpulu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_akwu-owerre",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akwu Owerre",
+      "en": "Akwu Owerre",
+      "slug": "akwu-owerre"
+    },
+    "code": {
+      "id": "NG017005_akwu-owerre",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_ezemazuozu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ezemazu/ozu",
+      "en": "Ezemazu/ozu",
+      "slug": "ezemazuozu"
+    },
+    "code": {
+      "id": "NG017005_ezemazuozu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_isiokpo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isiokpo",
+      "en": "Isiokpo",
+      "slug": "isiokpo"
+    },
+    "code": {
+      "id": "NG017005_isiokpo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_izuogu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Izuogu I",
+      "en": "Izuogu I",
+      "slug": "izuogu-i"
+    },
+    "code": {
+      "id": "NG017005_izuogu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_izuogu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Izuogu Ii",
+      "en": "Izuogu Ii",
+      "slug": "izuogu-ii"
+    },
+    "code": {
+      "id": "NG017005_izuogu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_ndi-iheme-arondizuogu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndi Iheme Arondizuogu",
+      "en": "Ndi Iheme Arondizuogu",
+      "slug": "ndi-iheme-arondizuogu"
+    },
+    "code": {
+      "id": "NG017005_ndi-iheme-arondizuogu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_ndimoko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndimoko",
+      "en": "Ndimoko",
+      "slug": "ndimoko"
+    },
+    "code": {
+      "id": "NG017005_ndimoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_obodoukwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obodoukwu",
+      "en": "Obodoukwu",
+      "slug": "obodoukwu"
+    },
+    "code": {
+      "id": "NG017005_obodoukwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_osina",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Osina",
+      "en": "Osina",
+      "slug": "osina"
+    },
+    "code": {
+      "id": "NG017005_osina",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_ozuakokiumuago",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ozuakoki/umuago",
+      "en": "Ozuakoki/umuago",
+      "slug": "ozuakokiumuago"
+    },
+    "code": {
+      "id": "NG017005_ozuakokiumuago",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_umuokwaraumuezeaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuokwara/umuezeaga",
+      "en": "Umuokwara/umuezeaga",
+      "slug": "umuokwaraumuezeaga"
+    },
+    "code": {
+      "id": "NG017005_umuokwaraumuezeaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_umuopiaumukegwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuopia/umukegwu",
+      "en": "Umuopia/umukegwu",
+      "slug": "umuopiaumukegwu"
+    },
+    "code": {
+      "id": "NG017005_umuopiaumukegwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005_uziiumualoma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uzii/umualoma",
+      "en": "Uzii/umualoma",
+      "slug": "uziiumualoma"
+    },
+    "code": {
+      "id": "NG017005_uziiumualoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017005",
+      "level": 2,
+      "name": {
+        "local": "Ideato North",
+        "en": "Ideato North",
+        "slug": "ideato-north-ng017005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017005",
+        "level": 2,
+        "name": {
+          "local": "Ideato North",
+          "en": "Ideato North",
+          "slug": "ideato-north-ng017005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG017015_abajah-ward-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abajah Ward I",
+      "en": "Abajah Ward I",
+      "slug": "abajah-ward-i"
+    },
+    "code": {
+      "id": "NG017015_abajah-ward-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017015",
+      "level": 2,
+      "name": {
+        "local": "Nwangele",
+        "en": "Nwangele",
+        "slug": "nwangele-ng017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017015",
+        "level": 2,
+        "name": {
+          "local": "Nwangele",
+          "en": "Nwangele",
+          "slug": "nwangele-ng017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017015_abajah-ward-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abajah Ward Ii",
+      "en": "Abajah Ward Ii",
+      "slug": "abajah-ward-ii"
+    },
+    "code": {
+      "id": "NG017015_abajah-ward-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017015",
+      "level": 2,
+      "name": {
+        "local": "Nwangele",
+        "en": "Nwangele",
+        "slug": "nwangele-ng017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017015",
+        "level": 2,
+        "name": {
+          "local": "Nwangele",
+          "en": "Nwangele",
+          "slug": "nwangele-ng017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017015_abba-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abba Ward",
+      "en": "Abba Ward",
+      "slug": "abba-ward"
+    },
+    "code": {
+      "id": "NG017015_abba-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017015",
+      "level": 2,
+      "name": {
+        "local": "Nwangele",
+        "en": "Nwangele",
+        "slug": "nwangele-ng017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017015",
+        "level": 2,
+        "name": {
+          "local": "Nwangele",
+          "en": "Nwangele",
+          "slug": "nwangele-ng017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017015_amaju-community-ward-amaigbo-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amaju Community Ward (amaigbo Iii)",
+      "en": "Amaju Community Ward (amaigbo Iii)",
+      "slug": "amaju-community-ward-amaigbo-iii"
+    },
+    "code": {
+      "id": "NG017015_amaju-community-ward-amaigbo-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017015",
+      "level": 2,
+      "name": {
+        "local": "Nwangele",
+        "en": "Nwangele",
+        "slug": "nwangele-ng017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017015",
+        "level": 2,
+        "name": {
+          "local": "Nwangele",
+          "en": "Nwangele",
+          "slug": "nwangele-ng017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017015_amamnaisi-amaigbo-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amamnaisi (amaigbo Iv)",
+      "en": "Amamnaisi (amaigbo Iv)",
+      "slug": "amamnaisi-amaigbo-iv"
+    },
+    "code": {
+      "id": "NG017015_amamnaisi-amaigbo-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017015",
+      "level": 2,
+      "name": {
+        "local": "Nwangele",
+        "en": "Nwangele",
+        "slug": "nwangele-ng017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017015",
+        "level": 2,
+        "name": {
+          "local": "Nwangele",
+          "en": "Nwangele",
+          "slug": "nwangele-ng017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017015_amanoumudurumba-ward-amaigbo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amano/umudurumba Ward (amaigbo I)",
+      "en": "Amano/umudurumba Ward (amaigbo I)",
+      "slug": "amanoumudurumba-ward-amaigbo-i"
+    },
+    "code": {
+      "id": "NG017015_amanoumudurumba-ward-amaigbo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017015",
+      "level": 2,
+      "name": {
+        "local": "Nwangele",
+        "en": "Nwangele",
+        "slug": "nwangele-ng017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017015",
+        "level": 2,
+        "name": {
+          "local": "Nwangele",
+          "en": "Nwangele",
+          "slug": "nwangele-ng017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017015_dim-na-nume",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dim-na Nume",
+      "en": "Dim-na Nume",
+      "slug": "dim-na-nume"
+    },
+    "code": {
+      "id": "NG017015_dim-na-nume",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017015",
+      "level": 2,
+      "name": {
+        "local": "Nwangele",
+        "en": "Nwangele",
+        "slug": "nwangele-ng017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017015",
+        "level": 2,
+        "name": {
+          "local": "Nwangele",
+          "en": "Nwangele",
+          "slug": "nwangele-ng017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017015_ezeoboloofeahiaduruohaumukabia-amaigbo-ward-v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ezeobolo/ofeahia/duruoha/umukabia (amaigbo Ward V)",
+      "en": "Ezeobolo/ofeahia/duruoha/umukabia (amaigbo Ward V)",
+      "slug": "ezeoboloofeahiaduruohaumukabia-amaigbo-ward-v"
+    },
+    "code": {
+      "id": "NG017015_ezeoboloofeahiaduruohaumukabia-amaigbo-ward-v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017015",
+      "level": 2,
+      "name": {
+        "local": "Nwangele",
+        "en": "Nwangele",
+        "slug": "nwangele-ng017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017015",
+        "level": 2,
+        "name": {
+          "local": "Nwangele",
+          "en": "Nwangele",
+          "slug": "nwangele-ng017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017015_kara-na-orlu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kara-na-orlu",
+      "en": "Kara-na-orlu",
+      "slug": "kara-na-orlu"
+    },
+    "code": {
+      "id": "NG017015_kara-na-orlu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017015",
+      "level": 2,
+      "name": {
+        "local": "Nwangele",
+        "en": "Nwangele",
+        "slug": "nwangele-ng017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017015",
+        "level": 2,
+        "name": {
+          "local": "Nwangele",
+          "en": "Nwangele",
+          "slug": "nwangele-ng017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017015_umuanu-community-ward-amaigbo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuanu Community Ward (amaigbo Ii)",
+      "en": "Umuanu Community Ward (amaigbo Ii)",
+      "slug": "umuanu-community-ward-amaigbo-ii"
+    },
+    "code": {
+      "id": "NG017015_umuanu-community-ward-amaigbo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017015",
+      "level": 2,
+      "name": {
+        "local": "Nwangele",
+        "en": "Nwangele",
+        "slug": "nwangele-ng017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017015",
+        "level": 2,
+        "name": {
+          "local": "Nwangele",
+          "en": "Nwangele",
+          "slug": "nwangele-ng017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017015_umuozu-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuozu Ward",
+      "en": "Umuozu Ward",
+      "slug": "umuozu-ward"
+    },
+    "code": {
+      "id": "NG017015_umuozu-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017015",
+      "level": 2,
+      "name": {
+        "local": "Nwangele",
+        "en": "Nwangele",
+        "slug": "nwangele-ng017015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017015",
+        "level": 2,
+        "name": {
+          "local": "Nwangele",
+          "en": "Nwangele",
+          "slug": "nwangele-ng017015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "7.12"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

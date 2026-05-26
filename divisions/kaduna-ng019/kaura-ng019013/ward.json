@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG019013_agban",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agban",
+      "en": "Agban",
+      "slug": "agban"
+    },
+    "code": {
+      "id": "NG019013_agban",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019013",
+      "level": 2,
+      "name": {
+        "local": "Kaura",
+        "en": "Kaura",
+        "slug": "kaura-ng019013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019013",
+        "level": 2,
+        "name": {
+          "local": "Kaura",
+          "en": "Kaura",
+          "slug": "kaura-ng019013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019013_bondon",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bondon",
+      "en": "Bondon",
+      "slug": "bondon"
+    },
+    "code": {
+      "id": "NG019013_bondon",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019013",
+      "level": 2,
+      "name": {
+        "local": "Kaura",
+        "en": "Kaura",
+        "slug": "kaura-ng019013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019013",
+        "level": 2,
+        "name": {
+          "local": "Kaura",
+          "en": "Kaura",
+          "slug": "kaura-ng019013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019013_fada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fada",
+      "en": "Fada",
+      "slug": "fada"
+    },
+    "code": {
+      "id": "NG019013_fada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019013",
+      "level": 2,
+      "name": {
+        "local": "Kaura",
+        "en": "Kaura",
+        "slug": "kaura-ng019013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019013",
+        "level": 2,
+        "name": {
+          "local": "Kaura",
+          "en": "Kaura",
+          "slug": "kaura-ng019013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019013_kadarko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadarko",
+      "en": "Kadarko",
+      "slug": "kadarko"
+    },
+    "code": {
+      "id": "NG019013_kadarko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019013",
+      "level": 2,
+      "name": {
+        "local": "Kaura",
+        "en": "Kaura",
+        "slug": "kaura-ng019013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019013",
+        "level": 2,
+        "name": {
+          "local": "Kaura",
+          "en": "Kaura",
+          "slug": "kaura-ng019013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019013_kaura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaura",
+      "en": "Kaura",
+      "slug": "kaura"
+    },
+    "code": {
+      "id": "NG019013_kaura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019013",
+      "level": 2,
+      "name": {
+        "local": "Kaura",
+        "en": "Kaura",
+        "slug": "kaura-ng019013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019013",
+        "level": 2,
+        "name": {
+          "local": "Kaura",
+          "en": "Kaura",
+          "slug": "kaura-ng019013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019013_kpak",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kpak",
+      "en": "Kpak",
+      "slug": "kpak"
+    },
+    "code": {
+      "id": "NG019013_kpak",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019013",
+      "level": 2,
+      "name": {
+        "local": "Kaura",
+        "en": "Kaura",
+        "slug": "kaura-ng019013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019013",
+        "level": 2,
+        "name": {
+          "local": "Kaura",
+          "en": "Kaura",
+          "slug": "kaura-ng019013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019013_kukum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kukum",
+      "en": "Kukum",
+      "slug": "kukum"
+    },
+    "code": {
+      "id": "NG019013_kukum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019013",
+      "level": 2,
+      "name": {
+        "local": "Kaura",
+        "en": "Kaura",
+        "slug": "kaura-ng019013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019013",
+        "level": 2,
+        "name": {
+          "local": "Kaura",
+          "en": "Kaura",
+          "slug": "kaura-ng019013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019013_mallagum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mallagum",
+      "en": "Mallagum",
+      "slug": "mallagum"
+    },
+    "code": {
+      "id": "NG019013_mallagum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019013",
+      "level": 2,
+      "name": {
+        "local": "Kaura",
+        "en": "Kaura",
+        "slug": "kaura-ng019013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019013",
+        "level": 2,
+        "name": {
+          "local": "Kaura",
+          "en": "Kaura",
+          "slug": "kaura-ng019013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019013_manchok",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Manchok",
+      "en": "Manchok",
+      "slug": "manchok"
+    },
+    "code": {
+      "id": "NG019013_manchok",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019013",
+      "level": 2,
+      "name": {
+        "local": "Kaura",
+        "en": "Kaura",
+        "slug": "kaura-ng019013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019013",
+        "level": 2,
+        "name": {
+          "local": "Kaura",
+          "en": "Kaura",
+          "slug": "kaura-ng019013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019013_zankan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zankan",
+      "en": "Zankan",
+      "slug": "zankan"
+    },
+    "code": {
+      "id": "NG019013_zankan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019013",
+      "level": 2,
+      "name": {
+        "local": "Kaura",
+        "en": "Kaura",
+        "slug": "kaura-ng019013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019013",
+        "level": 2,
+        "name": {
+          "local": "Kaura",
+          "en": "Kaura",
+          "slug": "kaura-ng019013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

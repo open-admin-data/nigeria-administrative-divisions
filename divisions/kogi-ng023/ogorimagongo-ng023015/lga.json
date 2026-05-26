@@ -1,0 +1,47 @@
+{
+  "id": "NG023015",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ogori/Magongo",
+    "en": "Ogori/Magongo",
+    "slug": "ogorimagongo-ng023015"
+  },
+  "code": {
+    "id": "NG023015",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG023",
+    "level": 1,
+    "name": {
+      "local": "Kogi",
+      "en": "Kogi",
+      "slug": "kogi-ng023"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG023",
+      "level": 1,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.479",
+    "lon": "6.156"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "NG030030_alagba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alagba",
+      "en": "Alagba",
+      "slug": "alagba"
+    },
+    "code": {
+      "id": "NG030030_alagba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_are-ago",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Are-ago",
+      "en": "Are-ago",
+      "slug": "are-ago"
+    },
+    "code": {
+      "id": "NG030030_are-ago",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_ataoja-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ataoja 'a'",
+      "en": "Ataoja 'a'",
+      "slug": "ataoja-a"
+    },
+    "code": {
+      "id": "NG030030_ataoja-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_ataoja-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ataoja 'b'",
+      "en": "Ataoja 'b'",
+      "slug": "ataoja-b"
+    },
+    "code": {
+      "id": "NG030030_ataoja-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_ataoja-c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ataoja 'c'",
+      "en": "Ataoja 'c'",
+      "slug": "ataoja-c"
+    },
+    "code": {
+      "id": "NG030030_ataoja-c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_ataoja-d",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ataoja 'd'",
+      "en": "Ataoja 'd'",
+      "slug": "ataoja-d"
+    },
+    "code": {
+      "id": "NG030030_ataoja-d",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_ataoja-e",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ataoja 'e'",
+      "en": "Ataoja 'e'",
+      "slug": "ataoja-e"
+    },
+    "code": {
+      "id": "NG030030_ataoja-e",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_baba-kekere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baba Kekere",
+      "en": "Baba Kekere",
+      "slug": "baba-kekere"
+    },
+    "code": {
+      "id": "NG030030_baba-kekere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_ekerin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekerin",
+      "en": "Ekerin",
+      "slug": "ekerin"
+    },
+    "code": {
+      "id": "NG030030_ekerin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_eketa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eketa",
+      "en": "Eketa",
+      "slug": "eketa"
+    },
+    "code": {
+      "id": "NG030030_eketa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_jagun-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jagun 'a'",
+      "en": "Jagun 'a'",
+      "slug": "jagun-a"
+    },
+    "code": {
+      "id": "NG030030_jagun-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_jagun-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jagun B'",
+      "en": "Jagun B'",
+      "slug": "jagun-b"
+    },
+    "code": {
+      "id": "NG030030_jagun-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_otun-balogun-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otun Balogun 'a'",
+      "en": "Otun Balogun 'a'",
+      "slug": "otun-balogun-a"
+    },
+    "code": {
+      "id": "NG030030_otun-balogun-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_otun-jagun-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otun Jagun 'a'",
+      "en": "Otun Jagun 'a'",
+      "slug": "otun-jagun-a"
+    },
+    "code": {
+      "id": "NG030030_otun-jagun-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030030_otun-jagun-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otun Jagun 'b'",
+      "en": "Otun Jagun 'b'",
+      "slug": "otun-jagun-b"
+    },
+    "code": {
+      "id": "NG030030_otun-jagun-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030030",
+      "level": 2,
+      "name": {
+        "local": "Osogbo",
+        "en": "Osogbo",
+        "slug": "osogbo-ng030030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030030",
+        "level": 2,
+        "name": {
+          "local": "Osogbo",
+          "en": "Osogbo",
+          "slug": "osogbo-ng030030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "4.569"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

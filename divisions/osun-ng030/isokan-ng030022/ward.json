@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG030022_alapomu-i-odo-osun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alapomu I (odo-osun)",
+      "en": "Alapomu I (odo-osun)",
+      "slug": "alapomu-i-odo-osun"
+    },
+    "code": {
+      "id": "NG030022_alapomu-i-odo-osun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030022",
+      "level": 2,
+      "name": {
+        "local": "Isokan",
+        "en": "Isokan",
+        "slug": "isokan-ng030022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030022",
+        "level": 2,
+        "name": {
+          "local": "Isokan",
+          "en": "Isokan",
+          "slug": "isokan-ng030022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.249",
+      "lon": "4.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030022_alapomu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alapomu Ii",
+      "en": "Alapomu Ii",
+      "slug": "alapomu-ii"
+    },
+    "code": {
+      "id": "NG030022_alapomu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030022",
+      "level": 2,
+      "name": {
+        "local": "Isokan",
+        "en": "Isokan",
+        "slug": "isokan-ng030022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030022",
+        "level": 2,
+        "name": {
+          "local": "Isokan",
+          "en": "Isokan",
+          "slug": "isokan-ng030022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.249",
+      "lon": "4.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030022_asalu-mogimogi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asalu (mogimogi)",
+      "en": "Asalu (mogimogi)",
+      "slug": "asalu-mogimogi"
+    },
+    "code": {
+      "id": "NG030022_asalu-mogimogi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030022",
+      "level": 2,
+      "name": {
+        "local": "Isokan",
+        "en": "Isokan",
+        "slug": "isokan-ng030022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030022",
+        "level": 2,
+        "name": {
+          "local": "Isokan",
+          "en": "Isokan",
+          "slug": "isokan-ng030022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.249",
+      "lon": "4.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030022_asalu-ikoyi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asalu Ikoyi",
+      "en": "Asalu Ikoyi",
+      "slug": "asalu-ikoyi"
+    },
+    "code": {
+      "id": "NG030022_asalu-ikoyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030022",
+      "level": 2,
+      "name": {
+        "local": "Isokan",
+        "en": "Isokan",
+        "slug": "isokan-ng030022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030022",
+        "level": 2,
+        "name": {
+          "local": "Isokan",
+          "en": "Isokan",
+          "slug": "isokan-ng030022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.249",
+      "lon": "4.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030022_awala-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awala I",
+      "en": "Awala I",
+      "slug": "awala-i"
+    },
+    "code": {
+      "id": "NG030022_awala-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030022",
+      "level": 2,
+      "name": {
+        "local": "Isokan",
+        "en": "Isokan",
+        "slug": "isokan-ng030022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030022",
+        "level": 2,
+        "name": {
+          "local": "Isokan",
+          "en": "Isokan",
+          "slug": "isokan-ng030022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.249",
+      "lon": "4.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030022_awala-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awala Ii",
+      "en": "Awala Ii",
+      "slug": "awala-ii"
+    },
+    "code": {
+      "id": "NG030022_awala-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030022",
+      "level": 2,
+      "name": {
+        "local": "Isokan",
+        "en": "Isokan",
+        "slug": "isokan-ng030022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030022",
+        "level": 2,
+        "name": {
+          "local": "Isokan",
+          "en": "Isokan",
+          "slug": "isokan-ng030022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.249",
+      "lon": "4.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030022_idogun-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idogun Ward",
+      "en": "Idogun Ward",
+      "slug": "idogun-ward"
+    },
+    "code": {
+      "id": "NG030022_idogun-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030022",
+      "level": 2,
+      "name": {
+        "local": "Isokan",
+        "en": "Isokan",
+        "slug": "isokan-ng030022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030022",
+        "level": 2,
+        "name": {
+          "local": "Isokan",
+          "en": "Isokan",
+          "slug": "isokan-ng030022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.249",
+      "lon": "4.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030022_olukoyi-oja-osun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olukoyi (oja-osun)",
+      "en": "Olukoyi (oja-osun)",
+      "slug": "olukoyi-oja-osun"
+    },
+    "code": {
+      "id": "NG030022_olukoyi-oja-osun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030022",
+      "level": 2,
+      "name": {
+        "local": "Isokan",
+        "en": "Isokan",
+        "slug": "isokan-ng030022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030022",
+        "level": 2,
+        "name": {
+          "local": "Isokan",
+          "en": "Isokan",
+          "slug": "isokan-ng030022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.249",
+      "lon": "4.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030022_oosa-adifa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oosa Adifa",
+      "en": "Oosa Adifa",
+      "slug": "oosa-adifa"
+    },
+    "code": {
+      "id": "NG030022_oosa-adifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030022",
+      "level": 2,
+      "name": {
+        "local": "Isokan",
+        "en": "Isokan",
+        "slug": "isokan-ng030022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030022",
+        "level": 2,
+        "name": {
+          "local": "Isokan",
+          "en": "Isokan",
+          "slug": "isokan-ng030022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.249",
+      "lon": "4.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030022_oranran-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oranran Ward",
+      "en": "Oranran Ward",
+      "slug": "oranran-ward"
+    },
+    "code": {
+      "id": "NG030022_oranran-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030022",
+      "level": 2,
+      "name": {
+        "local": "Isokan",
+        "en": "Isokan",
+        "slug": "isokan-ng030022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030022",
+        "level": 2,
+        "name": {
+          "local": "Isokan",
+          "en": "Isokan",
+          "slug": "isokan-ng030022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.249",
+      "lon": "4.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030022_osa-ikoyi-oloke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Osa Ikoyi (oloke)",
+      "en": "Osa Ikoyi (oloke)",
+      "slug": "osa-ikoyi-oloke"
+    },
+    "code": {
+      "id": "NG030022_osa-ikoyi-oloke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030022",
+      "level": 2,
+      "name": {
+        "local": "Isokan",
+        "en": "Isokan",
+        "slug": "isokan-ng030022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030022",
+        "level": 2,
+        "name": {
+          "local": "Isokan",
+          "en": "Isokan",
+          "slug": "isokan-ng030022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.249",
+      "lon": "4.2"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

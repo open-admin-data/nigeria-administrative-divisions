@@ -1,0 +1,47 @@
+{
+  "id": "NG033005",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Andoni",
+    "en": "Andoni",
+    "slug": "andoni-ng033005"
+  },
+  "code": {
+    "id": "NG033005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG033",
+    "level": 1,
+    "name": {
+      "local": "Rivers",
+      "en": "Rivers",
+      "slug": "rivers-ng033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.51",
+    "lon": "7.407"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "NG032006",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Jos South",
+    "en": "Jos South",
+    "slug": "jos-south-ng032006"
+  },
+  "code": {
+    "id": "NG032006",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG032",
+    "level": 1,
+    "name": {
+      "local": "Plateau",
+      "en": "Plateau",
+      "slug": "plateau-ng032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG032",
+      "level": 1,
+      "name": {
+        "local": "Plateau",
+        "en": "Plateau",
+        "slug": "plateau-ng032"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.761",
+    "lon": "8.846"
+  },
+  "metadata": {},
+  "source": {}
+}

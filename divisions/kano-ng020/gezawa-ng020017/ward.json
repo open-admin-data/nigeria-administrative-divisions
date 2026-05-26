@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG020017_babawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Babawa",
+      "en": "Babawa",
+      "slug": "babawa"
+    },
+    "code": {
+      "id": "NG020017_babawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020017",
+      "level": 2,
+      "name": {
+        "local": "Gezawa",
+        "en": "Gezawa",
+        "slug": "gezawa-ng020017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020017",
+        "level": 2,
+        "name": {
+          "local": "Gezawa",
+          "en": "Gezawa",
+          "slug": "gezawa-ng020017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.057",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020017_gawo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gawo",
+      "en": "Gawo",
+      "slug": "gawo"
+    },
+    "code": {
+      "id": "NG020017_gawo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020017",
+      "level": 2,
+      "name": {
+        "local": "Gezawa",
+        "en": "Gezawa",
+        "slug": "gezawa-ng020017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020017",
+        "level": 2,
+        "name": {
+          "local": "Gezawa",
+          "en": "Gezawa",
+          "slug": "gezawa-ng020017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.057",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020017_gezawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gezawa",
+      "en": "Gezawa",
+      "slug": "gezawa"
+    },
+    "code": {
+      "id": "NG020017_gezawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020017",
+      "level": 2,
+      "name": {
+        "local": "Gezawa",
+        "en": "Gezawa",
+        "slug": "gezawa-ng020017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020017",
+        "level": 2,
+        "name": {
+          "local": "Gezawa",
+          "en": "Gezawa",
+          "slug": "gezawa-ng020017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.057",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020017_jogana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jogana",
+      "en": "Jogana",
+      "slug": "jogana"
+    },
+    "code": {
+      "id": "NG020017_jogana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020017",
+      "level": 2,
+      "name": {
+        "local": "Gezawa",
+        "en": "Gezawa",
+        "slug": "gezawa-ng020017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020017",
+        "level": 2,
+        "name": {
+          "local": "Gezawa",
+          "en": "Gezawa",
+          "slug": "gezawa-ng020017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.057",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020017_ketawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ketawa",
+      "en": "Ketawa",
+      "slug": "ketawa"
+    },
+    "code": {
+      "id": "NG020017_ketawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020017",
+      "level": 2,
+      "name": {
+        "local": "Gezawa",
+        "en": "Gezawa",
+        "slug": "gezawa-ng020017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020017",
+        "level": 2,
+        "name": {
+          "local": "Gezawa",
+          "en": "Gezawa",
+          "slug": "gezawa-ng020017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.057",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020017_mesar-tudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mesar-tudu",
+      "en": "Mesar-tudu",
+      "slug": "mesar-tudu"
+    },
+    "code": {
+      "id": "NG020017_mesar-tudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020017",
+      "level": 2,
+      "name": {
+        "local": "Gezawa",
+        "en": "Gezawa",
+        "slug": "gezawa-ng020017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020017",
+        "level": 2,
+        "name": {
+          "local": "Gezawa",
+          "en": "Gezawa",
+          "slug": "gezawa-ng020017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.057",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020017_sararin-gezawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sararin-gezawa",
+      "en": "Sararin-gezawa",
+      "slug": "sararin-gezawa"
+    },
+    "code": {
+      "id": "NG020017_sararin-gezawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020017",
+      "level": 2,
+      "name": {
+        "local": "Gezawa",
+        "en": "Gezawa",
+        "slug": "gezawa-ng020017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020017",
+        "level": 2,
+        "name": {
+          "local": "Gezawa",
+          "en": "Gezawa",
+          "slug": "gezawa-ng020017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.057",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020017_tsamiya-babba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsamiya-babba",
+      "en": "Tsamiya-babba",
+      "slug": "tsamiya-babba"
+    },
+    "code": {
+      "id": "NG020017_tsamiya-babba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020017",
+      "level": 2,
+      "name": {
+        "local": "Gezawa",
+        "en": "Gezawa",
+        "slug": "gezawa-ng020017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020017",
+        "level": 2,
+        "name": {
+          "local": "Gezawa",
+          "en": "Gezawa",
+          "slug": "gezawa-ng020017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.057",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020017_tumbau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tumbau",
+      "en": "Tumbau",
+      "slug": "tumbau"
+    },
+    "code": {
+      "id": "NG020017_tumbau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020017",
+      "level": 2,
+      "name": {
+        "local": "Gezawa",
+        "en": "Gezawa",
+        "slug": "gezawa-ng020017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020017",
+        "level": 2,
+        "name": {
+          "local": "Gezawa",
+          "en": "Gezawa",
+          "slug": "gezawa-ng020017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.057",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020017_wangara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wangara",
+      "en": "Wangara",
+      "slug": "wangara"
+    },
+    "code": {
+      "id": "NG020017_wangara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020017",
+      "level": 2,
+      "name": {
+        "local": "Gezawa",
+        "en": "Gezawa",
+        "slug": "gezawa-ng020017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020017",
+        "level": 2,
+        "name": {
+          "local": "Gezawa",
+          "en": "Gezawa",
+          "slug": "gezawa-ng020017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.057",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020017_zango",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zango",
+      "en": "Zango",
+      "slug": "zango"
+    },
+    "code": {
+      "id": "NG020017_zango",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020017",
+      "level": 2,
+      "name": {
+        "local": "Gezawa",
+        "en": "Gezawa",
+        "slug": "gezawa-ng020017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020017",
+        "level": 2,
+        "name": {
+          "local": "Gezawa",
+          "en": "Gezawa",
+          "slug": "gezawa-ng020017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.057",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

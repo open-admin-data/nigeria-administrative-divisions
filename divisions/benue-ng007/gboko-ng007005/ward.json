@@ -1,0 +1,920 @@
+[
+  {
+    "id": "NG007005_gbkcentral-market",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gbk/central Market",
+      "en": "Gbk/central Market",
+      "slug": "gbkcentral-market"
+    },
+    "code": {
+      "id": "NG007005_gbkcentral-market",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_gboko-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gboko East",
+      "en": "Gboko East",
+      "slug": "gboko-east"
+    },
+    "code": {
+      "id": "NG007005_gboko-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_gboko-north-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gboko North West",
+      "en": "Gboko North West",
+      "slug": "gboko-north-west"
+    },
+    "code": {
+      "id": "NG007005_gboko-north-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_gboko-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gboko South",
+      "en": "Gboko South",
+      "slug": "gboko-south"
+    },
+    "code": {
+      "id": "NG007005_gboko-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_igyorov",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igyorov",
+      "en": "Igyorov",
+      "slug": "igyorov"
+    },
+    "code": {
+      "id": "NG007005_igyorov",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_mbaa-varakaa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbaa Varakaa",
+      "en": "Mbaa Varakaa",
+      "slug": "mbaa-varakaa"
+    },
+    "code": {
+      "id": "NG007005_mbaa-varakaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_mbaanku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbaanku",
+      "en": "Mbaanku",
+      "slug": "mbaanku"
+    },
+    "code": {
+      "id": "NG007005_mbaanku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_mbadam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbadam",
+      "en": "Mbadam",
+      "slug": "mbadam"
+    },
+    "code": {
+      "id": "NG007005_mbadam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_mbadim",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbadim",
+      "en": "Mbadim",
+      "slug": "mbadim"
+    },
+    "code": {
+      "id": "NG007005_mbadim",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_mbakper",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbakper",
+      "en": "Mbakper",
+      "slug": "mbakper"
+    },
+    "code": {
+      "id": "NG007005_mbakper",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_mbakwen",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbakwen",
+      "en": "Mbakwen",
+      "slug": "mbakwen"
+    },
+    "code": {
+      "id": "NG007005_mbakwen",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_mbatan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbatan",
+      "en": "Mbatan",
+      "slug": "mbatan"
+    },
+    "code": {
+      "id": "NG007005_mbatan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_mbatser",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbatser",
+      "en": "Mbatser",
+      "slug": "mbatser"
+    },
+    "code": {
+      "id": "NG007005_mbatser",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_mbatyu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbatyu",
+      "en": "Mbatyu",
+      "slug": "mbatyu"
+    },
+    "code": {
+      "id": "NG007005_mbatyu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_ukpekpe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukpekpe",
+      "en": "Ukpekpe",
+      "slug": "ukpekpe"
+    },
+    "code": {
+      "id": "NG007005_ukpekpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_yandev-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yandev North",
+      "en": "Yandev North",
+      "slug": "yandev-north"
+    },
+    "code": {
+      "id": "NG007005_yandev-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007005_yandev-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yandev South",
+      "en": "Yandev South",
+      "slug": "yandev-south"
+    },
+    "code": {
+      "id": "NG007005_yandev-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007005",
+      "level": 2,
+      "name": {
+        "local": "Gboko",
+        "en": "Gboko",
+        "slug": "gboko-ng007005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007005",
+        "level": 2,
+        "name": {
+          "local": "Gboko",
+          "en": "Gboko",
+          "slug": "gboko-ng007005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.405",
+      "lon": "8.881"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

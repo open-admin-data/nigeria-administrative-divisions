@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG001012_ward-eight",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ward Eight",
+      "en": "Ward Eight",
+      "slug": "ward-eight"
+    },
+    "code": {
+      "id": "NG001012_ward-eight",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001012",
+      "level": 2,
+      "name": {
+        "local": "Ugwunagbo",
+        "en": "Ugwunagbo",
+        "slug": "ugwunagbo-ng001012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001012",
+        "level": 2,
+        "name": {
+          "local": "Ugwunagbo",
+          "en": "Ugwunagbo",
+          "slug": "ugwunagbo-ng001012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.025",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001012_ward-five",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ward Five",
+      "en": "Ward Five",
+      "slug": "ward-five"
+    },
+    "code": {
+      "id": "NG001012_ward-five",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001012",
+      "level": 2,
+      "name": {
+        "local": "Ugwunagbo",
+        "en": "Ugwunagbo",
+        "slug": "ugwunagbo-ng001012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001012",
+        "level": 2,
+        "name": {
+          "local": "Ugwunagbo",
+          "en": "Ugwunagbo",
+          "slug": "ugwunagbo-ng001012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.025",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001012_ward-four",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ward Four",
+      "en": "Ward Four",
+      "slug": "ward-four"
+    },
+    "code": {
+      "id": "NG001012_ward-four",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001012",
+      "level": 2,
+      "name": {
+        "local": "Ugwunagbo",
+        "en": "Ugwunagbo",
+        "slug": "ugwunagbo-ng001012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001012",
+        "level": 2,
+        "name": {
+          "local": "Ugwunagbo",
+          "en": "Ugwunagbo",
+          "slug": "ugwunagbo-ng001012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.025",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001012_ward-nine",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ward Nine",
+      "en": "Ward Nine",
+      "slug": "ward-nine"
+    },
+    "code": {
+      "id": "NG001012_ward-nine",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001012",
+      "level": 2,
+      "name": {
+        "local": "Ugwunagbo",
+        "en": "Ugwunagbo",
+        "slug": "ugwunagbo-ng001012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001012",
+        "level": 2,
+        "name": {
+          "local": "Ugwunagbo",
+          "en": "Ugwunagbo",
+          "slug": "ugwunagbo-ng001012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.025",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001012_ward-one",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ward One",
+      "en": "Ward One",
+      "slug": "ward-one"
+    },
+    "code": {
+      "id": "NG001012_ward-one",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001012",
+      "level": 2,
+      "name": {
+        "local": "Ugwunagbo",
+        "en": "Ugwunagbo",
+        "slug": "ugwunagbo-ng001012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001012",
+        "level": 2,
+        "name": {
+          "local": "Ugwunagbo",
+          "en": "Ugwunagbo",
+          "slug": "ugwunagbo-ng001012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.025",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001012_ward-seven",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ward Seven",
+      "en": "Ward Seven",
+      "slug": "ward-seven"
+    },
+    "code": {
+      "id": "NG001012_ward-seven",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001012",
+      "level": 2,
+      "name": {
+        "local": "Ugwunagbo",
+        "en": "Ugwunagbo",
+        "slug": "ugwunagbo-ng001012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001012",
+        "level": 2,
+        "name": {
+          "local": "Ugwunagbo",
+          "en": "Ugwunagbo",
+          "slug": "ugwunagbo-ng001012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.025",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001012_ward-six",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ward Six",
+      "en": "Ward Six",
+      "slug": "ward-six"
+    },
+    "code": {
+      "id": "NG001012_ward-six",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001012",
+      "level": 2,
+      "name": {
+        "local": "Ugwunagbo",
+        "en": "Ugwunagbo",
+        "slug": "ugwunagbo-ng001012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001012",
+        "level": 2,
+        "name": {
+          "local": "Ugwunagbo",
+          "en": "Ugwunagbo",
+          "slug": "ugwunagbo-ng001012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.025",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001012_ward-ten",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ward Ten",
+      "en": "Ward Ten",
+      "slug": "ward-ten"
+    },
+    "code": {
+      "id": "NG001012_ward-ten",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001012",
+      "level": 2,
+      "name": {
+        "local": "Ugwunagbo",
+        "en": "Ugwunagbo",
+        "slug": "ugwunagbo-ng001012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001012",
+        "level": 2,
+        "name": {
+          "local": "Ugwunagbo",
+          "en": "Ugwunagbo",
+          "slug": "ugwunagbo-ng001012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.025",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001012_ward-three",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ward Three",
+      "en": "Ward Three",
+      "slug": "ward-three"
+    },
+    "code": {
+      "id": "NG001012_ward-three",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001012",
+      "level": 2,
+      "name": {
+        "local": "Ugwunagbo",
+        "en": "Ugwunagbo",
+        "slug": "ugwunagbo-ng001012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001012",
+        "level": 2,
+        "name": {
+          "local": "Ugwunagbo",
+          "en": "Ugwunagbo",
+          "slug": "ugwunagbo-ng001012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.025",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001012_ward-two",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ward Two",
+      "en": "Ward Two",
+      "slug": "ward-two"
+    },
+    "code": {
+      "id": "NG001012_ward-two",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001012",
+      "level": 2,
+      "name": {
+        "local": "Ugwunagbo",
+        "en": "Ugwunagbo",
+        "slug": "ugwunagbo-ng001012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001012",
+        "level": 2,
+        "name": {
+          "local": "Ugwunagbo",
+          "en": "Ugwunagbo",
+          "slug": "ugwunagbo-ng001012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.025",
+      "lon": "7.355"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

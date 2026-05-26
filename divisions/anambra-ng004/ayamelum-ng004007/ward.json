@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG004007_anaku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Anaku",
+      "en": "Anaku",
+      "slug": "anaku"
+    },
+    "code": {
+      "id": "NG004007_anaku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004007",
+      "level": 2,
+      "name": {
+        "local": "Ayamelum",
+        "en": "Ayamelum",
+        "slug": "ayamelum-ng004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004007",
+        "level": 2,
+        "name": {
+          "local": "Ayamelum",
+          "en": "Ayamelum",
+          "slug": "ayamelum-ng004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004007_ifite-ogwari-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ifite Ogwari I",
+      "en": "Ifite Ogwari I",
+      "slug": "ifite-ogwari-i"
+    },
+    "code": {
+      "id": "NG004007_ifite-ogwari-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004007",
+      "level": 2,
+      "name": {
+        "local": "Ayamelum",
+        "en": "Ayamelum",
+        "slug": "ayamelum-ng004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004007",
+        "level": 2,
+        "name": {
+          "local": "Ayamelum",
+          "en": "Ayamelum",
+          "slug": "ayamelum-ng004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004007_ifite-ogwari-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ifite Ogwari Ii",
+      "en": "Ifite Ogwari Ii",
+      "slug": "ifite-ogwari-ii"
+    },
+    "code": {
+      "id": "NG004007_ifite-ogwari-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004007",
+      "level": 2,
+      "name": {
+        "local": "Ayamelum",
+        "en": "Ayamelum",
+        "slug": "ayamelum-ng004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004007",
+        "level": 2,
+        "name": {
+          "local": "Ayamelum",
+          "en": "Ayamelum",
+          "slug": "ayamelum-ng004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004007_igbakwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igbakwu",
+      "en": "Igbakwu",
+      "slug": "igbakwu"
+    },
+    "code": {
+      "id": "NG004007_igbakwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004007",
+      "level": 2,
+      "name": {
+        "local": "Ayamelum",
+        "en": "Ayamelum",
+        "slug": "ayamelum-ng004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004007",
+        "level": 2,
+        "name": {
+          "local": "Ayamelum",
+          "en": "Ayamelum",
+          "slug": "ayamelum-ng004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004007_omasi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Omasi",
+      "en": "Omasi",
+      "slug": "omasi"
+    },
+    "code": {
+      "id": "NG004007_omasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004007",
+      "level": 2,
+      "name": {
+        "local": "Ayamelum",
+        "en": "Ayamelum",
+        "slug": "ayamelum-ng004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004007",
+        "level": 2,
+        "name": {
+          "local": "Ayamelum",
+          "en": "Ayamelum",
+          "slug": "ayamelum-ng004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004007_omor-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Omor I",
+      "en": "Omor I",
+      "slug": "omor-i"
+    },
+    "code": {
+      "id": "NG004007_omor-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004007",
+      "level": 2,
+      "name": {
+        "local": "Ayamelum",
+        "en": "Ayamelum",
+        "slug": "ayamelum-ng004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004007",
+        "level": 2,
+        "name": {
+          "local": "Ayamelum",
+          "en": "Ayamelum",
+          "slug": "ayamelum-ng004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004007_omor-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Omor Ii",
+      "en": "Omor Ii",
+      "slug": "omor-ii"
+    },
+    "code": {
+      "id": "NG004007_omor-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004007",
+      "level": 2,
+      "name": {
+        "local": "Ayamelum",
+        "en": "Ayamelum",
+        "slug": "ayamelum-ng004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004007",
+        "level": 2,
+        "name": {
+          "local": "Ayamelum",
+          "en": "Ayamelum",
+          "slug": "ayamelum-ng004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004007_omor-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Omor Iii",
+      "en": "Omor Iii",
+      "slug": "omor-iii"
+    },
+    "code": {
+      "id": "NG004007_omor-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004007",
+      "level": 2,
+      "name": {
+        "local": "Ayamelum",
+        "en": "Ayamelum",
+        "slug": "ayamelum-ng004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004007",
+        "level": 2,
+        "name": {
+          "local": "Ayamelum",
+          "en": "Ayamelum",
+          "slug": "ayamelum-ng004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004007_umu-elum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umu Elum",
+      "en": "Umu Elum",
+      "slug": "umu-elum"
+    },
+    "code": {
+      "id": "NG004007_umu-elum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004007",
+      "level": 2,
+      "name": {
+        "local": "Ayamelum",
+        "en": "Ayamelum",
+        "slug": "ayamelum-ng004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004007",
+        "level": 2,
+        "name": {
+          "local": "Ayamelum",
+          "en": "Ayamelum",
+          "slug": "ayamelum-ng004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004007_umueje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umueje",
+      "en": "Umueje",
+      "slug": "umueje"
+    },
+    "code": {
+      "id": "NG004007_umueje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004007",
+      "level": 2,
+      "name": {
+        "local": "Ayamelum",
+        "en": "Ayamelum",
+        "slug": "ayamelum-ng004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004007",
+        "level": 2,
+        "name": {
+          "local": "Ayamelum",
+          "en": "Ayamelum",
+          "slug": "ayamelum-ng004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004007_umumbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umumbo",
+      "en": "Umumbo",
+      "slug": "umumbo"
+    },
+    "code": {
+      "id": "NG004007_umumbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004007",
+      "level": 2,
+      "name": {
+        "local": "Ayamelum",
+        "en": "Ayamelum",
+        "slug": "ayamelum-ng004007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004007",
+        "level": 2,
+        "name": {
+          "local": "Ayamelum",
+          "en": "Ayamelum",
+          "slug": "ayamelum-ng004007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

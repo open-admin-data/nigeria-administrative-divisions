@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG036016_bultuwamaryaro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bultuwa/mar/yaro",
+      "en": "Bultuwa/mar/yaro",
+      "slug": "bultuwamaryaro"
+    },
+    "code": {
+      "id": "NG036016_bultuwamaryaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036016",
+      "level": 2,
+      "name": {
+        "local": "Yunusari",
+        "en": "Yunusari",
+        "slug": "yunusari-ng036016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036016",
+        "level": 2,
+        "name": {
+          "local": "Yunusari",
+          "en": "Yunusari",
+          "slug": "yunusari-ng036016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.969",
+      "lon": "12.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036016_daratoshia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daratoshia",
+      "en": "Daratoshia",
+      "slug": "daratoshia"
+    },
+    "code": {
+      "id": "NG036016_daratoshia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036016",
+      "level": 2,
+      "name": {
+        "local": "Yunusari",
+        "en": "Yunusari",
+        "slug": "yunusari-ng036016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036016",
+        "level": 2,
+        "name": {
+          "local": "Yunusari",
+          "en": "Yunusari",
+          "slug": "yunusari-ng036016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.18",
+      "lon": "11.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036016_degalturangamzai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Degaltura/ngamzai",
+      "en": "Degaltura/ngamzai",
+      "slug": "degalturangamzai"
+    },
+    "code": {
+      "id": "NG036016_degalturangamzai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036016",
+      "level": 2,
+      "name": {
+        "local": "Yunusari",
+        "en": "Yunusari",
+        "slug": "yunusari-ng036016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036016",
+        "level": 2,
+        "name": {
+          "local": "Yunusari",
+          "en": "Yunusari",
+          "slug": "yunusari-ng036016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.01",
+      "lon": "12.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036016_dekwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dekwa",
+      "en": "Dekwa",
+      "slug": "dekwa"
+    },
+    "code": {
+      "id": "NG036016_dekwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036016",
+      "level": 2,
+      "name": {
+        "local": "Yunusari",
+        "en": "Yunusari",
+        "slug": "yunusari-ng036016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036016",
+        "level": 2,
+        "name": {
+          "local": "Yunusari",
+          "en": "Yunusari",
+          "slug": "yunusari-ng036016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.04",
+      "lon": "12.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036016_dilalakalgi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dilala/kalgi",
+      "en": "Dilala/kalgi",
+      "slug": "dilalakalgi"
+    },
+    "code": {
+      "id": "NG036016_dilalakalgi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036016",
+      "level": 2,
+      "name": {
+        "local": "Yunusari",
+        "en": "Yunusari",
+        "slug": "yunusari-ng036016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036016",
+        "level": 2,
+        "name": {
+          "local": "Yunusari",
+          "en": "Yunusari",
+          "slug": "yunusari-ng036016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.134",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036016_mairari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mairari",
+      "en": "Mairari",
+      "slug": "mairari"
+    },
+    "code": {
+      "id": "NG036016_mairari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036016",
+      "level": 2,
+      "name": {
+        "local": "Yunusari",
+        "en": "Yunusari",
+        "slug": "yunusari-ng036016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036016",
+        "level": 2,
+        "name": {
+          "local": "Yunusari",
+          "en": "Yunusari",
+          "slug": "yunusari-ng036016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.071",
+      "lon": "11.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036016_mozogunkujari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mozogun/kujari",
+      "en": "Mozogun/kujari",
+      "slug": "mozogunkujari"
+    },
+    "code": {
+      "id": "NG036016_mozogunkujari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036016",
+      "level": 2,
+      "name": {
+        "local": "Yunusari",
+        "en": "Yunusari",
+        "slug": "yunusari-ng036016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036016",
+        "level": 2,
+        "name": {
+          "local": "Yunusari",
+          "en": "Yunusari",
+          "slug": "yunusari-ng036016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.927",
+      "lon": "11.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036016_ngirabo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngirabo",
+      "en": "Ngirabo",
+      "slug": "ngirabo"
+    },
+    "code": {
+      "id": "NG036016_ngirabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036016",
+      "level": 2,
+      "name": {
+        "local": "Yunusari",
+        "en": "Yunusari",
+        "slug": "yunusari-ng036016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036016",
+        "level": 2,
+        "name": {
+          "local": "Yunusari",
+          "en": "Yunusari",
+          "slug": "yunusari-ng036016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.112",
+      "lon": "11.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036016_wadikafiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wadi/kafiya",
+      "en": "Wadi/kafiya",
+      "slug": "wadikafiya"
+    },
+    "code": {
+      "id": "NG036016_wadikafiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036016",
+      "level": 2,
+      "name": {
+        "local": "Yunusari",
+        "en": "Yunusari",
+        "slug": "yunusari-ng036016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036016",
+        "level": 2,
+        "name": {
+          "local": "Yunusari",
+          "en": "Yunusari",
+          "slug": "yunusari-ng036016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.037",
+      "lon": "11.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036016_zajibiri-dumbal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zajibiri / Dumbal",
+      "en": "Zajibiri / Dumbal",
+      "slug": "zajibiri-dumbal"
+    },
+    "code": {
+      "id": "NG036016_zajibiri-dumbal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036016",
+      "level": 2,
+      "name": {
+        "local": "Yunusari",
+        "en": "Yunusari",
+        "slug": "yunusari-ng036016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036016",
+        "level": 2,
+        "name": {
+          "local": "Yunusari",
+          "en": "Yunusari",
+          "slug": "yunusari-ng036016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.112",
+      "lon": "11.724"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

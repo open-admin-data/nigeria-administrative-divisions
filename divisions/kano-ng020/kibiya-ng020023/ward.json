@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020023_durba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Durba",
+      "en": "Durba",
+      "slug": "durba"
+    },
+    "code": {
+      "id": "NG020023_durba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020023",
+      "level": 2,
+      "name": {
+        "local": "Kibiya",
+        "en": "Kibiya",
+        "slug": "kibiya-ng020023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020023",
+        "level": 2,
+        "name": {
+          "local": "Kibiya",
+          "en": "Kibiya",
+          "slug": "kibiya-ng020023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.493",
+      "lon": "8.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020023_fammar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fammar",
+      "en": "Fammar",
+      "slug": "fammar"
+    },
+    "code": {
+      "id": "NG020023_fammar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020023",
+      "level": 2,
+      "name": {
+        "local": "Kibiya",
+        "en": "Kibiya",
+        "slug": "kibiya-ng020023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020023",
+        "level": 2,
+        "name": {
+          "local": "Kibiya",
+          "en": "Kibiya",
+          "slug": "kibiya-ng020023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.493",
+      "lon": "8.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020023_fassi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fassi",
+      "en": "Fassi",
+      "slug": "fassi"
+    },
+    "code": {
+      "id": "NG020023_fassi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020023",
+      "level": 2,
+      "name": {
+        "local": "Kibiya",
+        "en": "Kibiya",
+        "slug": "kibiya-ng020023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020023",
+        "level": 2,
+        "name": {
+          "local": "Kibiya",
+          "en": "Kibiya",
+          "slug": "kibiya-ng020023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.493",
+      "lon": "8.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020023_kadigawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadigawa",
+      "en": "Kadigawa",
+      "slug": "kadigawa"
+    },
+    "code": {
+      "id": "NG020023_kadigawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020023",
+      "level": 2,
+      "name": {
+        "local": "Kibiya",
+        "en": "Kibiya",
+        "slug": "kibiya-ng020023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020023",
+        "level": 2,
+        "name": {
+          "local": "Kibiya",
+          "en": "Kibiya",
+          "slug": "kibiya-ng020023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.493",
+      "lon": "8.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020023_kahu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kahu",
+      "en": "Kahu",
+      "slug": "kahu"
+    },
+    "code": {
+      "id": "NG020023_kahu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020023",
+      "level": 2,
+      "name": {
+        "local": "Kibiya",
+        "en": "Kibiya",
+        "slug": "kibiya-ng020023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020023",
+        "level": 2,
+        "name": {
+          "local": "Kibiya",
+          "en": "Kibiya",
+          "slug": "kibiya-ng020023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.493",
+      "lon": "8.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020023_kibiya-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kibiya I",
+      "en": "Kibiya I",
+      "slug": "kibiya-i"
+    },
+    "code": {
+      "id": "NG020023_kibiya-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020023",
+      "level": 2,
+      "name": {
+        "local": "Kibiya",
+        "en": "Kibiya",
+        "slug": "kibiya-ng020023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020023",
+        "level": 2,
+        "name": {
+          "local": "Kibiya",
+          "en": "Kibiya",
+          "slug": "kibiya-ng020023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.493",
+      "lon": "8.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020023_kibiya-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kibiya Ii",
+      "en": "Kibiya Ii",
+      "slug": "kibiya-ii"
+    },
+    "code": {
+      "id": "NG020023_kibiya-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020023",
+      "level": 2,
+      "name": {
+        "local": "Kibiya",
+        "en": "Kibiya",
+        "slug": "kibiya-ng020023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020023",
+        "level": 2,
+        "name": {
+          "local": "Kibiya",
+          "en": "Kibiya",
+          "slug": "kibiya-ng020023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.493",
+      "lon": "8.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020023_nariya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nariya",
+      "en": "Nariya",
+      "slug": "nariya"
+    },
+    "code": {
+      "id": "NG020023_nariya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020023",
+      "level": 2,
+      "name": {
+        "local": "Kibiya",
+        "en": "Kibiya",
+        "slug": "kibiya-ng020023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020023",
+        "level": 2,
+        "name": {
+          "local": "Kibiya",
+          "en": "Kibiya",
+          "slug": "kibiya-ng020023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.493",
+      "lon": "8.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020023_tarai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tarai",
+      "en": "Tarai",
+      "slug": "tarai"
+    },
+    "code": {
+      "id": "NG020023_tarai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020023",
+      "level": 2,
+      "name": {
+        "local": "Kibiya",
+        "en": "Kibiya",
+        "slug": "kibiya-ng020023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020023",
+        "level": 2,
+        "name": {
+          "local": "Kibiya",
+          "en": "Kibiya",
+          "slug": "kibiya-ng020023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.493",
+      "lon": "8.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020023_unguwar-gai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Gai",
+      "en": "Unguwar Gai",
+      "slug": "unguwar-gai"
+    },
+    "code": {
+      "id": "NG020023_unguwar-gai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020023",
+      "level": 2,
+      "name": {
+        "local": "Kibiya",
+        "en": "Kibiya",
+        "slug": "kibiya-ng020023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020023",
+        "level": 2,
+        "name": {
+          "local": "Kibiya",
+          "en": "Kibiya",
+          "slug": "kibiya-ng020023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.493",
+      "lon": "8.683"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG022009_bajida",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bajida",
+      "en": "Bajida",
+      "slug": "bajida"
+    },
+    "code": {
+      "id": "NG022009_bajida",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022009",
+      "level": 2,
+      "name": {
+        "local": "Fakai",
+        "en": "Fakai",
+        "slug": "fakai-ng022009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022009",
+        "level": 2,
+        "name": {
+          "local": "Fakai",
+          "en": "Fakai",
+          "slug": "fakai-ng022009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.475",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022009_bangugarinisa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bangu/garinisa",
+      "en": "Bangu/garinisa",
+      "slug": "bangugarinisa"
+    },
+    "code": {
+      "id": "NG022009_bangugarinisa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022009",
+      "level": 2,
+      "name": {
+        "local": "Fakai",
+        "en": "Fakai",
+        "slug": "fakai-ng022009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022009",
+        "level": 2,
+        "name": {
+          "local": "Fakai",
+          "en": "Fakai",
+          "slug": "fakai-ng022009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.475",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022009_birnin-tudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birnin Tudu",
+      "en": "Birnin Tudu",
+      "slug": "birnin-tudu"
+    },
+    "code": {
+      "id": "NG022009_birnin-tudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022009",
+      "level": 2,
+      "name": {
+        "local": "Fakai",
+        "en": "Fakai",
+        "slug": "fakai-ng022009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022009",
+        "level": 2,
+        "name": {
+          "local": "Fakai",
+          "en": "Fakai",
+          "slug": "fakai-ng022009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.475",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022009_fakaizussun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fakai/zussun",
+      "en": "Fakai/zussun",
+      "slug": "fakaizussun"
+    },
+    "code": {
+      "id": "NG022009_fakaizussun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022009",
+      "level": 2,
+      "name": {
+        "local": "Fakai",
+        "en": "Fakai",
+        "slug": "fakai-ng022009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022009",
+        "level": 2,
+        "name": {
+          "local": "Fakai",
+          "en": "Fakai",
+          "slug": "fakai-ng022009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.475",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022009_gulbin-kukamaijarhula",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gulbin Kuka/maijarhula",
+      "en": "Gulbin Kuka/maijarhula",
+      "slug": "gulbin-kukamaijarhula"
+    },
+    "code": {
+      "id": "NG022009_gulbin-kukamaijarhula",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022009",
+      "level": 2,
+      "name": {
+        "local": "Fakai",
+        "en": "Fakai",
+        "slug": "fakai-ng022009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022009",
+        "level": 2,
+        "name": {
+          "local": "Fakai",
+          "en": "Fakai",
+          "slug": "fakai-ng022009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.475",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022009_ingabulu-maikende",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Inga(bulu) Maikende",
+      "en": "Inga(bulu) Maikende",
+      "slug": "ingabulu-maikende"
+    },
+    "code": {
+      "id": "NG022009_ingabulu-maikende",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022009",
+      "level": 2,
+      "name": {
+        "local": "Fakai",
+        "en": "Fakai",
+        "slug": "fakai-ng022009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022009",
+        "level": 2,
+        "name": {
+          "local": "Fakai",
+          "en": "Fakai",
+          "slug": "fakai-ng022009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.475",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022009_kangi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kangi",
+      "en": "Kangi",
+      "slug": "kangi"
+    },
+    "code": {
+      "id": "NG022009_kangi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022009",
+      "level": 2,
+      "name": {
+        "local": "Fakai",
+        "en": "Fakai",
+        "slug": "fakai-ng022009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022009",
+        "level": 2,
+        "name": {
+          "local": "Fakai",
+          "en": "Fakai",
+          "slug": "fakai-ng022009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.475",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022009_mahuta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mahuta",
+      "en": "Mahuta",
+      "slug": "mahuta"
+    },
+    "code": {
+      "id": "NG022009_mahuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022009",
+      "level": 2,
+      "name": {
+        "local": "Fakai",
+        "en": "Fakai",
+        "slug": "fakai-ng022009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022009",
+        "level": 2,
+        "name": {
+          "local": "Fakai",
+          "en": "Fakai",
+          "slug": "fakai-ng022009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.475",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022009_marafa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Marafa",
+      "en": "Marafa",
+      "slug": "marafa"
+    },
+    "code": {
+      "id": "NG022009_marafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022009",
+      "level": 2,
+      "name": {
+        "local": "Fakai",
+        "en": "Fakai",
+        "slug": "fakai-ng022009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022009",
+        "level": 2,
+        "name": {
+          "local": "Fakai",
+          "en": "Fakai",
+          "slug": "fakai-ng022009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.475",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022009_penin-amanapenin-gaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Penin Amana/penin Gaba",
+      "en": "Penin Amana/penin Gaba",
+      "slug": "penin-amanapenin-gaba"
+    },
+    "code": {
+      "id": "NG022009_penin-amanapenin-gaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022009",
+      "level": 2,
+      "name": {
+        "local": "Fakai",
+        "en": "Fakai",
+        "slug": "fakai-ng022009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022009",
+        "level": 2,
+        "name": {
+          "local": "Fakai",
+          "en": "Fakai",
+          "slug": "fakai-ng022009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.475",
+      "lon": "4.925"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

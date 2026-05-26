@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG010016_abari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abari",
+      "en": "Abari",
+      "slug": "abari"
+    },
+    "code": {
+      "id": "NG010016_abari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010016",
+      "level": 2,
+      "name": {
+        "local": "Patani",
+        "en": "Patani",
+        "slug": "patani-ng010016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010016",
+        "level": 2,
+        "name": {
+          "local": "Patani",
+          "en": "Patani",
+          "slug": "patani-ng010016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.19",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010016_agoloma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agoloma",
+      "en": "Agoloma",
+      "slug": "agoloma"
+    },
+    "code": {
+      "id": "NG010016_agoloma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010016",
+      "level": 2,
+      "name": {
+        "local": "Patani",
+        "en": "Patani",
+        "slug": "patani-ng010016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010016",
+        "level": 2,
+        "name": {
+          "local": "Patani",
+          "en": "Patani",
+          "slug": "patani-ng010016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.19",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010016_bolou---angiama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bolou - Angiama",
+      "en": "Bolou - Angiama",
+      "slug": "bolou---angiama"
+    },
+    "code": {
+      "id": "NG010016_bolou---angiama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010016",
+      "level": 2,
+      "name": {
+        "local": "Patani",
+        "en": "Patani",
+        "slug": "patani-ng010016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010016",
+        "level": 2,
+        "name": {
+          "local": "Patani",
+          "en": "Patani",
+          "slug": "patani-ng010016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.19",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010016_odorubuadobubolou-apelebri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odorubu/adobu/bolou Apelebri",
+      "en": "Odorubu/adobu/bolou Apelebri",
+      "slug": "odorubuadobubolou-apelebri"
+    },
+    "code": {
+      "id": "NG010016_odorubuadobubolou-apelebri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010016",
+      "level": 2,
+      "name": {
+        "local": "Patani",
+        "en": "Patani",
+        "slug": "patani-ng010016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010016",
+        "level": 2,
+        "name": {
+          "local": "Patani",
+          "en": "Patani",
+          "slug": "patani-ng010016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.19",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010016_patani-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Patani I",
+      "en": "Patani I",
+      "slug": "patani-i"
+    },
+    "code": {
+      "id": "NG010016_patani-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010016",
+      "level": 2,
+      "name": {
+        "local": "Patani",
+        "en": "Patani",
+        "slug": "patani-ng010016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010016",
+        "level": 2,
+        "name": {
+          "local": "Patani",
+          "en": "Patani",
+          "slug": "patani-ng010016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.19",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010016_patani-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Patani Ii",
+      "en": "Patani Ii",
+      "slug": "patani-ii"
+    },
+    "code": {
+      "id": "NG010016_patani-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010016",
+      "level": 2,
+      "name": {
+        "local": "Patani",
+        "en": "Patani",
+        "slug": "patani-ng010016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010016",
+        "level": 2,
+        "name": {
+          "local": "Patani",
+          "en": "Patani",
+          "slug": "patani-ng010016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.19",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010016_patani-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Patani Iii",
+      "en": "Patani Iii",
+      "slug": "patani-iii"
+    },
+    "code": {
+      "id": "NG010016_patani-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010016",
+      "level": 2,
+      "name": {
+        "local": "Patani",
+        "en": "Patani",
+        "slug": "patani-ng010016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010016",
+        "level": 2,
+        "name": {
+          "local": "Patani",
+          "en": "Patani",
+          "slug": "patani-ng010016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.19",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010016_tawarekolowara-aven",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Taware/kolowara Aven",
+      "en": "Taware/kolowara Aven",
+      "slug": "tawarekolowara-aven"
+    },
+    "code": {
+      "id": "NG010016_tawarekolowara-aven",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010016",
+      "level": 2,
+      "name": {
+        "local": "Patani",
+        "en": "Patani",
+        "slug": "patani-ng010016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010016",
+        "level": 2,
+        "name": {
+          "local": "Patani",
+          "en": "Patani",
+          "slug": "patani-ng010016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.19",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010016_toru-angiama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Toru-angiama",
+      "en": "Toru-angiama",
+      "slug": "toru-angiama"
+    },
+    "code": {
+      "id": "NG010016_toru-angiama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010016",
+      "level": 2,
+      "name": {
+        "local": "Patani",
+        "en": "Patani",
+        "slug": "patani-ng010016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010016",
+        "level": 2,
+        "name": {
+          "local": "Patani",
+          "en": "Patani",
+          "slug": "patani-ng010016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.19",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010016_uduophori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uduophori",
+      "en": "Uduophori",
+      "slug": "uduophori"
+    },
+    "code": {
+      "id": "NG010016_uduophori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010016",
+      "level": 2,
+      "name": {
+        "local": "Patani",
+        "en": "Patani",
+        "slug": "patani-ng010016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010016",
+        "level": 2,
+        "name": {
+          "local": "Patani",
+          "en": "Patani",
+          "slug": "patani-ng010016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.19",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "NG025",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Lagos",
+    "en": "Lagos",
+    "slug": "lagos-ng025"
+  },
+  "code": {
+    "id": "NG025",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 20,
+    "ward": 233
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.535",
+    "lon": "3.712"
+  },
+  "metadata": {},
+  "source": {}
+}

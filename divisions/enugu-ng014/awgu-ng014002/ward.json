@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG014002_agbogugu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbogugu",
+      "en": "Agbogugu",
+      "slug": "agbogugu"
+    },
+    "code": {
+      "id": "NG014002_agbogugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014002",
+      "level": 2,
+      "name": {
+        "local": "Awgu",
+        "en": "Awgu",
+        "slug": "awgu-ng014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014002",
+        "level": 2,
+        "name": {
+          "local": "Awgu",
+          "en": "Awgu",
+          "slug": "awgu-ng014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.173",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014002_anikenanougwueme",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Anikenano/ugwueme",
+      "en": "Anikenano/ugwueme",
+      "slug": "anikenanougwueme"
+    },
+    "code": {
+      "id": "NG014002_anikenanougwueme",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014002",
+      "level": 2,
+      "name": {
+        "local": "Awgu",
+        "en": "Awgu",
+        "slug": "awgu-ng014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014002",
+        "level": 2,
+        "name": {
+          "local": "Awgu",
+          "en": "Awgu",
+          "slug": "awgu-ng014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.173",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014002_awgu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awgu I",
+      "en": "Awgu I",
+      "slug": "awgu-i"
+    },
+    "code": {
+      "id": "NG014002_awgu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014002",
+      "level": 2,
+      "name": {
+        "local": "Awgu",
+        "en": "Awgu",
+        "slug": "awgu-ng014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014002",
+        "level": 2,
+        "name": {
+          "local": "Awgu",
+          "en": "Awgu",
+          "slug": "awgu-ng014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.173",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014002_awgu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awgu Ii",
+      "en": "Awgu Ii",
+      "slug": "awgu-ii"
+    },
+    "code": {
+      "id": "NG014002_awgu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014002",
+      "level": 2,
+      "name": {
+        "local": "Awgu",
+        "en": "Awgu",
+        "slug": "awgu-ng014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014002",
+        "level": 2,
+        "name": {
+          "local": "Awgu",
+          "en": "Awgu",
+          "slug": "awgu-ng014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.173",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014002_ihe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ihe",
+      "en": "Ihe",
+      "slug": "ihe"
+    },
+    "code": {
+      "id": "NG014002_ihe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014002",
+      "level": 2,
+      "name": {
+        "local": "Awgu",
+        "en": "Awgu",
+        "slug": "awgu-ng014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014002",
+        "level": 2,
+        "name": {
+          "local": "Awgu",
+          "en": "Awgu",
+          "slug": "awgu-ng014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.173",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014002_isu-awaoguguagbuduituku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isu Awa/ogugu/agbudu/ituku",
+      "en": "Isu Awa/ogugu/agbudu/ituku",
+      "slug": "isu-awaoguguagbuduituku"
+    },
+    "code": {
+      "id": "NG014002_isu-awaoguguagbuduituku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014002",
+      "level": 2,
+      "name": {
+        "local": "Awgu",
+        "en": "Awgu",
+        "slug": "awgu-ng014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014002",
+        "level": 2,
+        "name": {
+          "local": "Awgu",
+          "en": "Awgu",
+          "slug": "awgu-ng014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.173",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014002_mgbidimmaku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mgbidi/mmaku",
+      "en": "Mgbidi/mmaku",
+      "slug": "mgbidimmaku"
+    },
+    "code": {
+      "id": "NG014002_mgbidimmaku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014002",
+      "level": 2,
+      "name": {
+        "local": "Awgu",
+        "en": "Awgu",
+        "slug": "awgu-ng014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014002",
+        "level": 2,
+        "name": {
+          "local": "Awgu",
+          "en": "Awgu",
+          "slug": "awgu-ng014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.173",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014002_mgbowo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mgbowo",
+      "en": "Mgbowo",
+      "slug": "mgbowo"
+    },
+    "code": {
+      "id": "NG014002_mgbowo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014002",
+      "level": 2,
+      "name": {
+        "local": "Awgu",
+        "en": "Awgu",
+        "slug": "awgu-ng014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014002",
+        "level": 2,
+        "name": {
+          "local": "Awgu",
+          "en": "Awgu",
+          "slug": "awgu-ng014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.173",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014002_obeagu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obeagu",
+      "en": "Obeagu",
+      "slug": "obeagu"
+    },
+    "code": {
+      "id": "NG014002_obeagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014002",
+      "level": 2,
+      "name": {
+        "local": "Awgu",
+        "en": "Awgu",
+        "slug": "awgu-ng014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014002",
+        "level": 2,
+        "name": {
+          "local": "Awgu",
+          "en": "Awgu",
+          "slug": "awgu-ng014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.173",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014002_ogbaku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbaku",
+      "en": "Ogbaku",
+      "slug": "ogbaku"
+    },
+    "code": {
+      "id": "NG014002_ogbaku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014002",
+      "level": 2,
+      "name": {
+        "local": "Awgu",
+        "en": "Awgu",
+        "slug": "awgu-ng014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014002",
+        "level": 2,
+        "name": {
+          "local": "Awgu",
+          "en": "Awgu",
+          "slug": "awgu-ng014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.173",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014002_owelliamoliugboogugu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owelli/amoli/ugbo/ogugu",
+      "en": "Owelli/amoli/ugbo/ogugu",
+      "slug": "owelliamoliugboogugu"
+    },
+    "code": {
+      "id": "NG014002_owelliamoliugboogugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014002",
+      "level": 2,
+      "name": {
+        "local": "Awgu",
+        "en": "Awgu",
+        "slug": "awgu-ng014002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014002",
+        "level": 2,
+        "name": {
+          "local": "Awgu",
+          "en": "Awgu",
+          "slug": "awgu-ng014002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.173",
+      "lon": "7.451"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

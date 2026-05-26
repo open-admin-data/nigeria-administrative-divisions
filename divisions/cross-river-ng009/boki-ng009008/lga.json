@@ -1,0 +1,47 @@
+{
+  "id": "NG009008",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Boki",
+    "en": "Boki",
+    "slug": "boki-ng009008"
+  },
+  "code": {
+    "id": "NG009008",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG009",
+    "level": 1,
+    "name": {
+      "local": "Cross River",
+      "en": "Cross River",
+      "slug": "cross-river-ng009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.271",
+    "lon": "9.043"
+  },
+  "metadata": {},
+  "source": {}
+}

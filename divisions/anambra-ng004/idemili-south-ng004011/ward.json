@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG004011_akwukwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akwukwu",
+      "en": "Akwukwu",
+      "slug": "akwukwu"
+    },
+    "code": {
+      "id": "NG004011_akwukwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004011",
+      "level": 2,
+      "name": {
+        "local": "Idemili South",
+        "en": "Idemili South",
+        "slug": "idemili-south-ng004011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004011",
+        "level": 2,
+        "name": {
+          "local": "Idemili South",
+          "en": "Idemili South",
+          "slug": "idemili-south-ng004011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004011_alor-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alor I",
+      "en": "Alor I",
+      "slug": "alor-i"
+    },
+    "code": {
+      "id": "NG004011_alor-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004011",
+      "level": 2,
+      "name": {
+        "local": "Idemili South",
+        "en": "Idemili South",
+        "slug": "idemili-south-ng004011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004011",
+        "level": 2,
+        "name": {
+          "local": "Idemili South",
+          "en": "Idemili South",
+          "slug": "idemili-south-ng004011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004011_alor-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alor Ii",
+      "en": "Alor Ii",
+      "slug": "alor-ii"
+    },
+    "code": {
+      "id": "NG004011_alor-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004011",
+      "level": 2,
+      "name": {
+        "local": "Idemili South",
+        "en": "Idemili South",
+        "slug": "idemili-south-ng004011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004011",
+        "level": 2,
+        "name": {
+          "local": "Idemili South",
+          "en": "Idemili South",
+          "slug": "idemili-south-ng004011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004011_awka-etiti-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awka-etiti I",
+      "en": "Awka-etiti I",
+      "slug": "awka-etiti-i"
+    },
+    "code": {
+      "id": "NG004011_awka-etiti-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004011",
+      "level": 2,
+      "name": {
+        "local": "Idemili South",
+        "en": "Idemili South",
+        "slug": "idemili-south-ng004011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004011",
+        "level": 2,
+        "name": {
+          "local": "Idemili South",
+          "en": "Idemili South",
+          "slug": "idemili-south-ng004011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004011_awka-etiti-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awka-etiti Ii",
+      "en": "Awka-etiti Ii",
+      "slug": "awka-etiti-ii"
+    },
+    "code": {
+      "id": "NG004011_awka-etiti-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004011",
+      "level": 2,
+      "name": {
+        "local": "Idemili South",
+        "en": "Idemili South",
+        "slug": "idemili-south-ng004011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004011",
+        "level": 2,
+        "name": {
+          "local": "Idemili South",
+          "en": "Idemili South",
+          "slug": "idemili-south-ng004011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004011_nnobi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nnobi I",
+      "en": "Nnobi I",
+      "slug": "nnobi-i"
+    },
+    "code": {
+      "id": "NG004011_nnobi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004011",
+      "level": 2,
+      "name": {
+        "local": "Idemili South",
+        "en": "Idemili South",
+        "slug": "idemili-south-ng004011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004011",
+        "level": 2,
+        "name": {
+          "local": "Idemili South",
+          "en": "Idemili South",
+          "slug": "idemili-south-ng004011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004011_nnobi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nnobi Ii",
+      "en": "Nnobi Ii",
+      "slug": "nnobi-ii"
+    },
+    "code": {
+      "id": "NG004011_nnobi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004011",
+      "level": 2,
+      "name": {
+        "local": "Idemili South",
+        "en": "Idemili South",
+        "slug": "idemili-south-ng004011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004011",
+        "level": 2,
+        "name": {
+          "local": "Idemili South",
+          "en": "Idemili South",
+          "slug": "idemili-south-ng004011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004011_nnobi-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nnobi Iii",
+      "en": "Nnobi Iii",
+      "slug": "nnobi-iii"
+    },
+    "code": {
+      "id": "NG004011_nnobi-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004011",
+      "level": 2,
+      "name": {
+        "local": "Idemili South",
+        "en": "Idemili South",
+        "slug": "idemili-south-ng004011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004011",
+        "level": 2,
+        "name": {
+          "local": "Idemili South",
+          "en": "Idemili South",
+          "slug": "idemili-south-ng004011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004011_nnokwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nnokwa",
+      "en": "Nnokwa",
+      "slug": "nnokwa"
+    },
+    "code": {
+      "id": "NG004011_nnokwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004011",
+      "level": 2,
+      "name": {
+        "local": "Idemili South",
+        "en": "Idemili South",
+        "slug": "idemili-south-ng004011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004011",
+        "level": 2,
+        "name": {
+          "local": "Idemili South",
+          "en": "Idemili South",
+          "slug": "idemili-south-ng004011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004011_oba-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oba I",
+      "en": "Oba I",
+      "slug": "oba-i"
+    },
+    "code": {
+      "id": "NG004011_oba-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004011",
+      "level": 2,
+      "name": {
+        "local": "Idemili South",
+        "en": "Idemili South",
+        "slug": "idemili-south-ng004011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004011",
+        "level": 2,
+        "name": {
+          "local": "Idemili South",
+          "en": "Idemili South",
+          "slug": "idemili-south-ng004011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004011_oba-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oba Ii",
+      "en": "Oba Ii",
+      "slug": "oba-ii"
+    },
+    "code": {
+      "id": "NG004011_oba-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004011",
+      "level": 2,
+      "name": {
+        "local": "Idemili South",
+        "en": "Idemili South",
+        "slug": "idemili-south-ng004011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004011",
+        "level": 2,
+        "name": {
+          "local": "Idemili South",
+          "en": "Idemili South",
+          "slug": "idemili-south-ng004011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004011_ojoto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojoto",
+      "en": "Ojoto",
+      "slug": "ojoto"
+    },
+    "code": {
+      "id": "NG004011_ojoto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004011",
+      "level": 2,
+      "name": {
+        "local": "Idemili South",
+        "en": "Idemili South",
+        "slug": "idemili-south-ng004011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004011",
+        "level": 2,
+        "name": {
+          "local": "Idemili South",
+          "en": "Idemili South",
+          "slug": "idemili-south-ng004011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

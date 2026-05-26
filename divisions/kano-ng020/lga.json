@@ -1,0 +1,2070 @@
+[
+  {
+    "id": "NG020001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ajingi",
+      "en": "Ajingi",
+      "slug": "ajingi-ng020001"
+    },
+    "code": {
+      "id": "NG020001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "9.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Albasu",
+      "en": "Albasu",
+      "slug": "albasu-ng020002"
+    },
+    "code": {
+      "id": "NG020002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.627",
+      "lon": "9.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bagwai",
+      "en": "Bagwai",
+      "slug": "bagwai-ng020003"
+    },
+    "code": {
+      "id": "NG020003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.098",
+      "lon": "8.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bebeji",
+      "en": "Bebeji",
+      "slug": "bebeji-ng020004"
+    },
+    "code": {
+      "id": "NG020004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bichi",
+      "en": "Bichi",
+      "slug": "bichi-ng020005"
+    },
+    "code": {
+      "id": "NG020005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bunkure",
+      "en": "Bunkure",
+      "slug": "bunkure-ng020006"
+    },
+    "code": {
+      "id": "NG020006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.672",
+      "lon": "8.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dala",
+      "en": "Dala",
+      "slug": "dala-ng020007"
+    },
+    "code": {
+      "id": "NG020007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dambatta",
+      "en": "Dambatta",
+      "slug": "dambatta-ng020008"
+    },
+    "code": {
+      "id": "NG020008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.425",
+      "lon": "8.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dawakin Kudu",
+      "en": "Dawakin Kudu",
+      "slug": "dawakin-kudu-ng020009"
+    },
+    "code": {
+      "id": "NG020009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.795",
+      "lon": "8.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dawakin Tofa",
+      "en": "Dawakin Tofa",
+      "slug": "dawakin-tofa-ng020010"
+    },
+    "code": {
+      "id": "NG020010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.147",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Doguwa",
+      "en": "Doguwa",
+      "slug": "doguwa-ng020011"
+    },
+    "code": {
+      "id": "NG020011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.89",
+      "lon": "8.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Fagge",
+      "en": "Fagge",
+      "slug": "fagge-ng020012"
+    },
+    "code": {
+      "id": "NG020012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gabasawa",
+      "en": "Gabasawa",
+      "slug": "gabasawa-ng020013"
+    },
+    "code": {
+      "id": "NG020013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.137",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Garko",
+      "en": "Garko",
+      "slug": "garko-ng020014"
+    },
+    "code": {
+      "id": "NG020014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.551",
+      "lon": "8.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Garum Mallam",
+      "en": "Garum Mallam",
+      "slug": "garum-mallam-ng020015"
+    },
+    "code": {
+      "id": "NG020015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "8.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gaya",
+      "en": "Gaya",
+      "slug": "gaya-ng020016"
+    },
+    "code": {
+      "id": "NG020016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.793",
+      "lon": "9.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gezawa",
+      "en": "Gezawa",
+      "slug": "gezawa-ng020017"
+    },
+    "code": {
+      "id": "NG020017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.057",
+      "lon": "8.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gwale",
+      "en": "Gwale",
+      "slug": "gwale-ng020018"
+    },
+    "code": {
+      "id": "NG020018",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.978",
+      "lon": "8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gwarzo",
+      "en": "Gwarzo",
+      "slug": "gwarzo-ng020019"
+    },
+    "code": {
+      "id": "NG020019",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.903",
+      "lon": "7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kabo",
+      "en": "Kabo",
+      "slug": "kabo-ng020020"
+    },
+    "code": {
+      "id": "NG020020",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.898",
+      "lon": "8.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kano Municipal",
+      "en": "Kano Municipal",
+      "slug": "kano-municipal-ng020021"
+    },
+    "code": {
+      "id": "NG020021",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Karaye",
+      "en": "Karaye",
+      "slug": "karaye-ng020022"
+    },
+    "code": {
+      "id": "NG020022",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "7.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kibiya",
+      "en": "Kibiya",
+      "slug": "kibiya-ng020023"
+    },
+    "code": {
+      "id": "NG020023",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.493",
+      "lon": "8.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020024",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kiru",
+      "en": "Kiru",
+      "slug": "kiru-ng020024"
+    },
+    "code": {
+      "id": "NG020024",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.553",
+      "lon": "8.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020025",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kumbotso",
+      "en": "Kumbotso",
+      "slug": "kumbotso-ng020025"
+    },
+    "code": {
+      "id": "NG020025",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.921",
+      "lon": "8.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020026",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kunchi",
+      "en": "Kunchi",
+      "slug": "kunchi-ng020026"
+    },
+    "code": {
+      "id": "NG020026",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.468",
+      "lon": "8.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020027",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kura",
+      "en": "Kura",
+      "slug": "kura-ng020027"
+    },
+    "code": {
+      "id": "NG020027",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.775",
+      "lon": "8.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020028",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Madobi",
+      "en": "Madobi",
+      "slug": "madobi-ng020028"
+    },
+    "code": {
+      "id": "NG020028",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020029",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Makoda",
+      "en": "Makoda",
+      "slug": "makoda-ng020029"
+    },
+    "code": {
+      "id": "NG020029",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.422",
+      "lon": "8.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020030",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Minjibir",
+      "en": "Minjibir",
+      "slug": "minjibir-ng020030"
+    },
+    "code": {
+      "id": "NG020030",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020031",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nasarawa",
+      "en": "Nasarawa",
+      "slug": "nasarawa-ng020031"
+    },
+    "code": {
+      "id": "NG020031",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.004",
+      "lon": "8.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020032",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Rano",
+      "en": "Rano",
+      "slug": "rano-ng020032"
+    },
+    "code": {
+      "id": "NG020032",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.484",
+      "lon": "8.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020033",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Rimin Gado",
+      "en": "Rimin Gado",
+      "slug": "rimin-gado-ng020033"
+    },
+    "code": {
+      "id": "NG020033",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.927",
+      "lon": "8.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020034",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Rogo",
+      "en": "Rogo",
+      "slug": "rogo-ng020034"
+    },
+    "code": {
+      "id": "NG020034",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.509",
+      "lon": "7.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020035",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Shanono",
+      "en": "Shanono",
+      "slug": "shanono-ng020035"
+    },
+    "code": {
+      "id": "NG020035",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.087",
+      "lon": "7.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020036",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Sumaila",
+      "en": "Sumaila",
+      "slug": "sumaila-ng020036"
+    },
+    "code": {
+      "id": "NG020036",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.325",
+      "lon": "8.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020037",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Takai",
+      "en": "Takai",
+      "slug": "takai-ng020037"
+    },
+    "code": {
+      "id": "NG020037",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.487",
+      "lon": "9.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020038",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tarauni",
+      "en": "Tarauni",
+      "slug": "tarauni-ng020038"
+    },
+    "code": {
+      "id": "NG020038",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.964",
+      "lon": "8.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020039",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tofa",
+      "en": "Tofa",
+      "slug": "tofa-ng020039"
+    },
+    "code": {
+      "id": "NG020039",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.015",
+      "lon": "8.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020040",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tsanyawa",
+      "en": "Tsanyawa",
+      "slug": "tsanyawa-ng020040"
+    },
+    "code": {
+      "id": "NG020040",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.278",
+      "lon": "8.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020041",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tudun Wada",
+      "en": "Tudun Wada",
+      "slug": "tudun-wada-ng020041"
+    },
+    "code": {
+      "id": "NG020041",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020042",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ungogo",
+      "en": "Ungogo",
+      "slug": "ungogo-ng020042"
+    },
+    "code": {
+      "id": "NG020042",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "8.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020043",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Warawa",
+      "en": "Warawa",
+      "slug": "warawa-ng020043"
+    },
+    "code": {
+      "id": "NG020043",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.899",
+      "lon": "8.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020044",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wudil",
+      "en": "Wudil",
+      "slug": "wudil-ng020044"
+    },
+    "code": {
+      "id": "NG020044",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.759",
+      "lon": "8.851"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

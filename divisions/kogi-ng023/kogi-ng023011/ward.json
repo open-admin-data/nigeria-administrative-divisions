@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG023011_akpasu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akpasu",
+      "en": "Akpasu",
+      "slug": "akpasu"
+    },
+    "code": {
+      "id": "NG023011_akpasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023011",
+      "level": 2,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023011",
+        "level": 2,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.127",
+      "lon": "6.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023011_chikara-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chikara North",
+      "en": "Chikara North",
+      "slug": "chikara-north"
+    },
+    "code": {
+      "id": "NG023011_chikara-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023011",
+      "level": 2,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023011",
+        "level": 2,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.127",
+      "lon": "6.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023011_chikara-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chikara South",
+      "en": "Chikara South",
+      "slug": "chikara-south"
+    },
+    "code": {
+      "id": "NG023011_chikara-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023011",
+      "level": 2,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023011",
+        "level": 2,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.127",
+      "lon": "6.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023011_gegu-beki-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gegu-beki North",
+      "en": "Gegu-beki North",
+      "slug": "gegu-beki-north"
+    },
+    "code": {
+      "id": "NG023011_gegu-beki-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023011",
+      "level": 2,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023011",
+        "level": 2,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.127",
+      "lon": "6.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023011_gegu-beki-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gegu-beki South",
+      "en": "Gegu-beki South",
+      "slug": "gegu-beki-south"
+    },
+    "code": {
+      "id": "NG023011_gegu-beki-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023011",
+      "level": 2,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023011",
+        "level": 2,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.127",
+      "lon": "6.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023011_girinya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Girinya",
+      "en": "Girinya",
+      "slug": "girinya"
+    },
+    "code": {
+      "id": "NG023011_girinya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023011",
+      "level": 2,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023011",
+        "level": 2,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.127",
+      "lon": "6.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023011_irenodu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Irenodu",
+      "en": "Irenodu",
+      "slug": "irenodu"
+    },
+    "code": {
+      "id": "NG023011_irenodu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023011",
+      "level": 2,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023011",
+        "level": 2,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.127",
+      "lon": "6.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023011_kotonkarfe-south-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kotonkarfe South East",
+      "en": "Kotonkarfe South East",
+      "slug": "kotonkarfe-south-east"
+    },
+    "code": {
+      "id": "NG023011_kotonkarfe-south-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023011",
+      "level": 2,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023011",
+        "level": 2,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.127",
+      "lon": "6.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023011_odaki-koton-karfe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odaki-koton Karfe",
+      "en": "Odaki-koton Karfe",
+      "slug": "odaki-koton-karfe"
+    },
+    "code": {
+      "id": "NG023011_odaki-koton-karfe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023011",
+      "level": 2,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023011",
+        "level": 2,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.127",
+      "lon": "6.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023011_tawari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tawari",
+      "en": "Tawari",
+      "slug": "tawari"
+    },
+    "code": {
+      "id": "NG023011_tawari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023011",
+      "level": 2,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023011",
+        "level": 2,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.127",
+      "lon": "6.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023011_ukwo-koton-karfe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukwo-koton Karfe",
+      "en": "Ukwo-koton Karfe",
+      "slug": "ukwo-koton-karfe"
+    },
+    "code": {
+      "id": "NG023011_ukwo-koton-karfe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023011",
+      "level": 2,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023011",
+        "level": 2,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.127",
+      "lon": "6.856"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

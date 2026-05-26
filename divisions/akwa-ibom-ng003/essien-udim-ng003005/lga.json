@@ -1,0 +1,47 @@
+{
+  "id": "NG003005",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Essien Udim",
+    "en": "Essien Udim",
+    "slug": "essien-udim-ng003005"
+  },
+  "code": {
+    "id": "NG003005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG003",
+    "level": 1,
+    "name": {
+      "local": "Akwa Ibom",
+      "en": "Akwa Ibom",
+      "slug": "akwa-ibom-ng003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.101",
+    "lon": "7.657"
+  },
+  "metadata": {},
+  "source": {}
+}

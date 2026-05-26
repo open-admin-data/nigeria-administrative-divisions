@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG008012_bilingwi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bilingwi",
+      "en": "Bilingwi",
+      "slug": "bilingwi"
+    },
+    "code": {
+      "id": "NG008012_bilingwi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008012",
+      "level": 2,
+      "name": {
+        "local": "Hawul",
+        "en": "Hawul",
+        "slug": "hawul-ng008012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008012",
+        "level": 2,
+        "name": {
+          "local": "Hawul",
+          "en": "Hawul",
+          "slug": "hawul-ng008012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.503",
+      "lon": "12.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008012_dzar-vinadum-birni-dlandi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dzar/ Vinadum/ Birni/ Dlandi",
+      "en": "Dzar/ Vinadum/ Birni/ Dlandi",
+      "slug": "dzar-vinadum-birni-dlandi"
+    },
+    "code": {
+      "id": "NG008012_dzar-vinadum-birni-dlandi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008012",
+      "level": 2,
+      "name": {
+        "local": "Hawul",
+        "en": "Hawul",
+        "slug": "hawul-ng008012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008012",
+        "level": 2,
+        "name": {
+          "local": "Hawul",
+          "en": "Hawul",
+          "slug": "hawul-ng008012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.457",
+      "lon": "12.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008012_gwanzang-pusda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwanzang Pusda",
+      "en": "Gwanzang Pusda",
+      "slug": "gwanzang-pusda"
+    },
+    "code": {
+      "id": "NG008012_gwanzang-pusda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008012",
+      "level": 2,
+      "name": {
+        "local": "Hawul",
+        "en": "Hawul",
+        "slug": "hawul-ng008012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008012",
+        "level": 2,
+        "name": {
+          "local": "Hawul",
+          "en": "Hawul",
+          "slug": "hawul-ng008012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.457",
+      "lon": "12.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008012_hizhi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hizhi",
+      "en": "Hizhi",
+      "slug": "hizhi"
+    },
+    "code": {
+      "id": "NG008012_hizhi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008012",
+      "level": 2,
+      "name": {
+        "local": "Hawul",
+        "en": "Hawul",
+        "slug": "hawul-ng008012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008012",
+        "level": 2,
+        "name": {
+          "local": "Hawul",
+          "en": "Hawul",
+          "slug": "hawul-ng008012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.546",
+      "lon": "12.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008012_kida",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kida",
+      "en": "Kida",
+      "slug": "kida"
+    },
+    "code": {
+      "id": "NG008012_kida",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008012",
+      "level": 2,
+      "name": {
+        "local": "Hawul",
+        "en": "Hawul",
+        "slug": "hawul-ng008012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008012",
+        "level": 2,
+        "name": {
+          "local": "Hawul",
+          "en": "Hawul",
+          "slug": "hawul-ng008012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.416",
+      "lon": "12.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008012_kwajaffahang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwajaffa/hang",
+      "en": "Kwajaffa/hang",
+      "slug": "kwajaffahang"
+    },
+    "code": {
+      "id": "NG008012_kwajaffahang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008012",
+      "level": 2,
+      "name": {
+        "local": "Hawul",
+        "en": "Hawul",
+        "slug": "hawul-ng008012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008012",
+        "level": 2,
+        "name": {
+          "local": "Hawul",
+          "en": "Hawul",
+          "slug": "hawul-ng008012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.508",
+      "lon": "12.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008012_kwaya-burtanga-rumta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwaya-bur/tanga Rumta",
+      "en": "Kwaya-bur/tanga Rumta",
+      "slug": "kwaya-burtanga-rumta"
+    },
+    "code": {
+      "id": "NG008012_kwaya-burtanga-rumta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008012",
+      "level": 2,
+      "name": {
+        "local": "Hawul",
+        "en": "Hawul",
+        "slug": "hawul-ng008012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008012",
+        "level": 2,
+        "name": {
+          "local": "Hawul",
+          "en": "Hawul",
+          "slug": "hawul-ng008012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.499",
+      "lon": "12.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008012_maramakidang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Marama/kidang",
+      "en": "Marama/kidang",
+      "slug": "maramakidang"
+    },
+    "code": {
+      "id": "NG008012_maramakidang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008012",
+      "level": 2,
+      "name": {
+        "local": "Hawul",
+        "en": "Hawul",
+        "slug": "hawul-ng008012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008012",
+        "level": 2,
+        "name": {
+          "local": "Hawul",
+          "en": "Hawul",
+          "slug": "hawul-ng008012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.416",
+      "lon": "12.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008012_pamawhitambaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pama/whitambaya",
+      "en": "Pama/whitambaya",
+      "slug": "pamawhitambaya"
+    },
+    "code": {
+      "id": "NG008012_pamawhitambaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008012",
+      "level": 2,
+      "name": {
+        "local": "Hawul",
+        "en": "Hawul",
+        "slug": "hawul-ng008012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008012",
+        "level": 2,
+        "name": {
+          "local": "Hawul",
+          "en": "Hawul",
+          "slug": "hawul-ng008012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.385",
+      "lon": "12.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008012_pubavidaulokoja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Puba/vidau/lokoja",
+      "en": "Puba/vidau/lokoja",
+      "slug": "pubavidaulokoja"
+    },
+    "code": {
+      "id": "NG008012_pubavidaulokoja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008012",
+      "level": 2,
+      "name": {
+        "local": "Hawul",
+        "en": "Hawul",
+        "slug": "hawul-ng008012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008012",
+        "level": 2,
+        "name": {
+          "local": "Hawul",
+          "en": "Hawul",
+          "slug": "hawul-ng008012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.382",
+      "lon": "12.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008012_sakwahema",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sakwa/hema",
+      "en": "Sakwa/hema",
+      "slug": "sakwahema"
+    },
+    "code": {
+      "id": "NG008012_sakwahema",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008012",
+      "level": 2,
+      "name": {
+        "local": "Hawul",
+        "en": "Hawul",
+        "slug": "hawul-ng008012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008012",
+        "level": 2,
+        "name": {
+          "local": "Hawul",
+          "en": "Hawul",
+          "slug": "hawul-ng008012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.525",
+      "lon": "12.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008012_shaffa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shaffa",
+      "en": "Shaffa",
+      "slug": "shaffa"
+    },
+    "code": {
+      "id": "NG008012_shaffa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008012",
+      "level": 2,
+      "name": {
+        "local": "Hawul",
+        "en": "Hawul",
+        "slug": "hawul-ng008012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008012",
+        "level": 2,
+        "name": {
+          "local": "Hawul",
+          "en": "Hawul",
+          "slug": "hawul-ng008012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.513",
+      "lon": "12.366"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

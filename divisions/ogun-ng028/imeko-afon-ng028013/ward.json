@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG028013_afon",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Afon",
+      "en": "Afon",
+      "slug": "afon"
+    },
+    "code": {
+      "id": "NG028013_afon",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028013",
+      "level": 2,
+      "name": {
+        "local": "Imeko-Afon",
+        "en": "Imeko-Afon",
+        "slug": "imeko-afon-ng028013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028013",
+        "level": 2,
+        "name": {
+          "local": "Imeko-Afon",
+          "en": "Imeko-Afon",
+          "slug": "imeko-afon-ng028013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.633",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028013_idi-ayin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idi Ayin",
+      "en": "Idi Ayin",
+      "slug": "idi-ayin"
+    },
+    "code": {
+      "id": "NG028013_idi-ayin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028013",
+      "level": 2,
+      "name": {
+        "local": "Imeko-Afon",
+        "en": "Imeko-Afon",
+        "slug": "imeko-afon-ng028013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028013",
+        "level": 2,
+        "name": {
+          "local": "Imeko-Afon",
+          "en": "Imeko-Afon",
+          "slug": "imeko-afon-ng028013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.633",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028013_idofa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idofa",
+      "en": "Idofa",
+      "slug": "idofa"
+    },
+    "code": {
+      "id": "NG028013_idofa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028013",
+      "level": 2,
+      "name": {
+        "local": "Imeko-Afon",
+        "en": "Imeko-Afon",
+        "slug": "imeko-afon-ng028013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028013",
+        "level": 2,
+        "name": {
+          "local": "Imeko-Afon",
+          "en": "Imeko-Afon",
+          "slug": "imeko-afon-ng028013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.633",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028013_ilaraalagbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilara/alagbe",
+      "en": "Ilara/alagbe",
+      "slug": "ilaraalagbe"
+    },
+    "code": {
+      "id": "NG028013_ilaraalagbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028013",
+      "level": 2,
+      "name": {
+        "local": "Imeko-Afon",
+        "en": "Imeko-Afon",
+        "slug": "imeko-afon-ng028013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028013",
+        "level": 2,
+        "name": {
+          "local": "Imeko-Afon",
+          "en": "Imeko-Afon",
+          "slug": "imeko-afon-ng028013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.633",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028013_imeko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imeko",
+      "en": "Imeko",
+      "slug": "imeko"
+    },
+    "code": {
+      "id": "NG028013_imeko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028013",
+      "level": 2,
+      "name": {
+        "local": "Imeko-Afon",
+        "en": "Imeko-Afon",
+        "slug": "imeko-afon-ng028013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028013",
+        "level": 2,
+        "name": {
+          "local": "Imeko-Afon",
+          "en": "Imeko-Afon",
+          "slug": "imeko-afon-ng028013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.633",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028013_iwoyejabata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iwoye/jabata",
+      "en": "Iwoye/jabata",
+      "slug": "iwoyejabata"
+    },
+    "code": {
+      "id": "NG028013_iwoyejabata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028013",
+      "level": 2,
+      "name": {
+        "local": "Imeko-Afon",
+        "en": "Imeko-Afon",
+        "slug": "imeko-afon-ng028013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028013",
+        "level": 2,
+        "name": {
+          "local": "Imeko-Afon",
+          "en": "Imeko-Afon",
+          "slug": "imeko-afon-ng028013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.633",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028013_kajolaagberiodo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kajola/agberiodo",
+      "en": "Kajola/agberiodo",
+      "slug": "kajolaagberiodo"
+    },
+    "code": {
+      "id": "NG028013_kajolaagberiodo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028013",
+      "level": 2,
+      "name": {
+        "local": "Imeko-Afon",
+        "en": "Imeko-Afon",
+        "slug": "imeko-afon-ng028013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028013",
+        "level": 2,
+        "name": {
+          "local": "Imeko-Afon",
+          "en": "Imeko-Afon",
+          "slug": "imeko-afon-ng028013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.633",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028013_oke-agbedemoriwimatale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke Agbede/moriwi/matale",
+      "en": "Oke Agbede/moriwi/matale",
+      "slug": "oke-agbedemoriwimatale"
+    },
+    "code": {
+      "id": "NG028013_oke-agbedemoriwimatale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028013",
+      "level": 2,
+      "name": {
+        "local": "Imeko-Afon",
+        "en": "Imeko-Afon",
+        "slug": "imeko-afon-ng028013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028013",
+        "level": 2,
+        "name": {
+          "local": "Imeko-Afon",
+          "en": "Imeko-Afon",
+          "slug": "imeko-afon-ng028013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.633",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028013_olorundagbomo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olorunda/gbomo",
+      "en": "Olorunda/gbomo",
+      "slug": "olorundagbomo"
+    },
+    "code": {
+      "id": "NG028013_olorundagbomo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028013",
+      "level": 2,
+      "name": {
+        "local": "Imeko-Afon",
+        "en": "Imeko-Afon",
+        "slug": "imeko-afon-ng028013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028013",
+        "level": 2,
+        "name": {
+          "local": "Imeko-Afon",
+          "en": "Imeko-Afon",
+          "slug": "imeko-afon-ng028013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.633",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028013_otapele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otapele",
+      "en": "Otapele",
+      "slug": "otapele"
+    },
+    "code": {
+      "id": "NG028013_otapele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028013",
+      "level": 2,
+      "name": {
+        "local": "Imeko-Afon",
+        "en": "Imeko-Afon",
+        "slug": "imeko-afon-ng028013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028013",
+        "level": 2,
+        "name": {
+          "local": "Imeko-Afon",
+          "en": "Imeko-Afon",
+          "slug": "imeko-afon-ng028013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.633",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG019007_asso",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asso",
+      "en": "Asso",
+      "slug": "asso"
+    },
+    "code": {
+      "id": "NG019007_asso",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019007",
+      "level": 2,
+      "name": {
+        "local": "Jema'a",
+        "en": "Jema'a",
+        "slug": "jemaa-ng019007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019007",
+        "level": 2,
+        "name": {
+          "local": "Jema'a",
+          "en": "Jema'a",
+          "slug": "jemaa-ng019007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019007_atuku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Atuku",
+      "en": "Atuku",
+      "slug": "atuku"
+    },
+    "code": {
+      "id": "NG019007_atuku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019007",
+      "level": 2,
+      "name": {
+        "local": "Jema'a",
+        "en": "Jema'a",
+        "slug": "jemaa-ng019007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019007",
+        "level": 2,
+        "name": {
+          "local": "Jema'a",
+          "en": "Jema'a",
+          "slug": "jemaa-ng019007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019007_bedde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bedde",
+      "en": "Bedde",
+      "slug": "bedde"
+    },
+    "code": {
+      "id": "NG019007_bedde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019007",
+      "level": 2,
+      "name": {
+        "local": "Jema'a",
+        "en": "Jema'a",
+        "slug": "jemaa-ng019007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019007",
+        "level": 2,
+        "name": {
+          "local": "Jema'a",
+          "en": "Jema'a",
+          "slug": "jemaa-ng019007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019007_gidan-waya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gidan Waya",
+      "en": "Gidan Waya",
+      "slug": "gidan-waya"
+    },
+    "code": {
+      "id": "NG019007_gidan-waya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019007",
+      "level": 2,
+      "name": {
+        "local": "Jema'a",
+        "en": "Jema'a",
+        "slug": "jemaa-ng019007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019007",
+        "level": 2,
+        "name": {
+          "local": "Jema'a",
+          "en": "Jema'a",
+          "slug": "jemaa-ng019007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019007_godogodo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Godogodo",
+      "en": "Godogodo",
+      "slug": "godogodo"
+    },
+    "code": {
+      "id": "NG019007_godogodo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019007",
+      "level": 2,
+      "name": {
+        "local": "Jema'a",
+        "en": "Jema'a",
+        "slug": "jemaa-ng019007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019007",
+        "level": 2,
+        "name": {
+          "local": "Jema'a",
+          "en": "Jema'a",
+          "slug": "jemaa-ng019007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019007_jagindi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jagindi",
+      "en": "Jagindi",
+      "slug": "jagindi"
+    },
+    "code": {
+      "id": "NG019007_jagindi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019007",
+      "level": 2,
+      "name": {
+        "local": "Jema'a",
+        "en": "Jema'a",
+        "slug": "jemaa-ng019007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019007",
+        "level": 2,
+        "name": {
+          "local": "Jema'a",
+          "en": "Jema'a",
+          "slug": "jemaa-ng019007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019007_kafanchan-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafanchan 'a'",
+      "en": "Kafanchan 'a'",
+      "slug": "kafanchan-a"
+    },
+    "code": {
+      "id": "NG019007_kafanchan-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019007",
+      "level": 2,
+      "name": {
+        "local": "Jema'a",
+        "en": "Jema'a",
+        "slug": "jemaa-ng019007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019007",
+        "level": 2,
+        "name": {
+          "local": "Jema'a",
+          "en": "Jema'a",
+          "slug": "jemaa-ng019007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019007_kafanchan-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafanchan 'b'",
+      "en": "Kafanchan 'b'",
+      "slug": "kafanchan-b"
+    },
+    "code": {
+      "id": "NG019007_kafanchan-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019007",
+      "level": 2,
+      "name": {
+        "local": "Jema'a",
+        "en": "Jema'a",
+        "slug": "jemaa-ng019007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019007",
+        "level": 2,
+        "name": {
+          "local": "Jema'a",
+          "en": "Jema'a",
+          "slug": "jemaa-ng019007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019007_kagoma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kagoma",
+      "en": "Kagoma",
+      "slug": "kagoma"
+    },
+    "code": {
+      "id": "NG019007_kagoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019007",
+      "level": 2,
+      "name": {
+        "local": "Jema'a",
+        "en": "Jema'a",
+        "slug": "jemaa-ng019007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019007",
+        "level": 2,
+        "name": {
+          "local": "Jema'a",
+          "en": "Jema'a",
+          "slug": "jemaa-ng019007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019007_kaninkon",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaninkon",
+      "en": "Kaninkon",
+      "slug": "kaninkon"
+    },
+    "code": {
+      "id": "NG019007_kaninkon",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019007",
+      "level": 2,
+      "name": {
+        "local": "Jema'a",
+        "en": "Jema'a",
+        "slug": "jemaa-ng019007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019007",
+        "level": 2,
+        "name": {
+          "local": "Jema'a",
+          "en": "Jema'a",
+          "slug": "jemaa-ng019007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019007_maigizo-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maigizo 'a'",
+      "en": "Maigizo 'a'",
+      "slug": "maigizo-a"
+    },
+    "code": {
+      "id": "NG019007_maigizo-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019007",
+      "level": 2,
+      "name": {
+        "local": "Jema'a",
+        "en": "Jema'a",
+        "slug": "jemaa-ng019007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019007",
+        "level": 2,
+        "name": {
+          "local": "Jema'a",
+          "en": "Jema'a",
+          "slug": "jemaa-ng019007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019007_takau-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Takau 'b'",
+      "en": "Takau 'b'",
+      "slug": "takau-b"
+    },
+    "code": {
+      "id": "NG019007_takau-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019007",
+      "level": 2,
+      "name": {
+        "local": "Jema'a",
+        "en": "Jema'a",
+        "slug": "jemaa-ng019007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019007",
+        "level": 2,
+        "name": {
+          "local": "Jema'a",
+          "en": "Jema'a",
+          "slug": "jemaa-ng019007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

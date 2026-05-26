@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG005011_dogon-jeji-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dogon Jeji \"a\"",
+      "en": "Dogon Jeji \"a\"",
+      "slug": "dogon-jeji-a"
+    },
+    "code": {
+      "id": "NG005011_dogon-jeji-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005011",
+      "level": 2,
+      "name": {
+        "local": "Jama'are",
+        "en": "Jama'are",
+        "slug": "jamaare-ng005011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005011",
+        "level": 2,
+        "name": {
+          "local": "Jama'are",
+          "en": "Jama'are",
+          "slug": "jamaare-ng005011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.667",
+      "lon": "9.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005011_dogon-jeji-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dogon Jeji \"b\"",
+      "en": "Dogon Jeji \"b\"",
+      "slug": "dogon-jeji-b"
+    },
+    "code": {
+      "id": "NG005011_dogon-jeji-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005011",
+      "level": 2,
+      "name": {
+        "local": "Jama'are",
+        "en": "Jama'are",
+        "slug": "jamaare-ng005011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005011",
+        "level": 2,
+        "name": {
+          "local": "Jama'are",
+          "en": "Jama'are",
+          "slug": "jamaare-ng005011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.667",
+      "lon": "9.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005011_dogon-jeji-c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dogon Jeji \"c\"",
+      "en": "Dogon Jeji \"c\"",
+      "slug": "dogon-jeji-c"
+    },
+    "code": {
+      "id": "NG005011_dogon-jeji-c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005011",
+      "level": 2,
+      "name": {
+        "local": "Jama'are",
+        "en": "Jama'are",
+        "slug": "jamaare-ng005011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005011",
+        "level": 2,
+        "name": {
+          "local": "Jama'are",
+          "en": "Jama'are",
+          "slug": "jamaare-ng005011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.667",
+      "lon": "9.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005011_galdimari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galdimari",
+      "en": "Galdimari",
+      "slug": "galdimari"
+    },
+    "code": {
+      "id": "NG005011_galdimari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005011",
+      "level": 2,
+      "name": {
+        "local": "Jama'are",
+        "en": "Jama'are",
+        "slug": "jamaare-ng005011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005011",
+        "level": 2,
+        "name": {
+          "local": "Jama'are",
+          "en": "Jama'are",
+          "slug": "jamaare-ng005011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.667",
+      "lon": "9.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005011_hanafari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hanafari",
+      "en": "Hanafari",
+      "slug": "hanafari"
+    },
+    "code": {
+      "id": "NG005011_hanafari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005011",
+      "level": 2,
+      "name": {
+        "local": "Jama'are",
+        "en": "Jama'are",
+        "slug": "jamaare-ng005011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005011",
+        "level": 2,
+        "name": {
+          "local": "Jama'are",
+          "en": "Jama'are",
+          "slug": "jamaare-ng005011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.667",
+      "lon": "9.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005011_jamaare-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jama'are \"a\"",
+      "en": "Jama'are \"a\"",
+      "slug": "jamaare-a"
+    },
+    "code": {
+      "id": "NG005011_jamaare-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005011",
+      "level": 2,
+      "name": {
+        "local": "Jama'are",
+        "en": "Jama'are",
+        "slug": "jamaare-ng005011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005011",
+        "level": 2,
+        "name": {
+          "local": "Jama'are",
+          "en": "Jama'are",
+          "slug": "jamaare-ng005011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.667",
+      "lon": "9.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005011_jamaare-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jama'are \"b\"",
+      "en": "Jama'are \"b\"",
+      "slug": "jamaare-b"
+    },
+    "code": {
+      "id": "NG005011_jamaare-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005011",
+      "level": 2,
+      "name": {
+        "local": "Jama'are",
+        "en": "Jama'are",
+        "slug": "jamaare-ng005011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005011",
+        "level": 2,
+        "name": {
+          "local": "Jama'are",
+          "en": "Jama'are",
+          "slug": "jamaare-ng005011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.667",
+      "lon": "9.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005011_jamaare-c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jama'are \"c\"",
+      "en": "Jama'are \"c\"",
+      "slug": "jamaare-c"
+    },
+    "code": {
+      "id": "NG005011_jamaare-c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005011",
+      "level": 2,
+      "name": {
+        "local": "Jama'are",
+        "en": "Jama'are",
+        "slug": "jamaare-ng005011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005011",
+        "level": 2,
+        "name": {
+          "local": "Jama'are",
+          "en": "Jama'are",
+          "slug": "jamaare-ng005011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.667",
+      "lon": "9.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005011_jamaare-d",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jama'are \"d\"",
+      "en": "Jama'are \"d\"",
+      "slug": "jamaare-d"
+    },
+    "code": {
+      "id": "NG005011_jamaare-d",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005011",
+      "level": 2,
+      "name": {
+        "local": "Jama'are",
+        "en": "Jama'are",
+        "slug": "jamaare-ng005011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005011",
+        "level": 2,
+        "name": {
+          "local": "Jama'are",
+          "en": "Jama'are",
+          "slug": "jamaare-ng005011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.667",
+      "lon": "9.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005011_jurara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jurara",
+      "en": "Jurara",
+      "slug": "jurara"
+    },
+    "code": {
+      "id": "NG005011_jurara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005011",
+      "level": 2,
+      "name": {
+        "local": "Jama'are",
+        "en": "Jama'are",
+        "slug": "jamaare-ng005011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005011",
+        "level": 2,
+        "name": {
+          "local": "Jama'are",
+          "en": "Jama'are",
+          "slug": "jamaare-ng005011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.667",
+      "lon": "9.944"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

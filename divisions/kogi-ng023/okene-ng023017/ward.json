@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG023017_abugaozuja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abuga/ozuja",
+      "en": "Abuga/ozuja",
+      "slug": "abugaozuja"
+    },
+    "code": {
+      "id": "NG023017_abugaozuja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023017",
+      "level": 2,
+      "name": {
+        "local": "Okene",
+        "en": "Okene",
+        "slug": "okene-ng023017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023017",
+        "level": 2,
+        "name": {
+          "local": "Okene",
+          "en": "Okene",
+          "slug": "okene-ng023017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "6.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023017_bariki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bariki",
+      "en": "Bariki",
+      "slug": "bariki"
+    },
+    "code": {
+      "id": "NG023017_bariki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023017",
+      "level": 2,
+      "name": {
+        "local": "Okene",
+        "en": "Okene",
+        "slug": "okene-ng023017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023017",
+        "level": 2,
+        "name": {
+          "local": "Okene",
+          "en": "Okene",
+          "slug": "okene-ng023017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "6.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023017_idoji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idoji",
+      "en": "Idoji",
+      "slug": "idoji"
+    },
+    "code": {
+      "id": "NG023017_idoji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023017",
+      "level": 2,
+      "name": {
+        "local": "Okene",
+        "en": "Okene",
+        "slug": "okene-ng023017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023017",
+        "level": 2,
+        "name": {
+          "local": "Okene",
+          "en": "Okene",
+          "slug": "okene-ng023017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "6.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023017_obehira-eba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obehira Eba",
+      "en": "Obehira Eba",
+      "slug": "obehira-eba"
+    },
+    "code": {
+      "id": "NG023017_obehira-eba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023017",
+      "level": 2,
+      "name": {
+        "local": "Okene",
+        "en": "Okene",
+        "slug": "okene-ng023017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023017",
+        "level": 2,
+        "name": {
+          "local": "Okene",
+          "en": "Okene",
+          "slug": "okene-ng023017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "6.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023017_obehira-uvete",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obehira Uvete",
+      "en": "Obehira Uvete",
+      "slug": "obehira-uvete"
+    },
+    "code": {
+      "id": "NG023017_obehira-uvete",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023017",
+      "level": 2,
+      "name": {
+        "local": "Okene",
+        "en": "Okene",
+        "slug": "okene-ng023017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023017",
+        "level": 2,
+        "name": {
+          "local": "Okene",
+          "en": "Okene",
+          "slug": "okene-ng023017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "6.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023017_obessa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obessa",
+      "en": "Obessa",
+      "slug": "obessa"
+    },
+    "code": {
+      "id": "NG023017_obessa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023017",
+      "level": 2,
+      "name": {
+        "local": "Okene",
+        "en": "Okene",
+        "slug": "okene-ng023017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023017",
+        "level": 2,
+        "name": {
+          "local": "Okene",
+          "en": "Okene",
+          "slug": "okene-ng023017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "6.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023017_okene-eba-agassa-ahache",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okene-eba / Agassa/ Ahache",
+      "en": "Okene-eba / Agassa/ Ahache",
+      "slug": "okene-eba-agassa-ahache"
+    },
+    "code": {
+      "id": "NG023017_okene-eba-agassa-ahache",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023017",
+      "level": 2,
+      "name": {
+        "local": "Okene",
+        "en": "Okene",
+        "slug": "okene-ng023017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023017",
+        "level": 2,
+        "name": {
+          "local": "Okene",
+          "en": "Okene",
+          "slug": "okene-ng023017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "6.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023017_onyukoko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Onyukoko",
+      "en": "Onyukoko",
+      "slug": "onyukoko"
+    },
+    "code": {
+      "id": "NG023017_onyukoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023017",
+      "level": 2,
+      "name": {
+        "local": "Okene",
+        "en": "Okene",
+        "slug": "okene-ng023017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023017",
+        "level": 2,
+        "name": {
+          "local": "Okene",
+          "en": "Okene",
+          "slug": "okene-ng023017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "6.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023017_orietesu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orietesu",
+      "en": "Orietesu",
+      "slug": "orietesu"
+    },
+    "code": {
+      "id": "NG023017_orietesu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023017",
+      "level": 2,
+      "name": {
+        "local": "Okene",
+        "en": "Okene",
+        "slug": "okene-ng023017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023017",
+        "level": 2,
+        "name": {
+          "local": "Okene",
+          "en": "Okene",
+          "slug": "okene-ng023017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "6.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023017_otutu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otutu",
+      "en": "Otutu",
+      "slug": "otutu"
+    },
+    "code": {
+      "id": "NG023017_otutu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023017",
+      "level": 2,
+      "name": {
+        "local": "Okene",
+        "en": "Okene",
+        "slug": "okene-ng023017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023017",
+        "level": 2,
+        "name": {
+          "local": "Okene",
+          "en": "Okene",
+          "slug": "okene-ng023017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "6.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023017_upogoroodenku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Upogoro/odenku",
+      "en": "Upogoro/odenku",
+      "slug": "upogoroodenku"
+    },
+    "code": {
+      "id": "NG023017_upogoroodenku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023017",
+      "level": 2,
+      "name": {
+        "local": "Okene",
+        "en": "Okene",
+        "slug": "okene-ng023017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023017",
+        "level": 2,
+        "name": {
+          "local": "Okene",
+          "en": "Okene",
+          "slug": "okene-ng023017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "6.393"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

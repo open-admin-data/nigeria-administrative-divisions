@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG002010_babel",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Babel",
+      "en": "Babel",
+      "slug": "babel"
+    },
+    "code": {
+      "id": "NG002010_babel",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002010",
+      "level": 2,
+      "name": {
+        "local": "Madagali",
+        "en": "Madagali",
+        "slug": "madagali-ng002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002010",
+        "level": 2,
+        "name": {
+          "local": "Madagali",
+          "en": "Madagali",
+          "slug": "madagali-ng002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.799",
+      "lon": "13.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002010_duhu-shuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Duhu/ Shuwa",
+      "en": "Duhu/ Shuwa",
+      "slug": "duhu-shuwa"
+    },
+    "code": {
+      "id": "NG002010_duhu-shuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002010",
+      "level": 2,
+      "name": {
+        "local": "Madagali",
+        "en": "Madagali",
+        "slug": "madagali-ng002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002010",
+        "level": 2,
+        "name": {
+          "local": "Madagali",
+          "en": "Madagali",
+          "slug": "madagali-ng002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.742",
+      "lon": "13.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002010_gulak",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gulak",
+      "en": "Gulak",
+      "slug": "gulak"
+    },
+    "code": {
+      "id": "NG002010_gulak",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002010",
+      "level": 2,
+      "name": {
+        "local": "Madagali",
+        "en": "Madagali",
+        "slug": "madagali-ng002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002010",
+        "level": 2,
+        "name": {
+          "local": "Madagali",
+          "en": "Madagali",
+          "slug": "madagali-ng002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.849",
+      "lon": "13.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002010_hyambula",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hyambula",
+      "en": "Hyambula",
+      "slug": "hyambula"
+    },
+    "code": {
+      "id": "NG002010_hyambula",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002010",
+      "level": 2,
+      "name": {
+        "local": "Madagali",
+        "en": "Madagali",
+        "slug": "madagali-ng002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002010",
+        "level": 2,
+        "name": {
+          "local": "Madagali",
+          "en": "Madagali",
+          "slug": "madagali-ng002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.874",
+      "lon": "13.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002010_kwuro-ngayandi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "K/wuro Ngayandi",
+      "en": "K/wuro Ngayandi",
+      "slug": "kwuro-ngayandi"
+    },
+    "code": {
+      "id": "NG002010_kwuro-ngayandi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002010",
+      "level": 2,
+      "name": {
+        "local": "Madagali",
+        "en": "Madagali",
+        "slug": "madagali-ng002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002010",
+        "level": 2,
+        "name": {
+          "local": "Madagali",
+          "en": "Madagali",
+          "slug": "madagali-ng002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.799",
+      "lon": "13.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002010_madagali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madagali",
+      "en": "Madagali",
+      "slug": "madagali"
+    },
+    "code": {
+      "id": "NG002010_madagali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002010",
+      "level": 2,
+      "name": {
+        "local": "Madagali",
+        "en": "Madagali",
+        "slug": "madagali-ng002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002010",
+        "level": 2,
+        "name": {
+          "local": "Madagali",
+          "en": "Madagali",
+          "slug": "madagali-ng002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.903",
+      "lon": "13.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002010_pallam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pallam",
+      "en": "Pallam",
+      "slug": "pallam"
+    },
+    "code": {
+      "id": "NG002010_pallam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002010",
+      "level": 2,
+      "name": {
+        "local": "Madagali",
+        "en": "Madagali",
+        "slug": "madagali-ng002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002010",
+        "level": 2,
+        "name": {
+          "local": "Madagali",
+          "en": "Madagali",
+          "slug": "madagali-ng002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.713",
+      "lon": "13.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002010_shelmi-sukur-vapura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shelmi / Sukur/ Vapura",
+      "en": "Shelmi / Sukur/ Vapura",
+      "slug": "shelmi-sukur-vapura"
+    },
+    "code": {
+      "id": "NG002010_shelmi-sukur-vapura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002010",
+      "level": 2,
+      "name": {
+        "local": "Madagali",
+        "en": "Madagali",
+        "slug": "madagali-ng002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002010",
+        "level": 2,
+        "name": {
+          "local": "Madagali",
+          "en": "Madagali",
+          "slug": "madagali-ng002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.799",
+      "lon": "13.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002010_wagga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wagga",
+      "en": "Wagga",
+      "slug": "wagga"
+    },
+    "code": {
+      "id": "NG002010_wagga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002010",
+      "level": 2,
+      "name": {
+        "local": "Madagali",
+        "en": "Madagali",
+        "slug": "madagali-ng002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002010",
+        "level": 2,
+        "name": {
+          "local": "Madagali",
+          "en": "Madagali",
+          "slug": "madagali-ng002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.799",
+      "lon": "13.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002010_wula",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wula",
+      "en": "Wula",
+      "slug": "wula"
+    },
+    "code": {
+      "id": "NG002010_wula",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002010",
+      "level": 2,
+      "name": {
+        "local": "Madagali",
+        "en": "Madagali",
+        "slug": "madagali-ng002010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002010",
+        "level": 2,
+        "name": {
+          "local": "Madagali",
+          "en": "Madagali",
+          "slug": "madagali-ng002010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.771",
+      "lon": "13.601"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

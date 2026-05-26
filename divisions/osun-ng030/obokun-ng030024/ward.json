@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG030024_eesunidooko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eesun/idooko",
+      "en": "Eesun/idooko",
+      "slug": "eesunidooko"
+    },
+    "code": {
+      "id": "NG030024_eesunidooko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030024",
+      "level": 2,
+      "name": {
+        "local": "Obokun",
+        "en": "Obokun",
+        "slug": "obokun-ng030024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030024",
+        "level": 2,
+        "name": {
+          "local": "Obokun",
+          "en": "Obokun",
+          "slug": "obokun-ng030024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.774",
+      "lon": "4.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030024_esa---odo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Esa - Odo",
+      "en": "Esa - Odo",
+      "slug": "esa---odo"
+    },
+    "code": {
+      "id": "NG030024_esa---odo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030024",
+      "level": 2,
+      "name": {
+        "local": "Obokun",
+        "en": "Obokun",
+        "slug": "obokun-ng030024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030024",
+        "level": 2,
+        "name": {
+          "local": "Obokun",
+          "en": "Obokun",
+          "slug": "obokun-ng030024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.774",
+      "lon": "4.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030024_esa-oke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Esa-oke",
+      "en": "Esa-oke",
+      "slug": "esa-oke"
+    },
+    "code": {
+      "id": "NG030024_esa-oke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030024",
+      "level": 2,
+      "name": {
+        "local": "Obokun",
+        "en": "Obokun",
+        "slug": "obokun-ng030024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030024",
+        "level": 2,
+        "name": {
+          "local": "Obokun",
+          "en": "Obokun",
+          "slug": "obokun-ng030024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.774",
+      "lon": "4.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030024_ibokun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibokun",
+      "en": "Ibokun",
+      "slug": "ibokun"
+    },
+    "code": {
+      "id": "NG030024_ibokun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030024",
+      "level": 2,
+      "name": {
+        "local": "Obokun",
+        "en": "Obokun",
+        "slug": "obokun-ng030024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030024",
+        "level": 2,
+        "name": {
+          "local": "Obokun",
+          "en": "Obokun",
+          "slug": "obokun-ng030024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.774",
+      "lon": "4.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030024_ilahunikinyinwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilahun/ikinyinwa",
+      "en": "Ilahun/ikinyinwa",
+      "slug": "ilahunikinyinwa"
+    },
+    "code": {
+      "id": "NG030024_ilahunikinyinwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030024",
+      "level": 2,
+      "name": {
+        "local": "Obokun",
+        "en": "Obokun",
+        "slug": "obokun-ng030024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030024",
+        "level": 2,
+        "name": {
+          "local": "Obokun",
+          "en": "Obokun",
+          "slug": "obokun-ng030024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.774",
+      "lon": "4.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030024_ilare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilare",
+      "en": "Ilare",
+      "slug": "ilare"
+    },
+    "code": {
+      "id": "NG030024_ilare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030024",
+      "level": 2,
+      "name": {
+        "local": "Obokun",
+        "en": "Obokun",
+        "slug": "obokun-ng030024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030024",
+        "level": 2,
+        "name": {
+          "local": "Obokun",
+          "en": "Obokun",
+          "slug": "obokun-ng030024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.774",
+      "lon": "4.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030024_ilaseidominasi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilase/idominasi",
+      "en": "Ilase/idominasi",
+      "slug": "ilaseidominasi"
+    },
+    "code": {
+      "id": "NG030024_ilaseidominasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030024",
+      "level": 2,
+      "name": {
+        "local": "Obokun",
+        "en": "Obokun",
+        "slug": "obokun-ng030024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030024",
+        "level": 2,
+        "name": {
+          "local": "Obokun",
+          "en": "Obokun",
+          "slug": "obokun-ng030024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.774",
+      "lon": "4.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030024_imesi-ile",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imesi-ile",
+      "en": "Imesi-ile",
+      "slug": "imesi-ile"
+    },
+    "code": {
+      "id": "NG030024_imesi-ile",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030024",
+      "level": 2,
+      "name": {
+        "local": "Obokun",
+        "en": "Obokun",
+        "slug": "obokun-ng030024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030024",
+        "level": 2,
+        "name": {
+          "local": "Obokun",
+          "en": "Obokun",
+          "slug": "obokun-ng030024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.774",
+      "lon": "4.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030024_ipetu-ileadaowode",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipetu-ile/adaowode",
+      "en": "Ipetu-ile/adaowode",
+      "slug": "ipetu-ileadaowode"
+    },
+    "code": {
+      "id": "NG030024_ipetu-ileadaowode",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030024",
+      "level": 2,
+      "name": {
+        "local": "Obokun",
+        "en": "Obokun",
+        "slug": "obokun-ng030024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030024",
+        "level": 2,
+        "name": {
+          "local": "Obokun",
+          "en": "Obokun",
+          "slug": "obokun-ng030024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.774",
+      "lon": "4.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030024_otan-ile",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otan-ile",
+      "en": "Otan-ile",
+      "slug": "otan-ile"
+    },
+    "code": {
+      "id": "NG030024_otan-ile",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030024",
+      "level": 2,
+      "name": {
+        "local": "Obokun",
+        "en": "Obokun",
+        "slug": "obokun-ng030024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030024",
+        "level": 2,
+        "name": {
+          "local": "Obokun",
+          "en": "Obokun",
+          "slug": "obokun-ng030024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.774",
+      "lon": "4.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

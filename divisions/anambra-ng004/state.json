@@ -1,0 +1,30 @@
+{
+  "id": "NG004",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Anambra",
+    "en": "Anambra",
+    "slug": "anambra-ng004"
+  },
+  "code": {
+    "id": "NG004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 21,
+    "ward": 326
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.249",
+    "lon": "6.938"
+  },
+  "metadata": {},
+  "source": {}
+}

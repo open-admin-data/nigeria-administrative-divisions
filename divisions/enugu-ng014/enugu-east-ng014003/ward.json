@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG014003_abakpa-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abakpa I",
+      "en": "Abakpa I",
+      "slug": "abakpa-i"
+    },
+    "code": {
+      "id": "NG014003_abakpa-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014003",
+      "level": 2,
+      "name": {
+        "local": "Enugu East",
+        "en": "Enugu East",
+        "slug": "enugu-east-ng014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014003",
+        "level": 2,
+        "name": {
+          "local": "Enugu East",
+          "en": "Enugu East",
+          "slug": "enugu-east-ng014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "7.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014003_abakpa-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abakpa Ii",
+      "en": "Abakpa Ii",
+      "slug": "abakpa-ii"
+    },
+    "code": {
+      "id": "NG014003_abakpa-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014003",
+      "level": 2,
+      "name": {
+        "local": "Enugu East",
+        "en": "Enugu East",
+        "slug": "enugu-east-ng014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014003",
+        "level": 2,
+        "name": {
+          "local": "Enugu East",
+          "en": "Enugu East",
+          "slug": "enugu-east-ng014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "7.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014003_amorji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amorji",
+      "en": "Amorji",
+      "slug": "amorji"
+    },
+    "code": {
+      "id": "NG014003_amorji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014003",
+      "level": 2,
+      "name": {
+        "local": "Enugu East",
+        "en": "Enugu East",
+        "slug": "enugu-east-ng014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014003",
+        "level": 2,
+        "name": {
+          "local": "Enugu East",
+          "en": "Enugu East",
+          "slug": "enugu-east-ng014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "7.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014003_ibagwa-nikeedem",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibagwa-nike/edem",
+      "en": "Ibagwa-nike/edem",
+      "slug": "ibagwa-nikeedem"
+    },
+    "code": {
+      "id": "NG014003_ibagwa-nikeedem",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014003",
+      "level": 2,
+      "name": {
+        "local": "Enugu East",
+        "en": "Enugu East",
+        "slug": "enugu-east-ng014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014003",
+        "level": 2,
+        "name": {
+          "local": "Enugu East",
+          "en": "Enugu East",
+          "slug": "enugu-east-ng014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "7.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014003_mbulu-njodo-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbulu-njodo East",
+      "en": "Mbulu-njodo East",
+      "slug": "mbulu-njodo-east"
+    },
+    "code": {
+      "id": "NG014003_mbulu-njodo-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014003",
+      "level": 2,
+      "name": {
+        "local": "Enugu East",
+        "en": "Enugu East",
+        "slug": "enugu-east-ng014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014003",
+        "level": 2,
+        "name": {
+          "local": "Enugu East",
+          "en": "Enugu East",
+          "slug": "enugu-east-ng014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "7.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014003_mbulu-njodo-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbulu-njodo West",
+      "en": "Mbulu-njodo West",
+      "slug": "mbulu-njodo-west"
+    },
+    "code": {
+      "id": "NG014003_mbulu-njodo-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014003",
+      "level": 2,
+      "name": {
+        "local": "Enugu East",
+        "en": "Enugu East",
+        "slug": "enugu-east-ng014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014003",
+        "level": 2,
+        "name": {
+          "local": "Enugu East",
+          "en": "Enugu East",
+          "slug": "enugu-east-ng014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "7.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014003_mbuluiyiukwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbuluiyiukwu",
+      "en": "Mbuluiyiukwu",
+      "slug": "mbuluiyiukwu"
+    },
+    "code": {
+      "id": "NG014003_mbuluiyiukwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014003",
+      "level": 2,
+      "name": {
+        "local": "Enugu East",
+        "en": "Enugu East",
+        "slug": "enugu-east-ng014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014003",
+        "level": 2,
+        "name": {
+          "local": "Enugu East",
+          "en": "Enugu East",
+          "slug": "enugu-east-ng014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "7.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014003_mbuluowehe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbuluowehe",
+      "en": "Mbuluowehe",
+      "slug": "mbuluowehe"
+    },
+    "code": {
+      "id": "NG014003_mbuluowehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014003",
+      "level": 2,
+      "name": {
+        "local": "Enugu East",
+        "en": "Enugu East",
+        "slug": "enugu-east-ng014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014003",
+        "level": 2,
+        "name": {
+          "local": "Enugu East",
+          "en": "Enugu East",
+          "slug": "enugu-east-ng014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "7.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014003_trans-ekulu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Trans-ekulu",
+      "en": "Trans-ekulu",
+      "slug": "trans-ekulu"
+    },
+    "code": {
+      "id": "NG014003_trans-ekulu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014003",
+      "level": 2,
+      "name": {
+        "local": "Enugu East",
+        "en": "Enugu East",
+        "slug": "enugu-east-ng014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014003",
+        "level": 2,
+        "name": {
+          "local": "Enugu East",
+          "en": "Enugu East",
+          "slug": "enugu-east-ng014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "7.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014003_ugwugo-nike",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugwugo Nike",
+      "en": "Ugwugo Nike",
+      "slug": "ugwugo-nike"
+    },
+    "code": {
+      "id": "NG014003_ugwugo-nike",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014003",
+      "level": 2,
+      "name": {
+        "local": "Enugu East",
+        "en": "Enugu East",
+        "slug": "enugu-east-ng014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014003",
+        "level": 2,
+        "name": {
+          "local": "Enugu East",
+          "en": "Enugu East",
+          "slug": "enugu-east-ng014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "7.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014003_umuchigbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuchigbo",
+      "en": "Umuchigbo",
+      "slug": "umuchigbo"
+    },
+    "code": {
+      "id": "NG014003_umuchigbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014003",
+      "level": 2,
+      "name": {
+        "local": "Enugu East",
+        "en": "Enugu East",
+        "slug": "enugu-east-ng014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014003",
+        "level": 2,
+        "name": {
+          "local": "Enugu East",
+          "en": "Enugu East",
+          "slug": "enugu-east-ng014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "7.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014003_umuenwene",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuenwene",
+      "en": "Umuenwene",
+      "slug": "umuenwene"
+    },
+    "code": {
+      "id": "NG014003_umuenwene",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014003",
+      "level": 2,
+      "name": {
+        "local": "Enugu East",
+        "en": "Enugu East",
+        "slug": "enugu-east-ng014003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014003",
+        "level": 2,
+        "name": {
+          "local": "Enugu East",
+          "en": "Enugu East",
+          "slug": "enugu-east-ng014003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.559",
+      "lon": "7.557"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

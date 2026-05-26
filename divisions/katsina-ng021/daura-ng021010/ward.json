@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021010_kusugu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kusugu",
+      "en": "Kusugu",
+      "slug": "kusugu"
+    },
+    "code": {
+      "id": "NG021010_kusugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021010",
+      "level": 2,
+      "name": {
+        "local": "Daura",
+        "en": "Daura",
+        "slug": "daura-ng021010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021010",
+        "level": 2,
+        "name": {
+          "local": "Daura",
+          "en": "Daura",
+          "slug": "daura-ng021010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.96",
+      "lon": "8.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021010_madobi-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madobi A",
+      "en": "Madobi A",
+      "slug": "madobi-a"
+    },
+    "code": {
+      "id": "NG021010_madobi-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021010",
+      "level": 2,
+      "name": {
+        "local": "Daura",
+        "en": "Daura",
+        "slug": "daura-ng021010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021010",
+        "level": 2,
+        "name": {
+          "local": "Daura",
+          "en": "Daura",
+          "slug": "daura-ng021010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.96",
+      "lon": "8.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021010_madobi-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madobi B",
+      "en": "Madobi B",
+      "slug": "madobi-b"
+    },
+    "code": {
+      "id": "NG021010_madobi-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021010",
+      "level": 2,
+      "name": {
+        "local": "Daura",
+        "en": "Daura",
+        "slug": "daura-ng021010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021010",
+        "level": 2,
+        "name": {
+          "local": "Daura",
+          "en": "Daura",
+          "slug": "daura-ng021010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.96",
+      "lon": "8.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021010_mazoji-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mazoji A",
+      "en": "Mazoji A",
+      "slug": "mazoji-a"
+    },
+    "code": {
+      "id": "NG021010_mazoji-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021010",
+      "level": 2,
+      "name": {
+        "local": "Daura",
+        "en": "Daura",
+        "slug": "daura-ng021010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021010",
+        "level": 2,
+        "name": {
+          "local": "Daura",
+          "en": "Daura",
+          "slug": "daura-ng021010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.96",
+      "lon": "8.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021010_mazoji-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mazoji B",
+      "en": "Mazoji B",
+      "slug": "mazoji-b"
+    },
+    "code": {
+      "id": "NG021010_mazoji-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021010",
+      "level": 2,
+      "name": {
+        "local": "Daura",
+        "en": "Daura",
+        "slug": "daura-ng021010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021010",
+        "level": 2,
+        "name": {
+          "local": "Daura",
+          "en": "Daura",
+          "slug": "daura-ng021010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.96",
+      "lon": "8.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021010_sabon-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Gari",
+      "en": "Sabon Gari",
+      "slug": "sabon-gari"
+    },
+    "code": {
+      "id": "NG021010_sabon-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021010",
+      "level": 2,
+      "name": {
+        "local": "Daura",
+        "en": "Daura",
+        "slug": "daura-ng021010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021010",
+        "level": 2,
+        "name": {
+          "local": "Daura",
+          "en": "Daura",
+          "slug": "daura-ng021010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.96",
+      "lon": "8.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021010_sarkin-yara-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarkin Yara A",
+      "en": "Sarkin Yara A",
+      "slug": "sarkin-yara-a"
+    },
+    "code": {
+      "id": "NG021010_sarkin-yara-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021010",
+      "level": 2,
+      "name": {
+        "local": "Daura",
+        "en": "Daura",
+        "slug": "daura-ng021010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021010",
+        "level": 2,
+        "name": {
+          "local": "Daura",
+          "en": "Daura",
+          "slug": "daura-ng021010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.96",
+      "lon": "8.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021010_sarkin-yara-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarkin Yara B",
+      "en": "Sarkin Yara B",
+      "slug": "sarkin-yara-b"
+    },
+    "code": {
+      "id": "NG021010_sarkin-yara-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021010",
+      "level": 2,
+      "name": {
+        "local": "Daura",
+        "en": "Daura",
+        "slug": "daura-ng021010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021010",
+        "level": 2,
+        "name": {
+          "local": "Daura",
+          "en": "Daura",
+          "slug": "daura-ng021010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.96",
+      "lon": "8.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021010_tudun-wada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Wada",
+      "en": "Tudun Wada",
+      "slug": "tudun-wada"
+    },
+    "code": {
+      "id": "NG021010_tudun-wada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021010",
+      "level": 2,
+      "name": {
+        "local": "Daura",
+        "en": "Daura",
+        "slug": "daura-ng021010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021010",
+        "level": 2,
+        "name": {
+          "local": "Daura",
+          "en": "Daura",
+          "slug": "daura-ng021010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.96",
+      "lon": "8.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021010_ubandawaki-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ubandawaki A",
+      "en": "Ubandawaki A",
+      "slug": "ubandawaki-a"
+    },
+    "code": {
+      "id": "NG021010_ubandawaki-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021010",
+      "level": 2,
+      "name": {
+        "local": "Daura",
+        "en": "Daura",
+        "slug": "daura-ng021010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021010",
+        "level": 2,
+        "name": {
+          "local": "Daura",
+          "en": "Daura",
+          "slug": "daura-ng021010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.96",
+      "lon": "8.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021010_unbadawaki-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unbadawaki B",
+      "en": "Unbadawaki B",
+      "slug": "unbadawaki-b"
+    },
+    "code": {
+      "id": "NG021010_unbadawaki-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021010",
+      "level": 2,
+      "name": {
+        "local": "Daura",
+        "en": "Daura",
+        "slug": "daura-ng021010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021010",
+        "level": 2,
+        "name": {
+          "local": "Daura",
+          "en": "Daura",
+          "slug": "daura-ng021010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.96",
+      "lon": "8.265"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

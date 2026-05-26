@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG030001_anlugbua",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Anlugbua",
+      "en": "Anlugbua",
+      "slug": "anlugbua"
+    },
+    "code": {
+      "id": "NG030001_anlugbua",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030001",
+      "level": 2,
+      "name": {
+        "local": "Aiyedade",
+        "en": "Aiyedade",
+        "slug": "aiyedade-ng030001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030001",
+        "level": 2,
+        "name": {
+          "local": "Aiyedade",
+          "en": "Aiyedade",
+          "slug": "aiyedade-ng030001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.329",
+      "lon": "4.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030001_araromi-owu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Araromi-owu",
+      "en": "Araromi-owu",
+      "slug": "araromi-owu"
+    },
+    "code": {
+      "id": "NG030001_araromi-owu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030001",
+      "level": 2,
+      "name": {
+        "local": "Aiyedade",
+        "en": "Aiyedade",
+        "slug": "aiyedade-ng030001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030001",
+        "level": 2,
+        "name": {
+          "local": "Aiyedade",
+          "en": "Aiyedade",
+          "slug": "aiyedade-ng030001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.329",
+      "lon": "4.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030001_balogun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Balogun",
+      "en": "Balogun",
+      "slug": "balogun"
+    },
+    "code": {
+      "id": "NG030001_balogun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030001",
+      "level": 2,
+      "name": {
+        "local": "Aiyedade",
+        "en": "Aiyedade",
+        "slug": "aiyedade-ng030001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030001",
+        "level": 2,
+        "name": {
+          "local": "Aiyedade",
+          "en": "Aiyedade",
+          "slug": "aiyedade-ng030001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.329",
+      "lon": "4.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030001_gbongan-rural",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gbongan Rural",
+      "en": "Gbongan Rural",
+      "slug": "gbongan-rural"
+    },
+    "code": {
+      "id": "NG030001_gbongan-rural",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030001",
+      "level": 2,
+      "name": {
+        "local": "Aiyedade",
+        "en": "Aiyedade",
+        "slug": "aiyedade-ng030001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030001",
+        "level": 2,
+        "name": {
+          "local": "Aiyedade",
+          "en": "Aiyedade",
+          "slug": "aiyedade-ng030001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.329",
+      "lon": "4.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030001_ijegbeoke-esooke-owu-ijugbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijegbe/oke-eso/oke-owu Ijugbe",
+      "en": "Ijegbe/oke-eso/oke-owu Ijugbe",
+      "slug": "ijegbeoke-esooke-owu-ijugbe"
+    },
+    "code": {
+      "id": "NG030001_ijegbeoke-esooke-owu-ijugbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030001",
+      "level": 2,
+      "name": {
+        "local": "Aiyedade",
+        "en": "Aiyedade",
+        "slug": "aiyedade-ng030001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030001",
+        "level": 2,
+        "name": {
+          "local": "Aiyedade",
+          "en": "Aiyedade",
+          "slug": "aiyedade-ng030001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.329",
+      "lon": "4.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030001_lagereamola",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lagere/amola",
+      "en": "Lagere/amola",
+      "slug": "lagereamola"
+    },
+    "code": {
+      "id": "NG030001_lagereamola",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030001",
+      "level": 2,
+      "name": {
+        "local": "Aiyedade",
+        "en": "Aiyedade",
+        "slug": "aiyedade-ng030001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030001",
+        "level": 2,
+        "name": {
+          "local": "Aiyedade",
+          "en": "Aiyedade",
+          "slug": "aiyedade-ng030001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.329",
+      "lon": "4.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030001_obalufon",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obalufon",
+      "en": "Obalufon",
+      "slug": "obalufon"
+    },
+    "code": {
+      "id": "NG030001_obalufon",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030001",
+      "level": 2,
+      "name": {
+        "local": "Aiyedade",
+        "en": "Aiyedade",
+        "slug": "aiyedade-ng030001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030001",
+        "level": 2,
+        "name": {
+          "local": "Aiyedade",
+          "en": "Aiyedade",
+          "slug": "aiyedade-ng030001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.329",
+      "lon": "4.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030001_ode-omu-rural",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ode-omu Rural",
+      "en": "Ode-omu Rural",
+      "slug": "ode-omu-rural"
+    },
+    "code": {
+      "id": "NG030001_ode-omu-rural",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030001",
+      "level": 2,
+      "name": {
+        "local": "Aiyedade",
+        "en": "Aiyedade",
+        "slug": "aiyedade-ng030001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030001",
+        "level": 2,
+        "name": {
+          "local": "Aiyedade",
+          "en": "Aiyedade",
+          "slug": "aiyedade-ng030001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.329",
+      "lon": "4.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030001_olufi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olufi",
+      "en": "Olufi",
+      "slug": "olufi"
+    },
+    "code": {
+      "id": "NG030001_olufi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030001",
+      "level": 2,
+      "name": {
+        "local": "Aiyedade",
+        "en": "Aiyedade",
+        "slug": "aiyedade-ng030001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030001",
+        "level": 2,
+        "name": {
+          "local": "Aiyedade",
+          "en": "Aiyedade",
+          "slug": "aiyedade-ng030001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.329",
+      "lon": "4.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030001_otun-balogun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otun Balogun",
+      "en": "Otun Balogun",
+      "slug": "otun-balogun"
+    },
+    "code": {
+      "id": "NG030001_otun-balogun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030001",
+      "level": 2,
+      "name": {
+        "local": "Aiyedade",
+        "en": "Aiyedade",
+        "slug": "aiyedade-ng030001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030001",
+        "level": 2,
+        "name": {
+          "local": "Aiyedade",
+          "en": "Aiyedade",
+          "slug": "aiyedade-ng030001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.329",
+      "lon": "4.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030001_otun-olufi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otun-olufi",
+      "en": "Otun-olufi",
+      "slug": "otun-olufi"
+    },
+    "code": {
+      "id": "NG030001_otun-olufi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030001",
+      "level": 2,
+      "name": {
+        "local": "Aiyedade",
+        "en": "Aiyedade",
+        "slug": "aiyedade-ng030001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030001",
+        "level": 2,
+        "name": {
+          "local": "Aiyedade",
+          "en": "Aiyedade",
+          "slug": "aiyedade-ng030001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.329",
+      "lon": "4.34"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

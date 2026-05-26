@@ -1,0 +1,47 @@
+{
+  "id": "NG004020",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Orumba South",
+    "en": "Orumba South",
+    "slug": "orumba-south-ng004020"
+  },
+  "code": {
+    "id": "NG004020",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG004",
+    "level": 1,
+    "name": {
+      "local": "Anambra",
+      "en": "Anambra",
+      "slug": "anambra-ng004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.99",
+    "lon": "7.205"
+  },
+  "metadata": {},
+  "source": {}
+}

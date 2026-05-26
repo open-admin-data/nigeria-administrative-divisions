@@ -1,0 +1,47 @@
+{
+  "id": "NG008002",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Askira/Uba",
+    "en": "Askira/Uba",
+    "slug": "askirauba-ng008002"
+  },
+  "code": {
+    "id": "NG008002",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG008",
+    "level": 1,
+    "name": {
+      "local": "Borno",
+      "en": "Borno",
+      "slug": "borno-ng008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG008",
+      "level": 1,
+      "name": {
+        "local": "Borno",
+        "en": "Borno",
+        "slug": "borno-ng008"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.637",
+    "lon": "12.846"
+  },
+  "metadata": {},
+  "source": {}
+}

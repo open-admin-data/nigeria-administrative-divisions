@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG023003_ankpa-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ankpa I",
+      "en": "Ankpa I",
+      "slug": "ankpa-i"
+    },
+    "code": {
+      "id": "NG023003_ankpa-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023003_ankpa-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ankpa Ii",
+      "en": "Ankpa Ii",
+      "slug": "ankpa-ii"
+    },
+    "code": {
+      "id": "NG023003_ankpa-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023003_ankpa-suburb-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ankpa Suburb I",
+      "en": "Ankpa Suburb I",
+      "slug": "ankpa-suburb-i"
+    },
+    "code": {
+      "id": "NG023003_ankpa-suburb-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023003_ankpa-suburb-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ankpa Suburb Ii",
+      "en": "Ankpa Suburb Ii",
+      "slug": "ankpa-suburb-ii"
+    },
+    "code": {
+      "id": "NG023003_ankpa-suburb-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023003_ankpa-township",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ankpa Township",
+      "en": "Ankpa Township",
+      "slug": "ankpa-township"
+    },
+    "code": {
+      "id": "NG023003_ankpa-township",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023003_enjema-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Enjema I",
+      "en": "Enjema I",
+      "slug": "enjema-i"
+    },
+    "code": {
+      "id": "NG023003_enjema-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023003_enjema-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Enjema Ii",
+      "en": "Enjema Ii",
+      "slug": "enjema-ii"
+    },
+    "code": {
+      "id": "NG023003_enjema-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023003_enjema-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Enjema Iii",
+      "en": "Enjema Iii",
+      "slug": "enjema-iii"
+    },
+    "code": {
+      "id": "NG023003_enjema-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023003_enjema-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Enjema Iv",
+      "en": "Enjema Iv",
+      "slug": "enjema-iv"
+    },
+    "code": {
+      "id": "NG023003_enjema-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023003_ojoku-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojoku I",
+      "en": "Ojoku I",
+      "slug": "ojoku-i"
+    },
+    "code": {
+      "id": "NG023003_ojoku-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023003_ojoku-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojoku Ii",
+      "en": "Ojoku Ii",
+      "slug": "ojoku-ii"
+    },
+    "code": {
+      "id": "NG023003_ojoku-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023003_ojoku-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojoku Iii",
+      "en": "Ojoku Iii",
+      "slug": "ojoku-iii"
+    },
+    "code": {
+      "id": "NG023003_ojoku-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023003_ojoku-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojoku Iv",
+      "en": "Ojoku Iv",
+      "slug": "ojoku-iv"
+    },
+    "code": {
+      "id": "NG023003_ojoku-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023003",
+      "level": 2,
+      "name": {
+        "local": "Ankpa",
+        "en": "Ankpa",
+        "slug": "ankpa-ng023003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023003",
+        "level": 2,
+        "name": {
+          "local": "Ankpa",
+          "en": "Ankpa",
+          "slug": "ankpa-ng023003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.496",
+      "lon": "7.627"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG009013_basang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Basang",
+      "en": "Basang",
+      "slug": "basang"
+    },
+    "code": {
+      "id": "NG009013_basang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009013",
+      "level": 2,
+      "name": {
+        "local": "Obanliku",
+        "en": "Obanliku",
+        "slug": "obanliku-ng009013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009013",
+        "level": 2,
+        "name": {
+          "local": "Obanliku",
+          "en": "Obanliku",
+          "slug": "obanliku-ng009013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.494",
+      "lon": "9.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009013_bebi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bebi",
+      "en": "Bebi",
+      "slug": "bebi"
+    },
+    "code": {
+      "id": "NG009013_bebi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009013",
+      "level": 2,
+      "name": {
+        "local": "Obanliku",
+        "en": "Obanliku",
+        "slug": "obanliku-ng009013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009013",
+        "level": 2,
+        "name": {
+          "local": "Obanliku",
+          "en": "Obanliku",
+          "slug": "obanliku-ng009013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.494",
+      "lon": "9.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009013_becheve",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Becheve",
+      "en": "Becheve",
+      "slug": "becheve"
+    },
+    "code": {
+      "id": "NG009013_becheve",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009013",
+      "level": 2,
+      "name": {
+        "local": "Obanliku",
+        "en": "Obanliku",
+        "slug": "obanliku-ng009013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009013",
+        "level": 2,
+        "name": {
+          "local": "Obanliku",
+          "en": "Obanliku",
+          "slug": "obanliku-ng009013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.494",
+      "lon": "9.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009013_bendi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bendi I",
+      "en": "Bendi I",
+      "slug": "bendi-i"
+    },
+    "code": {
+      "id": "NG009013_bendi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009013",
+      "level": 2,
+      "name": {
+        "local": "Obanliku",
+        "en": "Obanliku",
+        "slug": "obanliku-ng009013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009013",
+        "level": 2,
+        "name": {
+          "local": "Obanliku",
+          "en": "Obanliku",
+          "slug": "obanliku-ng009013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.494",
+      "lon": "9.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009013_bendi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bendi Ii",
+      "en": "Bendi Ii",
+      "slug": "bendi-ii"
+    },
+    "code": {
+      "id": "NG009013_bendi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009013",
+      "level": 2,
+      "name": {
+        "local": "Obanliku",
+        "en": "Obanliku",
+        "slug": "obanliku-ng009013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009013",
+        "level": 2,
+        "name": {
+          "local": "Obanliku",
+          "en": "Obanliku",
+          "slug": "obanliku-ng009013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.494",
+      "lon": "9.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009013_bishiri-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bishiri North",
+      "en": "Bishiri North",
+      "slug": "bishiri-north"
+    },
+    "code": {
+      "id": "NG009013_bishiri-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009013",
+      "level": 2,
+      "name": {
+        "local": "Obanliku",
+        "en": "Obanliku",
+        "slug": "obanliku-ng009013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009013",
+        "level": 2,
+        "name": {
+          "local": "Obanliku",
+          "en": "Obanliku",
+          "slug": "obanliku-ng009013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.494",
+      "lon": "9.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009013_bishiri-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bishiri South",
+      "en": "Bishiri South",
+      "slug": "bishiri-south"
+    },
+    "code": {
+      "id": "NG009013_bishiri-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009013",
+      "level": 2,
+      "name": {
+        "local": "Obanliku",
+        "en": "Obanliku",
+        "slug": "obanliku-ng009013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009013",
+        "level": 2,
+        "name": {
+          "local": "Obanliku",
+          "en": "Obanliku",
+          "slug": "obanliku-ng009013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.494",
+      "lon": "9.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009013_bisu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bisu",
+      "en": "Bisu",
+      "slug": "bisu"
+    },
+    "code": {
+      "id": "NG009013_bisu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009013",
+      "level": 2,
+      "name": {
+        "local": "Obanliku",
+        "en": "Obanliku",
+        "slug": "obanliku-ng009013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009013",
+        "level": 2,
+        "name": {
+          "local": "Obanliku",
+          "en": "Obanliku",
+          "slug": "obanliku-ng009013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.494",
+      "lon": "9.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009013_busi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Busi",
+      "en": "Busi",
+      "slug": "busi"
+    },
+    "code": {
+      "id": "NG009013_busi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009013",
+      "level": 2,
+      "name": {
+        "local": "Obanliku",
+        "en": "Obanliku",
+        "slug": "obanliku-ng009013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009013",
+        "level": 2,
+        "name": {
+          "local": "Obanliku",
+          "en": "Obanliku",
+          "slug": "obanliku-ng009013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.494",
+      "lon": "9.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009013_utanga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Utanga",
+      "en": "Utanga",
+      "slug": "utanga"
+    },
+    "code": {
+      "id": "NG009013_utanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009013",
+      "level": 2,
+      "name": {
+        "local": "Obanliku",
+        "en": "Obanliku",
+        "slug": "obanliku-ng009013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009013",
+        "level": 2,
+        "name": {
+          "local": "Obanliku",
+          "en": "Obanliku",
+          "slug": "obanliku-ng009013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.494",
+      "lon": "9.354"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

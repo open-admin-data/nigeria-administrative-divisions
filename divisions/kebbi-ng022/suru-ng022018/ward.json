@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG022018_aljannare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aljannare",
+      "en": "Aljannare",
+      "slug": "aljannare"
+    },
+    "code": {
+      "id": "NG022018_aljannare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022018",
+      "level": 2,
+      "name": {
+        "local": "Suru",
+        "en": "Suru",
+        "slug": "suru-ng022018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022018",
+        "level": 2,
+        "name": {
+          "local": "Suru",
+          "en": "Suru",
+          "slug": "suru-ng022018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.784",
+      "lon": "4.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022018_bakuwai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakuwai",
+      "en": "Bakuwai",
+      "slug": "bakuwai"
+    },
+    "code": {
+      "id": "NG022018_bakuwai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022018",
+      "level": 2,
+      "name": {
+        "local": "Suru",
+        "en": "Suru",
+        "slug": "suru-ng022018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022018",
+        "level": 2,
+        "name": {
+          "local": "Suru",
+          "en": "Suru",
+          "slug": "suru-ng022018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.784",
+      "lon": "4.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022018_bandan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bandan",
+      "en": "Bandan",
+      "slug": "bandan"
+    },
+    "code": {
+      "id": "NG022018_bandan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022018",
+      "level": 2,
+      "name": {
+        "local": "Suru",
+        "en": "Suru",
+        "slug": "suru-ng022018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022018",
+        "level": 2,
+        "name": {
+          "local": "Suru",
+          "en": "Suru",
+          "slug": "suru-ng022018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.784",
+      "lon": "4.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022018_barbarejo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Barbarejo",
+      "en": "Barbarejo",
+      "slug": "barbarejo"
+    },
+    "code": {
+      "id": "NG022018_barbarejo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022018",
+      "level": 2,
+      "name": {
+        "local": "Suru",
+        "en": "Suru",
+        "slug": "suru-ng022018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022018",
+        "level": 2,
+        "name": {
+          "local": "Suru",
+          "en": "Suru",
+          "slug": "suru-ng022018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.784",
+      "lon": "4.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022018_dakingari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dakingari",
+      "en": "Dakingari",
+      "slug": "dakingari"
+    },
+    "code": {
+      "id": "NG022018_dakingari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022018",
+      "level": 2,
+      "name": {
+        "local": "Suru",
+        "en": "Suru",
+        "slug": "suru-ng022018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022018",
+        "level": 2,
+        "name": {
+          "local": "Suru",
+          "en": "Suru",
+          "slug": "suru-ng022018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.784",
+      "lon": "4.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022018_dandane",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dandane",
+      "en": "Dandane",
+      "slug": "dandane"
+    },
+    "code": {
+      "id": "NG022018_dandane",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022018",
+      "level": 2,
+      "name": {
+        "local": "Suru",
+        "en": "Suru",
+        "slug": "suru-ng022018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022018",
+        "level": 2,
+        "name": {
+          "local": "Suru",
+          "en": "Suru",
+          "slug": "suru-ng022018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.784",
+      "lon": "4.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022018_daniyashema",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daniya/shema",
+      "en": "Daniya/shema",
+      "slug": "daniyashema"
+    },
+    "code": {
+      "id": "NG022018_daniyashema",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022018",
+      "level": 2,
+      "name": {
+        "local": "Suru",
+        "en": "Suru",
+        "slug": "suru-ng022018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022018",
+        "level": 2,
+        "name": {
+          "local": "Suru",
+          "en": "Suru",
+          "slug": "suru-ng022018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.784",
+      "lon": "4.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022018_ginga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ginga",
+      "en": "Ginga",
+      "slug": "ginga"
+    },
+    "code": {
+      "id": "NG022018_ginga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022018",
+      "level": 2,
+      "name": {
+        "local": "Suru",
+        "en": "Suru",
+        "slug": "suru-ng022018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022018",
+        "level": 2,
+        "name": {
+          "local": "Suru",
+          "en": "Suru",
+          "slug": "suru-ng022018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.784",
+      "lon": "4.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022018_giro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Giro",
+      "en": "Giro",
+      "slug": "giro"
+    },
+    "code": {
+      "id": "NG022018_giro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022018",
+      "level": 2,
+      "name": {
+        "local": "Suru",
+        "en": "Suru",
+        "slug": "suru-ng022018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022018",
+        "level": 2,
+        "name": {
+          "local": "Suru",
+          "en": "Suru",
+          "slug": "suru-ng022018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.784",
+      "lon": "4.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022018_kwaifa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwaifa",
+      "en": "Kwaifa",
+      "slug": "kwaifa"
+    },
+    "code": {
+      "id": "NG022018_kwaifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022018",
+      "level": 2,
+      "name": {
+        "local": "Suru",
+        "en": "Suru",
+        "slug": "suru-ng022018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022018",
+        "level": 2,
+        "name": {
+          "local": "Suru",
+          "en": "Suru",
+          "slug": "suru-ng022018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.784",
+      "lon": "4.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022018_suru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Suru",
+      "en": "Suru",
+      "slug": "suru"
+    },
+    "code": {
+      "id": "NG022018_suru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022018",
+      "level": 2,
+      "name": {
+        "local": "Suru",
+        "en": "Suru",
+        "slug": "suru-ng022018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022018",
+        "level": 2,
+        "name": {
+          "local": "Suru",
+          "en": "Suru",
+          "slug": "suru-ng022018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.784",
+      "lon": "4.133"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NG010012",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ndokwa West",
+    "en": "Ndokwa West",
+    "slug": "ndokwa-west-ng010012"
+  },
+  "code": {
+    "id": "NG010012",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG010",
+    "level": 1,
+    "name": {
+      "local": "Delta",
+      "en": "Delta",
+      "slug": "delta-ng010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.826",
+    "lon": "6.416"
+  },
+  "metadata": {},
+  "source": {}
+}

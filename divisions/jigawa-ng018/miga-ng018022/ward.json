@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG018022_dangyatin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dangyatin",
+      "en": "Dangyatin",
+      "slug": "dangyatin"
+    },
+    "code": {
+      "id": "NG018022_dangyatin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018022",
+      "level": 2,
+      "name": {
+        "local": "Miga",
+        "en": "Miga",
+        "slug": "miga-ng018022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018022",
+        "level": 2,
+        "name": {
+          "local": "Miga",
+          "en": "Miga",
+          "slug": "miga-ng018022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "9.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018022_garbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garbo",
+      "en": "Garbo",
+      "slug": "garbo"
+    },
+    "code": {
+      "id": "NG018022_garbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018022",
+      "level": 2,
+      "name": {
+        "local": "Miga",
+        "en": "Miga",
+        "slug": "miga-ng018022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018022",
+        "level": 2,
+        "name": {
+          "local": "Miga",
+          "en": "Miga",
+          "slug": "miga-ng018022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "9.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018022_hantsu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hantsu",
+      "en": "Hantsu",
+      "slug": "hantsu"
+    },
+    "code": {
+      "id": "NG018022_hantsu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018022",
+      "level": 2,
+      "name": {
+        "local": "Miga",
+        "en": "Miga",
+        "slug": "miga-ng018022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018022",
+        "level": 2,
+        "name": {
+          "local": "Miga",
+          "en": "Miga",
+          "slug": "miga-ng018022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "9.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018022_koya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koya",
+      "en": "Koya",
+      "slug": "koya"
+    },
+    "code": {
+      "id": "NG018022_koya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018022",
+      "level": 2,
+      "name": {
+        "local": "Miga",
+        "en": "Miga",
+        "slug": "miga-ng018022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018022",
+        "level": 2,
+        "name": {
+          "local": "Miga",
+          "en": "Miga",
+          "slug": "miga-ng018022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "9.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018022_miga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Miga",
+      "en": "Miga",
+      "slug": "miga"
+    },
+    "code": {
+      "id": "NG018022_miga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018022",
+      "level": 2,
+      "name": {
+        "local": "Miga",
+        "en": "Miga",
+        "slug": "miga-ng018022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018022",
+        "level": 2,
+        "name": {
+          "local": "Miga",
+          "en": "Miga",
+          "slug": "miga-ng018022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "9.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018022_sabon-gari-takanebu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Gari Takanebu",
+      "en": "Sabon Gari Takanebu",
+      "slug": "sabon-gari-takanebu"
+    },
+    "code": {
+      "id": "NG018022_sabon-gari-takanebu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018022",
+      "level": 2,
+      "name": {
+        "local": "Miga",
+        "en": "Miga",
+        "slug": "miga-ng018022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018022",
+        "level": 2,
+        "name": {
+          "local": "Miga",
+          "en": "Miga",
+          "slug": "miga-ng018022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "9.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018022_sansani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sansani",
+      "en": "Sansani",
+      "slug": "sansani"
+    },
+    "code": {
+      "id": "NG018022_sansani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018022",
+      "level": 2,
+      "name": {
+        "local": "Miga",
+        "en": "Miga",
+        "slug": "miga-ng018022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018022",
+        "level": 2,
+        "name": {
+          "local": "Miga",
+          "en": "Miga",
+          "slug": "miga-ng018022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "9.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018022_tsakuwawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsakuwawa",
+      "en": "Tsakuwawa",
+      "slug": "tsakuwawa"
+    },
+    "code": {
+      "id": "NG018022_tsakuwawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018022",
+      "level": 2,
+      "name": {
+        "local": "Miga",
+        "en": "Miga",
+        "slug": "miga-ng018022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018022",
+        "level": 2,
+        "name": {
+          "local": "Miga",
+          "en": "Miga",
+          "slug": "miga-ng018022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "9.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018022_yanduna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yanduna",
+      "en": "Yanduna",
+      "slug": "yanduna"
+    },
+    "code": {
+      "id": "NG018022_yanduna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018022",
+      "level": 2,
+      "name": {
+        "local": "Miga",
+        "en": "Miga",
+        "slug": "miga-ng018022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018022",
+        "level": 2,
+        "name": {
+          "local": "Miga",
+          "en": "Miga",
+          "slug": "miga-ng018022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "9.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018022_zareku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zareku",
+      "en": "Zareku",
+      "slug": "zareku"
+    },
+    "code": {
+      "id": "NG018022_zareku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018022",
+      "level": 2,
+      "name": {
+        "local": "Miga",
+        "en": "Miga",
+        "slug": "miga-ng018022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018022",
+        "level": 2,
+        "name": {
+          "local": "Miga",
+          "en": "Miga",
+          "slug": "miga-ng018022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.225",
+      "lon": "9.678"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

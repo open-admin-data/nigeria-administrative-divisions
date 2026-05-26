@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018014_aujara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aujara",
+      "en": "Aujara",
+      "slug": "aujara"
+    },
+    "code": {
+      "id": "NG018014_aujara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018014",
+      "level": 2,
+      "name": {
+        "local": "Jahun",
+        "en": "Jahun",
+        "slug": "jahun-ng018014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018014",
+        "level": 2,
+        "name": {
+          "local": "Jahun",
+          "en": "Jahun",
+          "slug": "jahun-ng018014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "9.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018014_gangawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gangawa",
+      "en": "Gangawa",
+      "slug": "gangawa"
+    },
+    "code": {
+      "id": "NG018014_gangawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018014",
+      "level": 2,
+      "name": {
+        "local": "Jahun",
+        "en": "Jahun",
+        "slug": "jahun-ng018014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018014",
+        "level": 2,
+        "name": {
+          "local": "Jahun",
+          "en": "Jahun",
+          "slug": "jahun-ng018014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "9.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018014_gauza-tazara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gauza Tazara",
+      "en": "Gauza Tazara",
+      "slug": "gauza-tazara"
+    },
+    "code": {
+      "id": "NG018014_gauza-tazara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018014",
+      "level": 2,
+      "name": {
+        "local": "Jahun",
+        "en": "Jahun",
+        "slug": "jahun-ng018014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018014",
+        "level": 2,
+        "name": {
+          "local": "Jahun",
+          "en": "Jahun",
+          "slug": "jahun-ng018014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "9.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018014_gunka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gunka",
+      "en": "Gunka",
+      "slug": "gunka"
+    },
+    "code": {
+      "id": "NG018014_gunka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018014",
+      "level": 2,
+      "name": {
+        "local": "Jahun",
+        "en": "Jahun",
+        "slug": "jahun-ng018014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018014",
+        "level": 2,
+        "name": {
+          "local": "Jahun",
+          "en": "Jahun",
+          "slug": "jahun-ng018014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "9.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018014_harbo-sabuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Harbo Sabuwa",
+      "en": "Harbo Sabuwa",
+      "slug": "harbo-sabuwa"
+    },
+    "code": {
+      "id": "NG018014_harbo-sabuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018014",
+      "level": 2,
+      "name": {
+        "local": "Jahun",
+        "en": "Jahun",
+        "slug": "jahun-ng018014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018014",
+        "level": 2,
+        "name": {
+          "local": "Jahun",
+          "en": "Jahun",
+          "slug": "jahun-ng018014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "9.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018014_harbo-tsohuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Harbo Tsohuwa",
+      "en": "Harbo Tsohuwa",
+      "slug": "harbo-tsohuwa"
+    },
+    "code": {
+      "id": "NG018014_harbo-tsohuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018014",
+      "level": 2,
+      "name": {
+        "local": "Jahun",
+        "en": "Jahun",
+        "slug": "jahun-ng018014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018014",
+        "level": 2,
+        "name": {
+          "local": "Jahun",
+          "en": "Jahun",
+          "slug": "jahun-ng018014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "9.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018014_idanduna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idanduna",
+      "en": "Idanduna",
+      "slug": "idanduna"
+    },
+    "code": {
+      "id": "NG018014_idanduna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018014",
+      "level": 2,
+      "name": {
+        "local": "Jahun",
+        "en": "Jahun",
+        "slug": "jahun-ng018014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018014",
+        "level": 2,
+        "name": {
+          "local": "Jahun",
+          "en": "Jahun",
+          "slug": "jahun-ng018014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "9.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018014_jabarna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jabarna",
+      "en": "Jabarna",
+      "slug": "jabarna"
+    },
+    "code": {
+      "id": "NG018014_jabarna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018014",
+      "level": 2,
+      "name": {
+        "local": "Jahun",
+        "en": "Jahun",
+        "slug": "jahun-ng018014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018014",
+        "level": 2,
+        "name": {
+          "local": "Jahun",
+          "en": "Jahun",
+          "slug": "jahun-ng018014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "9.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018014_jahun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jahun",
+      "en": "Jahun",
+      "slug": "jahun"
+    },
+    "code": {
+      "id": "NG018014_jahun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018014",
+      "level": 2,
+      "name": {
+        "local": "Jahun",
+        "en": "Jahun",
+        "slug": "jahun-ng018014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018014",
+        "level": 2,
+        "name": {
+          "local": "Jahun",
+          "en": "Jahun",
+          "slug": "jahun-ng018014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "9.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018014_kale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kale",
+      "en": "Kale",
+      "slug": "kale"
+    },
+    "code": {
+      "id": "NG018014_kale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018014",
+      "level": 2,
+      "name": {
+        "local": "Jahun",
+        "en": "Jahun",
+        "slug": "jahun-ng018014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018014",
+        "level": 2,
+        "name": {
+          "local": "Jahun",
+          "en": "Jahun",
+          "slug": "jahun-ng018014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "9.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018014_kanwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanwa",
+      "en": "Kanwa",
+      "slug": "kanwa"
+    },
+    "code": {
+      "id": "NG018014_kanwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018014",
+      "level": 2,
+      "name": {
+        "local": "Jahun",
+        "en": "Jahun",
+        "slug": "jahun-ng018014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018014",
+        "level": 2,
+        "name": {
+          "local": "Jahun",
+          "en": "Jahun",
+          "slug": "jahun-ng018014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.065",
+      "lon": "9.561"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

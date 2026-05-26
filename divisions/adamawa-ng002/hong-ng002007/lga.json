@@ -1,0 +1,47 @@
+{
+  "id": "NG002007",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Hong",
+    "en": "Hong",
+    "slug": "hong-ng002007"
+  },
+  "code": {
+    "id": "NG002007",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG002",
+    "level": 1,
+    "name": {
+      "local": "Adamawa",
+      "en": "Adamawa",
+      "slug": "adamawa-ng002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.271",
+    "lon": "13"
+  },
+  "metadata": {},
+  "source": {}
+}

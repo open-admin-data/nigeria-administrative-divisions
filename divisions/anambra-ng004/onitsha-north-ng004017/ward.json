@@ -1,0 +1,812 @@
+[
+  {
+    "id": "NG004017_american-quarters",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "American Quarters",
+      "en": "American Quarters",
+      "slug": "american-quarters"
+    },
+    "code": {
+      "id": "NG004017_american-quarters",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_gra",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "G.r.a",
+      "en": "G.r.a",
+      "slug": "gra"
+    },
+    "code": {
+      "id": "NG004017_gra",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_inland-town-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Inland Town I",
+      "en": "Inland Town I",
+      "slug": "inland-town-i"
+    },
+    "code": {
+      "id": "NG004017_inland-town-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_inland-town-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Inland Town Ii",
+      "en": "Inland Town Ii",
+      "slug": "inland-town-ii"
+    },
+    "code": {
+      "id": "NG004017_inland-town-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_inland-town-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Inland Town Iii",
+      "en": "Inland Town Iii",
+      "slug": "inland-town-iii"
+    },
+    "code": {
+      "id": "NG004017_inland-town-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_inland-town-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Inland Town Iv",
+      "en": "Inland Town Iv",
+      "slug": "inland-town-iv"
+    },
+    "code": {
+      "id": "NG004017_inland-town-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_inland-town-v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Inland Town V",
+      "en": "Inland Town V",
+      "slug": "inland-town-v"
+    },
+    "code": {
+      "id": "NG004017_inland-town-v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_inland-town-vi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Inland Town Vi",
+      "en": "Inland Town Vi",
+      "slug": "inland-town-vi"
+    },
+    "code": {
+      "id": "NG004017_inland-town-vi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_inland-town-vii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Inland Town Vii",
+      "en": "Inland Town Vii",
+      "slug": "inland-town-vii"
+    },
+    "code": {
+      "id": "NG004017_inland-town-vii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_inland-town-viii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Inland Town Viii",
+      "en": "Inland Town Viii",
+      "slug": "inland-town-viii"
+    },
+    "code": {
+      "id": "NG004017_inland-town-viii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_ogbe-umuonicha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbe Umuonicha",
+      "en": "Ogbe Umuonicha",
+      "slug": "ogbe-umuonicha"
+    },
+    "code": {
+      "id": "NG004017_ogbe-umuonicha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_trans-nkisi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Trans Nkisi",
+      "en": "Trans Nkisi",
+      "slug": "trans-nkisi"
+    },
+    "code": {
+      "id": "NG004017_trans-nkisi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_water-side-central-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Water-side Central 1",
+      "en": "Water-side Central 1",
+      "slug": "water-side-central-1"
+    },
+    "code": {
+      "id": "NG004017_water-side-central-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_water-side-central-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Water-side Central Ii",
+      "en": "Water-side Central Ii",
+      "slug": "water-side-central-ii"
+    },
+    "code": {
+      "id": "NG004017_water-side-central-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017_woluwo-layout",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Woluwo Layout",
+      "en": "Woluwo Layout",
+      "slug": "woluwo-layout"
+    },
+    "code": {
+      "id": "NG004017_woluwo-layout",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004017",
+      "level": 2,
+      "name": {
+        "local": "Onitsha North",
+        "en": "Onitsha North",
+        "slug": "onitsha-north-ng004017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004017",
+        "level": 2,
+        "name": {
+          "local": "Onitsha North",
+          "en": "Onitsha North",
+          "slug": "onitsha-north-ng004017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

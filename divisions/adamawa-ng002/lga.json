@@ -1,0 +1,989 @@
+[
+  {
+    "id": "NG002001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Demsa",
+      "en": "Demsa",
+      "slug": "demsa-ng002001"
+    },
+    "code": {
+      "id": "NG002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.421",
+      "lon": "12.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Fufore",
+      "en": "Fufore",
+      "slug": "fufore-ng002002"
+    },
+    "code": {
+      "id": "NG002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.247",
+      "lon": "12.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ganye",
+      "en": "Ganye",
+      "slug": "ganye-ng002003"
+    },
+    "code": {
+      "id": "NG002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.438",
+      "lon": "11.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Girei",
+      "en": "Girei",
+      "slug": "girei-ng002005"
+    },
+    "code": {
+      "id": "NG002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.42",
+      "lon": "12.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gombi",
+      "en": "Gombi",
+      "slug": "gombi-ng002004"
+    },
+    "code": {
+      "id": "NG002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.219",
+      "lon": "12.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Guyuk",
+      "en": "Guyuk",
+      "slug": "guyuk-ng002006"
+    },
+    "code": {
+      "id": "NG002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.849",
+      "lon": "11.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Hong",
+      "en": "Hong",
+      "slug": "hong-ng002007"
+    },
+    "code": {
+      "id": "NG002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.271",
+      "lon": "13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Jada",
+      "en": "Jada",
+      "slug": "jada-ng002008"
+    },
+    "code": {
+      "id": "NG002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.7",
+      "lon": "12.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lamurde",
+      "en": "Lamurde",
+      "slug": "lamurde-ng002009"
+    },
+    "code": {
+      "id": "NG002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.554",
+      "lon": "11.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Madagali",
+      "en": "Madagali",
+      "slug": "madagali-ng002010"
+    },
+    "code": {
+      "id": "NG002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.799",
+      "lon": "13.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Maiha",
+      "en": "Maiha",
+      "slug": "maiha-ng002011"
+    },
+    "code": {
+      "id": "NG002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.874",
+      "lon": "13.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mayo-Belwa",
+      "en": "Mayo-Belwa",
+      "slug": "mayo-belwa-ng002012"
+    },
+    "code": {
+      "id": "NG002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.908",
+      "lon": "12.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Michika",
+      "en": "Michika",
+      "slug": "michika-ng002013"
+    },
+    "code": {
+      "id": "NG002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.579",
+      "lon": "13.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mubi North",
+      "en": "Mubi North",
+      "slug": "mubi-north-ng002014"
+    },
+    "code": {
+      "id": "NG002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.359",
+      "lon": "13.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mubi South",
+      "en": "Mubi South",
+      "slug": "mubi-south-ng002015"
+    },
+    "code": {
+      "id": "NG002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.171",
+      "lon": "13.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Numan",
+      "en": "Numan",
+      "slug": "numan-ng002016"
+    },
+    "code": {
+      "id": "NG002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.451",
+      "lon": "11.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Shelleng",
+      "en": "Shelleng",
+      "slug": "shelleng-ng002017"
+    },
+    "code": {
+      "id": "NG002017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.903",
+      "lon": "12.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Song",
+      "en": "Song",
+      "slug": "song-ng002018"
+    },
+    "code": {
+      "id": "NG002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.841",
+      "lon": "12.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Toungo",
+      "en": "Toungo",
+      "slug": "toungo-ng002019"
+    },
+    "code": {
+      "id": "NG002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.902",
+      "lon": "11.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yola North",
+      "en": "Yola North",
+      "slug": "yola-north-ng002020"
+    },
+    "code": {
+      "id": "NG002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.258",
+      "lon": "12.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yola South",
+      "en": "Yola South",
+      "slug": "yola-south-ng002021"
+    },
+    "code": {
+      "id": "NG002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.272",
+      "lon": "12.261"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

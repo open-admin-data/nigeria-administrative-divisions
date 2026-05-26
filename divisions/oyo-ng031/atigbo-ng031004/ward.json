@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG031004_ago-are-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ago Are I",
+      "en": "Ago Are I",
+      "slug": "ago-are-i"
+    },
+    "code": {
+      "id": "NG031004_ago-are-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031004",
+      "level": 2,
+      "name": {
+        "local": "Atigbo",
+        "en": "Atigbo",
+        "slug": "atigbo-ng031004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031004",
+        "level": 2,
+        "name": {
+          "local": "Atigbo",
+          "en": "Atigbo",
+          "slug": "atigbo-ng031004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.406",
+      "lon": "3.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031004_ago-are-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ago Are Ii",
+      "en": "Ago Are Ii",
+      "slug": "ago-are-ii"
+    },
+    "code": {
+      "id": "NG031004_ago-are-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031004",
+      "level": 2,
+      "name": {
+        "local": "Atigbo",
+        "en": "Atigbo",
+        "slug": "atigbo-ng031004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031004",
+        "level": 2,
+        "name": {
+          "local": "Atigbo",
+          "en": "Atigbo",
+          "slug": "atigbo-ng031004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.406",
+      "lon": "3.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031004_alaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alaga",
+      "en": "Alaga",
+      "slug": "alaga"
+    },
+    "code": {
+      "id": "NG031004_alaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031004",
+      "level": 2,
+      "name": {
+        "local": "Atigbo",
+        "en": "Atigbo",
+        "slug": "atigbo-ng031004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031004",
+        "level": 2,
+        "name": {
+          "local": "Atigbo",
+          "en": "Atigbo",
+          "slug": "atigbo-ng031004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.406",
+      "lon": "3.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031004_baasi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baasi",
+      "en": "Baasi",
+      "slug": "baasi"
+    },
+    "code": {
+      "id": "NG031004_baasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031004",
+      "level": 2,
+      "name": {
+        "local": "Atigbo",
+        "en": "Atigbo",
+        "slug": "atigbo-ng031004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031004",
+        "level": 2,
+        "name": {
+          "local": "Atigbo",
+          "en": "Atigbo",
+          "slug": "atigbo-ng031004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.406",
+      "lon": "3.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031004_irawo-ile",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Irawo Ile",
+      "en": "Irawo Ile",
+      "slug": "irawo-ile"
+    },
+    "code": {
+      "id": "NG031004_irawo-ile",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031004",
+      "level": 2,
+      "name": {
+        "local": "Atigbo",
+        "en": "Atigbo",
+        "slug": "atigbo-ng031004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031004",
+        "level": 2,
+        "name": {
+          "local": "Atigbo",
+          "en": "Atigbo",
+          "slug": "atigbo-ng031004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.406",
+      "lon": "3.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031004_irawo-owode",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Irawo Owode",
+      "en": "Irawo Owode",
+      "slug": "irawo-owode"
+    },
+    "code": {
+      "id": "NG031004_irawo-owode",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031004",
+      "level": 2,
+      "name": {
+        "local": "Atigbo",
+        "en": "Atigbo",
+        "slug": "atigbo-ng031004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031004",
+        "level": 2,
+        "name": {
+          "local": "Atigbo",
+          "en": "Atigbo",
+          "slug": "atigbo-ng031004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.406",
+      "lon": "3.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031004_ofiki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ofiki",
+      "en": "Ofiki",
+      "slug": "ofiki"
+    },
+    "code": {
+      "id": "NG031004_ofiki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031004",
+      "level": 2,
+      "name": {
+        "local": "Atigbo",
+        "en": "Atigbo",
+        "slug": "atigbo-ng031004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031004",
+        "level": 2,
+        "name": {
+          "local": "Atigbo",
+          "en": "Atigbo",
+          "slug": "atigbo-ng031004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.406",
+      "lon": "3.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031004_owoagunregesabe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owo/agunrege/sabe",
+      "en": "Owo/agunrege/sabe",
+      "slug": "owoagunregesabe"
+    },
+    "code": {
+      "id": "NG031004_owoagunregesabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031004",
+      "level": 2,
+      "name": {
+        "local": "Atigbo",
+        "en": "Atigbo",
+        "slug": "atigbo-ng031004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031004",
+        "level": 2,
+        "name": {
+          "local": "Atigbo",
+          "en": "Atigbo",
+          "slug": "atigbo-ng031004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.406",
+      "lon": "3.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031004_tede-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tede I",
+      "en": "Tede I",
+      "slug": "tede-i"
+    },
+    "code": {
+      "id": "NG031004_tede-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031004",
+      "level": 2,
+      "name": {
+        "local": "Atigbo",
+        "en": "Atigbo",
+        "slug": "atigbo-ng031004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031004",
+        "level": 2,
+        "name": {
+          "local": "Atigbo",
+          "en": "Atigbo",
+          "slug": "atigbo-ng031004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.406",
+      "lon": "3.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031004_tede-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tede Ii",
+      "en": "Tede Ii",
+      "slug": "tede-ii"
+    },
+    "code": {
+      "id": "NG031004_tede-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031004",
+      "level": 2,
+      "name": {
+        "local": "Atigbo",
+        "en": "Atigbo",
+        "slug": "atigbo-ng031004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031004",
+        "level": 2,
+        "name": {
+          "local": "Atigbo",
+          "en": "Atigbo",
+          "slug": "atigbo-ng031004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.406",
+      "lon": "3.247"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

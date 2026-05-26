@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020020_dugabau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dugabau",
+      "en": "Dugabau",
+      "slug": "dugabau"
+    },
+    "code": {
+      "id": "NG020020_dugabau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020020",
+      "level": 2,
+      "name": {
+        "local": "Kabo",
+        "en": "Kabo",
+        "slug": "kabo-ng020020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020020",
+        "level": 2,
+        "name": {
+          "local": "Kabo",
+          "en": "Kabo",
+          "slug": "kabo-ng020020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.898",
+      "lon": "8.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020020_durun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Durun",
+      "en": "Durun",
+      "slug": "durun"
+    },
+    "code": {
+      "id": "NG020020_durun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020020",
+      "level": 2,
+      "name": {
+        "local": "Kabo",
+        "en": "Kabo",
+        "slug": "kabo-ng020020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020020",
+        "level": 2,
+        "name": {
+          "local": "Kabo",
+          "en": "Kabo",
+          "slug": "kabo-ng020020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.898",
+      "lon": "8.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020020_gammo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gammo",
+      "en": "Gammo",
+      "slug": "gammo"
+    },
+    "code": {
+      "id": "NG020020_gammo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020020",
+      "level": 2,
+      "name": {
+        "local": "Kabo",
+        "en": "Kabo",
+        "slug": "kabo-ng020020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020020",
+        "level": 2,
+        "name": {
+          "local": "Kabo",
+          "en": "Kabo",
+          "slug": "kabo-ng020020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.898",
+      "lon": "8.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020020_garo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garo",
+      "en": "Garo",
+      "slug": "garo"
+    },
+    "code": {
+      "id": "NG020020_garo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020020",
+      "level": 2,
+      "name": {
+        "local": "Kabo",
+        "en": "Kabo",
+        "slug": "kabo-ng020020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020020",
+        "level": 2,
+        "name": {
+          "local": "Kabo",
+          "en": "Kabo",
+          "slug": "kabo-ng020020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.898",
+      "lon": "8.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020020_godiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Godiya",
+      "en": "Godiya",
+      "slug": "godiya"
+    },
+    "code": {
+      "id": "NG020020_godiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020020",
+      "level": 2,
+      "name": {
+        "local": "Kabo",
+        "en": "Kabo",
+        "slug": "kabo-ng020020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020020",
+        "level": 2,
+        "name": {
+          "local": "Kabo",
+          "en": "Kabo",
+          "slug": "kabo-ng020020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.898",
+      "lon": "8.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020020_gude",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gude",
+      "en": "Gude",
+      "slug": "gude"
+    },
+    "code": {
+      "id": "NG020020_gude",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020020",
+      "level": 2,
+      "name": {
+        "local": "Kabo",
+        "en": "Kabo",
+        "slug": "kabo-ng020020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020020",
+        "level": 2,
+        "name": {
+          "local": "Kabo",
+          "en": "Kabo",
+          "slug": "kabo-ng020020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.898",
+      "lon": "8.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020020_hauwade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hauwade",
+      "en": "Hauwade",
+      "slug": "hauwade"
+    },
+    "code": {
+      "id": "NG020020_hauwade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020020",
+      "level": 2,
+      "name": {
+        "local": "Kabo",
+        "en": "Kabo",
+        "slug": "kabo-ng020020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020020",
+        "level": 2,
+        "name": {
+          "local": "Kabo",
+          "en": "Kabo",
+          "slug": "kabo-ng020020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.898",
+      "lon": "8.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020020_kabo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kabo",
+      "en": "Kabo",
+      "slug": "kabo"
+    },
+    "code": {
+      "id": "NG020020_kabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020020",
+      "level": 2,
+      "name": {
+        "local": "Kabo",
+        "en": "Kabo",
+        "slug": "kabo-ng020020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020020",
+        "level": 2,
+        "name": {
+          "local": "Kabo",
+          "en": "Kabo",
+          "slug": "kabo-ng020020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.898",
+      "lon": "8.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020020_kanwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanwa",
+      "en": "Kanwa",
+      "slug": "kanwa"
+    },
+    "code": {
+      "id": "NG020020_kanwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020020",
+      "level": 2,
+      "name": {
+        "local": "Kabo",
+        "en": "Kabo",
+        "slug": "kabo-ng020020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020020",
+        "level": 2,
+        "name": {
+          "local": "Kabo",
+          "en": "Kabo",
+          "slug": "kabo-ng020020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.898",
+      "lon": "8.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020020_masanawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Masanawa",
+      "en": "Masanawa",
+      "slug": "masanawa"
+    },
+    "code": {
+      "id": "NG020020_masanawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020020",
+      "level": 2,
+      "name": {
+        "local": "Kabo",
+        "en": "Kabo",
+        "slug": "kabo-ng020020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020020",
+        "level": 2,
+        "name": {
+          "local": "Kabo",
+          "en": "Kabo",
+          "slug": "kabo-ng020020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.898",
+      "lon": "8.197"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

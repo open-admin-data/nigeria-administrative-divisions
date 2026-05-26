@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG008025_fuye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fuye",
+      "en": "Fuye",
+      "slug": "fuye"
+    },
+    "code": {
+      "id": "NG008025_fuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008025",
+      "level": 2,
+      "name": {
+        "local": "Ngala",
+        "en": "Ngala",
+        "slug": "ngala-ng008025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008025",
+        "level": 2,
+        "name": {
+          "local": "Ngala",
+          "en": "Ngala",
+          "slug": "ngala-ng008025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.268",
+      "lon": "14.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008025_gamboru-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamboru 'b'",
+      "en": "Gamboru 'b'",
+      "slug": "gamboru-b"
+    },
+    "code": {
+      "id": "NG008025_gamboru-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008025",
+      "level": 2,
+      "name": {
+        "local": "Ngala",
+        "en": "Ngala",
+        "slug": "ngala-ng008025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008025",
+        "level": 2,
+        "name": {
+          "local": "Ngala",
+          "en": "Ngala",
+          "slug": "ngala-ng008025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.363",
+      "lon": "14.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008025_gamboru-c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamboru 'c'",
+      "en": "Gamboru 'c'",
+      "slug": "gamboru-c"
+    },
+    "code": {
+      "id": "NG008025_gamboru-c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008025",
+      "level": 2,
+      "name": {
+        "local": "Ngala",
+        "en": "Ngala",
+        "slug": "ngala-ng008025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008025",
+        "level": 2,
+        "name": {
+          "local": "Ngala",
+          "en": "Ngala",
+          "slug": "ngala-ng008025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.363",
+      "lon": "14.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008025_logumane",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Logumane",
+      "en": "Logumane",
+      "slug": "logumane"
+    },
+    "code": {
+      "id": "NG008025_logumane",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008025",
+      "level": 2,
+      "name": {
+        "local": "Ngala",
+        "en": "Ngala",
+        "slug": "ngala-ng008025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008025",
+        "level": 2,
+        "name": {
+          "local": "Ngala",
+          "en": "Ngala",
+          "slug": "ngala-ng008025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.222",
+      "lon": "14.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008025_ndufu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndufu",
+      "en": "Ndufu",
+      "slug": "ndufu"
+    },
+    "code": {
+      "id": "NG008025_ndufu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008025",
+      "level": 2,
+      "name": {
+        "local": "Ngala",
+        "en": "Ngala",
+        "slug": "ngala-ng008025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008025",
+        "level": 2,
+        "name": {
+          "local": "Ngala",
+          "en": "Ngala",
+          "slug": "ngala-ng008025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "14.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008025_ngala-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngala Ward",
+      "en": "Ngala Ward",
+      "slug": "ngala-ward"
+    },
+    "code": {
+      "id": "NG008025_ngala-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008025",
+      "level": 2,
+      "name": {
+        "local": "Ngala",
+        "en": "Ngala",
+        "slug": "ngala-ng008025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008025",
+        "level": 2,
+        "name": {
+          "local": "Ngala",
+          "en": "Ngala",
+          "slug": "ngala-ng008025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.334",
+      "lon": "14.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008025_old-gamboru-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Old Gamboru 'a'",
+      "en": "Old Gamboru 'a'",
+      "slug": "old-gamboru-a"
+    },
+    "code": {
+      "id": "NG008025_old-gamboru-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008025",
+      "level": 2,
+      "name": {
+        "local": "Ngala",
+        "en": "Ngala",
+        "slug": "ngala-ng008025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008025",
+        "level": 2,
+        "name": {
+          "local": "Ngala",
+          "en": "Ngala",
+          "slug": "ngala-ng008025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.293",
+      "lon": "14.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008025_sagir",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sagir",
+      "en": "Sagir",
+      "slug": "sagir"
+    },
+    "code": {
+      "id": "NG008025_sagir",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008025",
+      "level": 2,
+      "name": {
+        "local": "Ngala",
+        "en": "Ngala",
+        "slug": "ngala-ng008025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008025",
+        "level": 2,
+        "name": {
+          "local": "Ngala",
+          "en": "Ngala",
+          "slug": "ngala-ng008025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.293",
+      "lon": "14.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008025_tunokalia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tunokalia",
+      "en": "Tunokalia",
+      "slug": "tunokalia"
+    },
+    "code": {
+      "id": "NG008025_tunokalia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008025",
+      "level": 2,
+      "name": {
+        "local": "Ngala",
+        "en": "Ngala",
+        "slug": "ngala-ng008025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008025",
+        "level": 2,
+        "name": {
+          "local": "Ngala",
+          "en": "Ngala",
+          "slug": "ngala-ng008025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.293",
+      "lon": "14.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008025_warshele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Warshele",
+      "en": "Warshele",
+      "slug": "warshele"
+    },
+    "code": {
+      "id": "NG008025_warshele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008025",
+      "level": 2,
+      "name": {
+        "local": "Ngala",
+        "en": "Ngala",
+        "slug": "ngala-ng008025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008025",
+        "level": 2,
+        "name": {
+          "local": "Ngala",
+          "en": "Ngala",
+          "slug": "ngala-ng008025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.083",
+      "lon": "14.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008025_wulgo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wulgo",
+      "en": "Wulgo",
+      "slug": "wulgo"
+    },
+    "code": {
+      "id": "NG008025_wulgo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008025",
+      "level": 2,
+      "name": {
+        "local": "Ngala",
+        "en": "Ngala",
+        "slug": "ngala-ng008025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008025",
+        "level": 2,
+        "name": {
+          "local": "Ngala",
+          "en": "Ngala",
+          "slug": "ngala-ng008025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.471",
+      "lon": "14.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008025_wurge",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wurge",
+      "en": "Wurge",
+      "slug": "wurge"
+    },
+    "code": {
+      "id": "NG008025_wurge",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008025",
+      "level": 2,
+      "name": {
+        "local": "Ngala",
+        "en": "Ngala",
+        "slug": "ngala-ng008025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008025",
+        "level": 2,
+        "name": {
+          "local": "Ngala",
+          "en": "Ngala",
+          "slug": "ngala-ng008025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.293",
+      "lon": "14.199"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

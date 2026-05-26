@@ -1,0 +1,47 @@
+{
+  "id": "NG011005",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ezza North",
+    "en": "Ezza North",
+    "slug": "ezza-north-ng011005"
+  },
+  "code": {
+    "id": "NG011005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG011",
+    "level": 1,
+    "name": {
+      "local": "Ebonyi",
+      "en": "Ebonyi",
+      "slug": "ebonyi-ng011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG011",
+      "level": 1,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.264",
+    "lon": "7.979"
+  },
+  "metadata": {},
+  "source": {}
+}

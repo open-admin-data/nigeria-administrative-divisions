@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG020013_gabasawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gabasawa",
+      "en": "Gabasawa",
+      "slug": "gabasawa"
+    },
+    "code": {
+      "id": "NG020013_gabasawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020013",
+      "level": 2,
+      "name": {
+        "local": "Gabasawa",
+        "en": "Gabasawa",
+        "slug": "gabasawa-ng020013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020013",
+        "level": 2,
+        "name": {
+          "local": "Gabasawa",
+          "en": "Gabasawa",
+          "slug": "gabasawa-ng020013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.137",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020013_garun-danga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garun Danga",
+      "en": "Garun Danga",
+      "slug": "garun-danga"
+    },
+    "code": {
+      "id": "NG020013_garun-danga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020013",
+      "level": 2,
+      "name": {
+        "local": "Gabasawa",
+        "en": "Gabasawa",
+        "slug": "gabasawa-ng020013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020013",
+        "level": 2,
+        "name": {
+          "local": "Gabasawa",
+          "en": "Gabasawa",
+          "slug": "gabasawa-ng020013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.137",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020013_joda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Joda",
+      "en": "Joda",
+      "slug": "joda"
+    },
+    "code": {
+      "id": "NG020013_joda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020013",
+      "level": 2,
+      "name": {
+        "local": "Gabasawa",
+        "en": "Gabasawa",
+        "slug": "gabasawa-ng020013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020013",
+        "level": 2,
+        "name": {
+          "local": "Gabasawa",
+          "en": "Gabasawa",
+          "slug": "gabasawa-ng020013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.137",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020013_karmami",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karmami",
+      "en": "Karmami",
+      "slug": "karmami"
+    },
+    "code": {
+      "id": "NG020013_karmami",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020013",
+      "level": 2,
+      "name": {
+        "local": "Gabasawa",
+        "en": "Gabasawa",
+        "slug": "gabasawa-ng020013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020013",
+        "level": 2,
+        "name": {
+          "local": "Gabasawa",
+          "en": "Gabasawa",
+          "slug": "gabasawa-ng020013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.137",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020013_mekiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mekiya",
+      "en": "Mekiya",
+      "slug": "mekiya"
+    },
+    "code": {
+      "id": "NG020013_mekiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020013",
+      "level": 2,
+      "name": {
+        "local": "Gabasawa",
+        "en": "Gabasawa",
+        "slug": "gabasawa-ng020013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020013",
+        "level": 2,
+        "name": {
+          "local": "Gabasawa",
+          "en": "Gabasawa",
+          "slug": "gabasawa-ng020013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.137",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020013_tarauni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tarauni",
+      "en": "Tarauni",
+      "slug": "tarauni"
+    },
+    "code": {
+      "id": "NG020013_tarauni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020013",
+      "level": 2,
+      "name": {
+        "local": "Gabasawa",
+        "en": "Gabasawa",
+        "slug": "gabasawa-ng020013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020013",
+        "level": 2,
+        "name": {
+          "local": "Gabasawa",
+          "en": "Gabasawa",
+          "slug": "gabasawa-ng020013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.137",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020013_yantar-arewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yantar Arewa",
+      "en": "Yantar Arewa",
+      "slug": "yantar-arewa"
+    },
+    "code": {
+      "id": "NG020013_yantar-arewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020013",
+      "level": 2,
+      "name": {
+        "local": "Gabasawa",
+        "en": "Gabasawa",
+        "slug": "gabasawa-ng020013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020013",
+        "level": 2,
+        "name": {
+          "local": "Gabasawa",
+          "en": "Gabasawa",
+          "slug": "gabasawa-ng020013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.137",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020013_yautar-kudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yautar Kudu",
+      "en": "Yautar Kudu",
+      "slug": "yautar-kudu"
+    },
+    "code": {
+      "id": "NG020013_yautar-kudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020013",
+      "level": 2,
+      "name": {
+        "local": "Gabasawa",
+        "en": "Gabasawa",
+        "slug": "gabasawa-ng020013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020013",
+        "level": 2,
+        "name": {
+          "local": "Gabasawa",
+          "en": "Gabasawa",
+          "slug": "gabasawa-ng020013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.137",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020013_yumbu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yumbu",
+      "en": "Yumbu",
+      "slug": "yumbu"
+    },
+    "code": {
+      "id": "NG020013_yumbu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020013",
+      "level": 2,
+      "name": {
+        "local": "Gabasawa",
+        "en": "Gabasawa",
+        "slug": "gabasawa-ng020013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020013",
+        "level": 2,
+        "name": {
+          "local": "Gabasawa",
+          "en": "Gabasawa",
+          "slug": "gabasawa-ng020013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.137",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020013_zakirai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zakirai",
+      "en": "Zakirai",
+      "slug": "zakirai"
+    },
+    "code": {
+      "id": "NG020013_zakirai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020013",
+      "level": 2,
+      "name": {
+        "local": "Gabasawa",
+        "en": "Gabasawa",
+        "slug": "gabasawa-ng020013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020013",
+        "level": 2,
+        "name": {
+          "local": "Gabasawa",
+          "en": "Gabasawa",
+          "slug": "gabasawa-ng020013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.137",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020013_zugachi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zugachi",
+      "en": "Zugachi",
+      "slug": "zugachi"
+    },
+    "code": {
+      "id": "NG020013_zugachi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020013",
+      "level": 2,
+      "name": {
+        "local": "Gabasawa",
+        "en": "Gabasawa",
+        "slug": "gabasawa-ng020013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020013",
+        "level": 2,
+        "name": {
+          "local": "Gabasawa",
+          "en": "Gabasawa",
+          "slug": "gabasawa-ng020013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.137",
+      "lon": "8.866"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG030009_ara-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ara I",
+      "en": "Ara I",
+      "slug": "ara-i"
+    },
+    "code": {
+      "id": "NG030009_ara-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030009",
+      "level": 2,
+      "name": {
+        "local": "Egbedore",
+        "en": "Egbedore",
+        "slug": "egbedore-ng030009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030009",
+        "level": 2,
+        "name": {
+          "local": "Egbedore",
+          "en": "Egbedore",
+          "slug": "egbedore-ng030009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "4.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030009_ara-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ara Ii",
+      "en": "Ara Ii",
+      "slug": "ara-ii"
+    },
+    "code": {
+      "id": "NG030009_ara-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030009",
+      "level": 2,
+      "name": {
+        "local": "Egbedore",
+        "en": "Egbedore",
+        "slug": "egbedore-ng030009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030009",
+        "level": 2,
+        "name": {
+          "local": "Egbedore",
+          "en": "Egbedore",
+          "slug": "egbedore-ng030009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "4.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030009_awoabudo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awo/abudo",
+      "en": "Awo/abudo",
+      "slug": "awoabudo"
+    },
+    "code": {
+      "id": "NG030009_awoabudo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030009",
+      "level": 2,
+      "name": {
+        "local": "Egbedore",
+        "en": "Egbedore",
+        "slug": "egbedore-ng030009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030009",
+        "level": 2,
+        "name": {
+          "local": "Egbedore",
+          "en": "Egbedore",
+          "slug": "egbedore-ng030009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "4.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030009_ido-osun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ido-osun",
+      "en": "Ido-osun",
+      "slug": "ido-osun"
+    },
+    "code": {
+      "id": "NG030009_ido-osun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030009",
+      "level": 2,
+      "name": {
+        "local": "Egbedore",
+        "en": "Egbedore",
+        "slug": "egbedore-ng030009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030009",
+        "level": 2,
+        "name": {
+          "local": "Egbedore",
+          "en": "Egbedore",
+          "slug": "egbedore-ng030009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "4.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030009_ikotun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikotun",
+      "en": "Ikotun",
+      "slug": "ikotun"
+    },
+    "code": {
+      "id": "NG030009_ikotun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030009",
+      "level": 2,
+      "name": {
+        "local": "Egbedore",
+        "en": "Egbedore",
+        "slug": "egbedore-ng030009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030009",
+        "level": 2,
+        "name": {
+          "local": "Egbedore",
+          "en": "Egbedore",
+          "slug": "egbedore-ng030009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "4.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030009_ira-gberi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ira Gberi I",
+      "en": "Ira Gberi I",
+      "slug": "ira-gberi-i"
+    },
+    "code": {
+      "id": "NG030009_ira-gberi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030009",
+      "level": 2,
+      "name": {
+        "local": "Egbedore",
+        "en": "Egbedore",
+        "slug": "egbedore-ng030009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030009",
+        "level": 2,
+        "name": {
+          "local": "Egbedore",
+          "en": "Egbedore",
+          "slug": "egbedore-ng030009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "4.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030009_ira-gberi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ira Gberi Ii",
+      "en": "Ira Gberi Ii",
+      "slug": "ira-gberi-ii"
+    },
+    "code": {
+      "id": "NG030009_ira-gberi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030009",
+      "level": 2,
+      "name": {
+        "local": "Egbedore",
+        "en": "Egbedore",
+        "slug": "egbedore-ng030009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030009",
+        "level": 2,
+        "name": {
+          "local": "Egbedore",
+          "en": "Egbedore",
+          "slug": "egbedore-ng030009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "4.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030009_iwoyeidooorigo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iwoye/idoo/origo",
+      "en": "Iwoye/idoo/origo",
+      "slug": "iwoyeidooorigo"
+    },
+    "code": {
+      "id": "NG030009_iwoyeidooorigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030009",
+      "level": 2,
+      "name": {
+        "local": "Egbedore",
+        "en": "Egbedore",
+        "slug": "egbedore-ng030009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030009",
+        "level": 2,
+        "name": {
+          "local": "Egbedore",
+          "en": "Egbedore",
+          "slug": "egbedore-ng030009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "4.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030009_ojoaro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojo/aro",
+      "en": "Ojo/aro",
+      "slug": "ojoaro"
+    },
+    "code": {
+      "id": "NG030009_ojoaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030009",
+      "level": 2,
+      "name": {
+        "local": "Egbedore",
+        "en": "Egbedore",
+        "slug": "egbedore-ng030009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030009",
+        "level": 2,
+        "name": {
+          "local": "Egbedore",
+          "en": "Egbedore",
+          "slug": "egbedore-ng030009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "4.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030009_okinniolorunsogoofatedo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okinni/olorunsogo/ofatedo",
+      "en": "Okinni/olorunsogo/ofatedo",
+      "slug": "okinniolorunsogoofatedo"
+    },
+    "code": {
+      "id": "NG030009_okinniolorunsogoofatedo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030009",
+      "level": 2,
+      "name": {
+        "local": "Egbedore",
+        "en": "Egbedore",
+        "slug": "egbedore-ng030009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030009",
+        "level": 2,
+        "name": {
+          "local": "Egbedore",
+          "en": "Egbedore",
+          "slug": "egbedore-ng030009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.783",
+      "lon": "4.436"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG009007_abayong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abayong",
+      "en": "Abayong",
+      "slug": "abayong"
+    },
+    "code": {
+      "id": "NG009007_abayong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009007",
+      "level": 2,
+      "name": {
+        "local": "Biase",
+        "en": "Biase",
+        "slug": "biase-ng009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009007",
+        "level": 2,
+        "name": {
+          "local": "Biase",
+          "en": "Biase",
+          "slug": "biase-ng009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "8.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009007_adim",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adim",
+      "en": "Adim",
+      "slug": "adim"
+    },
+    "code": {
+      "id": "NG009007_adim",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009007",
+      "level": 2,
+      "name": {
+        "local": "Biase",
+        "en": "Biase",
+        "slug": "biase-ng009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009007",
+        "level": 2,
+        "name": {
+          "local": "Biase",
+          "en": "Biase",
+          "slug": "biase-ng009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "8.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009007_agwaguneokurike",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agwagune/okurike",
+      "en": "Agwagune/okurike",
+      "slug": "agwaguneokurike"
+    },
+    "code": {
+      "id": "NG009007_agwaguneokurike",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009007",
+      "level": 2,
+      "name": {
+        "local": "Biase",
+        "en": "Biase",
+        "slug": "biase-ng009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009007",
+        "level": 2,
+        "name": {
+          "local": "Biase",
+          "en": "Biase",
+          "slug": "biase-ng009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "8.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009007_akpetabini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akpet/abini",
+      "en": "Akpet/abini",
+      "slug": "akpetabini"
+    },
+    "code": {
+      "id": "NG009007_akpetabini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009007",
+      "level": 2,
+      "name": {
+        "local": "Biase",
+        "en": "Biase",
+        "slug": "biase-ng009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009007",
+        "level": 2,
+        "name": {
+          "local": "Biase",
+          "en": "Biase",
+          "slug": "biase-ng009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "8.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009007_biakpan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Biakpan",
+      "en": "Biakpan",
+      "slug": "biakpan"
+    },
+    "code": {
+      "id": "NG009007_biakpan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009007",
+      "level": 2,
+      "name": {
+        "local": "Biase",
+        "en": "Biase",
+        "slug": "biase-ng009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009007",
+        "level": 2,
+        "name": {
+          "local": "Biase",
+          "en": "Biase",
+          "slug": "biase-ng009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "8.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009007_ehom",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ehom",
+      "en": "Ehom",
+      "slug": "ehom"
+    },
+    "code": {
+      "id": "NG009007_ehom",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009007",
+      "level": 2,
+      "name": {
+        "local": "Biase",
+        "en": "Biase",
+        "slug": "biase-ng009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009007",
+        "level": 2,
+        "name": {
+          "local": "Biase",
+          "en": "Biase",
+          "slug": "biase-ng009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "8.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009007_erei-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Erei North",
+      "en": "Erei North",
+      "slug": "erei-north"
+    },
+    "code": {
+      "id": "NG009007_erei-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009007",
+      "level": 2,
+      "name": {
+        "local": "Biase",
+        "en": "Biase",
+        "slug": "biase-ng009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009007",
+        "level": 2,
+        "name": {
+          "local": "Biase",
+          "en": "Biase",
+          "slug": "biase-ng009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "8.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009007_erei-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Erei South",
+      "en": "Erei South",
+      "slug": "erei-south"
+    },
+    "code": {
+      "id": "NG009007_erei-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009007",
+      "level": 2,
+      "name": {
+        "local": "Biase",
+        "en": "Biase",
+        "slug": "biase-ng009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009007",
+        "level": 2,
+        "name": {
+          "local": "Biase",
+          "en": "Biase",
+          "slug": "biase-ng009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "8.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009007_ikunetono",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikun/etono",
+      "en": "Ikun/etono",
+      "slug": "ikunetono"
+    },
+    "code": {
+      "id": "NG009007_ikunetono",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009007",
+      "level": 2,
+      "name": {
+        "local": "Biase",
+        "en": "Biase",
+        "slug": "biase-ng009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009007",
+        "level": 2,
+        "name": {
+          "local": "Biase",
+          "en": "Biase",
+          "slug": "biase-ng009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "8.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009007_umon-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umon North",
+      "en": "Umon North",
+      "slug": "umon-north"
+    },
+    "code": {
+      "id": "NG009007_umon-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009007",
+      "level": 2,
+      "name": {
+        "local": "Biase",
+        "en": "Biase",
+        "slug": "biase-ng009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009007",
+        "level": 2,
+        "name": {
+          "local": "Biase",
+          "en": "Biase",
+          "slug": "biase-ng009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "8.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009007_umon-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umon South",
+      "en": "Umon South",
+      "slug": "umon-south"
+    },
+    "code": {
+      "id": "NG009007_umon-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009007",
+      "level": 2,
+      "name": {
+        "local": "Biase",
+        "en": "Biase",
+        "slug": "biase-ng009007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009007",
+        "level": 2,
+        "name": {
+          "local": "Biase",
+          "en": "Biase",
+          "slug": "biase-ng009007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "8.052"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

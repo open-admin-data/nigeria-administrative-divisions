@@ -1,0 +1,47 @@
+{
+  "id": "NG018024",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Roni",
+    "en": "Roni",
+    "slug": "roni-ng018024"
+  },
+  "code": {
+    "id": "NG018024",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG018",
+    "level": 1,
+    "name": {
+      "local": "Jigawa",
+      "en": "Jigawa",
+      "slug": "jigawa-ng018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.572",
+    "lon": "8.382"
+  },
+  "metadata": {},
+  "source": {}
+}

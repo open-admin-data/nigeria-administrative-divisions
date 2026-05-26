@@ -1,0 +1,47 @@
+{
+  "id": "NG008011",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Gwoza",
+    "en": "Gwoza",
+    "slug": "gwoza-ng008011"
+  },
+  "code": {
+    "id": "NG008011",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG008",
+    "level": 1,
+    "name": {
+      "local": "Borno",
+      "en": "Borno",
+      "slug": "borno-ng008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG008",
+      "level": 1,
+      "name": {
+        "local": "Borno",
+        "en": "Borno",
+        "slug": "borno-ng008"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.177",
+    "lon": "13.632"
+  },
+  "metadata": {},
+  "source": {}
+}

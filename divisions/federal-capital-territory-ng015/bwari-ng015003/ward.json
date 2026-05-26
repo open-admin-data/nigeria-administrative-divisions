@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG015003_bwari-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bwari Central",
+      "en": "Bwari Central",
+      "slug": "bwari-central"
+    },
+    "code": {
+      "id": "NG015003_bwari-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015003",
+      "level": 2,
+      "name": {
+        "local": "Bwari",
+        "en": "Bwari",
+        "slug": "bwari-ng015003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015003",
+        "level": 2,
+        "name": {
+          "local": "Bwari",
+          "en": "Bwari",
+          "slug": "bwari-ng015003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.233",
+      "lon": "7.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015003_byazhin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Byazhin",
+      "en": "Byazhin",
+      "slug": "byazhin"
+    },
+    "code": {
+      "id": "NG015003_byazhin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015003",
+      "level": 2,
+      "name": {
+        "local": "Bwari",
+        "en": "Bwari",
+        "slug": "bwari-ng015003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015003",
+        "level": 2,
+        "name": {
+          "local": "Bwari",
+          "en": "Bwari",
+          "slug": "bwari-ng015003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.233",
+      "lon": "7.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015003_dutse-alhaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dutse Alhaji",
+      "en": "Dutse Alhaji",
+      "slug": "dutse-alhaji"
+    },
+    "code": {
+      "id": "NG015003_dutse-alhaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015003",
+      "level": 2,
+      "name": {
+        "local": "Bwari",
+        "en": "Bwari",
+        "slug": "bwari-ng015003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015003",
+        "level": 2,
+        "name": {
+          "local": "Bwari",
+          "en": "Bwari",
+          "slug": "bwari-ng015003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.233",
+      "lon": "7.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015003_igu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igu",
+      "en": "Igu",
+      "slug": "igu"
+    },
+    "code": {
+      "id": "NG015003_igu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015003",
+      "level": 2,
+      "name": {
+        "local": "Bwari",
+        "en": "Bwari",
+        "slug": "bwari-ng015003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015003",
+        "level": 2,
+        "name": {
+          "local": "Bwari",
+          "en": "Bwari",
+          "slug": "bwari-ng015003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.233",
+      "lon": "7.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015003_kawu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kawu",
+      "en": "Kawu",
+      "slug": "kawu"
+    },
+    "code": {
+      "id": "NG015003_kawu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015003",
+      "level": 2,
+      "name": {
+        "local": "Bwari",
+        "en": "Bwari",
+        "slug": "bwari-ng015003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015003",
+        "level": 2,
+        "name": {
+          "local": "Bwari",
+          "en": "Bwari",
+          "slug": "bwari-ng015003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.233",
+      "lon": "7.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015003_kubwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kubwa",
+      "en": "Kubwa",
+      "slug": "kubwa"
+    },
+    "code": {
+      "id": "NG015003_kubwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015003",
+      "level": 2,
+      "name": {
+        "local": "Bwari",
+        "en": "Bwari",
+        "slug": "bwari-ng015003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015003",
+        "level": 2,
+        "name": {
+          "local": "Bwari",
+          "en": "Bwari",
+          "slug": "bwari-ng015003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.233",
+      "lon": "7.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015003_kuduru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuduru",
+      "en": "Kuduru",
+      "slug": "kuduru"
+    },
+    "code": {
+      "id": "NG015003_kuduru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015003",
+      "level": 2,
+      "name": {
+        "local": "Bwari",
+        "en": "Bwari",
+        "slug": "bwari-ng015003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015003",
+        "level": 2,
+        "name": {
+          "local": "Bwari",
+          "en": "Bwari",
+          "slug": "bwari-ng015003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.233",
+      "lon": "7.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015003_shere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shere",
+      "en": "Shere",
+      "slug": "shere"
+    },
+    "code": {
+      "id": "NG015003_shere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015003",
+      "level": 2,
+      "name": {
+        "local": "Bwari",
+        "en": "Bwari",
+        "slug": "bwari-ng015003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015003",
+        "level": 2,
+        "name": {
+          "local": "Bwari",
+          "en": "Bwari",
+          "slug": "bwari-ng015003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.233",
+      "lon": "7.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015003_ushafa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ushafa",
+      "en": "Ushafa",
+      "slug": "ushafa"
+    },
+    "code": {
+      "id": "NG015003_ushafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015003",
+      "level": 2,
+      "name": {
+        "local": "Bwari",
+        "en": "Bwari",
+        "slug": "bwari-ng015003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015003",
+        "level": 2,
+        "name": {
+          "local": "Bwari",
+          "en": "Bwari",
+          "slug": "bwari-ng015003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.233",
+      "lon": "7.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015003_usuma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Usuma",
+      "en": "Usuma",
+      "slug": "usuma"
+    },
+    "code": {
+      "id": "NG015003_usuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015003",
+      "level": 2,
+      "name": {
+        "local": "Bwari",
+        "en": "Bwari",
+        "slug": "bwari-ng015003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015003",
+        "level": 2,
+        "name": {
+          "local": "Bwari",
+          "en": "Bwari",
+          "slug": "bwari-ng015003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.233",
+      "lon": "7.47"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

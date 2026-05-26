@@ -1,0 +1,30 @@
+{
+  "id": "NG019",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Kaduna",
+    "en": "Kaduna",
+    "slug": "kaduna-ng019"
+  },
+  "code": {
+    "id": "NG019",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 23,
+    "ward": 255
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.257",
+    "lon": "7.859"
+  },
+  "metadata": {},
+  "source": {}
+}

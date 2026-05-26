@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG025006_ajara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajara",
+      "en": "Ajara",
+      "slug": "ajara"
+    },
+    "code": {
+      "id": "NG025006_ajara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025006",
+      "level": 2,
+      "name": {
+        "local": "Badagry",
+        "en": "Badagry",
+        "slug": "badagry-ng025006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025006",
+        "level": 2,
+        "name": {
+          "local": "Badagry",
+          "en": "Badagry",
+          "slug": "badagry-ng025006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "2.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025006_ajido",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajido",
+      "en": "Ajido",
+      "slug": "ajido"
+    },
+    "code": {
+      "id": "NG025006_ajido",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025006",
+      "level": 2,
+      "name": {
+        "local": "Badagry",
+        "en": "Badagry",
+        "slug": "badagry-ng025006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025006",
+        "level": 2,
+        "name": {
+          "local": "Badagry",
+          "en": "Badagry",
+          "slug": "badagry-ng025006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "2.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025006_apa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Apa",
+      "en": "Apa",
+      "slug": "apa"
+    },
+    "code": {
+      "id": "NG025006_apa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025006",
+      "level": 2,
+      "name": {
+        "local": "Badagry",
+        "en": "Badagry",
+        "slug": "badagry-ng025006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025006",
+        "level": 2,
+        "name": {
+          "local": "Badagry",
+          "en": "Badagry",
+          "slug": "badagry-ng025006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "2.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025006_awhanjigoh",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awhanjigoh",
+      "en": "Awhanjigoh",
+      "slug": "awhanjigoh"
+    },
+    "code": {
+      "id": "NG025006_awhanjigoh",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025006",
+      "level": 2,
+      "name": {
+        "local": "Badagry",
+        "en": "Badagry",
+        "slug": "badagry-ng025006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025006",
+        "level": 2,
+        "name": {
+          "local": "Badagry",
+          "en": "Badagry",
+          "slug": "badagry-ng025006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "2.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025006_ibereko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibereko",
+      "en": "Ibereko",
+      "slug": "ibereko"
+    },
+    "code": {
+      "id": "NG025006_ibereko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025006",
+      "level": 2,
+      "name": {
+        "local": "Badagry",
+        "en": "Badagry",
+        "slug": "badagry-ng025006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025006",
+        "level": 2,
+        "name": {
+          "local": "Badagry",
+          "en": "Badagry",
+          "slug": "badagry-ng025006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "2.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025006_ikoga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikoga",
+      "en": "Ikoga",
+      "slug": "ikoga"
+    },
+    "code": {
+      "id": "NG025006_ikoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025006",
+      "level": 2,
+      "name": {
+        "local": "Badagry",
+        "en": "Badagry",
+        "slug": "badagry-ng025006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025006",
+        "level": 2,
+        "name": {
+          "local": "Badagry",
+          "en": "Badagry",
+          "slug": "badagry-ng025006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "2.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025006_ilogbo-araromi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilogbo-araromi",
+      "en": "Ilogbo-araromi",
+      "slug": "ilogbo-araromi"
+    },
+    "code": {
+      "id": "NG025006_ilogbo-araromi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025006",
+      "level": 2,
+      "name": {
+        "local": "Badagry",
+        "en": "Badagry",
+        "slug": "badagry-ng025006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025006",
+        "level": 2,
+        "name": {
+          "local": "Badagry",
+          "en": "Badagry",
+          "slug": "badagry-ng025006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "2.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025006_iworo-gbanko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iworo Gbanko",
+      "en": "Iworo Gbanko",
+      "slug": "iworo-gbanko"
+    },
+    "code": {
+      "id": "NG025006_iworo-gbanko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025006",
+      "level": 2,
+      "name": {
+        "local": "Badagry",
+        "en": "Badagry",
+        "slug": "badagry-ng025006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025006",
+        "level": 2,
+        "name": {
+          "local": "Badagry",
+          "en": "Badagry",
+          "slug": "badagry-ng025006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "2.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025006_iya-afin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iya-afin",
+      "en": "Iya-afin",
+      "slug": "iya-afin"
+    },
+    "code": {
+      "id": "NG025006_iya-afin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025006",
+      "level": 2,
+      "name": {
+        "local": "Badagry",
+        "en": "Badagry",
+        "slug": "badagry-ng025006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025006",
+        "level": 2,
+        "name": {
+          "local": "Badagry",
+          "en": "Badagry",
+          "slug": "badagry-ng025006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "2.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025006_keta-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Keta-east",
+      "en": "Keta-east",
+      "slug": "keta-east"
+    },
+    "code": {
+      "id": "NG025006_keta-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025006",
+      "level": 2,
+      "name": {
+        "local": "Badagry",
+        "en": "Badagry",
+        "slug": "badagry-ng025006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025006",
+        "level": 2,
+        "name": {
+          "local": "Badagry",
+          "en": "Badagry",
+          "slug": "badagry-ng025006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "2.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025006_posukoh",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Posukoh",
+      "en": "Posukoh",
+      "slug": "posukoh"
+    },
+    "code": {
+      "id": "NG025006_posukoh",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025006",
+      "level": 2,
+      "name": {
+        "local": "Badagry",
+        "en": "Badagry",
+        "slug": "badagry-ng025006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025006",
+        "level": 2,
+        "name": {
+          "local": "Badagry",
+          "en": "Badagry",
+          "slug": "badagry-ng025006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "2.97"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

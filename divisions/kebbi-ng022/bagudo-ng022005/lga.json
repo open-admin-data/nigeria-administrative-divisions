@@ -1,0 +1,47 @@
+{
+  "id": "NG022005",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Bagudo",
+    "en": "Bagudo",
+    "slug": "bagudo-ng022005"
+  },
+  "code": {
+    "id": "NG022005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG022",
+    "level": 1,
+    "name": {
+      "local": "Kebbi",
+      "en": "Kebbi",
+      "slug": "kebbi-ng022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG022",
+      "level": 1,
+      "name": {
+        "local": "Kebbi",
+        "en": "Kebbi",
+        "slug": "kebbi-ng022"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.315",
+    "lon": "3.853"
+  },
+  "metadata": {},
+  "source": {}
+}

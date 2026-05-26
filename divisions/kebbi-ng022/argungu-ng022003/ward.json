@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG022003_alwasagotomo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alwasa/gotomo",
+      "en": "Alwasa/gotomo",
+      "slug": "alwasagotomo"
+    },
+    "code": {
+      "id": "NG022003_alwasagotomo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022003",
+      "level": 2,
+      "name": {
+        "local": "Argungu",
+        "en": "Argungu",
+        "slug": "argungu-ng022003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022003",
+        "level": 2,
+        "name": {
+          "local": "Argungu",
+          "en": "Argungu",
+          "slug": "argungu-ng022003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022003_dikko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dikko",
+      "en": "Dikko",
+      "slug": "dikko"
+    },
+    "code": {
+      "id": "NG022003_dikko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022003",
+      "level": 2,
+      "name": {
+        "local": "Argungu",
+        "en": "Argungu",
+        "slug": "argungu-ng022003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022003",
+        "level": 2,
+        "name": {
+          "local": "Argungu",
+          "en": "Argungu",
+          "slug": "argungu-ng022003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022003_felande",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Felande",
+      "en": "Felande",
+      "slug": "felande"
+    },
+    "code": {
+      "id": "NG022003_felande",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022003",
+      "level": 2,
+      "name": {
+        "local": "Argungu",
+        "en": "Argungu",
+        "slug": "argungu-ng022003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022003",
+        "level": 2,
+        "name": {
+          "local": "Argungu",
+          "en": "Argungu",
+          "slug": "argungu-ng022003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022003_galadima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galadima",
+      "en": "Galadima",
+      "slug": "galadima"
+    },
+    "code": {
+      "id": "NG022003_galadima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022003",
+      "level": 2,
+      "name": {
+        "local": "Argungu",
+        "en": "Argungu",
+        "slug": "argungu-ng022003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022003",
+        "level": 2,
+        "name": {
+          "local": "Argungu",
+          "en": "Argungu",
+          "slug": "argungu-ng022003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022003_gulma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gulma",
+      "en": "Gulma",
+      "slug": "gulma"
+    },
+    "code": {
+      "id": "NG022003_gulma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022003",
+      "level": 2,
+      "name": {
+        "local": "Argungu",
+        "en": "Argungu",
+        "slug": "argungu-ng022003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022003",
+        "level": 2,
+        "name": {
+          "local": "Argungu",
+          "en": "Argungu",
+          "slug": "argungu-ng022003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022003_gwazangekisawau-gyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwazange/kisawa/u Gyaga",
+      "en": "Gwazange/kisawa/u Gyaga",
+      "slug": "gwazangekisawau-gyaga"
+    },
+    "code": {
+      "id": "NG022003_gwazangekisawau-gyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022003",
+      "level": 2,
+      "name": {
+        "local": "Argungu",
+        "en": "Argungu",
+        "slug": "argungu-ng022003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022003",
+        "level": 2,
+        "name": {
+          "local": "Argungu",
+          "en": "Argungu",
+          "slug": "argungu-ng022003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022003_kokani-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kokani North",
+      "en": "Kokani North",
+      "slug": "kokani-north"
+    },
+    "code": {
+      "id": "NG022003_kokani-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022003",
+      "level": 2,
+      "name": {
+        "local": "Argungu",
+        "en": "Argungu",
+        "slug": "argungu-ng022003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022003",
+        "level": 2,
+        "name": {
+          "local": "Argungu",
+          "en": "Argungu",
+          "slug": "argungu-ng022003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022003_kokani-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kokani South",
+      "en": "Kokani South",
+      "slug": "kokani-south"
+    },
+    "code": {
+      "id": "NG022003_kokani-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022003",
+      "level": 2,
+      "name": {
+        "local": "Argungu",
+        "en": "Argungu",
+        "slug": "argungu-ng022003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022003",
+        "level": 2,
+        "name": {
+          "local": "Argungu",
+          "en": "Argungu",
+          "slug": "argungu-ng022003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022003_lailaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lailaba",
+      "en": "Lailaba",
+      "slug": "lailaba"
+    },
+    "code": {
+      "id": "NG022003_lailaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022003",
+      "level": 2,
+      "name": {
+        "local": "Argungu",
+        "en": "Argungu",
+        "slug": "argungu-ng022003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022003",
+        "level": 2,
+        "name": {
+          "local": "Argungu",
+          "en": "Argungu",
+          "slug": "argungu-ng022003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022003_sauwakaurar-sani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sauwa/kaurar Sani",
+      "en": "Sauwa/kaurar Sani",
+      "slug": "sauwakaurar-sani"
+    },
+    "code": {
+      "id": "NG022003_sauwakaurar-sani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022003",
+      "level": 2,
+      "name": {
+        "local": "Argungu",
+        "en": "Argungu",
+        "slug": "argungu-ng022003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022003",
+        "level": 2,
+        "name": {
+          "local": "Argungu",
+          "en": "Argungu",
+          "slug": "argungu-ng022003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022003_tungar-zazzagawarumbukisarkawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tungar Zazzagawa/rumbuki/sarkawa",
+      "en": "Tungar Zazzagawa/rumbuki/sarkawa",
+      "slug": "tungar-zazzagawarumbukisarkawa"
+    },
+    "code": {
+      "id": "NG022003_tungar-zazzagawarumbukisarkawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022003",
+      "level": 2,
+      "name": {
+        "local": "Argungu",
+        "en": "Argungu",
+        "slug": "argungu-ng022003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022003",
+        "level": 2,
+        "name": {
+          "local": "Argungu",
+          "en": "Argungu",
+          "slug": "argungu-ng022003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "4.484"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

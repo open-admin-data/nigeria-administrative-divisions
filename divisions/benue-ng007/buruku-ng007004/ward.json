@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG007004_binev",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Binev",
+      "en": "Binev",
+      "slug": "binev"
+    },
+    "code": {
+      "id": "NG007004_binev",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007004_etulo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Etulo",
+      "en": "Etulo",
+      "slug": "etulo"
+    },
+    "code": {
+      "id": "NG007004_etulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007004_mbaade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbaade",
+      "en": "Mbaade",
+      "slug": "mbaade"
+    },
+    "code": {
+      "id": "NG007004_mbaade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007004_mbaakura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbaakura",
+      "en": "Mbaakura",
+      "slug": "mbaakura"
+    },
+    "code": {
+      "id": "NG007004_mbaakura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007004_mbaapen",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbaapen",
+      "en": "Mbaapen",
+      "slug": "mbaapen"
+    },
+    "code": {
+      "id": "NG007004_mbaapen",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007004_mbaatirkyaa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbaatirkyaa",
+      "en": "Mbaatirkyaa",
+      "slug": "mbaatirkyaa"
+    },
+    "code": {
+      "id": "NG007004_mbaatirkyaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007004_mbaazagee",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbaazagee",
+      "en": "Mbaazagee",
+      "slug": "mbaazagee"
+    },
+    "code": {
+      "id": "NG007004_mbaazagee",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007004_mbaikyongonyifon",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbaikyongo/nyifon",
+      "en": "Mbaikyongo/nyifon",
+      "slug": "mbaikyongonyifon"
+    },
+    "code": {
+      "id": "NG007004_mbaikyongonyifon",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007004_mbaityough",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbaityough",
+      "en": "Mbaityough",
+      "slug": "mbaityough"
+    },
+    "code": {
+      "id": "NG007004_mbaityough",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007004_mbakyaan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbakyaan",
+      "en": "Mbakyaan",
+      "slug": "mbakyaan"
+    },
+    "code": {
+      "id": "NG007004_mbakyaan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007004_mbaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbaya",
+      "en": "Mbaya",
+      "slug": "mbaya"
+    },
+    "code": {
+      "id": "NG007004_mbaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007004_mbayaka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbayaka",
+      "en": "Mbayaka",
+      "slug": "mbayaka"
+    },
+    "code": {
+      "id": "NG007004_mbayaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007004_shorov",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shorov",
+      "en": "Shorov",
+      "slug": "shorov"
+    },
+    "code": {
+      "id": "NG007004_shorov",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007004",
+      "level": 2,
+      "name": {
+        "local": "Buruku",
+        "en": "Buruku",
+        "slug": "buruku-ng007004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007004",
+        "level": 2,
+        "name": {
+          "local": "Buruku",
+          "en": "Buruku",
+          "slug": "buruku-ng007004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.386",
+      "lon": "9.272"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

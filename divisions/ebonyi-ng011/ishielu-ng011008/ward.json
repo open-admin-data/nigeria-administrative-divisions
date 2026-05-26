@@ -1,0 +1,866 @@
+[
+  {
+    "id": "NG011008_agba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agba",
+      "en": "Agba",
+      "slug": "agba"
+    },
+    "code": {
+      "id": "NG011008_agba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_amaezu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amaezu",
+      "en": "Amaezu",
+      "slug": "amaezu"
+    },
+    "code": {
+      "id": "NG011008_amaezu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_azuinyaba-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Azuinyaba \"a\"",
+      "en": "Azuinyaba \"a\"",
+      "slug": "azuinyaba-a"
+    },
+    "code": {
+      "id": "NG011008_azuinyaba-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_azuinyaba-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Azuinyaba \"b\"",
+      "en": "Azuinyaba \"b\"",
+      "slug": "azuinyaba-b"
+    },
+    "code": {
+      "id": "NG011008_azuinyaba-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_ezillo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ezillo I",
+      "en": "Ezillo I",
+      "slug": "ezillo-i"
+    },
+    "code": {
+      "id": "NG011008_ezillo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_ezillo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ezillo Ii",
+      "en": "Ezillo Ii",
+      "slug": "ezillo-ii"
+    },
+    "code": {
+      "id": "NG011008_ezillo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_ezzagu-i-ogboji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ezzagu I (ogboji)",
+      "en": "Ezzagu I (ogboji)",
+      "slug": "ezzagu-i-ogboji"
+    },
+    "code": {
+      "id": "NG011008_ezzagu-i-ogboji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_ezzagu-ii-nkomoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ezzagu Ii (nkomoro)",
+      "en": "Ezzagu Ii (nkomoro)",
+      "slug": "ezzagu-ii-nkomoro"
+    },
+    "code": {
+      "id": "NG011008_ezzagu-ii-nkomoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_iyonu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iyonu",
+      "en": "Iyonu",
+      "slug": "iyonu"
+    },
+    "code": {
+      "id": "NG011008_iyonu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_nkalagu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkalagu",
+      "en": "Nkalagu",
+      "slug": "nkalagu"
+    },
+    "code": {
+      "id": "NG011008_nkalagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_nkalaha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkalaha",
+      "en": "Nkalaha",
+      "slug": "nkalaha"
+    },
+    "code": {
+      "id": "NG011008_nkalaha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_ntezi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ntezi",
+      "en": "Ntezi",
+      "slug": "ntezi"
+    },
+    "code": {
+      "id": "NG011008_ntezi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_obeagu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obeagu",
+      "en": "Obeagu",
+      "slug": "obeagu"
+    },
+    "code": {
+      "id": "NG011008_obeagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_ohofia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ohofia",
+      "en": "Ohofia",
+      "slug": "ohofia"
+    },
+    "code": {
+      "id": "NG011008_ohofia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_okpoto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpoto",
+      "en": "Okpoto",
+      "slug": "okpoto"
+    },
+    "code": {
+      "id": "NG011008_okpoto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011008_umuhuali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuhuali",
+      "en": "Umuhuali",
+      "slug": "umuhuali"
+    },
+    "code": {
+      "id": "NG011008_umuhuali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011008",
+      "level": 2,
+      "name": {
+        "local": "Ishielu",
+        "en": "Ishielu",
+        "slug": "ishielu-ng011008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011008",
+        "level": 2,
+        "name": {
+          "local": "Ishielu",
+          "en": "Ishielu",
+          "slug": "ishielu-ng011008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.41",
+      "lon": "7.844"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

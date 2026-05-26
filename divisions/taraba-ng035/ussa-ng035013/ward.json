@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG035013_bika",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bika",
+      "en": "Bika",
+      "slug": "bika"
+    },
+    "code": {
+      "id": "NG035013_bika",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035013",
+      "level": 2,
+      "name": {
+        "local": "Ussa",
+        "en": "Ussa",
+        "slug": "ussa-ng035013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035013",
+        "level": 2,
+        "name": {
+          "local": "Ussa",
+          "en": "Ussa",
+          "slug": "ussa-ng035013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.104",
+      "lon": "10.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035013_fikyu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fikyu",
+      "en": "Fikyu",
+      "slug": "fikyu"
+    },
+    "code": {
+      "id": "NG035013_fikyu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035013",
+      "level": 2,
+      "name": {
+        "local": "Ussa",
+        "en": "Ussa",
+        "slug": "ussa-ng035013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035013",
+        "level": 2,
+        "name": {
+          "local": "Ussa",
+          "en": "Ussa",
+          "slug": "ussa-ng035013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.104",
+      "lon": "10.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035013_jenuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jenuwa",
+      "en": "Jenuwa",
+      "slug": "jenuwa"
+    },
+    "code": {
+      "id": "NG035013_jenuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035013",
+      "level": 2,
+      "name": {
+        "local": "Ussa",
+        "en": "Ussa",
+        "slug": "ussa-ng035013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035013",
+        "level": 2,
+        "name": {
+          "local": "Ussa",
+          "en": "Ussa",
+          "slug": "ussa-ng035013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.104",
+      "lon": "10.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035013_kpambo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kpambo",
+      "en": "Kpambo",
+      "slug": "kpambo"
+    },
+    "code": {
+      "id": "NG035013_kpambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035013",
+      "level": 2,
+      "name": {
+        "local": "Ussa",
+        "en": "Ussa",
+        "slug": "ussa-ng035013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035013",
+        "level": 2,
+        "name": {
+          "local": "Ussa",
+          "en": "Ussa",
+          "slug": "ussa-ng035013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.104",
+      "lon": "10.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035013_kpambo-puri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kpambo Puri",
+      "en": "Kpambo Puri",
+      "slug": "kpambo-puri"
+    },
+    "code": {
+      "id": "NG035013_kpambo-puri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035013",
+      "level": 2,
+      "name": {
+        "local": "Ussa",
+        "en": "Ussa",
+        "slug": "ussa-ng035013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035013",
+        "level": 2,
+        "name": {
+          "local": "Ussa",
+          "en": "Ussa",
+          "slug": "ussa-ng035013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.104",
+      "lon": "10.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035013_kwambai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwambai",
+      "en": "Kwambai",
+      "slug": "kwambai"
+    },
+    "code": {
+      "id": "NG035013_kwambai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035013",
+      "level": 2,
+      "name": {
+        "local": "Ussa",
+        "en": "Ussa",
+        "slug": "ussa-ng035013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035013",
+        "level": 2,
+        "name": {
+          "local": "Ussa",
+          "en": "Ussa",
+          "slug": "ussa-ng035013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.104",
+      "lon": "10.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035013_kwesati",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwesati",
+      "en": "Kwesati",
+      "slug": "kwesati"
+    },
+    "code": {
+      "id": "NG035013_kwesati",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035013",
+      "level": 2,
+      "name": {
+        "local": "Ussa",
+        "en": "Ussa",
+        "slug": "ussa-ng035013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035013",
+        "level": 2,
+        "name": {
+          "local": "Ussa",
+          "en": "Ussa",
+          "slug": "ussa-ng035013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.104",
+      "lon": "10.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035013_lissam-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lissam I",
+      "en": "Lissam I",
+      "slug": "lissam-i"
+    },
+    "code": {
+      "id": "NG035013_lissam-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035013",
+      "level": 2,
+      "name": {
+        "local": "Ussa",
+        "en": "Ussa",
+        "slug": "ussa-ng035013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035013",
+        "level": 2,
+        "name": {
+          "local": "Ussa",
+          "en": "Ussa",
+          "slug": "ussa-ng035013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.104",
+      "lon": "10.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035013_lissam-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lissam Ii",
+      "en": "Lissam Ii",
+      "slug": "lissam-ii"
+    },
+    "code": {
+      "id": "NG035013_lissam-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035013",
+      "level": 2,
+      "name": {
+        "local": "Ussa",
+        "en": "Ussa",
+        "slug": "ussa-ng035013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035013",
+        "level": 2,
+        "name": {
+          "local": "Ussa",
+          "en": "Ussa",
+          "slug": "ussa-ng035013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.104",
+      "lon": "10.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035013_lumbu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lumbu",
+      "en": "Lumbu",
+      "slug": "lumbu"
+    },
+    "code": {
+      "id": "NG035013_lumbu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035013",
+      "level": 2,
+      "name": {
+        "local": "Ussa",
+        "en": "Ussa",
+        "slug": "ussa-ng035013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035013",
+        "level": 2,
+        "name": {
+          "local": "Ussa",
+          "en": "Ussa",
+          "slug": "ussa-ng035013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.104",
+      "lon": "10.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035013_rufu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rufu",
+      "en": "Rufu",
+      "slug": "rufu"
+    },
+    "code": {
+      "id": "NG035013_rufu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035013",
+      "level": 2,
+      "name": {
+        "local": "Ussa",
+        "en": "Ussa",
+        "slug": "ussa-ng035013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035013",
+        "level": 2,
+        "name": {
+          "local": "Ussa",
+          "en": "Ussa",
+          "slug": "ussa-ng035013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.104",
+      "lon": "10.054"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

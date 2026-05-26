@@ -1,0 +1,30 @@
+{
+  "id": "NG021",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Katsina",
+    "en": "Katsina",
+    "slug": "katsina-ng021"
+  },
+  "code": {
+    "id": "NG021",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 34,
+    "ward": 361
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.236",
+    "lon": "7.5"
+  },
+  "metadata": {},
+  "source": {}
+}

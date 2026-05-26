@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG027002_adehe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adehe",
+      "en": "Adehe",
+      "slug": "adehe"
+    },
+    "code": {
+      "id": "NG027002_adehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027002",
+      "level": 2,
+      "name": {
+        "local": "Agwara",
+        "en": "Agwara",
+        "slug": "agwara-ng027002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027002",
+        "level": 2,
+        "name": {
+          "local": "Agwara",
+          "en": "Agwara",
+          "slug": "agwara-ng027002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.733",
+      "lon": "4.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027002_agwata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agwata",
+      "en": "Agwata",
+      "slug": "agwata"
+    },
+    "code": {
+      "id": "NG027002_agwata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027002",
+      "level": 2,
+      "name": {
+        "local": "Agwara",
+        "en": "Agwara",
+        "slug": "agwara-ng027002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027002",
+        "level": 2,
+        "name": {
+          "local": "Agwara",
+          "en": "Agwara",
+          "slug": "agwara-ng027002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.733",
+      "lon": "4.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027002_busuru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Busuru",
+      "en": "Busuru",
+      "slug": "busuru"
+    },
+    "code": {
+      "id": "NG027002_busuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027002",
+      "level": 2,
+      "name": {
+        "local": "Agwara",
+        "en": "Agwara",
+        "slug": "agwara-ng027002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027002",
+        "level": 2,
+        "name": {
+          "local": "Agwara",
+          "en": "Agwara",
+          "slug": "agwara-ng027002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.733",
+      "lon": "4.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027002_gallah",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gallah",
+      "en": "Gallah",
+      "slug": "gallah"
+    },
+    "code": {
+      "id": "NG027002_gallah",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027002",
+      "level": 2,
+      "name": {
+        "local": "Agwara",
+        "en": "Agwara",
+        "slug": "agwara-ng027002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027002",
+        "level": 2,
+        "name": {
+          "local": "Agwara",
+          "en": "Agwara",
+          "slug": "agwara-ng027002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.733",
+      "lon": "4.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027002_kashini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kashini",
+      "en": "Kashini",
+      "slug": "kashini"
+    },
+    "code": {
+      "id": "NG027002_kashini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027002",
+      "level": 2,
+      "name": {
+        "local": "Agwara",
+        "en": "Agwara",
+        "slug": "agwara-ng027002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027002",
+        "level": 2,
+        "name": {
+          "local": "Agwara",
+          "en": "Agwara",
+          "slug": "agwara-ng027002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.733",
+      "lon": "4.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027002_kokoli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kokoli",
+      "en": "Kokoli",
+      "slug": "kokoli"
+    },
+    "code": {
+      "id": "NG027002_kokoli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027002",
+      "level": 2,
+      "name": {
+        "local": "Agwara",
+        "en": "Agwara",
+        "slug": "agwara-ng027002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027002",
+        "level": 2,
+        "name": {
+          "local": "Agwara",
+          "en": "Agwara",
+          "slug": "agwara-ng027002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.733",
+      "lon": "4.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027002_mago",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mago",
+      "en": "Mago",
+      "slug": "mago"
+    },
+    "code": {
+      "id": "NG027002_mago",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027002",
+      "level": 2,
+      "name": {
+        "local": "Agwara",
+        "en": "Agwara",
+        "slug": "agwara-ng027002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027002",
+        "level": 2,
+        "name": {
+          "local": "Agwara",
+          "en": "Agwara",
+          "slug": "agwara-ng027002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.733",
+      "lon": "4.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027002_papiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Papiri",
+      "en": "Papiri",
+      "slug": "papiri"
+    },
+    "code": {
+      "id": "NG027002_papiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027002",
+      "level": 2,
+      "name": {
+        "local": "Agwara",
+        "en": "Agwara",
+        "slug": "agwara-ng027002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027002",
+        "level": 2,
+        "name": {
+          "local": "Agwara",
+          "en": "Agwara",
+          "slug": "agwara-ng027002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.733",
+      "lon": "4.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027002_rofia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rofia",
+      "en": "Rofia",
+      "slug": "rofia"
+    },
+    "code": {
+      "id": "NG027002_rofia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027002",
+      "level": 2,
+      "name": {
+        "local": "Agwara",
+        "en": "Agwara",
+        "slug": "agwara-ng027002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027002",
+        "level": 2,
+        "name": {
+          "local": "Agwara",
+          "en": "Agwara",
+          "slug": "agwara-ng027002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.733",
+      "lon": "4.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027002_suteku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Suteku",
+      "en": "Suteku",
+      "slug": "suteku"
+    },
+    "code": {
+      "id": "NG027002_suteku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027002",
+      "level": 2,
+      "name": {
+        "local": "Agwara",
+        "en": "Agwara",
+        "slug": "agwara-ng027002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027002",
+        "level": 2,
+        "name": {
+          "local": "Agwara",
+          "en": "Agwara",
+          "slug": "agwara-ng027002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.733",
+      "lon": "4.539"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

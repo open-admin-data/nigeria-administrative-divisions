@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG006001_brass-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Brass 1",
+      "en": "Brass 1",
+      "slug": "brass-1"
+    },
+    "code": {
+      "id": "NG006001_brass-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006001",
+      "level": 2,
+      "name": {
+        "local": "Brass",
+        "en": "Brass",
+        "slug": "brass-ng006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006001",
+        "level": 2,
+        "name": {
+          "local": "Brass",
+          "en": "Brass",
+          "slug": "brass-ng006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.417",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006001_brass-ward-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Brass Ward Ii",
+      "en": "Brass Ward Ii",
+      "slug": "brass-ward-ii"
+    },
+    "code": {
+      "id": "NG006001_brass-ward-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006001",
+      "level": 2,
+      "name": {
+        "local": "Brass",
+        "en": "Brass",
+        "slug": "brass-ng006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006001",
+        "level": 2,
+        "name": {
+          "local": "Brass",
+          "en": "Brass",
+          "slug": "brass-ng006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.417",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006001_cape-farmosa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Cape Farmosa",
+      "en": "Cape Farmosa",
+      "slug": "cape-farmosa"
+    },
+    "code": {
+      "id": "NG006001_cape-farmosa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006001",
+      "level": 2,
+      "name": {
+        "local": "Brass",
+        "en": "Brass",
+        "slug": "brass-ng006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006001",
+        "level": 2,
+        "name": {
+          "local": "Brass",
+          "en": "Brass",
+          "slug": "brass-ng006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.417",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006001_ewoamafantuo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ewoama/fantuo",
+      "en": "Ewoama/fantuo",
+      "slug": "ewoamafantuo"
+    },
+    "code": {
+      "id": "NG006001_ewoamafantuo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006001",
+      "level": 2,
+      "name": {
+        "local": "Brass",
+        "en": "Brass",
+        "slug": "brass-ng006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006001",
+        "level": 2,
+        "name": {
+          "local": "Brass",
+          "en": "Brass",
+          "slug": "brass-ng006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.417",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006001_kongho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kongho",
+      "en": "Kongho",
+      "slug": "kongho"
+    },
+    "code": {
+      "id": "NG006001_kongho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006001",
+      "level": 2,
+      "name": {
+        "local": "Brass",
+        "en": "Brass",
+        "slug": "brass-ng006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006001",
+        "level": 2,
+        "name": {
+          "local": "Brass",
+          "en": "Brass",
+          "slug": "brass-ng006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.417",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006001_minibie",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Minibie",
+      "en": "Minibie",
+      "slug": "minibie"
+    },
+    "code": {
+      "id": "NG006001_minibie",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006001",
+      "level": 2,
+      "name": {
+        "local": "Brass",
+        "en": "Brass",
+        "slug": "brass-ng006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006001",
+        "level": 2,
+        "name": {
+          "local": "Brass",
+          "en": "Brass",
+          "slug": "brass-ng006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.417",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006001_odiomadiema",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odioma/diema",
+      "en": "Odioma/diema",
+      "slug": "odiomadiema"
+    },
+    "code": {
+      "id": "NG006001_odiomadiema",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006001",
+      "level": 2,
+      "name": {
+        "local": "Brass",
+        "en": "Brass",
+        "slug": "brass-ng006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006001",
+        "level": 2,
+        "name": {
+          "local": "Brass",
+          "en": "Brass",
+          "slug": "brass-ng006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.417",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006001_oginibiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oginibiri",
+      "en": "Oginibiri",
+      "slug": "oginibiri"
+    },
+    "code": {
+      "id": "NG006001_oginibiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006001",
+      "level": 2,
+      "name": {
+        "local": "Brass",
+        "en": "Brass",
+        "slug": "brass-ng006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006001",
+        "level": 2,
+        "name": {
+          "local": "Brass",
+          "en": "Brass",
+          "slug": "brass-ng006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.417",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006001_okpoama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpoama",
+      "en": "Okpoama",
+      "slug": "okpoama"
+    },
+    "code": {
+      "id": "NG006001_okpoama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006001",
+      "level": 2,
+      "name": {
+        "local": "Brass",
+        "en": "Brass",
+        "slug": "brass-ng006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006001",
+        "level": 2,
+        "name": {
+          "local": "Brass",
+          "en": "Brass",
+          "slug": "brass-ng006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.417",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006001_sangana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sangana",
+      "en": "Sangana",
+      "slug": "sangana"
+    },
+    "code": {
+      "id": "NG006001_sangana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006001",
+      "level": 2,
+      "name": {
+        "local": "Brass",
+        "en": "Brass",
+        "slug": "brass-ng006001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006001",
+        "level": 2,
+        "name": {
+          "local": "Brass",
+          "en": "Brass",
+          "slug": "brass-ng006001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.417",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

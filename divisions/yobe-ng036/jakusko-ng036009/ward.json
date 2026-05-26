@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG036009_buduwa-saminaka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buduwa / Saminaka",
+      "en": "Buduwa / Saminaka",
+      "slug": "buduwa-saminaka"
+    },
+    "code": {
+      "id": "NG036009_buduwa-saminaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036009",
+      "level": 2,
+      "name": {
+        "local": "Jakusko",
+        "en": "Jakusko",
+        "slug": "jakusko-ng036009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036009",
+        "level": 2,
+        "name": {
+          "local": "Jakusko",
+          "en": "Jakusko",
+          "slug": "jakusko-ng036009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.197",
+      "lon": "10.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036009_dumbari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dumbari",
+      "en": "Dumbari",
+      "slug": "dumbari"
+    },
+    "code": {
+      "id": "NG036009_dumbari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036009",
+      "level": 2,
+      "name": {
+        "local": "Jakusko",
+        "en": "Jakusko",
+        "slug": "jakusko-ng036009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036009",
+        "level": 2,
+        "name": {
+          "local": "Jakusko",
+          "en": "Jakusko",
+          "slug": "jakusko-ng036009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.523",
+      "lon": "10.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036009_gidgid-bayam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gidgid / Bayam",
+      "en": "Gidgid / Bayam",
+      "slug": "gidgid-bayam"
+    },
+    "code": {
+      "id": "NG036009_gidgid-bayam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036009",
+      "level": 2,
+      "name": {
+        "local": "Jakusko",
+        "en": "Jakusko",
+        "slug": "jakusko-ng036009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036009",
+        "level": 2,
+        "name": {
+          "local": "Jakusko",
+          "en": "Jakusko",
+          "slug": "jakusko-ng036009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.505",
+      "lon": "10.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036009_gogaram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gogaram",
+      "en": "Gogaram",
+      "slug": "gogaram"
+    },
+    "code": {
+      "id": "NG036009_gogaram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036009",
+      "level": 2,
+      "name": {
+        "local": "Jakusko",
+        "en": "Jakusko",
+        "slug": "jakusko-ng036009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036009",
+        "level": 2,
+        "name": {
+          "local": "Jakusko",
+          "en": "Jakusko",
+          "slug": "jakusko-ng036009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.371",
+      "lon": "11.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036009_jaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jaba",
+      "en": "Jaba",
+      "slug": "jaba"
+    },
+    "code": {
+      "id": "NG036009_jaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036009",
+      "level": 2,
+      "name": {
+        "local": "Jakusko",
+        "en": "Jakusko",
+        "slug": "jakusko-ng036009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036009",
+        "level": 2,
+        "name": {
+          "local": "Jakusko",
+          "en": "Jakusko",
+          "slug": "jakusko-ng036009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.408",
+      "lon": "11.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036009_jakusko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jakusko",
+      "en": "Jakusko",
+      "slug": "jakusko"
+    },
+    "code": {
+      "id": "NG036009_jakusko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036009",
+      "level": 2,
+      "name": {
+        "local": "Jakusko",
+        "en": "Jakusko",
+        "slug": "jakusko-ng036009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036009",
+        "level": 2,
+        "name": {
+          "local": "Jakusko",
+          "en": "Jakusko",
+          "slug": "jakusko-ng036009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.344",
+      "lon": "10.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036009_jawurkatamma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jawur/katamma",
+      "en": "Jawur/katamma",
+      "slug": "jawurkatamma"
+    },
+    "code": {
+      "id": "NG036009_jawurkatamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036009",
+      "level": 2,
+      "name": {
+        "local": "Jakusko",
+        "en": "Jakusko",
+        "slug": "jakusko-ng036009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036009",
+        "level": 2,
+        "name": {
+          "local": "Jakusko",
+          "en": "Jakusko",
+          "slug": "jakusko-ng036009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "10.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036009_lafiya-loi-loi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lafiya Loi-loi",
+      "en": "Lafiya Loi-loi",
+      "slug": "lafiya-loi-loi"
+    },
+    "code": {
+      "id": "NG036009_lafiya-loi-loi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036009",
+      "level": 2,
+      "name": {
+        "local": "Jakusko",
+        "en": "Jakusko",
+        "slug": "jakusko-ng036009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036009",
+        "level": 2,
+        "name": {
+          "local": "Jakusko",
+          "en": "Jakusko",
+          "slug": "jakusko-ng036009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.156",
+      "lon": "10.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036009_muguram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Muguram",
+      "en": "Muguram",
+      "slug": "muguram"
+    },
+    "code": {
+      "id": "NG036009_muguram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036009",
+      "level": 2,
+      "name": {
+        "local": "Jakusko",
+        "en": "Jakusko",
+        "slug": "jakusko-ng036009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036009",
+        "level": 2,
+        "name": {
+          "local": "Jakusko",
+          "en": "Jakusko",
+          "slug": "jakusko-ng036009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.294",
+      "lon": "11.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036009_zabudum-dachia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zabudum / Dachia",
+      "en": "Zabudum / Dachia",
+      "slug": "zabudum-dachia"
+    },
+    "code": {
+      "id": "NG036009_zabudum-dachia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036009",
+      "level": 2,
+      "name": {
+        "local": "Jakusko",
+        "en": "Jakusko",
+        "slug": "jakusko-ng036009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036009",
+        "level": 2,
+        "name": {
+          "local": "Jakusko",
+          "en": "Jakusko",
+          "slug": "jakusko-ng036009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.731",
+      "lon": "10.804"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

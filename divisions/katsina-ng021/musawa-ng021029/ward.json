@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021029_dangani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dangani",
+      "en": "Dangani",
+      "slug": "dangani"
+    },
+    "code": {
+      "id": "NG021029_dangani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021029",
+      "level": 2,
+      "name": {
+        "local": "Musawa",
+        "en": "Musawa",
+        "slug": "musawa-ng021029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021029",
+        "level": 2,
+        "name": {
+          "local": "Musawa",
+          "en": "Musawa",
+          "slug": "musawa-ng021029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.106",
+      "lon": "7.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021029_danjankukarachi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danjanku/karachi",
+      "en": "Danjanku/karachi",
+      "slug": "danjankukarachi"
+    },
+    "code": {
+      "id": "NG021029_danjankukarachi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021029",
+      "level": 2,
+      "name": {
+        "local": "Musawa",
+        "en": "Musawa",
+        "slug": "musawa-ng021029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021029",
+        "level": 2,
+        "name": {
+          "local": "Musawa",
+          "en": "Musawa",
+          "slug": "musawa-ng021029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.106",
+      "lon": "7.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021029_garu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garu",
+      "en": "Garu",
+      "slug": "garu"
+    },
+    "code": {
+      "id": "NG021029_garu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021029",
+      "level": 2,
+      "name": {
+        "local": "Musawa",
+        "en": "Musawa",
+        "slug": "musawa-ng021029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021029",
+        "level": 2,
+        "name": {
+          "local": "Musawa",
+          "en": "Musawa",
+          "slug": "musawa-ng021029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.106",
+      "lon": "7.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021029_gingin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gingin",
+      "en": "Gingin",
+      "slug": "gingin"
+    },
+    "code": {
+      "id": "NG021029_gingin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021029",
+      "level": 2,
+      "name": {
+        "local": "Musawa",
+        "en": "Musawa",
+        "slug": "musawa-ng021029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021029",
+        "level": 2,
+        "name": {
+          "local": "Musawa",
+          "en": "Musawa",
+          "slug": "musawa-ng021029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.106",
+      "lon": "7.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021029_jikamshi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jikamshi",
+      "en": "Jikamshi",
+      "slug": "jikamshi"
+    },
+    "code": {
+      "id": "NG021029_jikamshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021029",
+      "level": 2,
+      "name": {
+        "local": "Musawa",
+        "en": "Musawa",
+        "slug": "musawa-ng021029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021029",
+        "level": 2,
+        "name": {
+          "local": "Musawa",
+          "en": "Musawa",
+          "slug": "musawa-ng021029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.106",
+      "lon": "7.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021029_kira",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kira",
+      "en": "Kira",
+      "slug": "kira"
+    },
+    "code": {
+      "id": "NG021029_kira",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021029",
+      "level": 2,
+      "name": {
+        "local": "Musawa",
+        "en": "Musawa",
+        "slug": "musawa-ng021029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021029",
+        "level": 2,
+        "name": {
+          "local": "Musawa",
+          "en": "Musawa",
+          "slug": "musawa-ng021029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.106",
+      "lon": "7.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021029_kurkujan-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurkujan 'a'",
+      "en": "Kurkujan 'a'",
+      "slug": "kurkujan-a"
+    },
+    "code": {
+      "id": "NG021029_kurkujan-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021029",
+      "level": 2,
+      "name": {
+        "local": "Musawa",
+        "en": "Musawa",
+        "slug": "musawa-ng021029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021029",
+        "level": 2,
+        "name": {
+          "local": "Musawa",
+          "en": "Musawa",
+          "slug": "musawa-ng021029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.106",
+      "lon": "7.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021029_kurkujan-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurkujan 'b'",
+      "en": "Kurkujan 'b'",
+      "slug": "kurkujan-b"
+    },
+    "code": {
+      "id": "NG021029_kurkujan-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021029",
+      "level": 2,
+      "name": {
+        "local": "Musawa",
+        "en": "Musawa",
+        "slug": "musawa-ng021029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021029",
+        "level": 2,
+        "name": {
+          "local": "Musawa",
+          "en": "Musawa",
+          "slug": "musawa-ng021029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.106",
+      "lon": "7.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021029_musawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Musawa",
+      "en": "Musawa",
+      "slug": "musawa"
+    },
+    "code": {
+      "id": "NG021029_musawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021029",
+      "level": 2,
+      "name": {
+        "local": "Musawa",
+        "en": "Musawa",
+        "slug": "musawa-ng021029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021029",
+        "level": 2,
+        "name": {
+          "local": "Musawa",
+          "en": "Musawa",
+          "slug": "musawa-ng021029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.106",
+      "lon": "7.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021029_tuge",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tuge",
+      "en": "Tuge",
+      "slug": "tuge"
+    },
+    "code": {
+      "id": "NG021029_tuge",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021029",
+      "level": 2,
+      "name": {
+        "local": "Musawa",
+        "en": "Musawa",
+        "slug": "musawa-ng021029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021029",
+        "level": 2,
+        "name": {
+          "local": "Musawa",
+          "en": "Musawa",
+          "slug": "musawa-ng021029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.106",
+      "lon": "7.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021029_yaradautabanni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yaradau/tabanni",
+      "en": "Yaradau/tabanni",
+      "slug": "yaradautabanni"
+    },
+    "code": {
+      "id": "NG021029_yaradautabanni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021029",
+      "level": 2,
+      "name": {
+        "local": "Musawa",
+        "en": "Musawa",
+        "slug": "musawa-ng021029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021029",
+        "level": 2,
+        "name": {
+          "local": "Musawa",
+          "en": "Musawa",
+          "slug": "musawa-ng021029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.106",
+      "lon": "7.678"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

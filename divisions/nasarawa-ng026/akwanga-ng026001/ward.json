@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG026001_agyaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agyaga",
+      "en": "Agyaga",
+      "slug": "agyaga"
+    },
+    "code": {
+      "id": "NG026001_agyaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026001",
+      "level": 2,
+      "name": {
+        "local": "Akwanga",
+        "en": "Akwanga",
+        "slug": "akwanga-ng026001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026001",
+        "level": 2,
+        "name": {
+          "local": "Akwanga",
+          "en": "Akwanga",
+          "slug": "akwanga-ng026001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "8.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026001_akwanga-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akwanga East",
+      "en": "Akwanga East",
+      "slug": "akwanga-east"
+    },
+    "code": {
+      "id": "NG026001_akwanga-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026001",
+      "level": 2,
+      "name": {
+        "local": "Akwanga",
+        "en": "Akwanga",
+        "slug": "akwanga-ng026001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026001",
+        "level": 2,
+        "name": {
+          "local": "Akwanga",
+          "en": "Akwanga",
+          "slug": "akwanga-ng026001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "8.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026001_akwanga-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akwanga West",
+      "en": "Akwanga West",
+      "slug": "akwanga-west"
+    },
+    "code": {
+      "id": "NG026001_akwanga-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026001",
+      "level": 2,
+      "name": {
+        "local": "Akwanga",
+        "en": "Akwanga",
+        "slug": "akwanga-ng026001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026001",
+        "level": 2,
+        "name": {
+          "local": "Akwanga",
+          "en": "Akwanga",
+          "slug": "akwanga-ng026001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "8.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026001_ancho-nighaan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ancho Nighaan",
+      "en": "Ancho Nighaan",
+      "slug": "ancho-nighaan"
+    },
+    "code": {
+      "id": "NG026001_ancho-nighaan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026001",
+      "level": 2,
+      "name": {
+        "local": "Akwanga",
+        "en": "Akwanga",
+        "slug": "akwanga-ng026001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026001",
+        "level": 2,
+        "name": {
+          "local": "Akwanga",
+          "en": "Akwanga",
+          "slug": "akwanga-ng026001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "8.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026001_anchobaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Anchobaba",
+      "en": "Anchobaba",
+      "slug": "anchobaba"
+    },
+    "code": {
+      "id": "NG026001_anchobaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026001",
+      "level": 2,
+      "name": {
+        "local": "Akwanga",
+        "en": "Akwanga",
+        "slug": "akwanga-ng026001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026001",
+        "level": 2,
+        "name": {
+          "local": "Akwanga",
+          "en": "Akwanga",
+          "slug": "akwanga-ng026001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "8.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026001_andaha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Andaha",
+      "en": "Andaha",
+      "slug": "andaha"
+    },
+    "code": {
+      "id": "NG026001_andaha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026001",
+      "level": 2,
+      "name": {
+        "local": "Akwanga",
+        "en": "Akwanga",
+        "slug": "akwanga-ng026001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026001",
+        "level": 2,
+        "name": {
+          "local": "Akwanga",
+          "en": "Akwanga",
+          "slug": "akwanga-ng026001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "8.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026001_gudi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gudi",
+      "en": "Gudi",
+      "slug": "gudi"
+    },
+    "code": {
+      "id": "NG026001_gudi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026001",
+      "level": 2,
+      "name": {
+        "local": "Akwanga",
+        "en": "Akwanga",
+        "slug": "akwanga-ng026001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026001",
+        "level": 2,
+        "name": {
+          "local": "Akwanga",
+          "en": "Akwanga",
+          "slug": "akwanga-ng026001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "8.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026001_gwanjegwanje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwanje.gwanje",
+      "en": "Gwanje.gwanje",
+      "slug": "gwanjegwanje"
+    },
+    "code": {
+      "id": "NG026001_gwanjegwanje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026001",
+      "level": 2,
+      "name": {
+        "local": "Akwanga",
+        "en": "Akwanga",
+        "slug": "akwanga-ng026001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026001",
+        "level": 2,
+        "name": {
+          "local": "Akwanga",
+          "en": "Akwanga",
+          "slug": "akwanga-ng026001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "8.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026001_moroa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Moroa",
+      "en": "Moroa",
+      "slug": "moroa"
+    },
+    "code": {
+      "id": "NG026001_moroa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026001",
+      "level": 2,
+      "name": {
+        "local": "Akwanga",
+        "en": "Akwanga",
+        "slug": "akwanga-ng026001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026001",
+        "level": 2,
+        "name": {
+          "local": "Akwanga",
+          "en": "Akwanga",
+          "slug": "akwanga-ng026001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "8.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026001_ningo-bohar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ningo / Bohar",
+      "en": "Ningo / Bohar",
+      "slug": "ningo-bohar"
+    },
+    "code": {
+      "id": "NG026001_ningo-bohar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026001",
+      "level": 2,
+      "name": {
+        "local": "Akwanga",
+        "en": "Akwanga",
+        "slug": "akwanga-ng026001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026001",
+        "level": 2,
+        "name": {
+          "local": "Akwanga",
+          "en": "Akwanga",
+          "slug": "akwanga-ng026001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "8.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026001_nunku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nunku",
+      "en": "Nunku",
+      "slug": "nunku"
+    },
+    "code": {
+      "id": "NG026001_nunku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026001",
+      "level": 2,
+      "name": {
+        "local": "Akwanga",
+        "en": "Akwanga",
+        "slug": "akwanga-ng026001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026001",
+        "level": 2,
+        "name": {
+          "local": "Akwanga",
+          "en": "Akwanga",
+          "slug": "akwanga-ng026001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "8.344"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

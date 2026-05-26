@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG034009_bargaja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bargaja",
+      "en": "Bargaja",
+      "slug": "bargaja"
+    },
+    "code": {
+      "id": "NG034009_bargaja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034009",
+      "level": 2,
+      "name": {
+        "local": "Isa",
+        "en": "Isa",
+        "slug": "isa-ng034009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034009",
+        "level": 2,
+        "name": {
+          "local": "Isa",
+          "en": "Isa",
+          "slug": "isa-ng034009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.205",
+      "lon": "6.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034009_gebe-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gebe 'a'",
+      "en": "Gebe 'a'",
+      "slug": "gebe-a"
+    },
+    "code": {
+      "id": "NG034009_gebe-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034009",
+      "level": 2,
+      "name": {
+        "local": "Isa",
+        "en": "Isa",
+        "slug": "isa-ng034009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034009",
+        "level": 2,
+        "name": {
+          "local": "Isa",
+          "en": "Isa",
+          "slug": "isa-ng034009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.205",
+      "lon": "6.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034009_gebe-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gebe 'b'",
+      "en": "Gebe 'b'",
+      "slug": "gebe-b"
+    },
+    "code": {
+      "id": "NG034009_gebe-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034009",
+      "level": 2,
+      "name": {
+        "local": "Isa",
+        "en": "Isa",
+        "slug": "isa-ng034009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034009",
+        "level": 2,
+        "name": {
+          "local": "Isa",
+          "en": "Isa",
+          "slug": "isa-ng034009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.205",
+      "lon": "6.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034009_isa-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isa North",
+      "en": "Isa North",
+      "slug": "isa-north"
+    },
+    "code": {
+      "id": "NG034009_isa-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034009",
+      "level": 2,
+      "name": {
+        "local": "Isa",
+        "en": "Isa",
+        "slug": "isa-ng034009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034009",
+        "level": 2,
+        "name": {
+          "local": "Isa",
+          "en": "Isa",
+          "slug": "isa-ng034009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.205",
+      "lon": "6.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034009_isa-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isa South",
+      "en": "Isa South",
+      "slug": "isa-south"
+    },
+    "code": {
+      "id": "NG034009_isa-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034009",
+      "level": 2,
+      "name": {
+        "local": "Isa",
+        "en": "Isa",
+        "slug": "isa-ng034009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034009",
+        "level": 2,
+        "name": {
+          "local": "Isa",
+          "en": "Isa",
+          "slug": "isa-ng034009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.205",
+      "lon": "6.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034009_tidibale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tidibale",
+      "en": "Tidibale",
+      "slug": "tidibale"
+    },
+    "code": {
+      "id": "NG034009_tidibale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034009",
+      "level": 2,
+      "name": {
+        "local": "Isa",
+        "en": "Isa",
+        "slug": "isa-ng034009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034009",
+        "level": 2,
+        "name": {
+          "local": "Isa",
+          "en": "Isa",
+          "slug": "isa-ng034009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.205",
+      "lon": "6.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034009_tozai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tozai",
+      "en": "Tozai",
+      "slug": "tozai"
+    },
+    "code": {
+      "id": "NG034009_tozai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034009",
+      "level": 2,
+      "name": {
+        "local": "Isa",
+        "en": "Isa",
+        "slug": "isa-ng034009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034009",
+        "level": 2,
+        "name": {
+          "local": "Isa",
+          "en": "Isa",
+          "slug": "isa-ng034009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.205",
+      "lon": "6.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034009_tsabren-sarkin-darai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsabren Sarkin Darai",
+      "en": "Tsabren Sarkin Darai",
+      "slug": "tsabren-sarkin-darai"
+    },
+    "code": {
+      "id": "NG034009_tsabren-sarkin-darai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034009",
+      "level": 2,
+      "name": {
+        "local": "Isa",
+        "en": "Isa",
+        "slug": "isa-ng034009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034009",
+        "level": 2,
+        "name": {
+          "local": "Isa",
+          "en": "Isa",
+          "slug": "isa-ng034009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.205",
+      "lon": "6.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034009_turba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Turba",
+      "en": "Turba",
+      "slug": "turba"
+    },
+    "code": {
+      "id": "NG034009_turba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034009",
+      "level": 2,
+      "name": {
+        "local": "Isa",
+        "en": "Isa",
+        "slug": "isa-ng034009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034009",
+        "level": 2,
+        "name": {
+          "local": "Isa",
+          "en": "Isa",
+          "slug": "isa-ng034009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.205",
+      "lon": "6.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034009_yanfako",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yanfako",
+      "en": "Yanfako",
+      "slug": "yanfako"
+    },
+    "code": {
+      "id": "NG034009_yanfako",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034009",
+      "level": 2,
+      "name": {
+        "local": "Isa",
+        "en": "Isa",
+        "slug": "isa-ng034009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034009",
+        "level": 2,
+        "name": {
+          "local": "Isa",
+          "en": "Isa",
+          "slug": "isa-ng034009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.205",
+      "lon": "6.357"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

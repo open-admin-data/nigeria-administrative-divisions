@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG005004_dagauda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dagauda",
+      "en": "Dagauda",
+      "slug": "dagauda"
+    },
+    "code": {
+      "id": "NG005004_dagauda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005004",
+      "level": 2,
+      "name": {
+        "local": "Damban",
+        "en": "Damban",
+        "slug": "damban-ng005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005004",
+        "level": 2,
+        "name": {
+          "local": "Damban",
+          "en": "Damban",
+          "slug": "damban-ng005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.629",
+      "lon": "10.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005004_dambam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dambam",
+      "en": "Dambam",
+      "slug": "dambam"
+    },
+    "code": {
+      "id": "NG005004_dambam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005004",
+      "level": 2,
+      "name": {
+        "local": "Damban",
+        "en": "Damban",
+        "slug": "damban-ng005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005004",
+        "level": 2,
+        "name": {
+          "local": "Damban",
+          "en": "Damban",
+          "slug": "damban-ng005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.629",
+      "lon": "10.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005004_gargawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gargawa",
+      "en": "Gargawa",
+      "slug": "gargawa"
+    },
+    "code": {
+      "id": "NG005004_gargawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005004",
+      "level": 2,
+      "name": {
+        "local": "Damban",
+        "en": "Damban",
+        "slug": "damban-ng005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005004",
+        "level": 2,
+        "name": {
+          "local": "Damban",
+          "en": "Damban",
+          "slug": "damban-ng005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.629",
+      "lon": "10.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005004_garuza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garuza",
+      "en": "Garuza",
+      "slug": "garuza"
+    },
+    "code": {
+      "id": "NG005004_garuza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005004",
+      "level": 2,
+      "name": {
+        "local": "Damban",
+        "en": "Damban",
+        "slug": "damban-ng005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005004",
+        "level": 2,
+        "name": {
+          "local": "Damban",
+          "en": "Damban",
+          "slug": "damban-ng005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.629",
+      "lon": "10.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005004_gurbana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gurbana",
+      "en": "Gurbana",
+      "slug": "gurbana"
+    },
+    "code": {
+      "id": "NG005004_gurbana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005004",
+      "level": 2,
+      "name": {
+        "local": "Damban",
+        "en": "Damban",
+        "slug": "damban-ng005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005004",
+        "level": 2,
+        "name": {
+          "local": "Damban",
+          "en": "Damban",
+          "slug": "damban-ng005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.629",
+      "lon": "10.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005004_jalam-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jalam Central",
+      "en": "Jalam Central",
+      "slug": "jalam-central"
+    },
+    "code": {
+      "id": "NG005004_jalam-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005004",
+      "level": 2,
+      "name": {
+        "local": "Damban",
+        "en": "Damban",
+        "slug": "damban-ng005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005004",
+        "level": 2,
+        "name": {
+          "local": "Damban",
+          "en": "Damban",
+          "slug": "damban-ng005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.629",
+      "lon": "10.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005004_jalam-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jalam East",
+      "en": "Jalam East",
+      "slug": "jalam-east"
+    },
+    "code": {
+      "id": "NG005004_jalam-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005004",
+      "level": 2,
+      "name": {
+        "local": "Damban",
+        "en": "Damban",
+        "slug": "damban-ng005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005004",
+        "level": 2,
+        "name": {
+          "local": "Damban",
+          "en": "Damban",
+          "slug": "damban-ng005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.629",
+      "lon": "10.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005004_yame",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yame",
+      "en": "Yame",
+      "slug": "yame"
+    },
+    "code": {
+      "id": "NG005004_yame",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005004",
+      "level": 2,
+      "name": {
+        "local": "Damban",
+        "en": "Damban",
+        "slug": "damban-ng005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005004",
+        "level": 2,
+        "name": {
+          "local": "Damban",
+          "en": "Damban",
+          "slug": "damban-ng005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.629",
+      "lon": "10.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005004_yanda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yanda",
+      "en": "Yanda",
+      "slug": "yanda"
+    },
+    "code": {
+      "id": "NG005004_yanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005004",
+      "level": 2,
+      "name": {
+        "local": "Damban",
+        "en": "Damban",
+        "slug": "damban-ng005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005004",
+        "level": 2,
+        "name": {
+          "local": "Damban",
+          "en": "Damban",
+          "slug": "damban-ng005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.629",
+      "lon": "10.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005004_zaura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zaura",
+      "en": "Zaura",
+      "slug": "zaura"
+    },
+    "code": {
+      "id": "NG005004_zaura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005004",
+      "level": 2,
+      "name": {
+        "local": "Damban",
+        "en": "Damban",
+        "slug": "damban-ng005004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005004",
+        "level": 2,
+        "name": {
+          "local": "Damban",
+          "en": "Damban",
+          "slug": "damban-ng005004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.629",
+      "lon": "10.762"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

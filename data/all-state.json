@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "NG001",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Abia",
+      "en": "Abia",
+      "slug": "abia-ng001"
+    },
+    "code": {
+      "id": "NG001",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 17,
+      "ward": 184
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.432",
+      "lon": "7.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Adamawa",
+      "en": "Adamawa",
+      "slug": "adamawa-ng002"
+    },
+    "code": {
+      "id": "NG002",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 21,
+      "ward": 226
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.163",
+      "lon": "12.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Akwa Ibom",
+      "en": "Akwa Ibom",
+      "slug": "akwa-ibom-ng003"
+    },
+    "code": {
+      "id": "NG003",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 31,
+      "ward": 329
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.99",
+      "lon": "7.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Anambra",
+      "en": "Anambra",
+      "slug": "anambra-ng004"
+    },
+    "code": {
+      "id": "NG004",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 21,
+      "ward": 326
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.249",
+      "lon": "6.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Bauchi",
+      "en": "Bauchi",
+      "slug": "bauchi-ng005"
+    },
+    "code": {
+      "id": "NG005",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 20,
+      "ward": 212
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.998",
+      "lon": "9.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Bayelsa",
+      "en": "Bayelsa",
+      "slug": "bayelsa-ng006"
+    },
+    "code": {
+      "id": "NG006",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 8,
+      "ward": 105
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.827",
+      "lon": "5.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Benue",
+      "en": "Benue",
+      "slug": "benue-ng007"
+    },
+    "code": {
+      "id": "NG007",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 23,
+      "ward": 264
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.301",
+      "lon": "8.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Borno",
+      "en": "Borno",
+      "slug": "borno-ng008"
+    },
+    "code": {
+      "id": "NG008",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 27,
+      "ward": 302
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.87",
+      "lon": "13.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Cross River",
+      "en": "Cross River",
+      "slug": "cross-river-ng009"
+    },
+    "code": {
+      "id": "NG009",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 18,
+      "ward": 193
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.791",
+      "lon": "8.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Delta",
+      "en": "Delta",
+      "slug": "delta-ng010"
+    },
+    "code": {
+      "id": "NG010",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 25,
+      "ward": 270
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.757",
+      "lon": "5.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Ebonyi",
+      "en": "Ebonyi",
+      "slug": "ebonyi-ng011"
+    },
+    "code": {
+      "id": "NG011",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 13,
+      "ward": 171
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.24",
+      "lon": "8.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Edo",
+      "en": "Edo",
+      "slug": "edo-ng012"
+    },
+    "code": {
+      "id": "NG012",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 18,
+      "ward": 192
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.665",
+      "lon": "5.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Ekiti",
+      "en": "Ekiti",
+      "slug": "ekiti-ng013"
+    },
+    "code": {
+      "id": "NG013",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 16,
+      "ward": 177
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.695",
+      "lon": "5.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Enugu",
+      "en": "Enugu",
+      "slug": "enugu-ng014"
+    },
+    "code": {
+      "id": "NG014",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 17,
+      "ward": 260
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.52",
+      "lon": "7.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Federal Capital Territory",
+      "en": "Federal Capital Territory",
+      "slug": "federal-capital-territory-ng015"
+    },
+    "code": {
+      "id": "NG015",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 6,
+      "ward": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.013",
+      "lon": "7.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Gombe",
+      "en": "Gombe",
+      "slug": "gombe-ng016"
+    },
+    "code": {
+      "id": "NG016",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 11,
+      "ward": 114
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.431",
+      "lon": "11.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Imo",
+      "en": "Imo",
+      "slug": "imo-ng017"
+    },
+    "code": {
+      "id": "NG017",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 27,
+      "ward": 305
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.566",
+      "lon": "7.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Jigawa",
+      "en": "Jigawa",
+      "slug": "jigawa-ng018"
+    },
+    "code": {
+      "id": "NG018",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 27,
+      "ward": 287
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.981",
+      "lon": "9.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Kaduna",
+      "en": "Kaduna",
+      "slug": "kaduna-ng019"
+    },
+    "code": {
+      "id": "NG019",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 23,
+      "ward": 255
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.257",
+      "lon": "7.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Kano",
+      "en": "Kano",
+      "slug": "kano-ng020"
+    },
+    "code": {
+      "id": "NG020",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 44,
+      "ward": 473
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.573",
+      "lon": "8.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Katsina",
+      "en": "Katsina",
+      "slug": "katsina-ng021"
+    },
+    "code": {
+      "id": "NG021",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 34,
+      "ward": 361
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.236",
+      "lon": "7.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Kebbi",
+      "en": "Kebbi",
+      "slug": "kebbi-ng022"
+    },
+    "code": {
+      "id": "NG022",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 21,
+      "ward": 225
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.691",
+      "lon": "3.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Kogi",
+      "en": "Kogi",
+      "slug": "kogi-ng023"
+    },
+    "code": {
+      "id": "NG023",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 21,
+      "ward": 229
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.636",
+      "lon": "6.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Kwara",
+      "en": "Kwara",
+      "slug": "kwara-ng024"
+    },
+    "code": {
+      "id": "NG024",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 16,
+      "ward": 164
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.093",
+      "lon": "4.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Lagos",
+      "en": "Lagos",
+      "slug": "lagos-ng025"
+    },
+    "code": {
+      "id": "NG025",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 20,
+      "ward": 233
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "3.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Nasarawa",
+      "en": "Nasarawa",
+      "slug": "nasarawa-ng026"
+    },
+    "code": {
+      "id": "NG026",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 13,
+      "ward": 170
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.589",
+      "lon": "8.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Niger",
+      "en": "Niger",
+      "slug": "niger-ng027"
+    },
+    "code": {
+      "id": "NG027",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 25,
+      "ward": 274
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.774",
+      "lon": "5.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Ogun",
+      "en": "Ogun",
+      "slug": "ogun-ng028"
+    },
+    "code": {
+      "id": "NG028",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 20,
+      "ward": 236
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.127",
+      "lon": "3.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Ondo",
+      "en": "Ondo",
+      "slug": "ondo-ng029"
+    },
+    "code": {
+      "id": "NG029",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 18,
+      "ward": 203
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.824",
+      "lon": "4.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Osun",
+      "en": "Osun",
+      "slug": "osun-ng030"
+    },
+    "code": {
+      "id": "NG030",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 30,
+      "ward": 361
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.538",
+      "lon": "4.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Oyo",
+      "en": "Oyo",
+      "slug": "oyo-ng031"
+    },
+    "code": {
+      "id": "NG031",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 33,
+      "ward": 363
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.135",
+      "lon": "3.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Plateau",
+      "en": "Plateau",
+      "slug": "plateau-ng032"
+    },
+    "code": {
+      "id": "NG032",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 17,
+      "ward": 217
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "9.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Rivers",
+      "en": "Rivers",
+      "slug": "rivers-ng033"
+    },
+    "code": {
+      "id": "NG033",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 23,
+      "ward": 319
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.023",
+      "lon": "6.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Sokoto",
+      "en": "Sokoto",
+      "slug": "sokoto-ng034"
+    },
+    "code": {
+      "id": "NG034",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 23,
+      "ward": 244
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.739",
+      "lon": "5.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Taraba",
+      "en": "Taraba",
+      "slug": "taraba-ng035"
+    },
+    "code": {
+      "id": "NG035",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 16,
+      "ward": 168
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.059",
+      "lon": "10.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Yobe",
+      "en": "Yobe",
+      "slug": "yobe-ng036"
+    },
+    "code": {
+      "id": "NG036",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 17,
+      "ward": 178
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.974",
+      "lon": "11.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Zamfara",
+      "en": "Zamfara",
+      "slug": "zamfara-ng037"
+    },
+    "code": {
+      "id": "NG037",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "lga": 14,
+      "ward": 147
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "6.051"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

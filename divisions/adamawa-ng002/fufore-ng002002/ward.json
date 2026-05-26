@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG002002_beti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Beti",
+      "en": "Beti",
+      "slug": "beti"
+    },
+    "code": {
+      "id": "NG002002_beti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002002",
+      "level": 2,
+      "name": {
+        "local": "Fufore",
+        "en": "Fufore",
+        "slug": "fufore-ng002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002002",
+        "level": 2,
+        "name": {
+          "local": "Fufore",
+          "en": "Fufore",
+          "slug": "fufore-ng002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.042",
+      "lon": "12.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002002_farang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Farang",
+      "en": "Farang",
+      "slug": "farang"
+    },
+    "code": {
+      "id": "NG002002_farang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002002",
+      "level": 2,
+      "name": {
+        "local": "Fufore",
+        "en": "Fufore",
+        "slug": "fufore-ng002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002002",
+        "level": 2,
+        "name": {
+          "local": "Fufore",
+          "en": "Fufore",
+          "slug": "fufore-ng002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.593",
+      "lon": "12.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002002_fufore",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fufore",
+      "en": "Fufore",
+      "slug": "fufore"
+    },
+    "code": {
+      "id": "NG002002_fufore",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002002",
+      "level": 2,
+      "name": {
+        "local": "Fufore",
+        "en": "Fufore",
+        "slug": "fufore-ng002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002002",
+        "level": 2,
+        "name": {
+          "local": "Fufore",
+          "en": "Fufore",
+          "slug": "fufore-ng002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.219",
+      "lon": "12.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002002_gurin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gurin",
+      "en": "Gurin",
+      "slug": "gurin"
+    },
+    "code": {
+      "id": "NG002002_gurin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002002",
+      "level": 2,
+      "name": {
+        "local": "Fufore",
+        "en": "Fufore",
+        "slug": "fufore-ng002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002002",
+        "level": 2,
+        "name": {
+          "local": "Fufore",
+          "en": "Fufore",
+          "slug": "fufore-ng002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.167",
+      "lon": "12.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002002_karlahi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karlahi",
+      "en": "Karlahi",
+      "slug": "karlahi"
+    },
+    "code": {
+      "id": "NG002002_karlahi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002002",
+      "level": 2,
+      "name": {
+        "local": "Fufore",
+        "en": "Fufore",
+        "slug": "fufore-ng002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002002",
+        "level": 2,
+        "name": {
+          "local": "Fufore",
+          "en": "Fufore",
+          "slug": "fufore-ng002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.892",
+      "lon": "12.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002002_mayo-ine",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayo Ine",
+      "en": "Mayo Ine",
+      "slug": "mayo-ine"
+    },
+    "code": {
+      "id": "NG002002_mayo-ine",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002002",
+      "level": 2,
+      "name": {
+        "local": "Fufore",
+        "en": "Fufore",
+        "slug": "fufore-ng002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002002",
+        "level": 2,
+        "name": {
+          "local": "Fufore",
+          "en": "Fufore",
+          "slug": "fufore-ng002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.042",
+      "lon": "12.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002002_pariya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pariya",
+      "en": "Pariya",
+      "slug": "pariya"
+    },
+    "code": {
+      "id": "NG002002_pariya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002002",
+      "level": 2,
+      "name": {
+        "local": "Fufore",
+        "en": "Fufore",
+        "slug": "fufore-ng002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002002",
+        "level": 2,
+        "name": {
+          "local": "Fufore",
+          "en": "Fufore",
+          "slug": "fufore-ng002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.444",
+      "lon": "12.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002002_ribadu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ribadu",
+      "en": "Ribadu",
+      "slug": "ribadu"
+    },
+    "code": {
+      "id": "NG002002_ribadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002002",
+      "level": 2,
+      "name": {
+        "local": "Fufore",
+        "en": "Fufore",
+        "slug": "fufore-ng002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002002",
+        "level": 2,
+        "name": {
+          "local": "Fufore",
+          "en": "Fufore",
+          "slug": "fufore-ng002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.302",
+      "lon": "12.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002002_uki-tuki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uki Tuki",
+      "en": "Uki Tuki",
+      "slug": "uki-tuki"
+    },
+    "code": {
+      "id": "NG002002_uki-tuki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002002",
+      "level": 2,
+      "name": {
+        "local": "Fufore",
+        "en": "Fufore",
+        "slug": "fufore-ng002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002002",
+        "level": 2,
+        "name": {
+          "local": "Fufore",
+          "en": "Fufore",
+          "slug": "fufore-ng002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.073",
+      "lon": "12.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002002_wuro-bokki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wuro Bokki",
+      "en": "Wuro Bokki",
+      "slug": "wuro-bokki"
+    },
+    "code": {
+      "id": "NG002002_wuro-bokki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002002",
+      "level": 2,
+      "name": {
+        "local": "Fufore",
+        "en": "Fufore",
+        "slug": "fufore-ng002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002002",
+        "level": 2,
+        "name": {
+          "local": "Fufore",
+          "en": "Fufore",
+          "slug": "fufore-ng002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.512",
+      "lon": "12.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002002_yadim",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yadim",
+      "en": "Yadim",
+      "slug": "yadim"
+    },
+    "code": {
+      "id": "NG002002_yadim",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002002",
+      "level": 2,
+      "name": {
+        "local": "Fufore",
+        "en": "Fufore",
+        "slug": "fufore-ng002002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002002",
+        "level": 2,
+        "name": {
+          "local": "Fufore",
+          "en": "Fufore",
+          "slug": "fufore-ng002002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.908",
+      "lon": "12.422"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

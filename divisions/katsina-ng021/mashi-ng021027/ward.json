@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021027_bamble",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bamble",
+      "en": "Bamble",
+      "slug": "bamble"
+    },
+    "code": {
+      "id": "NG021027_bamble",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021027",
+      "level": 2,
+      "name": {
+        "local": "Mashi",
+        "en": "Mashi",
+        "slug": "mashi-ng021027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021027",
+        "level": 2,
+        "name": {
+          "local": "Mashi",
+          "en": "Mashi",
+          "slug": "mashi-ng021027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.119",
+      "lon": "7.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021027_doguru-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doguru 'a'",
+      "en": "Doguru 'a'",
+      "slug": "doguru-a"
+    },
+    "code": {
+      "id": "NG021027_doguru-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021027",
+      "level": 2,
+      "name": {
+        "local": "Mashi",
+        "en": "Mashi",
+        "slug": "mashi-ng021027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021027",
+        "level": 2,
+        "name": {
+          "local": "Mashi",
+          "en": "Mashi",
+          "slug": "mashi-ng021027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.119",
+      "lon": "7.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021027_doguru-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doguru 'b'",
+      "en": "Doguru 'b'",
+      "slug": "doguru-b"
+    },
+    "code": {
+      "id": "NG021027_doguru-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021027",
+      "level": 2,
+      "name": {
+        "local": "Mashi",
+        "en": "Mashi",
+        "slug": "mashi-ng021027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021027",
+        "level": 2,
+        "name": {
+          "local": "Mashi",
+          "en": "Mashi",
+          "slug": "mashi-ng021027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.119",
+      "lon": "7.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021027_gallu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gallu",
+      "en": "Gallu",
+      "slug": "gallu"
+    },
+    "code": {
+      "id": "NG021027_gallu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021027",
+      "level": 2,
+      "name": {
+        "local": "Mashi",
+        "en": "Mashi",
+        "slug": "mashi-ng021027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021027",
+        "level": 2,
+        "name": {
+          "local": "Mashi",
+          "en": "Mashi",
+          "slug": "mashi-ng021027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.119",
+      "lon": "7.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021027_jigawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jigawa",
+      "en": "Jigawa",
+      "slug": "jigawa"
+    },
+    "code": {
+      "id": "NG021027_jigawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021027",
+      "level": 2,
+      "name": {
+        "local": "Mashi",
+        "en": "Mashi",
+        "slug": "mashi-ng021027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021027",
+        "level": 2,
+        "name": {
+          "local": "Mashi",
+          "en": "Mashi",
+          "slug": "mashi-ng021027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.119",
+      "lon": "7.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021027_karau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karau",
+      "en": "Karau",
+      "slug": "karau"
+    },
+    "code": {
+      "id": "NG021027_karau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021027",
+      "level": 2,
+      "name": {
+        "local": "Mashi",
+        "en": "Mashi",
+        "slug": "mashi-ng021027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021027",
+        "level": 2,
+        "name": {
+          "local": "Mashi",
+          "en": "Mashi",
+          "slug": "mashi-ng021027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.119",
+      "lon": "7.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021027_mashi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mashi",
+      "en": "Mashi",
+      "slug": "mashi"
+    },
+    "code": {
+      "id": "NG021027_mashi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021027",
+      "level": 2,
+      "name": {
+        "local": "Mashi",
+        "en": "Mashi",
+        "slug": "mashi-ng021027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021027",
+        "level": 2,
+        "name": {
+          "local": "Mashi",
+          "en": "Mashi",
+          "slug": "mashi-ng021027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.119",
+      "lon": "7.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021027_srijiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S/rijiya",
+      "en": "S/rijiya",
+      "slug": "srijiya"
+    },
+    "code": {
+      "id": "NG021027_srijiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021027",
+      "level": 2,
+      "name": {
+        "local": "Mashi",
+        "en": "Mashi",
+        "slug": "mashi-ng021027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021027",
+        "level": 2,
+        "name": {
+          "local": "Mashi",
+          "en": "Mashi",
+          "slug": "mashi-ng021027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.119",
+      "lon": "7.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021027_sonkaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sonkaya",
+      "en": "Sonkaya",
+      "slug": "sonkaya"
+    },
+    "code": {
+      "id": "NG021027_sonkaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021027",
+      "level": 2,
+      "name": {
+        "local": "Mashi",
+        "en": "Mashi",
+        "slug": "mashi-ng021027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021027",
+        "level": 2,
+        "name": {
+          "local": "Mashi",
+          "en": "Mashi",
+          "slug": "mashi-ng021027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.119",
+      "lon": "7.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021027_tamilo-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tamilo 'a'",
+      "en": "Tamilo 'a'",
+      "slug": "tamilo-a"
+    },
+    "code": {
+      "id": "NG021027_tamilo-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021027",
+      "level": 2,
+      "name": {
+        "local": "Mashi",
+        "en": "Mashi",
+        "slug": "mashi-ng021027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021027",
+        "level": 2,
+        "name": {
+          "local": "Mashi",
+          "en": "Mashi",
+          "slug": "mashi-ng021027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.119",
+      "lon": "7.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021027_tamilo-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tamilo 'b'",
+      "en": "Tamilo 'b'",
+      "slug": "tamilo-b"
+    },
+    "code": {
+      "id": "NG021027_tamilo-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021027",
+      "level": 2,
+      "name": {
+        "local": "Mashi",
+        "en": "Mashi",
+        "slug": "mashi-ng021027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021027",
+        "level": 2,
+        "name": {
+          "local": "Mashi",
+          "en": "Mashi",
+          "slug": "mashi-ng021027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.119",
+      "lon": "7.997"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

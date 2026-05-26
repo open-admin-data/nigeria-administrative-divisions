@@ -1,0 +1,47 @@
+{
+  "id": "NG022015",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ngaski",
+    "en": "Ngaski",
+    "slug": "ngaski-ng022015"
+  },
+  "code": {
+    "id": "NG022015",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG022",
+    "level": 1,
+    "name": {
+      "local": "Kebbi",
+      "en": "Kebbi",
+      "slug": "kebbi-ng022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG022",
+      "level": 1,
+      "name": {
+        "local": "Kebbi",
+        "en": "Kebbi",
+        "slug": "kebbi-ng022"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.585",
+    "lon": "4.721"
+  },
+  "metadata": {},
+  "source": {}
+}

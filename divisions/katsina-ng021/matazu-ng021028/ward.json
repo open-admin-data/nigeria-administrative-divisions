@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG021028_dissi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dissi",
+      "en": "Dissi",
+      "slug": "dissi"
+    },
+    "code": {
+      "id": "NG021028_dissi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021028",
+      "level": 2,
+      "name": {
+        "local": "Matazu",
+        "en": "Matazu",
+        "slug": "matazu-ng021028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021028",
+        "level": 2,
+        "name": {
+          "local": "Matazu",
+          "en": "Matazu",
+          "slug": "matazu-ng021028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.24",
+      "lon": "7.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021028_gwarjo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwarjo",
+      "en": "Gwarjo",
+      "slug": "gwarjo"
+    },
+    "code": {
+      "id": "NG021028_gwarjo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021028",
+      "level": 2,
+      "name": {
+        "local": "Matazu",
+        "en": "Matazu",
+        "slug": "matazu-ng021028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021028",
+        "level": 2,
+        "name": {
+          "local": "Matazu",
+          "en": "Matazu",
+          "slug": "matazu-ng021028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.24",
+      "lon": "7.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021028_karaduwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karaduwa",
+      "en": "Karaduwa",
+      "slug": "karaduwa"
+    },
+    "code": {
+      "id": "NG021028_karaduwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021028",
+      "level": 2,
+      "name": {
+        "local": "Matazu",
+        "en": "Matazu",
+        "slug": "matazu-ng021028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021028",
+        "level": 2,
+        "name": {
+          "local": "Matazu",
+          "en": "Matazu",
+          "slug": "matazu-ng021028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.24",
+      "lon": "7.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021028_kogari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kogari",
+      "en": "Kogari",
+      "slug": "kogari"
+    },
+    "code": {
+      "id": "NG021028_kogari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021028",
+      "level": 2,
+      "name": {
+        "local": "Matazu",
+        "en": "Matazu",
+        "slug": "matazu-ng021028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021028",
+        "level": 2,
+        "name": {
+          "local": "Matazu",
+          "en": "Matazu",
+          "slug": "matazu-ng021028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.24",
+      "lon": "7.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021028_matazu-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Matazu 'a",
+      "en": "Matazu 'a",
+      "slug": "matazu-a"
+    },
+    "code": {
+      "id": "NG021028_matazu-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021028",
+      "level": 2,
+      "name": {
+        "local": "Matazu",
+        "en": "Matazu",
+        "slug": "matazu-ng021028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021028",
+        "level": 2,
+        "name": {
+          "local": "Matazu",
+          "en": "Matazu",
+          "slug": "matazu-ng021028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.24",
+      "lon": "7.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021028_matazu-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Matazu 'b'",
+      "en": "Matazu 'b'",
+      "slug": "matazu-b"
+    },
+    "code": {
+      "id": "NG021028_matazu-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021028",
+      "level": 2,
+      "name": {
+        "local": "Matazu",
+        "en": "Matazu",
+        "slug": "matazu-ng021028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021028",
+        "level": 2,
+        "name": {
+          "local": "Matazu",
+          "en": "Matazu",
+          "slug": "matazu-ng021028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.24",
+      "lon": "7.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021028_mazoji-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mazoji 'a'",
+      "en": "Mazoji 'a'",
+      "slug": "mazoji-a"
+    },
+    "code": {
+      "id": "NG021028_mazoji-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021028",
+      "level": 2,
+      "name": {
+        "local": "Matazu",
+        "en": "Matazu",
+        "slug": "matazu-ng021028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021028",
+        "level": 2,
+        "name": {
+          "local": "Matazu",
+          "en": "Matazu",
+          "slug": "matazu-ng021028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.24",
+      "lon": "7.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021028_mazoji-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mazoji 'b'",
+      "en": "Mazoji 'b'",
+      "slug": "mazoji-b"
+    },
+    "code": {
+      "id": "NG021028_mazoji-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021028",
+      "level": 2,
+      "name": {
+        "local": "Matazu",
+        "en": "Matazu",
+        "slug": "matazu-ng021028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021028",
+        "level": 2,
+        "name": {
+          "local": "Matazu",
+          "en": "Matazu",
+          "slug": "matazu-ng021028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.24",
+      "lon": "7.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021028_rinjin-idi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rinjin Idi",
+      "en": "Rinjin Idi",
+      "slug": "rinjin-idi"
+    },
+    "code": {
+      "id": "NG021028_rinjin-idi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021028",
+      "level": 2,
+      "name": {
+        "local": "Matazu",
+        "en": "Matazu",
+        "slug": "matazu-ng021028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021028",
+        "level": 2,
+        "name": {
+          "local": "Matazu",
+          "en": "Matazu",
+          "slug": "matazu-ng021028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.24",
+      "lon": "7.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021028_sayaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sayaya",
+      "en": "Sayaya",
+      "slug": "sayaya"
+    },
+    "code": {
+      "id": "NG021028_sayaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021028",
+      "level": 2,
+      "name": {
+        "local": "Matazu",
+        "en": "Matazu",
+        "slug": "matazu-ng021028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021028",
+        "level": 2,
+        "name": {
+          "local": "Matazu",
+          "en": "Matazu",
+          "slug": "matazu-ng021028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.24",
+      "lon": "7.651"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

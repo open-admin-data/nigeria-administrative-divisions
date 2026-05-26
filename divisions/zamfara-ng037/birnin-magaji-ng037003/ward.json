@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG037003_birnin-magaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birnin Magaji",
+      "en": "Birnin Magaji",
+      "slug": "birnin-magaji"
+    },
+    "code": {
+      "id": "NG037003_birnin-magaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037003",
+      "level": 2,
+      "name": {
+        "local": "Birnin Magaji",
+        "en": "Birnin Magaji",
+        "slug": "birnin-magaji-ng037003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037003",
+        "level": 2,
+        "name": {
+          "local": "Birnin Magaji",
+          "en": "Birnin Magaji",
+          "slug": "birnin-magaji-ng037003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.454",
+      "lon": "6.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037003_danfami-sabon-birini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danfami Sabon Birini",
+      "en": "Danfami Sabon Birini",
+      "slug": "danfami-sabon-birini"
+    },
+    "code": {
+      "id": "NG037003_danfami-sabon-birini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037003",
+      "level": 2,
+      "name": {
+        "local": "Birnin Magaji",
+        "en": "Birnin Magaji",
+        "slug": "birnin-magaji-ng037003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037003",
+        "level": 2,
+        "name": {
+          "local": "Birnin Magaji",
+          "en": "Birnin Magaji",
+          "slug": "birnin-magaji-ng037003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.454",
+      "lon": "6.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037003_gora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gora",
+      "en": "Gora",
+      "slug": "gora"
+    },
+    "code": {
+      "id": "NG037003_gora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037003",
+      "level": 2,
+      "name": {
+        "local": "Birnin Magaji",
+        "en": "Birnin Magaji",
+        "slug": "birnin-magaji-ng037003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037003",
+        "level": 2,
+        "name": {
+          "local": "Birnin Magaji",
+          "en": "Birnin Magaji",
+          "slug": "birnin-magaji-ng037003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.454",
+      "lon": "6.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037003_gusami-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gusami Gari",
+      "en": "Gusami Gari",
+      "slug": "gusami-gari"
+    },
+    "code": {
+      "id": "NG037003_gusami-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037003",
+      "level": 2,
+      "name": {
+        "local": "Birnin Magaji",
+        "en": "Birnin Magaji",
+        "slug": "birnin-magaji-ng037003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037003",
+        "level": 2,
+        "name": {
+          "local": "Birnin Magaji",
+          "en": "Birnin Magaji",
+          "slug": "birnin-magaji-ng037003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.454",
+      "lon": "6.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037003_gusami-hayi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gusami Hayi",
+      "en": "Gusami Hayi",
+      "slug": "gusami-hayi"
+    },
+    "code": {
+      "id": "NG037003_gusami-hayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037003",
+      "level": 2,
+      "name": {
+        "local": "Birnin Magaji",
+        "en": "Birnin Magaji",
+        "slug": "birnin-magaji-ng037003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037003",
+        "level": 2,
+        "name": {
+          "local": "Birnin Magaji",
+          "en": "Birnin Magaji",
+          "slug": "birnin-magaji-ng037003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.454",
+      "lon": "6.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037003_kiyawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kiyawa",
+      "en": "Kiyawa",
+      "slug": "kiyawa"
+    },
+    "code": {
+      "id": "NG037003_kiyawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037003",
+      "level": 2,
+      "name": {
+        "local": "Birnin Magaji",
+        "en": "Birnin Magaji",
+        "slug": "birnin-magaji-ng037003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037003",
+        "level": 2,
+        "name": {
+          "local": "Birnin Magaji",
+          "en": "Birnin Magaji",
+          "slug": "birnin-magaji-ng037003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.454",
+      "lon": "6.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037003_modomawa-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Modomawa East",
+      "en": "Modomawa East",
+      "slug": "modomawa-east"
+    },
+    "code": {
+      "id": "NG037003_modomawa-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037003",
+      "level": 2,
+      "name": {
+        "local": "Birnin Magaji",
+        "en": "Birnin Magaji",
+        "slug": "birnin-magaji-ng037003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037003",
+        "level": 2,
+        "name": {
+          "local": "Birnin Magaji",
+          "en": "Birnin Magaji",
+          "slug": "birnin-magaji-ng037003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.454",
+      "lon": "6.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037003_modomawa-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Modomawa West",
+      "en": "Modomawa West",
+      "slug": "modomawa-west"
+    },
+    "code": {
+      "id": "NG037003_modomawa-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037003",
+      "level": 2,
+      "name": {
+        "local": "Birnin Magaji",
+        "en": "Birnin Magaji",
+        "slug": "birnin-magaji-ng037003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037003",
+        "level": 2,
+        "name": {
+          "local": "Birnin Magaji",
+          "en": "Birnin Magaji",
+          "slug": "birnin-magaji-ng037003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.454",
+      "lon": "6.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037003_nasarawa-godal-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasarawa Godal East",
+      "en": "Nasarawa Godal East",
+      "slug": "nasarawa-godal-east"
+    },
+    "code": {
+      "id": "NG037003_nasarawa-godal-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037003",
+      "level": 2,
+      "name": {
+        "local": "Birnin Magaji",
+        "en": "Birnin Magaji",
+        "slug": "birnin-magaji-ng037003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037003",
+        "level": 2,
+        "name": {
+          "local": "Birnin Magaji",
+          "en": "Birnin Magaji",
+          "slug": "birnin-magaji-ng037003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.454",
+      "lon": "6.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037003_nasarawa-godal-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasarawa Godal West",
+      "en": "Nasarawa Godal West",
+      "slug": "nasarawa-godal-west"
+    },
+    "code": {
+      "id": "NG037003_nasarawa-godal-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037003",
+      "level": 2,
+      "name": {
+        "local": "Birnin Magaji",
+        "en": "Birnin Magaji",
+        "slug": "birnin-magaji-ng037003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037003",
+        "level": 2,
+        "name": {
+          "local": "Birnin Magaji",
+          "en": "Birnin Magaji",
+          "slug": "birnin-magaji-ng037003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.454",
+      "lon": "6.869"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

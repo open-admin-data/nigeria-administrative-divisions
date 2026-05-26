@@ -1,0 +1,47 @@
+{
+  "id": "NG028016",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Odeda",
+    "en": "Odeda",
+    "slug": "odeda-ng028016"
+  },
+  "code": {
+    "id": "NG028016",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG028",
+    "level": 1,
+    "name": {
+      "local": "Ogun",
+      "en": "Ogun",
+      "slug": "ogun-ng028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.317",
+    "lon": "3.52"
+  },
+  "metadata": {},
+  "source": {}
+}

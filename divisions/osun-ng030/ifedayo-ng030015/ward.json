@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG030015_akesin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akesin",
+      "en": "Akesin",
+      "slug": "akesin"
+    },
+    "code": {
+      "id": "NG030015_akesin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030015",
+      "level": 2,
+      "name": {
+        "local": "Ifedayo",
+        "en": "Ifedayo",
+        "slug": "ifedayo-ng030015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030015",
+        "level": 2,
+        "name": {
+          "local": "Ifedayo",
+          "en": "Ifedayo",
+          "slug": "ifedayo-ng030015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.962",
+      "lon": "4.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030015_asaoni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asaoni",
+      "en": "Asaoni",
+      "slug": "asaoni"
+    },
+    "code": {
+      "id": "NG030015_asaoni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030015",
+      "level": 2,
+      "name": {
+        "local": "Ifedayo",
+        "en": "Ifedayo",
+        "slug": "ifedayo-ng030015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030015",
+        "level": 2,
+        "name": {
+          "local": "Ifedayo",
+          "en": "Ifedayo",
+          "slug": "ifedayo-ng030015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.962",
+      "lon": "4.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030015_aworooke-ila-rural",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aworo/oke-ila Rural",
+      "en": "Aworo/oke-ila Rural",
+      "slug": "aworooke-ila-rural"
+    },
+    "code": {
+      "id": "NG030015_aworooke-ila-rural",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030015",
+      "level": 2,
+      "name": {
+        "local": "Ifedayo",
+        "en": "Ifedayo",
+        "slug": "ifedayo-ng030015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030015",
+        "level": 2,
+        "name": {
+          "local": "Ifedayo",
+          "en": "Ifedayo",
+          "slug": "ifedayo-ng030015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.962",
+      "lon": "4.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030015_ayetoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayetoro",
+      "en": "Ayetoro",
+      "slug": "ayetoro"
+    },
+    "code": {
+      "id": "NG030015_ayetoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030015",
+      "level": 2,
+      "name": {
+        "local": "Ifedayo",
+        "en": "Ifedayo",
+        "slug": "ifedayo-ng030015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030015",
+        "level": 2,
+        "name": {
+          "local": "Ifedayo",
+          "en": "Ifedayo",
+          "slug": "ifedayo-ng030015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.962",
+      "lon": "4.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030015_balogun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Balogun",
+      "en": "Balogun",
+      "slug": "balogun"
+    },
+    "code": {
+      "id": "NG030015_balogun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030015",
+      "level": 2,
+      "name": {
+        "local": "Ifedayo",
+        "en": "Ifedayo",
+        "slug": "ifedayo-ng030015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030015",
+        "level": 2,
+        "name": {
+          "local": "Ifedayo",
+          "en": "Ifedayo",
+          "slug": "ifedayo-ng030015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.962",
+      "lon": "4.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030015_co-operative",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Co-operative",
+      "en": "Co-operative",
+      "slug": "co-operative"
+    },
+    "code": {
+      "id": "NG030015_co-operative",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030015",
+      "level": 2,
+      "name": {
+        "local": "Ifedayo",
+        "en": "Ifedayo",
+        "slug": "ifedayo-ng030015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030015",
+        "level": 2,
+        "name": {
+          "local": "Ifedayo",
+          "en": "Ifedayo",
+          "slug": "ifedayo-ng030015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.962",
+      "lon": "4.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030015_isinmi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isinmi",
+      "en": "Isinmi",
+      "slug": "isinmi"
+    },
+    "code": {
+      "id": "NG030015_isinmi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030015",
+      "level": 2,
+      "name": {
+        "local": "Ifedayo",
+        "en": "Ifedayo",
+        "slug": "ifedayo-ng030015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030015",
+        "level": 2,
+        "name": {
+          "local": "Ifedayo",
+          "en": "Ifedayo",
+          "slug": "ifedayo-ng030015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.962",
+      "lon": "4.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030015_obaale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obaale",
+      "en": "Obaale",
+      "slug": "obaale"
+    },
+    "code": {
+      "id": "NG030015_obaale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030015",
+      "level": 2,
+      "name": {
+        "local": "Ifedayo",
+        "en": "Ifedayo",
+        "slug": "ifedayo-ng030015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030015",
+        "level": 2,
+        "name": {
+          "local": "Ifedayo",
+          "en": "Ifedayo",
+          "slug": "ifedayo-ng030015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.962",
+      "lon": "4.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030015_oyi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oyi",
+      "en": "Oyi",
+      "slug": "oyi"
+    },
+    "code": {
+      "id": "NG030015_oyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030015",
+      "level": 2,
+      "name": {
+        "local": "Ifedayo",
+        "en": "Ifedayo",
+        "slug": "ifedayo-ng030015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030015",
+        "level": 2,
+        "name": {
+          "local": "Ifedayo",
+          "en": "Ifedayo",
+          "slug": "ifedayo-ng030015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.962",
+      "lon": "4.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030015_temidire",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Temidire",
+      "en": "Temidire",
+      "slug": "temidire"
+    },
+    "code": {
+      "id": "NG030015_temidire",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030015",
+      "level": 2,
+      "name": {
+        "local": "Ifedayo",
+        "en": "Ifedayo",
+        "slug": "ifedayo-ng030015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030015",
+        "level": 2,
+        "name": {
+          "local": "Ifedayo",
+          "en": "Ifedayo",
+          "slug": "ifedayo-ng030015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.962",
+      "lon": "4.985"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG005015_balma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Balma",
+      "en": "Balma",
+      "slug": "balma"
+    },
+    "code": {
+      "id": "NG005015_balma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005015",
+      "level": 2,
+      "name": {
+        "local": "Ningi",
+        "en": "Ningi",
+        "slug": "ningi-ng005015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005015",
+        "level": 2,
+        "name": {
+          "local": "Ningi",
+          "en": "Ningi",
+          "slug": "ningi-ng005015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "9.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005015_bashe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bashe",
+      "en": "Bashe",
+      "slug": "bashe"
+    },
+    "code": {
+      "id": "NG005015_bashe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005015",
+      "level": 2,
+      "name": {
+        "local": "Ningi",
+        "en": "Ningi",
+        "slug": "ningi-ng005015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005015",
+        "level": 2,
+        "name": {
+          "local": "Ningi",
+          "en": "Ningi",
+          "slug": "ningi-ng005015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "9.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005015_burra-kyata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Burra / Kyata",
+      "en": "Burra / Kyata",
+      "slug": "burra-kyata"
+    },
+    "code": {
+      "id": "NG005015_burra-kyata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005015",
+      "level": 2,
+      "name": {
+        "local": "Ningi",
+        "en": "Ningi",
+        "slug": "ningi-ng005015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005015",
+        "level": 2,
+        "name": {
+          "local": "Ningi",
+          "en": "Ningi",
+          "slug": "ningi-ng005015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "9.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005015_dingis",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dingis",
+      "en": "Dingis",
+      "slug": "dingis"
+    },
+    "code": {
+      "id": "NG005015_dingis",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005015",
+      "level": 2,
+      "name": {
+        "local": "Ningi",
+        "en": "Ningi",
+        "slug": "ningi-ng005015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005015",
+        "level": 2,
+        "name": {
+          "local": "Ningi",
+          "en": "Ningi",
+          "slug": "ningi-ng005015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "9.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005015_jangu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jangu",
+      "en": "Jangu",
+      "slug": "jangu"
+    },
+    "code": {
+      "id": "NG005015_jangu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005015",
+      "level": 2,
+      "name": {
+        "local": "Ningi",
+        "en": "Ningi",
+        "slug": "ningi-ng005015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005015",
+        "level": 2,
+        "name": {
+          "local": "Ningi",
+          "en": "Ningi",
+          "slug": "ningi-ng005015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "9.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005015_kudu-yamma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kudu / Yamma",
+      "en": "Kudu / Yamma",
+      "slug": "kudu-yamma"
+    },
+    "code": {
+      "id": "NG005015_kudu-yamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005015",
+      "level": 2,
+      "name": {
+        "local": "Ningi",
+        "en": "Ningi",
+        "slug": "ningi-ng005015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005015",
+        "level": 2,
+        "name": {
+          "local": "Ningi",
+          "en": "Ningi",
+          "slug": "ningi-ng005015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "9.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005015_kurmi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurmi",
+      "en": "Kurmi",
+      "slug": "kurmi"
+    },
+    "code": {
+      "id": "NG005015_kurmi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005015",
+      "level": 2,
+      "name": {
+        "local": "Ningi",
+        "en": "Ningi",
+        "slug": "ningi-ng005015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005015",
+        "level": 2,
+        "name": {
+          "local": "Ningi",
+          "en": "Ningi",
+          "slug": "ningi-ng005015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "9.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005015_nasaru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasaru",
+      "en": "Nasaru",
+      "slug": "nasaru"
+    },
+    "code": {
+      "id": "NG005015_nasaru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005015",
+      "level": 2,
+      "name": {
+        "local": "Ningi",
+        "en": "Ningi",
+        "slug": "ningi-ng005015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005015",
+        "level": 2,
+        "name": {
+          "local": "Ningi",
+          "en": "Ningi",
+          "slug": "ningi-ng005015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "9.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005015_ningi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ningi",
+      "en": "Ningi",
+      "slug": "ningi"
+    },
+    "code": {
+      "id": "NG005015_ningi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005015",
+      "level": 2,
+      "name": {
+        "local": "Ningi",
+        "en": "Ningi",
+        "slug": "ningi-ng005015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005015",
+        "level": 2,
+        "name": {
+          "local": "Ningi",
+          "en": "Ningi",
+          "slug": "ningi-ng005015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "9.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005015_sama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sama",
+      "en": "Sama",
+      "slug": "sama"
+    },
+    "code": {
+      "id": "NG005015_sama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005015",
+      "level": 2,
+      "name": {
+        "local": "Ningi",
+        "en": "Ningi",
+        "slug": "ningi-ng005015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005015",
+        "level": 2,
+        "name": {
+          "local": "Ningi",
+          "en": "Ningi",
+          "slug": "ningi-ng005015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "9.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005015_tiffi-guda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tiffi / Guda",
+      "en": "Tiffi / Guda",
+      "slug": "tiffi-guda"
+    },
+    "code": {
+      "id": "NG005015_tiffi-guda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005015",
+      "level": 2,
+      "name": {
+        "local": "Ningi",
+        "en": "Ningi",
+        "slug": "ningi-ng005015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005015",
+        "level": 2,
+        "name": {
+          "local": "Ningi",
+          "en": "Ningi",
+          "slug": "ningi-ng005015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.063",
+      "lon": "9.207"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

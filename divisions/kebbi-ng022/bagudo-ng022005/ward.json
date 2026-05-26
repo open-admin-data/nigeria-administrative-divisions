@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG022005_bagudotuga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bagudo/tuga",
+      "en": "Bagudo/tuga",
+      "slug": "bagudotuga"
+    },
+    "code": {
+      "id": "NG022005_bagudotuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022005",
+      "level": 2,
+      "name": {
+        "local": "Bagudo",
+        "en": "Bagudo",
+        "slug": "bagudo-ng022005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022005",
+        "level": 2,
+        "name": {
+          "local": "Bagudo",
+          "en": "Bagudo",
+          "slug": "bagudo-ng022005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.315",
+      "lon": "3.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022005_bahindiboki-doma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bahindi/boki-doma",
+      "en": "Bahindi/boki-doma",
+      "slug": "bahindiboki-doma"
+    },
+    "code": {
+      "id": "NG022005_bahindiboki-doma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022005",
+      "level": 2,
+      "name": {
+        "local": "Bagudo",
+        "en": "Bagudo",
+        "slug": "bagudo-ng022005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022005",
+        "level": 2,
+        "name": {
+          "local": "Bagudo",
+          "en": "Bagudo",
+          "slug": "bagudo-ng022005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.315",
+      "lon": "3.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022005_banitsamiyakali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bani/tsamiya/kali",
+      "en": "Bani/tsamiya/kali",
+      "slug": "banitsamiyakali"
+    },
+    "code": {
+      "id": "NG022005_banitsamiyakali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022005",
+      "level": 2,
+      "name": {
+        "local": "Bagudo",
+        "en": "Bagudo",
+        "slug": "bagudo-ng022005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022005",
+        "level": 2,
+        "name": {
+          "local": "Bagudo",
+          "en": "Bagudo",
+          "slug": "bagudo-ng022005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.315",
+      "lon": "3.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022005_illosabongariyantau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Illo/sabon/gari/yantau",
+      "en": "Illo/sabon/gari/yantau",
+      "slug": "illosabongariyantau"
+    },
+    "code": {
+      "id": "NG022005_illosabongariyantau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022005",
+      "level": 2,
+      "name": {
+        "local": "Bagudo",
+        "en": "Bagudo",
+        "slug": "bagudo-ng022005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022005",
+        "level": 2,
+        "name": {
+          "local": "Bagudo",
+          "en": "Bagudo",
+          "slug": "bagudo-ng022005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.315",
+      "lon": "3.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022005_kaojegwamba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaoje/gwamba",
+      "en": "Kaoje/gwamba",
+      "slug": "kaojegwamba"
+    },
+    "code": {
+      "id": "NG022005_kaojegwamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022005",
+      "level": 2,
+      "name": {
+        "local": "Bagudo",
+        "en": "Bagudo",
+        "slug": "bagudo-ng022005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022005",
+        "level": 2,
+        "name": {
+          "local": "Bagudo",
+          "en": "Bagudo",
+          "slug": "bagudo-ng022005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.315",
+      "lon": "3.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022005_kendekurgu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kende/kurgu",
+      "en": "Kende/kurgu",
+      "slug": "kendekurgu"
+    },
+    "code": {
+      "id": "NG022005_kendekurgu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022005",
+      "level": 2,
+      "name": {
+        "local": "Bagudo",
+        "en": "Bagudo",
+        "slug": "bagudo-ng022005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022005",
+        "level": 2,
+        "name": {
+          "local": "Bagudo",
+          "en": "Bagudo",
+          "slug": "bagudo-ng022005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.315",
+      "lon": "3.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022005_lafagugante",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lafagu/gante",
+      "en": "Lafagu/gante",
+      "slug": "lafagugante"
+    },
+    "code": {
+      "id": "NG022005_lafagugante",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022005",
+      "level": 2,
+      "name": {
+        "local": "Bagudo",
+        "en": "Bagudo",
+        "slug": "bagudo-ng022005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022005",
+        "level": 2,
+        "name": {
+          "local": "Bagudo",
+          "en": "Bagudo",
+          "slug": "bagudo-ng022005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.315",
+      "lon": "3.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022005_lologiris",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lolo/giris",
+      "en": "Lolo/giris",
+      "slug": "lologiris"
+    },
+    "code": {
+      "id": "NG022005_lologiris",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022005",
+      "level": 2,
+      "name": {
+        "local": "Bagudo",
+        "en": "Bagudo",
+        "slug": "bagudo-ng022005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022005",
+        "level": 2,
+        "name": {
+          "local": "Bagudo",
+          "en": "Bagudo",
+          "slug": "bagudo-ng022005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.315",
+      "lon": "3.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022005_matsinkageza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Matsinka/geza",
+      "en": "Matsinka/geza",
+      "slug": "matsinkageza"
+    },
+    "code": {
+      "id": "NG022005_matsinkageza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022005",
+      "level": 2,
+      "name": {
+        "local": "Bagudo",
+        "en": "Bagudo",
+        "slug": "bagudo-ng022005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022005",
+        "level": 2,
+        "name": {
+          "local": "Bagudo",
+          "en": "Bagudo",
+          "slug": "bagudo-ng022005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.315",
+      "lon": "3.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022005_sharabikwanguwai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sharabi/kwanguwai",
+      "en": "Sharabi/kwanguwai",
+      "slug": "sharabikwanguwai"
+    },
+    "code": {
+      "id": "NG022005_sharabikwanguwai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022005",
+      "level": 2,
+      "name": {
+        "local": "Bagudo",
+        "en": "Bagudo",
+        "slug": "bagudo-ng022005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022005",
+        "level": 2,
+        "name": {
+          "local": "Bagudo",
+          "en": "Bagudo",
+          "slug": "bagudo-ng022005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.315",
+      "lon": "3.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022005_zaggakwasara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zagga/kwasara",
+      "en": "Zagga/kwasara",
+      "slug": "zaggakwasara"
+    },
+    "code": {
+      "id": "NG022005_zaggakwasara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022005",
+      "level": 2,
+      "name": {
+        "local": "Bagudo",
+        "en": "Bagudo",
+        "slug": "bagudo-ng022005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022005",
+        "level": 2,
+        "name": {
+          "local": "Bagudo",
+          "en": "Bagudo",
+          "slug": "bagudo-ng022005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.315",
+      "lon": "3.853"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021012_bagagadi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bagagadi",
+      "en": "Bagagadi",
+      "slug": "bagagadi"
+    },
+    "code": {
+      "id": "NG021012_bagagadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021012",
+      "level": 2,
+      "name": {
+        "local": "Dutsin-Ma",
+        "en": "Dutsin-Ma",
+        "slug": "dutsin-ma-ng021012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021012",
+        "level": 2,
+        "name": {
+          "local": "Dutsin-Ma",
+          "en": "Dutsin-Ma",
+          "slug": "dutsin-ma-ng021012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.415",
+      "lon": "7.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021012_dabawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dabawa",
+      "en": "Dabawa",
+      "slug": "dabawa"
+    },
+    "code": {
+      "id": "NG021012_dabawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021012",
+      "level": 2,
+      "name": {
+        "local": "Dutsin-Ma",
+        "en": "Dutsin-Ma",
+        "slug": "dutsin-ma-ng021012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021012",
+        "level": 2,
+        "name": {
+          "local": "Dutsin-Ma",
+          "en": "Dutsin-Ma",
+          "slug": "dutsin-ma-ng021012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.415",
+      "lon": "7.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021012_dutsin-ma-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dutsin-ma A",
+      "en": "Dutsin-ma A",
+      "slug": "dutsin-ma-a"
+    },
+    "code": {
+      "id": "NG021012_dutsin-ma-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021012",
+      "level": 2,
+      "name": {
+        "local": "Dutsin-Ma",
+        "en": "Dutsin-Ma",
+        "slug": "dutsin-ma-ng021012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021012",
+        "level": 2,
+        "name": {
+          "local": "Dutsin-Ma",
+          "en": "Dutsin-Ma",
+          "slug": "dutsin-ma-ng021012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.415",
+      "lon": "7.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021012_dutsin-ma-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dutsin-ma B",
+      "en": "Dutsin-ma B",
+      "slug": "dutsin-ma-b"
+    },
+    "code": {
+      "id": "NG021012_dutsin-ma-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021012",
+      "level": 2,
+      "name": {
+        "local": "Dutsin-Ma",
+        "en": "Dutsin-Ma",
+        "slug": "dutsin-ma-ng021012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021012",
+        "level": 2,
+        "name": {
+          "local": "Dutsin-Ma",
+          "en": "Dutsin-Ma",
+          "slug": "dutsin-ma-ng021012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.415",
+      "lon": "7.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021012_karofi-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karofi A",
+      "en": "Karofi A",
+      "slug": "karofi-a"
+    },
+    "code": {
+      "id": "NG021012_karofi-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021012",
+      "level": 2,
+      "name": {
+        "local": "Dutsin-Ma",
+        "en": "Dutsin-Ma",
+        "slug": "dutsin-ma-ng021012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021012",
+        "level": 2,
+        "name": {
+          "local": "Dutsin-Ma",
+          "en": "Dutsin-Ma",
+          "slug": "dutsin-ma-ng021012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.415",
+      "lon": "7.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021012_karofi-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karofi B",
+      "en": "Karofi B",
+      "slug": "karofi-b"
+    },
+    "code": {
+      "id": "NG021012_karofi-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021012",
+      "level": 2,
+      "name": {
+        "local": "Dutsin-Ma",
+        "en": "Dutsin-Ma",
+        "slug": "dutsin-ma-ng021012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021012",
+        "level": 2,
+        "name": {
+          "local": "Dutsin-Ma",
+          "en": "Dutsin-Ma",
+          "slug": "dutsin-ma-ng021012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.415",
+      "lon": "7.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021012_kuki-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuki A",
+      "en": "Kuki A",
+      "slug": "kuki-a"
+    },
+    "code": {
+      "id": "NG021012_kuki-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021012",
+      "level": 2,
+      "name": {
+        "local": "Dutsin-Ma",
+        "en": "Dutsin-Ma",
+        "slug": "dutsin-ma-ng021012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021012",
+        "level": 2,
+        "name": {
+          "local": "Dutsin-Ma",
+          "en": "Dutsin-Ma",
+          "slug": "dutsin-ma-ng021012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.415",
+      "lon": "7.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021012_kuki-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuki B",
+      "en": "Kuki B",
+      "slug": "kuki-b"
+    },
+    "code": {
+      "id": "NG021012_kuki-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021012",
+      "level": 2,
+      "name": {
+        "local": "Dutsin-Ma",
+        "en": "Dutsin-Ma",
+        "slug": "dutsin-ma-ng021012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021012",
+        "level": 2,
+        "name": {
+          "local": "Dutsin-Ma",
+          "en": "Dutsin-Ma",
+          "slug": "dutsin-ma-ng021012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.415",
+      "lon": "7.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021012_kutawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kutawa",
+      "en": "Kutawa",
+      "slug": "kutawa"
+    },
+    "code": {
+      "id": "NG021012_kutawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021012",
+      "level": 2,
+      "name": {
+        "local": "Dutsin-Ma",
+        "en": "Dutsin-Ma",
+        "slug": "dutsin-ma-ng021012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021012",
+        "level": 2,
+        "name": {
+          "local": "Dutsin-Ma",
+          "en": "Dutsin-Ma",
+          "slug": "dutsin-ma-ng021012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.415",
+      "lon": "7.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021012_makera",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makera",
+      "en": "Makera",
+      "slug": "makera"
+    },
+    "code": {
+      "id": "NG021012_makera",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021012",
+      "level": 2,
+      "name": {
+        "local": "Dutsin-Ma",
+        "en": "Dutsin-Ma",
+        "slug": "dutsin-ma-ng021012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021012",
+        "level": 2,
+        "name": {
+          "local": "Dutsin-Ma",
+          "en": "Dutsin-Ma",
+          "slug": "dutsin-ma-ng021012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.415",
+      "lon": "7.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021012_shema",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shema",
+      "en": "Shema",
+      "slug": "shema"
+    },
+    "code": {
+      "id": "NG021012_shema",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021012",
+      "level": 2,
+      "name": {
+        "local": "Dutsin-Ma",
+        "en": "Dutsin-Ma",
+        "slug": "dutsin-ma-ng021012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021012",
+        "level": 2,
+        "name": {
+          "local": "Dutsin-Ma",
+          "en": "Dutsin-Ma",
+          "slug": "dutsin-ma-ng021012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.415",
+      "lon": "7.525"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

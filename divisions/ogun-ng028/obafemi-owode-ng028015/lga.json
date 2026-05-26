@@ -1,0 +1,47 @@
+{
+  "id": "NG028015",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Obafemi-Owode",
+    "en": "Obafemi-Owode",
+    "slug": "obafemi-owode-ng028015"
+  },
+  "code": {
+    "id": "NG028015",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG028",
+    "level": 1,
+    "name": {
+      "local": "Ogun",
+      "en": "Ogun",
+      "slug": "ogun-ng028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.961",
+    "lon": "3.47"
+  },
+  "metadata": {},
+  "source": {}
+}

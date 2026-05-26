@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG036017_alanjirori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alanjirori",
+      "en": "Alanjirori",
+      "slug": "alanjirori"
+    },
+    "code": {
+      "id": "NG036017_alanjirori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036017",
+      "level": 2,
+      "name": {
+        "local": "Yusufari",
+        "en": "Yusufari",
+        "slug": "yusufari-ng036017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036017",
+        "level": 2,
+        "name": {
+          "local": "Yusufari",
+          "en": "Yusufari",
+          "slug": "yusufari-ng036017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.16",
+      "lon": "10.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036017_gumshi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gumshi",
+      "en": "Gumshi",
+      "slug": "gumshi"
+    },
+    "code": {
+      "id": "NG036017_gumshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036017",
+      "level": 2,
+      "name": {
+        "local": "Yusufari",
+        "en": "Yusufari",
+        "slug": "yusufari-ng036017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036017",
+        "level": 2,
+        "name": {
+          "local": "Yusufari",
+          "en": "Yusufari",
+          "slug": "yusufari-ng036017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.168",
+      "lon": "10.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036017_guya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guya",
+      "en": "Guya",
+      "slug": "guya"
+    },
+    "code": {
+      "id": "NG036017_guya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036017",
+      "level": 2,
+      "name": {
+        "local": "Yusufari",
+        "en": "Yusufari",
+        "slug": "yusufari-ng036017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036017",
+        "level": 2,
+        "name": {
+          "local": "Yusufari",
+          "en": "Yusufari",
+          "slug": "yusufari-ng036017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.052",
+      "lon": "11.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036017_jebuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jebuwa",
+      "en": "Jebuwa",
+      "slug": "jebuwa"
+    },
+    "code": {
+      "id": "NG036017_jebuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036017",
+      "level": 2,
+      "name": {
+        "local": "Yusufari",
+        "en": "Yusufari",
+        "slug": "yusufari-ng036017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036017",
+        "level": 2,
+        "name": {
+          "local": "Yusufari",
+          "en": "Yusufari",
+          "slug": "yusufari-ng036017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.114",
+      "lon": "10.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036017_kajimaramsumbar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kajimaram/sumbar",
+      "en": "Kajimaram/sumbar",
+      "slug": "kajimaramsumbar"
+    },
+    "code": {
+      "id": "NG036017_kajimaramsumbar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036017",
+      "level": 2,
+      "name": {
+        "local": "Yusufari",
+        "en": "Yusufari",
+        "slug": "yusufari-ng036017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036017",
+        "level": 2,
+        "name": {
+          "local": "Yusufari",
+          "en": "Yusufari",
+          "slug": "yusufari-ng036017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.19",
+      "lon": "10.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036017_kaskatulotulowa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaska/tulotulowa",
+      "en": "Kaska/tulotulowa",
+      "slug": "kaskatulotulowa"
+    },
+    "code": {
+      "id": "NG036017_kaskatulotulowa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036017",
+      "level": 2,
+      "name": {
+        "local": "Yusufari",
+        "en": "Yusufari",
+        "slug": "yusufari-ng036017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036017",
+        "level": 2,
+        "name": {
+          "local": "Yusufari",
+          "en": "Yusufari",
+          "slug": "yusufari-ng036017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.255",
+      "lon": "10.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036017_kumagannam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumagannam",
+      "en": "Kumagannam",
+      "slug": "kumagannam"
+    },
+    "code": {
+      "id": "NG036017_kumagannam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036017",
+      "level": 2,
+      "name": {
+        "local": "Yusufari",
+        "en": "Yusufari",
+        "slug": "yusufari-ng036017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036017",
+        "level": 2,
+        "name": {
+          "local": "Yusufari",
+          "en": "Yusufari",
+          "slug": "yusufari-ng036017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.154",
+      "lon": "10.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036017_mai-malari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mai-malari",
+      "en": "Mai-malari",
+      "slug": "mai-malari"
+    },
+    "code": {
+      "id": "NG036017_mai-malari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036017",
+      "level": 2,
+      "name": {
+        "local": "Yusufari",
+        "en": "Yusufari",
+        "slug": "yusufari-ng036017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036017",
+        "level": 2,
+        "name": {
+          "local": "Yusufari",
+          "en": "Yusufari",
+          "slug": "yusufari-ng036017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.16",
+      "lon": "10.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036017_mayori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayori",
+      "en": "Mayori",
+      "slug": "mayori"
+    },
+    "code": {
+      "id": "NG036017_mayori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036017",
+      "level": 2,
+      "name": {
+        "local": "Yusufari",
+        "en": "Yusufari",
+        "slug": "yusufari-ng036017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036017",
+        "level": 2,
+        "name": {
+          "local": "Yusufari",
+          "en": "Yusufari",
+          "slug": "yusufari-ng036017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.271",
+      "lon": "10.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036017_yusufari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yusufari",
+      "en": "Yusufari",
+      "slug": "yusufari"
+    },
+    "code": {
+      "id": "NG036017_yusufari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036017",
+      "level": 2,
+      "name": {
+        "local": "Yusufari",
+        "en": "Yusufari",
+        "slug": "yusufari-ng036017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036017",
+        "level": 2,
+        "name": {
+          "local": "Yusufari",
+          "en": "Yusufari",
+          "slug": "yusufari-ng036017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.216",
+      "lon": "11.241"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

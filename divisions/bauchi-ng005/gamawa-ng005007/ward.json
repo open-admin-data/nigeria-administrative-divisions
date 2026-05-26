@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG005007_alagarnojadori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alagarno/jadori",
+      "en": "Alagarno/jadori",
+      "slug": "alagarnojadori"
+    },
+    "code": {
+      "id": "NG005007_alagarnojadori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005007",
+      "level": 2,
+      "name": {
+        "local": "Gamawa",
+        "en": "Gamawa",
+        "slug": "gamawa-ng005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005007",
+        "level": 2,
+        "name": {
+          "local": "Gamawa",
+          "en": "Gamawa",
+          "slug": "gamawa-ng005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.029",
+      "lon": "10.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005007_gadiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gadiya",
+      "en": "Gadiya",
+      "slug": "gadiya"
+    },
+    "code": {
+      "id": "NG005007_gadiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005007",
+      "level": 2,
+      "name": {
+        "local": "Gamawa",
+        "en": "Gamawa",
+        "slug": "gamawa-ng005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005007",
+        "level": 2,
+        "name": {
+          "local": "Gamawa",
+          "en": "Gamawa",
+          "slug": "gamawa-ng005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.029",
+      "lon": "10.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005007_gamawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamawa",
+      "en": "Gamawa",
+      "slug": "gamawa"
+    },
+    "code": {
+      "id": "NG005007_gamawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005007",
+      "level": 2,
+      "name": {
+        "local": "Gamawa",
+        "en": "Gamawa",
+        "slug": "gamawa-ng005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005007",
+        "level": 2,
+        "name": {
+          "local": "Gamawa",
+          "en": "Gamawa",
+          "slug": "gamawa-ng005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.029",
+      "lon": "10.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005007_gololo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gololo",
+      "en": "Gololo",
+      "slug": "gololo"
+    },
+    "code": {
+      "id": "NG005007_gololo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005007",
+      "level": 2,
+      "name": {
+        "local": "Gamawa",
+        "en": "Gamawa",
+        "slug": "gamawa-ng005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005007",
+        "level": 2,
+        "name": {
+          "local": "Gamawa",
+          "en": "Gamawa",
+          "slug": "gamawa-ng005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.029",
+      "lon": "10.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005007_kafin-romi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafin Romi",
+      "en": "Kafin Romi",
+      "slug": "kafin-romi"
+    },
+    "code": {
+      "id": "NG005007_kafin-romi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005007",
+      "level": 2,
+      "name": {
+        "local": "Gamawa",
+        "en": "Gamawa",
+        "slug": "gamawa-ng005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005007",
+        "level": 2,
+        "name": {
+          "local": "Gamawa",
+          "en": "Gamawa",
+          "slug": "gamawa-ng005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.029",
+      "lon": "10.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005007_kubdiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kubdiya",
+      "en": "Kubdiya",
+      "slug": "kubdiya"
+    },
+    "code": {
+      "id": "NG005007_kubdiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005007",
+      "level": 2,
+      "name": {
+        "local": "Gamawa",
+        "en": "Gamawa",
+        "slug": "gamawa-ng005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005007",
+        "level": 2,
+        "name": {
+          "local": "Gamawa",
+          "en": "Gamawa",
+          "slug": "gamawa-ng005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.029",
+      "lon": "10.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005007_raga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Raga",
+      "en": "Raga",
+      "slug": "raga"
+    },
+    "code": {
+      "id": "NG005007_raga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005007",
+      "level": 2,
+      "name": {
+        "local": "Gamawa",
+        "en": "Gamawa",
+        "slug": "gamawa-ng005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005007",
+        "level": 2,
+        "name": {
+          "local": "Gamawa",
+          "en": "Gamawa",
+          "slug": "gamawa-ng005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.029",
+      "lon": "10.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005007_tarmasuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tarmasuwa",
+      "en": "Tarmasuwa",
+      "slug": "tarmasuwa"
+    },
+    "code": {
+      "id": "NG005007_tarmasuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005007",
+      "level": 2,
+      "name": {
+        "local": "Gamawa",
+        "en": "Gamawa",
+        "slug": "gamawa-ng005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005007",
+        "level": 2,
+        "name": {
+          "local": "Gamawa",
+          "en": "Gamawa",
+          "slug": "gamawa-ng005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.029",
+      "lon": "10.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005007_tumbi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tumbi",
+      "en": "Tumbi",
+      "slug": "tumbi"
+    },
+    "code": {
+      "id": "NG005007_tumbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005007",
+      "level": 2,
+      "name": {
+        "local": "Gamawa",
+        "en": "Gamawa",
+        "slug": "gamawa-ng005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005007",
+        "level": 2,
+        "name": {
+          "local": "Gamawa",
+          "en": "Gamawa",
+          "slug": "gamawa-ng005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.029",
+      "lon": "10.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005007_udubo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Udubo",
+      "en": "Udubo",
+      "slug": "udubo"
+    },
+    "code": {
+      "id": "NG005007_udubo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005007",
+      "level": 2,
+      "name": {
+        "local": "Gamawa",
+        "en": "Gamawa",
+        "slug": "gamawa-ng005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005007",
+        "level": 2,
+        "name": {
+          "local": "Gamawa",
+          "en": "Gamawa",
+          "slug": "gamawa-ng005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.029",
+      "lon": "10.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005007_zindi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zindi",
+      "en": "Zindi",
+      "slug": "zindi"
+    },
+    "code": {
+      "id": "NG005007_zindi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005007",
+      "level": 2,
+      "name": {
+        "local": "Gamawa",
+        "en": "Gamawa",
+        "slug": "gamawa-ng005007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005007",
+        "level": 2,
+        "name": {
+          "local": "Gamawa",
+          "en": "Gamawa",
+          "slug": "gamawa-ng005007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.029",
+      "lon": "10.608"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

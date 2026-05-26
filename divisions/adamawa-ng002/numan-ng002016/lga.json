@@ -1,0 +1,47 @@
+{
+  "id": "NG002016",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Numan",
+    "en": "Numan",
+    "slug": "numan-ng002016"
+  },
+  "code": {
+    "id": "NG002016",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG002",
+    "level": 1,
+    "name": {
+      "local": "Adamawa",
+      "en": "Adamawa",
+      "slug": "adamawa-ng002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.451",
+    "lon": "11.841"
+  },
+  "metadata": {},
+  "source": {}
+}

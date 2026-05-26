@@ -1,0 +1,47 @@
+{
+  "id": "NG010019",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ughelli North",
+    "en": "Ughelli North",
+    "slug": "ughelli-north-ng010019"
+  },
+  "code": {
+    "id": "NG010019",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG010",
+    "level": 1,
+    "name": {
+      "local": "Delta",
+      "en": "Delta",
+      "slug": "delta-ng010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.487",
+    "lon": "6.011"
+  },
+  "metadata": {},
+  "source": {}
+}

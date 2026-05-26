@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG016001_akko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akko",
+      "en": "Akko",
+      "slug": "akko"
+    },
+    "code": {
+      "id": "NG016001_akko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016001",
+      "level": 2,
+      "name": {
+        "local": "Akko",
+        "en": "Akko",
+        "slug": "akko-ng016001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016001",
+        "level": 2,
+        "name": {
+          "local": "Akko",
+          "en": "Akko",
+          "slug": "akko-ng016001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016001_garko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garko",
+      "en": "Garko",
+      "slug": "garko"
+    },
+    "code": {
+      "id": "NG016001_garko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016001",
+      "level": 2,
+      "name": {
+        "local": "Akko",
+        "en": "Akko",
+        "slug": "akko-ng016001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016001",
+        "level": 2,
+        "name": {
+          "local": "Akko",
+          "en": "Akko",
+          "slug": "akko-ng016001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016001_kalshingi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kalshingi",
+      "en": "Kalshingi",
+      "slug": "kalshingi"
+    },
+    "code": {
+      "id": "NG016001_kalshingi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016001",
+      "level": 2,
+      "name": {
+        "local": "Akko",
+        "en": "Akko",
+        "slug": "akko-ng016001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016001",
+        "level": 2,
+        "name": {
+          "local": "Akko",
+          "en": "Akko",
+          "slug": "akko-ng016001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016001_kashere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kashere",
+      "en": "Kashere",
+      "slug": "kashere"
+    },
+    "code": {
+      "id": "NG016001_kashere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016001",
+      "level": 2,
+      "name": {
+        "local": "Akko",
+        "en": "Akko",
+        "slug": "akko-ng016001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016001",
+        "level": 2,
+        "name": {
+          "local": "Akko",
+          "en": "Akko",
+          "slug": "akko-ng016001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016001_kumo-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumo Central",
+      "en": "Kumo Central",
+      "slug": "kumo-central"
+    },
+    "code": {
+      "id": "NG016001_kumo-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016001",
+      "level": 2,
+      "name": {
+        "local": "Akko",
+        "en": "Akko",
+        "slug": "akko-ng016001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016001",
+        "level": 2,
+        "name": {
+          "local": "Akko",
+          "en": "Akko",
+          "slug": "akko-ng016001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016001_kumo-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumo East",
+      "en": "Kumo East",
+      "slug": "kumo-east"
+    },
+    "code": {
+      "id": "NG016001_kumo-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016001",
+      "level": 2,
+      "name": {
+        "local": "Akko",
+        "en": "Akko",
+        "slug": "akko-ng016001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016001",
+        "level": 2,
+        "name": {
+          "local": "Akko",
+          "en": "Akko",
+          "slug": "akko-ng016001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016001_kumo-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumo North",
+      "en": "Kumo North",
+      "slug": "kumo-north"
+    },
+    "code": {
+      "id": "NG016001_kumo-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016001",
+      "level": 2,
+      "name": {
+        "local": "Akko",
+        "en": "Akko",
+        "slug": "akko-ng016001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016001",
+        "level": 2,
+        "name": {
+          "local": "Akko",
+          "en": "Akko",
+          "slug": "akko-ng016001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016001_kumo-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumo West",
+      "en": "Kumo West",
+      "slug": "kumo-west"
+    },
+    "code": {
+      "id": "NG016001_kumo-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016001",
+      "level": 2,
+      "name": {
+        "local": "Akko",
+        "en": "Akko",
+        "slug": "akko-ng016001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016001",
+        "level": 2,
+        "name": {
+          "local": "Akko",
+          "en": "Akko",
+          "slug": "akko-ng016001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016001_pindiga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pindiga",
+      "en": "Pindiga",
+      "slug": "pindiga"
+    },
+    "code": {
+      "id": "NG016001_pindiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016001",
+      "level": 2,
+      "name": {
+        "local": "Akko",
+        "en": "Akko",
+        "slug": "akko-ng016001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016001",
+        "level": 2,
+        "name": {
+          "local": "Akko",
+          "en": "Akko",
+          "slug": "akko-ng016001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016001_tukulma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tukulma",
+      "en": "Tukulma",
+      "slug": "tukulma"
+    },
+    "code": {
+      "id": "NG016001_tukulma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016001",
+      "level": 2,
+      "name": {
+        "local": "Akko",
+        "en": "Akko",
+        "slug": "akko-ng016001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016001",
+        "level": 2,
+        "name": {
+          "local": "Akko",
+          "en": "Akko",
+          "slug": "akko-ng016001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016001_tumu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tumu",
+      "en": "Tumu",
+      "slug": "tumu"
+    },
+    "code": {
+      "id": "NG016001_tumu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016001",
+      "level": 2,
+      "name": {
+        "local": "Akko",
+        "en": "Akko",
+        "slug": "akko-ng016001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016001",
+        "level": 2,
+        "name": {
+          "local": "Akko",
+          "en": "Akko",
+          "slug": "akko-ng016001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "10.994"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

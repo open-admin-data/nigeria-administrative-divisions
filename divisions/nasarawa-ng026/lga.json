@@ -1,0 +1,613 @@
+[
+  {
+    "id": "NG026001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Akwanga",
+      "en": "Akwanga",
+      "slug": "akwanga-ng026001"
+    },
+    "code": {
+      "id": "NG026001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.028",
+      "lon": "8.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Awe",
+      "en": "Awe",
+      "slug": "awe-ng026002"
+    },
+    "code": {
+      "id": "NG026002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.213",
+      "lon": "9.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Doma",
+      "en": "Doma",
+      "slug": "doma-ng026003"
+    },
+    "code": {
+      "id": "NG026003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Karu",
+      "en": "Karu",
+      "slug": "karu-ng026004"
+    },
+    "code": {
+      "id": "NG026004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Keana",
+      "en": "Keana",
+      "slug": "keana-ng026005"
+    },
+    "code": {
+      "id": "NG026005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "8.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Keffi",
+      "en": "Keffi",
+      "slug": "keffi-ng026006"
+    },
+    "code": {
+      "id": "NG026006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.857",
+      "lon": "7.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kokona",
+      "en": "Kokona",
+      "slug": "kokona-ng026007"
+    },
+    "code": {
+      "id": "NG026007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lafia",
+      "en": "Lafia",
+      "slug": "lafia-ng026008"
+    },
+    "code": {
+      "id": "NG026008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.716",
+      "lon": "8.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nasarawa",
+      "en": "Nasarawa",
+      "slug": "nasarawa-ng026009"
+    },
+    "code": {
+      "id": "NG026009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.322",
+      "lon": "7.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nasarawa-Eggon",
+      "en": "Nasarawa-Eggon",
+      "slug": "nasarawa-eggon-ng026010"
+    },
+    "code": {
+      "id": "NG026010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.746",
+      "lon": "8.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Obi",
+      "en": "Obi",
+      "slug": "obi-ng026011"
+    },
+    "code": {
+      "id": "NG026011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.37",
+      "lon": "8.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Toto",
+      "en": "Toto",
+      "slug": "toto-ng026012"
+    },
+    "code": {
+      "id": "NG026012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.262",
+      "lon": "7.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Wamba",
+      "en": "Wamba",
+      "slug": "wamba-ng026013"
+    },
+    "code": {
+      "id": "NG026013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "8.735"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

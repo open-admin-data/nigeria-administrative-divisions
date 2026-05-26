@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG015001_abaji-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abaji Central",
+      "en": "Abaji Central",
+      "slug": "abaji-central"
+    },
+    "code": {
+      "id": "NG015001_abaji-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015001",
+      "level": 2,
+      "name": {
+        "local": "Abaji",
+        "en": "Abaji",
+        "slug": "abaji-ng015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015001",
+        "level": 2,
+        "name": {
+          "local": "Abaji",
+          "en": "Abaji",
+          "slug": "abaji-ng015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.84",
+      "lon": "6.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015001_abaji-north-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abaji North East",
+      "en": "Abaji North East",
+      "slug": "abaji-north-east"
+    },
+    "code": {
+      "id": "NG015001_abaji-north-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015001",
+      "level": 2,
+      "name": {
+        "local": "Abaji",
+        "en": "Abaji",
+        "slug": "abaji-ng015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015001",
+        "level": 2,
+        "name": {
+          "local": "Abaji",
+          "en": "Abaji",
+          "slug": "abaji-ng015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.84",
+      "lon": "6.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015001_abaji-south-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abaji South East",
+      "en": "Abaji South East",
+      "slug": "abaji-south-east"
+    },
+    "code": {
+      "id": "NG015001_abaji-south-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015001",
+      "level": 2,
+      "name": {
+        "local": "Abaji",
+        "en": "Abaji",
+        "slug": "abaji-ng015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015001",
+        "level": 2,
+        "name": {
+          "local": "Abaji",
+          "en": "Abaji",
+          "slug": "abaji-ng015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.84",
+      "lon": "6.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015001_agyanapandagi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agyana/pandagi",
+      "en": "Agyana/pandagi",
+      "slug": "agyanapandagi"
+    },
+    "code": {
+      "id": "NG015001_agyanapandagi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015001",
+      "level": 2,
+      "name": {
+        "local": "Abaji",
+        "en": "Abaji",
+        "slug": "abaji-ng015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015001",
+        "level": 2,
+        "name": {
+          "local": "Abaji",
+          "en": "Abaji",
+          "slug": "abaji-ng015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.84",
+      "lon": "6.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015001_alu-mamagi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alu Mamagi",
+      "en": "Alu Mamagi",
+      "slug": "alu-mamagi"
+    },
+    "code": {
+      "id": "NG015001_alu-mamagi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015001",
+      "level": 2,
+      "name": {
+        "local": "Abaji",
+        "en": "Abaji",
+        "slug": "abaji-ng015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015001",
+        "level": 2,
+        "name": {
+          "local": "Abaji",
+          "en": "Abaji",
+          "slug": "abaji-ng015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.84",
+      "lon": "6.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015001_gawu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gawu",
+      "en": "Gawu",
+      "slug": "gawu"
+    },
+    "code": {
+      "id": "NG015001_gawu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015001",
+      "level": 2,
+      "name": {
+        "local": "Abaji",
+        "en": "Abaji",
+        "slug": "abaji-ng015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015001",
+        "level": 2,
+        "name": {
+          "local": "Abaji",
+          "en": "Abaji",
+          "slug": "abaji-ng015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.84",
+      "lon": "6.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015001_gurdi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gurdi",
+      "en": "Gurdi",
+      "slug": "gurdi"
+    },
+    "code": {
+      "id": "NG015001_gurdi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015001",
+      "level": 2,
+      "name": {
+        "local": "Abaji",
+        "en": "Abaji",
+        "slug": "abaji-ng015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015001",
+        "level": 2,
+        "name": {
+          "local": "Abaji",
+          "en": "Abaji",
+          "slug": "abaji-ng015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.84",
+      "lon": "6.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015001_nuku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nuku",
+      "en": "Nuku",
+      "slug": "nuku"
+    },
+    "code": {
+      "id": "NG015001_nuku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015001",
+      "level": 2,
+      "name": {
+        "local": "Abaji",
+        "en": "Abaji",
+        "slug": "abaji-ng015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015001",
+        "level": 2,
+        "name": {
+          "local": "Abaji",
+          "en": "Abaji",
+          "slug": "abaji-ng015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.84",
+      "lon": "6.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015001_rimba-ebagi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rimba Ebagi",
+      "en": "Rimba Ebagi",
+      "slug": "rimba-ebagi"
+    },
+    "code": {
+      "id": "NG015001_rimba-ebagi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015001",
+      "level": 2,
+      "name": {
+        "local": "Abaji",
+        "en": "Abaji",
+        "slug": "abaji-ng015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015001",
+        "level": 2,
+        "name": {
+          "local": "Abaji",
+          "en": "Abaji",
+          "slug": "abaji-ng015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.84",
+      "lon": "6.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015001_yaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yaba",
+      "en": "Yaba",
+      "slug": "yaba"
+    },
+    "code": {
+      "id": "NG015001_yaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015001",
+      "level": 2,
+      "name": {
+        "local": "Abaji",
+        "en": "Abaji",
+        "slug": "abaji-ng015001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015001",
+        "level": 2,
+        "name": {
+          "local": "Abaji",
+          "en": "Abaji",
+          "slug": "abaji-ng015001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.84",
+      "lon": "6.819"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021005_baure",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baure",
+      "en": "Baure",
+      "slug": "baure"
+    },
+    "code": {
+      "id": "NG021005_baure",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021005",
+      "level": 2,
+      "name": {
+        "local": "Bindawa",
+        "en": "Bindawa",
+        "slug": "bindawa-ng021005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021005",
+        "level": 2,
+        "name": {
+          "local": "Bindawa",
+          "en": "Bindawa",
+          "slug": "bindawa-ng021005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.709",
+      "lon": "7.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021005_bindawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bindawa",
+      "en": "Bindawa",
+      "slug": "bindawa"
+    },
+    "code": {
+      "id": "NG021005_bindawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021005",
+      "level": 2,
+      "name": {
+        "local": "Bindawa",
+        "en": "Bindawa",
+        "slug": "bindawa-ng021005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021005",
+        "level": 2,
+        "name": {
+          "local": "Bindawa",
+          "en": "Bindawa",
+          "slug": "bindawa-ng021005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.709",
+      "lon": "7.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021005_doro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doro",
+      "en": "Doro",
+      "slug": "doro"
+    },
+    "code": {
+      "id": "NG021005_doro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021005",
+      "level": 2,
+      "name": {
+        "local": "Bindawa",
+        "en": "Bindawa",
+        "slug": "bindawa-ng021005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021005",
+        "level": 2,
+        "name": {
+          "local": "Bindawa",
+          "en": "Bindawa",
+          "slug": "bindawa-ng021005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.709",
+      "lon": "7.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021005_farudallaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Faru/dallaji",
+      "en": "Faru/dallaji",
+      "slug": "farudallaji"
+    },
+    "code": {
+      "id": "NG021005_farudallaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021005",
+      "level": 2,
+      "name": {
+        "local": "Bindawa",
+        "en": "Bindawa",
+        "slug": "bindawa-ng021005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021005",
+        "level": 2,
+        "name": {
+          "local": "Bindawa",
+          "en": "Bindawa",
+          "slug": "bindawa-ng021005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.709",
+      "lon": "7.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021005_gaiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gaiwa",
+      "en": "Gaiwa",
+      "slug": "gaiwa"
+    },
+    "code": {
+      "id": "NG021005_gaiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021005",
+      "level": 2,
+      "name": {
+        "local": "Bindawa",
+        "en": "Bindawa",
+        "slug": "bindawa-ng021005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021005",
+        "level": 2,
+        "name": {
+          "local": "Bindawa",
+          "en": "Bindawa",
+          "slug": "bindawa-ng021005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.709",
+      "lon": "7.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021005_giremawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Giremawa",
+      "en": "Giremawa",
+      "slug": "giremawa"
+    },
+    "code": {
+      "id": "NG021005_giremawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021005",
+      "level": 2,
+      "name": {
+        "local": "Bindawa",
+        "en": "Bindawa",
+        "slug": "bindawa-ng021005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021005",
+        "level": 2,
+        "name": {
+          "local": "Bindawa",
+          "en": "Bindawa",
+          "slug": "bindawa-ng021005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.709",
+      "lon": "7.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021005_jibawarbade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jibawa/r,bade",
+      "en": "Jibawa/r,bade",
+      "slug": "jibawarbade"
+    },
+    "code": {
+      "id": "NG021005_jibawarbade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021005",
+      "level": 2,
+      "name": {
+        "local": "Bindawa",
+        "en": "Bindawa",
+        "slug": "bindawa-ng021005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021005",
+        "level": 2,
+        "name": {
+          "local": "Bindawa",
+          "en": "Bindawa",
+          "slug": "bindawa-ng021005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.709",
+      "lon": "7.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021005_kamri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kamri",
+      "en": "Kamri",
+      "slug": "kamri"
+    },
+    "code": {
+      "id": "NG021005_kamri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021005",
+      "level": 2,
+      "name": {
+        "local": "Bindawa",
+        "en": "Bindawa",
+        "slug": "bindawa-ng021005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021005",
+        "level": 2,
+        "name": {
+          "local": "Bindawa",
+          "en": "Bindawa",
+          "slug": "bindawa-ng021005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.709",
+      "lon": "7.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021005_shibdawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shibdawa",
+      "en": "Shibdawa",
+      "slug": "shibdawa"
+    },
+    "code": {
+      "id": "NG021005_shibdawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021005",
+      "level": 2,
+      "name": {
+        "local": "Bindawa",
+        "en": "Bindawa",
+        "slug": "bindawa-ng021005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021005",
+        "level": 2,
+        "name": {
+          "local": "Bindawa",
+          "en": "Bindawa",
+          "slug": "bindawa-ng021005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.709",
+      "lon": "7.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021005_tamadaye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tama/daye",
+      "en": "Tama/daye",
+      "slug": "tamadaye"
+    },
+    "code": {
+      "id": "NG021005_tamadaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021005",
+      "level": 2,
+      "name": {
+        "local": "Bindawa",
+        "en": "Bindawa",
+        "slug": "bindawa-ng021005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021005",
+        "level": 2,
+        "name": {
+          "local": "Bindawa",
+          "en": "Bindawa",
+          "slug": "bindawa-ng021005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.709",
+      "lon": "7.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021005_yangora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yangora",
+      "en": "Yangora",
+      "slug": "yangora"
+    },
+    "code": {
+      "id": "NG021005_yangora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021005",
+      "level": 2,
+      "name": {
+        "local": "Bindawa",
+        "en": "Bindawa",
+        "slug": "bindawa-ng021005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021005",
+        "level": 2,
+        "name": {
+          "local": "Bindawa",
+          "en": "Bindawa",
+          "slug": "bindawa-ng021005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.709",
+      "lon": "7.878"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018003_batu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Batu",
+      "en": "Batu",
+      "slug": "batu"
+    },
+    "code": {
+      "id": "NG018003_batu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018003",
+      "level": 2,
+      "name": {
+        "local": "Biriniwa",
+        "en": "Biriniwa",
+        "slug": "biriniwa-ng018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018003",
+        "level": 2,
+        "name": {
+          "local": "Biriniwa",
+          "en": "Biriniwa",
+          "slug": "biriniwa-ng018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018003_birniwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birniwa",
+      "en": "Birniwa",
+      "slug": "birniwa"
+    },
+    "code": {
+      "id": "NG018003_birniwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018003",
+      "level": 2,
+      "name": {
+        "local": "Biriniwa",
+        "en": "Biriniwa",
+        "slug": "biriniwa-ng018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018003",
+        "level": 2,
+        "name": {
+          "local": "Biriniwa",
+          "en": "Biriniwa",
+          "slug": "biriniwa-ng018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018003_dangwaleri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dangwaleri",
+      "en": "Dangwaleri",
+      "slug": "dangwaleri"
+    },
+    "code": {
+      "id": "NG018003_dangwaleri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018003",
+      "level": 2,
+      "name": {
+        "local": "Biriniwa",
+        "en": "Biriniwa",
+        "slug": "biriniwa-ng018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018003",
+        "level": 2,
+        "name": {
+          "local": "Biriniwa",
+          "en": "Biriniwa",
+          "slug": "biriniwa-ng018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018003_diginsa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Diginsa",
+      "en": "Diginsa",
+      "slug": "diginsa"
+    },
+    "code": {
+      "id": "NG018003_diginsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018003",
+      "level": 2,
+      "name": {
+        "local": "Biriniwa",
+        "en": "Biriniwa",
+        "slug": "biriniwa-ng018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018003",
+        "level": 2,
+        "name": {
+          "local": "Biriniwa",
+          "en": "Biriniwa",
+          "slug": "biriniwa-ng018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018003_fagi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fagi",
+      "en": "Fagi",
+      "slug": "fagi"
+    },
+    "code": {
+      "id": "NG018003_fagi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018003",
+      "level": 2,
+      "name": {
+        "local": "Biriniwa",
+        "en": "Biriniwa",
+        "slug": "biriniwa-ng018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018003",
+        "level": 2,
+        "name": {
+          "local": "Biriniwa",
+          "en": "Biriniwa",
+          "slug": "biriniwa-ng018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018003_kachallari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kachallari",
+      "en": "Kachallari",
+      "slug": "kachallari"
+    },
+    "code": {
+      "id": "NG018003_kachallari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018003",
+      "level": 2,
+      "name": {
+        "local": "Biriniwa",
+        "en": "Biriniwa",
+        "slug": "biriniwa-ng018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018003",
+        "level": 2,
+        "name": {
+          "local": "Biriniwa",
+          "en": "Biriniwa",
+          "slug": "biriniwa-ng018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018003_karanka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karanka",
+      "en": "Karanka",
+      "slug": "karanka"
+    },
+    "code": {
+      "id": "NG018003_karanka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018003",
+      "level": 2,
+      "name": {
+        "local": "Biriniwa",
+        "en": "Biriniwa",
+        "slug": "biriniwa-ng018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018003",
+        "level": 2,
+        "name": {
+          "local": "Biriniwa",
+          "en": "Biriniwa",
+          "slug": "biriniwa-ng018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018003_kazura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kazura",
+      "en": "Kazura",
+      "slug": "kazura"
+    },
+    "code": {
+      "id": "NG018003_kazura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018003",
+      "level": 2,
+      "name": {
+        "local": "Biriniwa",
+        "en": "Biriniwa",
+        "slug": "biriniwa-ng018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018003",
+        "level": 2,
+        "name": {
+          "local": "Biriniwa",
+          "en": "Biriniwa",
+          "slug": "biriniwa-ng018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018003_machinamari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Machinamari",
+      "en": "Machinamari",
+      "slug": "machinamari"
+    },
+    "code": {
+      "id": "NG018003_machinamari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018003",
+      "level": 2,
+      "name": {
+        "local": "Biriniwa",
+        "en": "Biriniwa",
+        "slug": "biriniwa-ng018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018003",
+        "level": 2,
+        "name": {
+          "local": "Biriniwa",
+          "en": "Biriniwa",
+          "slug": "biriniwa-ng018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018003_matamu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Matamu",
+      "en": "Matamu",
+      "slug": "matamu"
+    },
+    "code": {
+      "id": "NG018003_matamu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018003",
+      "level": 2,
+      "name": {
+        "local": "Biriniwa",
+        "en": "Biriniwa",
+        "slug": "biriniwa-ng018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018003",
+        "level": 2,
+        "name": {
+          "local": "Biriniwa",
+          "en": "Biriniwa",
+          "slug": "biriniwa-ng018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018003_nguwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nguwa",
+      "en": "Nguwa",
+      "slug": "nguwa"
+    },
+    "code": {
+      "id": "NG018003_nguwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018003",
+      "level": 2,
+      "name": {
+        "local": "Biriniwa",
+        "en": "Biriniwa",
+        "slug": "biriniwa-ng018003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018003",
+        "level": 2,
+        "name": {
+          "local": "Biriniwa",
+          "en": "Biriniwa",
+          "slug": "biriniwa-ng018003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

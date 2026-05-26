@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG031025_ayegun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayegun",
+      "en": "Ayegun",
+      "slug": "ayegun"
+    },
+    "code": {
+      "id": "NG031025_ayegun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031025",
+      "level": 2,
+      "name": {
+        "local": "Oluyole",
+        "en": "Oluyole",
+        "slug": "oluyole-ng031025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031025",
+        "level": 2,
+        "name": {
+          "local": "Oluyole",
+          "en": "Oluyole",
+          "slug": "oluyole-ng031025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.217",
+      "lon": "3.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031025_idi-irokoikereku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idi-iroko/ikereku",
+      "en": "Idi-iroko/ikereku",
+      "slug": "idi-irokoikereku"
+    },
+    "code": {
+      "id": "NG031025_idi-irokoikereku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031025",
+      "level": 2,
+      "name": {
+        "local": "Oluyole",
+        "en": "Oluyole",
+        "slug": "oluyole-ng031025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031025",
+        "level": 2,
+        "name": {
+          "local": "Oluyole",
+          "en": "Oluyole",
+          "slug": "oluyole-ng031025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.217",
+      "lon": "3.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031025_idi-osanegbeda-atuba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idi-osan/egbeda-atuba",
+      "en": "Idi-osan/egbeda-atuba",
+      "slug": "idi-osanegbeda-atuba"
+    },
+    "code": {
+      "id": "NG031025_idi-osanegbeda-atuba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031025",
+      "level": 2,
+      "name": {
+        "local": "Oluyole",
+        "en": "Oluyole",
+        "slug": "oluyole-ng031025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031025",
+        "level": 2,
+        "name": {
+          "local": "Oluyole",
+          "en": "Oluyole",
+          "slug": "oluyole-ng031025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.217",
+      "lon": "3.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031025_muslimogbere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Muslim/ogbere",
+      "en": "Muslim/ogbere",
+      "slug": "muslimogbere"
+    },
+    "code": {
+      "id": "NG031025_muslimogbere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031025",
+      "level": 2,
+      "name": {
+        "local": "Oluyole",
+        "en": "Oluyole",
+        "slug": "oluyole-ng031025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031025",
+        "level": 2,
+        "name": {
+          "local": "Oluyole",
+          "en": "Oluyole",
+          "slug": "oluyole-ng031025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.217",
+      "lon": "3.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031025_odo-ona-nla",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odo-ona Nla",
+      "en": "Odo-ona Nla",
+      "slug": "odo-ona-nla"
+    },
+    "code": {
+      "id": "NG031025_odo-ona-nla",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031025",
+      "level": 2,
+      "name": {
+        "local": "Oluyole",
+        "en": "Oluyole",
+        "slug": "oluyole-ng031025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031025",
+        "level": 2,
+        "name": {
+          "local": "Oluyole",
+          "en": "Oluyole",
+          "slug": "oluyole-ng031025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.217",
+      "lon": "3.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031025_okanhindelatunde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okanhinde/latunde",
+      "en": "Okanhinde/latunde",
+      "slug": "okanhindelatunde"
+    },
+    "code": {
+      "id": "NG031025_okanhindelatunde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031025",
+      "level": 2,
+      "name": {
+        "local": "Oluyole",
+        "en": "Oluyole",
+        "slug": "oluyole-ng031025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031025",
+        "level": 2,
+        "name": {
+          "local": "Oluyole",
+          "en": "Oluyole",
+          "slug": "oluyole-ng031025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.217",
+      "lon": "3.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031025_olomiolurinde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olomi/olurinde",
+      "en": "Olomi/olurinde",
+      "slug": "olomiolurinde"
+    },
+    "code": {
+      "id": "NG031025_olomiolurinde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031025",
+      "level": 2,
+      "name": {
+        "local": "Oluyole",
+        "en": "Oluyole",
+        "slug": "oluyole-ng031025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031025",
+        "level": 2,
+        "name": {
+          "local": "Oluyole",
+          "en": "Oluyole",
+          "slug": "oluyole-ng031025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.217",
+      "lon": "3.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031025_olondeaba-nla",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olonde/aba-nla",
+      "en": "Olonde/aba-nla",
+      "slug": "olondeaba-nla"
+    },
+    "code": {
+      "id": "NG031025_olondeaba-nla",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031025",
+      "level": 2,
+      "name": {
+        "local": "Oluyole",
+        "en": "Oluyole",
+        "slug": "oluyole-ng031025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031025",
+        "level": 2,
+        "name": {
+          "local": "Oluyole",
+          "en": "Oluyole",
+          "slug": "oluyole-ng031025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.217",
+      "lon": "3.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031025_onipe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Onipe",
+      "en": "Onipe",
+      "slug": "onipe"
+    },
+    "code": {
+      "id": "NG031025_onipe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031025",
+      "level": 2,
+      "name": {
+        "local": "Oluyole",
+        "en": "Oluyole",
+        "slug": "oluyole-ng031025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031025",
+        "level": 2,
+        "name": {
+          "local": "Oluyole",
+          "en": "Oluyole",
+          "slug": "oluyole-ng031025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.217",
+      "lon": "3.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031025_orisunbareojo-ekun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orisunbare/ojo-ekun",
+      "en": "Orisunbare/ojo-ekun",
+      "slug": "orisunbareojo-ekun"
+    },
+    "code": {
+      "id": "NG031025_orisunbareojo-ekun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031025",
+      "level": 2,
+      "name": {
+        "local": "Oluyole",
+        "en": "Oluyole",
+        "slug": "oluyole-ng031025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031025",
+        "level": 2,
+        "name": {
+          "local": "Oluyole",
+          "en": "Oluyole",
+          "slug": "oluyole-ng031025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.217",
+      "lon": "3.88"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NG001003",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Arochukwu",
+    "en": "Arochukwu",
+    "slug": "arochukwu-ng001003"
+  },
+  "code": {
+    "id": "NG001003",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG001",
+    "level": 1,
+    "name": {
+      "local": "Abia",
+      "en": "Abia",
+      "slug": "abia-ng001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.519",
+    "lon": "7.869"
+  },
+  "metadata": {},
+  "source": {}
+}

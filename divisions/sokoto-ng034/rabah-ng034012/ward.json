@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG034012_gandi-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gandi 'a'",
+      "en": "Gandi 'a'",
+      "slug": "gandi-a"
+    },
+    "code": {
+      "id": "NG034012_gandi-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034012",
+      "level": 2,
+      "name": {
+        "local": "Rabah",
+        "en": "Rabah",
+        "slug": "rabah-ng034012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034012",
+        "level": 2,
+        "name": {
+          "local": "Rabah",
+          "en": "Rabah",
+          "slug": "rabah-ng034012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "5.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034012_gandi-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gandi 'b'",
+      "en": "Gandi 'b'",
+      "slug": "gandi-b"
+    },
+    "code": {
+      "id": "NG034012_gandi-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034012",
+      "level": 2,
+      "name": {
+        "local": "Rabah",
+        "en": "Rabah",
+        "slug": "rabah-ng034012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034012",
+        "level": 2,
+        "name": {
+          "local": "Rabah",
+          "en": "Rabah",
+          "slug": "rabah-ng034012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "5.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034012_gawakuke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gawakuke",
+      "en": "Gawakuke",
+      "slug": "gawakuke"
+    },
+    "code": {
+      "id": "NG034012_gawakuke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034012",
+      "level": 2,
+      "name": {
+        "local": "Rabah",
+        "en": "Rabah",
+        "slug": "rabah-ng034012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034012",
+        "level": 2,
+        "name": {
+          "local": "Rabah",
+          "en": "Rabah",
+          "slug": "rabah-ng034012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "5.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034012_gwaddodigidan-bu-wai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwaddodi/gidan Bu Wai",
+      "en": "Gwaddodi/gidan Bu Wai",
+      "slug": "gwaddodigidan-bu-wai"
+    },
+    "code": {
+      "id": "NG034012_gwaddodigidan-bu-wai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034012",
+      "level": 2,
+      "name": {
+        "local": "Rabah",
+        "en": "Rabah",
+        "slug": "rabah-ng034012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034012",
+        "level": 2,
+        "name": {
+          "local": "Rabah",
+          "en": "Rabah",
+          "slug": "rabah-ng034012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "5.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034012_kurya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurya",
+      "en": "Kurya",
+      "slug": "kurya"
+    },
+    "code": {
+      "id": "NG034012_kurya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034012",
+      "level": 2,
+      "name": {
+        "local": "Rabah",
+        "en": "Rabah",
+        "slug": "rabah-ng034012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034012",
+        "level": 2,
+        "name": {
+          "local": "Rabah",
+          "en": "Rabah",
+          "slug": "rabah-ng034012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "5.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034012_rabah",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rabah",
+      "en": "Rabah",
+      "slug": "rabah"
+    },
+    "code": {
+      "id": "NG034012_rabah",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034012",
+      "level": 2,
+      "name": {
+        "local": "Rabah",
+        "en": "Rabah",
+        "slug": "rabah-ng034012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034012",
+        "level": 2,
+        "name": {
+          "local": "Rabah",
+          "en": "Rabah",
+          "slug": "rabah-ng034012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "5.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034012_rara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rara",
+      "en": "Rara",
+      "slug": "rara"
+    },
+    "code": {
+      "id": "NG034012_rara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034012",
+      "level": 2,
+      "name": {
+        "local": "Rabah",
+        "en": "Rabah",
+        "slug": "rabah-ng034012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034012",
+        "level": 2,
+        "name": {
+          "local": "Rabah",
+          "en": "Rabah",
+          "slug": "rabah-ng034012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "5.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034012_rijimaikujera",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Riji/maikujera",
+      "en": "Riji/maikujera",
+      "slug": "rijimaikujera"
+    },
+    "code": {
+      "id": "NG034012_rijimaikujera",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034012",
+      "level": 2,
+      "name": {
+        "local": "Rabah",
+        "en": "Rabah",
+        "slug": "rabah-ng034012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034012",
+        "level": 2,
+        "name": {
+          "local": "Rabah",
+          "en": "Rabah",
+          "slug": "rabah-ng034012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "5.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034012_tsamiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsamiya",
+      "en": "Tsamiya",
+      "slug": "tsamiya"
+    },
+    "code": {
+      "id": "NG034012_tsamiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034012",
+      "level": 2,
+      "name": {
+        "local": "Rabah",
+        "en": "Rabah",
+        "slug": "rabah-ng034012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034012",
+        "level": 2,
+        "name": {
+          "local": "Rabah",
+          "en": "Rabah",
+          "slug": "rabah-ng034012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "5.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034012_tursa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tursa",
+      "en": "Tursa",
+      "slug": "tursa"
+    },
+    "code": {
+      "id": "NG034012_tursa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034012",
+      "level": 2,
+      "name": {
+        "local": "Rabah",
+        "en": "Rabah",
+        "slug": "rabah-ng034012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034012",
+        "level": 2,
+        "name": {
+          "local": "Rabah",
+          "en": "Rabah",
+          "slug": "rabah-ng034012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "5.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034012_yar-tsakuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yar Tsakuwa",
+      "en": "Yar Tsakuwa",
+      "slug": "yar-tsakuwa"
+    },
+    "code": {
+      "id": "NG034012_yar-tsakuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034012",
+      "level": 2,
+      "name": {
+        "local": "Rabah",
+        "en": "Rabah",
+        "slug": "rabah-ng034012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034012",
+        "level": 2,
+        "name": {
+          "local": "Rabah",
+          "en": "Rabah",
+          "slug": "rabah-ng034012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "5.768"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG034023_bakale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakale",
+      "en": "Bakale",
+      "slug": "bakale"
+    },
+    "code": {
+      "id": "NG034023_bakale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034023",
+      "level": 2,
+      "name": {
+        "local": "Yabo",
+        "en": "Yabo",
+        "slug": "yabo-ng034023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034023",
+        "level": 2,
+        "name": {
+          "local": "Yabo",
+          "en": "Yabo",
+          "slug": "yabo-ng034023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "4.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034023_bingaje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bingaje",
+      "en": "Bingaje",
+      "slug": "bingaje"
+    },
+    "code": {
+      "id": "NG034023_bingaje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034023",
+      "level": 2,
+      "name": {
+        "local": "Yabo",
+        "en": "Yabo",
+        "slug": "yabo-ng034023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034023",
+        "level": 2,
+        "name": {
+          "local": "Yabo",
+          "en": "Yabo",
+          "slug": "yabo-ng034023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "4.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034023_binji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Binji",
+      "en": "Binji",
+      "slug": "binji"
+    },
+    "code": {
+      "id": "NG034023_binji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034023",
+      "level": 2,
+      "name": {
+        "local": "Yabo",
+        "en": "Yabo",
+        "slug": "yabo-ng034023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034023",
+        "level": 2,
+        "name": {
+          "local": "Yabo",
+          "en": "Yabo",
+          "slug": "yabo-ng034023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "4.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034023_birniruwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birniruwa",
+      "en": "Birniruwa",
+      "slug": "birniruwa"
+    },
+    "code": {
+      "id": "NG034023_birniruwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034023",
+      "level": 2,
+      "name": {
+        "local": "Yabo",
+        "en": "Yabo",
+        "slug": "yabo-ng034023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034023",
+        "level": 2,
+        "name": {
+          "local": "Yabo",
+          "en": "Yabo",
+          "slug": "yabo-ng034023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "4.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034023_fakka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fakka",
+      "en": "Fakka",
+      "slug": "fakka"
+    },
+    "code": {
+      "id": "NG034023_fakka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034023",
+      "level": 2,
+      "name": {
+        "local": "Yabo",
+        "en": "Yabo",
+        "slug": "yabo-ng034023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034023",
+        "level": 2,
+        "name": {
+          "local": "Yabo",
+          "en": "Yabo",
+          "slug": "yabo-ng034023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "4.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034023_kilgori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kilgori",
+      "en": "Kilgori",
+      "slug": "kilgori"
+    },
+    "code": {
+      "id": "NG034023_kilgori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034023",
+      "level": 2,
+      "name": {
+        "local": "Yabo",
+        "en": "Yabo",
+        "slug": "yabo-ng034023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034023",
+        "level": 2,
+        "name": {
+          "local": "Yabo",
+          "en": "Yabo",
+          "slug": "yabo-ng034023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "4.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034023_ruggar-iya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ruggar Iya",
+      "en": "Ruggar Iya",
+      "slug": "ruggar-iya"
+    },
+    "code": {
+      "id": "NG034023_ruggar-iya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034023",
+      "level": 2,
+      "name": {
+        "local": "Yabo",
+        "en": "Yabo",
+        "slug": "yabo-ng034023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034023",
+        "level": 2,
+        "name": {
+          "local": "Yabo",
+          "en": "Yabo",
+          "slug": "yabo-ng034023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "4.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034023_torankawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Torankawa",
+      "en": "Torankawa",
+      "slug": "torankawa"
+    },
+    "code": {
+      "id": "NG034023_torankawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034023",
+      "level": 2,
+      "name": {
+        "local": "Yabo",
+        "en": "Yabo",
+        "slug": "yabo-ng034023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034023",
+        "level": 2,
+        "name": {
+          "local": "Yabo",
+          "en": "Yabo",
+          "slug": "yabo-ng034023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "4.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034023_yabo-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yabo 'a'",
+      "en": "Yabo 'a'",
+      "slug": "yabo-a"
+    },
+    "code": {
+      "id": "NG034023_yabo-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034023",
+      "level": 2,
+      "name": {
+        "local": "Yabo",
+        "en": "Yabo",
+        "slug": "yabo-ng034023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034023",
+        "level": 2,
+        "name": {
+          "local": "Yabo",
+          "en": "Yabo",
+          "slug": "yabo-ng034023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "4.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034023_yabo-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yabo 'b'",
+      "en": "Yabo 'b'",
+      "slug": "yabo-b"
+    },
+    "code": {
+      "id": "NG034023_yabo-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034023",
+      "level": 2,
+      "name": {
+        "local": "Yabo",
+        "en": "Yabo",
+        "slug": "yabo-ng034023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034023",
+        "level": 2,
+        "name": {
+          "local": "Yabo",
+          "en": "Yabo",
+          "slug": "yabo-ng034023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.796",
+      "lon": "4.942"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG009006_abuochiche",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abuochiche",
+      "en": "Abuochiche",
+      "slug": "abuochiche"
+    },
+    "code": {
+      "id": "NG009006_abuochiche",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009006",
+      "level": 2,
+      "name": {
+        "local": "Bekwara",
+        "en": "Bekwara",
+        "slug": "bekwara-ng009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009006",
+        "level": 2,
+        "name": {
+          "local": "Bekwara",
+          "en": "Bekwara",
+          "slug": "bekwara-ng009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "8.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009006_afrike-ochagbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Afrike Ochagbe",
+      "en": "Afrike Ochagbe",
+      "slug": "afrike-ochagbe"
+    },
+    "code": {
+      "id": "NG009006_afrike-ochagbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009006",
+      "level": 2,
+      "name": {
+        "local": "Bekwara",
+        "en": "Bekwara",
+        "slug": "bekwara-ng009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009006",
+        "level": 2,
+        "name": {
+          "local": "Bekwara",
+          "en": "Bekwara",
+          "slug": "bekwara-ng009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "8.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009006_afrike-okpeche",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Afrike Okpeche",
+      "en": "Afrike Okpeche",
+      "slug": "afrike-okpeche"
+    },
+    "code": {
+      "id": "NG009006_afrike-okpeche",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009006",
+      "level": 2,
+      "name": {
+        "local": "Bekwara",
+        "en": "Bekwara",
+        "slug": "bekwara-ng009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009006",
+        "level": 2,
+        "name": {
+          "local": "Bekwara",
+          "en": "Bekwara",
+          "slug": "bekwara-ng009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "8.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009006_beten",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Beten",
+      "en": "Beten",
+      "slug": "beten"
+    },
+    "code": {
+      "id": "NG009006_beten",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009006",
+      "level": 2,
+      "name": {
+        "local": "Bekwara",
+        "en": "Bekwara",
+        "slug": "bekwara-ng009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009006",
+        "level": 2,
+        "name": {
+          "local": "Bekwara",
+          "en": "Bekwara",
+          "slug": "bekwara-ng009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "8.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009006_gakem",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gakem",
+      "en": "Gakem",
+      "slug": "gakem"
+    },
+    "code": {
+      "id": "NG009006_gakem",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009006",
+      "level": 2,
+      "name": {
+        "local": "Bekwara",
+        "en": "Bekwara",
+        "slug": "bekwara-ng009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009006",
+        "level": 2,
+        "name": {
+          "local": "Bekwara",
+          "en": "Bekwara",
+          "slug": "bekwara-ng009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "8.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009006_ibiaragidi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibiaragidi",
+      "en": "Ibiaragidi",
+      "slug": "ibiaragidi"
+    },
+    "code": {
+      "id": "NG009006_ibiaragidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009006",
+      "level": 2,
+      "name": {
+        "local": "Bekwara",
+        "en": "Bekwara",
+        "slug": "bekwara-ng009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009006",
+        "level": 2,
+        "name": {
+          "local": "Bekwara",
+          "en": "Bekwara",
+          "slug": "bekwara-ng009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "8.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009006_nyanya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nyanya",
+      "en": "Nyanya",
+      "slug": "nyanya"
+    },
+    "code": {
+      "id": "NG009006_nyanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009006",
+      "level": 2,
+      "name": {
+        "local": "Bekwara",
+        "en": "Bekwara",
+        "slug": "bekwara-ng009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009006",
+        "level": 2,
+        "name": {
+          "local": "Bekwara",
+          "en": "Bekwara",
+          "slug": "bekwara-ng009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "8.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009006_otukpuru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otukpuru",
+      "en": "Otukpuru",
+      "slug": "otukpuru"
+    },
+    "code": {
+      "id": "NG009006_otukpuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009006",
+      "level": 2,
+      "name": {
+        "local": "Bekwara",
+        "en": "Bekwara",
+        "slug": "bekwara-ng009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009006",
+        "level": 2,
+        "name": {
+          "local": "Bekwara",
+          "en": "Bekwara",
+          "slug": "bekwara-ng009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "8.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009006_ugboro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugboro",
+      "en": "Ugboro",
+      "slug": "ugboro"
+    },
+    "code": {
+      "id": "NG009006_ugboro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009006",
+      "level": 2,
+      "name": {
+        "local": "Bekwara",
+        "en": "Bekwara",
+        "slug": "bekwara-ng009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009006",
+        "level": 2,
+        "name": {
+          "local": "Bekwara",
+          "en": "Bekwara",
+          "slug": "bekwara-ng009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "8.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009006_ukpah",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukpah",
+      "en": "Ukpah",
+      "slug": "ukpah"
+    },
+    "code": {
+      "id": "NG009006_ukpah",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009006",
+      "level": 2,
+      "name": {
+        "local": "Bekwara",
+        "en": "Bekwara",
+        "slug": "bekwara-ng009006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009006",
+        "level": 2,
+        "name": {
+          "local": "Bekwara",
+          "en": "Bekwara",
+          "slug": "bekwara-ng009006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "8.894"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

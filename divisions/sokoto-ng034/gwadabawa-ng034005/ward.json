@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG034005_asara-arewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asara Arewa",
+      "en": "Asara Arewa",
+      "slug": "asara-arewa"
+    },
+    "code": {
+      "id": "NG034005_asara-arewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034005",
+      "level": 2,
+      "name": {
+        "local": "Gwadabawa",
+        "en": "Gwadabawa",
+        "slug": "gwadabawa-ng034005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034005",
+        "level": 2,
+        "name": {
+          "local": "Gwadabawa",
+          "en": "Gwadabawa",
+          "slug": "gwadabawa-ng034005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.408",
+      "lon": "5.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034005_asara-kudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asara Kudu",
+      "en": "Asara Kudu",
+      "slug": "asara-kudu"
+    },
+    "code": {
+      "id": "NG034005_asara-kudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034005",
+      "level": 2,
+      "name": {
+        "local": "Gwadabawa",
+        "en": "Gwadabawa",
+        "slug": "gwadabawa-ng034005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034005",
+        "level": 2,
+        "name": {
+          "local": "Gwadabawa",
+          "en": "Gwadabawa",
+          "slug": "gwadabawa-ng034005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.408",
+      "lon": "5.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034005_atakwanyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Atakwanyo",
+      "en": "Atakwanyo",
+      "slug": "atakwanyo"
+    },
+    "code": {
+      "id": "NG034005_atakwanyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034005",
+      "level": 2,
+      "name": {
+        "local": "Gwadabawa",
+        "en": "Gwadabawa",
+        "slug": "gwadabawa-ng034005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034005",
+        "level": 2,
+        "name": {
+          "local": "Gwadabawa",
+          "en": "Gwadabawa",
+          "slug": "gwadabawa-ng034005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.408",
+      "lon": "5.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034005_chimmolakudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chimmola/kudu",
+      "en": "Chimmola/kudu",
+      "slug": "chimmolakudu"
+    },
+    "code": {
+      "id": "NG034005_chimmolakudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034005",
+      "level": 2,
+      "name": {
+        "local": "Gwadabawa",
+        "en": "Gwadabawa",
+        "slug": "gwadabawa-ng034005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034005",
+        "level": 2,
+        "name": {
+          "local": "Gwadabawa",
+          "en": "Gwadabawa",
+          "slug": "gwadabawa-ng034005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.408",
+      "lon": "5.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034005_chimola-arewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chimola Arewa",
+      "en": "Chimola Arewa",
+      "slug": "chimola-arewa"
+    },
+    "code": {
+      "id": "NG034005_chimola-arewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034005",
+      "level": 2,
+      "name": {
+        "local": "Gwadabawa",
+        "en": "Gwadabawa",
+        "slug": "gwadabawa-ng034005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034005",
+        "level": 2,
+        "name": {
+          "local": "Gwadabawa",
+          "en": "Gwadabawa",
+          "slug": "gwadabawa-ng034005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.408",
+      "lon": "5.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034005_gidan-kaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gidan Kaya",
+      "en": "Gidan Kaya",
+      "slug": "gidan-kaya"
+    },
+    "code": {
+      "id": "NG034005_gidan-kaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034005",
+      "level": 2,
+      "name": {
+        "local": "Gwadabawa",
+        "en": "Gwadabawa",
+        "slug": "gwadabawa-ng034005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034005",
+        "level": 2,
+        "name": {
+          "local": "Gwadabawa",
+          "en": "Gwadabawa",
+          "slug": "gwadabawa-ng034005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.408",
+      "lon": "5.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034005_gigane",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gigane",
+      "en": "Gigane",
+      "slug": "gigane"
+    },
+    "code": {
+      "id": "NG034005_gigane",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034005",
+      "level": 2,
+      "name": {
+        "local": "Gwadabawa",
+        "en": "Gwadabawa",
+        "slug": "gwadabawa-ng034005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034005",
+        "level": 2,
+        "name": {
+          "local": "Gwadabawa",
+          "en": "Gwadabawa",
+          "slug": "gwadabawa-ng034005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.408",
+      "lon": "5.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034005_gwadabawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwadabawa",
+      "en": "Gwadabawa",
+      "slug": "gwadabawa"
+    },
+    "code": {
+      "id": "NG034005_gwadabawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034005",
+      "level": 2,
+      "name": {
+        "local": "Gwadabawa",
+        "en": "Gwadabawa",
+        "slug": "gwadabawa-ng034005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034005",
+        "level": 2,
+        "name": {
+          "local": "Gwadabawa",
+          "en": "Gwadabawa",
+          "slug": "gwadabawa-ng034005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.408",
+      "lon": "5.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034005_huchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Huchi",
+      "en": "Huchi",
+      "slug": "huchi"
+    },
+    "code": {
+      "id": "NG034005_huchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034005",
+      "level": 2,
+      "name": {
+        "local": "Gwadabawa",
+        "en": "Gwadabawa",
+        "slug": "gwadabawa-ng034005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034005",
+        "level": 2,
+        "name": {
+          "local": "Gwadabawa",
+          "en": "Gwadabawa",
+          "slug": "gwadabawa-ng034005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.408",
+      "lon": "5.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034005_mammande",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mammande",
+      "en": "Mammande",
+      "slug": "mammande"
+    },
+    "code": {
+      "id": "NG034005_mammande",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034005",
+      "level": 2,
+      "name": {
+        "local": "Gwadabawa",
+        "en": "Gwadabawa",
+        "slug": "gwadabawa-ng034005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034005",
+        "level": 2,
+        "name": {
+          "local": "Gwadabawa",
+          "en": "Gwadabawa",
+          "slug": "gwadabawa-ng034005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.408",
+      "lon": "5.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034005_salame",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Salame",
+      "en": "Salame",
+      "slug": "salame"
+    },
+    "code": {
+      "id": "NG034005_salame",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034005",
+      "level": 2,
+      "name": {
+        "local": "Gwadabawa",
+        "en": "Gwadabawa",
+        "slug": "gwadabawa-ng034005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034005",
+        "level": 2,
+        "name": {
+          "local": "Gwadabawa",
+          "en": "Gwadabawa",
+          "slug": "gwadabawa-ng034005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.408",
+      "lon": "5.338"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

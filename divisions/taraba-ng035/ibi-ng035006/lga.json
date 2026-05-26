@@ -1,0 +1,47 @@
+{
+  "id": "NG035006",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ibi",
+    "en": "Ibi",
+    "slug": "ibi-ng035006"
+  },
+  "code": {
+    "id": "NG035006",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG035",
+    "level": 1,
+    "name": {
+      "local": "Taraba",
+      "en": "Taraba",
+      "slug": "taraba-ng035"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG035",
+      "level": 1,
+      "name": {
+        "local": "Taraba",
+        "en": "Taraba",
+        "slug": "taraba-ng035"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.395",
+    "lon": "9.933"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,801 @@
+[
+  {
+    "id": "NG036001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bade",
+      "en": "Bade",
+      "slug": "bade-ng036001"
+    },
+    "code": {
+      "id": "NG036001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.784",
+      "lon": "10.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bursari",
+      "en": "Bursari",
+      "slug": "bursari-ng036002"
+    },
+    "code": {
+      "id": "NG036002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.696",
+      "lon": "11.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Damaturu",
+      "en": "Damaturu",
+      "slug": "damaturu-ng036003"
+    },
+    "code": {
+      "id": "NG036003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.821",
+      "lon": "12.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Fika",
+      "en": "Fika",
+      "slug": "fika-ng036004"
+    },
+    "code": {
+      "id": "NG036004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.351",
+      "lon": "11.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Fune",
+      "en": "Fune",
+      "slug": "fune-ng036005"
+    },
+    "code": {
+      "id": "NG036005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.881",
+      "lon": "11.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Geidam",
+      "en": "Geidam",
+      "slug": "geidam-ng036006"
+    },
+    "code": {
+      "id": "NG036006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.695",
+      "lon": "12.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gujba",
+      "en": "Gujba",
+      "slug": "gujba-ng036007"
+    },
+    "code": {
+      "id": "NG036007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.364",
+      "lon": "11.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gulani",
+      "en": "Gulani",
+      "slug": "gulani-ng036008"
+    },
+    "code": {
+      "id": "NG036008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.892",
+      "lon": "11.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Jakusko",
+      "en": "Jakusko",
+      "slug": "jakusko-ng036009"
+    },
+    "code": {
+      "id": "NG036009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.371",
+      "lon": "11.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Karasuwa",
+      "en": "Karasuwa",
+      "slug": "karasuwa-ng036010"
+    },
+    "code": {
+      "id": "NG036010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.998",
+      "lon": "10.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Machina",
+      "en": "Machina",
+      "slug": "machina-ng036011"
+    },
+    "code": {
+      "id": "NG036011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.04",
+      "lon": "10.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nangere",
+      "en": "Nangere",
+      "slug": "nangere-ng036012"
+    },
+    "code": {
+      "id": "NG036012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.808",
+      "lon": "11.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nguru",
+      "en": "Nguru",
+      "slug": "nguru-ng036013"
+    },
+    "code": {
+      "id": "NG036013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.978",
+      "lon": "10.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Potiskum",
+      "en": "Potiskum",
+      "slug": "potiskum-ng036014"
+    },
+    "code": {
+      "id": "NG036014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.73",
+      "lon": "11.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tarmua",
+      "en": "Tarmua",
+      "slug": "tarmua-ng036015"
+    },
+    "code": {
+      "id": "NG036015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.221",
+      "lon": "11.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yunusari",
+      "en": "Yunusari",
+      "slug": "yunusari-ng036016"
+    },
+    "code": {
+      "id": "NG036016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.112",
+      "lon": "11.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yusufari",
+      "en": "Yusufari",
+      "slug": "yusufari-ng036017"
+    },
+    "code": {
+      "id": "NG036017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.16",
+      "lon": "10.543"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG022010_cheberubada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Cheberu/bada",
+      "en": "Cheberu/bada",
+      "slug": "cheberubada"
+    },
+    "code": {
+      "id": "NG022010_cheberubada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022010",
+      "level": 2,
+      "name": {
+        "local": "Gwandu",
+        "en": "Gwandu",
+        "slug": "gwandu-ng022010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022010",
+        "level": 2,
+        "name": {
+          "local": "Gwandu",
+          "en": "Gwandu",
+          "slug": "gwandu-ng022010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "4.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022010_dalijan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dalijan",
+      "en": "Dalijan",
+      "slug": "dalijan"
+    },
+    "code": {
+      "id": "NG022010_dalijan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022010",
+      "level": 2,
+      "name": {
+        "local": "Gwandu",
+        "en": "Gwandu",
+        "slug": "gwandu-ng022010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022010",
+        "level": 2,
+        "name": {
+          "local": "Gwandu",
+          "en": "Gwandu",
+          "slug": "gwandu-ng022010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "4.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022010_dodoru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dodoru",
+      "en": "Dodoru",
+      "slug": "dodoru"
+    },
+    "code": {
+      "id": "NG022010_dodoru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022010",
+      "level": 2,
+      "name": {
+        "local": "Gwandu",
+        "en": "Gwandu",
+        "slug": "gwandu-ng022010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022010",
+        "level": 2,
+        "name": {
+          "local": "Gwandu",
+          "en": "Gwandu",
+          "slug": "gwandu-ng022010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "4.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022010_gulmare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gulmare",
+      "en": "Gulmare",
+      "slug": "gulmare"
+    },
+    "code": {
+      "id": "NG022010_gulmare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022010",
+      "level": 2,
+      "name": {
+        "local": "Gwandu",
+        "en": "Gwandu",
+        "slug": "gwandu-ng022010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022010",
+        "level": 2,
+        "name": {
+          "local": "Gwandu",
+          "en": "Gwandu",
+          "slug": "gwandu-ng022010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "4.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022010_gwandu-marafa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwandu Marafa",
+      "en": "Gwandu Marafa",
+      "slug": "gwandu-marafa"
+    },
+    "code": {
+      "id": "NG022010_gwandu-marafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022010",
+      "level": 2,
+      "name": {
+        "local": "Gwandu",
+        "en": "Gwandu",
+        "slug": "gwandu-ng022010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022010",
+        "level": 2,
+        "name": {
+          "local": "Gwandu",
+          "en": "Gwandu",
+          "slug": "gwandu-ng022010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "4.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022010_gwandu-sarkin-fawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwandu Sarkin Fawa",
+      "en": "Gwandu Sarkin Fawa",
+      "slug": "gwandu-sarkin-fawa"
+    },
+    "code": {
+      "id": "NG022010_gwandu-sarkin-fawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022010",
+      "level": 2,
+      "name": {
+        "local": "Gwandu",
+        "en": "Gwandu",
+        "slug": "gwandu-ng022010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022010",
+        "level": 2,
+        "name": {
+          "local": "Gwandu",
+          "en": "Gwandu",
+          "slug": "gwandu-ng022010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "4.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022010_kambaza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kambaza",
+      "en": "Kambaza",
+      "slug": "kambaza"
+    },
+    "code": {
+      "id": "NG022010_kambaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022010",
+      "level": 2,
+      "name": {
+        "local": "Gwandu",
+        "en": "Gwandu",
+        "slug": "gwandu-ng022010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022010",
+        "level": 2,
+        "name": {
+          "local": "Gwandu",
+          "en": "Gwandu",
+          "slug": "gwandu-ng022010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "4.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022010_malisa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Malisa",
+      "en": "Malisa",
+      "slug": "malisa"
+    },
+    "code": {
+      "id": "NG022010_malisa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022010",
+      "level": 2,
+      "name": {
+        "local": "Gwandu",
+        "en": "Gwandu",
+        "slug": "gwandu-ng022010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022010",
+        "level": 2,
+        "name": {
+          "local": "Gwandu",
+          "en": "Gwandu",
+          "slug": "gwandu-ng022010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "4.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022010_maruda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maruda",
+      "en": "Maruda",
+      "slug": "maruda"
+    },
+    "code": {
+      "id": "NG022010_maruda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022010",
+      "level": 2,
+      "name": {
+        "local": "Gwandu",
+        "en": "Gwandu",
+        "slug": "gwandu-ng022010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022010",
+        "level": 2,
+        "name": {
+          "local": "Gwandu",
+          "en": "Gwandu",
+          "slug": "gwandu-ng022010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "4.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022010_masama-kwasgara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Masama Kwasgara",
+      "en": "Masama Kwasgara",
+      "slug": "masama-kwasgara"
+    },
+    "code": {
+      "id": "NG022010_masama-kwasgara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022010",
+      "level": 2,
+      "name": {
+        "local": "Gwandu",
+        "en": "Gwandu",
+        "slug": "gwandu-ng022010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022010",
+        "level": 2,
+        "name": {
+          "local": "Gwandu",
+          "en": "Gwandu",
+          "slug": "gwandu-ng022010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "4.66"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG006004_bassambiri-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bassambiri 1",
+      "en": "Bassambiri 1",
+      "slug": "bassambiri-1"
+    },
+    "code": {
+      "id": "NG006004_bassambiri-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004_bassambiri-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bassambiri 11",
+      "en": "Bassambiri 11",
+      "slug": "bassambiri-11"
+    },
+    "code": {
+      "id": "NG006004_bassambiri-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004_bassambiri-111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bassambiri 111",
+      "en": "Bassambiri 111",
+      "slug": "bassambiri-111"
+    },
+    "code": {
+      "id": "NG006004_bassambiri-111",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004_bassambiri-1v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bassambiri 1v",
+      "en": "Bassambiri 1v",
+      "slug": "bassambiri-1v"
+    },
+    "code": {
+      "id": "NG006004_bassambiri-1v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004_igbeta-ewoamafantuo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igbeta-ewoama/fantuo",
+      "en": "Igbeta-ewoama/fantuo",
+      "slug": "igbeta-ewoamafantuo"
+    },
+    "code": {
+      "id": "NG006004_igbeta-ewoamafantuo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004_ikensi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikensi",
+      "en": "Ikensi",
+      "slug": "ikensi"
+    },
+    "code": {
+      "id": "NG006004_ikensi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004_mini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mini",
+      "en": "Mini",
+      "slug": "mini"
+    },
+    "code": {
+      "id": "NG006004_mini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004_ogbolomabiri-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbolomabiri 1",
+      "en": "Ogbolomabiri 1",
+      "slug": "ogbolomabiri-1"
+    },
+    "code": {
+      "id": "NG006004_ogbolomabiri-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004_ogbolomabiri-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbolomabiri 11",
+      "en": "Ogbolomabiri 11",
+      "slug": "ogbolomabiri-11"
+    },
+    "code": {
+      "id": "NG006004_ogbolomabiri-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004_ogbolomabiri-111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbolomabiri 111",
+      "en": "Ogbolomabiri 111",
+      "slug": "ogbolomabiri-111"
+    },
+    "code": {
+      "id": "NG006004_ogbolomabiri-111",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004_okoroma-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okoroma 1",
+      "en": "Okoroma 1",
+      "slug": "okoroma-1"
+    },
+    "code": {
+      "id": "NG006004_okoroma-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004_okoroma-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okoroma 11",
+      "en": "Okoroma 11",
+      "slug": "okoroma-11"
+    },
+    "code": {
+      "id": "NG006004_okoroma-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004_oluasiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oluasiri",
+      "en": "Oluasiri",
+      "slug": "oluasiri"
+    },
+    "code": {
+      "id": "NG006004_oluasiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006004",
+      "level": 2,
+      "name": {
+        "local": "Nembe",
+        "en": "Nembe",
+        "slug": "nembe-ng006004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006004",
+        "level": 2,
+        "name": {
+          "local": "Nembe",
+          "en": "Nembe",
+          "slug": "nembe-ng006004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG030006_ada-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ada I",
+      "en": "Ada I",
+      "slug": "ada-i"
+    },
+    "code": {
+      "id": "NG030006_ada-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030006",
+      "level": 2,
+      "name": {
+        "local": "Boripe",
+        "en": "Boripe",
+        "slug": "boripe-ng030006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030006",
+        "level": 2,
+        "name": {
+          "local": "Boripe",
+          "en": "Boripe",
+          "slug": "boripe-ng030006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "4.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030006_ada-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ada Ii",
+      "en": "Ada Ii",
+      "slug": "ada-ii"
+    },
+    "code": {
+      "id": "NG030006_ada-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030006",
+      "level": 2,
+      "name": {
+        "local": "Boripe",
+        "en": "Boripe",
+        "slug": "boripe-ng030006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030006",
+        "level": 2,
+        "name": {
+          "local": "Boripe",
+          "en": "Boripe",
+          "slug": "boripe-ng030006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "4.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030006_agba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agba",
+      "en": "Agba",
+      "slug": "agba"
+    },
+    "code": {
+      "id": "NG030006_agba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030006",
+      "level": 2,
+      "name": {
+        "local": "Boripe",
+        "en": "Boripe",
+        "slug": "boripe-ng030006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030006",
+        "level": 2,
+        "name": {
+          "local": "Boripe",
+          "en": "Boripe",
+          "slug": "boripe-ng030006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "4.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030006_collegeegbada-road",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "College/egbada Road",
+      "en": "College/egbada Road",
+      "slug": "collegeegbada-road"
+    },
+    "code": {
+      "id": "NG030006_collegeegbada-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030006",
+      "level": 2,
+      "name": {
+        "local": "Boripe",
+        "en": "Boripe",
+        "slug": "boripe-ng030006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030006",
+        "level": 2,
+        "name": {
+          "local": "Boripe",
+          "en": "Boripe",
+          "slug": "boripe-ng030006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "4.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030006_isale-asa-iree",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isale Asa Iree",
+      "en": "Isale Asa Iree",
+      "slug": "isale-asa-iree"
+    },
+    "code": {
+      "id": "NG030006_isale-asa-iree",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030006",
+      "level": 2,
+      "name": {
+        "local": "Boripe",
+        "en": "Boripe",
+        "slug": "boripe-ng030006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030006",
+        "level": 2,
+        "name": {
+          "local": "Boripe",
+          "en": "Boripe",
+          "slug": "boripe-ng030006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "4.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030006_isale-oyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isale-oyo",
+      "en": "Isale-oyo",
+      "slug": "isale-oyo"
+    },
+    "code": {
+      "id": "NG030006_isale-oyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030006",
+      "level": 2,
+      "name": {
+        "local": "Boripe",
+        "en": "Boripe",
+        "slug": "boripe-ng030006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030006",
+        "level": 2,
+        "name": {
+          "local": "Boripe",
+          "en": "Boripe",
+          "slug": "boripe-ng030006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "4.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030006_oja---oba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oja - Oba",
+      "en": "Oja - Oba",
+      "slug": "oja---oba"
+    },
+    "code": {
+      "id": "NG030006_oja---oba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030006",
+      "level": 2,
+      "name": {
+        "local": "Boripe",
+        "en": "Boripe",
+        "slug": "boripe-ng030006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030006",
+        "level": 2,
+        "name": {
+          "local": "Boripe",
+          "en": "Boripe",
+          "slug": "boripe-ng030006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "4.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030006_oke-aree",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke Aree",
+      "en": "Oke Aree",
+      "slug": "oke-aree"
+    },
+    "code": {
+      "id": "NG030006_oke-aree",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030006",
+      "level": 2,
+      "name": {
+        "local": "Boripe",
+        "en": "Boripe",
+        "slug": "boripe-ng030006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030006",
+        "level": 2,
+        "name": {
+          "local": "Boripe",
+          "en": "Boripe",
+          "slug": "boripe-ng030006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "4.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030006_oke-esaoke-ogi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke Esa/oke Ogi",
+      "en": "Oke Esa/oke Ogi",
+      "slug": "oke-esaoke-ogi"
+    },
+    "code": {
+      "id": "NG030006_oke-esaoke-ogi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030006",
+      "level": 2,
+      "name": {
+        "local": "Boripe",
+        "en": "Boripe",
+        "slug": "boripe-ng030006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030006",
+        "level": 2,
+        "name": {
+          "local": "Boripe",
+          "en": "Boripe",
+          "slug": "boripe-ng030006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "4.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030006_oloti-iragbiji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oloti Iragbiji",
+      "en": "Oloti Iragbiji",
+      "slug": "oloti-iragbiji"
+    },
+    "code": {
+      "id": "NG030006_oloti-iragbiji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030006",
+      "level": 2,
+      "name": {
+        "local": "Boripe",
+        "en": "Boripe",
+        "slug": "boripe-ng030006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030006",
+        "level": 2,
+        "name": {
+          "local": "Boripe",
+          "en": "Boripe",
+          "slug": "boripe-ng030006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "4.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030006_ororuwo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ororuwo",
+      "en": "Ororuwo",
+      "slug": "ororuwo"
+    },
+    "code": {
+      "id": "NG030006_ororuwo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030006",
+      "level": 2,
+      "name": {
+        "local": "Boripe",
+        "en": "Boripe",
+        "slug": "boripe-ng030006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030006",
+        "level": 2,
+        "name": {
+          "local": "Boripe",
+          "en": "Boripe",
+          "slug": "boripe-ng030006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.862",
+      "lon": "4.67"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

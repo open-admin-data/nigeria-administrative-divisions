@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG019023_dambo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dambo",
+      "en": "Dambo",
+      "slug": "dambo"
+    },
+    "code": {
+      "id": "NG019023_dambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023_dutsen-abba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dutsen Abba",
+      "en": "Dutsen Abba",
+      "slug": "dutsen-abba"
+    },
+    "code": {
+      "id": "NG019023_dutsen-abba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023_gyallesu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gyallesu",
+      "en": "Gyallesu",
+      "slug": "gyallesu"
+    },
+    "code": {
+      "id": "NG019023_gyallesu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023_kaura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaura",
+      "en": "Kaura",
+      "slug": "kaura"
+    },
+    "code": {
+      "id": "NG019023_kaura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023_kufena",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kufena",
+      "en": "Kufena",
+      "slug": "kufena"
+    },
+    "code": {
+      "id": "NG019023_kufena",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023_kwarbai-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwarbai \"a\"",
+      "en": "Kwarbai \"a\"",
+      "slug": "kwarbai-a"
+    },
+    "code": {
+      "id": "NG019023_kwarbai-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023_kwarbai-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwarbai \"b\"",
+      "en": "Kwarbai \"b\"",
+      "slug": "kwarbai-b"
+    },
+    "code": {
+      "id": "NG019023_kwarbai-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023_limancin-kona",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Limancin-kona",
+      "en": "Limancin-kona",
+      "slug": "limancin-kona"
+    },
+    "code": {
+      "id": "NG019023_limancin-kona",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023_tudun-wada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Wada",
+      "en": "Tudun Wada",
+      "slug": "tudun-wada"
+    },
+    "code": {
+      "id": "NG019023_tudun-wada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023_tukur-tukur",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tukur Tukur",
+      "en": "Tukur Tukur",
+      "slug": "tukur-tukur"
+    },
+    "code": {
+      "id": "NG019023_tukur-tukur",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023_ung-fatika",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ung. Fatika",
+      "en": "Ung. Fatika",
+      "slug": "ung-fatika"
+    },
+    "code": {
+      "id": "NG019023_ung-fatika",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023_ung-juma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ung. Juma",
+      "en": "Ung. Juma",
+      "slug": "ung-juma"
+    },
+    "code": {
+      "id": "NG019023_ung-juma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023_wucicciri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wucicciri",
+      "en": "Wucicciri",
+      "slug": "wucicciri"
+    },
+    "code": {
+      "id": "NG019023_wucicciri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019023",
+      "level": 2,
+      "name": {
+        "local": "Zaria",
+        "en": "Zaria",
+        "slug": "zaria-ng019023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019023",
+        "level": 2,
+        "name": {
+          "local": "Zaria",
+          "en": "Zaria",
+          "slug": "zaria-ng019023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

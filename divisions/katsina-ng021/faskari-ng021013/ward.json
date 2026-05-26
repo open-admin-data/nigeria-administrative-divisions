@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG021013_daudawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daudawa",
+      "en": "Daudawa",
+      "slug": "daudawa"
+    },
+    "code": {
+      "id": "NG021013_daudawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021013",
+      "level": 2,
+      "name": {
+        "local": "Faskari",
+        "en": "Faskari",
+        "slug": "faskari-ng021013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021013",
+        "level": 2,
+        "name": {
+          "local": "Faskari",
+          "en": "Faskari",
+          "slug": "faskari-ng021013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.655",
+      "lon": "7.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021013_faskari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Faskari",
+      "en": "Faskari",
+      "slug": "faskari"
+    },
+    "code": {
+      "id": "NG021013_faskari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021013",
+      "level": 2,
+      "name": {
+        "local": "Faskari",
+        "en": "Faskari",
+        "slug": "faskari-ng021013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021013",
+        "level": 2,
+        "name": {
+          "local": "Faskari",
+          "en": "Faskari",
+          "slug": "faskari-ng021013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.655",
+      "lon": "7.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021013_maigora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maigora",
+      "en": "Maigora",
+      "slug": "maigora"
+    },
+    "code": {
+      "id": "NG021013_maigora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021013",
+      "level": 2,
+      "name": {
+        "local": "Faskari",
+        "en": "Faskari",
+        "slug": "faskari-ng021013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021013",
+        "level": 2,
+        "name": {
+          "local": "Faskari",
+          "en": "Faskari",
+          "slug": "faskari-ng021013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.655",
+      "lon": "7.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021013_mairuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mairuwa",
+      "en": "Mairuwa",
+      "slug": "mairuwa"
+    },
+    "code": {
+      "id": "NG021013_mairuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021013",
+      "level": 2,
+      "name": {
+        "local": "Faskari",
+        "en": "Faskari",
+        "slug": "faskari-ng021013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021013",
+        "level": 2,
+        "name": {
+          "local": "Faskari",
+          "en": "Faskari",
+          "slug": "faskari-ng021013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.655",
+      "lon": "7.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021013_ruwan-godiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ruwan Godiya",
+      "en": "Ruwan Godiya",
+      "slug": "ruwan-godiya"
+    },
+    "code": {
+      "id": "NG021013_ruwan-godiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021013",
+      "level": 2,
+      "name": {
+        "local": "Faskari",
+        "en": "Faskari",
+        "slug": "faskari-ng021013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021013",
+        "level": 2,
+        "name": {
+          "local": "Faskari",
+          "en": "Faskari",
+          "slug": "faskari-ng021013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.655",
+      "lon": "7.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021013_sabonlayigaladima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabonlayi/galadima",
+      "en": "Sabonlayi/galadima",
+      "slug": "sabonlayigaladima"
+    },
+    "code": {
+      "id": "NG021013_sabonlayigaladima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021013",
+      "level": 2,
+      "name": {
+        "local": "Faskari",
+        "en": "Faskari",
+        "slug": "faskari-ng021013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021013",
+        "level": 2,
+        "name": {
+          "local": "Faskari",
+          "en": "Faskari",
+          "slug": "faskari-ng021013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.655",
+      "lon": "7.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021013_sheme",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sheme",
+      "en": "Sheme",
+      "slug": "sheme"
+    },
+    "code": {
+      "id": "NG021013_sheme",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021013",
+      "level": 2,
+      "name": {
+        "local": "Faskari",
+        "en": "Faskari",
+        "slug": "faskari-ng021013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021013",
+        "level": 2,
+        "name": {
+          "local": "Faskari",
+          "en": "Faskari",
+          "slug": "faskari-ng021013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.655",
+      "lon": "7.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021013_tafoki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tafoki",
+      "en": "Tafoki",
+      "slug": "tafoki"
+    },
+    "code": {
+      "id": "NG021013_tafoki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021013",
+      "level": 2,
+      "name": {
+        "local": "Faskari",
+        "en": "Faskari",
+        "slug": "faskari-ng021013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021013",
+        "level": 2,
+        "name": {
+          "local": "Faskari",
+          "en": "Faskari",
+          "slug": "faskari-ng021013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.655",
+      "lon": "7.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021013_yankara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yankara",
+      "en": "Yankara",
+      "slug": "yankara"
+    },
+    "code": {
+      "id": "NG021013_yankara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021013",
+      "level": 2,
+      "name": {
+        "local": "Faskari",
+        "en": "Faskari",
+        "slug": "faskari-ng021013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021013",
+        "level": 2,
+        "name": {
+          "local": "Faskari",
+          "en": "Faskari",
+          "slug": "faskari-ng021013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.655",
+      "lon": "7.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021013_yarmalamai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yarmalamai",
+      "en": "Yarmalamai",
+      "slug": "yarmalamai"
+    },
+    "code": {
+      "id": "NG021013_yarmalamai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021013",
+      "level": 2,
+      "name": {
+        "local": "Faskari",
+        "en": "Faskari",
+        "slug": "faskari-ng021013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021013",
+        "level": 2,
+        "name": {
+          "local": "Faskari",
+          "en": "Faskari",
+          "slug": "faskari-ng021013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.655",
+      "lon": "7.094"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

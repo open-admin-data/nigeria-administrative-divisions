@@ -1,0 +1,47 @@
+{
+  "id": "NG007001",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ado",
+    "en": "Ado",
+    "slug": "ado-ng007001"
+  },
+  "code": {
+    "id": "NG007001",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG007",
+    "level": 1,
+    "name": {
+      "local": "Benue",
+      "en": "Benue",
+      "slug": "benue-ng007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG007",
+      "level": 1,
+      "name": {
+        "local": "Benue",
+        "en": "Benue",
+        "slug": "benue-ng007"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.78",
+    "lon": "8.061"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG008017_alagarno",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alagarno",
+      "en": "Alagarno",
+      "slug": "alagarno"
+    },
+    "code": {
+      "id": "NG008017_alagarno",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008017",
+      "level": 2,
+      "name": {
+        "local": "Kukawa",
+        "en": "Kukawa",
+        "slug": "kukawa-ng008017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008017",
+        "level": 2,
+        "name": {
+          "local": "Kukawa",
+          "en": "Kukawa",
+          "slug": "kukawa-ng008017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.961",
+      "lon": "13.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008017_baga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baga",
+      "en": "Baga",
+      "slug": "baga"
+    },
+    "code": {
+      "id": "NG008017_baga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008017",
+      "level": 2,
+      "name": {
+        "local": "Kukawa",
+        "en": "Kukawa",
+        "slug": "kukawa-ng008017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008017",
+        "level": 2,
+        "name": {
+          "local": "Kukawa",
+          "en": "Kukawa",
+          "slug": "kukawa-ng008017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.972",
+      "lon": "13.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008017_bundur",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bundur",
+      "en": "Bundur",
+      "slug": "bundur"
+    },
+    "code": {
+      "id": "NG008017_bundur",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008017",
+      "level": 2,
+      "name": {
+        "local": "Kukawa",
+        "en": "Kukawa",
+        "slug": "kukawa-ng008017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008017",
+        "level": 2,
+        "name": {
+          "local": "Kukawa",
+          "en": "Kukawa",
+          "slug": "kukawa-ng008017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.867",
+      "lon": "13.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008017_dogoshi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dogoshi",
+      "en": "Dogoshi",
+      "slug": "dogoshi"
+    },
+    "code": {
+      "id": "NG008017_dogoshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008017",
+      "level": 2,
+      "name": {
+        "local": "Kukawa",
+        "en": "Kukawa",
+        "slug": "kukawa-ng008017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008017",
+        "level": 2,
+        "name": {
+          "local": "Kukawa",
+          "en": "Kukawa",
+          "slug": "kukawa-ng008017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.867",
+      "lon": "13.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008017_doro-duguri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doro / Duguri",
+      "en": "Doro / Duguri",
+      "slug": "doro-duguri"
+    },
+    "code": {
+      "id": "NG008017_doro-duguri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008017",
+      "level": 2,
+      "name": {
+        "local": "Kukawa",
+        "en": "Kukawa",
+        "slug": "kukawa-ng008017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008017",
+        "level": 2,
+        "name": {
+          "local": "Kukawa",
+          "en": "Kukawa",
+          "slug": "kukawa-ng008017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.187",
+      "lon": "13.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008017_kauwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kauwa",
+      "en": "Kauwa",
+      "slug": "kauwa"
+    },
+    "code": {
+      "id": "NG008017_kauwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008017",
+      "level": 2,
+      "name": {
+        "local": "Kukawa",
+        "en": "Kukawa",
+        "slug": "kukawa-ng008017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008017",
+        "level": 2,
+        "name": {
+          "local": "Kukawa",
+          "en": "Kukawa",
+          "slug": "kukawa-ng008017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.961",
+      "lon": "13.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008017_kekeno",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kekeno",
+      "en": "Kekeno",
+      "slug": "kekeno"
+    },
+    "code": {
+      "id": "NG008017_kekeno",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008017",
+      "level": 2,
+      "name": {
+        "local": "Kukawa",
+        "en": "Kukawa",
+        "slug": "kukawa-ng008017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008017",
+        "level": 2,
+        "name": {
+          "local": "Kukawa",
+          "en": "Kukawa",
+          "slug": "kukawa-ng008017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.804",
+      "lon": "13.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008017_kukawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kukawa",
+      "en": "Kukawa",
+      "slug": "kukawa"
+    },
+    "code": {
+      "id": "NG008017_kukawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008017",
+      "level": 2,
+      "name": {
+        "local": "Kukawa",
+        "en": "Kukawa",
+        "slug": "kukawa-ng008017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008017",
+        "level": 2,
+        "name": {
+          "local": "Kukawa",
+          "en": "Kukawa",
+          "slug": "kukawa-ng008017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.917",
+      "lon": "13.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008017_moduari-barwari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Moduari / Barwari",
+      "en": "Moduari / Barwari",
+      "slug": "moduari-barwari"
+    },
+    "code": {
+      "id": "NG008017_moduari-barwari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008017",
+      "level": 2,
+      "name": {
+        "local": "Kukawa",
+        "en": "Kukawa",
+        "slug": "kukawa-ng008017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008017",
+        "level": 2,
+        "name": {
+          "local": "Kukawa",
+          "en": "Kukawa",
+          "slug": "kukawa-ng008017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.046",
+      "lon": "13.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008017_yoyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yoyo",
+      "en": "Yoyo",
+      "slug": "yoyo"
+    },
+    "code": {
+      "id": "NG008017_yoyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008017",
+      "level": 2,
+      "name": {
+        "local": "Kukawa",
+        "en": "Kukawa",
+        "slug": "kukawa-ng008017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008017",
+        "level": 2,
+        "name": {
+          "local": "Kukawa",
+          "en": "Kukawa",
+          "slug": "kukawa-ng008017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.767",
+      "lon": "13.588"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

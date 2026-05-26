@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020022_daura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daura",
+      "en": "Daura",
+      "slug": "daura"
+    },
+    "code": {
+      "id": "NG020022_daura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020022",
+      "level": 2,
+      "name": {
+        "local": "Karaye",
+        "en": "Karaye",
+        "slug": "karaye-ng020022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020022",
+        "level": 2,
+        "name": {
+          "local": "Karaye",
+          "en": "Karaye",
+          "slug": "karaye-ng020022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "7.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020022_kafin-dafga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafin Dafga",
+      "en": "Kafin Dafga",
+      "slug": "kafin-dafga"
+    },
+    "code": {
+      "id": "NG020022_kafin-dafga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020022",
+      "level": 2,
+      "name": {
+        "local": "Karaye",
+        "en": "Karaye",
+        "slug": "karaye-ng020022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020022",
+        "level": 2,
+        "name": {
+          "local": "Karaye",
+          "en": "Karaye",
+          "slug": "karaye-ng020022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "7.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020022_karaye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karaye",
+      "en": "Karaye",
+      "slug": "karaye"
+    },
+    "code": {
+      "id": "NG020022_karaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020022",
+      "level": 2,
+      "name": {
+        "local": "Karaye",
+        "en": "Karaye",
+        "slug": "karaye-ng020022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020022",
+        "level": 2,
+        "name": {
+          "local": "Karaye",
+          "en": "Karaye",
+          "slug": "karaye-ng020022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "7.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020022_kurugu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurugu",
+      "en": "Kurugu",
+      "slug": "kurugu"
+    },
+    "code": {
+      "id": "NG020022_kurugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020022",
+      "level": 2,
+      "name": {
+        "local": "Karaye",
+        "en": "Karaye",
+        "slug": "karaye-ng020022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020022",
+        "level": 2,
+        "name": {
+          "local": "Karaye",
+          "en": "Karaye",
+          "slug": "karaye-ng020022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "7.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020022_kwanyawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwanyawa",
+      "en": "Kwanyawa",
+      "slug": "kwanyawa"
+    },
+    "code": {
+      "id": "NG020022_kwanyawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020022",
+      "level": 2,
+      "name": {
+        "local": "Karaye",
+        "en": "Karaye",
+        "slug": "karaye-ng020022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020022",
+        "level": 2,
+        "name": {
+          "local": "Karaye",
+          "en": "Karaye",
+          "slug": "karaye-ng020022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "7.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020022_tudun-kaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Kaya",
+      "en": "Tudun Kaya",
+      "slug": "tudun-kaya"
+    },
+    "code": {
+      "id": "NG020022_tudun-kaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020022",
+      "level": 2,
+      "name": {
+        "local": "Karaye",
+        "en": "Karaye",
+        "slug": "karaye-ng020022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020022",
+        "level": 2,
+        "name": {
+          "local": "Karaye",
+          "en": "Karaye",
+          "slug": "karaye-ng020022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "7.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020022_turawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Turawa",
+      "en": "Turawa",
+      "slug": "turawa"
+    },
+    "code": {
+      "id": "NG020022_turawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020022",
+      "level": 2,
+      "name": {
+        "local": "Karaye",
+        "en": "Karaye",
+        "slug": "karaye-ng020022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020022",
+        "level": 2,
+        "name": {
+          "local": "Karaye",
+          "en": "Karaye",
+          "slug": "karaye-ng020022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "7.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020022_unguwar-hajji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Hajji",
+      "en": "Unguwar Hajji",
+      "slug": "unguwar-hajji"
+    },
+    "code": {
+      "id": "NG020022_unguwar-hajji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020022",
+      "level": 2,
+      "name": {
+        "local": "Karaye",
+        "en": "Karaye",
+        "slug": "karaye-ng020022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020022",
+        "level": 2,
+        "name": {
+          "local": "Karaye",
+          "en": "Karaye",
+          "slug": "karaye-ng020022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "7.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020022_yammedi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yammedi",
+      "en": "Yammedi",
+      "slug": "yammedi"
+    },
+    "code": {
+      "id": "NG020022_yammedi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020022",
+      "level": 2,
+      "name": {
+        "local": "Karaye",
+        "en": "Karaye",
+        "slug": "karaye-ng020022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020022",
+        "level": 2,
+        "name": {
+          "local": "Karaye",
+          "en": "Karaye",
+          "slug": "karaye-ng020022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "7.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020022_yola",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yola",
+      "en": "Yola",
+      "slug": "yola"
+    },
+    "code": {
+      "id": "NG020022_yola",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020022",
+      "level": 2,
+      "name": {
+        "local": "Karaye",
+        "en": "Karaye",
+        "slug": "karaye-ng020022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020022",
+        "level": 2,
+        "name": {
+          "local": "Karaye",
+          "en": "Karaye",
+          "slug": "karaye-ng020022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.75",
+      "lon": "7.986"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

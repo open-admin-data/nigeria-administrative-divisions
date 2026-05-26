@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG034020_barayar-giwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Barayar Giwa",
+      "en": "Barayar Giwa",
+      "slug": "barayar-giwa"
+    },
+    "code": {
+      "id": "NG034020_barayar-giwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034020",
+      "level": 2,
+      "name": {
+        "local": "Tureta",
+        "en": "Tureta",
+        "slug": "tureta-ng034020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034020",
+        "level": 2,
+        "name": {
+          "local": "Tureta",
+          "en": "Tureta",
+          "slug": "tureta-ng034020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.483",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034020_duma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Duma",
+      "en": "Duma",
+      "slug": "duma"
+    },
+    "code": {
+      "id": "NG034020_duma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034020",
+      "level": 2,
+      "name": {
+        "local": "Tureta",
+        "en": "Tureta",
+        "slug": "tureta-ng034020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034020",
+        "level": 2,
+        "name": {
+          "local": "Tureta",
+          "en": "Tureta",
+          "slug": "tureta-ng034020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.483",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034020_fura-girke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fura Girke",
+      "en": "Fura Girke",
+      "slug": "fura-girke"
+    },
+    "code": {
+      "id": "NG034020_fura-girke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034020",
+      "level": 2,
+      "name": {
+        "local": "Tureta",
+        "en": "Tureta",
+        "slug": "tureta-ng034020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034020",
+        "level": 2,
+        "name": {
+          "local": "Tureta",
+          "en": "Tureta",
+          "slug": "tureta-ng034020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.483",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034020_gidan-karebimasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gidan Kare/bimasa",
+      "en": "Gidan Kare/bimasa",
+      "slug": "gidan-karebimasa"
+    },
+    "code": {
+      "id": "NG034020_gidan-karebimasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034020",
+      "level": 2,
+      "name": {
+        "local": "Tureta",
+        "en": "Tureta",
+        "slug": "tureta-ng034020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034020",
+        "level": 2,
+        "name": {
+          "local": "Tureta",
+          "en": "Tureta",
+          "slug": "tureta-ng034020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.483",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034020_kuruwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuruwa",
+      "en": "Kuruwa",
+      "slug": "kuruwa"
+    },
+    "code": {
+      "id": "NG034020_kuruwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034020",
+      "level": 2,
+      "name": {
+        "local": "Tureta",
+        "en": "Tureta",
+        "slug": "tureta-ng034020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034020",
+        "level": 2,
+        "name": {
+          "local": "Tureta",
+          "en": "Tureta",
+          "slug": "tureta-ng034020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.483",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034020_kwarare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwarare",
+      "en": "Kwarare",
+      "slug": "kwarare"
+    },
+    "code": {
+      "id": "NG034020_kwarare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034020",
+      "level": 2,
+      "name": {
+        "local": "Tureta",
+        "en": "Tureta",
+        "slug": "tureta-ng034020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034020",
+        "level": 2,
+        "name": {
+          "local": "Tureta",
+          "en": "Tureta",
+          "slug": "tureta-ng034020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.483",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034020_lambar-tureta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lambar Tureta",
+      "en": "Lambar Tureta",
+      "slug": "lambar-tureta"
+    },
+    "code": {
+      "id": "NG034020_lambar-tureta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034020",
+      "level": 2,
+      "name": {
+        "local": "Tureta",
+        "en": "Tureta",
+        "slug": "tureta-ng034020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034020",
+        "level": 2,
+        "name": {
+          "local": "Tureta",
+          "en": "Tureta",
+          "slug": "tureta-ng034020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.483",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034020_lofa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lofa",
+      "en": "Lofa",
+      "slug": "lofa"
+    },
+    "code": {
+      "id": "NG034020_lofa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034020",
+      "level": 2,
+      "name": {
+        "local": "Tureta",
+        "en": "Tureta",
+        "slug": "tureta-ng034020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034020",
+        "level": 2,
+        "name": {
+          "local": "Tureta",
+          "en": "Tureta",
+          "slug": "tureta-ng034020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.483",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034020_tsamiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsamiya",
+      "en": "Tsamiya",
+      "slug": "tsamiya"
+    },
+    "code": {
+      "id": "NG034020_tsamiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034020",
+      "level": 2,
+      "name": {
+        "local": "Tureta",
+        "en": "Tureta",
+        "slug": "tureta-ng034020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034020",
+        "level": 2,
+        "name": {
+          "local": "Tureta",
+          "en": "Tureta",
+          "slug": "tureta-ng034020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.483",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034020_tureta-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tureta Gari",
+      "en": "Tureta Gari",
+      "slug": "tureta-gari"
+    },
+    "code": {
+      "id": "NG034020_tureta-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034020",
+      "level": 2,
+      "name": {
+        "local": "Tureta",
+        "en": "Tureta",
+        "slug": "tureta-ng034020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034020",
+        "level": 2,
+        "name": {
+          "local": "Tureta",
+          "en": "Tureta",
+          "slug": "tureta-ng034020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.483",
+      "lon": "5.512"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NG014012",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Nkanu West",
+    "en": "Nkanu West",
+    "slug": "nkanu-west-ng014012"
+  },
+  "code": {
+    "id": "NG014012",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG014",
+    "level": 1,
+    "name": {
+      "local": "Enugu",
+      "en": "Enugu",
+      "slug": "enugu-ng014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG014",
+      "level": 1,
+      "name": {
+        "local": "Enugu",
+        "en": "Enugu",
+        "slug": "enugu-ng014"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.328",
+    "lon": "7.534"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG005008_ganjuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ganjuwa",
+      "en": "Ganjuwa",
+      "slug": "ganjuwa"
+    },
+    "code": {
+      "id": "NG005008_ganjuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005008",
+      "level": 2,
+      "name": {
+        "local": "Ganjuwa",
+        "en": "Ganjuwa",
+        "slug": "ganjuwa-ng005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005008",
+        "level": 2,
+        "name": {
+          "local": "Ganjuwa",
+          "en": "Ganjuwa",
+          "slug": "ganjuwa-ng005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.747",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005008_gungura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gungura",
+      "en": "Gungura",
+      "slug": "gungura"
+    },
+    "code": {
+      "id": "NG005008_gungura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005008",
+      "level": 2,
+      "name": {
+        "local": "Ganjuwa",
+        "en": "Ganjuwa",
+        "slug": "ganjuwa-ng005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005008",
+        "level": 2,
+        "name": {
+          "local": "Ganjuwa",
+          "en": "Ganjuwa",
+          "slug": "ganjuwa-ng005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.747",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005008_kafin-madaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafin Madaki",
+      "en": "Kafin Madaki",
+      "slug": "kafin-madaki"
+    },
+    "code": {
+      "id": "NG005008_kafin-madaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005008",
+      "level": 2,
+      "name": {
+        "local": "Ganjuwa",
+        "en": "Ganjuwa",
+        "slug": "ganjuwa-ng005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005008",
+        "level": 2,
+        "name": {
+          "local": "Ganjuwa",
+          "en": "Ganjuwa",
+          "slug": "ganjuwa-ng005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.747",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005008_kariya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kariya",
+      "en": "Kariya",
+      "slug": "kariya"
+    },
+    "code": {
+      "id": "NG005008_kariya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005008",
+      "level": 2,
+      "name": {
+        "local": "Ganjuwa",
+        "en": "Ganjuwa",
+        "slug": "ganjuwa-ng005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005008",
+        "level": 2,
+        "name": {
+          "local": "Ganjuwa",
+          "en": "Ganjuwa",
+          "slug": "ganjuwa-ng005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.747",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005008_kubi-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kubi East",
+      "en": "Kubi East",
+      "slug": "kubi-east"
+    },
+    "code": {
+      "id": "NG005008_kubi-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005008",
+      "level": 2,
+      "name": {
+        "local": "Ganjuwa",
+        "en": "Ganjuwa",
+        "slug": "ganjuwa-ng005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005008",
+        "level": 2,
+        "name": {
+          "local": "Ganjuwa",
+          "en": "Ganjuwa",
+          "slug": "ganjuwa-ng005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.747",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005008_kubi-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kubi West",
+      "en": "Kubi West",
+      "slug": "kubi-west"
+    },
+    "code": {
+      "id": "NG005008_kubi-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005008",
+      "level": 2,
+      "name": {
+        "local": "Ganjuwa",
+        "en": "Ganjuwa",
+        "slug": "ganjuwa-ng005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005008",
+        "level": 2,
+        "name": {
+          "local": "Ganjuwa",
+          "en": "Ganjuwa",
+          "slug": "ganjuwa-ng005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.747",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005008_miya-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Miya East",
+      "en": "Miya East",
+      "slug": "miya-east"
+    },
+    "code": {
+      "id": "NG005008_miya-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005008",
+      "level": 2,
+      "name": {
+        "local": "Ganjuwa",
+        "en": "Ganjuwa",
+        "slug": "ganjuwa-ng005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005008",
+        "level": 2,
+        "name": {
+          "local": "Ganjuwa",
+          "en": "Ganjuwa",
+          "slug": "ganjuwa-ng005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.747",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005008_miya-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Miya West",
+      "en": "Miya West",
+      "slug": "miya-west"
+    },
+    "code": {
+      "id": "NG005008_miya-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005008",
+      "level": 2,
+      "name": {
+        "local": "Ganjuwa",
+        "en": "Ganjuwa",
+        "slug": "ganjuwa-ng005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005008",
+        "level": 2,
+        "name": {
+          "local": "Ganjuwa",
+          "en": "Ganjuwa",
+          "slug": "ganjuwa-ng005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.747",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005008_nasarawa-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasarawa North",
+      "en": "Nasarawa North",
+      "slug": "nasarawa-north"
+    },
+    "code": {
+      "id": "NG005008_nasarawa-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005008",
+      "level": 2,
+      "name": {
+        "local": "Ganjuwa",
+        "en": "Ganjuwa",
+        "slug": "ganjuwa-ng005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005008",
+        "level": 2,
+        "name": {
+          "local": "Ganjuwa",
+          "en": "Ganjuwa",
+          "slug": "ganjuwa-ng005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.747",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005008_nasarawa-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasarawa South",
+      "en": "Nasarawa South",
+      "slug": "nasarawa-south"
+    },
+    "code": {
+      "id": "NG005008_nasarawa-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005008",
+      "level": 2,
+      "name": {
+        "local": "Ganjuwa",
+        "en": "Ganjuwa",
+        "slug": "ganjuwa-ng005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005008",
+        "level": 2,
+        "name": {
+          "local": "Ganjuwa",
+          "en": "Ganjuwa",
+          "slug": "ganjuwa-ng005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.747",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005008_yali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yali",
+      "en": "Yali",
+      "slug": "yali"
+    },
+    "code": {
+      "id": "NG005008_yali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005008",
+      "level": 2,
+      "name": {
+        "local": "Ganjuwa",
+        "en": "Ganjuwa",
+        "slug": "ganjuwa-ng005008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005008",
+        "level": 2,
+        "name": {
+          "local": "Ganjuwa",
+          "en": "Ganjuwa",
+          "slug": "ganjuwa-ng005008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.747",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

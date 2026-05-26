@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG019017_abadawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abadawa",
+      "en": "Abadawa",
+      "slug": "abadawa"
+    },
+    "code": {
+      "id": "NG019017_abadawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019017",
+      "level": 2,
+      "name": {
+        "local": "Lere",
+        "en": "Lere",
+        "slug": "lere-ng019017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019017",
+        "level": 2,
+        "name": {
+          "local": "Lere",
+          "en": "Lere",
+          "slug": "lere-ng019017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "8.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019017_dan-alhaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Alhaji",
+      "en": "Dan Alhaji",
+      "slug": "dan-alhaji"
+    },
+    "code": {
+      "id": "NG019017_dan-alhaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019017",
+      "level": 2,
+      "name": {
+        "local": "Lere",
+        "en": "Lere",
+        "slug": "lere-ng019017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019017",
+        "level": 2,
+        "name": {
+          "local": "Lere",
+          "en": "Lere",
+          "slug": "lere-ng019017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "8.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019017_garu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garu",
+      "en": "Garu",
+      "slug": "garu"
+    },
+    "code": {
+      "id": "NG019017_garu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019017",
+      "level": 2,
+      "name": {
+        "local": "Lere",
+        "en": "Lere",
+        "slug": "lere-ng019017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019017",
+        "level": 2,
+        "name": {
+          "local": "Lere",
+          "en": "Lere",
+          "slug": "lere-ng019017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "8.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019017_gurekahugu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gure/kahugu",
+      "en": "Gure/kahugu",
+      "slug": "gurekahugu"
+    },
+    "code": {
+      "id": "NG019017_gurekahugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019017",
+      "level": 2,
+      "name": {
+        "local": "Lere",
+        "en": "Lere",
+        "slug": "lere-ng019017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019017",
+        "level": 2,
+        "name": {
+          "local": "Lere",
+          "en": "Lere",
+          "slug": "lere-ng019017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "8.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019017_kayarda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kayarda",
+      "en": "Kayarda",
+      "slug": "kayarda"
+    },
+    "code": {
+      "id": "NG019017_kayarda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019017",
+      "level": 2,
+      "name": {
+        "local": "Lere",
+        "en": "Lere",
+        "slug": "lere-ng019017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019017",
+        "level": 2,
+        "name": {
+          "local": "Lere",
+          "en": "Lere",
+          "slug": "lere-ng019017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "8.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019017_lazuru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lazuru",
+      "en": "Lazuru",
+      "slug": "lazuru"
+    },
+    "code": {
+      "id": "NG019017_lazuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019017",
+      "level": 2,
+      "name": {
+        "local": "Lere",
+        "en": "Lere",
+        "slug": "lere-ng019017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019017",
+        "level": 2,
+        "name": {
+          "local": "Lere",
+          "en": "Lere",
+          "slug": "lere-ng019017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "8.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019017_lere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lere",
+      "en": "Lere",
+      "slug": "lere"
+    },
+    "code": {
+      "id": "NG019017_lere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019017",
+      "level": 2,
+      "name": {
+        "local": "Lere",
+        "en": "Lere",
+        "slug": "lere-ng019017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019017",
+        "level": 2,
+        "name": {
+          "local": "Lere",
+          "en": "Lere",
+          "slug": "lere-ng019017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "8.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019017_ramin-kura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ramin Kura",
+      "en": "Ramin Kura",
+      "slug": "ramin-kura"
+    },
+    "code": {
+      "id": "NG019017_ramin-kura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019017",
+      "level": 2,
+      "name": {
+        "local": "Lere",
+        "en": "Lere",
+        "slug": "lere-ng019017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019017",
+        "level": 2,
+        "name": {
+          "local": "Lere",
+          "en": "Lere",
+          "slug": "lere-ng019017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "8.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019017_sabon-birnin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Birnin",
+      "en": "Sabon Birnin",
+      "slug": "sabon-birnin"
+    },
+    "code": {
+      "id": "NG019017_sabon-birnin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019017",
+      "level": 2,
+      "name": {
+        "local": "Lere",
+        "en": "Lere",
+        "slug": "lere-ng019017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019017",
+        "level": 2,
+        "name": {
+          "local": "Lere",
+          "en": "Lere",
+          "slug": "lere-ng019017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "8.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019017_saminaka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Saminaka",
+      "en": "Saminaka",
+      "slug": "saminaka"
+    },
+    "code": {
+      "id": "NG019017_saminaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019017",
+      "level": 2,
+      "name": {
+        "local": "Lere",
+        "en": "Lere",
+        "slug": "lere-ng019017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019017",
+        "level": 2,
+        "name": {
+          "local": "Lere",
+          "en": "Lere",
+          "slug": "lere-ng019017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "8.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019017_yar-kasuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yar Kasuwa",
+      "en": "Yar Kasuwa",
+      "slug": "yar-kasuwa"
+    },
+    "code": {
+      "id": "NG019017_yar-kasuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019017",
+      "level": 2,
+      "name": {
+        "local": "Lere",
+        "en": "Lere",
+        "slug": "lere-ng019017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019017",
+        "level": 2,
+        "name": {
+          "local": "Lere",
+          "en": "Lere",
+          "slug": "lere-ng019017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "8.581"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

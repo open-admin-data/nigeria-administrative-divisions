@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG016008_bojude",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bojude",
+      "en": "Bojude",
+      "slug": "bojude"
+    },
+    "code": {
+      "id": "NG016008_bojude",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016008",
+      "level": 2,
+      "name": {
+        "local": "Kwami",
+        "en": "Kwami",
+        "slug": "kwami-ng016008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016008",
+        "level": 2,
+        "name": {
+          "local": "Kwami",
+          "en": "Kwami",
+          "slug": "kwami-ng016008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.495",
+      "lon": "11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016008_daban-fulani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daban Fulani",
+      "en": "Daban Fulani",
+      "slug": "daban-fulani"
+    },
+    "code": {
+      "id": "NG016008_daban-fulani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016008",
+      "level": 2,
+      "name": {
+        "local": "Kwami",
+        "en": "Kwami",
+        "slug": "kwami-ng016008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016008",
+        "level": 2,
+        "name": {
+          "local": "Kwami",
+          "en": "Kwami",
+          "slug": "kwami-ng016008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.495",
+      "lon": "11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016008_doho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doho",
+      "en": "Doho",
+      "slug": "doho"
+    },
+    "code": {
+      "id": "NG016008_doho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016008",
+      "level": 2,
+      "name": {
+        "local": "Kwami",
+        "en": "Kwami",
+        "slug": "kwami-ng016008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016008",
+        "level": 2,
+        "name": {
+          "local": "Kwami",
+          "en": "Kwami",
+          "slug": "kwami-ng016008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.495",
+      "lon": "11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016008_dukul",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dukul",
+      "en": "Dukul",
+      "slug": "dukul"
+    },
+    "code": {
+      "id": "NG016008_dukul",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016008",
+      "level": 2,
+      "name": {
+        "local": "Kwami",
+        "en": "Kwami",
+        "slug": "kwami-ng016008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016008",
+        "level": 2,
+        "name": {
+          "local": "Kwami",
+          "en": "Kwami",
+          "slug": "kwami-ng016008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.495",
+      "lon": "11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016008_gadam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gadam",
+      "en": "Gadam",
+      "slug": "gadam"
+    },
+    "code": {
+      "id": "NG016008_gadam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016008",
+      "level": 2,
+      "name": {
+        "local": "Kwami",
+        "en": "Kwami",
+        "slug": "kwami-ng016008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016008",
+        "level": 2,
+        "name": {
+          "local": "Kwami",
+          "en": "Kwami",
+          "slug": "kwami-ng016008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.495",
+      "lon": "11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016008_jurara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jurara",
+      "en": "Jurara",
+      "slug": "jurara"
+    },
+    "code": {
+      "id": "NG016008_jurara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016008",
+      "level": 2,
+      "name": {
+        "local": "Kwami",
+        "en": "Kwami",
+        "slug": "kwami-ng016008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016008",
+        "level": 2,
+        "name": {
+          "local": "Kwami",
+          "en": "Kwami",
+          "slug": "kwami-ng016008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.495",
+      "lon": "11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016008_komfulata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Komfulata",
+      "en": "Komfulata",
+      "slug": "komfulata"
+    },
+    "code": {
+      "id": "NG016008_komfulata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016008",
+      "level": 2,
+      "name": {
+        "local": "Kwami",
+        "en": "Kwami",
+        "slug": "kwami-ng016008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016008",
+        "level": 2,
+        "name": {
+          "local": "Kwami",
+          "en": "Kwami",
+          "slug": "kwami-ng016008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.495",
+      "lon": "11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016008_kwami",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwami",
+      "en": "Kwami",
+      "slug": "kwami"
+    },
+    "code": {
+      "id": "NG016008_kwami",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016008",
+      "level": 2,
+      "name": {
+        "local": "Kwami",
+        "en": "Kwami",
+        "slug": "kwami-ng016008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016008",
+        "level": 2,
+        "name": {
+          "local": "Kwami",
+          "en": "Kwami",
+          "slug": "kwami-ng016008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.495",
+      "lon": "11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016008_malam-sidi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Malam Sidi",
+      "en": "Malam Sidi",
+      "slug": "malam-sidi"
+    },
+    "code": {
+      "id": "NG016008_malam-sidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016008",
+      "level": 2,
+      "name": {
+        "local": "Kwami",
+        "en": "Kwami",
+        "slug": "kwami-ng016008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016008",
+        "level": 2,
+        "name": {
+          "local": "Kwami",
+          "en": "Kwami",
+          "slug": "kwami-ng016008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.495",
+      "lon": "11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016008_malleri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Malleri",
+      "en": "Malleri",
+      "slug": "malleri"
+    },
+    "code": {
+      "id": "NG016008_malleri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016008",
+      "level": 2,
+      "name": {
+        "local": "Kwami",
+        "en": "Kwami",
+        "slug": "kwami-ng016008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016008",
+        "level": 2,
+        "name": {
+          "local": "Kwami",
+          "en": "Kwami",
+          "slug": "kwami-ng016008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.495",
+      "lon": "11.184"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

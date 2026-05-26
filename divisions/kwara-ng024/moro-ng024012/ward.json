@@ -1,0 +1,920 @@
+[
+  {
+    "id": "NG024012_abatialara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abati/alara",
+      "en": "Abati/alara",
+      "slug": "abatialara"
+    },
+    "code": {
+      "id": "NG024012_abatialara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_ajanaku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajanaku",
+      "en": "Ajanaku",
+      "slug": "ajanaku"
+    },
+    "code": {
+      "id": "NG024012_ajanaku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_arobadi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Arobadi",
+      "en": "Arobadi",
+      "slug": "arobadi"
+    },
+    "code": {
+      "id": "NG024012_arobadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_babadudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Babadudu",
+      "en": "Babadudu",
+      "slug": "babadudu"
+    },
+    "code": {
+      "id": "NG024012_babadudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_bode-saadu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bode-saadu",
+      "en": "Bode-saadu",
+      "slug": "bode-saadu"
+    },
+    "code": {
+      "id": "NG024012_bode-saadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_ejidongari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ejidongari",
+      "en": "Ejidongari",
+      "slug": "ejidongari"
+    },
+    "code": {
+      "id": "NG024012_ejidongari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_jebba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jebba",
+      "en": "Jebba",
+      "slug": "jebba"
+    },
+    "code": {
+      "id": "NG024012_jebba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_lanwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lanwa",
+      "en": "Lanwa",
+      "slug": "lanwa"
+    },
+    "code": {
+      "id": "NG024012_lanwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_logunjehunkunnu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Logun/jehunkunnu",
+      "en": "Logun/jehunkunnu",
+      "slug": "logunjehunkunnu"
+    },
+    "code": {
+      "id": "NG024012_logunjehunkunnu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_maletegbugudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Malete/gbugudu",
+      "en": "Malete/gbugudu",
+      "slug": "maletegbugudu"
+    },
+    "code": {
+      "id": "NG024012_maletegbugudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_megida",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Megida",
+      "en": "Megida",
+      "slug": "megida"
+    },
+    "code": {
+      "id": "NG024012_megida",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_okemi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okemi",
+      "en": "Okemi",
+      "slug": "okemi"
+    },
+    "code": {
+      "id": "NG024012_okemi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_okutala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okutala",
+      "en": "Okutala",
+      "slug": "okutala"
+    },
+    "code": {
+      "id": "NG024012_okutala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_oloru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oloru",
+      "en": "Oloru",
+      "slug": "oloru"
+    },
+    "code": {
+      "id": "NG024012_oloru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_pakunmo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pakunmo",
+      "en": "Pakunmo",
+      "slug": "pakunmo"
+    },
+    "code": {
+      "id": "NG024012_pakunmo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_shao",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shao",
+      "en": "Shao",
+      "slug": "shao"
+    },
+    "code": {
+      "id": "NG024012_shao",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024012_womiayaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Womi/ayaki",
+      "en": "Womi/ayaki",
+      "slug": "womiayaki"
+    },
+    "code": {
+      "id": "NG024012_womiayaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024012",
+      "level": 2,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-ng024012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024012",
+        "level": 2,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-ng024012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.838",
+      "lon": "4.514"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "NG011001_abakpa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abakpa",
+      "en": "Abakpa",
+      "slug": "abakpa"
+    },
+    "code": {
+      "id": "NG011001_abakpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_amachi-ndebo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amachi (ndebo)",
+      "en": "Amachi (ndebo)",
+      "slug": "amachi-ndebo"
+    },
+    "code": {
+      "id": "NG011001_amachi-ndebo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_amachi-ndegu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amachi (ndegu)",
+      "en": "Amachi (ndegu)",
+      "slug": "amachi-ndegu"
+    },
+    "code": {
+      "id": "NG011001_amachi-ndegu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_amagu-enyigba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amagu / Enyigba",
+      "en": "Amagu / Enyigba",
+      "slug": "amagu-enyigba"
+    },
+    "code": {
+      "id": "NG011001_amagu-enyigba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_amagu-unuhu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amagu Unuhu",
+      "en": "Amagu Unuhu",
+      "slug": "amagu-unuhu"
+    },
+    "code": {
+      "id": "NG011001_amagu-unuhu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_azuiyi-udene",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Azuiyi Udene",
+      "en": "Azuiyi Udene",
+      "slug": "azuiyi-udene"
+    },
+    "code": {
+      "id": "NG011001_azuiyi-udene",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_azuiyiokwu-layout",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Azuiyiokwu Layout",
+      "en": "Azuiyiokwu Layout",
+      "slug": "azuiyiokwu-layout"
+    },
+    "code": {
+      "id": "NG011001_azuiyiokwu-layout",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_azuminiazugwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Azumini/azugwu",
+      "en": "Azumini/azugwu",
+      "slug": "azuminiazugwu"
+    },
+    "code": {
+      "id": "NG011001_azuminiazugwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_edda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Edda",
+      "en": "Edda",
+      "slug": "edda"
+    },
+    "code": {
+      "id": "NG011001_edda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_izzi-unuhu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Izzi Unuhu",
+      "en": "Izzi Unuhu",
+      "slug": "izzi-unuhu"
+    },
+    "code": {
+      "id": "NG011001_izzi-unuhu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_ndiagu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndiagu",
+      "en": "Ndiagu",
+      "slug": "ndiagu"
+    },
+    "code": {
+      "id": "NG011001_ndiagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_okpoitumo-ndebor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpoitumo Ndebor",
+      "en": "Okpoitumo Ndebor",
+      "slug": "okpoitumo-ndebor"
+    },
+    "code": {
+      "id": "NG011001_okpoitumo-ndebor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_okpoitumo-ndiegu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpoitumo Ndiegu",
+      "en": "Okpoitumo Ndiegu",
+      "slug": "okpoitumo-ndiegu"
+    },
+    "code": {
+      "id": "NG011001_okpoitumo-ndiegu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011001_timber-shed",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Timber Shed",
+      "en": "Timber Shed",
+      "slug": "timber-shed"
+    },
+    "code": {
+      "id": "NG011001_timber-shed",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011001",
+      "level": 2,
+      "name": {
+        "local": "Abakaliki",
+        "en": "Abakaliki",
+        "slug": "abakaliki-ng011001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011001",
+        "level": 2,
+        "name": {
+          "local": "Abakaliki",
+          "en": "Abakaliki",
+          "slug": "abakaliki-ng011001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.257",
+      "lon": "8.244"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

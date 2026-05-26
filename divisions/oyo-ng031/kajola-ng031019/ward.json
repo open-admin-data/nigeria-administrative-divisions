@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG031019_ayetoro-oke-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayetoro-oke I",
+      "en": "Ayetoro-oke I",
+      "slug": "ayetoro-oke-i"
+    },
+    "code": {
+      "id": "NG031019_ayetoro-oke-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031019",
+      "level": 2,
+      "name": {
+        "local": "Kajola",
+        "en": "Kajola",
+        "slug": "kajola-ng031019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031019",
+        "level": 2,
+        "name": {
+          "local": "Kajola",
+          "en": "Kajola",
+          "slug": "kajola-ng031019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "3.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031019_elero",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Elero",
+      "en": "Elero",
+      "slug": "elero"
+    },
+    "code": {
+      "id": "NG031019_elero",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031019",
+      "level": 2,
+      "name": {
+        "local": "Kajola",
+        "en": "Kajola",
+        "slug": "kajola-ng031019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031019",
+        "level": 2,
+        "name": {
+          "local": "Kajola",
+          "en": "Kajola",
+          "slug": "kajola-ng031019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "3.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031019_gbelekale-i-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gbelekale I & Ii",
+      "en": "Gbelekale I & Ii",
+      "slug": "gbelekale-i-ii"
+    },
+    "code": {
+      "id": "NG031019_gbelekale-i-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031019",
+      "level": 2,
+      "name": {
+        "local": "Kajola",
+        "en": "Kajola",
+        "slug": "kajola-ng031019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031019",
+        "level": 2,
+        "name": {
+          "local": "Kajola",
+          "en": "Kajola",
+          "slug": "kajola-ng031019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "3.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031019_iba-ogan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iba-ogan",
+      "en": "Iba-ogan",
+      "slug": "iba-ogan"
+    },
+    "code": {
+      "id": "NG031019_iba-ogan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031019",
+      "level": 2,
+      "name": {
+        "local": "Kajola",
+        "en": "Kajola",
+        "slug": "kajola-ng031019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031019",
+        "level": 2,
+        "name": {
+          "local": "Kajola",
+          "en": "Kajola",
+          "slug": "kajola-ng031019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "3.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031019_ijo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijo",
+      "en": "Ijo",
+      "slug": "ijo"
+    },
+    "code": {
+      "id": "NG031019_ijo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031019",
+      "level": 2,
+      "name": {
+        "local": "Kajola",
+        "en": "Kajola",
+        "slug": "kajola-ng031019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031019",
+        "level": 2,
+        "name": {
+          "local": "Kajola",
+          "en": "Kajola",
+          "slug": "kajola-ng031019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "3.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031019_ilaji-okeiwere-oke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilaji Oke/iwere-oke",
+      "en": "Ilaji Oke/iwere-oke",
+      "slug": "ilaji-okeiwere-oke"
+    },
+    "code": {
+      "id": "NG031019_ilaji-okeiwere-oke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031019",
+      "level": 2,
+      "name": {
+        "local": "Kajola",
+        "en": "Kajola",
+        "slug": "kajola-ng031019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031019",
+        "level": 2,
+        "name": {
+          "local": "Kajola",
+          "en": "Kajola",
+          "slug": "kajola-ng031019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "3.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031019_imobaoke-ogun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imoba/oke-ogun",
+      "en": "Imoba/oke-ogun",
+      "slug": "imobaoke-ogun"
+    },
+    "code": {
+      "id": "NG031019_imobaoke-ogun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031019",
+      "level": 2,
+      "name": {
+        "local": "Kajola",
+        "en": "Kajola",
+        "slug": "kajola-ng031019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031019",
+        "level": 2,
+        "name": {
+          "local": "Kajola",
+          "en": "Kajola",
+          "slug": "kajola-ng031019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "3.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031019_isemi-ileimiailua",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isemi-ile/imia/ilua",
+      "en": "Isemi-ile/imia/ilua",
+      "slug": "isemi-ileimiailua"
+    },
+    "code": {
+      "id": "NG031019_isemi-ileimiailua",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031019",
+      "level": 2,
+      "name": {
+        "local": "Kajola",
+        "en": "Kajola",
+        "slug": "kajola-ng031019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031019",
+        "level": 2,
+        "name": {
+          "local": "Kajola",
+          "en": "Kajola",
+          "slug": "kajola-ng031019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "3.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031019_isia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isia",
+      "en": "Isia",
+      "slug": "isia"
+    },
+    "code": {
+      "id": "NG031019_isia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031019",
+      "level": 2,
+      "name": {
+        "local": "Kajola",
+        "en": "Kajola",
+        "slug": "kajola-ng031019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031019",
+        "level": 2,
+        "name": {
+          "local": "Kajola",
+          "en": "Kajola",
+          "slug": "kajola-ng031019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "3.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031019_kajola",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kajola",
+      "en": "Kajola",
+      "slug": "kajola"
+    },
+    "code": {
+      "id": "NG031019_kajola",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031019",
+      "level": 2,
+      "name": {
+        "local": "Kajola",
+        "en": "Kajola",
+        "slug": "kajola-ng031019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031019",
+        "level": 2,
+        "name": {
+          "local": "Kajola",
+          "en": "Kajola",
+          "slug": "kajola-ng031019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "3.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031019_olele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olele",
+      "en": "Olele",
+      "slug": "olele"
+    },
+    "code": {
+      "id": "NG031019_olele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031019",
+      "level": 2,
+      "name": {
+        "local": "Kajola",
+        "en": "Kajola",
+        "slug": "kajola-ng031019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031019",
+        "level": 2,
+        "name": {
+          "local": "Kajola",
+          "en": "Kajola",
+          "slug": "kajola-ng031019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.029",
+      "lon": "3.359"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

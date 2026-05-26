@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG002018_dirma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dirma",
+      "en": "Dirma",
+      "slug": "dirma"
+    },
+    "code": {
+      "id": "NG002018_dirma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002018",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-ng002018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002018",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-ng002018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.89",
+      "lon": "12.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002018_dumne",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dumne",
+      "en": "Dumne",
+      "slug": "dumne"
+    },
+    "code": {
+      "id": "NG002018_dumne",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002018",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-ng002018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002018",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-ng002018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.808",
+      "lon": "12.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002018_gudu-mboi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gudu Mboi",
+      "en": "Gudu Mboi",
+      "slug": "gudu-mboi"
+    },
+    "code": {
+      "id": "NG002018_gudu-mboi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002018",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-ng002018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002018",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-ng002018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.898",
+      "lon": "12.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002018_kilange-funa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kilange Funa",
+      "en": "Kilange Funa",
+      "slug": "kilange-funa"
+    },
+    "code": {
+      "id": "NG002018_kilange-funa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002018",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-ng002018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002018",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-ng002018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.866",
+      "lon": "12.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002018_kilange-hirna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kilange Hirna",
+      "en": "Kilange Hirna",
+      "slug": "kilange-hirna"
+    },
+    "code": {
+      "id": "NG002018_kilange-hirna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002018",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-ng002018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002018",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-ng002018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.721",
+      "lon": "12.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002018_sigire",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sigire",
+      "en": "Sigire",
+      "slug": "sigire"
+    },
+    "code": {
+      "id": "NG002018_sigire",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002018",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-ng002018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002018",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-ng002018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.974",
+      "lon": "12.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002018_song-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Song Gari",
+      "en": "Song Gari",
+      "slug": "song-gari"
+    },
+    "code": {
+      "id": "NG002018_song-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002018",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-ng002018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002018",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-ng002018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.822",
+      "lon": "12.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002018_song-waje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Song Waje",
+      "en": "Song Waje",
+      "slug": "song-waje"
+    },
+    "code": {
+      "id": "NG002018_song-waje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002018",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-ng002018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002018",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-ng002018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.744",
+      "lon": "12.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002018_suktu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Suktu",
+      "en": "Suktu",
+      "slug": "suktu"
+    },
+    "code": {
+      "id": "NG002018_suktu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002018",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-ng002018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002018",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-ng002018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.673",
+      "lon": "12.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002018_waltandi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Waltandi",
+      "en": "Waltandi",
+      "slug": "waltandi"
+    },
+    "code": {
+      "id": "NG002018_waltandi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002018",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-ng002018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002018",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-ng002018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.762",
+      "lon": "12.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002018_zumo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zumo",
+      "en": "Zumo",
+      "slug": "zumo"
+    },
+    "code": {
+      "id": "NG002018_zumo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002018",
+      "level": 2,
+      "name": {
+        "local": "Song",
+        "en": "Song",
+        "slug": "song-ng002018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002018",
+        "level": 2,
+        "name": {
+          "local": "Song",
+          "en": "Song",
+          "slug": "song-ng002018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.826",
+      "lon": "12.954"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

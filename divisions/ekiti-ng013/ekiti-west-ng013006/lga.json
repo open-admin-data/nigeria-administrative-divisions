@@ -1,0 +1,47 @@
+{
+  "id": "NG013006",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ekiti West",
+    "en": "Ekiti West",
+    "slug": "ekiti-west-ng013006"
+  },
+  "code": {
+    "id": "NG013006",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG013",
+    "level": 1,
+    "name": {
+      "local": "Ekiti",
+      "en": "Ekiti",
+      "slug": "ekiti-ng013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG013",
+      "level": 1,
+      "name": {
+        "local": "Ekiti",
+        "en": "Ekiti",
+        "slug": "ekiti-ng013"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.719",
+    "lon": "5.045"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG020042_bachirawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bachirawa",
+      "en": "Bachirawa",
+      "slug": "bachirawa"
+    },
+    "code": {
+      "id": "NG020042_bachirawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020042",
+      "level": 2,
+      "name": {
+        "local": "Ungogo",
+        "en": "Ungogo",
+        "slug": "ungogo-ng020042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020042",
+        "level": 2,
+        "name": {
+          "local": "Ungogo",
+          "en": "Ungogo",
+          "slug": "ungogo-ng020042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "8.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020042_gayawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gayawa",
+      "en": "Gayawa",
+      "slug": "gayawa"
+    },
+    "code": {
+      "id": "NG020042_gayawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020042",
+      "level": 2,
+      "name": {
+        "local": "Ungogo",
+        "en": "Ungogo",
+        "slug": "ungogo-ng020042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020042",
+        "level": 2,
+        "name": {
+          "local": "Ungogo",
+          "en": "Ungogo",
+          "slug": "ungogo-ng020042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "8.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020042_kadawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadawa",
+      "en": "Kadawa",
+      "slug": "kadawa"
+    },
+    "code": {
+      "id": "NG020042_kadawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020042",
+      "level": 2,
+      "name": {
+        "local": "Ungogo",
+        "en": "Ungogo",
+        "slug": "ungogo-ng020042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020042",
+        "level": 2,
+        "name": {
+          "local": "Ungogo",
+          "en": "Ungogo",
+          "slug": "ungogo-ng020042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "8.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020042_karo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karo",
+      "en": "Karo",
+      "slug": "karo"
+    },
+    "code": {
+      "id": "NG020042_karo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020042",
+      "level": 2,
+      "name": {
+        "local": "Ungogo",
+        "en": "Ungogo",
+        "slug": "ungogo-ng020042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020042",
+        "level": 2,
+        "name": {
+          "local": "Ungogo",
+          "en": "Ungogo",
+          "slug": "ungogo-ng020042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "8.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020042_panisau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Panisau",
+      "en": "Panisau",
+      "slug": "panisau"
+    },
+    "code": {
+      "id": "NG020042_panisau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020042",
+      "level": 2,
+      "name": {
+        "local": "Ungogo",
+        "en": "Ungogo",
+        "slug": "ungogo-ng020042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020042",
+        "level": 2,
+        "name": {
+          "local": "Ungogo",
+          "en": "Ungogo",
+          "slug": "ungogo-ng020042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "8.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020042_rangaza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rangaza",
+      "en": "Rangaza",
+      "slug": "rangaza"
+    },
+    "code": {
+      "id": "NG020042_rangaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020042",
+      "level": 2,
+      "name": {
+        "local": "Ungogo",
+        "en": "Ungogo",
+        "slug": "ungogo-ng020042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020042",
+        "level": 2,
+        "name": {
+          "local": "Ungogo",
+          "en": "Ungogo",
+          "slug": "ungogo-ng020042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "8.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020042_rijiyar-zaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rijiyar Zaki",
+      "en": "Rijiyar Zaki",
+      "slug": "rijiyar-zaki"
+    },
+    "code": {
+      "id": "NG020042_rijiyar-zaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020042",
+      "level": 2,
+      "name": {
+        "local": "Ungogo",
+        "en": "Ungogo",
+        "slug": "ungogo-ng020042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020042",
+        "level": 2,
+        "name": {
+          "local": "Ungogo",
+          "en": "Ungogo",
+          "slug": "ungogo-ng020042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "8.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020042_tudun-fulani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Fulani",
+      "en": "Tudun Fulani",
+      "slug": "tudun-fulani"
+    },
+    "code": {
+      "id": "NG020042_tudun-fulani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020042",
+      "level": 2,
+      "name": {
+        "local": "Ungogo",
+        "en": "Ungogo",
+        "slug": "ungogo-ng020042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020042",
+        "level": 2,
+        "name": {
+          "local": "Ungogo",
+          "en": "Ungogo",
+          "slug": "ungogo-ng020042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "8.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020042_ungogo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ungogo",
+      "en": "Ungogo",
+      "slug": "ungogo"
+    },
+    "code": {
+      "id": "NG020042_ungogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020042",
+      "level": 2,
+      "name": {
+        "local": "Ungogo",
+        "en": "Ungogo",
+        "slug": "ungogo-ng020042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020042",
+        "level": 2,
+        "name": {
+          "local": "Ungogo",
+          "en": "Ungogo",
+          "slug": "ungogo-ng020042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "8.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020042_yadakunya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yadakunya",
+      "en": "Yadakunya",
+      "slug": "yadakunya"
+    },
+    "code": {
+      "id": "NG020042_yadakunya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020042",
+      "level": 2,
+      "name": {
+        "local": "Ungogo",
+        "en": "Ungogo",
+        "slug": "ungogo-ng020042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020042",
+        "level": 2,
+        "name": {
+          "local": "Ungogo",
+          "en": "Ungogo",
+          "slug": "ungogo-ng020042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "8.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020042_zango",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zango",
+      "en": "Zango",
+      "slug": "zango"
+    },
+    "code": {
+      "id": "NG020042_zango",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020042",
+      "level": 2,
+      "name": {
+        "local": "Ungogo",
+        "en": "Ungogo",
+        "slug": "ungogo-ng020042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020042",
+        "level": 2,
+        "name": {
+          "local": "Ungogo",
+          "en": "Ungogo",
+          "slug": "ungogo-ng020042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "8.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

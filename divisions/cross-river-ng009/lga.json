@@ -1,0 +1,848 @@
+[
+  {
+    "id": "NG009001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Abi",
+      "en": "Abi",
+      "slug": "abi-ng009001"
+    },
+    "code": {
+      "id": "NG009001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "8.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Akamkpa",
+      "en": "Akamkpa",
+      "slug": "akamkpa-ng009002"
+    },
+    "code": {
+      "id": "NG009002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.388",
+      "lon": "8.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Akpabuyo",
+      "en": "Akpabuyo",
+      "slug": "akpabuyo-ng009003"
+    },
+    "code": {
+      "id": "NG009003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "8.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bakassi",
+      "en": "Bakassi",
+      "slug": "bakassi-ng009005"
+    },
+    "code": {
+      "id": "NG009005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.807",
+      "lon": "8.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bekwara",
+      "en": "Bekwara",
+      "slug": "bekwara-ng009006"
+    },
+    "code": {
+      "id": "NG009006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "8.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Biase",
+      "en": "Biase",
+      "slug": "biase-ng009007"
+    },
+    "code": {
+      "id": "NG009007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "8.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Boki",
+      "en": "Boki",
+      "slug": "boki-ng009008"
+    },
+    "code": {
+      "id": "NG009008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Calabar South",
+      "en": "Calabar South",
+      "slug": "calabar-south-ng009009"
+    },
+    "code": {
+      "id": "NG009009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.878",
+      "lon": "8.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Calabar-Municipal",
+      "en": "Calabar-Municipal",
+      "slug": "calabar-municipal-ng009010"
+    },
+    "code": {
+      "id": "NG009010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.019",
+      "lon": "8.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Etung",
+      "en": "Etung",
+      "slug": "etung-ng009011"
+    },
+    "code": {
+      "id": "NG009011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "8.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ikom",
+      "en": "Ikom",
+      "slug": "ikom-ng009012"
+    },
+    "code": {
+      "id": "NG009012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "8.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Obanliku",
+      "en": "Obanliku",
+      "slug": "obanliku-ng009013"
+    },
+    "code": {
+      "id": "NG009013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.494",
+      "lon": "9.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Obubra",
+      "en": "Obubra",
+      "slug": "obubra-ng009014"
+    },
+    "code": {
+      "id": "NG009014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.015",
+      "lon": "8.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Obudu",
+      "en": "Obudu",
+      "slug": "obudu-ng009015"
+    },
+    "code": {
+      "id": "NG009015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.56",
+      "lon": "9.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Odukpani",
+      "en": "Odukpani",
+      "slug": "odukpani-ng009016"
+    },
+    "code": {
+      "id": "NG009016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.179",
+      "lon": "8.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ogoja",
+      "en": "Ogoja",
+      "slug": "ogoja-ng009017"
+    },
+    "code": {
+      "id": "NG009017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "8.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yakurr",
+      "en": "Yakurr",
+      "slug": "yakurr-ng009018"
+    },
+    "code": {
+      "id": "NG009018",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yala",
+      "en": "Yala",
+      "slug": "yala-ng009019"
+    },
+    "code": {
+      "id": "NG009019",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG021017_dantutture",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dantutture",
+      "en": "Dantutture",
+      "slug": "dantutture"
+    },
+    "code": {
+      "id": "NG021017_dantutture",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021017",
+      "level": 2,
+      "name": {
+        "local": "Kafur",
+        "en": "Kafur",
+        "slug": "kafur-ng021017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021017",
+        "level": 2,
+        "name": {
+          "local": "Kafur",
+          "en": "Kafur",
+          "slug": "kafur-ng021017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.636",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021017_dutsin-kurakanya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dutsin Kura/kanya",
+      "en": "Dutsin Kura/kanya",
+      "slug": "dutsin-kurakanya"
+    },
+    "code": {
+      "id": "NG021017_dutsin-kurakanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021017",
+      "level": 2,
+      "name": {
+        "local": "Kafur",
+        "en": "Kafur",
+        "slug": "kafur-ng021017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021017",
+        "level": 2,
+        "name": {
+          "local": "Kafur",
+          "en": "Kafur",
+          "slug": "kafur-ng021017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.636",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021017_gamzago",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamzago",
+      "en": "Gamzago",
+      "slug": "gamzago"
+    },
+    "code": {
+      "id": "NG021017_gamzago",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021017",
+      "level": 2,
+      "name": {
+        "local": "Kafur",
+        "en": "Kafur",
+        "slug": "kafur-ng021017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021017",
+        "level": 2,
+        "name": {
+          "local": "Kafur",
+          "en": "Kafur",
+          "slug": "kafur-ng021017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.636",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021017_gozaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gozaki",
+      "en": "Gozaki",
+      "slug": "gozaki"
+    },
+    "code": {
+      "id": "NG021017_gozaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021017",
+      "level": 2,
+      "name": {
+        "local": "Kafur",
+        "en": "Kafur",
+        "slug": "kafur-ng021017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021017",
+        "level": 2,
+        "name": {
+          "local": "Kafur",
+          "en": "Kafur",
+          "slug": "kafur-ng021017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.636",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021017_kafur",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafur",
+      "en": "Kafur",
+      "slug": "kafur"
+    },
+    "code": {
+      "id": "NG021017_kafur",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021017",
+      "level": 2,
+      "name": {
+        "local": "Kafur",
+        "en": "Kafur",
+        "slug": "kafur-ng021017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021017",
+        "level": 2,
+        "name": {
+          "local": "Kafur",
+          "en": "Kafur",
+          "slug": "kafur-ng021017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.636",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021017_mahuta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mahuta",
+      "en": "Mahuta",
+      "slug": "mahuta"
+    },
+    "code": {
+      "id": "NG021017_mahuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021017",
+      "level": 2,
+      "name": {
+        "local": "Kafur",
+        "en": "Kafur",
+        "slug": "kafur-ng021017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021017",
+        "level": 2,
+        "name": {
+          "local": "Kafur",
+          "en": "Kafur",
+          "slug": "kafur-ng021017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.636",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021017_masari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Masari",
+      "en": "Masari",
+      "slug": "masari"
+    },
+    "code": {
+      "id": "NG021017_masari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021017",
+      "level": 2,
+      "name": {
+        "local": "Kafur",
+        "en": "Kafur",
+        "slug": "kafur-ng021017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021017",
+        "level": 2,
+        "name": {
+          "local": "Kafur",
+          "en": "Kafur",
+          "slug": "kafur-ng021017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.636",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021017_sabuwar-kasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabuwar Kasa",
+      "en": "Sabuwar Kasa",
+      "slug": "sabuwar-kasa"
+    },
+    "code": {
+      "id": "NG021017_sabuwar-kasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021017",
+      "level": 2,
+      "name": {
+        "local": "Kafur",
+        "en": "Kafur",
+        "slug": "kafur-ng021017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021017",
+        "level": 2,
+        "name": {
+          "local": "Kafur",
+          "en": "Kafur",
+          "slug": "kafur-ng021017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.636",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021017_yari-bori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yari Bori",
+      "en": "Yari Bori",
+      "slug": "yari-bori"
+    },
+    "code": {
+      "id": "NG021017_yari-bori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021017",
+      "level": 2,
+      "name": {
+        "local": "Kafur",
+        "en": "Kafur",
+        "slug": "kafur-ng021017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021017",
+        "level": 2,
+        "name": {
+          "local": "Kafur",
+          "en": "Kafur",
+          "slug": "kafur-ng021017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.636",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021017_yartalatarigoji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yartalata/rigoji",
+      "en": "Yartalata/rigoji",
+      "slug": "yartalatarigoji"
+    },
+    "code": {
+      "id": "NG021017_yartalatarigoji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021017",
+      "level": 2,
+      "name": {
+        "local": "Kafur",
+        "en": "Kafur",
+        "slug": "kafur-ng021017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021017",
+        "level": 2,
+        "name": {
+          "local": "Kafur",
+          "en": "Kafur",
+          "slug": "kafur-ng021017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.636",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

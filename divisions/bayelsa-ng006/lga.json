@@ -1,0 +1,378 @@
+[
+  {
+    "id": "NG006001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Brass",
+      "en": "Brass",
+      "slug": "brass-ng006001"
+    },
+    "code": {
+      "id": "NG006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006",
+      "level": 1,
+      "name": {
+        "local": "Bayelsa",
+        "en": "Bayelsa",
+        "slug": "bayelsa-ng006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.417",
+      "lon": "6.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ekeremor",
+      "en": "Ekeremor",
+      "slug": "ekeremor-ng006002"
+    },
+    "code": {
+      "id": "NG006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006",
+      "level": 1,
+      "name": {
+        "local": "Bayelsa",
+        "en": "Bayelsa",
+        "slug": "bayelsa-ng006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.941",
+      "lon": "5.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kolokuma/Opokuma",
+      "en": "Kolokuma/Opokuma",
+      "slug": "kolokumaopokuma-ng006003"
+    },
+    "code": {
+      "id": "NG006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006",
+      "level": 1,
+      "name": {
+        "local": "Bayelsa",
+        "en": "Bayelsa",
+        "slug": "bayelsa-ng006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.068",
+      "lon": "6.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nembe",
+      "en": "Nembe",
+      "slug": "nembe-ng006004"
+    },
+    "code": {
+      "id": "NG006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006",
+      "level": 1,
+      "name": {
+        "local": "Bayelsa",
+        "en": "Bayelsa",
+        "slug": "bayelsa-ng006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "6.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ogbia",
+      "en": "Ogbia",
+      "slug": "ogbia-ng006005"
+    },
+    "code": {
+      "id": "NG006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006",
+      "level": 1,
+      "name": {
+        "local": "Bayelsa",
+        "en": "Bayelsa",
+        "slug": "bayelsa-ng006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Sagbama",
+      "en": "Sagbama",
+      "slug": "sagbama-ng006006"
+    },
+    "code": {
+      "id": "NG006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006",
+      "level": 1,
+      "name": {
+        "local": "Bayelsa",
+        "en": "Bayelsa",
+        "slug": "bayelsa-ng006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.096",
+      "lon": "6.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Southern Ijaw",
+      "en": "Southern Ijaw",
+      "slug": "southern-ijaw-ng006007"
+    },
+    "code": {
+      "id": "NG006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006",
+      "level": 1,
+      "name": {
+        "local": "Bayelsa",
+        "en": "Bayelsa",
+        "slug": "bayelsa-ng006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.716",
+      "lon": "5.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yenegoa",
+      "en": "Yenegoa",
+      "slug": "yenegoa-ng006008"
+    },
+    "code": {
+      "id": "NG006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006",
+      "level": 1,
+      "name": {
+        "local": "Bayelsa",
+        "en": "Bayelsa",
+        "slug": "bayelsa-ng006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.065",
+      "lon": "6.372"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

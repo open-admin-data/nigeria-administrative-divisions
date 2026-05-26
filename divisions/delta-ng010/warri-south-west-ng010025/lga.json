@@ -1,0 +1,47 @@
+{
+  "id": "NG010025",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Warri South West",
+    "en": "Warri South West",
+    "slug": "warri-south-west-ng010025"
+  },
+  "code": {
+    "id": "NG010025",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG010",
+    "level": 1,
+    "name": {
+      "local": "Delta",
+      "en": "Delta",
+      "slug": "delta-ng010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.606",
+    "lon": "5.332"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG009017_ekajuk-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekajuk I",
+      "en": "Ekajuk I",
+      "slug": "ekajuk-i"
+    },
+    "code": {
+      "id": "NG009017_ekajuk-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009017",
+      "level": 2,
+      "name": {
+        "local": "Ogoja",
+        "en": "Ogoja",
+        "slug": "ogoja-ng009017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009017",
+        "level": 2,
+        "name": {
+          "local": "Ogoja",
+          "en": "Ogoja",
+          "slug": "ogoja-ng009017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "8.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009017_ekajuk-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekajuk Ii",
+      "en": "Ekajuk Ii",
+      "slug": "ekajuk-ii"
+    },
+    "code": {
+      "id": "NG009017_ekajuk-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009017",
+      "level": 2,
+      "name": {
+        "local": "Ogoja",
+        "en": "Ogoja",
+        "slug": "ogoja-ng009017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009017",
+        "level": 2,
+        "name": {
+          "local": "Ogoja",
+          "en": "Ogoja",
+          "slug": "ogoja-ng009017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "8.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009017_mbube-east-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbube East I",
+      "en": "Mbube East I",
+      "slug": "mbube-east-i"
+    },
+    "code": {
+      "id": "NG009017_mbube-east-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009017",
+      "level": 2,
+      "name": {
+        "local": "Ogoja",
+        "en": "Ogoja",
+        "slug": "ogoja-ng009017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009017",
+        "level": 2,
+        "name": {
+          "local": "Ogoja",
+          "en": "Ogoja",
+          "slug": "ogoja-ng009017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "8.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009017_mbube-east-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbube East Ii",
+      "en": "Mbube East Ii",
+      "slug": "mbube-east-ii"
+    },
+    "code": {
+      "id": "NG009017_mbube-east-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009017",
+      "level": 2,
+      "name": {
+        "local": "Ogoja",
+        "en": "Ogoja",
+        "slug": "ogoja-ng009017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009017",
+        "level": 2,
+        "name": {
+          "local": "Ogoja",
+          "en": "Ogoja",
+          "slug": "ogoja-ng009017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "8.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009017_mbube-west-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbube West I",
+      "en": "Mbube West I",
+      "slug": "mbube-west-i"
+    },
+    "code": {
+      "id": "NG009017_mbube-west-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009017",
+      "level": 2,
+      "name": {
+        "local": "Ogoja",
+        "en": "Ogoja",
+        "slug": "ogoja-ng009017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009017",
+        "level": 2,
+        "name": {
+          "local": "Ogoja",
+          "en": "Ogoja",
+          "slug": "ogoja-ng009017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "8.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009017_mbube-west-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbube West Ii",
+      "en": "Mbube West Ii",
+      "slug": "mbube-west-ii"
+    },
+    "code": {
+      "id": "NG009017_mbube-west-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009017",
+      "level": 2,
+      "name": {
+        "local": "Ogoja",
+        "en": "Ogoja",
+        "slug": "ogoja-ng009017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009017",
+        "level": 2,
+        "name": {
+          "local": "Ogoja",
+          "en": "Ogoja",
+          "slug": "ogoja-ng009017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "8.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009017_nkum-iborr",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkum Iborr",
+      "en": "Nkum Iborr",
+      "slug": "nkum-iborr"
+    },
+    "code": {
+      "id": "NG009017_nkum-iborr",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009017",
+      "level": 2,
+      "name": {
+        "local": "Ogoja",
+        "en": "Ogoja",
+        "slug": "ogoja-ng009017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009017",
+        "level": 2,
+        "name": {
+          "local": "Ogoja",
+          "en": "Ogoja",
+          "slug": "ogoja-ng009017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "8.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009017_nkum-irede",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkum Irede",
+      "en": "Nkum Irede",
+      "slug": "nkum-irede"
+    },
+    "code": {
+      "id": "NG009017_nkum-irede",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009017",
+      "level": 2,
+      "name": {
+        "local": "Ogoja",
+        "en": "Ogoja",
+        "slug": "ogoja-ng009017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009017",
+        "level": 2,
+        "name": {
+          "local": "Ogoja",
+          "en": "Ogoja",
+          "slug": "ogoja-ng009017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "8.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009017_ogoja-urban-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogoja Urban I",
+      "en": "Ogoja Urban I",
+      "slug": "ogoja-urban-i"
+    },
+    "code": {
+      "id": "NG009017_ogoja-urban-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009017",
+      "level": 2,
+      "name": {
+        "local": "Ogoja",
+        "en": "Ogoja",
+        "slug": "ogoja-ng009017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009017",
+        "level": 2,
+        "name": {
+          "local": "Ogoja",
+          "en": "Ogoja",
+          "slug": "ogoja-ng009017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "8.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009017_ogoja-urban-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogoja Urban Ii",
+      "en": "Ogoja Urban Ii",
+      "slug": "ogoja-urban-ii"
+    },
+    "code": {
+      "id": "NG009017_ogoja-urban-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009017",
+      "level": 2,
+      "name": {
+        "local": "Ogoja",
+        "en": "Ogoja",
+        "slug": "ogoja-ng009017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009017",
+        "level": 2,
+        "name": {
+          "local": "Ogoja",
+          "en": "Ogoja",
+          "slug": "ogoja-ng009017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "8.689"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

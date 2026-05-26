@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG004010_abacha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abacha",
+      "en": "Abacha",
+      "slug": "abacha"
+    },
+    "code": {
+      "id": "NG004010_abacha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004010",
+      "level": 2,
+      "name": {
+        "local": "Idemili North",
+        "en": "Idemili North",
+        "slug": "idemili-north-ng004010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004010",
+        "level": 2,
+        "name": {
+          "local": "Idemili North",
+          "en": "Idemili North",
+          "slug": "idemili-north-ng004010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004010_abatete",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abatete",
+      "en": "Abatete",
+      "slug": "abatete"
+    },
+    "code": {
+      "id": "NG004010_abatete",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004010",
+      "level": 2,
+      "name": {
+        "local": "Idemili North",
+        "en": "Idemili North",
+        "slug": "idemili-north-ng004010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004010",
+        "level": 2,
+        "name": {
+          "local": "Idemili North",
+          "en": "Idemili North",
+          "slug": "idemili-north-ng004010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004010_eziowelle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eziowelle",
+      "en": "Eziowelle",
+      "slug": "eziowelle"
+    },
+    "code": {
+      "id": "NG004010_eziowelle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004010",
+      "level": 2,
+      "name": {
+        "local": "Idemili North",
+        "en": "Idemili North",
+        "slug": "idemili-north-ng004010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004010",
+        "level": 2,
+        "name": {
+          "local": "Idemili North",
+          "en": "Idemili North",
+          "slug": "idemili-north-ng004010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004010_ideani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ideani",
+      "en": "Ideani",
+      "slug": "ideani"
+    },
+    "code": {
+      "id": "NG004010_ideani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004010",
+      "level": 2,
+      "name": {
+        "local": "Idemili North",
+        "en": "Idemili North",
+        "slug": "idemili-north-ng004010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004010",
+        "level": 2,
+        "name": {
+          "local": "Idemili North",
+          "en": "Idemili North",
+          "slug": "idemili-north-ng004010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004010_nkpor-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkpor I",
+      "en": "Nkpor I",
+      "slug": "nkpor-i"
+    },
+    "code": {
+      "id": "NG004010_nkpor-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004010",
+      "level": 2,
+      "name": {
+        "local": "Idemili North",
+        "en": "Idemili North",
+        "slug": "idemili-north-ng004010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004010",
+        "level": 2,
+        "name": {
+          "local": "Idemili North",
+          "en": "Idemili North",
+          "slug": "idemili-north-ng004010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004010_nkpor-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkpor Ii",
+      "en": "Nkpor Ii",
+      "slug": "nkpor-ii"
+    },
+    "code": {
+      "id": "NG004010_nkpor-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004010",
+      "level": 2,
+      "name": {
+        "local": "Idemili North",
+        "en": "Idemili North",
+        "slug": "idemili-north-ng004010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004010",
+        "level": 2,
+        "name": {
+          "local": "Idemili North",
+          "en": "Idemili North",
+          "slug": "idemili-north-ng004010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004010_obosi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obosi",
+      "en": "Obosi",
+      "slug": "obosi"
+    },
+    "code": {
+      "id": "NG004010_obosi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004010",
+      "level": 2,
+      "name": {
+        "local": "Idemili North",
+        "en": "Idemili North",
+        "slug": "idemili-north-ng004010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004010",
+        "level": 2,
+        "name": {
+          "local": "Idemili North",
+          "en": "Idemili North",
+          "slug": "idemili-north-ng004010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004010_ogidi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogidi I",
+      "en": "Ogidi I",
+      "slug": "ogidi-i"
+    },
+    "code": {
+      "id": "NG004010_ogidi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004010",
+      "level": 2,
+      "name": {
+        "local": "Idemili North",
+        "en": "Idemili North",
+        "slug": "idemili-north-ng004010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004010",
+        "level": 2,
+        "name": {
+          "local": "Idemili North",
+          "en": "Idemili North",
+          "slug": "idemili-north-ng004010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004010_ogidi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogidi Ii",
+      "en": "Ogidi Ii",
+      "slug": "ogidi-ii"
+    },
+    "code": {
+      "id": "NG004010_ogidi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004010",
+      "level": 2,
+      "name": {
+        "local": "Idemili North",
+        "en": "Idemili North",
+        "slug": "idemili-north-ng004010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004010",
+        "level": 2,
+        "name": {
+          "local": "Idemili North",
+          "en": "Idemili North",
+          "slug": "idemili-north-ng004010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004010_oraukwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oraukwu",
+      "en": "Oraukwu",
+      "slug": "oraukwu"
+    },
+    "code": {
+      "id": "NG004010_oraukwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004010",
+      "level": 2,
+      "name": {
+        "local": "Idemili North",
+        "en": "Idemili North",
+        "slug": "idemili-north-ng004010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004010",
+        "level": 2,
+        "name": {
+          "local": "Idemili North",
+          "en": "Idemili North",
+          "slug": "idemili-north-ng004010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004010_uke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uke",
+      "en": "Uke",
+      "slug": "uke"
+    },
+    "code": {
+      "id": "NG004010_uke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004010",
+      "level": 2,
+      "name": {
+        "local": "Idemili North",
+        "en": "Idemili North",
+        "slug": "idemili-north-ng004010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004010",
+        "level": 2,
+        "name": {
+          "local": "Idemili North",
+          "en": "Idemili North",
+          "slug": "idemili-north-ng004010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004010_umuoji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuoji",
+      "en": "Umuoji",
+      "slug": "umuoji"
+    },
+    "code": {
+      "id": "NG004010_umuoji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004010",
+      "level": 2,
+      "name": {
+        "local": "Idemili North",
+        "en": "Idemili North",
+        "slug": "idemili-north-ng004010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004010",
+        "level": 2,
+        "name": {
+          "local": "Idemili North",
+          "en": "Idemili North",
+          "slug": "idemili-north-ng004010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

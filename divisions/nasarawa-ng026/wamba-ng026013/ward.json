@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG026013_arum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Arum",
+      "en": "Arum",
+      "slug": "arum"
+    },
+    "code": {
+      "id": "NG026013_arum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026013",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba-ng026013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026013",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba-ng026013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "8.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026013_gitta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gitta",
+      "en": "Gitta",
+      "slug": "gitta"
+    },
+    "code": {
+      "id": "NG026013_gitta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026013",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba-ng026013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026013",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba-ng026013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "8.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026013_jimiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jimiya",
+      "en": "Jimiya",
+      "slug": "jimiya"
+    },
+    "code": {
+      "id": "NG026013_jimiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026013",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba-ng026013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026013",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba-ng026013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "8.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026013_konvah",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Konvah",
+      "en": "Konvah",
+      "slug": "konvah"
+    },
+    "code": {
+      "id": "NG026013_konvah",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026013",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba-ng026013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026013",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba-ng026013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "8.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026013_kwara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwara",
+      "en": "Kwara",
+      "slug": "kwara"
+    },
+    "code": {
+      "id": "NG026013_kwara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026013",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba-ng026013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026013",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba-ng026013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "8.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026013_mangar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mangar",
+      "en": "Mangar",
+      "slug": "mangar"
+    },
+    "code": {
+      "id": "NG026013_mangar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026013",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba-ng026013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026013",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba-ng026013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "8.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026013_nakere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nakere",
+      "en": "Nakere",
+      "slug": "nakere"
+    },
+    "code": {
+      "id": "NG026013_nakere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026013",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba-ng026013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026013",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba-ng026013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "8.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026013_wamba-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wamba East",
+      "en": "Wamba East",
+      "slug": "wamba-east"
+    },
+    "code": {
+      "id": "NG026013_wamba-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026013",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba-ng026013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026013",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba-ng026013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "8.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026013_wamba-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wamba West",
+      "en": "Wamba West",
+      "slug": "wamba-west"
+    },
+    "code": {
+      "id": "NG026013_wamba-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026013",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba-ng026013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026013",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba-ng026013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "8.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026013_wayo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wayo",
+      "en": "Wayo",
+      "slug": "wayo"
+    },
+    "code": {
+      "id": "NG026013_wayo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026013",
+      "level": 2,
+      "name": {
+        "local": "Wamba",
+        "en": "Wamba",
+        "slug": "wamba-ng026013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026013",
+        "level": 2,
+        "name": {
+          "local": "Wamba",
+          "en": "Wamba",
+          "slug": "wamba-ng026013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.012",
+      "lon": "8.735"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

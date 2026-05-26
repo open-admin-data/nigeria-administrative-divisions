@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG019003_danmahawayi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danmahawayi",
+      "en": "Danmahawayi",
+      "slug": "danmahawayi"
+    },
+    "code": {
+      "id": "NG019003_danmahawayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019003",
+      "level": 2,
+      "name": {
+        "local": "Giwa",
+        "en": "Giwa",
+        "slug": "giwa-ng019003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019003",
+        "level": 2,
+        "name": {
+          "local": "Giwa",
+          "en": "Giwa",
+          "slug": "giwa-ng019003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "7.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019003_galadimawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galadimawa",
+      "en": "Galadimawa",
+      "slug": "galadimawa"
+    },
+    "code": {
+      "id": "NG019003_galadimawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019003",
+      "level": 2,
+      "name": {
+        "local": "Giwa",
+        "en": "Giwa",
+        "slug": "giwa-ng019003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019003",
+        "level": 2,
+        "name": {
+          "local": "Giwa",
+          "en": "Giwa",
+          "slug": "giwa-ng019003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "7.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019003_gangara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gangara",
+      "en": "Gangara",
+      "slug": "gangara"
+    },
+    "code": {
+      "id": "NG019003_gangara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019003",
+      "level": 2,
+      "name": {
+        "local": "Giwa",
+        "en": "Giwa",
+        "slug": "giwa-ng019003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019003",
+        "level": 2,
+        "name": {
+          "local": "Giwa",
+          "en": "Giwa",
+          "slug": "giwa-ng019003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "7.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019003_giwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Giwa",
+      "en": "Giwa",
+      "slug": "giwa"
+    },
+    "code": {
+      "id": "NG019003_giwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019003",
+      "level": 2,
+      "name": {
+        "local": "Giwa",
+        "en": "Giwa",
+        "slug": "giwa-ng019003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019003",
+        "level": 2,
+        "name": {
+          "local": "Giwa",
+          "en": "Giwa",
+          "slug": "giwa-ng019003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "7.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019003_idasu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idasu",
+      "en": "Idasu",
+      "slug": "idasu"
+    },
+    "code": {
+      "id": "NG019003_idasu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019003",
+      "level": 2,
+      "name": {
+        "local": "Giwa",
+        "en": "Giwa",
+        "slug": "giwa-ng019003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019003",
+        "level": 2,
+        "name": {
+          "local": "Giwa",
+          "en": "Giwa",
+          "slug": "giwa-ng019003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "7.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019003_kadage",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadage",
+      "en": "Kadage",
+      "slug": "kadage"
+    },
+    "code": {
+      "id": "NG019003_kadage",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019003",
+      "level": 2,
+      "name": {
+        "local": "Giwa",
+        "en": "Giwa",
+        "slug": "giwa-ng019003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019003",
+        "level": 2,
+        "name": {
+          "local": "Giwa",
+          "en": "Giwa",
+          "slug": "giwa-ng019003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "7.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019003_kakangi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kakangi",
+      "en": "Kakangi",
+      "slug": "kakangi"
+    },
+    "code": {
+      "id": "NG019003_kakangi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019003",
+      "level": 2,
+      "name": {
+        "local": "Giwa",
+        "en": "Giwa",
+        "slug": "giwa-ng019003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019003",
+        "level": 2,
+        "name": {
+          "local": "Giwa",
+          "en": "Giwa",
+          "slug": "giwa-ng019003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "7.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019003_kidandan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kidandan",
+      "en": "Kidandan",
+      "slug": "kidandan"
+    },
+    "code": {
+      "id": "NG019003_kidandan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019003",
+      "level": 2,
+      "name": {
+        "local": "Giwa",
+        "en": "Giwa",
+        "slug": "giwa-ng019003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019003",
+        "level": 2,
+        "name": {
+          "local": "Giwa",
+          "en": "Giwa",
+          "slug": "giwa-ng019003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "7.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019003_pan-hauya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pan Hauya",
+      "en": "Pan Hauya",
+      "slug": "pan-hauya"
+    },
+    "code": {
+      "id": "NG019003_pan-hauya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019003",
+      "level": 2,
+      "name": {
+        "local": "Giwa",
+        "en": "Giwa",
+        "slug": "giwa-ng019003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019003",
+        "level": 2,
+        "name": {
+          "local": "Giwa",
+          "en": "Giwa",
+          "slug": "giwa-ng019003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "7.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019003_shika",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shika",
+      "en": "Shika",
+      "slug": "shika"
+    },
+    "code": {
+      "id": "NG019003_shika",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019003",
+      "level": 2,
+      "name": {
+        "local": "Giwa",
+        "en": "Giwa",
+        "slug": "giwa-ng019003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019003",
+        "level": 2,
+        "name": {
+          "local": "Giwa",
+          "en": "Giwa",
+          "slug": "giwa-ng019003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "7.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019003_yakawada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yakawada",
+      "en": "Yakawada",
+      "slug": "yakawada"
+    },
+    "code": {
+      "id": "NG019003_yakawada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019003",
+      "level": 2,
+      "name": {
+        "local": "Giwa",
+        "en": "Giwa",
+        "slug": "giwa-ng019003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019003",
+        "level": 2,
+        "name": {
+          "local": "Giwa",
+          "en": "Giwa",
+          "slug": "giwa-ng019003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "7.41"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

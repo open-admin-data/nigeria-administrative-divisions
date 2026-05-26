@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG018010_abunabo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abunabo",
+      "en": "Abunabo",
+      "slug": "abunabo"
+    },
+    "code": {
+      "id": "NG018010_abunabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018010",
+      "level": 2,
+      "name": {
+        "local": "Guri",
+        "en": "Guri",
+        "slug": "guri-ng018010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018010",
+        "level": 2,
+        "name": {
+          "local": "Guri",
+          "en": "Guri",
+          "slug": "guri-ng018010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.645",
+      "lon": "10.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018010_adiyani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adiyani",
+      "en": "Adiyani",
+      "slug": "adiyani"
+    },
+    "code": {
+      "id": "NG018010_adiyani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018010",
+      "level": 2,
+      "name": {
+        "local": "Guri",
+        "en": "Guri",
+        "slug": "guri-ng018010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018010",
+        "level": 2,
+        "name": {
+          "local": "Guri",
+          "en": "Guri",
+          "slug": "guri-ng018010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.645",
+      "lon": "10.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018010_dawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dawa",
+      "en": "Dawa",
+      "slug": "dawa"
+    },
+    "code": {
+      "id": "NG018010_dawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018010",
+      "level": 2,
+      "name": {
+        "local": "Guri",
+        "en": "Guri",
+        "slug": "guri-ng018010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018010",
+        "level": 2,
+        "name": {
+          "local": "Guri",
+          "en": "Guri",
+          "slug": "guri-ng018010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.645",
+      "lon": "10.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018010_garbagal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garbagal",
+      "en": "Garbagal",
+      "slug": "garbagal"
+    },
+    "code": {
+      "id": "NG018010_garbagal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018010",
+      "level": 2,
+      "name": {
+        "local": "Guri",
+        "en": "Guri",
+        "slug": "guri-ng018010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018010",
+        "level": 2,
+        "name": {
+          "local": "Guri",
+          "en": "Guri",
+          "slug": "guri-ng018010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.645",
+      "lon": "10.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018010_guri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guri",
+      "en": "Guri",
+      "slug": "guri"
+    },
+    "code": {
+      "id": "NG018010_guri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018010",
+      "level": 2,
+      "name": {
+        "local": "Guri",
+        "en": "Guri",
+        "slug": "guri-ng018010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018010",
+        "level": 2,
+        "name": {
+          "local": "Guri",
+          "en": "Guri",
+          "slug": "guri-ng018010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.645",
+      "lon": "10.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018010_kadira",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadira",
+      "en": "Kadira",
+      "slug": "kadira"
+    },
+    "code": {
+      "id": "NG018010_kadira",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018010",
+      "level": 2,
+      "name": {
+        "local": "Guri",
+        "en": "Guri",
+        "slug": "guri-ng018010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018010",
+        "level": 2,
+        "name": {
+          "local": "Guri",
+          "en": "Guri",
+          "slug": "guri-ng018010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.645",
+      "lon": "10.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018010_lafiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lafiya",
+      "en": "Lafiya",
+      "slug": "lafiya"
+    },
+    "code": {
+      "id": "NG018010_lafiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018010",
+      "level": 2,
+      "name": {
+        "local": "Guri",
+        "en": "Guri",
+        "slug": "guri-ng018010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018010",
+        "level": 2,
+        "name": {
+          "local": "Guri",
+          "en": "Guri",
+          "slug": "guri-ng018010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.645",
+      "lon": "10.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018010_margadu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Margadu",
+      "en": "Margadu",
+      "slug": "margadu"
+    },
+    "code": {
+      "id": "NG018010_margadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018010",
+      "level": 2,
+      "name": {
+        "local": "Guri",
+        "en": "Guri",
+        "slug": "guri-ng018010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018010",
+        "level": 2,
+        "name": {
+          "local": "Guri",
+          "en": "Guri",
+          "slug": "guri-ng018010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.645",
+      "lon": "10.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018010_matara-baba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Matara Baba",
+      "en": "Matara Baba",
+      "slug": "matara-baba"
+    },
+    "code": {
+      "id": "NG018010_matara-baba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018010",
+      "level": 2,
+      "name": {
+        "local": "Guri",
+        "en": "Guri",
+        "slug": "guri-ng018010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018010",
+        "level": 2,
+        "name": {
+          "local": "Guri",
+          "en": "Guri",
+          "slug": "guri-ng018010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.645",
+      "lon": "10.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018010_musari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Musari",
+      "en": "Musari",
+      "slug": "musari"
+    },
+    "code": {
+      "id": "NG018010_musari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018010",
+      "level": 2,
+      "name": {
+        "local": "Guri",
+        "en": "Guri",
+        "slug": "guri-ng018010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018010",
+        "level": 2,
+        "name": {
+          "local": "Guri",
+          "en": "Guri",
+          "slug": "guri-ng018010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.645",
+      "lon": "10.481"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

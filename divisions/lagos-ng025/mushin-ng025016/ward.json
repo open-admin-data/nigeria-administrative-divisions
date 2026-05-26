@@ -1,0 +1,758 @@
+[
+  {
+    "id": "NG025016_alakara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alakara",
+      "en": "Alakara",
+      "slug": "alakara"
+    },
+    "code": {
+      "id": "NG025016_alakara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_babalosa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Babalosa",
+      "en": "Babalosa",
+      "slug": "babalosa"
+    },
+    "code": {
+      "id": "NG025016_babalosa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_babalosaidi-araba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Babalosa/idi-araba",
+      "en": "Babalosa/idi-araba",
+      "slug": "babalosaidi-araba"
+    },
+    "code": {
+      "id": "NG025016_babalosaidi-araba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_idi-araba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idi-araba",
+      "en": "Idi-araba",
+      "slug": "idi-araba"
+    },
+    "code": {
+      "id": "NG025016_idi-araba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_idi-oroodi-olowu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idi-oro/odi-olowu",
+      "en": "Idi-oro/odi-olowu",
+      "slug": "idi-oroodi-olowu"
+    },
+    "code": {
+      "id": "NG025016_idi-oroodi-olowu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_ilasamaja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilasamaja",
+      "en": "Ilasamaja",
+      "slug": "ilasamaja"
+    },
+    "code": {
+      "id": "NG025016_ilasamaja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_ilupeju",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilupeju",
+      "en": "Ilupeju",
+      "slug": "ilupeju"
+    },
+    "code": {
+      "id": "NG025016_ilupeju",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_ilupeju-industrial-estate",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilupeju Industrial Estate",
+      "en": "Ilupeju Industrial Estate",
+      "slug": "ilupeju-industrial-estate"
+    },
+    "code": {
+      "id": "NG025016_ilupeju-industrial-estate",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_itire",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Itire",
+      "en": "Itire",
+      "slug": "itire"
+    },
+    "code": {
+      "id": "NG025016_itire",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_kayodefadeyi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kayode/fadeyi",
+      "en": "Kayode/fadeyi",
+      "slug": "kayodefadeyi"
+    },
+    "code": {
+      "id": "NG025016_kayodefadeyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_mushinatewolara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mushin/atewolara",
+      "en": "Mushin/atewolara",
+      "slug": "mushinatewolara"
+    },
+    "code": {
+      "id": "NG025016_mushinatewolara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_ojuwoye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojuwoye",
+      "en": "Ojuwoye",
+      "slug": "ojuwoye"
+    },
+    "code": {
+      "id": "NG025016_ojuwoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_olateju",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olateju",
+      "en": "Olateju",
+      "slug": "olateju"
+    },
+    "code": {
+      "id": "NG025016_olateju",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016_papa-ajao",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Papa-ajao",
+      "en": "Papa-ajao",
+      "slug": "papa-ajao"
+    },
+    "code": {
+      "id": "NG025016_papa-ajao",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025016",
+      "level": 2,
+      "name": {
+        "local": "Mushin",
+        "en": "Mushin",
+        "slug": "mushin-ng025016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025016",
+        "level": 2,
+        "name": {
+          "local": "Mushin",
+          "en": "Mushin",
+          "slug": "mushin-ng025016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

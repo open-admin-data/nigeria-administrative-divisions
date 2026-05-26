@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG023001_adavi-eba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adavi-eba",
+      "en": "Adavi-eba",
+      "slug": "adavi-eba"
+    },
+    "code": {
+      "id": "NG023001_adavi-eba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023001",
+      "level": 2,
+      "name": {
+        "local": "Adavi",
+        "en": "Adavi",
+        "slug": "adavi-ng023001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023001",
+        "level": 2,
+        "name": {
+          "local": "Adavi",
+          "en": "Adavi",
+          "slug": "adavi-ng023001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "6.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023001_egeiruvochinomi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ege/iruvochinomi",
+      "en": "Ege/iruvochinomi",
+      "slug": "egeiruvochinomi"
+    },
+    "code": {
+      "id": "NG023001_egeiruvochinomi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023001",
+      "level": 2,
+      "name": {
+        "local": "Adavi",
+        "en": "Adavi",
+        "slug": "adavi-ng023001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023001",
+        "level": 2,
+        "name": {
+          "local": "Adavi",
+          "en": "Adavi",
+          "slug": "adavi-ng023001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "6.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023001_idanuhua",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idanuhua",
+      "en": "Idanuhua",
+      "slug": "idanuhua"
+    },
+    "code": {
+      "id": "NG023001_idanuhua",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023001",
+      "level": 2,
+      "name": {
+        "local": "Adavi",
+        "en": "Adavi",
+        "slug": "adavi-ng023001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023001",
+        "level": 2,
+        "name": {
+          "local": "Adavi",
+          "en": "Adavi",
+          "slug": "adavi-ng023001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "6.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023001_ikaraworoidobanyere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikaraworo/idobanyere",
+      "en": "Ikaraworo/idobanyere",
+      "slug": "ikaraworoidobanyere"
+    },
+    "code": {
+      "id": "NG023001_ikaraworoidobanyere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023001",
+      "level": 2,
+      "name": {
+        "local": "Adavi",
+        "en": "Adavi",
+        "slug": "adavi-ng023001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023001",
+        "level": 2,
+        "name": {
+          "local": "Adavi",
+          "en": "Adavi",
+          "slug": "adavi-ng023001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "6.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023001_ino-ziomiipakuosisi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ino Ziomi/ipaku/osisi",
+      "en": "Ino Ziomi/ipaku/osisi",
+      "slug": "ino-ziomiipakuosisi"
+    },
+    "code": {
+      "id": "NG023001_ino-ziomiipakuosisi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023001",
+      "level": 2,
+      "name": {
+        "local": "Adavi",
+        "en": "Adavi",
+        "slug": "adavi-ng023001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023001",
+        "level": 2,
+        "name": {
+          "local": "Adavi",
+          "en": "Adavi",
+          "slug": "adavi-ng023001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "6.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023001_iruvucheba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iruvucheba",
+      "en": "Iruvucheba",
+      "slug": "iruvucheba"
+    },
+    "code": {
+      "id": "NG023001_iruvucheba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023001",
+      "level": 2,
+      "name": {
+        "local": "Adavi",
+        "en": "Adavi",
+        "slug": "adavi-ng023001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023001",
+        "level": 2,
+        "name": {
+          "local": "Adavi",
+          "en": "Adavi",
+          "slug": "adavi-ng023001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "6.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023001_kuroko-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuroko I",
+      "en": "Kuroko I",
+      "slug": "kuroko-i"
+    },
+    "code": {
+      "id": "NG023001_kuroko-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023001",
+      "level": 2,
+      "name": {
+        "local": "Adavi",
+        "en": "Adavi",
+        "slug": "adavi-ng023001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023001",
+        "level": 2,
+        "name": {
+          "local": "Adavi",
+          "en": "Adavi",
+          "slug": "adavi-ng023001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "6.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023001_kuroko-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuroko Ii",
+      "en": "Kuroko Ii",
+      "slug": "kuroko-ii"
+    },
+    "code": {
+      "id": "NG023001_kuroko-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023001",
+      "level": 2,
+      "name": {
+        "local": "Adavi",
+        "en": "Adavi",
+        "slug": "adavi-ng023001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023001",
+        "level": 2,
+        "name": {
+          "local": "Adavi",
+          "en": "Adavi",
+          "slug": "adavi-ng023001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "6.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023001_nagazi-farm-centre",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nagazi Farm Centre",
+      "en": "Nagazi Farm Centre",
+      "slug": "nagazi-farm-centre"
+    },
+    "code": {
+      "id": "NG023001_nagazi-farm-centre",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023001",
+      "level": 2,
+      "name": {
+        "local": "Adavi",
+        "en": "Adavi",
+        "slug": "adavi-ng023001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023001",
+        "level": 2,
+        "name": {
+          "local": "Adavi",
+          "en": "Adavi",
+          "slug": "adavi-ng023001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "6.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023001_ogaminana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogaminana",
+      "en": "Ogaminana",
+      "slug": "ogaminana"
+    },
+    "code": {
+      "id": "NG023001_ogaminana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023001",
+      "level": 2,
+      "name": {
+        "local": "Adavi",
+        "en": "Adavi",
+        "slug": "adavi-ng023001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023001",
+        "level": 2,
+        "name": {
+          "local": "Adavi",
+          "en": "Adavi",
+          "slug": "adavi-ng023001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "6.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023001_okunchiozurionieka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okunchi/ozuri/onieka",
+      "en": "Okunchi/ozuri/onieka",
+      "slug": "okunchiozurionieka"
+    },
+    "code": {
+      "id": "NG023001_okunchiozurionieka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023001",
+      "level": 2,
+      "name": {
+        "local": "Adavi",
+        "en": "Adavi",
+        "slug": "adavi-ng023001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023001",
+        "level": 2,
+        "name": {
+          "local": "Adavi",
+          "en": "Adavi",
+          "slug": "adavi-ng023001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.684",
+      "lon": "6.467"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

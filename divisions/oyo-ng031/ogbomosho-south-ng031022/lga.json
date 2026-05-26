@@ -1,0 +1,47 @@
+{
+  "id": "NG031022",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ogbomosho South",
+    "en": "Ogbomosho South",
+    "slug": "ogbomosho-south-ng031022"
+  },
+  "code": {
+    "id": "NG031022",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG031",
+    "level": 1,
+    "name": {
+      "local": "Oyo",
+      "en": "Oyo",
+      "slug": "oyo-ng031"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG031",
+      "level": 1,
+      "name": {
+        "local": "Oyo",
+        "en": "Oyo",
+        "slug": "oyo-ng031"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.108",
+    "lon": "4.2"
+  },
+  "metadata": {},
+  "source": {}
+}

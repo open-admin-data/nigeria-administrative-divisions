@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG034021_arkilla",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Arkilla",
+      "en": "Arkilla",
+      "slug": "arkilla"
+    },
+    "code": {
+      "id": "NG034021_arkilla",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034021",
+      "level": 2,
+      "name": {
+        "local": "Wamako",
+        "en": "Wamako",
+        "slug": "wamako-ng034021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034021",
+        "level": 2,
+        "name": {
+          "local": "Wamako",
+          "en": "Wamako",
+          "slug": "wamako-ng034021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.08",
+      "lon": "5.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034021_badokasarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bado/kasarawa",
+      "en": "Bado/kasarawa",
+      "slug": "badokasarawa"
+    },
+    "code": {
+      "id": "NG034021_badokasarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034021",
+      "level": 2,
+      "name": {
+        "local": "Wamako",
+        "en": "Wamako",
+        "slug": "wamako-ng034021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034021",
+        "level": 2,
+        "name": {
+          "local": "Wamako",
+          "en": "Wamako",
+          "slug": "wamako-ng034021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.08",
+      "lon": "5.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034021_dundayegumburawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dundaye/gumburawa",
+      "en": "Dundaye/gumburawa",
+      "slug": "dundayegumburawa"
+    },
+    "code": {
+      "id": "NG034021_dundayegumburawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034021",
+      "level": 2,
+      "name": {
+        "local": "Wamako",
+        "en": "Wamako",
+        "slug": "wamako-ng034021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034021",
+        "level": 2,
+        "name": {
+          "local": "Wamako",
+          "en": "Wamako",
+          "slug": "wamako-ng034021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.08",
+      "lon": "5.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034021_gbubugyaro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "G/bubu/g/yaro",
+      "en": "G/bubu/g/yaro",
+      "slug": "gbubugyaro"
+    },
+    "code": {
+      "id": "NG034021_gbubugyaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034021",
+      "level": 2,
+      "name": {
+        "local": "Wamako",
+        "en": "Wamako",
+        "slug": "wamako-ng034021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034021",
+        "level": 2,
+        "name": {
+          "local": "Wamako",
+          "en": "Wamako",
+          "slug": "wamako-ng034021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.08",
+      "lon": "5.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034021_ghamidugkaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "G/hamidu/g/kaya",
+      "en": "G/hamidu/g/kaya",
+      "slug": "ghamidugkaya"
+    },
+    "code": {
+      "id": "NG034021_ghamidugkaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034021",
+      "level": 2,
+      "name": {
+        "local": "Wamako",
+        "en": "Wamako",
+        "slug": "wamako-ng034021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034021",
+        "level": 2,
+        "name": {
+          "local": "Wamako",
+          "en": "Wamako",
+          "slug": "wamako-ng034021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.08",
+      "lon": "5.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034021_gumbiwajake",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gumbi/wajake",
+      "en": "Gumbi/wajake",
+      "slug": "gumbiwajake"
+    },
+    "code": {
+      "id": "NG034021_gumbiwajake",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034021",
+      "level": 2,
+      "name": {
+        "local": "Wamako",
+        "en": "Wamako",
+        "slug": "wamako-ng034021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034021",
+        "level": 2,
+        "name": {
+          "local": "Wamako",
+          "en": "Wamako",
+          "slug": "wamako-ng034021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.08",
+      "lon": "5.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034021_gwamatse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwamatse",
+      "en": "Gwamatse",
+      "slug": "gwamatse"
+    },
+    "code": {
+      "id": "NG034021_gwamatse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034021",
+      "level": 2,
+      "name": {
+        "local": "Wamako",
+        "en": "Wamako",
+        "slug": "wamako-ng034021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034021",
+        "level": 2,
+        "name": {
+          "local": "Wamako",
+          "en": "Wamako",
+          "slug": "wamako-ng034021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.08",
+      "lon": "5.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034021_kkimbagedewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "K/kimba/gedewa",
+      "en": "K/kimba/gedewa",
+      "slug": "kkimbagedewa"
+    },
+    "code": {
+      "id": "NG034021_kkimbagedewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034021",
+      "level": 2,
+      "name": {
+        "local": "Wamako",
+        "en": "Wamako",
+        "slug": "wamako-ng034021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034021",
+        "level": 2,
+        "name": {
+          "local": "Wamako",
+          "en": "Wamako",
+          "slug": "wamako-ng034021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.08",
+      "lon": "5.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034021_kalambainagirabshi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kalambaina/girabshi",
+      "en": "Kalambaina/girabshi",
+      "slug": "kalambainagirabshi"
+    },
+    "code": {
+      "id": "NG034021_kalambainagirabshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034021",
+      "level": 2,
+      "name": {
+        "local": "Wamako",
+        "en": "Wamako",
+        "slug": "wamako-ng034021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034021",
+        "level": 2,
+        "name": {
+          "local": "Wamako",
+          "en": "Wamako",
+          "slug": "wamako-ng034021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.08",
+      "lon": "5.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034021_kammata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kammata",
+      "en": "Kammata",
+      "slug": "kammata"
+    },
+    "code": {
+      "id": "NG034021_kammata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034021",
+      "level": 2,
+      "name": {
+        "local": "Wamako",
+        "en": "Wamako",
+        "slug": "wamako-ng034021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034021",
+        "level": 2,
+        "name": {
+          "local": "Wamako",
+          "en": "Wamako",
+          "slug": "wamako-ng034021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.08",
+      "lon": "5.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034021_wamakko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wamakko",
+      "en": "Wamakko",
+      "slug": "wamakko"
+    },
+    "code": {
+      "id": "NG034021_wamakko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034021",
+      "level": 2,
+      "name": {
+        "local": "Wamako",
+        "en": "Wamako",
+        "slug": "wamako-ng034021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034021",
+        "level": 2,
+        "name": {
+          "local": "Wamako",
+          "en": "Wamako",
+          "slug": "wamako-ng034021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.08",
+      "lon": "5.078"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG027005_beji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Beji",
+      "en": "Beji",
+      "slug": "beji"
+    },
+    "code": {
+      "id": "NG027005_beji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027005",
+      "level": 2,
+      "name": {
+        "local": "Bosso",
+        "en": "Bosso",
+        "slug": "bosso-ng027005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027005",
+        "level": 2,
+        "name": {
+          "local": "Bosso",
+          "en": "Bosso",
+          "slug": "bosso-ng027005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "6.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027005_bosso-central-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bosso Central I",
+      "en": "Bosso Central I",
+      "slug": "bosso-central-i"
+    },
+    "code": {
+      "id": "NG027005_bosso-central-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027005",
+      "level": 2,
+      "name": {
+        "local": "Bosso",
+        "en": "Bosso",
+        "slug": "bosso-ng027005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027005",
+        "level": 2,
+        "name": {
+          "local": "Bosso",
+          "en": "Bosso",
+          "slug": "bosso-ng027005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "6.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027005_bosso-central-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bosso Central Ii",
+      "en": "Bosso Central Ii",
+      "slug": "bosso-central-ii"
+    },
+    "code": {
+      "id": "NG027005_bosso-central-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027005",
+      "level": 2,
+      "name": {
+        "local": "Bosso",
+        "en": "Bosso",
+        "slug": "bosso-ng027005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027005",
+        "level": 2,
+        "name": {
+          "local": "Bosso",
+          "en": "Bosso",
+          "slug": "bosso-ng027005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "6.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027005_chanchaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chanchaga",
+      "en": "Chanchaga",
+      "slug": "chanchaga"
+    },
+    "code": {
+      "id": "NG027005_chanchaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027005",
+      "level": 2,
+      "name": {
+        "local": "Bosso",
+        "en": "Bosso",
+        "slug": "bosso-ng027005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027005",
+        "level": 2,
+        "name": {
+          "local": "Bosso",
+          "en": "Bosso",
+          "slug": "bosso-ng027005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "6.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027005_garatu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garatu",
+      "en": "Garatu",
+      "slug": "garatu"
+    },
+    "code": {
+      "id": "NG027005_garatu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027005",
+      "level": 2,
+      "name": {
+        "local": "Bosso",
+        "en": "Bosso",
+        "slug": "bosso-ng027005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027005",
+        "level": 2,
+        "name": {
+          "local": "Bosso",
+          "en": "Bosso",
+          "slug": "bosso-ng027005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "6.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027005_kampala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kampala",
+      "en": "Kampala",
+      "slug": "kampala"
+    },
+    "code": {
+      "id": "NG027005_kampala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027005",
+      "level": 2,
+      "name": {
+        "local": "Bosso",
+        "en": "Bosso",
+        "slug": "bosso-ng027005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027005",
+        "level": 2,
+        "name": {
+          "local": "Bosso",
+          "en": "Bosso",
+          "slug": "bosso-ng027005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "6.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027005_kodo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kodo",
+      "en": "Kodo",
+      "slug": "kodo"
+    },
+    "code": {
+      "id": "NG027005_kodo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027005",
+      "level": 2,
+      "name": {
+        "local": "Bosso",
+        "en": "Bosso",
+        "slug": "bosso-ng027005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027005",
+        "level": 2,
+        "name": {
+          "local": "Bosso",
+          "en": "Bosso",
+          "slug": "bosso-ng027005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "6.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027005_maikunkele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maikunkele",
+      "en": "Maikunkele",
+      "slug": "maikunkele"
+    },
+    "code": {
+      "id": "NG027005_maikunkele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027005",
+      "level": 2,
+      "name": {
+        "local": "Bosso",
+        "en": "Bosso",
+        "slug": "bosso-ng027005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027005",
+        "level": 2,
+        "name": {
+          "local": "Bosso",
+          "en": "Bosso",
+          "slug": "bosso-ng027005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "6.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027005_maitumbi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maitumbi",
+      "en": "Maitumbi",
+      "slug": "maitumbi"
+    },
+    "code": {
+      "id": "NG027005_maitumbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027005",
+      "level": 2,
+      "name": {
+        "local": "Bosso",
+        "en": "Bosso",
+        "slug": "bosso-ng027005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027005",
+        "level": 2,
+        "name": {
+          "local": "Bosso",
+          "en": "Bosso",
+          "slug": "bosso-ng027005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "6.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027005_shata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shata",
+      "en": "Shata",
+      "slug": "shata"
+    },
+    "code": {
+      "id": "NG027005_shata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027005",
+      "level": 2,
+      "name": {
+        "local": "Bosso",
+        "en": "Bosso",
+        "slug": "bosso-ng027005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027005",
+        "level": 2,
+        "name": {
+          "local": "Bosso",
+          "en": "Bosso",
+          "slug": "bosso-ng027005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "6.345"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

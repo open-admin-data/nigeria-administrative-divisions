@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG032013_chip",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chip",
+      "en": "Chip",
+      "slug": "chip"
+    },
+    "code": {
+      "id": "NG032013_chip",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032013",
+      "level": 2,
+      "name": {
+        "local": "Pankshin",
+        "en": "Pankshin",
+        "slug": "pankshin-ng032013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032013",
+        "level": 2,
+        "name": {
+          "local": "Pankshin",
+          "en": "Pankshin",
+          "slug": "pankshin-ng032013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "9.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032013_dok-pai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dok-pai",
+      "en": "Dok-pai",
+      "slug": "dok-pai"
+    },
+    "code": {
+      "id": "NG032013_dok-pai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032013",
+      "level": 2,
+      "name": {
+        "local": "Pankshin",
+        "en": "Pankshin",
+        "slug": "pankshin-ng032013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032013",
+        "level": 2,
+        "name": {
+          "local": "Pankshin",
+          "en": "Pankshin",
+          "slug": "pankshin-ng032013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "9.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032013_fier",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fier",
+      "en": "Fier",
+      "slug": "fier"
+    },
+    "code": {
+      "id": "NG032013_fier",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032013",
+      "level": 2,
+      "name": {
+        "local": "Pankshin",
+        "en": "Pankshin",
+        "slug": "pankshin-ng032013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032013",
+        "level": 2,
+        "name": {
+          "local": "Pankshin",
+          "en": "Pankshin",
+          "slug": "pankshin-ng032013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "9.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032013_jiblik",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jiblik",
+      "en": "Jiblik",
+      "slug": "jiblik"
+    },
+    "code": {
+      "id": "NG032013_jiblik",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032013",
+      "level": 2,
+      "name": {
+        "local": "Pankshin",
+        "en": "Pankshin",
+        "slug": "pankshin-ng032013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032013",
+        "level": 2,
+        "name": {
+          "local": "Pankshin",
+          "en": "Pankshin",
+          "slug": "pankshin-ng032013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "9.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032013_kadung",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadung",
+      "en": "Kadung",
+      "slug": "kadung"
+    },
+    "code": {
+      "id": "NG032013_kadung",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032013",
+      "level": 2,
+      "name": {
+        "local": "Pankshin",
+        "en": "Pankshin",
+        "slug": "pankshin-ng032013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032013",
+        "level": 2,
+        "name": {
+          "local": "Pankshin",
+          "en": "Pankshin",
+          "slug": "pankshin-ng032013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "9.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032013_kangshu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kangshu",
+      "en": "Kangshu",
+      "slug": "kangshu"
+    },
+    "code": {
+      "id": "NG032013_kangshu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032013",
+      "level": 2,
+      "name": {
+        "local": "Pankshin",
+        "en": "Pankshin",
+        "slug": "pankshin-ng032013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032013",
+        "level": 2,
+        "name": {
+          "local": "Pankshin",
+          "en": "Pankshin",
+          "slug": "pankshin-ng032013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "9.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032013_lankan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lankan",
+      "en": "Lankan",
+      "slug": "lankan"
+    },
+    "code": {
+      "id": "NG032013_lankan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032013",
+      "level": 2,
+      "name": {
+        "local": "Pankshin",
+        "en": "Pankshin",
+        "slug": "pankshin-ng032013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032013",
+        "level": 2,
+        "name": {
+          "local": "Pankshin",
+          "en": "Pankshin",
+          "slug": "pankshin-ng032013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "9.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032013_pankshin-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pankshin Central",
+      "en": "Pankshin Central",
+      "slug": "pankshin-central"
+    },
+    "code": {
+      "id": "NG032013_pankshin-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032013",
+      "level": 2,
+      "name": {
+        "local": "Pankshin",
+        "en": "Pankshin",
+        "slug": "pankshin-ng032013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032013",
+        "level": 2,
+        "name": {
+          "local": "Pankshin",
+          "en": "Pankshin",
+          "slug": "pankshin-ng032013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "9.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032013_pankshin-chigwong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pankshin Chigwong",
+      "en": "Pankshin Chigwong",
+      "slug": "pankshin-chigwong"
+    },
+    "code": {
+      "id": "NG032013_pankshin-chigwong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032013",
+      "level": 2,
+      "name": {
+        "local": "Pankshin",
+        "en": "Pankshin",
+        "slug": "pankshin-ng032013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032013",
+        "level": 2,
+        "name": {
+          "local": "Pankshin",
+          "en": "Pankshin",
+          "slug": "pankshin-ng032013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "9.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032013_pankshin-south-belning",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pankshin South (belning)",
+      "en": "Pankshin South (belning)",
+      "slug": "pankshin-south-belning"
+    },
+    "code": {
+      "id": "NG032013_pankshin-south-belning",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032013",
+      "level": 2,
+      "name": {
+        "local": "Pankshin",
+        "en": "Pankshin",
+        "slug": "pankshin-ng032013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032013",
+        "level": 2,
+        "name": {
+          "local": "Pankshin",
+          "en": "Pankshin",
+          "slug": "pankshin-ng032013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "9.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032013_tal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tal",
+      "en": "Tal",
+      "slug": "tal"
+    },
+    "code": {
+      "id": "NG032013_tal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032013",
+      "level": 2,
+      "name": {
+        "local": "Pankshin",
+        "en": "Pankshin",
+        "slug": "pankshin-ng032013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032013",
+        "level": 2,
+        "name": {
+          "local": "Pankshin",
+          "en": "Pankshin",
+          "slug": "pankshin-ng032013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "9.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032013_wokkos",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wokkos",
+      "en": "Wokkos",
+      "slug": "wokkos"
+    },
+    "code": {
+      "id": "NG032013_wokkos",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032013",
+      "level": 2,
+      "name": {
+        "local": "Pankshin",
+        "en": "Pankshin",
+        "slug": "pankshin-ng032013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032013",
+        "level": 2,
+        "name": {
+          "local": "Pankshin",
+          "en": "Pankshin",
+          "slug": "pankshin-ng032013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "9.388"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

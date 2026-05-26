@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG031011_iberekodo-i-pataoju",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iberekodo I /(pataoju)",
+      "en": "Iberekodo I /(pataoju)",
+      "slug": "iberekodo-i-pataoju"
+    },
+    "code": {
+      "id": "NG031011_iberekodo-i-pataoju",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031011",
+      "level": 2,
+      "name": {
+        "local": "Ibarapa Central",
+        "en": "Ibarapa Central",
+        "slug": "ibarapa-central-ng031011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031011",
+        "level": 2,
+        "name": {
+          "local": "Ibarapa Central",
+          "en": "Ibarapa Central",
+          "slug": "ibarapa-central-ng031011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "3.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031011_iberekodoagbooroita-baale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iberekodo/agbooro/ita Baale",
+      "en": "Iberekodo/agbooro/ita Baale",
+      "slug": "iberekodoagbooroita-baale"
+    },
+    "code": {
+      "id": "NG031011_iberekodoagbooroita-baale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031011",
+      "level": 2,
+      "name": {
+        "local": "Ibarapa Central",
+        "en": "Ibarapa Central",
+        "slug": "ibarapa-central-ng031011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031011",
+        "level": 2,
+        "name": {
+          "local": "Ibarapa Central",
+          "en": "Ibarapa Central",
+          "slug": "ibarapa-central-ng031011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "3.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031011_idere-i-molete",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idere I (molete)",
+      "en": "Idere I (molete)",
+      "slug": "idere-i-molete"
+    },
+    "code": {
+      "id": "NG031011_idere-i-molete",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031011",
+      "level": 2,
+      "name": {
+        "local": "Ibarapa Central",
+        "en": "Ibarapa Central",
+        "slug": "ibarapa-central-ng031011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031011",
+        "level": 2,
+        "name": {
+          "local": "Ibarapa Central",
+          "en": "Ibarapa Central",
+          "slug": "ibarapa-central-ng031011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "3.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031011_idere-ii-ominigbooke---oba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idere Ii (ominigbo/oke - Oba)",
+      "en": "Idere Ii (ominigbo/oke - Oba)",
+      "slug": "idere-ii-ominigbooke---oba"
+    },
+    "code": {
+      "id": "NG031011_idere-ii-ominigbooke---oba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031011",
+      "level": 2,
+      "name": {
+        "local": "Ibarapa Central",
+        "en": "Ibarapa Central",
+        "slug": "ibarapa-central-ng031011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031011",
+        "level": 2,
+        "name": {
+          "local": "Ibarapa Central",
+          "en": "Ibarapa Central",
+          "slug": "ibarapa-central-ng031011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "3.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031011_idere-iii-kosoapa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idere Iii (koso/apa)",
+      "en": "Idere Iii (koso/apa)",
+      "slug": "idere-iii-kosoapa"
+    },
+    "code": {
+      "id": "NG031011_idere-iii-kosoapa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031011",
+      "level": 2,
+      "name": {
+        "local": "Ibarapa Central",
+        "en": "Ibarapa Central",
+        "slug": "ibarapa-central-ng031011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031011",
+        "level": 2,
+        "name": {
+          "local": "Ibarapa Central",
+          "en": "Ibarapa Central",
+          "slug": "ibarapa-central-ng031011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "3.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031011_idofin-isaganun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idofin Isaganun",
+      "en": "Idofin Isaganun",
+      "slug": "idofin-isaganun"
+    },
+    "code": {
+      "id": "NG031011_idofin-isaganun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031011",
+      "level": 2,
+      "name": {
+        "local": "Ibarapa Central",
+        "en": "Ibarapa Central",
+        "slug": "ibarapa-central-ng031011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031011",
+        "level": 2,
+        "name": {
+          "local": "Ibarapa Central",
+          "en": "Ibarapa Central",
+          "slug": "ibarapa-central-ng031011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "3.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031011_igbolepako",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igbole/pako",
+      "en": "Igbole/pako",
+      "slug": "igbolepako"
+    },
+    "code": {
+      "id": "NG031011_igbolepako",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031011",
+      "level": 2,
+      "name": {
+        "local": "Ibarapa Central",
+        "en": "Ibarapa Central",
+        "slug": "ibarapa-central-ng031011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031011",
+        "level": 2,
+        "name": {
+          "local": "Ibarapa Central",
+          "en": "Ibarapa Central",
+          "slug": "ibarapa-central-ng031011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "3.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031011_isale-oba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isale-oba",
+      "en": "Isale-oba",
+      "slug": "isale-oba"
+    },
+    "code": {
+      "id": "NG031011_isale-oba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031011",
+      "level": 2,
+      "name": {
+        "local": "Ibarapa Central",
+        "en": "Ibarapa Central",
+        "slug": "ibarapa-central-ng031011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031011",
+        "level": 2,
+        "name": {
+          "local": "Ibarapa Central",
+          "en": "Ibarapa Central",
+          "slug": "ibarapa-central-ng031011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "3.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031011_oke-odo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke-odo",
+      "en": "Oke-odo",
+      "slug": "oke-odo"
+    },
+    "code": {
+      "id": "NG031011_oke-odo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031011",
+      "level": 2,
+      "name": {
+        "local": "Ibarapa Central",
+        "en": "Ibarapa Central",
+        "slug": "ibarapa-central-ng031011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031011",
+        "level": 2,
+        "name": {
+          "local": "Ibarapa Central",
+          "en": "Ibarapa Central",
+          "slug": "ibarapa-central-ng031011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "3.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031011_okeserin-i-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okeserin I & Ii",
+      "en": "Okeserin I & Ii",
+      "slug": "okeserin-i-ii"
+    },
+    "code": {
+      "id": "NG031011_okeserin-i-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031011",
+      "level": 2,
+      "name": {
+        "local": "Ibarapa Central",
+        "en": "Ibarapa Central",
+        "slug": "ibarapa-central-ng031011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031011",
+        "level": 2,
+        "name": {
+          "local": "Ibarapa Central",
+          "en": "Ibarapa Central",
+          "slug": "ibarapa-central-ng031011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.455",
+      "lon": "3.234"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

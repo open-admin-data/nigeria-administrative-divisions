@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG002021_adarawo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adarawo",
+      "en": "Adarawo",
+      "slug": "adarawo"
+    },
+    "code": {
+      "id": "NG002021_adarawo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002021",
+      "level": 2,
+      "name": {
+        "local": "Yola South",
+        "en": "Yola South",
+        "slug": "yola-south-ng002021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002021",
+        "level": 2,
+        "name": {
+          "local": "Yola South",
+          "en": "Yola South",
+          "slug": "yola-south-ng002021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.209",
+      "lon": "12.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002021_bako",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bako",
+      "en": "Bako",
+      "slug": "bako"
+    },
+    "code": {
+      "id": "NG002021_bako",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002021",
+      "level": 2,
+      "name": {
+        "local": "Yola South",
+        "en": "Yola South",
+        "slug": "yola-south-ng002021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002021",
+        "level": 2,
+        "name": {
+          "local": "Yola South",
+          "en": "Yola South",
+          "slug": "yola-south-ng002021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.205",
+      "lon": "12.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002021_bole-yolde-pate",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bole Yolde Pate",
+      "en": "Bole Yolde Pate",
+      "slug": "bole-yolde-pate"
+    },
+    "code": {
+      "id": "NG002021_bole-yolde-pate",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002021",
+      "level": 2,
+      "name": {
+        "local": "Yola South",
+        "en": "Yola South",
+        "slug": "yola-south-ng002021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002021",
+        "level": 2,
+        "name": {
+          "local": "Yola South",
+          "en": "Yola South",
+          "slug": "yola-south-ng002021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.162",
+      "lon": "12.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002021_makama-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makama 'a'",
+      "en": "Makama 'a'",
+      "slug": "makama-a"
+    },
+    "code": {
+      "id": "NG002021_makama-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002021",
+      "level": 2,
+      "name": {
+        "local": "Yola South",
+        "en": "Yola South",
+        "slug": "yola-south-ng002021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002021",
+        "level": 2,
+        "name": {
+          "local": "Yola South",
+          "en": "Yola South",
+          "slug": "yola-south-ng002021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.227",
+      "lon": "12.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002021_makama-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makama 'b'",
+      "en": "Makama 'b'",
+      "slug": "makama-b"
+    },
+    "code": {
+      "id": "NG002021_makama-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002021",
+      "level": 2,
+      "name": {
+        "local": "Yola South",
+        "en": "Yola South",
+        "slug": "yola-south-ng002021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002021",
+        "level": 2,
+        "name": {
+          "local": "Yola South",
+          "en": "Yola South",
+          "slug": "yola-south-ng002021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.227",
+      "lon": "12.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002021_mbamba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbamba",
+      "en": "Mbamba",
+      "slug": "mbamba"
+    },
+    "code": {
+      "id": "NG002021_mbamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002021",
+      "level": 2,
+      "name": {
+        "local": "Yola South",
+        "en": "Yola South",
+        "slug": "yola-south-ng002021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002021",
+        "level": 2,
+        "name": {
+          "local": "Yola South",
+          "en": "Yola South",
+          "slug": "yola-south-ng002021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.173",
+      "lon": "12.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002021_mbamoi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbamoi",
+      "en": "Mbamoi",
+      "slug": "mbamoi"
+    },
+    "code": {
+      "id": "NG002021_mbamoi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002021",
+      "level": 2,
+      "name": {
+        "local": "Yola South",
+        "en": "Yola South",
+        "slug": "yola-south-ng002021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002021",
+        "level": 2,
+        "name": {
+          "local": "Yola South",
+          "en": "Yola South",
+          "slug": "yola-south-ng002021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.202",
+      "lon": "12.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002021_namtari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Namtari",
+      "en": "Namtari",
+      "slug": "namtari"
+    },
+    "code": {
+      "id": "NG002021_namtari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002021",
+      "level": 2,
+      "name": {
+        "local": "Yola South",
+        "en": "Yola South",
+        "slug": "yola-south-ng002021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002021",
+        "level": 2,
+        "name": {
+          "local": "Yola South",
+          "en": "Yola South",
+          "slug": "yola-south-ng002021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.302",
+      "lon": "12.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002021_ngurore",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngurore",
+      "en": "Ngurore",
+      "slug": "ngurore"
+    },
+    "code": {
+      "id": "NG002021_ngurore",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002021",
+      "level": 2,
+      "name": {
+        "local": "Yola South",
+        "en": "Yola South",
+        "slug": "yola-south-ng002021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002021",
+        "level": 2,
+        "name": {
+          "local": "Yola South",
+          "en": "Yola South",
+          "slug": "yola-south-ng002021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.348",
+      "lon": "12.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002021_toungo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Toungo",
+      "en": "Toungo",
+      "slug": "toungo"
+    },
+    "code": {
+      "id": "NG002021_toungo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002021",
+      "level": 2,
+      "name": {
+        "local": "Yola South",
+        "en": "Yola South",
+        "slug": "yola-south-ng002021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002021",
+        "level": 2,
+        "name": {
+          "local": "Yola South",
+          "en": "Yola South",
+          "slug": "yola-south-ng002021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.202",
+      "lon": "12.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002021_yolde-kohi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yolde Kohi",
+      "en": "Yolde Kohi",
+      "slug": "yolde-kohi"
+    },
+    "code": {
+      "id": "NG002021_yolde-kohi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002021",
+      "level": 2,
+      "name": {
+        "local": "Yola South",
+        "en": "Yola South",
+        "slug": "yola-south-ng002021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002021",
+        "level": 2,
+        "name": {
+          "local": "Yola South",
+          "en": "Yola South",
+          "slug": "yola-south-ng002021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.284",
+      "lon": "12.168"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

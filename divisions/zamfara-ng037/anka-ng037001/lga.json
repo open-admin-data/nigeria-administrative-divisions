@@ -1,0 +1,47 @@
+{
+  "id": "NG037001",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Anka",
+    "en": "Anka",
+    "slug": "anka-ng037001"
+  },
+  "code": {
+    "id": "NG037001",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG037",
+    "level": 1,
+    "name": {
+      "local": "Zamfara",
+      "en": "Zamfara",
+      "slug": "zamfara-ng037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.985",
+    "lon": "5.986"
+  },
+  "metadata": {},
+  "source": {}
+}

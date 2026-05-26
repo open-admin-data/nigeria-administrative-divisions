@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG016002_bambam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bambam",
+      "en": "Bambam",
+      "slug": "bambam"
+    },
+    "code": {
+      "id": "NG016002_bambam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016002",
+      "level": 2,
+      "name": {
+        "local": "Balanga",
+        "en": "Balanga",
+        "slug": "balanga-ng016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016002",
+        "level": 2,
+        "name": {
+          "local": "Balanga",
+          "en": "Balanga",
+          "slug": "balanga-ng016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.816",
+      "lon": "11.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016002_bangu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bangu",
+      "en": "Bangu",
+      "slug": "bangu"
+    },
+    "code": {
+      "id": "NG016002_bangu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016002",
+      "level": 2,
+      "name": {
+        "local": "Balanga",
+        "en": "Balanga",
+        "slug": "balanga-ng016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016002",
+        "level": 2,
+        "name": {
+          "local": "Balanga",
+          "en": "Balanga",
+          "slug": "balanga-ng016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.816",
+      "lon": "11.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016002_dadiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dadiya",
+      "en": "Dadiya",
+      "slug": "dadiya"
+    },
+    "code": {
+      "id": "NG016002_dadiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016002",
+      "level": 2,
+      "name": {
+        "local": "Balanga",
+        "en": "Balanga",
+        "slug": "balanga-ng016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016002",
+        "level": 2,
+        "name": {
+          "local": "Balanga",
+          "en": "Balanga",
+          "slug": "balanga-ng016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.816",
+      "lon": "11.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016002_gelengu-balanga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gelengu / Balanga",
+      "en": "Gelengu / Balanga",
+      "slug": "gelengu-balanga"
+    },
+    "code": {
+      "id": "NG016002_gelengu-balanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016002",
+      "level": 2,
+      "name": {
+        "local": "Balanga",
+        "en": "Balanga",
+        "slug": "balanga-ng016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016002",
+        "level": 2,
+        "name": {
+          "local": "Balanga",
+          "en": "Balanga",
+          "slug": "balanga-ng016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.816",
+      "lon": "11.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016002_kindiyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kindiyo",
+      "en": "Kindiyo",
+      "slug": "kindiyo"
+    },
+    "code": {
+      "id": "NG016002_kindiyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016002",
+      "level": 2,
+      "name": {
+        "local": "Balanga",
+        "en": "Balanga",
+        "slug": "balanga-ng016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016002",
+        "level": 2,
+        "name": {
+          "local": "Balanga",
+          "en": "Balanga",
+          "slug": "balanga-ng016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.816",
+      "lon": "11.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016002_kulani-degre-sikkam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kulani / Degre /sikkam",
+      "en": "Kulani / Degre /sikkam",
+      "slug": "kulani-degre-sikkam"
+    },
+    "code": {
+      "id": "NG016002_kulani-degre-sikkam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016002",
+      "level": 2,
+      "name": {
+        "local": "Balanga",
+        "en": "Balanga",
+        "slug": "balanga-ng016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016002",
+        "level": 2,
+        "name": {
+          "local": "Balanga",
+          "en": "Balanga",
+          "slug": "balanga-ng016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.816",
+      "lon": "11.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016002_mwona",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mwona",
+      "en": "Mwona",
+      "slug": "mwona"
+    },
+    "code": {
+      "id": "NG016002_mwona",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016002",
+      "level": 2,
+      "name": {
+        "local": "Balanga",
+        "en": "Balanga",
+        "slug": "balanga-ng016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016002",
+        "level": 2,
+        "name": {
+          "local": "Balanga",
+          "en": "Balanga",
+          "slug": "balanga-ng016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.816",
+      "lon": "11.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016002_nyuwar-jessu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nyuwar / Jessu",
+      "en": "Nyuwar / Jessu",
+      "slug": "nyuwar-jessu"
+    },
+    "code": {
+      "id": "NG016002_nyuwar-jessu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016002",
+      "level": 2,
+      "name": {
+        "local": "Balanga",
+        "en": "Balanga",
+        "slug": "balanga-ng016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016002",
+        "level": 2,
+        "name": {
+          "local": "Balanga",
+          "en": "Balanga",
+          "slug": "balanga-ng016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.816",
+      "lon": "11.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016002_swa-ref-w-waja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Swa / Ref / W. Waja",
+      "en": "Swa / Ref / W. Waja",
+      "slug": "swa-ref-w-waja"
+    },
+    "code": {
+      "id": "NG016002_swa-ref-w-waja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016002",
+      "level": 2,
+      "name": {
+        "local": "Balanga",
+        "en": "Balanga",
+        "slug": "balanga-ng016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016002",
+        "level": 2,
+        "name": {
+          "local": "Balanga",
+          "en": "Balanga",
+          "slug": "balanga-ng016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.816",
+      "lon": "11.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016002_talasse-dong-reme",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Talasse / Dong / Reme",
+      "en": "Talasse / Dong / Reme",
+      "slug": "talasse-dong-reme"
+    },
+    "code": {
+      "id": "NG016002_talasse-dong-reme",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016002",
+      "level": 2,
+      "name": {
+        "local": "Balanga",
+        "en": "Balanga",
+        "slug": "balanga-ng016002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016002",
+        "level": 2,
+        "name": {
+          "local": "Balanga",
+          "en": "Balanga",
+          "slug": "balanga-ng016002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.816",
+      "lon": "11.716"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

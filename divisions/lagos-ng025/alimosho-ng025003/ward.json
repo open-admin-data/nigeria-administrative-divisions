@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG025003_abule-egbaaborumeiranalagbado",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abule-egba/aboru/meiran/alagbado",
+      "en": "Abule-egba/aboru/meiran/alagbado",
+      "slug": "abule-egbaaborumeiranalagbado"
+    },
+    "code": {
+      "id": "NG025003_abule-egbaaborumeiranalagbado",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025003",
+      "level": 2,
+      "name": {
+        "local": "Alimosho",
+        "en": "Alimosho",
+        "slug": "alimosho-ng025003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025003",
+        "level": 2,
+        "name": {
+          "local": "Alimosho",
+          "en": "Alimosho",
+          "slug": "alimosho-ng025003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025003_ayoboijon-village-camp-david",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayobo/ijon Village (camp David)",
+      "en": "Ayobo/ijon Village (camp David)",
+      "slug": "ayoboijon-village-camp-david"
+    },
+    "code": {
+      "id": "NG025003_ayoboijon-village-camp-david",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025003",
+      "level": 2,
+      "name": {
+        "local": "Alimosho",
+        "en": "Alimosho",
+        "slug": "alimosho-ng025003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025003",
+        "level": 2,
+        "name": {
+          "local": "Alimosho",
+          "en": "Alimosho",
+          "slug": "alimosho-ng025003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025003_egbeagodo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egbe/agodo",
+      "en": "Egbe/agodo",
+      "slug": "egbeagodo"
+    },
+    "code": {
+      "id": "NG025003_egbeagodo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025003",
+      "level": 2,
+      "name": {
+        "local": "Alimosho",
+        "en": "Alimosho",
+        "slug": "alimosho-ng025003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025003",
+        "level": 2,
+        "name": {
+          "local": "Alimosho",
+          "en": "Alimosho",
+          "slug": "alimosho-ng025003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025003_egbedaalimosho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egbeda/alimosho",
+      "en": "Egbeda/alimosho",
+      "slug": "egbedaalimosho"
+    },
+    "code": {
+      "id": "NG025003_egbedaalimosho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025003",
+      "level": 2,
+      "name": {
+        "local": "Alimosho",
+        "en": "Alimosho",
+        "slug": "alimosho-ng025003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025003",
+        "level": 2,
+        "name": {
+          "local": "Alimosho",
+          "en": "Alimosho",
+          "slug": "alimosho-ng025003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025003_idimuisheri-olofin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idimu/isheri Olofin",
+      "en": "Idimu/isheri Olofin",
+      "slug": "idimuisheri-olofin"
+    },
+    "code": {
+      "id": "NG025003_idimuisheri-olofin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025003",
+      "level": 2,
+      "name": {
+        "local": "Alimosho",
+        "en": "Alimosho",
+        "slug": "alimosho-ng025003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025003",
+        "level": 2,
+        "name": {
+          "local": "Alimosho",
+          "en": "Alimosho",
+          "slug": "alimosho-ng025003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025003_igandoegan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igando/egan",
+      "en": "Igando/egan",
+      "slug": "igandoegan"
+    },
+    "code": {
+      "id": "NG025003_igandoegan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025003",
+      "level": 2,
+      "name": {
+        "local": "Alimosho",
+        "en": "Alimosho",
+        "slug": "alimosho-ng025003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025003",
+        "level": 2,
+        "name": {
+          "local": "Alimosho",
+          "en": "Alimosho",
+          "slug": "alimosho-ng025003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025003_ikotunijegun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikotun/ijegun",
+      "en": "Ikotun/ijegun",
+      "slug": "ikotunijegun"
+    },
+    "code": {
+      "id": "NG025003_ikotunijegun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025003",
+      "level": 2,
+      "name": {
+        "local": "Alimosho",
+        "en": "Alimosho",
+        "slug": "alimosho-ng025003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025003",
+        "level": 2,
+        "name": {
+          "local": "Alimosho",
+          "en": "Alimosho",
+          "slug": "alimosho-ng025003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025003_ipaja-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipaja North",
+      "en": "Ipaja North",
+      "slug": "ipaja-north"
+    },
+    "code": {
+      "id": "NG025003_ipaja-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025003",
+      "level": 2,
+      "name": {
+        "local": "Alimosho",
+        "en": "Alimosho",
+        "slug": "alimosho-ng025003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025003",
+        "level": 2,
+        "name": {
+          "local": "Alimosho",
+          "en": "Alimosho",
+          "slug": "alimosho-ng025003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025003_ipaja-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipaja South",
+      "en": "Ipaja South",
+      "slug": "ipaja-south"
+    },
+    "code": {
+      "id": "NG025003_ipaja-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025003",
+      "level": 2,
+      "name": {
+        "local": "Alimosho",
+        "en": "Alimosho",
+        "slug": "alimosho-ng025003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025003",
+        "level": 2,
+        "name": {
+          "local": "Alimosho",
+          "en": "Alimosho",
+          "slug": "alimosho-ng025003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025003_pleasureoke-odo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pleasure/oke-odo",
+      "en": "Pleasure/oke-odo",
+      "slug": "pleasureoke-odo"
+    },
+    "code": {
+      "id": "NG025003_pleasureoke-odo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025003",
+      "level": 2,
+      "name": {
+        "local": "Alimosho",
+        "en": "Alimosho",
+        "slug": "alimosho-ng025003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025003",
+        "level": 2,
+        "name": {
+          "local": "Alimosho",
+          "en": "Alimosho",
+          "slug": "alimosho-ng025003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025003_shashaakowonjo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shasha/akowonjo",
+      "en": "Shasha/akowonjo",
+      "slug": "shashaakowonjo"
+    },
+    "code": {
+      "id": "NG025003_shashaakowonjo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025003",
+      "level": 2,
+      "name": {
+        "local": "Alimosho",
+        "en": "Alimosho",
+        "slug": "alimosho-ng025003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025003",
+        "level": 2,
+        "name": {
+          "local": "Alimosho",
+          "en": "Alimosho",
+          "slug": "alimosho-ng025003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

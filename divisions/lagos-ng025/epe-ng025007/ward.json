@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "NG025007_abomiti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abomiti",
+      "en": "Abomiti",
+      "slug": "abomiti"
+    },
+    "code": {
+      "id": "NG025007_abomiti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_agbowa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbowa",
+      "en": "Agbowa",
+      "slug": "agbowa"
+    },
+    "code": {
+      "id": "NG025007_agbowa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_agbowa-ikosi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbowa Ikosi",
+      "en": "Agbowa Ikosi",
+      "slug": "agbowa-ikosi"
+    },
+    "code": {
+      "id": "NG025007_agbowa-ikosi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_ago-owu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ago Owu",
+      "en": "Ago Owu",
+      "slug": "ago-owu"
+    },
+    "code": {
+      "id": "NG025007_ago-owu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_ajaganabe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajaganabe",
+      "en": "Ajaganabe",
+      "slug": "ajaganabe"
+    },
+    "code": {
+      "id": "NG025007_ajaganabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_ejirin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ejirin",
+      "en": "Ejirin",
+      "slug": "ejirin"
+    },
+    "code": {
+      "id": "NG025007_ejirin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_etitaebode",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Etita/ebode",
+      "en": "Etita/ebode",
+      "slug": "etitaebode"
+    },
+    "code": {
+      "id": "NG025007_etitaebode",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_ibonwon",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibonwon",
+      "en": "Ibonwon",
+      "slug": "ibonwon"
+    },
+    "code": {
+      "id": "NG025007_ibonwon",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_ilara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilara",
+      "en": "Ilara",
+      "slug": "ilara"
+    },
+    "code": {
+      "id": "NG025007_ilara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_iseigbogun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ise/igbogun",
+      "en": "Ise/igbogun",
+      "slug": "iseigbogun"
+    },
+    "code": {
+      "id": "NG025007_iseigbogun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_itoikin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Itoikin",
+      "en": "Itoikin",
+      "slug": "itoikin"
+    },
+    "code": {
+      "id": "NG025007_itoikin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_lagbade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lagbade",
+      "en": "Lagbade",
+      "slug": "lagbade"
+    },
+    "code": {
+      "id": "NG025007_lagbade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_odomola",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odomola",
+      "en": "Odomola",
+      "slug": "odomola"
+    },
+    "code": {
+      "id": "NG025007_odomola",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_odoragunsin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odoragunsin",
+      "en": "Odoragunsin",
+      "slug": "odoragunsin"
+    },
+    "code": {
+      "id": "NG025007_odoragunsin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_oke-balogun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke-balogun",
+      "en": "Oke-balogun",
+      "slug": "oke-balogun"
+    },
+    "code": {
+      "id": "NG025007_oke-balogun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_oribaladaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oriba/ladaba",
+      "en": "Oriba/ladaba",
+      "slug": "oribaladaba"
+    },
+    "code": {
+      "id": "NG025007_oribaladaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_orugbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orugbo",
+      "en": "Orugbo",
+      "slug": "orugbo"
+    },
+    "code": {
+      "id": "NG025007_orugbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_poka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Poka",
+      "en": "Poka",
+      "slug": "poka"
+    },
+    "code": {
+      "id": "NG025007_poka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007_popo-oba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Popo-oba",
+      "en": "Popo-oba",
+      "slug": "popo-oba"
+    },
+    "code": {
+      "id": "NG025007_popo-oba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025007",
+      "level": 2,
+      "name": {
+        "local": "Epe",
+        "en": "Epe",
+        "slug": "epe-ng025007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025007",
+        "level": 2,
+        "name": {
+          "local": "Epe",
+          "en": "Epe",
+          "slug": "epe-ng025007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG005006_bagelbajar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bagel/bajar",
+      "en": "Bagel/bajar",
+      "slug": "bagelbajar"
+    },
+    "code": {
+      "id": "NG005006_bagelbajar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005006",
+      "level": 2,
+      "name": {
+        "local": "Dass",
+        "en": "Dass",
+        "slug": "dass-ng005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005006",
+        "level": 2,
+        "name": {
+          "local": "Dass",
+          "en": "Dass",
+          "slug": "dass-ng005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.009",
+      "lon": "9.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005006_baraza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baraza",
+      "en": "Baraza",
+      "slug": "baraza"
+    },
+    "code": {
+      "id": "NG005006_baraza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005006",
+      "level": 2,
+      "name": {
+        "local": "Dass",
+        "en": "Dass",
+        "slug": "dass-ng005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005006",
+        "level": 2,
+        "name": {
+          "local": "Dass",
+          "en": "Dass",
+          "slug": "dass-ng005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.009",
+      "lon": "9.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005006_bundot",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bundot",
+      "en": "Bundot",
+      "slug": "bundot"
+    },
+    "code": {
+      "id": "NG005006_bundot",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005006",
+      "level": 2,
+      "name": {
+        "local": "Dass",
+        "en": "Dass",
+        "slug": "dass-ng005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005006",
+        "level": 2,
+        "name": {
+          "local": "Dass",
+          "en": "Dass",
+          "slug": "dass-ng005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.009",
+      "lon": "9.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005006_bununu-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bununu Central",
+      "en": "Bununu Central",
+      "slug": "bununu-central"
+    },
+    "code": {
+      "id": "NG005006_bununu-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005006",
+      "level": 2,
+      "name": {
+        "local": "Dass",
+        "en": "Dass",
+        "slug": "dass-ng005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005006",
+        "level": 2,
+        "name": {
+          "local": "Dass",
+          "en": "Dass",
+          "slug": "dass-ng005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.009",
+      "lon": "9.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005006_bununu-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bununu South",
+      "en": "Bununu South",
+      "slug": "bununu-south"
+    },
+    "code": {
+      "id": "NG005006_bununu-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005006",
+      "level": 2,
+      "name": {
+        "local": "Dass",
+        "en": "Dass",
+        "slug": "dass-ng005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005006",
+        "level": 2,
+        "name": {
+          "local": "Dass",
+          "en": "Dass",
+          "slug": "dass-ng005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.009",
+      "lon": "9.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005006_dott",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dott",
+      "en": "Dott",
+      "slug": "dott"
+    },
+    "code": {
+      "id": "NG005006_dott",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005006",
+      "level": 2,
+      "name": {
+        "local": "Dass",
+        "en": "Dass",
+        "slug": "dass-ng005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005006",
+        "level": 2,
+        "name": {
+          "local": "Dass",
+          "en": "Dass",
+          "slug": "dass-ng005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.009",
+      "lon": "9.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005006_durr",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Durr",
+      "en": "Durr",
+      "slug": "durr"
+    },
+    "code": {
+      "id": "NG005006_durr",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005006",
+      "level": 2,
+      "name": {
+        "local": "Dass",
+        "en": "Dass",
+        "slug": "dass-ng005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005006",
+        "level": 2,
+        "name": {
+          "local": "Dass",
+          "en": "Dass",
+          "slug": "dass-ng005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.009",
+      "lon": "9.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005006_polchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Polchi",
+      "en": "Polchi",
+      "slug": "polchi"
+    },
+    "code": {
+      "id": "NG005006_polchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005006",
+      "level": 2,
+      "name": {
+        "local": "Dass",
+        "en": "Dass",
+        "slug": "dass-ng005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005006",
+        "level": 2,
+        "name": {
+          "local": "Dass",
+          "en": "Dass",
+          "slug": "dass-ng005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.009",
+      "lon": "9.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005006_wandi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wandi",
+      "en": "Wandi",
+      "slug": "wandi"
+    },
+    "code": {
+      "id": "NG005006_wandi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005006",
+      "level": 2,
+      "name": {
+        "local": "Dass",
+        "en": "Dass",
+        "slug": "dass-ng005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005006",
+        "level": 2,
+        "name": {
+          "local": "Dass",
+          "en": "Dass",
+          "slug": "dass-ng005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.009",
+      "lon": "9.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005006_zumbullukshi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zumbul/lukshi",
+      "en": "Zumbul/lukshi",
+      "slug": "zumbullukshi"
+    },
+    "code": {
+      "id": "NG005006_zumbullukshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005006",
+      "level": 2,
+      "name": {
+        "local": "Dass",
+        "en": "Dass",
+        "slug": "dass-ng005006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005006",
+        "level": 2,
+        "name": {
+          "local": "Dass",
+          "en": "Dass",
+          "slug": "dass-ng005006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.009",
+      "lon": "9.475"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

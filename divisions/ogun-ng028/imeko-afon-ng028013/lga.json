@@ -1,0 +1,47 @@
+{
+  "id": "NG028013",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Imeko-Afon",
+    "en": "Imeko-Afon",
+    "slug": "imeko-afon-ng028013"
+  },
+  "code": {
+    "id": "NG028013",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG028",
+    "level": 1,
+    "name": {
+      "local": "Ogun",
+      "en": "Ogun",
+      "slug": "ogun-ng028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.633",
+    "lon": "2.858"
+  },
+  "metadata": {},
+  "source": {}
+}

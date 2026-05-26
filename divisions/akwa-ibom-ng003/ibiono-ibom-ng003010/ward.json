@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG003010_ibiono-central-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibiono Central 1",
+      "en": "Ibiono Central 1",
+      "slug": "ibiono-central-1"
+    },
+    "code": {
+      "id": "NG003010_ibiono-central-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003010",
+      "level": 2,
+      "name": {
+        "local": "Ibiono Ibom",
+        "en": "Ibiono Ibom",
+        "slug": "ibiono-ibom-ng003010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003010",
+        "level": 2,
+        "name": {
+          "local": "Ibiono Ibom",
+          "en": "Ibiono Ibom",
+          "slug": "ibiono-ibom-ng003010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003010_ibiono-central-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibiono Central 11",
+      "en": "Ibiono Central 11",
+      "slug": "ibiono-central-11"
+    },
+    "code": {
+      "id": "NG003010_ibiono-central-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003010",
+      "level": 2,
+      "name": {
+        "local": "Ibiono Ibom",
+        "en": "Ibiono Ibom",
+        "slug": "ibiono-ibom-ng003010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003010",
+        "level": 2,
+        "name": {
+          "local": "Ibiono Ibom",
+          "en": "Ibiono Ibom",
+          "slug": "ibiono-ibom-ng003010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003010_ibiono-eastern-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibiono Eastern 1",
+      "en": "Ibiono Eastern 1",
+      "slug": "ibiono-eastern-1"
+    },
+    "code": {
+      "id": "NG003010_ibiono-eastern-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003010",
+      "level": 2,
+      "name": {
+        "local": "Ibiono Ibom",
+        "en": "Ibiono Ibom",
+        "slug": "ibiono-ibom-ng003010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003010",
+        "level": 2,
+        "name": {
+          "local": "Ibiono Ibom",
+          "en": "Ibiono Ibom",
+          "slug": "ibiono-ibom-ng003010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003010_ibiono-eastern-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibiono Eastern 11",
+      "en": "Ibiono Eastern 11",
+      "slug": "ibiono-eastern-11"
+    },
+    "code": {
+      "id": "NG003010_ibiono-eastern-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003010",
+      "level": 2,
+      "name": {
+        "local": "Ibiono Ibom",
+        "en": "Ibiono Ibom",
+        "slug": "ibiono-ibom-ng003010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003010",
+        "level": 2,
+        "name": {
+          "local": "Ibiono Ibom",
+          "en": "Ibiono Ibom",
+          "slug": "ibiono-ibom-ng003010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003010_ibiono-northern-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibiono Northern 1",
+      "en": "Ibiono Northern 1",
+      "slug": "ibiono-northern-1"
+    },
+    "code": {
+      "id": "NG003010_ibiono-northern-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003010",
+      "level": 2,
+      "name": {
+        "local": "Ibiono Ibom",
+        "en": "Ibiono Ibom",
+        "slug": "ibiono-ibom-ng003010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003010",
+        "level": 2,
+        "name": {
+          "local": "Ibiono Ibom",
+          "en": "Ibiono Ibom",
+          "slug": "ibiono-ibom-ng003010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003010_ibiono-northern-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibiono Northern 11",
+      "en": "Ibiono Northern 11",
+      "slug": "ibiono-northern-11"
+    },
+    "code": {
+      "id": "NG003010_ibiono-northern-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003010",
+      "level": 2,
+      "name": {
+        "local": "Ibiono Ibom",
+        "en": "Ibiono Ibom",
+        "slug": "ibiono-ibom-ng003010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003010",
+        "level": 2,
+        "name": {
+          "local": "Ibiono Ibom",
+          "en": "Ibiono Ibom",
+          "slug": "ibiono-ibom-ng003010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003010_ibiono-southern-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibiono Southern 1",
+      "en": "Ibiono Southern 1",
+      "slug": "ibiono-southern-1"
+    },
+    "code": {
+      "id": "NG003010_ibiono-southern-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003010",
+      "level": 2,
+      "name": {
+        "local": "Ibiono Ibom",
+        "en": "Ibiono Ibom",
+        "slug": "ibiono-ibom-ng003010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003010",
+        "level": 2,
+        "name": {
+          "local": "Ibiono Ibom",
+          "en": "Ibiono Ibom",
+          "slug": "ibiono-ibom-ng003010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003010_ibiono-southern-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibiono Southern 11",
+      "en": "Ibiono Southern 11",
+      "slug": "ibiono-southern-11"
+    },
+    "code": {
+      "id": "NG003010_ibiono-southern-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003010",
+      "level": 2,
+      "name": {
+        "local": "Ibiono Ibom",
+        "en": "Ibiono Ibom",
+        "slug": "ibiono-ibom-ng003010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003010",
+        "level": 2,
+        "name": {
+          "local": "Ibiono Ibom",
+          "en": "Ibiono Ibom",
+          "slug": "ibiono-ibom-ng003010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003010_ibiono-western-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibiono Western 1",
+      "en": "Ibiono Western 1",
+      "slug": "ibiono-western-1"
+    },
+    "code": {
+      "id": "NG003010_ibiono-western-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003010",
+      "level": 2,
+      "name": {
+        "local": "Ibiono Ibom",
+        "en": "Ibiono Ibom",
+        "slug": "ibiono-ibom-ng003010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003010",
+        "level": 2,
+        "name": {
+          "local": "Ibiono Ibom",
+          "en": "Ibiono Ibom",
+          "slug": "ibiono-ibom-ng003010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003010_ibiono-western-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibiono Western 11",
+      "en": "Ibiono Western 11",
+      "slug": "ibiono-western-11"
+    },
+    "code": {
+      "id": "NG003010_ibiono-western-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003010",
+      "level": 2,
+      "name": {
+        "local": "Ibiono Ibom",
+        "en": "Ibiono Ibom",
+        "slug": "ibiono-ibom-ng003010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003010",
+        "level": 2,
+        "name": {
+          "local": "Ibiono Ibom",
+          "en": "Ibiono Ibom",
+          "slug": "ibiono-ibom-ng003010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003010_ikpanya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikpanya",
+      "en": "Ikpanya",
+      "slug": "ikpanya"
+    },
+    "code": {
+      "id": "NG003010_ikpanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003010",
+      "level": 2,
+      "name": {
+        "local": "Ibiono Ibom",
+        "en": "Ibiono Ibom",
+        "slug": "ibiono-ibom-ng003010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003010",
+        "level": 2,
+        "name": {
+          "local": "Ibiono Ibom",
+          "en": "Ibiono Ibom",
+          "slug": "ibiono-ibom-ng003010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.2",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021016_bugaje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bugaje",
+      "en": "Bugaje",
+      "slug": "bugaje"
+    },
+    "code": {
+      "id": "NG021016_bugaje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021016",
+      "level": 2,
+      "name": {
+        "local": "Jibia",
+        "en": "Jibia",
+        "slug": "jibia-ng021016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021016",
+        "level": 2,
+        "name": {
+          "local": "Jibia",
+          "en": "Jibia",
+          "slug": "jibia-ng021016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.005",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021016_farfaru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Farfaru",
+      "en": "Farfaru",
+      "slug": "farfaru"
+    },
+    "code": {
+      "id": "NG021016_farfaru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021016",
+      "level": 2,
+      "name": {
+        "local": "Jibia",
+        "en": "Jibia",
+        "slug": "jibia-ng021016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021016",
+        "level": 2,
+        "name": {
+          "local": "Jibia",
+          "en": "Jibia",
+          "slug": "jibia-ng021016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.005",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021016_faru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Faru",
+      "en": "Faru",
+      "slug": "faru"
+    },
+    "code": {
+      "id": "NG021016_faru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021016",
+      "level": 2,
+      "name": {
+        "local": "Jibia",
+        "en": "Jibia",
+        "slug": "jibia-ng021016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021016",
+        "level": 2,
+        "name": {
+          "local": "Jibia",
+          "en": "Jibia",
+          "slug": "jibia-ng021016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.005",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021016_gbauremallamawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "G/baure/mallamawa",
+      "en": "G/baure/mallamawa",
+      "slug": "gbauremallamawa"
+    },
+    "code": {
+      "id": "NG021016_gbauremallamawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021016",
+      "level": 2,
+      "name": {
+        "local": "Jibia",
+        "en": "Jibia",
+        "slug": "jibia-ng021016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021016",
+        "level": 2,
+        "name": {
+          "local": "Jibia",
+          "en": "Jibia",
+          "slug": "jibia-ng021016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.005",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021016_gangara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gangara",
+      "en": "Gangara",
+      "slug": "gangara"
+    },
+    "code": {
+      "id": "NG021016_gangara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021016",
+      "level": 2,
+      "name": {
+        "local": "Jibia",
+        "en": "Jibia",
+        "slug": "jibia-ng021016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021016",
+        "level": 2,
+        "name": {
+          "local": "Jibia",
+          "en": "Jibia",
+          "slug": "jibia-ng021016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.005",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021016_jibia-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jibia A",
+      "en": "Jibia A",
+      "slug": "jibia-a"
+    },
+    "code": {
+      "id": "NG021016_jibia-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021016",
+      "level": 2,
+      "name": {
+        "local": "Jibia",
+        "en": "Jibia",
+        "slug": "jibia-ng021016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021016",
+        "level": 2,
+        "name": {
+          "local": "Jibia",
+          "en": "Jibia",
+          "slug": "jibia-ng021016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.005",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021016_jibia-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jibia B",
+      "en": "Jibia B",
+      "slug": "jibia-b"
+    },
+    "code": {
+      "id": "NG021016_jibia-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021016",
+      "level": 2,
+      "name": {
+        "local": "Jibia",
+        "en": "Jibia",
+        "slug": "jibia-ng021016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021016",
+        "level": 2,
+        "name": {
+          "local": "Jibia",
+          "en": "Jibia",
+          "slug": "jibia-ng021016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.005",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021016_kusa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kusa",
+      "en": "Kusa",
+      "slug": "kusa"
+    },
+    "code": {
+      "id": "NG021016_kusa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021016",
+      "level": 2,
+      "name": {
+        "local": "Jibia",
+        "en": "Jibia",
+        "slug": "jibia-ng021016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021016",
+        "level": 2,
+        "name": {
+          "local": "Jibia",
+          "en": "Jibia",
+          "slug": "jibia-ng021016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.005",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021016_mazanyamagama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mazanya/magama",
+      "en": "Mazanya/magama",
+      "slug": "mazanyamagama"
+    },
+    "code": {
+      "id": "NG021016_mazanyamagama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021016",
+      "level": 2,
+      "name": {
+        "local": "Jibia",
+        "en": "Jibia",
+        "slug": "jibia-ng021016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021016",
+        "level": 2,
+        "name": {
+          "local": "Jibia",
+          "en": "Jibia",
+          "slug": "jibia-ng021016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.005",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021016_riko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Riko",
+      "en": "Riko",
+      "slug": "riko"
+    },
+    "code": {
+      "id": "NG021016_riko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021016",
+      "level": 2,
+      "name": {
+        "local": "Jibia",
+        "en": "Jibia",
+        "slug": "jibia-ng021016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021016",
+        "level": 2,
+        "name": {
+          "local": "Jibia",
+          "en": "Jibia",
+          "slug": "jibia-ng021016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.005",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021016_yangaiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yangaiya",
+      "en": "Yangaiya",
+      "slug": "yangaiya"
+    },
+    "code": {
+      "id": "NG021016_yangaiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021016",
+      "level": 2,
+      "name": {
+        "local": "Jibia",
+        "en": "Jibia",
+        "slug": "jibia-ng021016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021016",
+        "level": 2,
+        "name": {
+          "local": "Jibia",
+          "en": "Jibia",
+          "slug": "jibia-ng021016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.005",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

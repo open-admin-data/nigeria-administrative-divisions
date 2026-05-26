@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020019_getso",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Getso",
+      "en": "Getso",
+      "slug": "getso"
+    },
+    "code": {
+      "id": "NG020019_getso",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020019",
+      "level": 2,
+      "name": {
+        "local": "Gwarzo",
+        "en": "Gwarzo",
+        "slug": "gwarzo-ng020019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020019",
+        "level": 2,
+        "name": {
+          "local": "Gwarzo",
+          "en": "Gwarzo",
+          "slug": "gwarzo-ng020019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.903",
+      "lon": "7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020019_gwarzo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwarzo",
+      "en": "Gwarzo",
+      "slug": "gwarzo"
+    },
+    "code": {
+      "id": "NG020019_gwarzo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020019",
+      "level": 2,
+      "name": {
+        "local": "Gwarzo",
+        "en": "Gwarzo",
+        "slug": "gwarzo-ng020019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020019",
+        "level": 2,
+        "name": {
+          "local": "Gwarzo",
+          "en": "Gwarzo",
+          "slug": "gwarzo-ng020019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.903",
+      "lon": "7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020019_jama-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jama' A",
+      "en": "Jama' A",
+      "slug": "jama-a"
+    },
+    "code": {
+      "id": "NG020019_jama-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020019",
+      "level": 2,
+      "name": {
+        "local": "Gwarzo",
+        "en": "Gwarzo",
+        "slug": "gwarzo-ng020019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020019",
+        "level": 2,
+        "name": {
+          "local": "Gwarzo",
+          "en": "Gwarzo",
+          "slug": "gwarzo-ng020019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.903",
+      "lon": "7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020019_kara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kara",
+      "en": "Kara",
+      "slug": "kara"
+    },
+    "code": {
+      "id": "NG020019_kara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020019",
+      "level": 2,
+      "name": {
+        "local": "Gwarzo",
+        "en": "Gwarzo",
+        "slug": "gwarzo-ng020019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020019",
+        "level": 2,
+        "name": {
+          "local": "Gwarzo",
+          "en": "Gwarzo",
+          "slug": "gwarzo-ng020019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.903",
+      "lon": "7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020019_kutama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kutama",
+      "en": "Kutama",
+      "slug": "kutama"
+    },
+    "code": {
+      "id": "NG020019_kutama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020019",
+      "level": 2,
+      "name": {
+        "local": "Gwarzo",
+        "en": "Gwarzo",
+        "slug": "gwarzo-ng020019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020019",
+        "level": 2,
+        "name": {
+          "local": "Gwarzo",
+          "en": "Gwarzo",
+          "slug": "gwarzo-ng020019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.903",
+      "lon": "7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020019_lakwaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lakwaya",
+      "en": "Lakwaya",
+      "slug": "lakwaya"
+    },
+    "code": {
+      "id": "NG020019_lakwaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020019",
+      "level": 2,
+      "name": {
+        "local": "Gwarzo",
+        "en": "Gwarzo",
+        "slug": "gwarzo-ng020019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020019",
+        "level": 2,
+        "name": {
+          "local": "Gwarzo",
+          "en": "Gwarzo",
+          "slug": "gwarzo-ng020019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.903",
+      "lon": "7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020019_madadi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madadi",
+      "en": "Madadi",
+      "slug": "madadi"
+    },
+    "code": {
+      "id": "NG020019_madadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020019",
+      "level": 2,
+      "name": {
+        "local": "Gwarzo",
+        "en": "Gwarzo",
+        "slug": "gwarzo-ng020019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020019",
+        "level": 2,
+        "name": {
+          "local": "Gwarzo",
+          "en": "Gwarzo",
+          "slug": "gwarzo-ng020019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.903",
+      "lon": "7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020019_mainika",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mainika",
+      "en": "Mainika",
+      "slug": "mainika"
+    },
+    "code": {
+      "id": "NG020019_mainika",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020019",
+      "level": 2,
+      "name": {
+        "local": "Gwarzo",
+        "en": "Gwarzo",
+        "slug": "gwarzo-ng020019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020019",
+        "level": 2,
+        "name": {
+          "local": "Gwarzo",
+          "en": "Gwarzo",
+          "slug": "gwarzo-ng020019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.903",
+      "lon": "7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020019_sabon-birni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Birni",
+      "en": "Sabon Birni",
+      "slug": "sabon-birni"
+    },
+    "code": {
+      "id": "NG020019_sabon-birni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020019",
+      "level": 2,
+      "name": {
+        "local": "Gwarzo",
+        "en": "Gwarzo",
+        "slug": "gwarzo-ng020019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020019",
+        "level": 2,
+        "name": {
+          "local": "Gwarzo",
+          "en": "Gwarzo",
+          "slug": "gwarzo-ng020019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.903",
+      "lon": "7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020019_unguwar-tudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Tudu",
+      "en": "Unguwar Tudu",
+      "slug": "unguwar-tudu"
+    },
+    "code": {
+      "id": "NG020019_unguwar-tudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020019",
+      "level": 2,
+      "name": {
+        "local": "Gwarzo",
+        "en": "Gwarzo",
+        "slug": "gwarzo-ng020019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020019",
+        "level": 2,
+        "name": {
+          "local": "Gwarzo",
+          "en": "Gwarzo",
+          "slug": "gwarzo-ng020019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.903",
+      "lon": "7.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

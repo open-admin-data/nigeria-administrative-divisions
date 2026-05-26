@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG010004_bulou---ndoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bulou - Ndoro",
+      "en": "Bulou - Ndoro",
+      "slug": "bulou---ndoro"
+    },
+    "code": {
+      "id": "NG010004_bulou---ndoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010004",
+      "level": 2,
+      "name": {
+        "local": "Burutu",
+        "en": "Burutu",
+        "slug": "burutu-ng010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010004",
+        "level": 2,
+        "name": {
+          "local": "Burutu",
+          "en": "Burutu",
+          "slug": "burutu-ng010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "5.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010004_ngbilebiri-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngbilebiri I",
+      "en": "Ngbilebiri I",
+      "slug": "ngbilebiri-i"
+    },
+    "code": {
+      "id": "NG010004_ngbilebiri-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010004",
+      "level": 2,
+      "name": {
+        "local": "Burutu",
+        "en": "Burutu",
+        "slug": "burutu-ng010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010004",
+        "level": 2,
+        "name": {
+          "local": "Burutu",
+          "en": "Burutu",
+          "slug": "burutu-ng010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "5.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010004_ngbilebiri-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngbilebiri Ii",
+      "en": "Ngbilebiri Ii",
+      "slug": "ngbilebiri-ii"
+    },
+    "code": {
+      "id": "NG010004_ngbilebiri-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010004",
+      "level": 2,
+      "name": {
+        "local": "Burutu",
+        "en": "Burutu",
+        "slug": "burutu-ng010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010004",
+        "level": 2,
+        "name": {
+          "local": "Burutu",
+          "en": "Burutu",
+          "slug": "burutu-ng010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "5.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010004_obotebe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obotebe",
+      "en": "Obotebe",
+      "slug": "obotebe"
+    },
+    "code": {
+      "id": "NG010004_obotebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010004",
+      "level": 2,
+      "name": {
+        "local": "Burutu",
+        "en": "Burutu",
+        "slug": "burutu-ng010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010004",
+        "level": 2,
+        "name": {
+          "local": "Burutu",
+          "en": "Burutu",
+          "slug": "burutu-ng010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "5.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010004_ogbolubiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbolubiri",
+      "en": "Ogbolubiri",
+      "slug": "ogbolubiri"
+    },
+    "code": {
+      "id": "NG010004_ogbolubiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010004",
+      "level": 2,
+      "name": {
+        "local": "Burutu",
+        "en": "Burutu",
+        "slug": "burutu-ng010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010004",
+        "level": 2,
+        "name": {
+          "local": "Burutu",
+          "en": "Burutu",
+          "slug": "burutu-ng010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "5.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010004_ogulagha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogulagha",
+      "en": "Ogulagha",
+      "slug": "ogulagha"
+    },
+    "code": {
+      "id": "NG010004_ogulagha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010004",
+      "level": 2,
+      "name": {
+        "local": "Burutu",
+        "en": "Burutu",
+        "slug": "burutu-ng010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010004",
+        "level": 2,
+        "name": {
+          "local": "Burutu",
+          "en": "Burutu",
+          "slug": "burutu-ng010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "5.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010004_ojobo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojobo",
+      "en": "Ojobo",
+      "slug": "ojobo"
+    },
+    "code": {
+      "id": "NG010004_ojobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010004",
+      "level": 2,
+      "name": {
+        "local": "Burutu",
+        "en": "Burutu",
+        "slug": "burutu-ng010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010004",
+        "level": 2,
+        "name": {
+          "local": "Burutu",
+          "en": "Burutu",
+          "slug": "burutu-ng010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "5.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010004_seimbiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Seimbiri",
+      "en": "Seimbiri",
+      "slug": "seimbiri"
+    },
+    "code": {
+      "id": "NG010004_seimbiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010004",
+      "level": 2,
+      "name": {
+        "local": "Burutu",
+        "en": "Burutu",
+        "slug": "burutu-ng010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010004",
+        "level": 2,
+        "name": {
+          "local": "Burutu",
+          "en": "Burutu",
+          "slug": "burutu-ng010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "5.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010004_tamigbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tamigbe",
+      "en": "Tamigbe",
+      "slug": "tamigbe"
+    },
+    "code": {
+      "id": "NG010004_tamigbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010004",
+      "level": 2,
+      "name": {
+        "local": "Burutu",
+        "en": "Burutu",
+        "slug": "burutu-ng010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010004",
+        "level": 2,
+        "name": {
+          "local": "Burutu",
+          "en": "Burutu",
+          "slug": "burutu-ng010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "5.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010004_torugbene",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Torugbene",
+      "en": "Torugbene",
+      "slug": "torugbene"
+    },
+    "code": {
+      "id": "NG010004_torugbene",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010004",
+      "level": 2,
+      "name": {
+        "local": "Burutu",
+        "en": "Burutu",
+        "slug": "burutu-ng010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010004",
+        "level": 2,
+        "name": {
+          "local": "Burutu",
+          "en": "Burutu",
+          "slug": "burutu-ng010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "5.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010004_tuomo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tuomo",
+      "en": "Tuomo",
+      "slug": "tuomo"
+    },
+    "code": {
+      "id": "NG010004_tuomo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010004",
+      "level": 2,
+      "name": {
+        "local": "Burutu",
+        "en": "Burutu",
+        "slug": "burutu-ng010004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010004",
+        "level": 2,
+        "name": {
+          "local": "Burutu",
+          "en": "Burutu",
+          "slug": "burutu-ng010004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "5.571"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

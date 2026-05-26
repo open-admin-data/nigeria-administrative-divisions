@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG033018_kalio",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kalio",
+      "en": "Kalio",
+      "slug": "kalio"
+    },
+    "code": {
+      "id": "NG033018_kalio",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033018",
+      "level": 2,
+      "name": {
+        "local": "Okrika",
+        "en": "Okrika",
+        "slug": "okrika-ng033018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033018",
+        "level": 2,
+        "name": {
+          "local": "Okrika",
+          "en": "Okrika",
+          "slug": "okrika-ng033018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033018_ogan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogan",
+      "en": "Ogan",
+      "slug": "ogan"
+    },
+    "code": {
+      "id": "NG033018_ogan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033018",
+      "level": 2,
+      "name": {
+        "local": "Okrika",
+        "en": "Okrika",
+        "slug": "okrika-ng033018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033018",
+        "level": 2,
+        "name": {
+          "local": "Okrika",
+          "en": "Okrika",
+          "slug": "okrika-ng033018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033018_ogoloma-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogoloma I",
+      "en": "Ogoloma I",
+      "slug": "ogoloma-i"
+    },
+    "code": {
+      "id": "NG033018_ogoloma-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033018",
+      "level": 2,
+      "name": {
+        "local": "Okrika",
+        "en": "Okrika",
+        "slug": "okrika-ng033018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033018",
+        "level": 2,
+        "name": {
+          "local": "Okrika",
+          "en": "Okrika",
+          "slug": "okrika-ng033018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033018_ogoloma-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogoloma Ii",
+      "en": "Ogoloma Ii",
+      "slug": "ogoloma-ii"
+    },
+    "code": {
+      "id": "NG033018_ogoloma-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033018",
+      "level": 2,
+      "name": {
+        "local": "Okrika",
+        "en": "Okrika",
+        "slug": "okrika-ng033018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033018",
+        "level": 2,
+        "name": {
+          "local": "Okrika",
+          "en": "Okrika",
+          "slug": "okrika-ng033018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033018_ogoloma-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogoloma Iii",
+      "en": "Ogoloma Iii",
+      "slug": "ogoloma-iii"
+    },
+    "code": {
+      "id": "NG033018_ogoloma-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033018",
+      "level": 2,
+      "name": {
+        "local": "Okrika",
+        "en": "Okrika",
+        "slug": "okrika-ng033018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033018",
+        "level": 2,
+        "name": {
+          "local": "Okrika",
+          "en": "Okrika",
+          "slug": "okrika-ng033018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033018_okrika-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okrika I",
+      "en": "Okrika I",
+      "slug": "okrika-i"
+    },
+    "code": {
+      "id": "NG033018_okrika-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033018",
+      "level": 2,
+      "name": {
+        "local": "Okrika",
+        "en": "Okrika",
+        "slug": "okrika-ng033018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033018",
+        "level": 2,
+        "name": {
+          "local": "Okrika",
+          "en": "Okrika",
+          "slug": "okrika-ng033018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033018_okrika-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okrika Ii",
+      "en": "Okrika Ii",
+      "slug": "okrika-ii"
+    },
+    "code": {
+      "id": "NG033018_okrika-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033018",
+      "level": 2,
+      "name": {
+        "local": "Okrika",
+        "en": "Okrika",
+        "slug": "okrika-ng033018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033018",
+        "level": 2,
+        "name": {
+          "local": "Okrika",
+          "en": "Okrika",
+          "slug": "okrika-ng033018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033018_okrika-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okrika Iii",
+      "en": "Okrika Iii",
+      "slug": "okrika-iii"
+    },
+    "code": {
+      "id": "NG033018_okrika-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033018",
+      "level": 2,
+      "name": {
+        "local": "Okrika",
+        "en": "Okrika",
+        "slug": "okrika-ng033018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033018",
+        "level": 2,
+        "name": {
+          "local": "Okrika",
+          "en": "Okrika",
+          "slug": "okrika-ng033018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033018_okrika-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okrika Iv",
+      "en": "Okrika Iv",
+      "slug": "okrika-iv"
+    },
+    "code": {
+      "id": "NG033018_okrika-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033018",
+      "level": 2,
+      "name": {
+        "local": "Okrika",
+        "en": "Okrika",
+        "slug": "okrika-ng033018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033018",
+        "level": 2,
+        "name": {
+          "local": "Okrika",
+          "en": "Okrika",
+          "slug": "okrika-ng033018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033018_okrika-v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okrika V",
+      "en": "Okrika V",
+      "slug": "okrika-v"
+    },
+    "code": {
+      "id": "NG033018_okrika-v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033018",
+      "level": 2,
+      "name": {
+        "local": "Okrika",
+        "en": "Okrika",
+        "slug": "okrika-ng033018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033018",
+        "level": 2,
+        "name": {
+          "local": "Okrika",
+          "en": "Okrika",
+          "slug": "okrika-ng033018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033018_okrika-vi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okrika Vi",
+      "en": "Okrika Vi",
+      "slug": "okrika-vi"
+    },
+    "code": {
+      "id": "NG033018_okrika-vi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033018",
+      "level": 2,
+      "name": {
+        "local": "Okrika",
+        "en": "Okrika",
+        "slug": "okrika-ng033018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033018",
+        "level": 2,
+        "name": {
+          "local": "Okrika",
+          "en": "Okrika",
+          "slug": "okrika-ng033018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033018_okrika-vii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okrika Vii",
+      "en": "Okrika Vii",
+      "slug": "okrika-vii"
+    },
+    "code": {
+      "id": "NG033018_okrika-vii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033018",
+      "level": 2,
+      "name": {
+        "local": "Okrika",
+        "en": "Okrika",
+        "slug": "okrika-ng033018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033018",
+        "level": 2,
+        "name": {
+          "local": "Okrika",
+          "en": "Okrika",
+          "slug": "okrika-ng033018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

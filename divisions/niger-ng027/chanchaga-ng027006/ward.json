@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG027006_limawa-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Limawa 'a'",
+      "en": "Limawa 'a'",
+      "slug": "limawa-a"
+    },
+    "code": {
+      "id": "NG027006_limawa-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027006",
+      "level": 2,
+      "name": {
+        "local": "Chanchaga",
+        "en": "Chanchaga",
+        "slug": "chanchaga-ng027006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027006",
+        "level": 2,
+        "name": {
+          "local": "Chanchaga",
+          "en": "Chanchaga",
+          "slug": "chanchaga-ng027006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "6.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027006_limawa-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Limawa 'b'",
+      "en": "Limawa 'b'",
+      "slug": "limawa-b"
+    },
+    "code": {
+      "id": "NG027006_limawa-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027006",
+      "level": 2,
+      "name": {
+        "local": "Chanchaga",
+        "en": "Chanchaga",
+        "slug": "chanchaga-ng027006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027006",
+        "level": 2,
+        "name": {
+          "local": "Chanchaga",
+          "en": "Chanchaga",
+          "slug": "chanchaga-ng027006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "6.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027006_makera",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makera",
+      "en": "Makera",
+      "slug": "makera"
+    },
+    "code": {
+      "id": "NG027006_makera",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027006",
+      "level": 2,
+      "name": {
+        "local": "Chanchaga",
+        "en": "Chanchaga",
+        "slug": "chanchaga-ng027006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027006",
+        "level": 2,
+        "name": {
+          "local": "Chanchaga",
+          "en": "Chanchaga",
+          "slug": "chanchaga-ng027006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "6.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027006_minna-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Minna Central",
+      "en": "Minna Central",
+      "slug": "minna-central"
+    },
+    "code": {
+      "id": "NG027006_minna-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027006",
+      "level": 2,
+      "name": {
+        "local": "Chanchaga",
+        "en": "Chanchaga",
+        "slug": "chanchaga-ng027006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027006",
+        "level": 2,
+        "name": {
+          "local": "Chanchaga",
+          "en": "Chanchaga",
+          "slug": "chanchaga-ng027006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "6.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027006_minna-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Minna South",
+      "en": "Minna South",
+      "slug": "minna-south"
+    },
+    "code": {
+      "id": "NG027006_minna-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027006",
+      "level": 2,
+      "name": {
+        "local": "Chanchaga",
+        "en": "Chanchaga",
+        "slug": "chanchaga-ng027006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027006",
+        "level": 2,
+        "name": {
+          "local": "Chanchaga",
+          "en": "Chanchaga",
+          "slug": "chanchaga-ng027006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "6.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027006_nassarawa-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nassarawa 'a'",
+      "en": "Nassarawa 'a'",
+      "slug": "nassarawa-a"
+    },
+    "code": {
+      "id": "NG027006_nassarawa-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027006",
+      "level": 2,
+      "name": {
+        "local": "Chanchaga",
+        "en": "Chanchaga",
+        "slug": "chanchaga-ng027006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027006",
+        "level": 2,
+        "name": {
+          "local": "Chanchaga",
+          "en": "Chanchaga",
+          "slug": "chanchaga-ng027006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "6.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027006_nassarawa-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nassarawa 'b'",
+      "en": "Nassarawa 'b'",
+      "slug": "nassarawa-b"
+    },
+    "code": {
+      "id": "NG027006_nassarawa-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027006",
+      "level": 2,
+      "name": {
+        "local": "Chanchaga",
+        "en": "Chanchaga",
+        "slug": "chanchaga-ng027006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027006",
+        "level": 2,
+        "name": {
+          "local": "Chanchaga",
+          "en": "Chanchaga",
+          "slug": "chanchaga-ng027006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "6.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027006_nassarawa-c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nassarawa 'c'",
+      "en": "Nassarawa 'c'",
+      "slug": "nassarawa-c"
+    },
+    "code": {
+      "id": "NG027006_nassarawa-c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027006",
+      "level": 2,
+      "name": {
+        "local": "Chanchaga",
+        "en": "Chanchaga",
+        "slug": "chanchaga-ng027006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027006",
+        "level": 2,
+        "name": {
+          "local": "Chanchaga",
+          "en": "Chanchaga",
+          "slug": "chanchaga-ng027006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "6.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027006_sabon-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Gari",
+      "en": "Sabon Gari",
+      "slug": "sabon-gari"
+    },
+    "code": {
+      "id": "NG027006_sabon-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027006",
+      "level": 2,
+      "name": {
+        "local": "Chanchaga",
+        "en": "Chanchaga",
+        "slug": "chanchaga-ng027006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027006",
+        "level": 2,
+        "name": {
+          "local": "Chanchaga",
+          "en": "Chanchaga",
+          "slug": "chanchaga-ng027006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "6.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027006_tudun-wada-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Wada North",
+      "en": "Tudun Wada North",
+      "slug": "tudun-wada-north"
+    },
+    "code": {
+      "id": "NG027006_tudun-wada-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027006",
+      "level": 2,
+      "name": {
+        "local": "Chanchaga",
+        "en": "Chanchaga",
+        "slug": "chanchaga-ng027006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027006",
+        "level": 2,
+        "name": {
+          "local": "Chanchaga",
+          "en": "Chanchaga",
+          "slug": "chanchaga-ng027006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "6.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027006_tudun-wada-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Wada South",
+      "en": "Tudun Wada South",
+      "slug": "tudun-wada-south"
+    },
+    "code": {
+      "id": "NG027006_tudun-wada-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027006",
+      "level": 2,
+      "name": {
+        "local": "Chanchaga",
+        "en": "Chanchaga",
+        "slug": "chanchaga-ng027006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027006",
+        "level": 2,
+        "name": {
+          "local": "Chanchaga",
+          "en": "Chanchaga",
+          "slug": "chanchaga-ng027006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "6.545"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG020036_gala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gala",
+      "en": "Gala",
+      "slug": "gala"
+    },
+    "code": {
+      "id": "NG020036_gala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020036",
+      "level": 2,
+      "name": {
+        "local": "Sumaila",
+        "en": "Sumaila",
+        "slug": "sumaila-ng020036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020036",
+        "level": 2,
+        "name": {
+          "local": "Sumaila",
+          "en": "Sumaila",
+          "slug": "sumaila-ng020036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.325",
+      "lon": "8.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020036_gani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gani",
+      "en": "Gani",
+      "slug": "gani"
+    },
+    "code": {
+      "id": "NG020036_gani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020036",
+      "level": 2,
+      "name": {
+        "local": "Sumaila",
+        "en": "Sumaila",
+        "slug": "sumaila-ng020036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020036",
+        "level": 2,
+        "name": {
+          "local": "Sumaila",
+          "en": "Sumaila",
+          "slug": "sumaila-ng020036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.325",
+      "lon": "8.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020036_garfa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garfa",
+      "en": "Garfa",
+      "slug": "garfa"
+    },
+    "code": {
+      "id": "NG020036_garfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020036",
+      "level": 2,
+      "name": {
+        "local": "Sumaila",
+        "en": "Sumaila",
+        "slug": "sumaila-ng020036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020036",
+        "level": 2,
+        "name": {
+          "local": "Sumaila",
+          "en": "Sumaila",
+          "slug": "sumaila-ng020036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.325",
+      "lon": "8.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020036_gediya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gediya",
+      "en": "Gediya",
+      "slug": "gediya"
+    },
+    "code": {
+      "id": "NG020036_gediya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020036",
+      "level": 2,
+      "name": {
+        "local": "Sumaila",
+        "en": "Sumaila",
+        "slug": "sumaila-ng020036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020036",
+        "level": 2,
+        "name": {
+          "local": "Sumaila",
+          "en": "Sumaila",
+          "slug": "sumaila-ng020036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.325",
+      "lon": "8.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020036_kanawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanawa",
+      "en": "Kanawa",
+      "slug": "kanawa"
+    },
+    "code": {
+      "id": "NG020036_kanawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020036",
+      "level": 2,
+      "name": {
+        "local": "Sumaila",
+        "en": "Sumaila",
+        "slug": "sumaila-ng020036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020036",
+        "level": 2,
+        "name": {
+          "local": "Sumaila",
+          "en": "Sumaila",
+          "slug": "sumaila-ng020036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.325",
+      "lon": "8.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020036_magami",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magami",
+      "en": "Magami",
+      "slug": "magami"
+    },
+    "code": {
+      "id": "NG020036_magami",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020036",
+      "level": 2,
+      "name": {
+        "local": "Sumaila",
+        "en": "Sumaila",
+        "slug": "sumaila-ng020036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020036",
+        "level": 2,
+        "name": {
+          "local": "Sumaila",
+          "en": "Sumaila",
+          "slug": "sumaila-ng020036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.325",
+      "lon": "8.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020036_masu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Masu",
+      "en": "Masu",
+      "slug": "masu"
+    },
+    "code": {
+      "id": "NG020036_masu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020036",
+      "level": 2,
+      "name": {
+        "local": "Sumaila",
+        "en": "Sumaila",
+        "slug": "sumaila-ng020036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020036",
+        "level": 2,
+        "name": {
+          "local": "Sumaila",
+          "en": "Sumaila",
+          "slug": "sumaila-ng020036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.325",
+      "lon": "8.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020036_rimi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rimi",
+      "en": "Rimi",
+      "slug": "rimi"
+    },
+    "code": {
+      "id": "NG020036_rimi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020036",
+      "level": 2,
+      "name": {
+        "local": "Sumaila",
+        "en": "Sumaila",
+        "slug": "sumaila-ng020036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020036",
+        "level": 2,
+        "name": {
+          "local": "Sumaila",
+          "en": "Sumaila",
+          "slug": "sumaila-ng020036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.325",
+      "lon": "8.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020036_rumo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumo",
+      "en": "Rumo",
+      "slug": "rumo"
+    },
+    "code": {
+      "id": "NG020036_rumo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020036",
+      "level": 2,
+      "name": {
+        "local": "Sumaila",
+        "en": "Sumaila",
+        "slug": "sumaila-ng020036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020036",
+        "level": 2,
+        "name": {
+          "local": "Sumaila",
+          "en": "Sumaila",
+          "slug": "sumaila-ng020036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.325",
+      "lon": "8.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020036_sitti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sitti",
+      "en": "Sitti",
+      "slug": "sitti"
+    },
+    "code": {
+      "id": "NG020036_sitti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020036",
+      "level": 2,
+      "name": {
+        "local": "Sumaila",
+        "en": "Sumaila",
+        "slug": "sumaila-ng020036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020036",
+        "level": 2,
+        "name": {
+          "local": "Sumaila",
+          "en": "Sumaila",
+          "slug": "sumaila-ng020036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.325",
+      "lon": "8.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020036_sumaila",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sumaila",
+      "en": "Sumaila",
+      "slug": "sumaila"
+    },
+    "code": {
+      "id": "NG020036_sumaila",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020036",
+      "level": 2,
+      "name": {
+        "local": "Sumaila",
+        "en": "Sumaila",
+        "slug": "sumaila-ng020036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020036",
+        "level": 2,
+        "name": {
+          "local": "Sumaila",
+          "en": "Sumaila",
+          "slug": "sumaila-ng020036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.325",
+      "lon": "8.961"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

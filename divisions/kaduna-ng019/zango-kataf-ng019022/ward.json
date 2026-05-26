@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG019022_gidan-jatau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gidan Jatau",
+      "en": "Gidan Jatau",
+      "slug": "gidan-jatau"
+    },
+    "code": {
+      "id": "NG019022_gidan-jatau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019022",
+      "level": 2,
+      "name": {
+        "local": "Zango-Kataf",
+        "en": "Zango-Kataf",
+        "slug": "zango-kataf-ng019022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019022",
+        "level": 2,
+        "name": {
+          "local": "Zango-Kataf",
+          "en": "Zango-Kataf",
+          "slug": "zango-kataf-ng019022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.839",
+      "lon": "8.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019022_gora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gora",
+      "en": "Gora",
+      "slug": "gora"
+    },
+    "code": {
+      "id": "NG019022_gora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019022",
+      "level": 2,
+      "name": {
+        "local": "Zango-Kataf",
+        "en": "Zango-Kataf",
+        "slug": "zango-kataf-ng019022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019022",
+        "level": 2,
+        "name": {
+          "local": "Zango-Kataf",
+          "en": "Zango-Kataf",
+          "slug": "zango-kataf-ng019022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.839",
+      "lon": "8.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019022_kamantan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kamantan",
+      "en": "Kamantan",
+      "slug": "kamantan"
+    },
+    "code": {
+      "id": "NG019022_kamantan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019022",
+      "level": 2,
+      "name": {
+        "local": "Zango-Kataf",
+        "en": "Zango-Kataf",
+        "slug": "zango-kataf-ng019022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019022",
+        "level": 2,
+        "name": {
+          "local": "Zango-Kataf",
+          "en": "Zango-Kataf",
+          "slug": "zango-kataf-ng019022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.839",
+      "lon": "8.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019022_kamuru-ikulu-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kamuru Ikulu North",
+      "en": "Kamuru Ikulu North",
+      "slug": "kamuru-ikulu-north"
+    },
+    "code": {
+      "id": "NG019022_kamuru-ikulu-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019022",
+      "level": 2,
+      "name": {
+        "local": "Zango-Kataf",
+        "en": "Zango-Kataf",
+        "slug": "zango-kataf-ng019022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019022",
+        "level": 2,
+        "name": {
+          "local": "Zango-Kataf",
+          "en": "Zango-Kataf",
+          "slug": "zango-kataf-ng019022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.839",
+      "lon": "8.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019022_madakiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madakiya",
+      "en": "Madakiya",
+      "slug": "madakiya"
+    },
+    "code": {
+      "id": "NG019022_madakiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019022",
+      "level": 2,
+      "name": {
+        "local": "Zango-Kataf",
+        "en": "Zango-Kataf",
+        "slug": "zango-kataf-ng019022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019022",
+        "level": 2,
+        "name": {
+          "local": "Zango-Kataf",
+          "en": "Zango-Kataf",
+          "slug": "zango-kataf-ng019022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.839",
+      "lon": "8.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019022_unguwar-gaiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Gaiya",
+      "en": "Unguwar Gaiya",
+      "slug": "unguwar-gaiya"
+    },
+    "code": {
+      "id": "NG019022_unguwar-gaiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019022",
+      "level": 2,
+      "name": {
+        "local": "Zango-Kataf",
+        "en": "Zango-Kataf",
+        "slug": "zango-kataf-ng019022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019022",
+        "level": 2,
+        "name": {
+          "local": "Zango-Kataf",
+          "en": "Zango-Kataf",
+          "slug": "zango-kataf-ng019022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.839",
+      "lon": "8.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019022_unguwar-rimi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Rimi",
+      "en": "Unguwar Rimi",
+      "slug": "unguwar-rimi"
+    },
+    "code": {
+      "id": "NG019022_unguwar-rimi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019022",
+      "level": 2,
+      "name": {
+        "local": "Zango-Kataf",
+        "en": "Zango-Kataf",
+        "slug": "zango-kataf-ng019022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019022",
+        "level": 2,
+        "name": {
+          "local": "Zango-Kataf",
+          "en": "Zango-Kataf",
+          "slug": "zango-kataf-ng019022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.839",
+      "lon": "8.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019022_zaman-dabo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zaman Dabo",
+      "en": "Zaman Dabo",
+      "slug": "zaman-dabo"
+    },
+    "code": {
+      "id": "NG019022_zaman-dabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019022",
+      "level": 2,
+      "name": {
+        "local": "Zango-Kataf",
+        "en": "Zango-Kataf",
+        "slug": "zango-kataf-ng019022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019022",
+        "level": 2,
+        "name": {
+          "local": "Zango-Kataf",
+          "en": "Zango-Kataf",
+          "slug": "zango-kataf-ng019022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.839",
+      "lon": "8.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019022_zango-urban",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zango Urban",
+      "en": "Zango Urban",
+      "slug": "zango-urban"
+    },
+    "code": {
+      "id": "NG019022_zango-urban",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019022",
+      "level": 2,
+      "name": {
+        "local": "Zango-Kataf",
+        "en": "Zango-Kataf",
+        "slug": "zango-kataf-ng019022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019022",
+        "level": 2,
+        "name": {
+          "local": "Zango-Kataf",
+          "en": "Zango-Kataf",
+          "slug": "zango-kataf-ng019022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.839",
+      "lon": "8.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019022_zonkwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zonkwa",
+      "en": "Zonkwa",
+      "slug": "zonkwa"
+    },
+    "code": {
+      "id": "NG019022_zonkwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019022",
+      "level": 2,
+      "name": {
+        "local": "Zango-Kataf",
+        "en": "Zango-Kataf",
+        "slug": "zango-kataf-ng019022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019022",
+        "level": 2,
+        "name": {
+          "local": "Zango-Kataf",
+          "en": "Zango-Kataf",
+          "slug": "zango-kataf-ng019022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.839",
+      "lon": "8.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019022_zonzon",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zonzon",
+      "en": "Zonzon",
+      "slug": "zonzon"
+    },
+    "code": {
+      "id": "NG019022_zonzon",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019022",
+      "level": 2,
+      "name": {
+        "local": "Zango-Kataf",
+        "en": "Zango-Kataf",
+        "slug": "zango-kataf-ng019022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019022",
+        "level": 2,
+        "name": {
+          "local": "Zango-Kataf",
+          "en": "Zango-Kataf",
+          "slug": "zango-kataf-ng019022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.839",
+      "lon": "8.278"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

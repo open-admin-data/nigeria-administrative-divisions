@@ -1,0 +1,47 @@
+{
+  "id": "NG006004",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Nembe",
+    "en": "Nembe",
+    "slug": "nembe-ng006004"
+  },
+  "code": {
+    "id": "NG006004",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG006",
+    "level": 1,
+    "name": {
+      "local": "Bayelsa",
+      "en": "Bayelsa",
+      "slug": "bayelsa-ng006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG006",
+      "level": 1,
+      "name": {
+        "local": "Bayelsa",
+        "en": "Bayelsa",
+        "slug": "bayelsa-ng006"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.544",
+    "lon": "6.381"
+  },
+  "metadata": {},
+  "source": {}
+}

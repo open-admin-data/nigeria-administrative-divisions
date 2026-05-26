@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG034008_araba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Araba",
+      "en": "Araba",
+      "slug": "araba"
+    },
+    "code": {
+      "id": "NG034008_araba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034008",
+      "level": 2,
+      "name": {
+        "local": "Illela",
+        "en": "Illela",
+        "slug": "illela-ng034008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034008",
+        "level": 2,
+        "name": {
+          "local": "Illela",
+          "en": "Illela",
+          "slug": "illela-ng034008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.683",
+      "lon": "5.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034008_damba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damba",
+      "en": "Damba",
+      "slug": "damba"
+    },
+    "code": {
+      "id": "NG034008_damba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034008",
+      "level": 2,
+      "name": {
+        "local": "Illela",
+        "en": "Illela",
+        "slug": "illela-ng034008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034008",
+        "level": 2,
+        "name": {
+          "local": "Illela",
+          "en": "Illela",
+          "slug": "illela-ng034008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.683",
+      "lon": "5.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034008_darna-sabon-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Darna/ Sabon Gari",
+      "en": "Darna/ Sabon Gari",
+      "slug": "darna-sabon-gari"
+    },
+    "code": {
+      "id": "NG034008_darna-sabon-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034008",
+      "level": 2,
+      "name": {
+        "local": "Illela",
+        "en": "Illela",
+        "slug": "illela-ng034008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034008",
+        "level": 2,
+        "name": {
+          "local": "Illela",
+          "en": "Illela",
+          "slug": "illela-ng034008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.683",
+      "lon": "5.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034008_darne-tsolawo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Darne/ Tsolawo",
+      "en": "Darne/ Tsolawo",
+      "slug": "darne-tsolawo"
+    },
+    "code": {
+      "id": "NG034008_darne-tsolawo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034008",
+      "level": 2,
+      "name": {
+        "local": "Illela",
+        "en": "Illela",
+        "slug": "illela-ng034008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034008",
+        "level": 2,
+        "name": {
+          "local": "Illela",
+          "en": "Illela",
+          "slug": "illela-ng034008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.683",
+      "lon": "5.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034008_g-hamma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "G/ Hamma",
+      "en": "G/ Hamma",
+      "slug": "g-hamma"
+    },
+    "code": {
+      "id": "NG034008_g-hamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034008",
+      "level": 2,
+      "name": {
+        "local": "Illela",
+        "en": "Illela",
+        "slug": "illela-ng034008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034008",
+        "level": 2,
+        "name": {
+          "local": "Illela",
+          "en": "Illela",
+          "slug": "illela-ng034008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.683",
+      "lon": "5.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034008_g-katta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "G/ Katta",
+      "en": "G/ Katta",
+      "slug": "g-katta"
+    },
+    "code": {
+      "id": "NG034008_g-katta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034008",
+      "level": 2,
+      "name": {
+        "local": "Illela",
+        "en": "Illela",
+        "slug": "illela-ng034008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034008",
+        "level": 2,
+        "name": {
+          "local": "Illela",
+          "en": "Illela",
+          "slug": "illela-ng034008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.683",
+      "lon": "5.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034008_garu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garu",
+      "en": "Garu",
+      "slug": "garu"
+    },
+    "code": {
+      "id": "NG034008_garu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034008",
+      "level": 2,
+      "name": {
+        "local": "Illela",
+        "en": "Illela",
+        "slug": "illela-ng034008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034008",
+        "level": 2,
+        "name": {
+          "local": "Illela",
+          "en": "Illela",
+          "slug": "illela-ng034008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.683",
+      "lon": "5.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034008_illela",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Illela",
+      "en": "Illela",
+      "slug": "illela"
+    },
+    "code": {
+      "id": "NG034008_illela",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034008",
+      "level": 2,
+      "name": {
+        "local": "Illela",
+        "en": "Illela",
+        "slug": "illela-ng034008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034008",
+        "level": 2,
+        "name": {
+          "local": "Illela",
+          "en": "Illela",
+          "slug": "illela-ng034008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.683",
+      "lon": "5.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034008_kalmalo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kalmalo",
+      "en": "Kalmalo",
+      "slug": "kalmalo"
+    },
+    "code": {
+      "id": "NG034008_kalmalo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034008",
+      "level": 2,
+      "name": {
+        "local": "Illela",
+        "en": "Illela",
+        "slug": "illela-ng034008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034008",
+        "level": 2,
+        "name": {
+          "local": "Illela",
+          "en": "Illela",
+          "slug": "illela-ng034008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.683",
+      "lon": "5.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034008_r-gati",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "R. Gati",
+      "en": "R. Gati",
+      "slug": "r-gati"
+    },
+    "code": {
+      "id": "NG034008_r-gati",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034008",
+      "level": 2,
+      "name": {
+        "local": "Illela",
+        "en": "Illela",
+        "slug": "illela-ng034008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034008",
+        "level": 2,
+        "name": {
+          "local": "Illela",
+          "en": "Illela",
+          "slug": "illela-ng034008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.683",
+      "lon": "5.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034008_tozai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tozai",
+      "en": "Tozai",
+      "slug": "tozai"
+    },
+    "code": {
+      "id": "NG034008_tozai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034008",
+      "level": 2,
+      "name": {
+        "local": "Illela",
+        "en": "Illela",
+        "slug": "illela-ng034008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034008",
+        "level": 2,
+        "name": {
+          "local": "Illela",
+          "en": "Illela",
+          "slug": "illela-ng034008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.683",
+      "lon": "5.305"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG002017_bakta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakta",
+      "en": "Bakta",
+      "slug": "bakta"
+    },
+    "code": {
+      "id": "NG002017_bakta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002017",
+      "level": 2,
+      "name": {
+        "local": "Shelleng",
+        "en": "Shelleng",
+        "slug": "shelleng-ng002017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002017",
+        "level": 2,
+        "name": {
+          "local": "Shelleng",
+          "en": "Shelleng",
+          "slug": "shelleng-ng002017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.868",
+      "lon": "12.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002017_bodwai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bodwai",
+      "en": "Bodwai",
+      "slug": "bodwai"
+    },
+    "code": {
+      "id": "NG002017_bodwai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002017",
+      "level": 2,
+      "name": {
+        "local": "Shelleng",
+        "en": "Shelleng",
+        "slug": "shelleng-ng002017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002017",
+        "level": 2,
+        "name": {
+          "local": "Shelleng",
+          "en": "Shelleng",
+          "slug": "shelleng-ng002017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.996",
+      "lon": "12.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002017_gundo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gundo",
+      "en": "Gundo",
+      "slug": "gundo"
+    },
+    "code": {
+      "id": "NG002017_gundo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002017",
+      "level": 2,
+      "name": {
+        "local": "Shelleng",
+        "en": "Shelleng",
+        "slug": "shelleng-ng002017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002017",
+        "level": 2,
+        "name": {
+          "local": "Shelleng",
+          "en": "Shelleng",
+          "slug": "shelleng-ng002017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.704",
+      "lon": "12.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002017_gwapopolok",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwapopolok",
+      "en": "Gwapopolok",
+      "slug": "gwapopolok"
+    },
+    "code": {
+      "id": "NG002017_gwapopolok",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002017",
+      "level": 2,
+      "name": {
+        "local": "Shelleng",
+        "en": "Shelleng",
+        "slug": "shelleng-ng002017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002017",
+        "level": 2,
+        "name": {
+          "local": "Shelleng",
+          "en": "Shelleng",
+          "slug": "shelleng-ng002017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.127",
+      "lon": "12.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002017_jumbul",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jumbul",
+      "en": "Jumbul",
+      "slug": "jumbul"
+    },
+    "code": {
+      "id": "NG002017_jumbul",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002017",
+      "level": 2,
+      "name": {
+        "local": "Shelleng",
+        "en": "Shelleng",
+        "slug": "shelleng-ng002017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002017",
+        "level": 2,
+        "name": {
+          "local": "Shelleng",
+          "en": "Shelleng",
+          "slug": "shelleng-ng002017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.85",
+      "lon": "12.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002017_ketembere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ketembere",
+      "en": "Ketembere",
+      "slug": "ketembere"
+    },
+    "code": {
+      "id": "NG002017_ketembere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002017",
+      "level": 2,
+      "name": {
+        "local": "Shelleng",
+        "en": "Shelleng",
+        "slug": "shelleng-ng002017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002017",
+        "level": 2,
+        "name": {
+          "local": "Shelleng",
+          "en": "Shelleng",
+          "slug": "shelleng-ng002017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.983",
+      "lon": "12.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002017_kiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kiri",
+      "en": "Kiri",
+      "slug": "kiri"
+    },
+    "code": {
+      "id": "NG002017_kiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002017",
+      "level": 2,
+      "name": {
+        "local": "Shelleng",
+        "en": "Shelleng",
+        "slug": "shelleng-ng002017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002017",
+        "level": 2,
+        "name": {
+          "local": "Shelleng",
+          "en": "Shelleng",
+          "slug": "shelleng-ng002017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.687",
+      "lon": "11.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002017_libbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Libbo",
+      "en": "Libbo",
+      "slug": "libbo"
+    },
+    "code": {
+      "id": "NG002017_libbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002017",
+      "level": 2,
+      "name": {
+        "local": "Shelleng",
+        "en": "Shelleng",
+        "slug": "shelleng-ng002017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002017",
+        "level": 2,
+        "name": {
+          "local": "Shelleng",
+          "en": "Shelleng",
+          "slug": "shelleng-ng002017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.719",
+      "lon": "12.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002017_shelleng",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shelleng",
+      "en": "Shelleng",
+      "slug": "shelleng"
+    },
+    "code": {
+      "id": "NG002017_shelleng",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002017",
+      "level": 2,
+      "name": {
+        "local": "Shelleng",
+        "en": "Shelleng",
+        "slug": "shelleng-ng002017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002017",
+        "level": 2,
+        "name": {
+          "local": "Shelleng",
+          "en": "Shelleng",
+          "slug": "shelleng-ng002017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.908",
+      "lon": "12.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002017_tallum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tallum",
+      "en": "Tallum",
+      "slug": "tallum"
+    },
+    "code": {
+      "id": "NG002017_tallum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002017",
+      "level": 2,
+      "name": {
+        "local": "Shelleng",
+        "en": "Shelleng",
+        "slug": "shelleng-ng002017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002017",
+        "level": 2,
+        "name": {
+          "local": "Shelleng",
+          "en": "Shelleng",
+          "slug": "shelleng-ng002017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.903",
+      "lon": "12.106"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

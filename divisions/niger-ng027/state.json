@@ -1,0 +1,30 @@
+{
+  "id": "NG027",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Niger",
+    "en": "Niger",
+    "slug": "niger-ng027"
+  },
+  "code": {
+    "id": "NG027",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 25,
+    "ward": 274
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.774",
+    "lon": "5.711"
+  },
+  "metadata": {},
+  "source": {}
+}

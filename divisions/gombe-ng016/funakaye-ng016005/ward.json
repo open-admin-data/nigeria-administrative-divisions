@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG016005_ashaka-magaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ashaka / Magaba",
+      "en": "Ashaka / Magaba",
+      "slug": "ashaka-magaba"
+    },
+    "code": {
+      "id": "NG016005_ashaka-magaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016005",
+      "level": 2,
+      "name": {
+        "local": "Funakaye",
+        "en": "Funakaye",
+        "slug": "funakaye-ng016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016005",
+        "level": 2,
+        "name": {
+          "local": "Funakaye",
+          "en": "Funakaye",
+          "slug": "funakaye-ng016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016005_bage",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bage",
+      "en": "Bage",
+      "slug": "bage"
+    },
+    "code": {
+      "id": "NG016005_bage",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016005",
+      "level": 2,
+      "name": {
+        "local": "Funakaye",
+        "en": "Funakaye",
+        "slug": "funakaye-ng016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016005",
+        "level": 2,
+        "name": {
+          "local": "Funakaye",
+          "en": "Funakaye",
+          "slug": "funakaye-ng016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016005_bajoga-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bajoga East",
+      "en": "Bajoga East",
+      "slug": "bajoga-east"
+    },
+    "code": {
+      "id": "NG016005_bajoga-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016005",
+      "level": 2,
+      "name": {
+        "local": "Funakaye",
+        "en": "Funakaye",
+        "slug": "funakaye-ng016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016005",
+        "level": 2,
+        "name": {
+          "local": "Funakaye",
+          "en": "Funakaye",
+          "slug": "funakaye-ng016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016005_bajoga-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bajoga West",
+      "en": "Bajoga West",
+      "slug": "bajoga-west"
+    },
+    "code": {
+      "id": "NG016005_bajoga-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016005",
+      "level": 2,
+      "name": {
+        "local": "Funakaye",
+        "en": "Funakaye",
+        "slug": "funakaye-ng016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016005",
+        "level": 2,
+        "name": {
+          "local": "Funakaye",
+          "en": "Funakaye",
+          "slug": "funakaye-ng016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016005_bodor-tilde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bodor / Tilde",
+      "en": "Bodor / Tilde",
+      "slug": "bodor-tilde"
+    },
+    "code": {
+      "id": "NG016005_bodor-tilde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016005",
+      "level": 2,
+      "name": {
+        "local": "Funakaye",
+        "en": "Funakaye",
+        "slug": "funakaye-ng016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016005",
+        "level": 2,
+        "name": {
+          "local": "Funakaye",
+          "en": "Funakaye",
+          "slug": "funakaye-ng016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016005_jillahi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jillahi",
+      "en": "Jillahi",
+      "slug": "jillahi"
+    },
+    "code": {
+      "id": "NG016005_jillahi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016005",
+      "level": 2,
+      "name": {
+        "local": "Funakaye",
+        "en": "Funakaye",
+        "slug": "funakaye-ng016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016005",
+        "level": 2,
+        "name": {
+          "local": "Funakaye",
+          "en": "Funakaye",
+          "slug": "funakaye-ng016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016005_kupto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kupto",
+      "en": "Kupto",
+      "slug": "kupto"
+    },
+    "code": {
+      "id": "NG016005_kupto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016005",
+      "level": 2,
+      "name": {
+        "local": "Funakaye",
+        "en": "Funakaye",
+        "slug": "funakaye-ng016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016005",
+        "level": 2,
+        "name": {
+          "local": "Funakaye",
+          "en": "Funakaye",
+          "slug": "funakaye-ng016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016005_ribadu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ribadu",
+      "en": "Ribadu",
+      "slug": "ribadu"
+    },
+    "code": {
+      "id": "NG016005_ribadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016005",
+      "level": 2,
+      "name": {
+        "local": "Funakaye",
+        "en": "Funakaye",
+        "slug": "funakaye-ng016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016005",
+        "level": 2,
+        "name": {
+          "local": "Funakaye",
+          "en": "Funakaye",
+          "slug": "funakaye-ng016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016005_tongo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tongo",
+      "en": "Tongo",
+      "slug": "tongo"
+    },
+    "code": {
+      "id": "NG016005_tongo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016005",
+      "level": 2,
+      "name": {
+        "local": "Funakaye",
+        "en": "Funakaye",
+        "slug": "funakaye-ng016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016005",
+        "level": 2,
+        "name": {
+          "local": "Funakaye",
+          "en": "Funakaye",
+          "slug": "funakaye-ng016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016005_wawa-wakkulutu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wawa / Wakkulutu",
+      "en": "Wawa / Wakkulutu",
+      "slug": "wawa-wakkulutu"
+    },
+    "code": {
+      "id": "NG016005_wawa-wakkulutu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016005",
+      "level": 2,
+      "name": {
+        "local": "Funakaye",
+        "en": "Funakaye",
+        "slug": "funakaye-ng016005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016005",
+        "level": 2,
+        "name": {
+          "local": "Funakaye",
+          "en": "Funakaye",
+          "slug": "funakaye-ng016005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

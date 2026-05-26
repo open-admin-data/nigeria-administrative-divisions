@@ -1,0 +1,47 @@
+{
+  "id": "NG029012",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Irele",
+    "en": "Irele",
+    "slug": "irele-ng029012"
+  },
+  "code": {
+    "id": "NG029012",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG029",
+    "level": 1,
+    "name": {
+      "local": "Ondo",
+      "en": "Ondo",
+      "slug": "ondo-ng029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG029",
+      "level": 1,
+      "name": {
+        "local": "Ondo",
+        "en": "Ondo",
+        "slug": "ondo-ng029"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.479",
+    "lon": "4.983"
+  },
+  "metadata": {},
+  "source": {}
+}

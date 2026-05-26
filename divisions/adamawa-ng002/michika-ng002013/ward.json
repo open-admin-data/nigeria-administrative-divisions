@@ -1,0 +1,866 @@
+[
+  {
+    "id": "NG002013_bazza-margi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bazza Margi",
+      "en": "Bazza Margi",
+      "slug": "bazza-margi"
+    },
+    "code": {
+      "id": "NG002013_bazza-margi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.579",
+      "lon": "13.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_futudou-futules",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Futudou / Futules",
+      "en": "Futudou / Futules",
+      "slug": "futudou-futules"
+    },
+    "code": {
+      "id": "NG002013_futudou-futules",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.579",
+      "lon": "13.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_garta-ghunchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garta / Ghunchi",
+      "en": "Garta / Ghunchi",
+      "slug": "garta-ghunchi"
+    },
+    "code": {
+      "id": "NG002013_garta-ghunchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.638",
+      "lon": "13.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_jigalambu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jigalambu",
+      "en": "Jigalambu",
+      "slug": "jigalambu"
+    },
+    "code": {
+      "id": "NG002013_jigalambu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.595",
+      "lon": "13.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_madzi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madzi",
+      "en": "Madzi",
+      "slug": "madzi"
+    },
+    "code": {
+      "id": "NG002013_madzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.629",
+      "lon": "13.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_michika-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Michika I",
+      "en": "Michika I",
+      "slug": "michika-i"
+    },
+    "code": {
+      "id": "NG002013_michika-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.617",
+      "lon": "13.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_michika-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Michika Ii",
+      "en": "Michika Ii",
+      "slug": "michika-ii"
+    },
+    "code": {
+      "id": "NG002013_michika-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.617",
+      "lon": "13.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_minkisi-wuro-ngiki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Minkisi/ Wuro Ngiki",
+      "en": "Minkisi/ Wuro Ngiki",
+      "slug": "minkisi-wuro-ngiki"
+    },
+    "code": {
+      "id": "NG002013_minkisi-wuro-ngiki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.579",
+      "lon": "13.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_moda-dlaka-ghenjuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Moda / Dlaka / Ghenjuwa",
+      "en": "Moda / Dlaka / Ghenjuwa",
+      "slug": "moda-dlaka-ghenjuwa"
+    },
+    "code": {
+      "id": "NG002013_moda-dlaka-ghenjuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.623",
+      "lon": "13.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_munkavicita",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Munkavicita",
+      "en": "Munkavicita",
+      "slug": "munkavicita"
+    },
+    "code": {
+      "id": "NG002013_munkavicita",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.59",
+      "lon": "13.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_sina-kamale-kwande",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sina / Kamale / Kwande",
+      "en": "Sina / Kamale / Kwande",
+      "slug": "sina-kamale-kwande"
+    },
+    "code": {
+      "id": "NG002013_sina-kamale-kwande",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.573",
+      "lon": "13.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_sukumu-tillijo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sukumu / Tillijo",
+      "en": "Sukumu / Tillijo",
+      "slug": "sukumu-tillijo"
+    },
+    "code": {
+      "id": "NG002013_sukumu-tillijo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.579",
+      "lon": "13.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_thukudou-sufuku-zah",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Thukudou / Sufuku / Zah",
+      "en": "Thukudou / Sufuku / Zah",
+      "slug": "thukudou-sufuku-zah"
+    },
+    "code": {
+      "id": "NG002013_thukudou-sufuku-zah",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.579",
+      "lon": "13.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_tumbara-ngabili",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tumbara / Ngabili",
+      "en": "Tumbara / Ngabili",
+      "slug": "tumbara-ngabili"
+    },
+    "code": {
+      "id": "NG002013_tumbara-ngabili",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.692",
+      "lon": "13.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_vi-boka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Vi / Boka",
+      "en": "Vi / Boka",
+      "slug": "vi-boka"
+    },
+    "code": {
+      "id": "NG002013_vi-boka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.579",
+      "lon": "13.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002013_wamblimi-tilli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wamblimi / Tilli",
+      "en": "Wamblimi / Tilli",
+      "slug": "wamblimi-tilli"
+    },
+    "code": {
+      "id": "NG002013_wamblimi-tilli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002013",
+      "level": 2,
+      "name": {
+        "local": "Michika",
+        "en": "Michika",
+        "slug": "michika-ng002013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002013",
+        "level": 2,
+        "name": {
+          "local": "Michika",
+          "en": "Michika",
+          "slug": "michika-ng002013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.579",
+      "lon": "13.384"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

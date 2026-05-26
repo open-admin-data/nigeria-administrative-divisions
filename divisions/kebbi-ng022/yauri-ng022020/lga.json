@@ -1,0 +1,47 @@
+{
+  "id": "NG022020",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Yauri",
+    "en": "Yauri",
+    "slug": "yauri-ng022020"
+  },
+  "code": {
+    "id": "NG022020",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG022",
+    "level": 1,
+    "name": {
+      "local": "Kebbi",
+      "en": "Kebbi",
+      "slug": "kebbi-ng022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG022",
+      "level": 1,
+      "name": {
+        "local": "Kebbi",
+        "en": "Kebbi",
+        "slug": "kebbi-ng022"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.755",
+    "lon": "4.726"
+  },
+  "metadata": {},
+  "source": {}
+}

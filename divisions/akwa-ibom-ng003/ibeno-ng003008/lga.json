@@ -1,0 +1,47 @@
+{
+  "id": "NG003008",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ibeno",
+    "en": "Ibeno",
+    "slug": "ibeno-ng003008"
+  },
+  "code": {
+    "id": "NG003008",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG003",
+    "level": 1,
+    "name": {
+      "local": "Akwa Ibom",
+      "en": "Akwa Ibom",
+      "slug": "akwa-ibom-ng003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG003",
+      "level": 1,
+      "name": {
+        "local": "Akwa Ibom",
+        "en": "Akwa Ibom",
+        "slug": "akwa-ibom-ng003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.563",
+    "lon": "8.089"
+  },
+  "metadata": {},
+  "source": {}
+}

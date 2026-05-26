@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG002004_boga-dingai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Boga/ Dingai",
+      "en": "Boga/ Dingai",
+      "slug": "boga-dingai"
+    },
+    "code": {
+      "id": "NG002004_boga-dingai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002004",
+      "level": 2,
+      "name": {
+        "local": "Gombi",
+        "en": "Gombi",
+        "slug": "gombi-ng002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002004",
+        "level": 2,
+        "name": {
+          "local": "Gombi",
+          "en": "Gombi",
+          "slug": "gombi-ng002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.122",
+      "lon": "12.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002004_duwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Duwa",
+      "en": "Duwa",
+      "slug": "duwa"
+    },
+    "code": {
+      "id": "NG002004_duwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002004",
+      "level": 2,
+      "name": {
+        "local": "Gombi",
+        "en": "Gombi",
+        "slug": "gombi-ng002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002004",
+        "level": 2,
+        "name": {
+          "local": "Gombi",
+          "en": "Gombi",
+          "slug": "gombi-ng002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.052",
+      "lon": "12.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002004_gaanda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ga'anda",
+      "en": "Ga'anda",
+      "slug": "gaanda"
+    },
+    "code": {
+      "id": "NG002004_gaanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002004",
+      "level": 2,
+      "name": {
+        "local": "Gombi",
+        "en": "Gombi",
+        "slug": "gombi-ng002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002004",
+        "level": 2,
+        "name": {
+          "local": "Gombi",
+          "en": "Gombi",
+          "slug": "gombi-ng002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.219",
+      "lon": "12.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002004_gabun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gabun",
+      "en": "Gabun",
+      "slug": "gabun"
+    },
+    "code": {
+      "id": "NG002004_gabun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002004",
+      "level": 2,
+      "name": {
+        "local": "Gombi",
+        "en": "Gombi",
+        "slug": "gombi-ng002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002004",
+        "level": 2,
+        "name": {
+          "local": "Gombi",
+          "en": "Gombi",
+          "slug": "gombi-ng002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.219",
+      "lon": "12.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002004_garkida",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garkida",
+      "en": "Garkida",
+      "slug": "garkida"
+    },
+    "code": {
+      "id": "NG002004_garkida",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002004",
+      "level": 2,
+      "name": {
+        "local": "Gombi",
+        "en": "Gombi",
+        "slug": "gombi-ng002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002004",
+        "level": 2,
+        "name": {
+          "local": "Gombi",
+          "en": "Gombi",
+          "slug": "gombi-ng002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.305",
+      "lon": "12.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002004_gombi-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gombi North",
+      "en": "Gombi North",
+      "slug": "gombi-north"
+    },
+    "code": {
+      "id": "NG002004_gombi-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002004",
+      "level": 2,
+      "name": {
+        "local": "Gombi",
+        "en": "Gombi",
+        "slug": "gombi-ng002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002004",
+        "level": 2,
+        "name": {
+          "local": "Gombi",
+          "en": "Gombi",
+          "slug": "gombi-ng002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.203",
+      "lon": "12.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002004_gombi-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gombi South",
+      "en": "Gombi South",
+      "slug": "gombi-south"
+    },
+    "code": {
+      "id": "NG002004_gombi-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002004",
+      "level": 2,
+      "name": {
+        "local": "Gombi",
+        "en": "Gombi",
+        "slug": "gombi-ng002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002004",
+        "level": 2,
+        "name": {
+          "local": "Gombi",
+          "en": "Gombi",
+          "slug": "gombi-ng002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.149",
+      "lon": "12.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002004_guyaku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guyaku",
+      "en": "Guyaku",
+      "slug": "guyaku"
+    },
+    "code": {
+      "id": "NG002004_guyaku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002004",
+      "level": 2,
+      "name": {
+        "local": "Gombi",
+        "en": "Gombi",
+        "slug": "gombi-ng002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002004",
+        "level": 2,
+        "name": {
+          "local": "Gombi",
+          "en": "Gombi",
+          "slug": "gombi-ng002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.351",
+      "lon": "12.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002004_tawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tawa",
+      "en": "Tawa",
+      "slug": "tawa"
+    },
+    "code": {
+      "id": "NG002004_tawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002004",
+      "level": 2,
+      "name": {
+        "local": "Gombi",
+        "en": "Gombi",
+        "slug": "gombi-ng002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002004",
+        "level": 2,
+        "name": {
+          "local": "Gombi",
+          "en": "Gombi",
+          "slug": "gombi-ng002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.203",
+      "lon": "12.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002004_yang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yang",
+      "en": "Yang",
+      "slug": "yang"
+    },
+    "code": {
+      "id": "NG002004_yang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002004",
+      "level": 2,
+      "name": {
+        "local": "Gombi",
+        "en": "Gombi",
+        "slug": "gombi-ng002004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002004",
+        "level": 2,
+        "name": {
+          "local": "Gombi",
+          "en": "Gombi",
+          "slug": "gombi-ng002004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.147",
+      "lon": "12.219"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

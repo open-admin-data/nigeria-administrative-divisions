@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG019006_chori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chori",
+      "en": "Chori",
+      "slug": "chori"
+    },
+    "code": {
+      "id": "NG019006_chori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019006",
+      "level": 2,
+      "name": {
+        "local": "Jaba",
+        "en": "Jaba",
+        "slug": "jaba-ng019006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019006",
+        "level": 2,
+        "name": {
+          "local": "Jaba",
+          "en": "Jaba",
+          "slug": "jaba-ng019006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.476",
+      "lon": "8.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019006_daddu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daddu",
+      "en": "Daddu",
+      "slug": "daddu"
+    },
+    "code": {
+      "id": "NG019006_daddu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019006",
+      "level": 2,
+      "name": {
+        "local": "Jaba",
+        "en": "Jaba",
+        "slug": "jaba-ng019006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019006",
+        "level": 2,
+        "name": {
+          "local": "Jaba",
+          "en": "Jaba",
+          "slug": "jaba-ng019006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.476",
+      "lon": "8.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019006_durabitaro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dura/bitaro",
+      "en": "Dura/bitaro",
+      "slug": "durabitaro"
+    },
+    "code": {
+      "id": "NG019006_durabitaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019006",
+      "level": 2,
+      "name": {
+        "local": "Jaba",
+        "en": "Jaba",
+        "slug": "jaba-ng019006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019006",
+        "level": 2,
+        "name": {
+          "local": "Jaba",
+          "en": "Jaba",
+          "slug": "jaba-ng019006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.476",
+      "lon": "8.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019006_fada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fada",
+      "en": "Fada",
+      "slug": "fada"
+    },
+    "code": {
+      "id": "NG019006_fada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019006",
+      "level": 2,
+      "name": {
+        "local": "Jaba",
+        "en": "Jaba",
+        "slug": "jaba-ng019006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019006",
+        "level": 2,
+        "name": {
+          "local": "Jaba",
+          "en": "Jaba",
+          "slug": "jaba-ng019006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.476",
+      "lon": "8.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019006_fai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fai",
+      "en": "Fai",
+      "slug": "fai"
+    },
+    "code": {
+      "id": "NG019006_fai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019006",
+      "level": 2,
+      "name": {
+        "local": "Jaba",
+        "en": "Jaba",
+        "slug": "jaba-ng019006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019006",
+        "level": 2,
+        "name": {
+          "local": "Jaba",
+          "en": "Jaba",
+          "slug": "jaba-ng019006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.476",
+      "lon": "8.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019006_nduyah",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nduyah",
+      "en": "Nduyah",
+      "slug": "nduyah"
+    },
+    "code": {
+      "id": "NG019006_nduyah",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019006",
+      "level": 2,
+      "name": {
+        "local": "Jaba",
+        "en": "Jaba",
+        "slug": "jaba-ng019006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019006",
+        "level": 2,
+        "name": {
+          "local": "Jaba",
+          "en": "Jaba",
+          "slug": "jaba-ng019006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.476",
+      "lon": "8.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019006_nok",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nok",
+      "en": "Nok",
+      "slug": "nok"
+    },
+    "code": {
+      "id": "NG019006_nok",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019006",
+      "level": 2,
+      "name": {
+        "local": "Jaba",
+        "en": "Jaba",
+        "slug": "jaba-ng019006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019006",
+        "level": 2,
+        "name": {
+          "local": "Jaba",
+          "en": "Jaba",
+          "slug": "jaba-ng019006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.476",
+      "lon": "8.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019006_sabchem",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabchem",
+      "en": "Sabchem",
+      "slug": "sabchem"
+    },
+    "code": {
+      "id": "NG019006_sabchem",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019006",
+      "level": 2,
+      "name": {
+        "local": "Jaba",
+        "en": "Jaba",
+        "slug": "jaba-ng019006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019006",
+        "level": 2,
+        "name": {
+          "local": "Jaba",
+          "en": "Jaba",
+          "slug": "jaba-ng019006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.476",
+      "lon": "8.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019006_sabzuro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabzuro",
+      "en": "Sabzuro",
+      "slug": "sabzuro"
+    },
+    "code": {
+      "id": "NG019006_sabzuro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019006",
+      "level": 2,
+      "name": {
+        "local": "Jaba",
+        "en": "Jaba",
+        "slug": "jaba-ng019006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019006",
+        "level": 2,
+        "name": {
+          "local": "Jaba",
+          "en": "Jaba",
+          "slug": "jaba-ng019006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.476",
+      "lon": "8.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019006_sambam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sambam",
+      "en": "Sambam",
+      "slug": "sambam"
+    },
+    "code": {
+      "id": "NG019006_sambam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019006",
+      "level": 2,
+      "name": {
+        "local": "Jaba",
+        "en": "Jaba",
+        "slug": "jaba-ng019006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019006",
+        "level": 2,
+        "name": {
+          "local": "Jaba",
+          "en": "Jaba",
+          "slug": "jaba-ng019006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.476",
+      "lon": "8.024"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

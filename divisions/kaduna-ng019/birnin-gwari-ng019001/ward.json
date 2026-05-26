@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG019001_dogon-dawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dogon Dawa",
+      "en": "Dogon Dawa",
+      "slug": "dogon-dawa"
+    },
+    "code": {
+      "id": "NG019001_dogon-dawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019001",
+      "level": 2,
+      "name": {
+        "local": "Birnin-Gwari",
+        "en": "Birnin-Gwari",
+        "slug": "birnin-gwari-ng019001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019001",
+        "level": 2,
+        "name": {
+          "local": "Birnin-Gwari",
+          "en": "Birnin-Gwari",
+          "slug": "birnin-gwari-ng019001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.882",
+      "lon": "6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019001_gayam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gayam",
+      "en": "Gayam",
+      "slug": "gayam"
+    },
+    "code": {
+      "id": "NG019001_gayam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019001",
+      "level": 2,
+      "name": {
+        "local": "Birnin-Gwari",
+        "en": "Birnin-Gwari",
+        "slug": "birnin-gwari-ng019001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019001",
+        "level": 2,
+        "name": {
+          "local": "Birnin-Gwari",
+          "en": "Birnin-Gwari",
+          "slug": "birnin-gwari-ng019001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.882",
+      "lon": "6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019001_kakangi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kakangi",
+      "en": "Kakangi",
+      "slug": "kakangi"
+    },
+    "code": {
+      "id": "NG019001_kakangi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019001",
+      "level": 2,
+      "name": {
+        "local": "Birnin-Gwari",
+        "en": "Birnin-Gwari",
+        "slug": "birnin-gwari-ng019001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019001",
+        "level": 2,
+        "name": {
+          "local": "Birnin-Gwari",
+          "en": "Birnin-Gwari",
+          "slug": "birnin-gwari-ng019001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.882",
+      "lon": "6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019001_kazage",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kazage",
+      "en": "Kazage",
+      "slug": "kazage"
+    },
+    "code": {
+      "id": "NG019001_kazage",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019001",
+      "level": 2,
+      "name": {
+        "local": "Birnin-Gwari",
+        "en": "Birnin-Gwari",
+        "slug": "birnin-gwari-ng019001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019001",
+        "level": 2,
+        "name": {
+          "local": "Birnin-Gwari",
+          "en": "Birnin-Gwari",
+          "slug": "birnin-gwari-ng019001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.882",
+      "lon": "6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019001_kutemesi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kutemesi",
+      "en": "Kutemesi",
+      "slug": "kutemesi"
+    },
+    "code": {
+      "id": "NG019001_kutemesi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019001",
+      "level": 2,
+      "name": {
+        "local": "Birnin-Gwari",
+        "en": "Birnin-Gwari",
+        "slug": "birnin-gwari-ng019001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019001",
+        "level": 2,
+        "name": {
+          "local": "Birnin-Gwari",
+          "en": "Birnin-Gwari",
+          "slug": "birnin-gwari-ng019001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.882",
+      "lon": "6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019001_kuyelo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuyelo",
+      "en": "Kuyelo",
+      "slug": "kuyelo"
+    },
+    "code": {
+      "id": "NG019001_kuyelo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019001",
+      "level": 2,
+      "name": {
+        "local": "Birnin-Gwari",
+        "en": "Birnin-Gwari",
+        "slug": "birnin-gwari-ng019001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019001",
+        "level": 2,
+        "name": {
+          "local": "Birnin-Gwari",
+          "en": "Birnin-Gwari",
+          "slug": "birnin-gwari-ng019001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.882",
+      "lon": "6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019001_magajin-gari-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magajin Gari I",
+      "en": "Magajin Gari I",
+      "slug": "magajin-gari-i"
+    },
+    "code": {
+      "id": "NG019001_magajin-gari-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019001",
+      "level": 2,
+      "name": {
+        "local": "Birnin-Gwari",
+        "en": "Birnin-Gwari",
+        "slug": "birnin-gwari-ng019001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019001",
+        "level": 2,
+        "name": {
+          "local": "Birnin-Gwari",
+          "en": "Birnin-Gwari",
+          "slug": "birnin-gwari-ng019001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.882",
+      "lon": "6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019001_magajin-gari-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magajin Gari Ii",
+      "en": "Magajin Gari Ii",
+      "slug": "magajin-gari-ii"
+    },
+    "code": {
+      "id": "NG019001_magajin-gari-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019001",
+      "level": 2,
+      "name": {
+        "local": "Birnin-Gwari",
+        "en": "Birnin-Gwari",
+        "slug": "birnin-gwari-ng019001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019001",
+        "level": 2,
+        "name": {
+          "local": "Birnin-Gwari",
+          "en": "Birnin-Gwari",
+          "slug": "birnin-gwari-ng019001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.882",
+      "lon": "6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019001_magajin-gari-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magajin Gari Iii",
+      "en": "Magajin Gari Iii",
+      "slug": "magajin-gari-iii"
+    },
+    "code": {
+      "id": "NG019001_magajin-gari-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019001",
+      "level": 2,
+      "name": {
+        "local": "Birnin-Gwari",
+        "en": "Birnin-Gwari",
+        "slug": "birnin-gwari-ng019001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019001",
+        "level": 2,
+        "name": {
+          "local": "Birnin-Gwari",
+          "en": "Birnin-Gwari",
+          "slug": "birnin-gwari-ng019001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.882",
+      "lon": "6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019001_randagi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Randagi",
+      "en": "Randagi",
+      "slug": "randagi"
+    },
+    "code": {
+      "id": "NG019001_randagi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019001",
+      "level": 2,
+      "name": {
+        "local": "Birnin-Gwari",
+        "en": "Birnin-Gwari",
+        "slug": "birnin-gwari-ng019001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019001",
+        "level": 2,
+        "name": {
+          "local": "Birnin-Gwari",
+          "en": "Birnin-Gwari",
+          "slug": "birnin-gwari-ng019001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.882",
+      "lon": "6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019001_tabanni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tabanni",
+      "en": "Tabanni",
+      "slug": "tabanni"
+    },
+    "code": {
+      "id": "NG019001_tabanni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019001",
+      "level": 2,
+      "name": {
+        "local": "Birnin-Gwari",
+        "en": "Birnin-Gwari",
+        "slug": "birnin-gwari-ng019001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019001",
+        "level": 2,
+        "name": {
+          "local": "Birnin-Gwari",
+          "en": "Birnin-Gwari",
+          "slug": "birnin-gwari-ng019001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.882",
+      "lon": "6.654"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

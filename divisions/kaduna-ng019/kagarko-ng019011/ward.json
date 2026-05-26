@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG019011_aribi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aribi",
+      "en": "Aribi",
+      "slug": "aribi"
+    },
+    "code": {
+      "id": "NG019011_aribi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019011",
+      "level": 2,
+      "name": {
+        "local": "Kagarko",
+        "en": "Kagarko",
+        "slug": "kagarko-ng019011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019011",
+        "level": 2,
+        "name": {
+          "local": "Kagarko",
+          "en": "Kagarko",
+          "slug": "kagarko-ng019011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.494",
+      "lon": "7.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019011_iddah",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iddah",
+      "en": "Iddah",
+      "slug": "iddah"
+    },
+    "code": {
+      "id": "NG019011_iddah",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019011",
+      "level": 2,
+      "name": {
+        "local": "Kagarko",
+        "en": "Kagarko",
+        "slug": "kagarko-ng019011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019011",
+        "level": 2,
+        "name": {
+          "local": "Kagarko",
+          "en": "Kagarko",
+          "slug": "kagarko-ng019011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.494",
+      "lon": "7.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019011_jere-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jere North",
+      "en": "Jere North",
+      "slug": "jere-north"
+    },
+    "code": {
+      "id": "NG019011_jere-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019011",
+      "level": 2,
+      "name": {
+        "local": "Kagarko",
+        "en": "Kagarko",
+        "slug": "kagarko-ng019011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019011",
+        "level": 2,
+        "name": {
+          "local": "Kagarko",
+          "en": "Kagarko",
+          "slug": "kagarko-ng019011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.494",
+      "lon": "7.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019011_jere-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jere South",
+      "en": "Jere South",
+      "slug": "jere-south"
+    },
+    "code": {
+      "id": "NG019011_jere-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019011",
+      "level": 2,
+      "name": {
+        "local": "Kagarko",
+        "en": "Kagarko",
+        "slug": "kagarko-ng019011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019011",
+        "level": 2,
+        "name": {
+          "local": "Kagarko",
+          "en": "Kagarko",
+          "slug": "kagarko-ng019011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.494",
+      "lon": "7.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019011_kagarko-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kagarko North",
+      "en": "Kagarko North",
+      "slug": "kagarko-north"
+    },
+    "code": {
+      "id": "NG019011_kagarko-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019011",
+      "level": 2,
+      "name": {
+        "local": "Kagarko",
+        "en": "Kagarko",
+        "slug": "kagarko-ng019011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019011",
+        "level": 2,
+        "name": {
+          "local": "Kagarko",
+          "en": "Kagarko",
+          "slug": "kagarko-ng019011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.494",
+      "lon": "7.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019011_kagarko-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kagarko South",
+      "en": "Kagarko South",
+      "slug": "kagarko-south"
+    },
+    "code": {
+      "id": "NG019011_kagarko-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019011",
+      "level": 2,
+      "name": {
+        "local": "Kagarko",
+        "en": "Kagarko",
+        "slug": "kagarko-ng019011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019011",
+        "level": 2,
+        "name": {
+          "local": "Kagarko",
+          "en": "Kagarko",
+          "slug": "kagarko-ng019011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.494",
+      "lon": "7.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019011_katugal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Katugal",
+      "en": "Katugal",
+      "slug": "katugal"
+    },
+    "code": {
+      "id": "NG019011_katugal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019011",
+      "level": 2,
+      "name": {
+        "local": "Kagarko",
+        "en": "Kagarko",
+        "slug": "kagarko-ng019011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019011",
+        "level": 2,
+        "name": {
+          "local": "Kagarko",
+          "en": "Kagarko",
+          "slug": "kagarko-ng019011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.494",
+      "lon": "7.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019011_kukui",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kukui",
+      "en": "Kukui",
+      "slug": "kukui"
+    },
+    "code": {
+      "id": "NG019011_kukui",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019011",
+      "level": 2,
+      "name": {
+        "local": "Kagarko",
+        "en": "Kagarko",
+        "slug": "kagarko-ng019011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019011",
+        "level": 2,
+        "name": {
+          "local": "Kagarko",
+          "en": "Kagarko",
+          "slug": "kagarko-ng019011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.494",
+      "lon": "7.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019011_kurmin-jibrin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurmin Jibrin",
+      "en": "Kurmin Jibrin",
+      "slug": "kurmin-jibrin"
+    },
+    "code": {
+      "id": "NG019011_kurmin-jibrin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019011",
+      "level": 2,
+      "name": {
+        "local": "Kagarko",
+        "en": "Kagarko",
+        "slug": "kagarko-ng019011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019011",
+        "level": 2,
+        "name": {
+          "local": "Kagarko",
+          "en": "Kagarko",
+          "slug": "kagarko-ng019011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.494",
+      "lon": "7.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019011_kushe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kushe",
+      "en": "Kushe",
+      "slug": "kushe"
+    },
+    "code": {
+      "id": "NG019011_kushe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019011",
+      "level": 2,
+      "name": {
+        "local": "Kagarko",
+        "en": "Kagarko",
+        "slug": "kagarko-ng019011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019011",
+        "level": 2,
+        "name": {
+          "local": "Kagarko",
+          "en": "Kagarko",
+          "slug": "kagarko-ng019011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.494",
+      "lon": "7.585"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

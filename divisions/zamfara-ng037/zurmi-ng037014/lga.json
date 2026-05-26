@@ -1,0 +1,47 @@
+{
+  "id": "NG037014",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Zurmi",
+    "en": "Zurmi",
+    "slug": "zurmi-ng037014"
+  },
+  "code": {
+    "id": "NG037014",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG037",
+    "level": 1,
+    "name": {
+      "local": "Zamfara",
+      "en": "Zamfara",
+      "slug": "zamfara-ng037"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.863",
+    "lon": "6.713"
+  },
+  "metadata": {},
+  "source": {}
+}

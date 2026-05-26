@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG009015_alegeubang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alege/ubang",
+      "en": "Alege/ubang",
+      "slug": "alegeubang"
+    },
+    "code": {
+      "id": "NG009015_alegeubang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009015",
+      "level": 2,
+      "name": {
+        "local": "Obudu",
+        "en": "Obudu",
+        "slug": "obudu-ng009015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009015",
+        "level": 2,
+        "name": {
+          "local": "Obudu",
+          "en": "Obudu",
+          "slug": "obudu-ng009015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.56",
+      "lon": "9.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009015_angiaba-begiaka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Angiaba / Begiaka",
+      "en": "Angiaba / Begiaka",
+      "slug": "angiaba-begiaka"
+    },
+    "code": {
+      "id": "NG009015_angiaba-begiaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009015",
+      "level": 2,
+      "name": {
+        "local": "Obudu",
+        "en": "Obudu",
+        "slug": "obudu-ng009015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009015",
+        "level": 2,
+        "name": {
+          "local": "Obudu",
+          "en": "Obudu",
+          "slug": "obudu-ng009015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.56",
+      "lon": "9.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009015_begiading",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Begiading",
+      "en": "Begiading",
+      "slug": "begiading"
+    },
+    "code": {
+      "id": "NG009015_begiading",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009015",
+      "level": 2,
+      "name": {
+        "local": "Obudu",
+        "en": "Obudu",
+        "slug": "obudu-ng009015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009015",
+        "level": 2,
+        "name": {
+          "local": "Obudu",
+          "en": "Obudu",
+          "slug": "obudu-ng009015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.56",
+      "lon": "9.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009015_ipong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipong",
+      "en": "Ipong",
+      "slug": "ipong"
+    },
+    "code": {
+      "id": "NG009015_ipong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009015",
+      "level": 2,
+      "name": {
+        "local": "Obudu",
+        "en": "Obudu",
+        "slug": "obudu-ng009015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009015",
+        "level": 2,
+        "name": {
+          "local": "Obudu",
+          "en": "Obudu",
+          "slug": "obudu-ng009015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.56",
+      "lon": "9.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009015_obudu-urban-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obudu Urban I",
+      "en": "Obudu Urban I",
+      "slug": "obudu-urban-i"
+    },
+    "code": {
+      "id": "NG009015_obudu-urban-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009015",
+      "level": 2,
+      "name": {
+        "local": "Obudu",
+        "en": "Obudu",
+        "slug": "obudu-ng009015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009015",
+        "level": 2,
+        "name": {
+          "local": "Obudu",
+          "en": "Obudu",
+          "slug": "obudu-ng009015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.56",
+      "lon": "9.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009015_obudu-urban-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obudu Urban Ii",
+      "en": "Obudu Urban Ii",
+      "slug": "obudu-urban-ii"
+    },
+    "code": {
+      "id": "NG009015_obudu-urban-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009015",
+      "level": 2,
+      "name": {
+        "local": "Obudu",
+        "en": "Obudu",
+        "slug": "obudu-ng009015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009015",
+        "level": 2,
+        "name": {
+          "local": "Obudu",
+          "en": "Obudu",
+          "slug": "obudu-ng009015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.56",
+      "lon": "9.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009015_ukpe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukpe",
+      "en": "Ukpe",
+      "slug": "ukpe"
+    },
+    "code": {
+      "id": "NG009015_ukpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009015",
+      "level": 2,
+      "name": {
+        "local": "Obudu",
+        "en": "Obudu",
+        "slug": "obudu-ng009015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009015",
+        "level": 2,
+        "name": {
+          "local": "Obudu",
+          "en": "Obudu",
+          "slug": "obudu-ng009015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.56",
+      "lon": "9.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009015_utugwang-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Utugwang Central",
+      "en": "Utugwang Central",
+      "slug": "utugwang-central"
+    },
+    "code": {
+      "id": "NG009015_utugwang-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009015",
+      "level": 2,
+      "name": {
+        "local": "Obudu",
+        "en": "Obudu",
+        "slug": "obudu-ng009015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009015",
+        "level": 2,
+        "name": {
+          "local": "Obudu",
+          "en": "Obudu",
+          "slug": "obudu-ng009015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.56",
+      "lon": "9.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009015_utugwang-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Utugwang North",
+      "en": "Utugwang North",
+      "slug": "utugwang-north"
+    },
+    "code": {
+      "id": "NG009015_utugwang-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009015",
+      "level": 2,
+      "name": {
+        "local": "Obudu",
+        "en": "Obudu",
+        "slug": "obudu-ng009015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009015",
+        "level": 2,
+        "name": {
+          "local": "Obudu",
+          "en": "Obudu",
+          "slug": "obudu-ng009015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.56",
+      "lon": "9.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009015_utugwang-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Utugwang South",
+      "en": "Utugwang South",
+      "slug": "utugwang-south"
+    },
+    "code": {
+      "id": "NG009015_utugwang-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009015",
+      "level": 2,
+      "name": {
+        "local": "Obudu",
+        "en": "Obudu",
+        "slug": "obudu-ng009015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009015",
+        "level": 2,
+        "name": {
+          "local": "Obudu",
+          "en": "Obudu",
+          "slug": "obudu-ng009015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.56",
+      "lon": "9.08"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

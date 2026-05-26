@@ -1,0 +1,47 @@
+{
+  "id": "NG002003",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ganye",
+    "en": "Ganye",
+    "slug": "ganye-ng002003"
+  },
+  "code": {
+    "id": "NG002003",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG002",
+    "level": 1,
+    "name": {
+      "local": "Adamawa",
+      "en": "Adamawa",
+      "slug": "adamawa-ng002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.438",
+    "lon": "11.955"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG025018_ajao-estate",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajao Estate",
+      "en": "Ajao Estate",
+      "slug": "ajao-estate"
+    },
+    "code": {
+      "id": "NG025018_ajao-estate",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025018",
+      "level": 2,
+      "name": {
+        "local": "Oshodi-Isolo",
+        "en": "Oshodi-Isolo",
+        "slug": "oshodi-isolo-ng025018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025018",
+        "level": 2,
+        "name": {
+          "local": "Oshodi-Isolo",
+          "en": "Oshodi-Isolo",
+          "slug": "oshodi-isolo-ng025018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "3.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025018_ilasamaja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilasamaja",
+      "en": "Ilasamaja",
+      "slug": "ilasamaja"
+    },
+    "code": {
+      "id": "NG025018_ilasamaja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025018",
+      "level": 2,
+      "name": {
+        "local": "Oshodi-Isolo",
+        "en": "Oshodi-Isolo",
+        "slug": "oshodi-isolo-ng025018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025018",
+        "level": 2,
+        "name": {
+          "local": "Oshodi-Isolo",
+          "en": "Oshodi-Isolo",
+          "slug": "oshodi-isolo-ng025018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "3.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025018_ishagatedo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ishagatedo",
+      "en": "Ishagatedo",
+      "slug": "ishagatedo"
+    },
+    "code": {
+      "id": "NG025018_ishagatedo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025018",
+      "level": 2,
+      "name": {
+        "local": "Oshodi-Isolo",
+        "en": "Oshodi-Isolo",
+        "slug": "oshodi-isolo-ng025018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025018",
+        "level": 2,
+        "name": {
+          "local": "Oshodi-Isolo",
+          "en": "Oshodi-Isolo",
+          "slug": "oshodi-isolo-ng025018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "3.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025018_isolo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isolo",
+      "en": "Isolo",
+      "slug": "isolo"
+    },
+    "code": {
+      "id": "NG025018_isolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025018",
+      "level": 2,
+      "name": {
+        "local": "Oshodi-Isolo",
+        "en": "Oshodi-Isolo",
+        "slug": "oshodi-isolo-ng025018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025018",
+        "level": 2,
+        "name": {
+          "local": "Oshodi-Isolo",
+          "en": "Oshodi-Isolo",
+          "slug": "oshodi-isolo-ng025018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "3.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025018_mafoluku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mafoluku",
+      "en": "Mafoluku",
+      "slug": "mafoluku"
+    },
+    "code": {
+      "id": "NG025018_mafoluku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025018",
+      "level": 2,
+      "name": {
+        "local": "Oshodi-Isolo",
+        "en": "Oshodi-Isolo",
+        "slug": "oshodi-isolo-ng025018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025018",
+        "level": 2,
+        "name": {
+          "local": "Oshodi-Isolo",
+          "en": "Oshodi-Isolo",
+          "slug": "oshodi-isolo-ng025018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "3.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025018_oke-afaejigbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke-afa/ejigbo",
+      "en": "Oke-afa/ejigbo",
+      "slug": "oke-afaejigbo"
+    },
+    "code": {
+      "id": "NG025018_oke-afaejigbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025018",
+      "level": 2,
+      "name": {
+        "local": "Oshodi-Isolo",
+        "en": "Oshodi-Isolo",
+        "slug": "oshodi-isolo-ng025018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025018",
+        "level": 2,
+        "name": {
+          "local": "Oshodi-Isolo",
+          "en": "Oshodi-Isolo",
+          "slug": "oshodi-isolo-ng025018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "3.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025018_okota",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okota",
+      "en": "Okota",
+      "slug": "okota"
+    },
+    "code": {
+      "id": "NG025018_okota",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025018",
+      "level": 2,
+      "name": {
+        "local": "Oshodi-Isolo",
+        "en": "Oshodi-Isolo",
+        "slug": "oshodi-isolo-ng025018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025018",
+        "level": 2,
+        "name": {
+          "local": "Oshodi-Isolo",
+          "en": "Oshodi-Isolo",
+          "slug": "oshodi-isolo-ng025018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "3.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025018_orile-oshodi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orile-oshodi",
+      "en": "Orile-oshodi",
+      "slug": "orile-oshodi"
+    },
+    "code": {
+      "id": "NG025018_orile-oshodi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025018",
+      "level": 2,
+      "name": {
+        "local": "Oshodi-Isolo",
+        "en": "Oshodi-Isolo",
+        "slug": "oshodi-isolo-ng025018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025018",
+        "level": 2,
+        "name": {
+          "local": "Oshodi-Isolo",
+          "en": "Oshodi-Isolo",
+          "slug": "oshodi-isolo-ng025018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "3.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025018_oshodibolade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oshodi/bolade",
+      "en": "Oshodi/bolade",
+      "slug": "oshodibolade"
+    },
+    "code": {
+      "id": "NG025018_oshodibolade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025018",
+      "level": 2,
+      "name": {
+        "local": "Oshodi-Isolo",
+        "en": "Oshodi-Isolo",
+        "slug": "oshodi-isolo-ng025018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025018",
+        "level": 2,
+        "name": {
+          "local": "Oshodi-Isolo",
+          "en": "Oshodi-Isolo",
+          "slug": "oshodi-isolo-ng025018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "3.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025018_sogunle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sogunle",
+      "en": "Sogunle",
+      "slug": "sogunle"
+    },
+    "code": {
+      "id": "NG025018_sogunle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025018",
+      "level": 2,
+      "name": {
+        "local": "Oshodi-Isolo",
+        "en": "Oshodi-Isolo",
+        "slug": "oshodi-isolo-ng025018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025018",
+        "level": 2,
+        "name": {
+          "local": "Oshodi-Isolo",
+          "en": "Oshodi-Isolo",
+          "slug": "oshodi-isolo-ng025018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "3.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025018_sogunlealasia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sogunle/alasia",
+      "en": "Sogunle/alasia",
+      "slug": "sogunlealasia"
+    },
+    "code": {
+      "id": "NG025018_sogunlealasia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025018",
+      "level": 2,
+      "name": {
+        "local": "Oshodi-Isolo",
+        "en": "Oshodi-Isolo",
+        "slug": "oshodi-isolo-ng025018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025018",
+        "level": 2,
+        "name": {
+          "local": "Oshodi-Isolo",
+          "en": "Oshodi-Isolo",
+          "slug": "oshodi-isolo-ng025018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "3.313"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG001015_afugiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Afugiri",
+      "en": "Afugiri",
+      "slug": "afugiri"
+    },
+    "code": {
+      "id": "NG001015_afugiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001015",
+      "level": 2,
+      "name": {
+        "local": "Umuahia North",
+        "en": "Umuahia North",
+        "slug": "umuahia-north-ng001015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001015",
+        "level": 2,
+        "name": {
+          "local": "Umuahia North",
+          "en": "Umuahia North",
+          "slug": "umuahia-north-ng001015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001015_ibeku-east-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibeku East I",
+      "en": "Ibeku East I",
+      "slug": "ibeku-east-i"
+    },
+    "code": {
+      "id": "NG001015_ibeku-east-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001015",
+      "level": 2,
+      "name": {
+        "local": "Umuahia North",
+        "en": "Umuahia North",
+        "slug": "umuahia-north-ng001015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001015",
+        "level": 2,
+        "name": {
+          "local": "Umuahia North",
+          "en": "Umuahia North",
+          "slug": "umuahia-north-ng001015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001015_ibeku-east-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibeku East Ii",
+      "en": "Ibeku East Ii",
+      "slug": "ibeku-east-ii"
+    },
+    "code": {
+      "id": "NG001015_ibeku-east-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001015",
+      "level": 2,
+      "name": {
+        "local": "Umuahia North",
+        "en": "Umuahia North",
+        "slug": "umuahia-north-ng001015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001015",
+        "level": 2,
+        "name": {
+          "local": "Umuahia North",
+          "en": "Umuahia North",
+          "slug": "umuahia-north-ng001015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001015_ibeku-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibeku West",
+      "en": "Ibeku West",
+      "slug": "ibeku-west"
+    },
+    "code": {
+      "id": "NG001015_ibeku-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001015",
+      "level": 2,
+      "name": {
+        "local": "Umuahia North",
+        "en": "Umuahia North",
+        "slug": "umuahia-north-ng001015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001015",
+        "level": 2,
+        "name": {
+          "local": "Umuahia North",
+          "en": "Umuahia North",
+          "slug": "umuahia-north-ng001015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001015_isingwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isingwu",
+      "en": "Isingwu",
+      "slug": "isingwu"
+    },
+    "code": {
+      "id": "NG001015_isingwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001015",
+      "level": 2,
+      "name": {
+        "local": "Umuahia North",
+        "en": "Umuahia North",
+        "slug": "umuahia-north-ng001015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001015",
+        "level": 2,
+        "name": {
+          "local": "Umuahia North",
+          "en": "Umuahia North",
+          "slug": "umuahia-north-ng001015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001015_ndume",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndume",
+      "en": "Ndume",
+      "slug": "ndume"
+    },
+    "code": {
+      "id": "NG001015_ndume",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001015",
+      "level": 2,
+      "name": {
+        "local": "Umuahia North",
+        "en": "Umuahia North",
+        "slug": "umuahia-north-ng001015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001015",
+        "level": 2,
+        "name": {
+          "local": "Umuahia North",
+          "en": "Umuahia North",
+          "slug": "umuahia-north-ng001015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001015_nkwoachara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkwoachara",
+      "en": "Nkwoachara",
+      "slug": "nkwoachara"
+    },
+    "code": {
+      "id": "NG001015_nkwoachara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001015",
+      "level": 2,
+      "name": {
+        "local": "Umuahia North",
+        "en": "Umuahia North",
+        "slug": "umuahia-north-ng001015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001015",
+        "level": 2,
+        "name": {
+          "local": "Umuahia North",
+          "en": "Umuahia North",
+          "slug": "umuahia-north-ng001015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001015_nkwoegwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkwoegwu",
+      "en": "Nkwoegwu",
+      "slug": "nkwoegwu"
+    },
+    "code": {
+      "id": "NG001015_nkwoegwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001015",
+      "level": 2,
+      "name": {
+        "local": "Umuahia North",
+        "en": "Umuahia North",
+        "slug": "umuahia-north-ng001015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001015",
+        "level": 2,
+        "name": {
+          "local": "Umuahia North",
+          "en": "Umuahia North",
+          "slug": "umuahia-north-ng001015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001015_umuahia-urban-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuahia Urban I",
+      "en": "Umuahia Urban I",
+      "slug": "umuahia-urban-i"
+    },
+    "code": {
+      "id": "NG001015_umuahia-urban-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001015",
+      "level": 2,
+      "name": {
+        "local": "Umuahia North",
+        "en": "Umuahia North",
+        "slug": "umuahia-north-ng001015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001015",
+        "level": 2,
+        "name": {
+          "local": "Umuahia North",
+          "en": "Umuahia North",
+          "slug": "umuahia-north-ng001015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001015_umuahia-urban-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuahia Urban Ii",
+      "en": "Umuahia Urban Ii",
+      "slug": "umuahia-urban-ii"
+    },
+    "code": {
+      "id": "NG001015_umuahia-urban-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001015",
+      "level": 2,
+      "name": {
+        "local": "Umuahia North",
+        "en": "Umuahia North",
+        "slug": "umuahia-north-ng001015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001015",
+        "level": 2,
+        "name": {
+          "local": "Umuahia North",
+          "en": "Umuahia North",
+          "slug": "umuahia-north-ng001015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001015_umuahia-urban-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuahia Urban Iii",
+      "en": "Umuahia Urban Iii",
+      "slug": "umuahia-urban-iii"
+    },
+    "code": {
+      "id": "NG001015_umuahia-urban-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001015",
+      "level": 2,
+      "name": {
+        "local": "Umuahia North",
+        "en": "Umuahia North",
+        "slug": "umuahia-north-ng001015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001015",
+        "level": 2,
+        "name": {
+          "local": "Umuahia North",
+          "en": "Umuahia North",
+          "slug": "umuahia-north-ng001015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001015_umuhu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuhu",
+      "en": "Umuhu",
+      "slug": "umuhu"
+    },
+    "code": {
+      "id": "NG001015_umuhu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001015",
+      "level": 2,
+      "name": {
+        "local": "Umuahia North",
+        "en": "Umuahia North",
+        "slug": "umuahia-north-ng001015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001015",
+        "level": 2,
+        "name": {
+          "local": "Umuahia North",
+          "en": "Umuahia North",
+          "slug": "umuahia-north-ng001015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.605",
+      "lon": "7.477"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

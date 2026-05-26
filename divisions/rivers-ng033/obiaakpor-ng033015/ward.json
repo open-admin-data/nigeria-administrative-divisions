@@ -1,0 +1,920 @@
+[
+  {
+    "id": "NG033015_choba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Choba",
+      "en": "Choba",
+      "slug": "choba"
+    },
+    "code": {
+      "id": "NG033015_choba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_elelenwo-3b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Elelenwo (3b)",
+      "en": "Elelenwo (3b)",
+      "slug": "elelenwo-3b"
+    },
+    "code": {
+      "id": "NG033015_elelenwo-3b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_oro-igwe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oro-igwe",
+      "en": "Oro-igwe",
+      "slug": "oro-igwe"
+    },
+    "code": {
+      "id": "NG033015_oro-igwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_ozuobaogbogoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ozuoba/ogbogoro",
+      "en": "Ozuoba/ogbogoro",
+      "slug": "ozuobaogbogoro"
+    },
+    "code": {
+      "id": "NG033015_ozuobaogbogoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_rukpoku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rukpoku",
+      "en": "Rukpoku",
+      "slug": "rukpoku"
+    },
+    "code": {
+      "id": "NG033015_rukpoku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_rumueme-7a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumueme (7a)",
+      "en": "Rumueme (7a)",
+      "slug": "rumueme-7a"
+    },
+    "code": {
+      "id": "NG033015_rumueme-7a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_rumueme-7b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumueme (7b)",
+      "en": "Rumueme (7b)",
+      "slug": "rumueme-7b"
+    },
+    "code": {
+      "id": "NG033015_rumueme-7b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_rumueme-7c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumueme (7c)",
+      "en": "Rumueme (7c)",
+      "slug": "rumueme-7c"
+    },
+    "code": {
+      "id": "NG033015_rumueme-7c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_rumuigbo-8a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumuigbo (8a)",
+      "en": "Rumuigbo (8a)",
+      "slug": "rumuigbo-8a"
+    },
+    "code": {
+      "id": "NG033015_rumuigbo-8a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_rumukwuta-8b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumukwuta (8b)",
+      "en": "Rumukwuta (8b)",
+      "slug": "rumukwuta-8b"
+    },
+    "code": {
+      "id": "NG033015_rumukwuta-8b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_rumuodara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumuodara",
+      "en": "Rumuodara",
+      "slug": "rumuodara"
+    },
+    "code": {
+      "id": "NG033015_rumuodara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_rumuodomaya-3a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumuodomaya (3a)",
+      "en": "Rumuodomaya (3a)",
+      "slug": "rumuodomaya-3a"
+    },
+    "code": {
+      "id": "NG033015_rumuodomaya-3a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_rumuokoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumuokoro",
+      "en": "Rumuokoro",
+      "slug": "rumuokoro"
+    },
+    "code": {
+      "id": "NG033015_rumuokoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_rumuokwu-2b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumuokwu (2b)",
+      "en": "Rumuokwu (2b)",
+      "slug": "rumuokwu-2b"
+    },
+    "code": {
+      "id": "NG033015_rumuokwu-2b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_rumuolumeni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumuolumeni",
+      "en": "Rumuolumeni",
+      "slug": "rumuolumeni"
+    },
+    "code": {
+      "id": "NG033015_rumuolumeni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_rumuomasi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumuomasi",
+      "en": "Rumuomasi",
+      "slug": "rumuomasi"
+    },
+    "code": {
+      "id": "NG033015_rumuomasi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015_worji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Worji",
+      "en": "Worji",
+      "slug": "worji"
+    },
+    "code": {
+      "id": "NG033015_worji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033015",
+      "level": 2,
+      "name": {
+        "local": "Obia/Akpor",
+        "en": "Obia/Akpor",
+        "slug": "obiaakpor-ng033015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033015",
+        "level": 2,
+        "name": {
+          "local": "Obia/Akpor",
+          "en": "Obia/Akpor",
+          "slug": "obiaakpor-ng033015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

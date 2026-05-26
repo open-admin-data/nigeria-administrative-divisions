@@ -1,0 +1,47 @@
+{
+  "id": "NG020022",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Karaye",
+    "en": "Karaye",
+    "slug": "karaye-ng020022"
+  },
+  "code": {
+    "id": "NG020022",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG020",
+    "level": 1,
+    "name": {
+      "local": "Kano",
+      "en": "Kano",
+      "slug": "kano-ng020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.75",
+    "lon": "7.986"
+  },
+  "metadata": {},
+  "source": {}
+}

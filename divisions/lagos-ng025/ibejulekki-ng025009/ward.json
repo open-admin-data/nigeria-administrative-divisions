@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG025009_ibeju-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibeju I",
+      "en": "Ibeju I",
+      "slug": "ibeju-i"
+    },
+    "code": {
+      "id": "NG025009_ibeju-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025009",
+      "level": 2,
+      "name": {
+        "local": "Ibeju/Lekki",
+        "en": "Ibeju/Lekki",
+        "slug": "ibejulekki-ng025009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025009",
+        "level": 2,
+        "name": {
+          "local": "Ibeju/Lekki",
+          "en": "Ibeju/Lekki",
+          "slug": "ibejulekki-ng025009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025009_ibeju-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibeju Ii",
+      "en": "Ibeju Ii",
+      "slug": "ibeju-ii"
+    },
+    "code": {
+      "id": "NG025009_ibeju-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025009",
+      "level": 2,
+      "name": {
+        "local": "Ibeju/Lekki",
+        "en": "Ibeju/Lekki",
+        "slug": "ibejulekki-ng025009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025009",
+        "level": 2,
+        "name": {
+          "local": "Ibeju/Lekki",
+          "en": "Ibeju/Lekki",
+          "slug": "ibejulekki-ng025009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025009_iwerekun-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iwerekun I",
+      "en": "Iwerekun I",
+      "slug": "iwerekun-i"
+    },
+    "code": {
+      "id": "NG025009_iwerekun-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025009",
+      "level": 2,
+      "name": {
+        "local": "Ibeju/Lekki",
+        "en": "Ibeju/Lekki",
+        "slug": "ibejulekki-ng025009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025009",
+        "level": 2,
+        "name": {
+          "local": "Ibeju/Lekki",
+          "en": "Ibeju/Lekki",
+          "slug": "ibejulekki-ng025009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025009_iwerekun-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iwerekun Ii",
+      "en": "Iwerekun Ii",
+      "slug": "iwerekun-ii"
+    },
+    "code": {
+      "id": "NG025009_iwerekun-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025009",
+      "level": 2,
+      "name": {
+        "local": "Ibeju/Lekki",
+        "en": "Ibeju/Lekki",
+        "slug": "ibejulekki-ng025009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025009",
+        "level": 2,
+        "name": {
+          "local": "Ibeju/Lekki",
+          "en": "Ibeju/Lekki",
+          "slug": "ibejulekki-ng025009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025009_lekki-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lekki I",
+      "en": "Lekki I",
+      "slug": "lekki-i"
+    },
+    "code": {
+      "id": "NG025009_lekki-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025009",
+      "level": 2,
+      "name": {
+        "local": "Ibeju/Lekki",
+        "en": "Ibeju/Lekki",
+        "slug": "ibejulekki-ng025009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025009",
+        "level": 2,
+        "name": {
+          "local": "Ibeju/Lekki",
+          "en": "Ibeju/Lekki",
+          "slug": "ibejulekki-ng025009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025009_lekki-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lekki Ii",
+      "en": "Lekki Ii",
+      "slug": "lekki-ii"
+    },
+    "code": {
+      "id": "NG025009_lekki-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025009",
+      "level": 2,
+      "name": {
+        "local": "Ibeju/Lekki",
+        "en": "Ibeju/Lekki",
+        "slug": "ibejulekki-ng025009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025009",
+        "level": 2,
+        "name": {
+          "local": "Ibeju/Lekki",
+          "en": "Ibeju/Lekki",
+          "slug": "ibejulekki-ng025009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025009_orimedu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orimedu I",
+      "en": "Orimedu I",
+      "slug": "orimedu-i"
+    },
+    "code": {
+      "id": "NG025009_orimedu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025009",
+      "level": 2,
+      "name": {
+        "local": "Ibeju/Lekki",
+        "en": "Ibeju/Lekki",
+        "slug": "ibejulekki-ng025009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025009",
+        "level": 2,
+        "name": {
+          "local": "Ibeju/Lekki",
+          "en": "Ibeju/Lekki",
+          "slug": "ibejulekki-ng025009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025009_orimedu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orimedu Ii",
+      "en": "Orimedu Ii",
+      "slug": "orimedu-ii"
+    },
+    "code": {
+      "id": "NG025009_orimedu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025009",
+      "level": 2,
+      "name": {
+        "local": "Ibeju/Lekki",
+        "en": "Ibeju/Lekki",
+        "slug": "ibejulekki-ng025009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025009",
+        "level": 2,
+        "name": {
+          "local": "Ibeju/Lekki",
+          "en": "Ibeju/Lekki",
+          "slug": "ibejulekki-ng025009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025009_orimedu-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orimedu Iii",
+      "en": "Orimedu Iii",
+      "slug": "orimedu-iii"
+    },
+    "code": {
+      "id": "NG025009_orimedu-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025009",
+      "level": 2,
+      "name": {
+        "local": "Ibeju/Lekki",
+        "en": "Ibeju/Lekki",
+        "slug": "ibejulekki-ng025009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025009",
+        "level": 2,
+        "name": {
+          "local": "Ibeju/Lekki",
+          "en": "Ibeju/Lekki",
+          "slug": "ibejulekki-ng025009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025009_siriwonigbekodo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Siriwon/igbekodo I",
+      "en": "Siriwon/igbekodo I",
+      "slug": "siriwonigbekodo-i"
+    },
+    "code": {
+      "id": "NG025009_siriwonigbekodo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025009",
+      "level": 2,
+      "name": {
+        "local": "Ibeju/Lekki",
+        "en": "Ibeju/Lekki",
+        "slug": "ibejulekki-ng025009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025009",
+        "level": 2,
+        "name": {
+          "local": "Ibeju/Lekki",
+          "en": "Ibeju/Lekki",
+          "slug": "ibejulekki-ng025009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025009_siriwonigbekodo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Siriwon/igbekodo Ii",
+      "en": "Siriwon/igbekodo Ii",
+      "slug": "siriwonigbekodo-ii"
+    },
+    "code": {
+      "id": "NG025009_siriwonigbekodo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025009",
+      "level": 2,
+      "name": {
+        "local": "Ibeju/Lekki",
+        "en": "Ibeju/Lekki",
+        "slug": "ibejulekki-ng025009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025009",
+        "level": 2,
+        "name": {
+          "local": "Ibeju/Lekki",
+          "en": "Ibeju/Lekki",
+          "slug": "ibejulekki-ng025009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG002003_bakari-guso",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakari Guso",
+      "en": "Bakari Guso",
+      "slug": "bakari-guso"
+    },
+    "code": {
+      "id": "NG002003_bakari-guso",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002003",
+      "level": 2,
+      "name": {
+        "local": "Ganye",
+        "en": "Ganye",
+        "slug": "ganye-ng002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002003",
+        "level": 2,
+        "name": {
+          "local": "Ganye",
+          "en": "Ganye",
+          "slug": "ganye-ng002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.581",
+      "lon": "12.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002003_gamu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamu",
+      "en": "Gamu",
+      "slug": "gamu"
+    },
+    "code": {
+      "id": "NG002003_gamu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002003",
+      "level": 2,
+      "name": {
+        "local": "Ganye",
+        "en": "Ganye",
+        "slug": "ganye-ng002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002003",
+        "level": 2,
+        "name": {
+          "local": "Ganye",
+          "en": "Ganye",
+          "slug": "ganye-ng002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.282",
+      "lon": "12.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002003_ganye-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ganye I",
+      "en": "Ganye I",
+      "slug": "ganye-i"
+    },
+    "code": {
+      "id": "NG002003_ganye-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002003",
+      "level": 2,
+      "name": {
+        "local": "Ganye",
+        "en": "Ganye",
+        "slug": "ganye-ng002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002003",
+        "level": 2,
+        "name": {
+          "local": "Ganye",
+          "en": "Ganye",
+          "slug": "ganye-ng002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.441",
+      "lon": "12.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002003_ganye-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ganye Ii",
+      "en": "Ganye Ii",
+      "slug": "ganye-ii"
+    },
+    "code": {
+      "id": "NG002003_ganye-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002003",
+      "level": 2,
+      "name": {
+        "local": "Ganye",
+        "en": "Ganye",
+        "slug": "ganye-ng002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002003",
+        "level": 2,
+        "name": {
+          "local": "Ganye",
+          "en": "Ganye",
+          "slug": "ganye-ng002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.441",
+      "lon": "12.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002003_gurum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gurum",
+      "en": "Gurum",
+      "slug": "gurum"
+    },
+    "code": {
+      "id": "NG002003_gurum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002003",
+      "level": 2,
+      "name": {
+        "local": "Ganye",
+        "en": "Ganye",
+        "slug": "ganye-ng002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002003",
+        "level": 2,
+        "name": {
+          "local": "Ganye",
+          "en": "Ganye",
+          "slug": "ganye-ng002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.384",
+      "lon": "11.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002003_jaggu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jaggu",
+      "en": "Jaggu",
+      "slug": "jaggu"
+    },
+    "code": {
+      "id": "NG002003_jaggu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002003",
+      "level": 2,
+      "name": {
+        "local": "Ganye",
+        "en": "Ganye",
+        "slug": "ganye-ng002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002003",
+        "level": 2,
+        "name": {
+          "local": "Ganye",
+          "en": "Ganye",
+          "slug": "ganye-ng002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.485",
+      "lon": "12.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002003_sangasumi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sangasumi",
+      "en": "Sangasumi",
+      "slug": "sangasumi"
+    },
+    "code": {
+      "id": "NG002003_sangasumi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002003",
+      "level": 2,
+      "name": {
+        "local": "Ganye",
+        "en": "Ganye",
+        "slug": "ganye-ng002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002003",
+        "level": 2,
+        "name": {
+          "local": "Ganye",
+          "en": "Ganye",
+          "slug": "ganye-ng002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.448",
+      "lon": "12.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002003_sugu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sugu",
+      "en": "Sugu",
+      "slug": "sugu"
+    },
+    "code": {
+      "id": "NG002003_sugu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002003",
+      "level": 2,
+      "name": {
+        "local": "Ganye",
+        "en": "Ganye",
+        "slug": "ganye-ng002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002003",
+        "level": 2,
+        "name": {
+          "local": "Ganye",
+          "en": "Ganye",
+          "slug": "ganye-ng002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.337",
+      "lon": "12.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002003_timdore",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Timdore",
+      "en": "Timdore",
+      "slug": "timdore"
+    },
+    "code": {
+      "id": "NG002003_timdore",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002003",
+      "level": 2,
+      "name": {
+        "local": "Ganye",
+        "en": "Ganye",
+        "slug": "ganye-ng002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002003",
+        "level": 2,
+        "name": {
+          "local": "Ganye",
+          "en": "Ganye",
+          "slug": "ganye-ng002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.486",
+      "lon": "11.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002003_yebbi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yebbi",
+      "en": "Yebbi",
+      "slug": "yebbi"
+    },
+    "code": {
+      "id": "NG002003_yebbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002003",
+      "level": 2,
+      "name": {
+        "local": "Ganye",
+        "en": "Ganye",
+        "slug": "ganye-ng002003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002003",
+        "level": 2,
+        "name": {
+          "local": "Ganye",
+          "en": "Ganye",
+          "slug": "ganye-ng002003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.572",
+      "lon": "11.916"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

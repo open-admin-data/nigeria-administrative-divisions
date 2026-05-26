@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG008026_alarge",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alarge",
+      "en": "Alarge",
+      "slug": "alarge"
+    },
+    "code": {
+      "id": "NG008026_alarge",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008026",
+      "level": 2,
+      "name": {
+        "local": "Nganzai",
+        "en": "Nganzai",
+        "slug": "nganzai-ng008026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008026",
+        "level": 2,
+        "name": {
+          "local": "Nganzai",
+          "en": "Nganzai",
+          "slug": "nganzai-ng008026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.544",
+      "lon": "13.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008026_badu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Badu",
+      "en": "Badu",
+      "slug": "badu"
+    },
+    "code": {
+      "id": "NG008026_badu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008026",
+      "level": 2,
+      "name": {
+        "local": "Nganzai",
+        "en": "Nganzai",
+        "slug": "nganzai-ng008026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008026",
+        "level": 2,
+        "name": {
+          "local": "Nganzai",
+          "en": "Nganzai",
+          "slug": "nganzai-ng008026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.707",
+      "lon": "13.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008026_damaram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damaram",
+      "en": "Damaram",
+      "slug": "damaram"
+    },
+    "code": {
+      "id": "NG008026_damaram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008026",
+      "level": 2,
+      "name": {
+        "local": "Nganzai",
+        "en": "Nganzai",
+        "slug": "nganzai-ng008026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008026",
+        "level": 2,
+        "name": {
+          "local": "Nganzai",
+          "en": "Nganzai",
+          "slug": "nganzai-ng008026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.564",
+      "lon": "13.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008026_gadai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gadai",
+      "en": "Gadai",
+      "slug": "gadai"
+    },
+    "code": {
+      "id": "NG008026_gadai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008026",
+      "level": 2,
+      "name": {
+        "local": "Nganzai",
+        "en": "Nganzai",
+        "slug": "nganzai-ng008026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008026",
+        "level": 2,
+        "name": {
+          "local": "Nganzai",
+          "en": "Nganzai",
+          "slug": "nganzai-ng008026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.426",
+      "lon": "12.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008026_gajiram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gajiram",
+      "en": "Gajiram",
+      "slug": "gajiram"
+    },
+    "code": {
+      "id": "NG008026_gajiram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008026",
+      "level": 2,
+      "name": {
+        "local": "Nganzai",
+        "en": "Nganzai",
+        "slug": "nganzai-ng008026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008026",
+        "level": 2,
+        "name": {
+          "local": "Nganzai",
+          "en": "Nganzai",
+          "slug": "nganzai-ng008026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.412",
+      "lon": "13.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008026_jigalta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jigalta",
+      "en": "Jigalta",
+      "slug": "jigalta"
+    },
+    "code": {
+      "id": "NG008026_jigalta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008026",
+      "level": 2,
+      "name": {
+        "local": "Nganzai",
+        "en": "Nganzai",
+        "slug": "nganzai-ng008026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008026",
+        "level": 2,
+        "name": {
+          "local": "Nganzai",
+          "en": "Nganzai",
+          "slug": "nganzai-ng008026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.589",
+      "lon": "13.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008026_kuda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuda",
+      "en": "Kuda",
+      "slug": "kuda"
+    },
+    "code": {
+      "id": "NG008026_kuda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008026",
+      "level": 2,
+      "name": {
+        "local": "Nganzai",
+        "en": "Nganzai",
+        "slug": "nganzai-ng008026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008026",
+        "level": 2,
+        "name": {
+          "local": "Nganzai",
+          "en": "Nganzai",
+          "slug": "nganzai-ng008026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "13.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008026_kurnawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurnawa",
+      "en": "Kurnawa",
+      "slug": "kurnawa"
+    },
+    "code": {
+      "id": "NG008026_kurnawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008026",
+      "level": 2,
+      "name": {
+        "local": "Nganzai",
+        "en": "Nganzai",
+        "slug": "nganzai-ng008026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008026",
+        "level": 2,
+        "name": {
+          "local": "Nganzai",
+          "en": "Nganzai",
+          "slug": "nganzai-ng008026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.74",
+      "lon": "13.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008026_maiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maiwa",
+      "en": "Maiwa",
+      "slug": "maiwa"
+    },
+    "code": {
+      "id": "NG008026_maiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008026",
+      "level": 2,
+      "name": {
+        "local": "Nganzai",
+        "en": "Nganzai",
+        "slug": "nganzai-ng008026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008026",
+        "level": 2,
+        "name": {
+          "local": "Nganzai",
+          "en": "Nganzai",
+          "slug": "nganzai-ng008026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.339",
+      "lon": "13.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008026_miye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Miye",
+      "en": "Miye",
+      "slug": "miye"
+    },
+    "code": {
+      "id": "NG008026_miye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008026",
+      "level": 2,
+      "name": {
+        "local": "Nganzai",
+        "en": "Nganzai",
+        "slug": "nganzai-ng008026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008026",
+        "level": 2,
+        "name": {
+          "local": "Nganzai",
+          "en": "Nganzai",
+          "slug": "nganzai-ng008026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.186",
+      "lon": "13.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008026_sabsabuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabsabuwa",
+      "en": "Sabsabuwa",
+      "slug": "sabsabuwa"
+    },
+    "code": {
+      "id": "NG008026_sabsabuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008026",
+      "level": 2,
+      "name": {
+        "local": "Nganzai",
+        "en": "Nganzai",
+        "slug": "nganzai-ng008026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008026",
+        "level": 2,
+        "name": {
+          "local": "Nganzai",
+          "en": "Nganzai",
+          "slug": "nganzai-ng008026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.559",
+      "lon": "13.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008026_sugundure",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sugundure",
+      "en": "Sugundure",
+      "slug": "sugundure"
+    },
+    "code": {
+      "id": "NG008026_sugundure",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008026",
+      "level": 2,
+      "name": {
+        "local": "Nganzai",
+        "en": "Nganzai",
+        "slug": "nganzai-ng008026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008026",
+        "level": 2,
+        "name": {
+          "local": "Nganzai",
+          "en": "Nganzai",
+          "slug": "nganzai-ng008026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.433",
+      "lon": "13.253"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

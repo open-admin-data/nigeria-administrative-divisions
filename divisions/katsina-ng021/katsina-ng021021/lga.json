@@ -1,0 +1,47 @@
+{
+  "id": "NG021021",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Katsina",
+    "en": "Katsina",
+    "slug": "katsina-ng021021"
+  },
+  "code": {
+    "id": "NG021021",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG021",
+    "level": 1,
+    "name": {
+      "local": "Katsina",
+      "en": "Katsina",
+      "slug": "katsina-ng021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG021",
+      "level": 1,
+      "name": {
+        "local": "Katsina",
+        "en": "Katsina",
+        "slug": "katsina-ng021"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.009",
+    "lon": "7.613"
+  },
+  "metadata": {},
+  "source": {}
+}

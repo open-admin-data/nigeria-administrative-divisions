@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG008015_jarawasangaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jarawa/sangaya",
+      "en": "Jarawa/sangaya",
+      "slug": "jarawasangaya"
+    },
+    "code": {
+      "id": "NG008015_jarawasangaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008015",
+      "level": 2,
+      "name": {
+        "local": "Kala/Balge",
+        "en": "Kala/Balge",
+        "slug": "kalabalge-ng008015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008015",
+        "level": 2,
+        "name": {
+          "local": "Kala/Balge",
+          "en": "Kala/Balge",
+          "slug": "kalabalge-ng008015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.925",
+      "lon": "14.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008015_jilbe-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jilbe \"a\"",
+      "en": "Jilbe \"a\"",
+      "slug": "jilbe-a"
+    },
+    "code": {
+      "id": "NG008015_jilbe-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008015",
+      "level": 2,
+      "name": {
+        "local": "Kala/Balge",
+        "en": "Kala/Balge",
+        "slug": "kalabalge-ng008015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008015",
+        "level": 2,
+        "name": {
+          "local": "Kala/Balge",
+          "en": "Kala/Balge",
+          "slug": "kalabalge-ng008015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.863",
+      "lon": "14.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008015_jilbe-bkoma-kaudi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jilbe \"b\"/koma Kaudi",
+      "en": "Jilbe \"b\"/koma Kaudi",
+      "slug": "jilbe-bkoma-kaudi"
+    },
+    "code": {
+      "id": "NG008015_jilbe-bkoma-kaudi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008015",
+      "level": 2,
+      "name": {
+        "local": "Kala/Balge",
+        "en": "Kala/Balge",
+        "slug": "kalabalge-ng008015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008015",
+        "level": 2,
+        "name": {
+          "local": "Kala/Balge",
+          "en": "Kala/Balge",
+          "slug": "kalabalge-ng008015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.863",
+      "lon": "14.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008015_kala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kala",
+      "en": "Kala",
+      "slug": "kala"
+    },
+    "code": {
+      "id": "NG008015_kala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008015",
+      "level": 2,
+      "name": {
+        "local": "Kala/Balge",
+        "en": "Kala/Balge",
+        "slug": "kalabalge-ng008015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008015",
+        "level": 2,
+        "name": {
+          "local": "Kala/Balge",
+          "en": "Kala/Balge",
+          "slug": "kalabalge-ng008015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.101",
+      "lon": "14.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008015_kumaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumaga",
+      "en": "Kumaga",
+      "slug": "kumaga"
+    },
+    "code": {
+      "id": "NG008015_kumaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008015",
+      "level": 2,
+      "name": {
+        "local": "Kala/Balge",
+        "en": "Kala/Balge",
+        "slug": "kalabalge-ng008015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008015",
+        "level": 2,
+        "name": {
+          "local": "Kala/Balge",
+          "en": "Kala/Balge",
+          "slug": "kalabalge-ng008015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.159",
+      "lon": "14.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008015_mada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mada",
+      "en": "Mada",
+      "slug": "mada"
+    },
+    "code": {
+      "id": "NG008015_mada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008015",
+      "level": 2,
+      "name": {
+        "local": "Kala/Balge",
+        "en": "Kala/Balge",
+        "slug": "kalabalge-ng008015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008015",
+        "level": 2,
+        "name": {
+          "local": "Kala/Balge",
+          "en": "Kala/Balge",
+          "slug": "kalabalge-ng008015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.922",
+      "lon": "14.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008015_moholo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Moholo",
+      "en": "Moholo",
+      "slug": "moholo"
+    },
+    "code": {
+      "id": "NG008015_moholo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008015",
+      "level": 2,
+      "name": {
+        "local": "Kala/Balge",
+        "en": "Kala/Balge",
+        "slug": "kalabalge-ng008015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008015",
+        "level": 2,
+        "name": {
+          "local": "Kala/Balge",
+          "en": "Kala/Balge",
+          "slug": "kalabalge-ng008015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.238",
+      "lon": "14.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008015_rann-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rann \"a\"",
+      "en": "Rann \"a\"",
+      "slug": "rann-a"
+    },
+    "code": {
+      "id": "NG008015_rann-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008015",
+      "level": 2,
+      "name": {
+        "local": "Kala/Balge",
+        "en": "Kala/Balge",
+        "slug": "kalabalge-ng008015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008015",
+        "level": 2,
+        "name": {
+          "local": "Kala/Balge",
+          "en": "Kala/Balge",
+          "slug": "kalabalge-ng008015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.319",
+      "lon": "14.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008015_rann-bdaima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rann \"b''/daima",
+      "en": "Rann \"b''/daima",
+      "slug": "rann-bdaima"
+    },
+    "code": {
+      "id": "NG008015_rann-bdaima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008015",
+      "level": 2,
+      "name": {
+        "local": "Kala/Balge",
+        "en": "Kala/Balge",
+        "slug": "kalabalge-ng008015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008015",
+        "level": 2,
+        "name": {
+          "local": "Kala/Balge",
+          "en": "Kala/Balge",
+          "slug": "kalabalge-ng008015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.141",
+      "lon": "14.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008015_sigalkarche",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sigal/karche",
+      "en": "Sigal/karche",
+      "slug": "sigalkarche"
+    },
+    "code": {
+      "id": "NG008015_sigalkarche",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008015",
+      "level": 2,
+      "name": {
+        "local": "Kala/Balge",
+        "en": "Kala/Balge",
+        "slug": "kalabalge-ng008015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008015",
+        "level": 2,
+        "name": {
+          "local": "Kala/Balge",
+          "en": "Kala/Balge",
+          "slug": "kalabalge-ng008015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.272",
+      "lon": "14.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

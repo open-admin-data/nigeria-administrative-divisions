@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG022019_ayu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayu",
+      "en": "Ayu",
+      "slug": "ayu"
+    },
+    "code": {
+      "id": "NG022019_ayu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022019",
+      "level": 2,
+      "name": {
+        "local": "Wasagu/Danko",
+        "en": "Wasagu/Danko",
+        "slug": "wasagudanko-ng022019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022019",
+        "level": 2,
+        "name": {
+          "local": "Wasagu/Danko",
+          "en": "Wasagu/Danko",
+          "slug": "wasagudanko-ng022019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.423",
+      "lon": "5.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022019_bena",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bena",
+      "en": "Bena",
+      "slug": "bena"
+    },
+    "code": {
+      "id": "NG022019_bena",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022019",
+      "level": 2,
+      "name": {
+        "local": "Wasagu/Danko",
+        "en": "Wasagu/Danko",
+        "slug": "wasagudanko-ng022019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022019",
+        "level": 2,
+        "name": {
+          "local": "Wasagu/Danko",
+          "en": "Wasagu/Danko",
+          "slug": "wasagudanko-ng022019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.423",
+      "lon": "5.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022019_dan-umarumairairai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Umaru/mairairai",
+      "en": "Dan Umaru/mairairai",
+      "slug": "dan-umarumairairai"
+    },
+    "code": {
+      "id": "NG022019_dan-umarumairairai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022019",
+      "level": 2,
+      "name": {
+        "local": "Wasagu/Danko",
+        "en": "Wasagu/Danko",
+        "slug": "wasagudanko-ng022019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022019",
+        "level": 2,
+        "name": {
+          "local": "Wasagu/Danko",
+          "en": "Wasagu/Danko",
+          "slug": "wasagudanko-ng022019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.423",
+      "lon": "5.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022019_dankomaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danko/maga",
+      "en": "Danko/maga",
+      "slug": "dankomaga"
+    },
+    "code": {
+      "id": "NG022019_dankomaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022019",
+      "level": 2,
+      "name": {
+        "local": "Wasagu/Danko",
+        "en": "Wasagu/Danko",
+        "slug": "wasagudanko-ng022019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022019",
+        "level": 2,
+        "name": {
+          "local": "Wasagu/Danko",
+          "en": "Wasagu/Danko",
+          "slug": "wasagudanko-ng022019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.423",
+      "lon": "5.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022019_gwanfikele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwanfi/kele",
+      "en": "Gwanfi/kele",
+      "slug": "gwanfikele"
+    },
+    "code": {
+      "id": "NG022019_gwanfikele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022019",
+      "level": 2,
+      "name": {
+        "local": "Wasagu/Danko",
+        "en": "Wasagu/Danko",
+        "slug": "wasagudanko-ng022019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022019",
+        "level": 2,
+        "name": {
+          "local": "Wasagu/Danko",
+          "en": "Wasagu/Danko",
+          "slug": "wasagudanko-ng022019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.423",
+      "lon": "5.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022019_kanya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanya",
+      "en": "Kanya",
+      "slug": "kanya"
+    },
+    "code": {
+      "id": "NG022019_kanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022019",
+      "level": 2,
+      "name": {
+        "local": "Wasagu/Danko",
+        "en": "Wasagu/Danko",
+        "slug": "wasagudanko-ng022019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022019",
+        "level": 2,
+        "name": {
+          "local": "Wasagu/Danko",
+          "en": "Wasagu/Danko",
+          "slug": "wasagudanko-ng022019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.423",
+      "lon": "5.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022019_kyabukandu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kyabu/kandu",
+      "en": "Kyabu/kandu",
+      "slug": "kyabukandu"
+    },
+    "code": {
+      "id": "NG022019_kyabukandu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022019",
+      "level": 2,
+      "name": {
+        "local": "Wasagu/Danko",
+        "en": "Wasagu/Danko",
+        "slug": "wasagudanko-ng022019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022019",
+        "level": 2,
+        "name": {
+          "local": "Wasagu/Danko",
+          "en": "Wasagu/Danko",
+          "slug": "wasagudanko-ng022019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.423",
+      "lon": "5.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022019_ribahmachika",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ribah/machika",
+      "en": "Ribah/machika",
+      "slug": "ribahmachika"
+    },
+    "code": {
+      "id": "NG022019_ribahmachika",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022019",
+      "level": 2,
+      "name": {
+        "local": "Wasagu/Danko",
+        "en": "Wasagu/Danko",
+        "slug": "wasagudanko-ng022019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022019",
+        "level": 2,
+        "name": {
+          "local": "Wasagu/Danko",
+          "en": "Wasagu/Danko",
+          "slug": "wasagudanko-ng022019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.423",
+      "lon": "5.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022019_waje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Waje",
+      "en": "Waje",
+      "slug": "waje"
+    },
+    "code": {
+      "id": "NG022019_waje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022019",
+      "level": 2,
+      "name": {
+        "local": "Wasagu/Danko",
+        "en": "Wasagu/Danko",
+        "slug": "wasagudanko-ng022019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022019",
+        "level": 2,
+        "name": {
+          "local": "Wasagu/Danko",
+          "en": "Wasagu/Danko",
+          "slug": "wasagudanko-ng022019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.423",
+      "lon": "5.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022019_wasagu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wasagu",
+      "en": "Wasagu",
+      "slug": "wasagu"
+    },
+    "code": {
+      "id": "NG022019_wasagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022019",
+      "level": 2,
+      "name": {
+        "local": "Wasagu/Danko",
+        "en": "Wasagu/Danko",
+        "slug": "wasagudanko-ng022019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022019",
+        "level": 2,
+        "name": {
+          "local": "Wasagu/Danko",
+          "en": "Wasagu/Danko",
+          "slug": "wasagudanko-ng022019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.423",
+      "lon": "5.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022019_yalmoshindi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yalmo/shindi",
+      "en": "Yalmo/shindi",
+      "slug": "yalmoshindi"
+    },
+    "code": {
+      "id": "NG022019_yalmoshindi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022019",
+      "level": 2,
+      "name": {
+        "local": "Wasagu/Danko",
+        "en": "Wasagu/Danko",
+        "slug": "wasagudanko-ng022019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022019",
+        "level": 2,
+        "name": {
+          "local": "Wasagu/Danko",
+          "en": "Wasagu/Danko",
+          "slug": "wasagudanko-ng022019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.423",
+      "lon": "5.731"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

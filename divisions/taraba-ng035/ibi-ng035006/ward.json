@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG035006_dampar-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dampar I",
+      "en": "Dampar I",
+      "slug": "dampar-i"
+    },
+    "code": {
+      "id": "NG035006_dampar-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035006",
+      "level": 2,
+      "name": {
+        "local": "Ibi",
+        "en": "Ibi",
+        "slug": "ibi-ng035006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035006",
+        "level": 2,
+        "name": {
+          "local": "Ibi",
+          "en": "Ibi",
+          "slug": "ibi-ng035006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.395",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035006_dampar-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dampar Ii",
+      "en": "Dampar Ii",
+      "slug": "dampar-ii"
+    },
+    "code": {
+      "id": "NG035006_dampar-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035006",
+      "level": 2,
+      "name": {
+        "local": "Ibi",
+        "en": "Ibi",
+        "slug": "ibi-ng035006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035006",
+        "level": 2,
+        "name": {
+          "local": "Ibi",
+          "en": "Ibi",
+          "slug": "ibi-ng035006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.395",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035006_dampar-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dampar Iii",
+      "en": "Dampar Iii",
+      "slug": "dampar-iii"
+    },
+    "code": {
+      "id": "NG035006_dampar-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035006",
+      "level": 2,
+      "name": {
+        "local": "Ibi",
+        "en": "Ibi",
+        "slug": "ibi-ng035006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035006",
+        "level": 2,
+        "name": {
+          "local": "Ibi",
+          "en": "Ibi",
+          "slug": "ibi-ng035006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.395",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035006_ibi-nwonyo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibi Nwonyo I",
+      "en": "Ibi Nwonyo I",
+      "slug": "ibi-nwonyo-i"
+    },
+    "code": {
+      "id": "NG035006_ibi-nwonyo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035006",
+      "level": 2,
+      "name": {
+        "local": "Ibi",
+        "en": "Ibi",
+        "slug": "ibi-ng035006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035006",
+        "level": 2,
+        "name": {
+          "local": "Ibi",
+          "en": "Ibi",
+          "slug": "ibi-ng035006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.395",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035006_ibi-nwonyo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibi Nwonyo Ii",
+      "en": "Ibi Nwonyo Ii",
+      "slug": "ibi-nwonyo-ii"
+    },
+    "code": {
+      "id": "NG035006_ibi-nwonyo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035006",
+      "level": 2,
+      "name": {
+        "local": "Ibi",
+        "en": "Ibi",
+        "slug": "ibi-ng035006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035006",
+        "level": 2,
+        "name": {
+          "local": "Ibi",
+          "en": "Ibi",
+          "slug": "ibi-ng035006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.395",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035006_ibi-rimi-uku-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibi Rimi Uku I",
+      "en": "Ibi Rimi Uku I",
+      "slug": "ibi-rimi-uku-i"
+    },
+    "code": {
+      "id": "NG035006_ibi-rimi-uku-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035006",
+      "level": 2,
+      "name": {
+        "local": "Ibi",
+        "en": "Ibi",
+        "slug": "ibi-ng035006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035006",
+        "level": 2,
+        "name": {
+          "local": "Ibi",
+          "en": "Ibi",
+          "slug": "ibi-ng035006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.395",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035006_ibi-rimi-uku-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibi Rimi Uku Ii",
+      "en": "Ibi Rimi Uku Ii",
+      "slug": "ibi-rimi-uku-ii"
+    },
+    "code": {
+      "id": "NG035006_ibi-rimi-uku-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035006",
+      "level": 2,
+      "name": {
+        "local": "Ibi",
+        "en": "Ibi",
+        "slug": "ibi-ng035006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035006",
+        "level": 2,
+        "name": {
+          "local": "Ibi",
+          "en": "Ibi",
+          "slug": "ibi-ng035006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.395",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035006_sarkin-kudu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarkin Kudu I",
+      "en": "Sarkin Kudu I",
+      "slug": "sarkin-kudu-i"
+    },
+    "code": {
+      "id": "NG035006_sarkin-kudu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035006",
+      "level": 2,
+      "name": {
+        "local": "Ibi",
+        "en": "Ibi",
+        "slug": "ibi-ng035006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035006",
+        "level": 2,
+        "name": {
+          "local": "Ibi",
+          "en": "Ibi",
+          "slug": "ibi-ng035006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.395",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035006_sarkin-kudu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarkin Kudu Ii",
+      "en": "Sarkin Kudu Ii",
+      "slug": "sarkin-kudu-ii"
+    },
+    "code": {
+      "id": "NG035006_sarkin-kudu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035006",
+      "level": 2,
+      "name": {
+        "local": "Ibi",
+        "en": "Ibi",
+        "slug": "ibi-ng035006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035006",
+        "level": 2,
+        "name": {
+          "local": "Ibi",
+          "en": "Ibi",
+          "slug": "ibi-ng035006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.395",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035006_sarkin-kudu-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarkin Kudu Iii",
+      "en": "Sarkin Kudu Iii",
+      "slug": "sarkin-kudu-iii"
+    },
+    "code": {
+      "id": "NG035006_sarkin-kudu-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035006",
+      "level": 2,
+      "name": {
+        "local": "Ibi",
+        "en": "Ibi",
+        "slug": "ibi-ng035006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035006",
+        "level": 2,
+        "name": {
+          "local": "Ibi",
+          "en": "Ibi",
+          "slug": "ibi-ng035006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.395",
+      "lon": "9.933"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

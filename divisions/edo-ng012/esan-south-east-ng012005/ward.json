@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG012005_emu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Emu",
+      "en": "Emu",
+      "slug": "emu"
+    },
+    "code": {
+      "id": "NG012005_emu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012005",
+      "level": 2,
+      "name": {
+        "local": "Esan South East",
+        "en": "Esan South East",
+        "slug": "esan-south-east-ng012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012005",
+        "level": 2,
+        "name": {
+          "local": "Esan South East",
+          "en": "Esan South East",
+          "slug": "esan-south-east-ng012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.577",
+      "lon": "6.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012005_ewatto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ewatto",
+      "en": "Ewatto",
+      "slug": "ewatto"
+    },
+    "code": {
+      "id": "NG012005_ewatto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012005",
+      "level": 2,
+      "name": {
+        "local": "Esan South East",
+        "en": "Esan South East",
+        "slug": "esan-south-east-ng012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012005",
+        "level": 2,
+        "name": {
+          "local": "Esan South East",
+          "en": "Esan South East",
+          "slug": "esan-south-east-ng012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.577",
+      "lon": "6.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012005_ewohimi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ewohimi I",
+      "en": "Ewohimi I",
+      "slug": "ewohimi-i"
+    },
+    "code": {
+      "id": "NG012005_ewohimi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012005",
+      "level": 2,
+      "name": {
+        "local": "Esan South East",
+        "en": "Esan South East",
+        "slug": "esan-south-east-ng012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012005",
+        "level": 2,
+        "name": {
+          "local": "Esan South East",
+          "en": "Esan South East",
+          "slug": "esan-south-east-ng012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.577",
+      "lon": "6.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012005_ewohimi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ewohimi Ii",
+      "en": "Ewohimi Ii",
+      "slug": "ewohimi-ii"
+    },
+    "code": {
+      "id": "NG012005_ewohimi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012005",
+      "level": 2,
+      "name": {
+        "local": "Esan South East",
+        "en": "Esan South East",
+        "slug": "esan-south-east-ng012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012005",
+        "level": 2,
+        "name": {
+          "local": "Esan South East",
+          "en": "Esan South East",
+          "slug": "esan-south-east-ng012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.577",
+      "lon": "6.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012005_illushi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Illushi I",
+      "en": "Illushi I",
+      "slug": "illushi-i"
+    },
+    "code": {
+      "id": "NG012005_illushi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012005",
+      "level": 2,
+      "name": {
+        "local": "Esan South East",
+        "en": "Esan South East",
+        "slug": "esan-south-east-ng012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012005",
+        "level": 2,
+        "name": {
+          "local": "Esan South East",
+          "en": "Esan South East",
+          "slug": "esan-south-east-ng012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.577",
+      "lon": "6.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012005_illushi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Illushi Ii",
+      "en": "Illushi Ii",
+      "slug": "illushi-ii"
+    },
+    "code": {
+      "id": "NG012005_illushi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012005",
+      "level": 2,
+      "name": {
+        "local": "Esan South East",
+        "en": "Esan South East",
+        "slug": "esan-south-east-ng012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012005",
+        "level": 2,
+        "name": {
+          "local": "Esan South East",
+          "en": "Esan South East",
+          "slug": "esan-south-east-ng012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.577",
+      "lon": "6.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012005_ohordua",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ohordua",
+      "en": "Ohordua",
+      "slug": "ohordua"
+    },
+    "code": {
+      "id": "NG012005_ohordua",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012005",
+      "level": 2,
+      "name": {
+        "local": "Esan South East",
+        "en": "Esan South East",
+        "slug": "esan-south-east-ng012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012005",
+        "level": 2,
+        "name": {
+          "local": "Esan South East",
+          "en": "Esan South East",
+          "slug": "esan-south-east-ng012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.577",
+      "lon": "6.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012005_ubiaja-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ubiaja I",
+      "en": "Ubiaja I",
+      "slug": "ubiaja-i"
+    },
+    "code": {
+      "id": "NG012005_ubiaja-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012005",
+      "level": 2,
+      "name": {
+        "local": "Esan South East",
+        "en": "Esan South East",
+        "slug": "esan-south-east-ng012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012005",
+        "level": 2,
+        "name": {
+          "local": "Esan South East",
+          "en": "Esan South East",
+          "slug": "esan-south-east-ng012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.577",
+      "lon": "6.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012005_ubiaja-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ubiaja Ii",
+      "en": "Ubiaja Ii",
+      "slug": "ubiaja-ii"
+    },
+    "code": {
+      "id": "NG012005_ubiaja-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012005",
+      "level": 2,
+      "name": {
+        "local": "Esan South East",
+        "en": "Esan South East",
+        "slug": "esan-south-east-ng012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012005",
+        "level": 2,
+        "name": {
+          "local": "Esan South East",
+          "en": "Esan South East",
+          "slug": "esan-south-east-ng012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.577",
+      "lon": "6.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012005_ugboha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugboha",
+      "en": "Ugboha",
+      "slug": "ugboha"
+    },
+    "code": {
+      "id": "NG012005_ugboha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012005",
+      "level": 2,
+      "name": {
+        "local": "Esan South East",
+        "en": "Esan South East",
+        "slug": "esan-south-east-ng012005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012005",
+        "level": 2,
+        "name": {
+          "local": "Esan South East",
+          "en": "Esan South East",
+          "slug": "esan-south-east-ng012005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.577",
+      "lon": "6.486"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

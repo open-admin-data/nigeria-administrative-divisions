@@ -1,0 +1,47 @@
+{
+  "id": "NG028018",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ogun waterside",
+    "en": "Ogun waterside",
+    "slug": "ogun-waterside-ng028018"
+  },
+  "code": {
+    "id": "NG028018",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG028",
+    "level": 1,
+    "name": {
+      "local": "Ogun",
+      "en": "Ogun",
+      "slug": "ogun-ng028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.474",
+    "lon": "4.368"
+  },
+  "metadata": {},
+  "source": {}
+}

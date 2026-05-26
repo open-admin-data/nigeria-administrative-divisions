@@ -1,0 +1,47 @@
+{
+  "id": "NG014007",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Igbo-Etiti",
+    "en": "Igbo-Etiti",
+    "slug": "igbo-etiti-ng014007"
+  },
+  "code": {
+    "id": "NG014007",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG014",
+    "level": 1,
+    "name": {
+      "local": "Enugu",
+      "en": "Enugu",
+      "slug": "enugu-ng014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG014",
+      "level": 1,
+      "name": {
+        "local": "Enugu",
+        "en": "Enugu",
+        "slug": "enugu-ng014"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.69",
+    "lon": "7.392"
+  },
+  "metadata": {},
+  "source": {}
+}

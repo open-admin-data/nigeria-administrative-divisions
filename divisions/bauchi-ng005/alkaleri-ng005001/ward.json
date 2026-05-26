@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG005001_alkaleri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alkaleri",
+      "en": "Alkaleri",
+      "slug": "alkaleri"
+    },
+    "code": {
+      "id": "NG005001_alkaleri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005001",
+      "level": 2,
+      "name": {
+        "local": "Alkaleri",
+        "en": "Alkaleri",
+        "slug": "alkaleri-ng005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005001",
+        "level": 2,
+        "name": {
+          "local": "Alkaleri",
+          "en": "Alkaleri",
+          "slug": "alkaleri-ng005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.896",
+      "lon": "10.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005001_birin-gigara-yankari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birin/ Gigara/ Yankari",
+      "en": "Birin/ Gigara/ Yankari",
+      "slug": "birin-gigara-yankari"
+    },
+    "code": {
+      "id": "NG005001_birin-gigara-yankari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005001",
+      "level": 2,
+      "name": {
+        "local": "Alkaleri",
+        "en": "Alkaleri",
+        "slug": "alkaleri-ng005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005001",
+        "level": 2,
+        "name": {
+          "local": "Alkaleri",
+          "en": "Alkaleri",
+          "slug": "alkaleri-ng005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.896",
+      "lon": "10.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005001_dan-kungibar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Kungibar",
+      "en": "Dan Kungibar",
+      "slug": "dan-kungibar"
+    },
+    "code": {
+      "id": "NG005001_dan-kungibar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005001",
+      "level": 2,
+      "name": {
+        "local": "Alkaleri",
+        "en": "Alkaleri",
+        "slug": "alkaleri-ng005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005001",
+        "level": 2,
+        "name": {
+          "local": "Alkaleri",
+          "en": "Alkaleri",
+          "slug": "alkaleri-ng005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.896",
+      "lon": "10.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005001_futuk",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Futuk",
+      "en": "Futuk",
+      "slug": "futuk"
+    },
+    "code": {
+      "id": "NG005001_futuk",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005001",
+      "level": 2,
+      "name": {
+        "local": "Alkaleri",
+        "en": "Alkaleri",
+        "slug": "alkaleri-ng005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005001",
+        "level": 2,
+        "name": {
+          "local": "Alkaleri",
+          "en": "Alkaleri",
+          "slug": "alkaleri-ng005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.896",
+      "lon": "10.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005001_gar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gar",
+      "en": "Gar",
+      "slug": "gar"
+    },
+    "code": {
+      "id": "NG005001_gar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005001",
+      "level": 2,
+      "name": {
+        "local": "Alkaleri",
+        "en": "Alkaleri",
+        "slug": "alkaleri-ng005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005001",
+        "level": 2,
+        "name": {
+          "local": "Alkaleri",
+          "en": "Alkaleri",
+          "slug": "alkaleri-ng005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.896",
+      "lon": "10.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005001_gwana-mansur",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwana / Mansur",
+      "en": "Gwana / Mansur",
+      "slug": "gwana-mansur"
+    },
+    "code": {
+      "id": "NG005001_gwana-mansur",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005001",
+      "level": 2,
+      "name": {
+        "local": "Alkaleri",
+        "en": "Alkaleri",
+        "slug": "alkaleri-ng005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005001",
+        "level": 2,
+        "name": {
+          "local": "Alkaleri",
+          "en": "Alkaleri",
+          "slug": "alkaleri-ng005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.896",
+      "lon": "10.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005001_gwaram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwaram",
+      "en": "Gwaram",
+      "slug": "gwaram"
+    },
+    "code": {
+      "id": "NG005001_gwaram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005001",
+      "level": 2,
+      "name": {
+        "local": "Alkaleri",
+        "en": "Alkaleri",
+        "slug": "alkaleri-ng005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005001",
+        "level": 2,
+        "name": {
+          "local": "Alkaleri",
+          "en": "Alkaleri",
+          "slug": "alkaleri-ng005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.896",
+      "lon": "10.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005001_maimadi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maimadi",
+      "en": "Maimadi",
+      "slug": "maimadi"
+    },
+    "code": {
+      "id": "NG005001_maimadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005001",
+      "level": 2,
+      "name": {
+        "local": "Alkaleri",
+        "en": "Alkaleri",
+        "slug": "alkaleri-ng005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005001",
+        "level": 2,
+        "name": {
+          "local": "Alkaleri",
+          "en": "Alkaleri",
+          "slug": "alkaleri-ng005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.896",
+      "lon": "10.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005001_pali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pali",
+      "en": "Pali",
+      "slug": "pali"
+    },
+    "code": {
+      "id": "NG005001_pali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005001",
+      "level": 2,
+      "name": {
+        "local": "Alkaleri",
+        "en": "Alkaleri",
+        "slug": "alkaleri-ng005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005001",
+        "level": 2,
+        "name": {
+          "local": "Alkaleri",
+          "en": "Alkaleri",
+          "slug": "alkaleri-ng005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.896",
+      "lon": "10.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005001_yalo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yalo",
+      "en": "Yalo",
+      "slug": "yalo"
+    },
+    "code": {
+      "id": "NG005001_yalo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005001",
+      "level": 2,
+      "name": {
+        "local": "Alkaleri",
+        "en": "Alkaleri",
+        "slug": "alkaleri-ng005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005001",
+        "level": 2,
+        "name": {
+          "local": "Alkaleri",
+          "en": "Alkaleri",
+          "slug": "alkaleri-ng005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.896",
+      "lon": "10.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005001_yuli-lim",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yuli/ Lim",
+      "en": "Yuli/ Lim",
+      "slug": "yuli-lim"
+    },
+    "code": {
+      "id": "NG005001_yuli-lim",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005001",
+      "level": 2,
+      "name": {
+        "local": "Alkaleri",
+        "en": "Alkaleri",
+        "slug": "alkaleri-ng005001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005001",
+        "level": 2,
+        "name": {
+          "local": "Alkaleri",
+          "en": "Alkaleri",
+          "slug": "alkaleri-ng005001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.896",
+      "lon": "10.445"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

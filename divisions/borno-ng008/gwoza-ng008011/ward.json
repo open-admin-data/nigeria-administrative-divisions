@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG008011_ashigashiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ashigashiya",
+      "en": "Ashigashiya",
+      "slug": "ashigashiya"
+    },
+    "code": {
+      "id": "NG008011_ashigashiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.139",
+      "lon": "13.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008011_bita-izge",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bita / Izge",
+      "en": "Bita / Izge",
+      "slug": "bita-izge"
+    },
+    "code": {
+      "id": "NG008011_bita-izge",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.177",
+      "lon": "13.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008011_dure-wala-warabe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dure / Wala / Warabe",
+      "en": "Dure / Wala / Warabe",
+      "slug": "dure-wala-warabe"
+    },
+    "code": {
+      "id": "NG008011_dure-wala-warabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.263",
+      "lon": "13.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008011_gavva-agapalwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gavva / Agapalwa",
+      "en": "Gavva / Agapalwa",
+      "slug": "gavva-agapalwa"
+    },
+    "code": {
+      "id": "NG008011_gavva-agapalwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.177",
+      "lon": "13.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008011_guduf-nagadiyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guduf Nagadiyo",
+      "en": "Guduf Nagadiyo",
+      "slug": "guduf-nagadiyo"
+    },
+    "code": {
+      "id": "NG008011_guduf-nagadiyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.091",
+      "lon": "13.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008011_gwoza-town-gadamayo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwoza Town Gadamayo",
+      "en": "Gwoza Town Gadamayo",
+      "slug": "gwoza-town-gadamayo"
+    },
+    "code": {
+      "id": "NG008011_gwoza-town-gadamayo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.177",
+      "lon": "13.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008011_gwoza-wakane-bulabulin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwoza Wakane / Bulabulin",
+      "en": "Gwoza Wakane / Bulabulin",
+      "slug": "gwoza-wakane-bulabulin"
+    },
+    "code": {
+      "id": "NG008011_gwoza-wakane-bulabulin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.105",
+      "lon": "13.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008011_hambagda-liman-kara-new-settlement",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hambagda/ Liman Kara/ New Settlement",
+      "en": "Hambagda/ Liman Kara/ New Settlement",
+      "slug": "hambagda-liman-kara-new-settlement"
+    },
+    "code": {
+      "id": "NG008011_hambagda-liman-kara-new-settlement",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.023",
+      "lon": "13.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008011_johodechikidekughum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Johode/chikide/kughum",
+      "en": "Johode/chikide/kughum",
+      "slug": "johodechikidekughum"
+    },
+    "code": {
+      "id": "NG008011_johodechikidekughum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.058",
+      "lon": "13.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008011_kirawajimini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kirawa/jimini",
+      "en": "Kirawa/jimini",
+      "slug": "kirawajimini"
+    },
+    "code": {
+      "id": "NG008011_kirawajimini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.228",
+      "lon": "13.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008011_kurana-bassangoshe---samaa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurana Bassa/ngoshe - Sama'a",
+      "en": "Kurana Bassa/ngoshe - Sama'a",
+      "slug": "kurana-bassangoshe---samaa"
+    },
+    "code": {
+      "id": "NG008011_kurana-bassangoshe---samaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.007",
+      "lon": "13.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008011_ngoshe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngoshe",
+      "en": "Ngoshe",
+      "slug": "ngoshe"
+    },
+    "code": {
+      "id": "NG008011_ngoshe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.133",
+      "lon": "13.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008011_pulkabokko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pulka/bokko",
+      "en": "Pulka/bokko",
+      "slug": "pulkabokko"
+    },
+    "code": {
+      "id": "NG008011_pulkabokko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008011",
+      "level": 2,
+      "name": {
+        "local": "Gwoza",
+        "en": "Gwoza",
+        "slug": "gwoza-ng008011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008011",
+        "level": 2,
+        "name": {
+          "local": "Gwoza",
+          "en": "Gwoza",
+          "slug": "gwoza-ng008011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.231",
+      "lon": "13.808"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

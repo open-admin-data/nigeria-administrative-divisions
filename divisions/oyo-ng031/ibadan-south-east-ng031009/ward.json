@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG031009_c1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "C1",
+      "en": "C1",
+      "slug": "c1"
+    },
+    "code": {
+      "id": "NG031009_c1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031009",
+      "level": 2,
+      "name": {
+        "local": "Ibadan South East",
+        "en": "Ibadan South East",
+        "slug": "ibadan-south-east-ng031009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031009",
+        "level": 2,
+        "name": {
+          "local": "Ibadan South East",
+          "en": "Ibadan South East",
+          "slug": "ibadan-south-east-ng031009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031009_s-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S 1",
+      "en": "S 1",
+      "slug": "s-1"
+    },
+    "code": {
+      "id": "NG031009_s-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031009",
+      "level": 2,
+      "name": {
+        "local": "Ibadan South East",
+        "en": "Ibadan South East",
+        "slug": "ibadan-south-east-ng031009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031009",
+        "level": 2,
+        "name": {
+          "local": "Ibadan South East",
+          "en": "Ibadan South East",
+          "slug": "ibadan-south-east-ng031009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031009_s-2a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S 2a",
+      "en": "S 2a",
+      "slug": "s-2a"
+    },
+    "code": {
+      "id": "NG031009_s-2a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031009",
+      "level": 2,
+      "name": {
+        "local": "Ibadan South East",
+        "en": "Ibadan South East",
+        "slug": "ibadan-south-east-ng031009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031009",
+        "level": 2,
+        "name": {
+          "local": "Ibadan South East",
+          "en": "Ibadan South East",
+          "slug": "ibadan-south-east-ng031009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031009_s-3",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S 3",
+      "en": "S 3",
+      "slug": "s-3"
+    },
+    "code": {
+      "id": "NG031009_s-3",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031009",
+      "level": 2,
+      "name": {
+        "local": "Ibadan South East",
+        "en": "Ibadan South East",
+        "slug": "ibadan-south-east-ng031009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031009",
+        "level": 2,
+        "name": {
+          "local": "Ibadan South East",
+          "en": "Ibadan South East",
+          "slug": "ibadan-south-east-ng031009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031009_s-4a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S 4a",
+      "en": "S 4a",
+      "slug": "s-4a"
+    },
+    "code": {
+      "id": "NG031009_s-4a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031009",
+      "level": 2,
+      "name": {
+        "local": "Ibadan South East",
+        "en": "Ibadan South East",
+        "slug": "ibadan-south-east-ng031009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031009",
+        "level": 2,
+        "name": {
+          "local": "Ibadan South East",
+          "en": "Ibadan South East",
+          "slug": "ibadan-south-east-ng031009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031009_s-4b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S 4b",
+      "en": "S 4b",
+      "slug": "s-4b"
+    },
+    "code": {
+      "id": "NG031009_s-4b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031009",
+      "level": 2,
+      "name": {
+        "local": "Ibadan South East",
+        "en": "Ibadan South East",
+        "slug": "ibadan-south-east-ng031009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031009",
+        "level": 2,
+        "name": {
+          "local": "Ibadan South East",
+          "en": "Ibadan South East",
+          "slug": "ibadan-south-east-ng031009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031009_s-6a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S 6a",
+      "en": "S 6a",
+      "slug": "s-6a"
+    },
+    "code": {
+      "id": "NG031009_s-6a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031009",
+      "level": 2,
+      "name": {
+        "local": "Ibadan South East",
+        "en": "Ibadan South East",
+        "slug": "ibadan-south-east-ng031009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031009",
+        "level": 2,
+        "name": {
+          "local": "Ibadan South East",
+          "en": "Ibadan South East",
+          "slug": "ibadan-south-east-ng031009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031009_s-7a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S 7a",
+      "en": "S 7a",
+      "slug": "s-7a"
+    },
+    "code": {
+      "id": "NG031009_s-7a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031009",
+      "level": 2,
+      "name": {
+        "local": "Ibadan South East",
+        "en": "Ibadan South East",
+        "slug": "ibadan-south-east-ng031009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031009",
+        "level": 2,
+        "name": {
+          "local": "Ibadan South East",
+          "en": "Ibadan South East",
+          "slug": "ibadan-south-east-ng031009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031009_s-7b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S 7b",
+      "en": "S 7b",
+      "slug": "s-7b"
+    },
+    "code": {
+      "id": "NG031009_s-7b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031009",
+      "level": 2,
+      "name": {
+        "local": "Ibadan South East",
+        "en": "Ibadan South East",
+        "slug": "ibadan-south-east-ng031009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031009",
+        "level": 2,
+        "name": {
+          "local": "Ibadan South East",
+          "en": "Ibadan South East",
+          "slug": "ibadan-south-east-ng031009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031009_s-s5",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S S5",
+      "en": "S S5",
+      "slug": "s-s5"
+    },
+    "code": {
+      "id": "NG031009_s-s5",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031009",
+      "level": 2,
+      "name": {
+        "local": "Ibadan South East",
+        "en": "Ibadan South East",
+        "slug": "ibadan-south-east-ng031009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031009",
+        "level": 2,
+        "name": {
+          "local": "Ibadan South East",
+          "en": "Ibadan South East",
+          "slug": "ibadan-south-east-ng031009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031009_s-2b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S. 2b",
+      "en": "S. 2b",
+      "slug": "s-2b"
+    },
+    "code": {
+      "id": "NG031009_s-2b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031009",
+      "level": 2,
+      "name": {
+        "local": "Ibadan South East",
+        "en": "Ibadan South East",
+        "slug": "ibadan-south-east-ng031009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031009",
+        "level": 2,
+        "name": {
+          "local": "Ibadan South East",
+          "en": "Ibadan South East",
+          "slug": "ibadan-south-east-ng031009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031009_s-6b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S. 6b",
+      "en": "S. 6b",
+      "slug": "s-6b"
+    },
+    "code": {
+      "id": "NG031009_s-6b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031009",
+      "level": 2,
+      "name": {
+        "local": "Ibadan South East",
+        "en": "Ibadan South East",
+        "slug": "ibadan-south-east-ng031009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031009",
+        "level": 2,
+        "name": {
+          "local": "Ibadan South East",
+          "en": "Ibadan South East",
+          "slug": "ibadan-south-east-ng031009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.357",
+      "lon": "3.905"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

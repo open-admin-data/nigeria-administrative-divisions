@@ -1,0 +1,47 @@
+{
+  "id": "NG018014",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Jahun",
+    "en": "Jahun",
+    "slug": "jahun-ng018014"
+  },
+  "code": {
+    "id": "NG018014",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG018",
+    "level": 1,
+    "name": {
+      "local": "Jigawa",
+      "en": "Jigawa",
+      "slug": "jigawa-ng018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.065",
+    "lon": "9.561"
+  },
+  "metadata": {},
+  "source": {}
+}

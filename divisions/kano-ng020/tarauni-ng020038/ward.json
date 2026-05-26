@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020038_babban-giji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Babban Giji",
+      "en": "Babban Giji",
+      "slug": "babban-giji"
+    },
+    "code": {
+      "id": "NG020038_babban-giji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020038",
+      "level": 2,
+      "name": {
+        "local": "Tarauni",
+        "en": "Tarauni",
+        "slug": "tarauni-ng020038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020038",
+        "level": 2,
+        "name": {
+          "local": "Tarauni",
+          "en": "Tarauni",
+          "slug": "tarauni-ng020038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.964",
+      "lon": "8.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020038_darmanawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Darmanawa",
+      "en": "Darmanawa",
+      "slug": "darmanawa"
+    },
+    "code": {
+      "id": "NG020038_darmanawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020038",
+      "level": 2,
+      "name": {
+        "local": "Tarauni",
+        "en": "Tarauni",
+        "slug": "tarauni-ng020038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020038",
+        "level": 2,
+        "name": {
+          "local": "Tarauni",
+          "en": "Tarauni",
+          "slug": "tarauni-ng020038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.964",
+      "lon": "8.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020038_daurawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daurawa",
+      "en": "Daurawa",
+      "slug": "daurawa"
+    },
+    "code": {
+      "id": "NG020038_daurawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020038",
+      "level": 2,
+      "name": {
+        "local": "Tarauni",
+        "en": "Tarauni",
+        "slug": "tarauni-ng020038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020038",
+        "level": 2,
+        "name": {
+          "local": "Tarauni",
+          "en": "Tarauni",
+          "slug": "tarauni-ng020038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.964",
+      "lon": "8.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020038_gyadi-gyadi-arewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gyadi-gyadi Arewa",
+      "en": "Gyadi-gyadi Arewa",
+      "slug": "gyadi-gyadi-arewa"
+    },
+    "code": {
+      "id": "NG020038_gyadi-gyadi-arewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020038",
+      "level": 2,
+      "name": {
+        "local": "Tarauni",
+        "en": "Tarauni",
+        "slug": "tarauni-ng020038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020038",
+        "level": 2,
+        "name": {
+          "local": "Tarauni",
+          "en": "Tarauni",
+          "slug": "tarauni-ng020038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.964",
+      "lon": "8.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020038_gyadi-gyadi-kudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gyadi-gyadi Kudu",
+      "en": "Gyadi-gyadi Kudu",
+      "slug": "gyadi-gyadi-kudu"
+    },
+    "code": {
+      "id": "NG020038_gyadi-gyadi-kudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020038",
+      "level": 2,
+      "name": {
+        "local": "Tarauni",
+        "en": "Tarauni",
+        "slug": "tarauni-ng020038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020038",
+        "level": 2,
+        "name": {
+          "local": "Tarauni",
+          "en": "Tarauni",
+          "slug": "tarauni-ng020038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.964",
+      "lon": "8.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020038_hotoro-nnpc",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hotoro (nnpc)",
+      "en": "Hotoro (nnpc)",
+      "slug": "hotoro-nnpc"
+    },
+    "code": {
+      "id": "NG020038_hotoro-nnpc",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020038",
+      "level": 2,
+      "name": {
+        "local": "Tarauni",
+        "en": "Tarauni",
+        "slug": "tarauni-ng020038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020038",
+        "level": 2,
+        "name": {
+          "local": "Tarauni",
+          "en": "Tarauni",
+          "slug": "tarauni-ng020038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.964",
+      "lon": "8.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020038_kauyen-alu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kauyen Alu",
+      "en": "Kauyen Alu",
+      "slug": "kauyen-alu"
+    },
+    "code": {
+      "id": "NG020038_kauyen-alu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020038",
+      "level": 2,
+      "name": {
+        "local": "Tarauni",
+        "en": "Tarauni",
+        "slug": "tarauni-ng020038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020038",
+        "level": 2,
+        "name": {
+          "local": "Tarauni",
+          "en": "Tarauni",
+          "slug": "tarauni-ng020038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.964",
+      "lon": "8.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020038_tarauni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tarauni",
+      "en": "Tarauni",
+      "slug": "tarauni"
+    },
+    "code": {
+      "id": "NG020038_tarauni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020038",
+      "level": 2,
+      "name": {
+        "local": "Tarauni",
+        "en": "Tarauni",
+        "slug": "tarauni-ng020038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020038",
+        "level": 2,
+        "name": {
+          "local": "Tarauni",
+          "en": "Tarauni",
+          "slug": "tarauni-ng020038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.964",
+      "lon": "8.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020038_unguwa-uku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwa Uku",
+      "en": "Unguwa Uku",
+      "slug": "unguwa-uku"
+    },
+    "code": {
+      "id": "NG020038_unguwa-uku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020038",
+      "level": 2,
+      "name": {
+        "local": "Tarauni",
+        "en": "Tarauni",
+        "slug": "tarauni-ng020038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020038",
+        "level": 2,
+        "name": {
+          "local": "Tarauni",
+          "en": "Tarauni",
+          "slug": "tarauni-ng020038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.964",
+      "lon": "8.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020038_unguwar-gano",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Gano",
+      "en": "Unguwar Gano",
+      "slug": "unguwar-gano"
+    },
+    "code": {
+      "id": "NG020038_unguwar-gano",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020038",
+      "level": 2,
+      "name": {
+        "local": "Tarauni",
+        "en": "Tarauni",
+        "slug": "tarauni-ng020038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020038",
+        "level": 2,
+        "name": {
+          "local": "Tarauni",
+          "en": "Tarauni",
+          "slug": "tarauni-ng020038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.964",
+      "lon": "8.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

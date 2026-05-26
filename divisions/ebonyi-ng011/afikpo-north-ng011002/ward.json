@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG011002_amata-akpoha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amata-akpoha",
+      "en": "Amata-akpoha",
+      "slug": "amata-akpoha"
+    },
+    "code": {
+      "id": "NG011002_amata-akpoha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011002",
+      "level": 2,
+      "name": {
+        "local": "Afikpo North",
+        "en": "Afikpo North",
+        "slug": "afikpo-north-ng011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011002",
+        "level": 2,
+        "name": {
+          "local": "Afikpo North",
+          "en": "Afikpo North",
+          "slug": "afikpo-north-ng011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "7.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011002_amogu-akpoha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amogu Akpoha",
+      "en": "Amogu Akpoha",
+      "slug": "amogu-akpoha"
+    },
+    "code": {
+      "id": "NG011002_amogu-akpoha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011002",
+      "level": 2,
+      "name": {
+        "local": "Afikpo North",
+        "en": "Afikpo North",
+        "slug": "afikpo-north-ng011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011002",
+        "level": 2,
+        "name": {
+          "local": "Afikpo North",
+          "en": "Afikpo North",
+          "slug": "afikpo-north-ng011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "7.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011002_ezeke-amasiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ezeke Amasiri",
+      "en": "Ezeke Amasiri",
+      "slug": "ezeke-amasiri"
+    },
+    "code": {
+      "id": "NG011002_ezeke-amasiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011002",
+      "level": 2,
+      "name": {
+        "local": "Afikpo North",
+        "en": "Afikpo North",
+        "slug": "afikpo-north-ng011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011002",
+        "level": 2,
+        "name": {
+          "local": "Afikpo North",
+          "en": "Afikpo North",
+          "slug": "afikpo-north-ng011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "7.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011002_ibiioziza-afikpo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibii/oziza Afikpo",
+      "en": "Ibii/oziza Afikpo",
+      "slug": "ibiioziza-afikpo"
+    },
+    "code": {
+      "id": "NG011002_ibiioziza-afikpo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011002",
+      "level": 2,
+      "name": {
+        "local": "Afikpo North",
+        "en": "Afikpo North",
+        "slug": "afikpo-north-ng011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011002",
+        "level": 2,
+        "name": {
+          "local": "Afikpo North",
+          "en": "Afikpo North",
+          "slug": "afikpo-north-ng011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "7.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011002_itim-afikpo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Itim Afikpo",
+      "en": "Itim Afikpo",
+      "slug": "itim-afikpo"
+    },
+    "code": {
+      "id": "NG011002_itim-afikpo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011002",
+      "level": 2,
+      "name": {
+        "local": "Afikpo North",
+        "en": "Afikpo North",
+        "slug": "afikpo-north-ng011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011002",
+        "level": 2,
+        "name": {
+          "local": "Afikpo North",
+          "en": "Afikpo North",
+          "slug": "afikpo-north-ng011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "7.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011002_nkpoghoro-afikpo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkpoghoro Afikpo",
+      "en": "Nkpoghoro Afikpo",
+      "slug": "nkpoghoro-afikpo"
+    },
+    "code": {
+      "id": "NG011002_nkpoghoro-afikpo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011002",
+      "level": 2,
+      "name": {
+        "local": "Afikpo North",
+        "en": "Afikpo North",
+        "slug": "afikpo-north-ng011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011002",
+        "level": 2,
+        "name": {
+          "local": "Afikpo North",
+          "en": "Afikpo North",
+          "slug": "afikpo-north-ng011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "7.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011002_ohaisu-afikpo-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ohaisu Afikpo A",
+      "en": "Ohaisu Afikpo A",
+      "slug": "ohaisu-afikpo-a"
+    },
+    "code": {
+      "id": "NG011002_ohaisu-afikpo-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011002",
+      "level": 2,
+      "name": {
+        "local": "Afikpo North",
+        "en": "Afikpo North",
+        "slug": "afikpo-north-ng011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011002",
+        "level": 2,
+        "name": {
+          "local": "Afikpo North",
+          "en": "Afikpo North",
+          "slug": "afikpo-north-ng011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "7.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011002_ohaisu-afikpo-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ohaisu Afikpo B",
+      "en": "Ohaisu Afikpo B",
+      "slug": "ohaisu-afikpo-b"
+    },
+    "code": {
+      "id": "NG011002_ohaisu-afikpo-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011002",
+      "level": 2,
+      "name": {
+        "local": "Afikpo North",
+        "en": "Afikpo North",
+        "slug": "afikpo-north-ng011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011002",
+        "level": 2,
+        "name": {
+          "local": "Afikpo North",
+          "en": "Afikpo North",
+          "slug": "afikpo-north-ng011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "7.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011002_poperi-amasiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Poperi Amasiri",
+      "en": "Poperi Amasiri",
+      "slug": "poperi-amasiri"
+    },
+    "code": {
+      "id": "NG011002_poperi-amasiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011002",
+      "level": 2,
+      "name": {
+        "local": "Afikpo North",
+        "en": "Afikpo North",
+        "slug": "afikpo-north-ng011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011002",
+        "level": 2,
+        "name": {
+          "local": "Afikpo North",
+          "en": "Afikpo North",
+          "slug": "afikpo-north-ng011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "7.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011002_ugwuegu-afikpo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugwuegu Afikpo",
+      "en": "Ugwuegu Afikpo",
+      "slug": "ugwuegu-afikpo"
+    },
+    "code": {
+      "id": "NG011002_ugwuegu-afikpo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011002",
+      "level": 2,
+      "name": {
+        "local": "Afikpo North",
+        "en": "Afikpo North",
+        "slug": "afikpo-north-ng011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011002",
+        "level": 2,
+        "name": {
+          "local": "Afikpo North",
+          "en": "Afikpo North",
+          "slug": "afikpo-north-ng011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "7.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011002_uwana-afikpo-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uwana Afikpo 1",
+      "en": "Uwana Afikpo 1",
+      "slug": "uwana-afikpo-1"
+    },
+    "code": {
+      "id": "NG011002_uwana-afikpo-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011002",
+      "level": 2,
+      "name": {
+        "local": "Afikpo North",
+        "en": "Afikpo North",
+        "slug": "afikpo-north-ng011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011002",
+        "level": 2,
+        "name": {
+          "local": "Afikpo North",
+          "en": "Afikpo North",
+          "slug": "afikpo-north-ng011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "7.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011002_uwana-afikpo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uwana Afikpo Ii",
+      "en": "Uwana Afikpo Ii",
+      "slug": "uwana-afikpo-ii"
+    },
+    "code": {
+      "id": "NG011002_uwana-afikpo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011002",
+      "level": 2,
+      "name": {
+        "local": "Afikpo North",
+        "en": "Afikpo North",
+        "slug": "afikpo-north-ng011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011002",
+        "level": 2,
+        "name": {
+          "local": "Afikpo North",
+          "en": "Afikpo North",
+          "slug": "afikpo-north-ng011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.858",
+      "lon": "7.923"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

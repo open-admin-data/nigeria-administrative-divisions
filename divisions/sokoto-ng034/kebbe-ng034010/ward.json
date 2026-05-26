@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG034010_fakku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fakku",
+      "en": "Fakku",
+      "slug": "fakku"
+    },
+    "code": {
+      "id": "NG034010_fakku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034010",
+      "level": 2,
+      "name": {
+        "local": "Kebbe",
+        "en": "Kebbe",
+        "slug": "kebbe-ng034010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034010",
+        "level": 2,
+        "name": {
+          "local": "Kebbe",
+          "en": "Kebbe",
+          "slug": "kebbe-ng034010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.914",
+      "lon": "4.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034010_girkau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Girkau",
+      "en": "Girkau",
+      "slug": "girkau"
+    },
+    "code": {
+      "id": "NG034010_girkau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034010",
+      "level": 2,
+      "name": {
+        "local": "Kebbe",
+        "en": "Kebbe",
+        "slug": "kebbe-ng034010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034010",
+        "level": 2,
+        "name": {
+          "local": "Kebbe",
+          "en": "Kebbe",
+          "slug": "kebbe-ng034010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.914",
+      "lon": "4.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034010_kebbe-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kebbe East",
+      "en": "Kebbe East",
+      "slug": "kebbe-east"
+    },
+    "code": {
+      "id": "NG034010_kebbe-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034010",
+      "level": 2,
+      "name": {
+        "local": "Kebbe",
+        "en": "Kebbe",
+        "slug": "kebbe-ng034010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034010",
+        "level": 2,
+        "name": {
+          "local": "Kebbe",
+          "en": "Kebbe",
+          "slug": "kebbe-ng034010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.914",
+      "lon": "4.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034010_kebbe-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kebbe West",
+      "en": "Kebbe West",
+      "slug": "kebbe-west"
+    },
+    "code": {
+      "id": "NG034010_kebbe-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034010",
+      "level": 2,
+      "name": {
+        "local": "Kebbe",
+        "en": "Kebbe",
+        "slug": "kebbe-ng034010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034010",
+        "level": 2,
+        "name": {
+          "local": "Kebbe",
+          "en": "Kebbe",
+          "slug": "kebbe-ng034010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.914",
+      "lon": "4.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034010_kuchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuchi",
+      "en": "Kuchi",
+      "slug": "kuchi"
+    },
+    "code": {
+      "id": "NG034010_kuchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034010",
+      "level": 2,
+      "name": {
+        "local": "Kebbe",
+        "en": "Kebbe",
+        "slug": "kebbe-ng034010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034010",
+        "level": 2,
+        "name": {
+          "local": "Kebbe",
+          "en": "Kebbe",
+          "slug": "kebbe-ng034010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.914",
+      "lon": "4.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034010_margai---a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Margai - A",
+      "en": "Margai - A",
+      "slug": "margai---a"
+    },
+    "code": {
+      "id": "NG034010_margai---a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034010",
+      "level": 2,
+      "name": {
+        "local": "Kebbe",
+        "en": "Kebbe",
+        "slug": "kebbe-ng034010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034010",
+        "level": 2,
+        "name": {
+          "local": "Kebbe",
+          "en": "Kebbe",
+          "slug": "kebbe-ng034010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.914",
+      "lon": "4.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034010_margai---b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Margai - B",
+      "en": "Margai - B",
+      "slug": "margai---b"
+    },
+    "code": {
+      "id": "NG034010_margai---b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034010",
+      "level": 2,
+      "name": {
+        "local": "Kebbe",
+        "en": "Kebbe",
+        "slug": "kebbe-ng034010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034010",
+        "level": 2,
+        "name": {
+          "local": "Kebbe",
+          "en": "Kebbe",
+          "slug": "kebbe-ng034010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.914",
+      "lon": "4.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034010_nasagudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasagudu",
+      "en": "Nasagudu",
+      "slug": "nasagudu"
+    },
+    "code": {
+      "id": "NG034010_nasagudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034010",
+      "level": 2,
+      "name": {
+        "local": "Kebbe",
+        "en": "Kebbe",
+        "slug": "kebbe-ng034010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034010",
+        "level": 2,
+        "name": {
+          "local": "Kebbe",
+          "en": "Kebbe",
+          "slug": "kebbe-ng034010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.914",
+      "lon": "4.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034010_sangi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sangi",
+      "en": "Sangi",
+      "slug": "sangi"
+    },
+    "code": {
+      "id": "NG034010_sangi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034010",
+      "level": 2,
+      "name": {
+        "local": "Kebbe",
+        "en": "Kebbe",
+        "slug": "kebbe-ng034010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034010",
+        "level": 2,
+        "name": {
+          "local": "Kebbe",
+          "en": "Kebbe",
+          "slug": "kebbe-ng034010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.914",
+      "lon": "4.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034010_ungushi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ungushi",
+      "en": "Ungushi",
+      "slug": "ungushi"
+    },
+    "code": {
+      "id": "NG034010_ungushi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034010",
+      "level": 2,
+      "name": {
+        "local": "Kebbe",
+        "en": "Kebbe",
+        "slug": "kebbe-ng034010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034010",
+        "level": 2,
+        "name": {
+          "local": "Kebbe",
+          "en": "Kebbe",
+          "slug": "kebbe-ng034010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.914",
+      "lon": "4.754"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

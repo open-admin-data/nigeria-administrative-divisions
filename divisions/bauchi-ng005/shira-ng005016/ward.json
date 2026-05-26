@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG005016_andubun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Andubun",
+      "en": "Andubun",
+      "slug": "andubun"
+    },
+    "code": {
+      "id": "NG005016_andubun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005016",
+      "level": 2,
+      "name": {
+        "local": "Shira",
+        "en": "Shira",
+        "slug": "shira-ng005016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005016",
+        "level": 2,
+        "name": {
+          "local": "Shira",
+          "en": "Shira",
+          "slug": "shira-ng005016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.462",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005016_beligagidaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Beli/gagidaba",
+      "en": "Beli/gagidaba",
+      "slug": "beligagidaba"
+    },
+    "code": {
+      "id": "NG005016_beligagidaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005016",
+      "level": 2,
+      "name": {
+        "local": "Shira",
+        "en": "Shira",
+        "slug": "shira-ng005016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005016",
+        "level": 2,
+        "name": {
+          "local": "Shira",
+          "en": "Shira",
+          "slug": "shira-ng005016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.462",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005016_bukulbangire",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bukul/bangire",
+      "en": "Bukul/bangire",
+      "slug": "bukulbangire"
+    },
+    "code": {
+      "id": "NG005016_bukulbangire",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005016",
+      "level": 2,
+      "name": {
+        "local": "Shira",
+        "en": "Shira",
+        "slug": "shira-ng005016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005016",
+        "level": 2,
+        "name": {
+          "local": "Shira",
+          "en": "Shira",
+          "slug": "shira-ng005016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.462",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005016_disina",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Disina",
+      "en": "Disina",
+      "slug": "disina"
+    },
+    "code": {
+      "id": "NG005016_disina",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005016",
+      "level": 2,
+      "name": {
+        "local": "Shira",
+        "en": "Shira",
+        "slug": "shira-ng005016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005016",
+        "level": 2,
+        "name": {
+          "local": "Shira",
+          "en": "Shira",
+          "slug": "shira-ng005016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.462",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005016_faggo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Faggo",
+      "en": "Faggo",
+      "slug": "faggo"
+    },
+    "code": {
+      "id": "NG005016_faggo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005016",
+      "level": 2,
+      "name": {
+        "local": "Shira",
+        "en": "Shira",
+        "slug": "shira-ng005016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005016",
+        "level": 2,
+        "name": {
+          "local": "Shira",
+          "en": "Shira",
+          "slug": "shira-ng005016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.462",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005016_kilbori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kilbori",
+      "en": "Kilbori",
+      "slug": "kilbori"
+    },
+    "code": {
+      "id": "NG005016_kilbori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005016",
+      "level": 2,
+      "name": {
+        "local": "Shira",
+        "en": "Shira",
+        "slug": "shira-ng005016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005016",
+        "level": 2,
+        "name": {
+          "local": "Shira",
+          "en": "Shira",
+          "slug": "shira-ng005016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.462",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005016_sambuwal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sambuwal",
+      "en": "Sambuwal",
+      "slug": "sambuwal"
+    },
+    "code": {
+      "id": "NG005016_sambuwal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005016",
+      "level": 2,
+      "name": {
+        "local": "Shira",
+        "en": "Shira",
+        "slug": "shira-ng005016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005016",
+        "level": 2,
+        "name": {
+          "local": "Shira",
+          "en": "Shira",
+          "slug": "shira-ng005016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.462",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005016_shira",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shira",
+      "en": "Shira",
+      "slug": "shira"
+    },
+    "code": {
+      "id": "NG005016_shira",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005016",
+      "level": 2,
+      "name": {
+        "local": "Shira",
+        "en": "Shira",
+        "slug": "shira-ng005016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005016",
+        "level": 2,
+        "name": {
+          "local": "Shira",
+          "en": "Shira",
+          "slug": "shira-ng005016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.462",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005016_tsafi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsafi",
+      "en": "Tsafi",
+      "slug": "tsafi"
+    },
+    "code": {
+      "id": "NG005016_tsafi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005016",
+      "level": 2,
+      "name": {
+        "local": "Shira",
+        "en": "Shira",
+        "slug": "shira-ng005016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005016",
+        "level": 2,
+        "name": {
+          "local": "Shira",
+          "en": "Shira",
+          "slug": "shira-ng005016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.462",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005016_tumfafi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tumfafi",
+      "en": "Tumfafi",
+      "slug": "tumfafi"
+    },
+    "code": {
+      "id": "NG005016_tumfafi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005016",
+      "level": 2,
+      "name": {
+        "local": "Shira",
+        "en": "Shira",
+        "slug": "shira-ng005016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005016",
+        "level": 2,
+        "name": {
+          "local": "Shira",
+          "en": "Shira",
+          "slug": "shira-ng005016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.462",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005016_zubo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zubo",
+      "en": "Zubo",
+      "slug": "zubo"
+    },
+    "code": {
+      "id": "NG005016_zubo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005016",
+      "level": 2,
+      "name": {
+        "local": "Shira",
+        "en": "Shira",
+        "slug": "shira-ng005016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005016",
+        "level": 2,
+        "name": {
+          "local": "Shira",
+          "en": "Shira",
+          "slug": "shira-ng005016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.462",
+      "lon": "10.043"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

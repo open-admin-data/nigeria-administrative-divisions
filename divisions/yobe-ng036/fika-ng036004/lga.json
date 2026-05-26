@@ -1,0 +1,47 @@
+{
+  "id": "NG036004",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Fika",
+    "en": "Fika",
+    "slug": "fika-ng036004"
+  },
+  "code": {
+    "id": "NG036004",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG036",
+    "level": 1,
+    "name": {
+      "local": "Yobe",
+      "en": "Yobe",
+      "slug": "yobe-ng036"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.351",
+    "lon": "11.183"
+  },
+  "metadata": {},
+  "source": {}
+}

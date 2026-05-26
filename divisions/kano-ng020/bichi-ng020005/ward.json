@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG020005_badume",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Badume",
+      "en": "Badume",
+      "slug": "badume"
+    },
+    "code": {
+      "id": "NG020005_badume",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020005",
+      "level": 2,
+      "name": {
+        "local": "Bichi",
+        "en": "Bichi",
+        "slug": "bichi-ng020005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020005",
+        "level": 2,
+        "name": {
+          "local": "Bichi",
+          "en": "Bichi",
+          "slug": "bichi-ng020005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020005_bichi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bichi",
+      "en": "Bichi",
+      "slug": "bichi"
+    },
+    "code": {
+      "id": "NG020005_bichi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020005",
+      "level": 2,
+      "name": {
+        "local": "Bichi",
+        "en": "Bichi",
+        "slug": "bichi-ng020005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020005",
+        "level": 2,
+        "name": {
+          "local": "Bichi",
+          "en": "Bichi",
+          "slug": "bichi-ng020005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020005_danzabuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danzabuwa",
+      "en": "Danzabuwa",
+      "slug": "danzabuwa"
+    },
+    "code": {
+      "id": "NG020005_danzabuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020005",
+      "level": 2,
+      "name": {
+        "local": "Bichi",
+        "en": "Bichi",
+        "slug": "bichi-ng020005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020005",
+        "level": 2,
+        "name": {
+          "local": "Bichi",
+          "en": "Bichi",
+          "slug": "bichi-ng020005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020005_fagolo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fagolo",
+      "en": "Fagolo",
+      "slug": "fagolo"
+    },
+    "code": {
+      "id": "NG020005_fagolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020005",
+      "level": 2,
+      "name": {
+        "local": "Bichi",
+        "en": "Bichi",
+        "slug": "bichi-ng020005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020005",
+        "level": 2,
+        "name": {
+          "local": "Bichi",
+          "en": "Bichi",
+          "slug": "bichi-ng020005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020005_kaukau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaukau",
+      "en": "Kaukau",
+      "slug": "kaukau"
+    },
+    "code": {
+      "id": "NG020005_kaukau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020005",
+      "level": 2,
+      "name": {
+        "local": "Bichi",
+        "en": "Bichi",
+        "slug": "bichi-ng020005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020005",
+        "level": 2,
+        "name": {
+          "local": "Bichi",
+          "en": "Bichi",
+          "slug": "bichi-ng020005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020005_kwamarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwamarawa",
+      "en": "Kwamarawa",
+      "slug": "kwamarawa"
+    },
+    "code": {
+      "id": "NG020005_kwamarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020005",
+      "level": 2,
+      "name": {
+        "local": "Bichi",
+        "en": "Bichi",
+        "slug": "bichi-ng020005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020005",
+        "level": 2,
+        "name": {
+          "local": "Bichi",
+          "en": "Bichi",
+          "slug": "bichi-ng020005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020005_kyalli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kyalli",
+      "en": "Kyalli",
+      "slug": "kyalli"
+    },
+    "code": {
+      "id": "NG020005_kyalli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020005",
+      "level": 2,
+      "name": {
+        "local": "Bichi",
+        "en": "Bichi",
+        "slug": "bichi-ng020005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020005",
+        "level": 2,
+        "name": {
+          "local": "Bichi",
+          "en": "Bichi",
+          "slug": "bichi-ng020005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020005_muntsira",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Muntsira",
+      "en": "Muntsira",
+      "slug": "muntsira"
+    },
+    "code": {
+      "id": "NG020005_muntsira",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020005",
+      "level": 2,
+      "name": {
+        "local": "Bichi",
+        "en": "Bichi",
+        "slug": "bichi-ng020005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020005",
+        "level": 2,
+        "name": {
+          "local": "Bichi",
+          "en": "Bichi",
+          "slug": "bichi-ng020005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020005_saye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Saye",
+      "en": "Saye",
+      "slug": "saye"
+    },
+    "code": {
+      "id": "NG020005_saye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020005",
+      "level": 2,
+      "name": {
+        "local": "Bichi",
+        "en": "Bichi",
+        "slug": "bichi-ng020005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020005",
+        "level": 2,
+        "name": {
+          "local": "Bichi",
+          "en": "Bichi",
+          "slug": "bichi-ng020005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020005_waire",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Waire",
+      "en": "Waire",
+      "slug": "waire"
+    },
+    "code": {
+      "id": "NG020005_waire",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020005",
+      "level": 2,
+      "name": {
+        "local": "Bichi",
+        "en": "Bichi",
+        "slug": "bichi-ng020005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020005",
+        "level": 2,
+        "name": {
+          "local": "Bichi",
+          "en": "Bichi",
+          "slug": "bichi-ng020005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020005_yallami",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yallami",
+      "en": "Yallami",
+      "slug": "yallami"
+    },
+    "code": {
+      "id": "NG020005_yallami",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020005",
+      "level": 2,
+      "name": {
+        "local": "Bichi",
+        "en": "Bichi",
+        "slug": "bichi-ng020005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020005",
+        "level": 2,
+        "name": {
+          "local": "Bichi",
+          "en": "Bichi",
+          "slug": "bichi-ng020005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "8.301"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG003012_1tak",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "1tak",
+      "en": "1tak",
+      "slug": "1tak"
+    },
+    "code": {
+      "id": "NG003012_1tak",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003012",
+      "level": 2,
+      "name": {
+        "local": "Ikono",
+        "en": "Ikono",
+        "slug": "ikono-ng003012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003012",
+        "level": 2,
+        "name": {
+          "local": "Ikono",
+          "en": "Ikono",
+          "slug": "ikono-ng003012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "7.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003012_ediene-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ediene 1",
+      "en": "Ediene 1",
+      "slug": "ediene-1"
+    },
+    "code": {
+      "id": "NG003012_ediene-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003012",
+      "level": 2,
+      "name": {
+        "local": "Ikono",
+        "en": "Ikono",
+        "slug": "ikono-ng003012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003012",
+        "level": 2,
+        "name": {
+          "local": "Ikono",
+          "en": "Ikono",
+          "slug": "ikono-ng003012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "7.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003012_ediene-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ediene 11",
+      "en": "Ediene 11",
+      "slug": "ediene-11"
+    },
+    "code": {
+      "id": "NG003012_ediene-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003012",
+      "level": 2,
+      "name": {
+        "local": "Ikono",
+        "en": "Ikono",
+        "slug": "ikono-ng003012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003012",
+        "level": 2,
+        "name": {
+          "local": "Ikono",
+          "en": "Ikono",
+          "slug": "ikono-ng003012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "7.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003012_ikono-middle-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikono Middle 1",
+      "en": "Ikono Middle 1",
+      "slug": "ikono-middle-1"
+    },
+    "code": {
+      "id": "NG003012_ikono-middle-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003012",
+      "level": 2,
+      "name": {
+        "local": "Ikono",
+        "en": "Ikono",
+        "slug": "ikono-ng003012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003012",
+        "level": 2,
+        "name": {
+          "local": "Ikono",
+          "en": "Ikono",
+          "slug": "ikono-ng003012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "7.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003012_ikono-middle-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikono Middle 11",
+      "en": "Ikono Middle 11",
+      "slug": "ikono-middle-11"
+    },
+    "code": {
+      "id": "NG003012_ikono-middle-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003012",
+      "level": 2,
+      "name": {
+        "local": "Ikono",
+        "en": "Ikono",
+        "slug": "ikono-ng003012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003012",
+        "level": 2,
+        "name": {
+          "local": "Ikono",
+          "en": "Ikono",
+          "slug": "ikono-ng003012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "7.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003012_ikono-middle-111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikono Middle 111",
+      "en": "Ikono Middle 111",
+      "slug": "ikono-middle-111"
+    },
+    "code": {
+      "id": "NG003012_ikono-middle-111",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003012",
+      "level": 2,
+      "name": {
+        "local": "Ikono",
+        "en": "Ikono",
+        "slug": "ikono-ng003012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003012",
+        "level": 2,
+        "name": {
+          "local": "Ikono",
+          "en": "Ikono",
+          "slug": "ikono-ng003012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "7.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003012_ikono-middle-1v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikono Middle 1v",
+      "en": "Ikono Middle 1v",
+      "slug": "ikono-middle-1v"
+    },
+    "code": {
+      "id": "NG003012_ikono-middle-1v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003012",
+      "level": 2,
+      "name": {
+        "local": "Ikono",
+        "en": "Ikono",
+        "slug": "ikono-ng003012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003012",
+        "level": 2,
+        "name": {
+          "local": "Ikono",
+          "en": "Ikono",
+          "slug": "ikono-ng003012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "7.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003012_ikono-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikono South",
+      "en": "Ikono South",
+      "slug": "ikono-south"
+    },
+    "code": {
+      "id": "NG003012_ikono-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003012",
+      "level": 2,
+      "name": {
+        "local": "Ikono",
+        "en": "Ikono",
+        "slug": "ikono-ng003012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003012",
+        "level": 2,
+        "name": {
+          "local": "Ikono",
+          "en": "Ikono",
+          "slug": "ikono-ng003012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "7.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003012_ndiyaikot-idaha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndiya/ikot Idaha",
+      "en": "Ndiya/ikot Idaha",
+      "slug": "ndiyaikot-idaha"
+    },
+    "code": {
+      "id": "NG003012_ndiyaikot-idaha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003012",
+      "level": 2,
+      "name": {
+        "local": "Ikono",
+        "en": "Ikono",
+        "slug": "ikono-ng003012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003012",
+        "level": 2,
+        "name": {
+          "local": "Ikono",
+          "en": "Ikono",
+          "slug": "ikono-ng003012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "7.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003012_nkwot-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkwot 1",
+      "en": "Nkwot 1",
+      "slug": "nkwot-1"
+    },
+    "code": {
+      "id": "NG003012_nkwot-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003012",
+      "level": 2,
+      "name": {
+        "local": "Ikono",
+        "en": "Ikono",
+        "slug": "ikono-ng003012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003012",
+        "level": 2,
+        "name": {
+          "local": "Ikono",
+          "en": "Ikono",
+          "slug": "ikono-ng003012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "7.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG003012_nkwot-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkwot 11",
+      "en": "Nkwot 11",
+      "slug": "nkwot-11"
+    },
+    "code": {
+      "id": "NG003012_nkwot-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG003012",
+      "level": 2,
+      "name": {
+        "local": "Ikono",
+        "en": "Ikono",
+        "slug": "ikono-ng003012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG003",
+        "level": 1,
+        "name": {
+          "local": "Akwa Ibom",
+          "en": "Akwa Ibom",
+          "slug": "akwa-ibom-ng003"
+        }
+      },
+      {
+        "id": "NG003012",
+        "level": 2,
+        "name": {
+          "local": "Ikono",
+          "en": "Ikono",
+          "slug": "ikono-ng003012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "7.793"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG035004_galumjina",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galumjina",
+      "en": "Galumjina",
+      "slug": "galumjina"
+    },
+    "code": {
+      "id": "NG035004_galumjina",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035004",
+      "level": 2,
+      "name": {
+        "local": "Gashaka",
+        "en": "Gashaka",
+        "slug": "gashaka-ng035004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035004",
+        "level": 2,
+        "name": {
+          "local": "Gashaka",
+          "en": "Gashaka",
+          "slug": "gashaka-ng035004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "11.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035004_gangumi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gangumi",
+      "en": "Gangumi",
+      "slug": "gangumi"
+    },
+    "code": {
+      "id": "NG035004_gangumi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035004",
+      "level": 2,
+      "name": {
+        "local": "Gashaka",
+        "en": "Gashaka",
+        "slug": "gashaka-ng035004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035004",
+        "level": 2,
+        "name": {
+          "local": "Gashaka",
+          "en": "Gashaka",
+          "slug": "gashaka-ng035004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "11.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035004_garbabi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garbabi",
+      "en": "Garbabi",
+      "slug": "garbabi"
+    },
+    "code": {
+      "id": "NG035004_garbabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035004",
+      "level": 2,
+      "name": {
+        "local": "Gashaka",
+        "en": "Gashaka",
+        "slug": "gashaka-ng035004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035004",
+        "level": 2,
+        "name": {
+          "local": "Gashaka",
+          "en": "Gashaka",
+          "slug": "gashaka-ng035004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "11.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035004_gashaka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gashaka",
+      "en": "Gashaka",
+      "slug": "gashaka"
+    },
+    "code": {
+      "id": "NG035004_gashaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035004",
+      "level": 2,
+      "name": {
+        "local": "Gashaka",
+        "en": "Gashaka",
+        "slug": "gashaka-ng035004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035004",
+        "level": 2,
+        "name": {
+          "local": "Gashaka",
+          "en": "Gashaka",
+          "slug": "gashaka-ng035004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "11.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035004_gayam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gayam",
+      "en": "Gayam",
+      "slug": "gayam"
+    },
+    "code": {
+      "id": "NG035004_gayam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035004",
+      "level": 2,
+      "name": {
+        "local": "Gashaka",
+        "en": "Gashaka",
+        "slug": "gashaka-ng035004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035004",
+        "level": 2,
+        "name": {
+          "local": "Gashaka",
+          "en": "Gashaka",
+          "slug": "gashaka-ng035004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "11.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035004_jamtari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jamtari",
+      "en": "Jamtari",
+      "slug": "jamtari"
+    },
+    "code": {
+      "id": "NG035004_jamtari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035004",
+      "level": 2,
+      "name": {
+        "local": "Gashaka",
+        "en": "Gashaka",
+        "slug": "gashaka-ng035004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035004",
+        "level": 2,
+        "name": {
+          "local": "Gashaka",
+          "en": "Gashaka",
+          "slug": "gashaka-ng035004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "11.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035004_mai-idanu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mai-idanu",
+      "en": "Mai-idanu",
+      "slug": "mai-idanu"
+    },
+    "code": {
+      "id": "NG035004_mai-idanu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035004",
+      "level": 2,
+      "name": {
+        "local": "Gashaka",
+        "en": "Gashaka",
+        "slug": "gashaka-ng035004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035004",
+        "level": 2,
+        "name": {
+          "local": "Gashaka",
+          "en": "Gashaka",
+          "slug": "gashaka-ng035004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "11.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035004_mayo-selbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayo Selbe",
+      "en": "Mayo Selbe",
+      "slug": "mayo-selbe"
+    },
+    "code": {
+      "id": "NG035004_mayo-selbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035004",
+      "level": 2,
+      "name": {
+        "local": "Gashaka",
+        "en": "Gashaka",
+        "slug": "gashaka-ng035004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035004",
+        "level": 2,
+        "name": {
+          "local": "Gashaka",
+          "en": "Gashaka",
+          "slug": "gashaka-ng035004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "11.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035004_serti-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Serti 'a'",
+      "en": "Serti 'a'",
+      "slug": "serti-a"
+    },
+    "code": {
+      "id": "NG035004_serti-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035004",
+      "level": 2,
+      "name": {
+        "local": "Gashaka",
+        "en": "Gashaka",
+        "slug": "gashaka-ng035004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035004",
+        "level": 2,
+        "name": {
+          "local": "Gashaka",
+          "en": "Gashaka",
+          "slug": "gashaka-ng035004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "11.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035004_serti-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Serti 'b'",
+      "en": "Serti 'b'",
+      "slug": "serti-b"
+    },
+    "code": {
+      "id": "NG035004_serti-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035004",
+      "level": 2,
+      "name": {
+        "local": "Gashaka",
+        "en": "Gashaka",
+        "slug": "gashaka-ng035004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035004",
+        "level": 2,
+        "name": {
+          "local": "Gashaka",
+          "en": "Gashaka",
+          "slug": "gashaka-ng035004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.509",
+      "lon": "11.338"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

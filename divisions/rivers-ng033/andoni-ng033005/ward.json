@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG033005_agwut-obolo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agwut-obolo",
+      "en": "Agwut-obolo",
+      "slug": "agwut-obolo"
+    },
+    "code": {
+      "id": "NG033005_agwut-obolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033005",
+      "level": 2,
+      "name": {
+        "local": "Andoni",
+        "en": "Andoni",
+        "slug": "andoni-ng033005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033005",
+        "level": 2,
+        "name": {
+          "local": "Andoni",
+          "en": "Andoni",
+          "slug": "andoni-ng033005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033005_asarama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asarama",
+      "en": "Asarama",
+      "slug": "asarama"
+    },
+    "code": {
+      "id": "NG033005_asarama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033005",
+      "level": 2,
+      "name": {
+        "local": "Andoni",
+        "en": "Andoni",
+        "slug": "andoni-ng033005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033005",
+        "level": 2,
+        "name": {
+          "local": "Andoni",
+          "en": "Andoni",
+          "slug": "andoni-ng033005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033005_ataba-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ataba I",
+      "en": "Ataba I",
+      "slug": "ataba-i"
+    },
+    "code": {
+      "id": "NG033005_ataba-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033005",
+      "level": 2,
+      "name": {
+        "local": "Andoni",
+        "en": "Andoni",
+        "slug": "andoni-ng033005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033005",
+        "level": 2,
+        "name": {
+          "local": "Andoni",
+          "en": "Andoni",
+          "slug": "andoni-ng033005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033005_ataba-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ataba Ii",
+      "en": "Ataba Ii",
+      "slug": "ataba-ii"
+    },
+    "code": {
+      "id": "NG033005_ataba-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033005",
+      "level": 2,
+      "name": {
+        "local": "Andoni",
+        "en": "Andoni",
+        "slug": "andoni-ng033005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033005",
+        "level": 2,
+        "name": {
+          "local": "Andoni",
+          "en": "Andoni",
+          "slug": "andoni-ng033005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033005_ekede",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekede",
+      "en": "Ekede",
+      "slug": "ekede"
+    },
+    "code": {
+      "id": "NG033005_ekede",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033005",
+      "level": 2,
+      "name": {
+        "local": "Andoni",
+        "en": "Andoni",
+        "slug": "andoni-ng033005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033005",
+        "level": 2,
+        "name": {
+          "local": "Andoni",
+          "en": "Andoni",
+          "slug": "andoni-ng033005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033005_ikuru-town",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikuru Town",
+      "en": "Ikuru Town",
+      "slug": "ikuru-town"
+    },
+    "code": {
+      "id": "NG033005_ikuru-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033005",
+      "level": 2,
+      "name": {
+        "local": "Andoni",
+        "en": "Andoni",
+        "slug": "andoni-ng033005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033005",
+        "level": 2,
+        "name": {
+          "local": "Andoni",
+          "en": "Andoni",
+          "slug": "andoni-ng033005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033005_ngo-town",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngo Town",
+      "en": "Ngo Town",
+      "slug": "ngo-town"
+    },
+    "code": {
+      "id": "NG033005_ngo-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033005",
+      "level": 2,
+      "name": {
+        "local": "Andoni",
+        "en": "Andoni",
+        "slug": "andoni-ng033005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033005",
+        "level": 2,
+        "name": {
+          "local": "Andoni",
+          "en": "Andoni",
+          "slug": "andoni-ng033005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033005_samanga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Samanga",
+      "en": "Samanga",
+      "slug": "samanga"
+    },
+    "code": {
+      "id": "NG033005_samanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033005",
+      "level": 2,
+      "name": {
+        "local": "Andoni",
+        "en": "Andoni",
+        "slug": "andoni-ng033005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033005",
+        "level": 2,
+        "name": {
+          "local": "Andoni",
+          "en": "Andoni",
+          "slug": "andoni-ng033005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033005_unyeada-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unyeada I",
+      "en": "Unyeada I",
+      "slug": "unyeada-i"
+    },
+    "code": {
+      "id": "NG033005_unyeada-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033005",
+      "level": 2,
+      "name": {
+        "local": "Andoni",
+        "en": "Andoni",
+        "slug": "andoni-ng033005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033005",
+        "level": 2,
+        "name": {
+          "local": "Andoni",
+          "en": "Andoni",
+          "slug": "andoni-ng033005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033005_unyeada-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unyeada Ii",
+      "en": "Unyeada Ii",
+      "slug": "unyeada-ii"
+    },
+    "code": {
+      "id": "NG033005_unyeada-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033005",
+      "level": 2,
+      "name": {
+        "local": "Andoni",
+        "en": "Andoni",
+        "slug": "andoni-ng033005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033005",
+        "level": 2,
+        "name": {
+          "local": "Andoni",
+          "en": "Andoni",
+          "slug": "andoni-ng033005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033005_unyen-gala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unyen Gala",
+      "en": "Unyen Gala",
+      "slug": "unyen-gala"
+    },
+    "code": {
+      "id": "NG033005_unyen-gala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033005",
+      "level": 2,
+      "name": {
+        "local": "Andoni",
+        "en": "Andoni",
+        "slug": "andoni-ng033005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033005",
+        "level": 2,
+        "name": {
+          "local": "Andoni",
+          "en": "Andoni",
+          "slug": "andoni-ng033005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG036012_chilariye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chilariye",
+      "en": "Chilariye",
+      "slug": "chilariye"
+    },
+    "code": {
+      "id": "NG036012_chilariye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036012",
+      "level": 2,
+      "name": {
+        "local": "Nangere",
+        "en": "Nangere",
+        "slug": "nangere-ng036012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036012",
+        "level": 2,
+        "name": {
+          "local": "Nangere",
+          "en": "Nangere",
+          "slug": "nangere-ng036012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.677",
+      "lon": "10.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036012_dadiso-chukuriwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dadiso / Chukuriwa",
+      "en": "Dadiso / Chukuriwa",
+      "slug": "dadiso-chukuriwa"
+    },
+    "code": {
+      "id": "NG036012_dadiso-chukuriwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036012",
+      "level": 2,
+      "name": {
+        "local": "Nangere",
+        "en": "Nangere",
+        "slug": "nangere-ng036012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036012",
+        "level": 2,
+        "name": {
+          "local": "Nangere",
+          "en": "Nangere",
+          "slug": "nangere-ng036012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.808",
+      "lon": "11.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036012_dawasagbaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dawasa/g.baba",
+      "en": "Dawasa/g.baba",
+      "slug": "dawasagbaba"
+    },
+    "code": {
+      "id": "NG036012_dawasagbaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036012",
+      "level": 2,
+      "name": {
+        "local": "Nangere",
+        "en": "Nangere",
+        "slug": "nangere-ng036012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036012",
+        "level": 2,
+        "name": {
+          "local": "Nangere",
+          "en": "Nangere",
+          "slug": "nangere-ng036012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.939",
+      "lon": "10.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036012_dazigau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dazigau",
+      "en": "Dazigau",
+      "slug": "dazigau"
+    },
+    "code": {
+      "id": "NG036012_dazigau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036012",
+      "level": 2,
+      "name": {
+        "local": "Nangere",
+        "en": "Nangere",
+        "slug": "nangere-ng036012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036012",
+        "level": 2,
+        "name": {
+          "local": "Nangere",
+          "en": "Nangere",
+          "slug": "nangere-ng036012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.738",
+      "lon": "10.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036012_degubi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Degubi",
+      "en": "Degubi",
+      "slug": "degubi"
+    },
+    "code": {
+      "id": "NG036012_degubi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036012",
+      "level": 2,
+      "name": {
+        "local": "Nangere",
+        "en": "Nangere",
+        "slug": "nangere-ng036012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036012",
+        "level": 2,
+        "name": {
+          "local": "Nangere",
+          "en": "Nangere",
+          "slug": "nangere-ng036012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.621",
+      "lon": "10.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036012_kukurichiromari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kukuri/chiromari",
+      "en": "Kukuri/chiromari",
+      "slug": "kukurichiromari"
+    },
+    "code": {
+      "id": "NG036012_kukurichiromari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036012",
+      "level": 2,
+      "name": {
+        "local": "Nangere",
+        "en": "Nangere",
+        "slug": "nangere-ng036012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036012",
+        "level": 2,
+        "name": {
+          "local": "Nangere",
+          "en": "Nangere",
+          "slug": "nangere-ng036012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.886",
+      "lon": "10.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036012_langawa-darin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Langawa / Darin",
+      "en": "Langawa / Darin",
+      "slug": "langawa-darin"
+    },
+    "code": {
+      "id": "NG036012_langawa-darin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036012",
+      "level": 2,
+      "name": {
+        "local": "Nangere",
+        "en": "Nangere",
+        "slug": "nangere-ng036012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036012",
+        "level": 2,
+        "name": {
+          "local": "Nangere",
+          "en": "Nangere",
+          "slug": "nangere-ng036012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.574",
+      "lon": "10.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036012_nangere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nangere",
+      "en": "Nangere",
+      "slug": "nangere"
+    },
+    "code": {
+      "id": "NG036012_nangere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036012",
+      "level": 2,
+      "name": {
+        "local": "Nangere",
+        "en": "Nangere",
+        "slug": "nangere-ng036012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036012",
+        "level": 2,
+        "name": {
+          "local": "Nangere",
+          "en": "Nangere",
+          "slug": "nangere-ng036012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.83",
+      "lon": "11.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036012_pakarau-kare-kare-pakarau-fulani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pakarau Kare-kare/ Pakarau Fulani",
+      "en": "Pakarau Kare-kare/ Pakarau Fulani",
+      "slug": "pakarau-kare-kare-pakarau-fulani"
+    },
+    "code": {
+      "id": "NG036012_pakarau-kare-kare-pakarau-fulani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036012",
+      "level": 2,
+      "name": {
+        "local": "Nangere",
+        "en": "Nangere",
+        "slug": "nangere-ng036012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036012",
+        "level": 2,
+        "name": {
+          "local": "Nangere",
+          "en": "Nangere",
+          "slug": "nangere-ng036012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.808",
+      "lon": "11.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036012_tikau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tikau",
+      "en": "Tikau",
+      "slug": "tikau"
+    },
+    "code": {
+      "id": "NG036012_tikau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036012",
+      "level": 2,
+      "name": {
+        "local": "Nangere",
+        "en": "Nangere",
+        "slug": "nangere-ng036012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036012",
+        "level": 2,
+        "name": {
+          "local": "Nangere",
+          "en": "Nangere",
+          "slug": "nangere-ng036012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.802",
+      "lon": "11.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036012_watinani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Watinani",
+      "en": "Watinani",
+      "slug": "watinani"
+    },
+    "code": {
+      "id": "NG036012_watinani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036012",
+      "level": 2,
+      "name": {
+        "local": "Nangere",
+        "en": "Nangere",
+        "slug": "nangere-ng036012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036012",
+        "level": 2,
+        "name": {
+          "local": "Nangere",
+          "en": "Nangere",
+          "slug": "nangere-ng036012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.795",
+      "lon": "10.98"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

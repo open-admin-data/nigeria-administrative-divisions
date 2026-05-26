@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG009001_adadama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adadama",
+      "en": "Adadama",
+      "slug": "adadama"
+    },
+    "code": {
+      "id": "NG009001_adadama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009001",
+      "level": 2,
+      "name": {
+        "local": "Abi",
+        "en": "Abi",
+        "slug": "abi-ng009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009001",
+        "level": 2,
+        "name": {
+          "local": "Abi",
+          "en": "Abi",
+          "slug": "abi-ng009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "8.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009001_afafanyiigonigoni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Afafanyi/igonigoni",
+      "en": "Afafanyi/igonigoni",
+      "slug": "afafanyiigonigoni"
+    },
+    "code": {
+      "id": "NG009001_afafanyiigonigoni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009001",
+      "level": 2,
+      "name": {
+        "local": "Abi",
+        "en": "Abi",
+        "slug": "abi-ng009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009001",
+        "level": 2,
+        "name": {
+          "local": "Abi",
+          "en": "Abi",
+          "slug": "abi-ng009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "8.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009001_ebom",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ebom",
+      "en": "Ebom",
+      "slug": "ebom"
+    },
+    "code": {
+      "id": "NG009001_ebom",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009001",
+      "level": 2,
+      "name": {
+        "local": "Abi",
+        "en": "Abi",
+        "slug": "abi-ng009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009001",
+        "level": 2,
+        "name": {
+          "local": "Abi",
+          "en": "Abi",
+          "slug": "abi-ng009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "8.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009001_ediba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ediba",
+      "en": "Ediba",
+      "slug": "ediba"
+    },
+    "code": {
+      "id": "NG009001_ediba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009001",
+      "level": 2,
+      "name": {
+        "local": "Abi",
+        "en": "Abi",
+        "slug": "abi-ng009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009001",
+        "level": 2,
+        "name": {
+          "local": "Abi",
+          "en": "Abi",
+          "slug": "abi-ng009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "8.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009001_ekureku-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekureku I",
+      "en": "Ekureku I",
+      "slug": "ekureku-i"
+    },
+    "code": {
+      "id": "NG009001_ekureku-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009001",
+      "level": 2,
+      "name": {
+        "local": "Abi",
+        "en": "Abi",
+        "slug": "abi-ng009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009001",
+        "level": 2,
+        "name": {
+          "local": "Abi",
+          "en": "Abi",
+          "slug": "abi-ng009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "8.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009001_ekureku-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekureku Ii",
+      "en": "Ekureku Ii",
+      "slug": "ekureku-ii"
+    },
+    "code": {
+      "id": "NG009001_ekureku-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009001",
+      "level": 2,
+      "name": {
+        "local": "Abi",
+        "en": "Abi",
+        "slug": "abi-ng009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009001",
+        "level": 2,
+        "name": {
+          "local": "Abi",
+          "en": "Abi",
+          "slug": "abi-ng009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "8.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009001_imabana-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imabana I",
+      "en": "Imabana I",
+      "slug": "imabana-i"
+    },
+    "code": {
+      "id": "NG009001_imabana-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009001",
+      "level": 2,
+      "name": {
+        "local": "Abi",
+        "en": "Abi",
+        "slug": "abi-ng009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009001",
+        "level": 2,
+        "name": {
+          "local": "Abi",
+          "en": "Abi",
+          "slug": "abi-ng009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "8.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009001_imabana-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imabana Ii",
+      "en": "Imabana Ii",
+      "slug": "imabana-ii"
+    },
+    "code": {
+      "id": "NG009001_imabana-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009001",
+      "level": 2,
+      "name": {
+        "local": "Abi",
+        "en": "Abi",
+        "slug": "abi-ng009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009001",
+        "level": 2,
+        "name": {
+          "local": "Abi",
+          "en": "Abi",
+          "slug": "abi-ng009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "8.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009001_itigidi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Itigidi",
+      "en": "Itigidi",
+      "slug": "itigidi"
+    },
+    "code": {
+      "id": "NG009001_itigidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009001",
+      "level": 2,
+      "name": {
+        "local": "Abi",
+        "en": "Abi",
+        "slug": "abi-ng009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009001",
+        "level": 2,
+        "name": {
+          "local": "Abi",
+          "en": "Abi",
+          "slug": "abi-ng009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "8.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009001_usumutong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Usumutong",
+      "en": "Usumutong",
+      "slug": "usumutong"
+    },
+    "code": {
+      "id": "NG009001_usumutong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009001",
+      "level": 2,
+      "name": {
+        "local": "Abi",
+        "en": "Abi",
+        "slug": "abi-ng009001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009001",
+        "level": 2,
+        "name": {
+          "local": "Abi",
+          "en": "Abi",
+          "slug": "abi-ng009001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.883",
+      "lon": "8.029"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

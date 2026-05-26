@@ -1,0 +1,942 @@
+[
+  {
+    "id": "NG025001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Agege",
+      "en": "Agege",
+      "slug": "agege-ng025001"
+    },
+    "code": {
+      "id": "NG025001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.626",
+      "lon": "3.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ajeromi-Ifelodun",
+      "en": "Ajeromi-Ifelodun",
+      "slug": "ajeromi-ifelodun-ng025002"
+    },
+    "code": {
+      "id": "NG025002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.456",
+      "lon": "3.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Alimosho",
+      "en": "Alimosho",
+      "slug": "alimosho-ng025003"
+    },
+    "code": {
+      "id": "NG025003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Amuwo-Odofin",
+      "en": "Amuwo-Odofin",
+      "slug": "amuwo-odofin-ng025004"
+    },
+    "code": {
+      "id": "NG025004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "3.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Apapa",
+      "en": "Apapa",
+      "slug": "apapa-ng025005"
+    },
+    "code": {
+      "id": "NG025005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.448",
+      "lon": "3.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Badagry",
+      "en": "Badagry",
+      "slug": "badagry-ng025006"
+    },
+    "code": {
+      "id": "NG025006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.443",
+      "lon": "2.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Epe",
+      "en": "Epe",
+      "slug": "epe-ng025007"
+    },
+    "code": {
+      "id": "NG025007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.527",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Eti-Osa",
+      "en": "Eti-Osa",
+      "slug": "eti-osa-ng025008"
+    },
+    "code": {
+      "id": "NG025008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.463",
+      "lon": "3.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ibeju/Lekki",
+      "en": "Ibeju/Lekki",
+      "slug": "ibejulekki-ng025009"
+    },
+    "code": {
+      "id": "NG025009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ifako-Ijaye",
+      "en": "Ifako-Ijaye",
+      "slug": "ifako-ijaye-ng025010"
+    },
+    "code": {
+      "id": "NG025010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.661",
+      "lon": "3.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ikeja",
+      "en": "Ikeja",
+      "slug": "ikeja-ng025011"
+    },
+    "code": {
+      "id": "NG025011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.605",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ikorodu",
+      "en": "Ikorodu",
+      "slug": "ikorodu-ng025012"
+    },
+    "code": {
+      "id": "NG025012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.606",
+      "lon": "3.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kosofe",
+      "en": "Kosofe",
+      "slug": "kosofe-ng025013"
+    },
+    "code": {
+      "id": "NG025013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.584",
+      "lon": "3.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lagos Island",
+      "en": "Lagos Island",
+      "slug": "lagos-island-ng025014"
+    },
+    "code": {
+      "id": "NG025014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.45",
+      "lon": "3.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lagos Mainland",
+      "en": "Lagos Mainland",
+      "slug": "lagos-mainland-ng025015"
+    },
+    "code": {
+      "id": "NG025015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.495",
+      "lon": "3.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mushin",
+      "en": "Mushin",
+      "slug": "mushin-ng025016"
+    },
+    "code": {
+      "id": "NG025016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.529",
+      "lon": "3.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ojo",
+      "en": "Ojo",
+      "slug": "ojo-ng025017"
+    },
+    "code": {
+      "id": "NG025017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.462",
+      "lon": "3.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Oshodi-Isolo",
+      "en": "Oshodi-Isolo",
+      "slug": "oshodi-isolo-ng025018"
+    },
+    "code": {
+      "id": "NG025018",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.533",
+      "lon": "3.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Shomolu",
+      "en": "Shomolu",
+      "slug": "shomolu-ng025019"
+    },
+    "code": {
+      "id": "NG025019",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.542",
+      "lon": "3.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Surulere",
+      "en": "Surulere",
+      "slug": "surulere-ng025020"
+    },
+    "code": {
+      "id": "NG025020",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.489",
+      "lon": "3.345"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

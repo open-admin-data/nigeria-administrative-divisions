@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG032016_derteng",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Derteng",
+      "en": "Derteng",
+      "slug": "derteng"
+    },
+    "code": {
+      "id": "NG032016_derteng",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032016",
+      "level": 2,
+      "name": {
+        "local": "Shendam",
+        "en": "Shendam",
+        "slug": "shendam-ng032016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032016",
+        "level": 2,
+        "name": {
+          "local": "Shendam",
+          "en": "Shendam",
+          "slug": "shendam-ng032016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "9.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032016_kalong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kalong",
+      "en": "Kalong",
+      "slug": "kalong"
+    },
+    "code": {
+      "id": "NG032016_kalong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032016",
+      "level": 2,
+      "name": {
+        "local": "Shendam",
+        "en": "Shendam",
+        "slug": "shendam-ng032016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032016",
+        "level": 2,
+        "name": {
+          "local": "Shendam",
+          "en": "Shendam",
+          "slug": "shendam-ng032016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "9.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032016_kurungbau-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurungbau (a)",
+      "en": "Kurungbau (a)",
+      "slug": "kurungbau-a"
+    },
+    "code": {
+      "id": "NG032016_kurungbau-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032016",
+      "level": 2,
+      "name": {
+        "local": "Shendam",
+        "en": "Shendam",
+        "slug": "shendam-ng032016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032016",
+        "level": 2,
+        "name": {
+          "local": "Shendam",
+          "en": "Shendam",
+          "slug": "shendam-ng032016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "9.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032016_kurungbau-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurungbau (b)",
+      "en": "Kurungbau (b)",
+      "slug": "kurungbau-b"
+    },
+    "code": {
+      "id": "NG032016_kurungbau-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032016",
+      "level": 2,
+      "name": {
+        "local": "Shendam",
+        "en": "Shendam",
+        "slug": "shendam-ng032016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032016",
+        "level": 2,
+        "name": {
+          "local": "Shendam",
+          "en": "Shendam",
+          "slug": "shendam-ng032016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "9.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032016_moekat",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Moekat",
+      "en": "Moekat",
+      "slug": "moekat"
+    },
+    "code": {
+      "id": "NG032016_moekat",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032016",
+      "level": 2,
+      "name": {
+        "local": "Shendam",
+        "en": "Shendam",
+        "slug": "shendam-ng032016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032016",
+        "level": 2,
+        "name": {
+          "local": "Shendam",
+          "en": "Shendam",
+          "slug": "shendam-ng032016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "9.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032016_pangshom",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pangshom",
+      "en": "Pangshom",
+      "slug": "pangshom"
+    },
+    "code": {
+      "id": "NG032016_pangshom",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032016",
+      "level": 2,
+      "name": {
+        "local": "Shendam",
+        "en": "Shendam",
+        "slug": "shendam-ng032016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032016",
+        "level": 2,
+        "name": {
+          "local": "Shendam",
+          "en": "Shendam",
+          "slug": "shendam-ng032016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "9.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032016_poeship",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Poeship",
+      "en": "Poeship",
+      "slug": "poeship"
+    },
+    "code": {
+      "id": "NG032016_poeship",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032016",
+      "level": 2,
+      "name": {
+        "local": "Shendam",
+        "en": "Shendam",
+        "slug": "shendam-ng032016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032016",
+        "level": 2,
+        "name": {
+          "local": "Shendam",
+          "en": "Shendam",
+          "slug": "shendam-ng032016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "9.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032016_shendam-central-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shendam Central (a)",
+      "en": "Shendam Central (a)",
+      "slug": "shendam-central-a"
+    },
+    "code": {
+      "id": "NG032016_shendam-central-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032016",
+      "level": 2,
+      "name": {
+        "local": "Shendam",
+        "en": "Shendam",
+        "slug": "shendam-ng032016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032016",
+        "level": 2,
+        "name": {
+          "local": "Shendam",
+          "en": "Shendam",
+          "slug": "shendam-ng032016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "9.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032016_shendam-central-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shendam Central (b)",
+      "en": "Shendam Central (b)",
+      "slug": "shendam-central-b"
+    },
+    "code": {
+      "id": "NG032016_shendam-central-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032016",
+      "level": 2,
+      "name": {
+        "local": "Shendam",
+        "en": "Shendam",
+        "slug": "shendam-ng032016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032016",
+        "level": 2,
+        "name": {
+          "local": "Shendam",
+          "en": "Shendam",
+          "slug": "shendam-ng032016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "9.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032016_shimankar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shimankar",
+      "en": "Shimankar",
+      "slug": "shimankar"
+    },
+    "code": {
+      "id": "NG032016_shimankar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032016",
+      "level": 2,
+      "name": {
+        "local": "Shendam",
+        "en": "Shendam",
+        "slug": "shendam-ng032016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032016",
+        "level": 2,
+        "name": {
+          "local": "Shendam",
+          "en": "Shendam",
+          "slug": "shendam-ng032016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "9.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032016_yelwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yelwa",
+      "en": "Yelwa",
+      "slug": "yelwa"
+    },
+    "code": {
+      "id": "NG032016_yelwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032016",
+      "level": 2,
+      "name": {
+        "local": "Shendam",
+        "en": "Shendam",
+        "slug": "shendam-ng032016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032016",
+        "level": 2,
+        "name": {
+          "local": "Shendam",
+          "en": "Shendam",
+          "slug": "shendam-ng032016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.748",
+      "lon": "9.523"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

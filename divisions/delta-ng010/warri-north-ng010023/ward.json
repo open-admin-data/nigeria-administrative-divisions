@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG010023_ebrohimi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ebrohimi",
+      "en": "Ebrohimi",
+      "slug": "ebrohimi"
+    },
+    "code": {
+      "id": "NG010023_ebrohimi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010023",
+      "level": 2,
+      "name": {
+        "local": "Warri North",
+        "en": "Warri North",
+        "slug": "warri-north-ng010023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010023",
+        "level": 2,
+        "name": {
+          "local": "Warri North",
+          "en": "Warri North",
+          "slug": "warri-north-ng010023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "5.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010023_eghoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eghoro",
+      "en": "Eghoro",
+      "slug": "eghoro"
+    },
+    "code": {
+      "id": "NG010023_eghoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010023",
+      "level": 2,
+      "name": {
+        "local": "Warri North",
+        "en": "Warri North",
+        "slug": "warri-north-ng010023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010023",
+        "level": 2,
+        "name": {
+          "local": "Warri North",
+          "en": "Warri North",
+          "slug": "warri-north-ng010023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "5.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010023_gbokoda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gbokoda",
+      "en": "Gbokoda",
+      "slug": "gbokoda"
+    },
+    "code": {
+      "id": "NG010023_gbokoda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010023",
+      "level": 2,
+      "name": {
+        "local": "Warri North",
+        "en": "Warri North",
+        "slug": "warri-north-ng010023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010023",
+        "level": 2,
+        "name": {
+          "local": "Warri North",
+          "en": "Warri North",
+          "slug": "warri-north-ng010023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "5.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010023_koko-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koko I",
+      "en": "Koko I",
+      "slug": "koko-i"
+    },
+    "code": {
+      "id": "NG010023_koko-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010023",
+      "level": 2,
+      "name": {
+        "local": "Warri North",
+        "en": "Warri North",
+        "slug": "warri-north-ng010023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010023",
+        "level": 2,
+        "name": {
+          "local": "Warri North",
+          "en": "Warri North",
+          "slug": "warri-north-ng010023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "5.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010023_koko-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koko Ii",
+      "en": "Koko Ii",
+      "slug": "koko-ii"
+    },
+    "code": {
+      "id": "NG010023_koko-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010023",
+      "level": 2,
+      "name": {
+        "local": "Warri North",
+        "en": "Warri North",
+        "slug": "warri-north-ng010023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010023",
+        "level": 2,
+        "name": {
+          "local": "Warri North",
+          "en": "Warri North",
+          "slug": "warri-north-ng010023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "5.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010023_ogbinbiri-egbema-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbinbiri (egbema Iii)",
+      "en": "Ogbinbiri (egbema Iii)",
+      "slug": "ogbinbiri-egbema-iii"
+    },
+    "code": {
+      "id": "NG010023_ogbinbiri-egbema-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010023",
+      "level": 2,
+      "name": {
+        "local": "Warri North",
+        "en": "Warri North",
+        "slug": "warri-north-ng010023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010023",
+        "level": 2,
+        "name": {
+          "local": "Warri North",
+          "en": "Warri North",
+          "slug": "warri-north-ng010023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "5.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010023_ogbudugbudu-egbema-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbudugbudu (egbema Iv)",
+      "en": "Ogbudugbudu (egbema Iv)",
+      "slug": "ogbudugbudu-egbema-iv"
+    },
+    "code": {
+      "id": "NG010023_ogbudugbudu-egbema-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010023",
+      "level": 2,
+      "name": {
+        "local": "Warri North",
+        "en": "Warri North",
+        "slug": "warri-north-ng010023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010023",
+        "level": 2,
+        "name": {
+          "local": "Warri North",
+          "en": "Warri North",
+          "slug": "warri-north-ng010023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "5.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010023_ogheye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogheye",
+      "en": "Ogheye",
+      "slug": "ogheye"
+    },
+    "code": {
+      "id": "NG010023_ogheye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010023",
+      "level": 2,
+      "name": {
+        "local": "Warri North",
+        "en": "Warri North",
+        "slug": "warri-north-ng010023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010023",
+        "level": 2,
+        "name": {
+          "local": "Warri North",
+          "en": "Warri North",
+          "slug": "warri-north-ng010023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "5.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010023_opuama-egbema-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Opuama (egbema I)",
+      "en": "Opuama (egbema I)",
+      "slug": "opuama-egbema-i"
+    },
+    "code": {
+      "id": "NG010023_opuama-egbema-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010023",
+      "level": 2,
+      "name": {
+        "local": "Warri North",
+        "en": "Warri North",
+        "slug": "warri-north-ng010023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010023",
+        "level": 2,
+        "name": {
+          "local": "Warri North",
+          "en": "Warri North",
+          "slug": "warri-north-ng010023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "5.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010023_tsekelewu-egbema-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsekelewu (egbema Ii)",
+      "en": "Tsekelewu (egbema Ii)",
+      "slug": "tsekelewu-egbema-ii"
+    },
+    "code": {
+      "id": "NG010023_tsekelewu-egbema-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010023",
+      "level": 2,
+      "name": {
+        "local": "Warri North",
+        "en": "Warri North",
+        "slug": "warri-north-ng010023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010023",
+        "level": 2,
+        "name": {
+          "local": "Warri North",
+          "en": "Warri North",
+          "slug": "warri-north-ng010023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "5.137"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

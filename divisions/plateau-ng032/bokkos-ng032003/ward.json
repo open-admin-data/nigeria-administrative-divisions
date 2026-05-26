@@ -1,0 +1,758 @@
+[
+  {
+    "id": "NG032003_bokkos",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bokkos",
+      "en": "Bokkos",
+      "slug": "bokkos"
+    },
+    "code": {
+      "id": "NG032003_bokkos",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_butura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Butura",
+      "en": "Butura",
+      "slug": "butura"
+    },
+    "code": {
+      "id": "NG032003_butura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_daffo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daffo",
+      "en": "Daffo",
+      "slug": "daffo"
+    },
+    "code": {
+      "id": "NG032003_daffo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_kamwai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kamwai",
+      "en": "Kamwai",
+      "slug": "kamwai"
+    },
+    "code": {
+      "id": "NG032003_kamwai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_kwatas",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwatas",
+      "en": "Kwatas",
+      "slug": "kwatas"
+    },
+    "code": {
+      "id": "NG032003_kwatas",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_mangor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mangor",
+      "en": "Mangor",
+      "slug": "mangor"
+    },
+    "code": {
+      "id": "NG032003_mangor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_manguna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Manguna",
+      "en": "Manguna",
+      "slug": "manguna"
+    },
+    "code": {
+      "id": "NG032003_manguna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_mbarmangar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbar/mangar",
+      "en": "Mbar/mangar",
+      "slug": "mbarmangar"
+    },
+    "code": {
+      "id": "NG032003_mbarmangar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_mushere-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mushere Central",
+      "en": "Mushere Central",
+      "slug": "mushere-central"
+    },
+    "code": {
+      "id": "NG032003_mushere-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_mushere-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mushere West",
+      "en": "Mushere West",
+      "slug": "mushere-west"
+    },
+    "code": {
+      "id": "NG032003_mushere-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_richa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Richa",
+      "en": "Richa",
+      "slug": "richa"
+    },
+    "code": {
+      "id": "NG032003_richa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_sha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sha",
+      "en": "Sha",
+      "slug": "sha"
+    },
+    "code": {
+      "id": "NG032003_sha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_tangur",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tangur",
+      "en": "Tangur",
+      "slug": "tangur"
+    },
+    "code": {
+      "id": "NG032003_tangur",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032003_toff",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Toff",
+      "en": "Toff",
+      "slug": "toff"
+    },
+    "code": {
+      "id": "NG032003_toff",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032003",
+      "level": 2,
+      "name": {
+        "local": "Bokkos",
+        "en": "Bokkos",
+        "slug": "bokkos-ng032003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032003",
+        "level": 2,
+        "name": {
+          "local": "Bokkos",
+          "en": "Bokkos",
+          "slug": "bokkos-ng032003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "8.89"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG034015_gande-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gande East",
+      "en": "Gande East",
+      "slug": "gande-east"
+    },
+    "code": {
+      "id": "NG034015_gande-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034015",
+      "level": 2,
+      "name": {
+        "local": "Silame",
+        "en": "Silame",
+        "slug": "silame-ng034015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034015",
+        "level": 2,
+        "name": {
+          "local": "Silame",
+          "en": "Silame",
+          "slug": "silame-ng034015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.986",
+      "lon": "4.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034015_gande-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gande West",
+      "en": "Gande West",
+      "slug": "gande-west"
+    },
+    "code": {
+      "id": "NG034015_gande-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034015",
+      "level": 2,
+      "name": {
+        "local": "Silame",
+        "en": "Silame",
+        "slug": "silame-ng034015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034015",
+        "level": 2,
+        "name": {
+          "local": "Silame",
+          "en": "Silame",
+          "slug": "silame-ng034015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.986",
+      "lon": "4.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034015_katami-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Katami North",
+      "en": "Katami North",
+      "slug": "katami-north"
+    },
+    "code": {
+      "id": "NG034015_katami-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034015",
+      "level": 2,
+      "name": {
+        "local": "Silame",
+        "en": "Silame",
+        "slug": "silame-ng034015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034015",
+        "level": 2,
+        "name": {
+          "local": "Silame",
+          "en": "Silame",
+          "slug": "silame-ng034015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.986",
+      "lon": "4.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034015_katami-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Katami South",
+      "en": "Katami South",
+      "slug": "katami-south"
+    },
+    "code": {
+      "id": "NG034015_katami-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034015",
+      "level": 2,
+      "name": {
+        "local": "Silame",
+        "en": "Silame",
+        "slug": "silame-ng034015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034015",
+        "level": 2,
+        "name": {
+          "local": "Silame",
+          "en": "Silame",
+          "slug": "silame-ng034015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.986",
+      "lon": "4.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034015_kubodu-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kubodu North",
+      "en": "Kubodu North",
+      "slug": "kubodu-north"
+    },
+    "code": {
+      "id": "NG034015_kubodu-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034015",
+      "level": 2,
+      "name": {
+        "local": "Silame",
+        "en": "Silame",
+        "slug": "silame-ng034015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034015",
+        "level": 2,
+        "name": {
+          "local": "Silame",
+          "en": "Silame",
+          "slug": "silame-ng034015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.986",
+      "lon": "4.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034015_kubodu-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kubodu South",
+      "en": "Kubodu South",
+      "slug": "kubodu-south"
+    },
+    "code": {
+      "id": "NG034015_kubodu-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034015",
+      "level": 2,
+      "name": {
+        "local": "Silame",
+        "en": "Silame",
+        "slug": "silame-ng034015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034015",
+        "level": 2,
+        "name": {
+          "local": "Silame",
+          "en": "Silame",
+          "slug": "silame-ng034015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.986",
+      "lon": "4.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034015_labani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Labani",
+      "en": "Labani",
+      "slug": "labani"
+    },
+    "code": {
+      "id": "NG034015_labani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034015",
+      "level": 2,
+      "name": {
+        "local": "Silame",
+        "en": "Silame",
+        "slug": "silame-ng034015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034015",
+        "level": 2,
+        "name": {
+          "local": "Silame",
+          "en": "Silame",
+          "slug": "silame-ng034015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.986",
+      "lon": "4.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034015_marafa-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Marafa East",
+      "en": "Marafa East",
+      "slug": "marafa-east"
+    },
+    "code": {
+      "id": "NG034015_marafa-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034015",
+      "level": 2,
+      "name": {
+        "local": "Silame",
+        "en": "Silame",
+        "slug": "silame-ng034015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034015",
+        "level": 2,
+        "name": {
+          "local": "Silame",
+          "en": "Silame",
+          "slug": "silame-ng034015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.986",
+      "lon": "4.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034015_marafa-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Marafa West",
+      "en": "Marafa West",
+      "slug": "marafa-west"
+    },
+    "code": {
+      "id": "NG034015_marafa-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034015",
+      "level": 2,
+      "name": {
+        "local": "Silame",
+        "en": "Silame",
+        "slug": "silame-ng034015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034015",
+        "level": 2,
+        "name": {
+          "local": "Silame",
+          "en": "Silame",
+          "slug": "silame-ng034015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.986",
+      "lon": "4.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034015_silame",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Silame",
+      "en": "Silame",
+      "slug": "silame"
+    },
+    "code": {
+      "id": "NG034015_silame",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034015",
+      "level": 2,
+      "name": {
+        "local": "Silame",
+        "en": "Silame",
+        "slug": "silame-ng034015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034015",
+        "level": 2,
+        "name": {
+          "local": "Silame",
+          "en": "Silame",
+          "slug": "silame-ng034015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.986",
+      "lon": "4.799"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

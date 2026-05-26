@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG008009_ardimini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ardimini",
+      "en": "Ardimini",
+      "slug": "ardimini"
+    },
+    "code": {
+      "id": "NG008009_ardimini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008009",
+      "level": 2,
+      "name": {
+        "local": "Gubio",
+        "en": "Gubio",
+        "slug": "gubio-ng008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008009",
+        "level": 2,
+        "name": {
+          "local": "Gubio",
+          "en": "Gubio",
+          "slug": "gubio-ng008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.501",
+      "lon": "12.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008009_dabira",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dabira",
+      "en": "Dabira",
+      "slug": "dabira"
+    },
+    "code": {
+      "id": "NG008009_dabira",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008009",
+      "level": 2,
+      "name": {
+        "local": "Gubio",
+        "en": "Gubio",
+        "slug": "gubio-ng008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008009",
+        "level": 2,
+        "name": {
+          "local": "Gubio",
+          "en": "Gubio",
+          "slug": "gubio-ng008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.67",
+      "lon": "12.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008009_felo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Felo",
+      "en": "Felo",
+      "slug": "felo"
+    },
+    "code": {
+      "id": "NG008009_felo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008009",
+      "level": 2,
+      "name": {
+        "local": "Gubio",
+        "en": "Gubio",
+        "slug": "gubio-ng008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008009",
+        "level": 2,
+        "name": {
+          "local": "Gubio",
+          "en": "Gubio",
+          "slug": "gubio-ng008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.697",
+      "lon": "13.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008009_gamowo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamowo",
+      "en": "Gamowo",
+      "slug": "gamowo"
+    },
+    "code": {
+      "id": "NG008009_gamowo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008009",
+      "level": 2,
+      "name": {
+        "local": "Gubio",
+        "en": "Gubio",
+        "slug": "gubio-ng008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008009",
+        "level": 2,
+        "name": {
+          "local": "Gubio",
+          "en": "Gubio",
+          "slug": "gubio-ng008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.709",
+      "lon": "12.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008009_gazabure",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gazabure",
+      "en": "Gazabure",
+      "slug": "gazabure"
+    },
+    "code": {
+      "id": "NG008009_gazabure",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008009",
+      "level": 2,
+      "name": {
+        "local": "Gubio",
+        "en": "Gubio",
+        "slug": "gubio-ng008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008009",
+        "level": 2,
+        "name": {
+          "local": "Gubio",
+          "en": "Gubio",
+          "slug": "gubio-ng008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.905",
+      "lon": "12.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008009_gubio-town-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gubio Town I",
+      "en": "Gubio Town I",
+      "slug": "gubio-town-i"
+    },
+    "code": {
+      "id": "NG008009_gubio-town-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008009",
+      "level": 2,
+      "name": {
+        "local": "Gubio",
+        "en": "Gubio",
+        "slug": "gubio-ng008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008009",
+        "level": 2,
+        "name": {
+          "local": "Gubio",
+          "en": "Gubio",
+          "slug": "gubio-ng008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.436",
+      "lon": "12.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008009_gubio-town-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gubio Town Ii",
+      "en": "Gubio Town Ii",
+      "slug": "gubio-town-ii"
+    },
+    "code": {
+      "id": "NG008009_gubio-town-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008009",
+      "level": 2,
+      "name": {
+        "local": "Gubio",
+        "en": "Gubio",
+        "slug": "gubio-ng008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008009",
+        "level": 2,
+        "name": {
+          "local": "Gubio",
+          "en": "Gubio",
+          "slug": "gubio-ng008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.436",
+      "lon": "12.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008009_kingowa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kingowa",
+      "en": "Kingowa",
+      "slug": "kingowa"
+    },
+    "code": {
+      "id": "NG008009_kingowa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008009",
+      "level": 2,
+      "name": {
+        "local": "Gubio",
+        "en": "Gubio",
+        "slug": "gubio-ng008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008009",
+        "level": 2,
+        "name": {
+          "local": "Gubio",
+          "en": "Gubio",
+          "slug": "gubio-ng008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.603",
+      "lon": "12.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008009_ngetra",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngetra",
+      "en": "Ngetra",
+      "slug": "ngetra"
+    },
+    "code": {
+      "id": "NG008009_ngetra",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008009",
+      "level": 2,
+      "name": {
+        "local": "Gubio",
+        "en": "Gubio",
+        "slug": "gubio-ng008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008009",
+        "level": 2,
+        "name": {
+          "local": "Gubio",
+          "en": "Gubio",
+          "slug": "gubio-ng008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.688",
+      "lon": "12.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008009_zowo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zowo",
+      "en": "Zowo",
+      "slug": "zowo"
+    },
+    "code": {
+      "id": "NG008009_zowo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008009",
+      "level": 2,
+      "name": {
+        "local": "Gubio",
+        "en": "Gubio",
+        "slug": "gubio-ng008009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008009",
+        "level": 2,
+        "name": {
+          "local": "Gubio",
+          "en": "Gubio",
+          "slug": "gubio-ng008009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.692",
+      "lon": "12.825"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

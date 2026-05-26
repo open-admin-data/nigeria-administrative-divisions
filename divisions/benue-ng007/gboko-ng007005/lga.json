@@ -1,0 +1,47 @@
+{
+  "id": "NG007005",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Gboko",
+    "en": "Gboko",
+    "slug": "gboko-ng007005"
+  },
+  "code": {
+    "id": "NG007005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG007",
+    "level": 1,
+    "name": {
+      "local": "Benue",
+      "en": "Benue",
+      "slug": "benue-ng007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG007",
+      "level": 1,
+      "name": {
+        "local": "Benue",
+        "en": "Benue",
+        "slug": "benue-ng007"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.405",
+    "lon": "8.881"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG020041_baburi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baburi",
+      "en": "Baburi",
+      "slug": "baburi"
+    },
+    "code": {
+      "id": "NG020041_baburi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020041",
+      "level": 2,
+      "name": {
+        "local": "Tudun Wada",
+        "en": "Tudun Wada",
+        "slug": "tudun-wada-ng020041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020041",
+        "level": 2,
+        "name": {
+          "local": "Tudun Wada",
+          "en": "Tudun Wada",
+          "slug": "tudun-wada-ng020041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020041_burumburum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Burumburum",
+      "en": "Burumburum",
+      "slug": "burumburum"
+    },
+    "code": {
+      "id": "NG020041_burumburum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020041",
+      "level": 2,
+      "name": {
+        "local": "Tudun Wada",
+        "en": "Tudun Wada",
+        "slug": "tudun-wada-ng020041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020041",
+        "level": 2,
+        "name": {
+          "local": "Tudun Wada",
+          "en": "Tudun Wada",
+          "slug": "tudun-wada-ng020041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020041_dalawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dalawa",
+      "en": "Dalawa",
+      "slug": "dalawa"
+    },
+    "code": {
+      "id": "NG020041_dalawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020041",
+      "level": 2,
+      "name": {
+        "local": "Tudun Wada",
+        "en": "Tudun Wada",
+        "slug": "tudun-wada-ng020041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020041",
+        "level": 2,
+        "name": {
+          "local": "Tudun Wada",
+          "en": "Tudun Wada",
+          "slug": "tudun-wada-ng020041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020041_jandutse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jandutse",
+      "en": "Jandutse",
+      "slug": "jandutse"
+    },
+    "code": {
+      "id": "NG020041_jandutse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020041",
+      "level": 2,
+      "name": {
+        "local": "Tudun Wada",
+        "en": "Tudun Wada",
+        "slug": "tudun-wada-ng020041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020041",
+        "level": 2,
+        "name": {
+          "local": "Tudun Wada",
+          "en": "Tudun Wada",
+          "slug": "tudun-wada-ng020041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020041_jita",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jita",
+      "en": "Jita",
+      "slug": "jita"
+    },
+    "code": {
+      "id": "NG020041_jita",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020041",
+      "level": 2,
+      "name": {
+        "local": "Tudun Wada",
+        "en": "Tudun Wada",
+        "slug": "tudun-wada-ng020041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020041",
+        "level": 2,
+        "name": {
+          "local": "Tudun Wada",
+          "en": "Tudun Wada",
+          "slug": "tudun-wada-ng020041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020041_karefa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karefa",
+      "en": "Karefa",
+      "slug": "karefa"
+    },
+    "code": {
+      "id": "NG020041_karefa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020041",
+      "level": 2,
+      "name": {
+        "local": "Tudun Wada",
+        "en": "Tudun Wada",
+        "slug": "tudun-wada-ng020041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020041",
+        "level": 2,
+        "name": {
+          "local": "Tudun Wada",
+          "en": "Tudun Wada",
+          "slug": "tudun-wada-ng020041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020041_nataala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nata'ala",
+      "en": "Nata'ala",
+      "slug": "nataala"
+    },
+    "code": {
+      "id": "NG020041_nataala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020041",
+      "level": 2,
+      "name": {
+        "local": "Tudun Wada",
+        "en": "Tudun Wada",
+        "slug": "tudun-wada-ng020041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020041",
+        "level": 2,
+        "name": {
+          "local": "Tudun Wada",
+          "en": "Tudun Wada",
+          "slug": "tudun-wada-ng020041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020041_sabon-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Gari",
+      "en": "Sabon Gari",
+      "slug": "sabon-gari"
+    },
+    "code": {
+      "id": "NG020041_sabon-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020041",
+      "level": 2,
+      "name": {
+        "local": "Tudun Wada",
+        "en": "Tudun Wada",
+        "slug": "tudun-wada-ng020041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020041",
+        "level": 2,
+        "name": {
+          "local": "Tudun Wada",
+          "en": "Tudun Wada",
+          "slug": "tudun-wada-ng020041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020041_shuwaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shuwaki",
+      "en": "Shuwaki",
+      "slug": "shuwaki"
+    },
+    "code": {
+      "id": "NG020041_shuwaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020041",
+      "level": 2,
+      "name": {
+        "local": "Tudun Wada",
+        "en": "Tudun Wada",
+        "slug": "tudun-wada-ng020041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020041",
+        "level": 2,
+        "name": {
+          "local": "Tudun Wada",
+          "en": "Tudun Wada",
+          "slug": "tudun-wada-ng020041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020041_tsohogari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsohogari",
+      "en": "Tsohogari",
+      "slug": "tsohogari"
+    },
+    "code": {
+      "id": "NG020041_tsohogari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020041",
+      "level": 2,
+      "name": {
+        "local": "Tudun Wada",
+        "en": "Tudun Wada",
+        "slug": "tudun-wada-ng020041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020041",
+        "level": 2,
+        "name": {
+          "local": "Tudun Wada",
+          "en": "Tudun Wada",
+          "slug": "tudun-wada-ng020041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020041_yaryasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yaryasa",
+      "en": "Yaryasa",
+      "slug": "yaryasa"
+    },
+    "code": {
+      "id": "NG020041_yaryasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020041",
+      "level": 2,
+      "name": {
+        "local": "Tudun Wada",
+        "en": "Tudun Wada",
+        "slug": "tudun-wada-ng020041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020041",
+        "level": 2,
+        "name": {
+          "local": "Tudun Wada",
+          "en": "Tudun Wada",
+          "slug": "tudun-wada-ng020041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.209",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

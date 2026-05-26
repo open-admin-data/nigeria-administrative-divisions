@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG012017_avbiosi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Avbiosi",
+      "en": "Avbiosi",
+      "slug": "avbiosi"
+    },
+    "code": {
+      "id": "NG012017_avbiosi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012017",
+      "level": 2,
+      "name": {
+        "local": "Owan West",
+        "en": "Owan West",
+        "slug": "owan-west-ng012017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012017",
+        "level": 2,
+        "name": {
+          "local": "Owan West",
+          "en": "Owan West",
+          "slug": "owan-west-ng012017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.934",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012017_eme-oraoke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eme-ora/oke",
+      "en": "Eme-ora/oke",
+      "slug": "eme-oraoke"
+    },
+    "code": {
+      "id": "NG012017_eme-oraoke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012017",
+      "level": 2,
+      "name": {
+        "local": "Owan West",
+        "en": "Owan West",
+        "slug": "owan-west-ng012017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012017",
+        "level": 2,
+        "name": {
+          "local": "Owan West",
+          "en": "Owan West",
+          "slug": "owan-west-ng012017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.934",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012017_eruere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eruere",
+      "en": "Eruere",
+      "slug": "eruere"
+    },
+    "code": {
+      "id": "NG012017_eruere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012017",
+      "level": 2,
+      "name": {
+        "local": "Owan West",
+        "en": "Owan West",
+        "slug": "owan-west-ng012017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012017",
+        "level": 2,
+        "name": {
+          "local": "Owan West",
+          "en": "Owan West",
+          "slug": "owan-west-ng012017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.934",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012017_okpuje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpuje",
+      "en": "Okpuje",
+      "slug": "okpuje"
+    },
+    "code": {
+      "id": "NG012017_okpuje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012017",
+      "level": 2,
+      "name": {
+        "local": "Owan West",
+        "en": "Owan West",
+        "slug": "owan-west-ng012017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012017",
+        "level": 2,
+        "name": {
+          "local": "Owan West",
+          "en": "Owan West",
+          "slug": "owan-west-ng012017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.934",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012017_ozalla",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ozalla",
+      "en": "Ozalla",
+      "slug": "ozalla"
+    },
+    "code": {
+      "id": "NG012017_ozalla",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012017",
+      "level": 2,
+      "name": {
+        "local": "Owan West",
+        "en": "Owan West",
+        "slug": "owan-west-ng012017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012017",
+        "level": 2,
+        "name": {
+          "local": "Owan West",
+          "en": "Owan West",
+          "slug": "owan-west-ng012017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.934",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012017_sabongidaoraogbeturu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabongida/ora/ogbeturu",
+      "en": "Sabongida/ora/ogbeturu",
+      "slug": "sabongidaoraogbeturu"
+    },
+    "code": {
+      "id": "NG012017_sabongidaoraogbeturu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012017",
+      "level": 2,
+      "name": {
+        "local": "Owan West",
+        "en": "Owan West",
+        "slug": "owan-west-ng012017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012017",
+        "level": 2,
+        "name": {
+          "local": "Owan West",
+          "en": "Owan West",
+          "slug": "owan-west-ng012017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.934",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012017_sobe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sobe",
+      "en": "Sobe",
+      "slug": "sobe"
+    },
+    "code": {
+      "id": "NG012017_sobe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012017",
+      "level": 2,
+      "name": {
+        "local": "Owan West",
+        "en": "Owan West",
+        "slug": "owan-west-ng012017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012017",
+        "level": 2,
+        "name": {
+          "local": "Owan West",
+          "en": "Owan West",
+          "slug": "owan-west-ng012017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.934",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012017_uhonmora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uhonmora",
+      "en": "Uhonmora",
+      "slug": "uhonmora"
+    },
+    "code": {
+      "id": "NG012017_uhonmora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012017",
+      "level": 2,
+      "name": {
+        "local": "Owan West",
+        "en": "Owan West",
+        "slug": "owan-west-ng012017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012017",
+        "level": 2,
+        "name": {
+          "local": "Owan West",
+          "en": "Owan West",
+          "slug": "owan-west-ng012017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.934",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012017_ukhuse--osi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukhuse -osi",
+      "en": "Ukhuse -osi",
+      "slug": "ukhuse--osi"
+    },
+    "code": {
+      "id": "NG012017_ukhuse--osi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012017",
+      "level": 2,
+      "name": {
+        "local": "Owan West",
+        "en": "Owan West",
+        "slug": "owan-west-ng012017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012017",
+        "level": 2,
+        "name": {
+          "local": "Owan West",
+          "en": "Owan West",
+          "slug": "owan-west-ng012017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.934",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012017_uzebba-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uzebba I",
+      "en": "Uzebba I",
+      "slug": "uzebba-i"
+    },
+    "code": {
+      "id": "NG012017_uzebba-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012017",
+      "level": 2,
+      "name": {
+        "local": "Owan West",
+        "en": "Owan West",
+        "slug": "owan-west-ng012017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012017",
+        "level": 2,
+        "name": {
+          "local": "Owan West",
+          "en": "Owan West",
+          "slug": "owan-west-ng012017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.934",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012017_uzebba-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uzebba Ii",
+      "en": "Uzebba Ii",
+      "slug": "uzebba-ii"
+    },
+    "code": {
+      "id": "NG012017_uzebba-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012017",
+      "level": 2,
+      "name": {
+        "local": "Owan West",
+        "en": "Owan West",
+        "slug": "owan-west-ng012017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012017",
+        "level": 2,
+        "name": {
+          "local": "Owan West",
+          "en": "Owan West",
+          "slug": "owan-west-ng012017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.934",
+      "lon": "5.887"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

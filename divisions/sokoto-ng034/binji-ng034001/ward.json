@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG034001_binji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Binji",
+      "en": "Binji",
+      "slug": "binji"
+    },
+    "code": {
+      "id": "NG034001_binji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034001",
+      "level": 2,
+      "name": {
+        "local": "Binji",
+        "en": "Binji",
+        "slug": "binji-ng034001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034001",
+        "level": 2,
+        "name": {
+          "local": "Binji",
+          "en": "Binji",
+          "slug": "binji-ng034001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.184",
+      "lon": "4.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034001_bunkari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bunkari",
+      "en": "Bunkari",
+      "slug": "bunkari"
+    },
+    "code": {
+      "id": "NG034001_bunkari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034001",
+      "level": 2,
+      "name": {
+        "local": "Binji",
+        "en": "Binji",
+        "slug": "binji-ng034001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034001",
+        "level": 2,
+        "name": {
+          "local": "Binji",
+          "en": "Binji",
+          "slug": "binji-ng034001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.184",
+      "lon": "4.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034001_gawazzai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gawazzai",
+      "en": "Gawazzai",
+      "slug": "gawazzai"
+    },
+    "code": {
+      "id": "NG034001_gawazzai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034001",
+      "level": 2,
+      "name": {
+        "local": "Binji",
+        "en": "Binji",
+        "slug": "binji-ng034001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034001",
+        "level": 2,
+        "name": {
+          "local": "Binji",
+          "en": "Binji",
+          "slug": "binji-ng034001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.184",
+      "lon": "4.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034001_inname",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Inname",
+      "en": "Inname",
+      "slug": "inname"
+    },
+    "code": {
+      "id": "NG034001_inname",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034001",
+      "level": 2,
+      "name": {
+        "local": "Binji",
+        "en": "Binji",
+        "slug": "binji-ng034001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034001",
+        "level": 2,
+        "name": {
+          "local": "Binji",
+          "en": "Binji",
+          "slug": "binji-ng034001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.184",
+      "lon": "4.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034001_jammali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jammali",
+      "en": "Jammali",
+      "slug": "jammali"
+    },
+    "code": {
+      "id": "NG034001_jammali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034001",
+      "level": 2,
+      "name": {
+        "local": "Binji",
+        "en": "Binji",
+        "slug": "binji-ng034001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034001",
+        "level": 2,
+        "name": {
+          "local": "Binji",
+          "en": "Binji",
+          "slug": "binji-ng034001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.184",
+      "lon": "4.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034001_maikulki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maikulki",
+      "en": "Maikulki",
+      "slug": "maikulki"
+    },
+    "code": {
+      "id": "NG034001_maikulki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034001",
+      "level": 2,
+      "name": {
+        "local": "Binji",
+        "en": "Binji",
+        "slug": "binji-ng034001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034001",
+        "level": 2,
+        "name": {
+          "local": "Binji",
+          "en": "Binji",
+          "slug": "binji-ng034001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.184",
+      "lon": "4.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034001_samama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Samama",
+      "en": "Samama",
+      "slug": "samama"
+    },
+    "code": {
+      "id": "NG034001_samama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034001",
+      "level": 2,
+      "name": {
+        "local": "Binji",
+        "en": "Binji",
+        "slug": "binji-ng034001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034001",
+        "level": 2,
+        "name": {
+          "local": "Binji",
+          "en": "Binji",
+          "slug": "binji-ng034001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.184",
+      "lon": "4.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034001_soro-gabas",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Soro Gabas",
+      "en": "Soro Gabas",
+      "slug": "soro-gabas"
+    },
+    "code": {
+      "id": "NG034001_soro-gabas",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034001",
+      "level": 2,
+      "name": {
+        "local": "Binji",
+        "en": "Binji",
+        "slug": "binji-ng034001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034001",
+        "level": 2,
+        "name": {
+          "local": "Binji",
+          "en": "Binji",
+          "slug": "binji-ng034001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.184",
+      "lon": "4.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034001_soro-yamma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Soro Yamma",
+      "en": "Soro Yamma",
+      "slug": "soro-yamma"
+    },
+    "code": {
+      "id": "NG034001_soro-yamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034001",
+      "level": 2,
+      "name": {
+        "local": "Binji",
+        "en": "Binji",
+        "slug": "binji-ng034001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034001",
+        "level": 2,
+        "name": {
+          "local": "Binji",
+          "en": "Binji",
+          "slug": "binji-ng034001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.184",
+      "lon": "4.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034001_tkose",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "T/kose",
+      "en": "T/kose",
+      "slug": "tkose"
+    },
+    "code": {
+      "id": "NG034001_tkose",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034001",
+      "level": 2,
+      "name": {
+        "local": "Binji",
+        "en": "Binji",
+        "slug": "binji-ng034001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034001",
+        "level": 2,
+        "name": {
+          "local": "Binji",
+          "en": "Binji",
+          "slug": "binji-ng034001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.184",
+      "lon": "4.795"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

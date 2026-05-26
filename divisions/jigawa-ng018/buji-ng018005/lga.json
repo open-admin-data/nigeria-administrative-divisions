@@ -1,0 +1,47 @@
+{
+  "id": "NG018005",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Buji",
+    "en": "Buji",
+    "slug": "buji-ng018005"
+  },
+  "code": {
+    "id": "NG018005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG018",
+    "level": 1,
+    "name": {
+      "local": "Jigawa",
+      "en": "Jigawa",
+      "slug": "jigawa-ng018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.548",
+    "lon": "9.715"
+  },
+  "metadata": {},
+  "source": {}
+}

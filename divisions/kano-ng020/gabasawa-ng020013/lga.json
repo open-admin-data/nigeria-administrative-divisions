@@ -1,0 +1,47 @@
+{
+  "id": "NG020013",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Gabasawa",
+    "en": "Gabasawa",
+    "slug": "gabasawa-ng020013"
+  },
+  "code": {
+    "id": "NG020013",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG020",
+    "level": 1,
+    "name": {
+      "local": "Kano",
+      "en": "Kano",
+      "slug": "kano-ng020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.137",
+    "lon": "8.866"
+  },
+  "metadata": {},
+  "source": {}
+}

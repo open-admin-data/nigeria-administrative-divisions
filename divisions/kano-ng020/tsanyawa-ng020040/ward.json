@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020040_daddarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daddarawa",
+      "en": "Daddarawa",
+      "slug": "daddarawa"
+    },
+    "code": {
+      "id": "NG020040_daddarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020040",
+      "level": 2,
+      "name": {
+        "local": "Tsanyawa",
+        "en": "Tsanyawa",
+        "slug": "tsanyawa-ng020040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020040",
+        "level": 2,
+        "name": {
+          "local": "Tsanyawa",
+          "en": "Tsanyawa",
+          "slug": "tsanyawa-ng020040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.278",
+      "lon": "8.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020040_dunbulun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dunbulun",
+      "en": "Dunbulun",
+      "slug": "dunbulun"
+    },
+    "code": {
+      "id": "NG020040_dunbulun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020040",
+      "level": 2,
+      "name": {
+        "local": "Tsanyawa",
+        "en": "Tsanyawa",
+        "slug": "tsanyawa-ng020040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020040",
+        "level": 2,
+        "name": {
+          "local": "Tsanyawa",
+          "en": "Tsanyawa",
+          "slug": "tsanyawa-ng020040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.278",
+      "lon": "8.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020040_gozaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gozaki",
+      "en": "Gozaki",
+      "slug": "gozaki"
+    },
+    "code": {
+      "id": "NG020040_gozaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020040",
+      "level": 2,
+      "name": {
+        "local": "Tsanyawa",
+        "en": "Tsanyawa",
+        "slug": "tsanyawa-ng020040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020040",
+        "level": 2,
+        "name": {
+          "local": "Tsanyawa",
+          "en": "Tsanyawa",
+          "slug": "tsanyawa-ng020040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.278",
+      "lon": "8.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020040_gurun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gurun",
+      "en": "Gurun",
+      "slug": "gurun"
+    },
+    "code": {
+      "id": "NG020040_gurun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020040",
+      "level": 2,
+      "name": {
+        "local": "Tsanyawa",
+        "en": "Tsanyawa",
+        "slug": "tsanyawa-ng020040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020040",
+        "level": 2,
+        "name": {
+          "local": "Tsanyawa",
+          "en": "Tsanyawa",
+          "slug": "tsanyawa-ng020040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.278",
+      "lon": "8.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020040_kabagiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kabagiwa",
+      "en": "Kabagiwa",
+      "slug": "kabagiwa"
+    },
+    "code": {
+      "id": "NG020040_kabagiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020040",
+      "level": 2,
+      "name": {
+        "local": "Tsanyawa",
+        "en": "Tsanyawa",
+        "slug": "tsanyawa-ng020040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020040",
+        "level": 2,
+        "name": {
+          "local": "Tsanyawa",
+          "en": "Tsanyawa",
+          "slug": "tsanyawa-ng020040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.278",
+      "lon": "8.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020040_tatsan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tatsan",
+      "en": "Tatsan",
+      "slug": "tatsan"
+    },
+    "code": {
+      "id": "NG020040_tatsan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020040",
+      "level": 2,
+      "name": {
+        "local": "Tsanyawa",
+        "en": "Tsanyawa",
+        "slug": "tsanyawa-ng020040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020040",
+        "level": 2,
+        "name": {
+          "local": "Tsanyawa",
+          "en": "Tsanyawa",
+          "slug": "tsanyawa-ng020040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.278",
+      "lon": "8.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020040_tsanyawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsanyawa",
+      "en": "Tsanyawa",
+      "slug": "tsanyawa"
+    },
+    "code": {
+      "id": "NG020040_tsanyawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020040",
+      "level": 2,
+      "name": {
+        "local": "Tsanyawa",
+        "en": "Tsanyawa",
+        "slug": "tsanyawa-ng020040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020040",
+        "level": 2,
+        "name": {
+          "local": "Tsanyawa",
+          "en": "Tsanyawa",
+          "slug": "tsanyawa-ng020040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.278",
+      "lon": "8.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020040_yanganau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yanganau",
+      "en": "Yanganau",
+      "slug": "yanganau"
+    },
+    "code": {
+      "id": "NG020040_yanganau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020040",
+      "level": 2,
+      "name": {
+        "local": "Tsanyawa",
+        "en": "Tsanyawa",
+        "slug": "tsanyawa-ng020040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020040",
+        "level": 2,
+        "name": {
+          "local": "Tsanyawa",
+          "en": "Tsanyawa",
+          "slug": "tsanyawa-ng020040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.278",
+      "lon": "8.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020040_yankamaye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yankamaye",
+      "en": "Yankamaye",
+      "slug": "yankamaye"
+    },
+    "code": {
+      "id": "NG020040_yankamaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020040",
+      "level": 2,
+      "name": {
+        "local": "Tsanyawa",
+        "en": "Tsanyawa",
+        "slug": "tsanyawa-ng020040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020040",
+        "level": 2,
+        "name": {
+          "local": "Tsanyawa",
+          "en": "Tsanyawa",
+          "slug": "tsanyawa-ng020040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.278",
+      "lon": "8.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020040_zarogi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zarogi",
+      "en": "Zarogi",
+      "slug": "zarogi"
+    },
+    "code": {
+      "id": "NG020040_zarogi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020040",
+      "level": 2,
+      "name": {
+        "local": "Tsanyawa",
+        "en": "Tsanyawa",
+        "slug": "tsanyawa-ng020040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020040",
+        "level": 2,
+        "name": {
+          "local": "Tsanyawa",
+          "en": "Tsanyawa",
+          "slug": "tsanyawa-ng020040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.278",
+      "lon": "8.002"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

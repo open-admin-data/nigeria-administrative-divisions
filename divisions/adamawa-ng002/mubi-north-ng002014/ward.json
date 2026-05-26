@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG002014_bahuli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bahuli",
+      "en": "Bahuli",
+      "slug": "bahuli"
+    },
+    "code": {
+      "id": "NG002014_bahuli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002014",
+      "level": 2,
+      "name": {
+        "local": "Mubi North",
+        "en": "Mubi North",
+        "slug": "mubi-north-ng002014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002014",
+        "level": 2,
+        "name": {
+          "local": "Mubi North",
+          "en": "Mubi North",
+          "slug": "mubi-north-ng002014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.264",
+      "lon": "13.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002014_betso",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Betso",
+      "en": "Betso",
+      "slug": "betso"
+    },
+    "code": {
+      "id": "NG002014_betso",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002014",
+      "level": 2,
+      "name": {
+        "local": "Mubi North",
+        "en": "Mubi North",
+        "slug": "mubi-north-ng002014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002014",
+        "level": 2,
+        "name": {
+          "local": "Mubi North",
+          "en": "Mubi North",
+          "slug": "mubi-north-ng002014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.478",
+      "lon": "13.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002014_digil",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Digil",
+      "en": "Digil",
+      "slug": "digil"
+    },
+    "code": {
+      "id": "NG002014_digil",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002014",
+      "level": 2,
+      "name": {
+        "local": "Mubi North",
+        "en": "Mubi North",
+        "slug": "mubi-north-ng002014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002014",
+        "level": 2,
+        "name": {
+          "local": "Mubi North",
+          "en": "Mubi North",
+          "slug": "mubi-north-ng002014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.348",
+      "lon": "13.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002014_kolere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kolere",
+      "en": "Kolere",
+      "slug": "kolere"
+    },
+    "code": {
+      "id": "NG002014_kolere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002014",
+      "level": 2,
+      "name": {
+        "local": "Mubi North",
+        "en": "Mubi North",
+        "slug": "mubi-north-ng002014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002014",
+        "level": 2,
+        "name": {
+          "local": "Mubi North",
+          "en": "Mubi North",
+          "slug": "mubi-north-ng002014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.268",
+      "lon": "13.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002014_lokuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lokuwa",
+      "en": "Lokuwa",
+      "slug": "lokuwa"
+    },
+    "code": {
+      "id": "NG002014_lokuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002014",
+      "level": 2,
+      "name": {
+        "local": "Mubi North",
+        "en": "Mubi North",
+        "slug": "mubi-north-ng002014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002014",
+        "level": 2,
+        "name": {
+          "local": "Mubi North",
+          "en": "Mubi North",
+          "slug": "mubi-north-ng002014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.282",
+      "lon": "13.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002014_mayo-bani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayo Bani",
+      "en": "Mayo Bani",
+      "slug": "mayo-bani"
+    },
+    "code": {
+      "id": "NG002014_mayo-bani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002014",
+      "level": 2,
+      "name": {
+        "local": "Mubi North",
+        "en": "Mubi North",
+        "slug": "mubi-north-ng002014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002014",
+        "level": 2,
+        "name": {
+          "local": "Mubi North",
+          "en": "Mubi North",
+          "slug": "mubi-north-ng002014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.43",
+      "lon": "13.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002014_mijilu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mijilu",
+      "en": "Mijilu",
+      "slug": "mijilu"
+    },
+    "code": {
+      "id": "NG002014_mijilu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002014",
+      "level": 2,
+      "name": {
+        "local": "Mubi North",
+        "en": "Mubi North",
+        "slug": "mubi-north-ng002014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002014",
+        "level": 2,
+        "name": {
+          "local": "Mubi North",
+          "en": "Mubi North",
+          "slug": "mubi-north-ng002014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.435",
+      "lon": "13.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002014_muchalla",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Muchalla",
+      "en": "Muchalla",
+      "slug": "muchalla"
+    },
+    "code": {
+      "id": "NG002014_muchalla",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002014",
+      "level": 2,
+      "name": {
+        "local": "Mubi North",
+        "en": "Mubi North",
+        "slug": "mubi-north-ng002014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002014",
+        "level": 2,
+        "name": {
+          "local": "Mubi North",
+          "en": "Mubi North",
+          "slug": "mubi-north-ng002014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.363",
+      "lon": "13.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002014_sabon-layi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Layi",
+      "en": "Sabon Layi",
+      "slug": "sabon-layi"
+    },
+    "code": {
+      "id": "NG002014_sabon-layi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002014",
+      "level": 2,
+      "name": {
+        "local": "Mubi North",
+        "en": "Mubi North",
+        "slug": "mubi-north-ng002014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002014",
+        "level": 2,
+        "name": {
+          "local": "Mubi North",
+          "en": "Mubi North",
+          "slug": "mubi-north-ng002014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.271",
+      "lon": "13.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002014_vimtim",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Vimtim",
+      "en": "Vimtim",
+      "slug": "vimtim"
+    },
+    "code": {
+      "id": "NG002014_vimtim",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002014",
+      "level": 2,
+      "name": {
+        "local": "Mubi North",
+        "en": "Mubi North",
+        "slug": "mubi-north-ng002014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002014",
+        "level": 2,
+        "name": {
+          "local": "Mubi North",
+          "en": "Mubi North",
+          "slug": "mubi-north-ng002014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.305",
+      "lon": "13.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002014_yelwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yelwa",
+      "en": "Yelwa",
+      "slug": "yelwa"
+    },
+    "code": {
+      "id": "NG002014_yelwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002014",
+      "level": 2,
+      "name": {
+        "local": "Mubi North",
+        "en": "Mubi North",
+        "slug": "mubi-north-ng002014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002014",
+        "level": 2,
+        "name": {
+          "local": "Mubi North",
+          "en": "Mubi North",
+          "slug": "mubi-north-ng002014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.302",
+      "lon": "13.23"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

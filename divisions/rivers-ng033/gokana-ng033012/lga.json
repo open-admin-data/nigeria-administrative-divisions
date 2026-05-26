@@ -1,0 +1,47 @@
+{
+  "id": "NG033012",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Gokana",
+    "en": "Gokana",
+    "slug": "gokana-ng033012"
+  },
+  "code": {
+    "id": "NG033012",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG033",
+    "level": 1,
+    "name": {
+      "local": "Rivers",
+      "en": "Rivers",
+      "slug": "rivers-ng033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.66",
+    "lon": "7.292"
+  },
+  "metadata": {},
+  "source": {}
+}

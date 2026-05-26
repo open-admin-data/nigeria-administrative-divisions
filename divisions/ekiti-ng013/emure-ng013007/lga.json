@@ -1,0 +1,47 @@
+{
+  "id": "NG013007",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Emure",
+    "en": "Emure",
+    "slug": "emure-ng013007"
+  },
+  "code": {
+    "id": "NG013007",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG013",
+    "level": 1,
+    "name": {
+      "local": "Ekiti",
+      "en": "Ekiti",
+      "slug": "ekiti-ng013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG013",
+      "level": 1,
+      "name": {
+        "local": "Ekiti",
+        "en": "Ekiti",
+        "slug": "ekiti-ng013"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.416",
+    "lon": "5.509"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "NG022",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Kebbi",
+    "en": "Kebbi",
+    "slug": "kebbi-ng022"
+  },
+  "code": {
+    "id": "NG022",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 21,
+    "ward": 225
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.691",
+    "lon": "3.966"
+  },
+  "metadata": {},
+  "source": {}
+}

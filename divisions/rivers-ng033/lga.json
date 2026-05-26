@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "NG033001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Abua/Odual",
+      "en": "Abua/Odual",
+      "slug": "abuaodual-ng033001"
+    },
+    "code": {
+      "id": "NG033001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.847",
+      "lon": "6.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ahoada East",
+      "en": "Ahoada East",
+      "slug": "ahoada-east-ng033002"
+    },
+    "code": {
+      "id": "NG033002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.052",
+      "lon": "6.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ahoada West",
+      "en": "Ahoada West",
+      "slug": "ahoada-west-ng033003"
+    },
+    "code": {
+      "id": "NG033003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.047",
+      "lon": "6.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Akuku Toru",
+      "en": "Akuku Toru",
+      "slug": "akuku-toru-ng033004"
+    },
+    "code": {
+      "id": "NG033004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Andoni",
+      "en": "Andoni",
+      "slug": "andoni-ng033005"
+    },
+    "code": {
+      "id": "NG033005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Asari-Toru",
+      "en": "Asari-Toru",
+      "slug": "asari-toru-ng033006"
+    },
+    "code": {
+      "id": "NG033006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bonny",
+      "en": "Bonny",
+      "slug": "bonny-ng033007"
+    },
+    "code": {
+      "id": "NG033007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.51",
+      "lon": "7.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Degema",
+      "en": "Degema",
+      "slug": "degema-ng033008"
+    },
+    "code": {
+      "id": "NG033008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.596",
+      "lon": "6.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Eleme",
+      "en": "Eleme",
+      "slug": "eleme-ng033009"
+    },
+    "code": {
+      "id": "NG033009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.785",
+      "lon": "7.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Emohua",
+      "en": "Emohua",
+      "slug": "emohua-ng033010"
+    },
+    "code": {
+      "id": "NG033010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Etche",
+      "en": "Etche",
+      "slug": "etche-ng033011"
+    },
+    "code": {
+      "id": "NG033011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.077",
+      "lon": "7.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gokana",
+      "en": "Gokana",
+      "slug": "gokana-ng033012"
+    },
+    "code": {
+      "id": "NG033012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.66",
+      "lon": "7.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ikwerre",
+      "en": "Ikwerre",
+      "slug": "ikwerre-ng033013"
+    },
+    "code": {
+      "id": "NG033013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.071",
+      "lon": "6.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Khana",
+      "en": "Khana",
+      "slug": "khana-ng033014"
+    },
+    "code": {
+      "id": "NG033014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.672",
+      "lon": "7.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Obia/Akpor",
+      "en": "Obia/Akpor",
+      "slug": "obiaakpor-ng033015"
+    },
+    "code": {
+      "id": "NG033015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.862",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ogba/Egbema/Ndoni",
+      "en": "Ogba/Egbema/Ndoni",
+      "slug": "ogbaegbemandoni-ng033016"
+    },
+    "code": {
+      "id": "NG033016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.444",
+      "lon": "6.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ogu/Bolo",
+      "en": "Ogu/Bolo",
+      "slug": "ogubolo-ng033017"
+    },
+    "code": {
+      "id": "NG033017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Okrika",
+      "en": "Okrika",
+      "slug": "okrika-ng033018"
+    },
+    "code": {
+      "id": "NG033018",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.681",
+      "lon": "7.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Omumma",
+      "en": "Omumma",
+      "slug": "omumma-ng033019"
+    },
+    "code": {
+      "id": "NG033019",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.098",
+      "lon": "7.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Opobo/Nkoro",
+      "en": "Opobo/Nkoro",
+      "slug": "opobonkoro-ng033020"
+    },
+    "code": {
+      "id": "NG033020",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.512",
+      "lon": "7.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Oyigbo",
+      "en": "Oyigbo",
+      "slug": "oyigbo-ng033021"
+    },
+    "code": {
+      "id": "NG033021",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.847",
+      "lon": "7.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Port-Harcourt",
+      "en": "Port-Harcourt",
+      "slug": "port-harcourt-ng033022"
+    },
+    "code": {
+      "id": "NG033022",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.767",
+      "lon": "7.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tai",
+      "en": "Tai",
+      "slug": "tai-ng033023"
+    },
+    "code": {
+      "id": "NG033023",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.77",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

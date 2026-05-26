@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG036008_bara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bara",
+      "en": "Bara",
+      "slug": "bara"
+    },
+    "code": {
+      "id": "NG036008_bara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036008",
+      "level": 2,
+      "name": {
+        "local": "Gulani",
+        "en": "Gulani",
+        "slug": "gulani-ng036008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036008",
+        "level": 2,
+        "name": {
+          "local": "Gulani",
+          "en": "Gulani",
+          "slug": "gulani-ng036008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.956",
+      "lon": "11.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036008_borno-kijitetteba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Borno Kiji/tetteba",
+      "en": "Borno Kiji/tetteba",
+      "slug": "borno-kijitetteba"
+    },
+    "code": {
+      "id": "NG036008_borno-kijitetteba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036008",
+      "level": 2,
+      "name": {
+        "local": "Gulani",
+        "en": "Gulani",
+        "slug": "gulani-ng036008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036008",
+        "level": 2,
+        "name": {
+          "local": "Gulani",
+          "en": "Gulani",
+          "slug": "gulani-ng036008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.892",
+      "lon": "11.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036008_bularafa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bularafa",
+      "en": "Bularafa",
+      "slug": "bularafa"
+    },
+    "code": {
+      "id": "NG036008_bularafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036008",
+      "level": 2,
+      "name": {
+        "local": "Gulani",
+        "en": "Gulani",
+        "slug": "gulani-ng036008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036008",
+        "level": 2,
+        "name": {
+          "local": "Gulani",
+          "en": "Gulani",
+          "slug": "gulani-ng036008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.114",
+      "lon": "11.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036008_bumsa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bumsa",
+      "en": "Bumsa",
+      "slug": "bumsa"
+    },
+    "code": {
+      "id": "NG036008_bumsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036008",
+      "level": 2,
+      "name": {
+        "local": "Gulani",
+        "en": "Gulani",
+        "slug": "gulani-ng036008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036008",
+        "level": 2,
+        "name": {
+          "local": "Gulani",
+          "en": "Gulani",
+          "slug": "gulani-ng036008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.996",
+      "lon": "11.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036008_dokshi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dokshi",
+      "en": "Dokshi",
+      "slug": "dokshi"
+    },
+    "code": {
+      "id": "NG036008_dokshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036008",
+      "level": 2,
+      "name": {
+        "local": "Gulani",
+        "en": "Gulani",
+        "slug": "gulani-ng036008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036008",
+        "level": 2,
+        "name": {
+          "local": "Gulani",
+          "en": "Gulani",
+          "slug": "gulani-ng036008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.04",
+      "lon": "11.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036008_gabai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gabai",
+      "en": "Gabai",
+      "slug": "gabai"
+    },
+    "code": {
+      "id": "NG036008_gabai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036008",
+      "level": 2,
+      "name": {
+        "local": "Gulani",
+        "en": "Gulani",
+        "slug": "gulani-ng036008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036008",
+        "level": 2,
+        "name": {
+          "local": "Gulani",
+          "en": "Gulani",
+          "slug": "gulani-ng036008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.089",
+      "lon": "11.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036008_gagure",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gagure",
+      "en": "Gagure",
+      "slug": "gagure"
+    },
+    "code": {
+      "id": "NG036008_gagure",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036008",
+      "level": 2,
+      "name": {
+        "local": "Gulani",
+        "en": "Gulani",
+        "slug": "gulani-ng036008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036008",
+        "level": 2,
+        "name": {
+          "local": "Gulani",
+          "en": "Gulani",
+          "slug": "gulani-ng036008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.901",
+      "lon": "11.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036008_garin-tuwo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garin Tuwo",
+      "en": "Garin Tuwo",
+      "slug": "garin-tuwo"
+    },
+    "code": {
+      "id": "NG036008_garin-tuwo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036008",
+      "level": 2,
+      "name": {
+        "local": "Gulani",
+        "en": "Gulani",
+        "slug": "gulani-ng036008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036008",
+        "level": 2,
+        "name": {
+          "local": "Gulani",
+          "en": "Gulani",
+          "slug": "gulani-ng036008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.776",
+      "lon": "11.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036008_gulani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gulani",
+      "en": "Gulani",
+      "slug": "gulani"
+    },
+    "code": {
+      "id": "NG036008_gulani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036008",
+      "level": 2,
+      "name": {
+        "local": "Gulani",
+        "en": "Gulani",
+        "slug": "gulani-ng036008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036008",
+        "level": 2,
+        "name": {
+          "local": "Gulani",
+          "en": "Gulani",
+          "slug": "gulani-ng036008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.701",
+      "lon": "11.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036008_kushimaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kushimaga",
+      "en": "Kushimaga",
+      "slug": "kushimaga"
+    },
+    "code": {
+      "id": "NG036008_kushimaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036008",
+      "level": 2,
+      "name": {
+        "local": "Gulani",
+        "en": "Gulani",
+        "slug": "gulani-ng036008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036008",
+        "level": 2,
+        "name": {
+          "local": "Gulani",
+          "en": "Gulani",
+          "slug": "gulani-ng036008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.742",
+      "lon": "11.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036008_njibulwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Njibulwa",
+      "en": "Njibulwa",
+      "slug": "njibulwa"
+    },
+    "code": {
+      "id": "NG036008_njibulwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036008",
+      "level": 2,
+      "name": {
+        "local": "Gulani",
+        "en": "Gulani",
+        "slug": "gulani-ng036008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036008",
+        "level": 2,
+        "name": {
+          "local": "Gulani",
+          "en": "Gulani",
+          "slug": "gulani-ng036008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.977",
+      "lon": "11.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036008_ruhu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ruhu",
+      "en": "Ruhu",
+      "slug": "ruhu"
+    },
+    "code": {
+      "id": "NG036008_ruhu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036008",
+      "level": 2,
+      "name": {
+        "local": "Gulani",
+        "en": "Gulani",
+        "slug": "gulani-ng036008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036008",
+        "level": 2,
+        "name": {
+          "local": "Gulani",
+          "en": "Gulani",
+          "slug": "gulani-ng036008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.624",
+      "lon": "11.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

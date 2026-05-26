@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG007017_adokpa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adokpa",
+      "en": "Adokpa",
+      "slug": "adokpa"
+    },
+    "code": {
+      "id": "NG007017_adokpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007017",
+      "level": 2,
+      "name": {
+        "local": "Oju",
+        "en": "Oju",
+        "slug": "oju-ng007017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007017",
+        "level": 2,
+        "name": {
+          "local": "Oju",
+          "en": "Oju",
+          "slug": "oju-ng007017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "8.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007017_ainu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ainu",
+      "en": "Ainu",
+      "slug": "ainu"
+    },
+    "code": {
+      "id": "NG007017_ainu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007017",
+      "level": 2,
+      "name": {
+        "local": "Oju",
+        "en": "Oju",
+        "slug": "oju-ng007017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007017",
+        "level": 2,
+        "name": {
+          "local": "Oju",
+          "en": "Oju",
+          "slug": "oju-ng007017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "8.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007017_ibilla",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibilla",
+      "en": "Ibilla",
+      "slug": "ibilla"
+    },
+    "code": {
+      "id": "NG007017_ibilla",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007017",
+      "level": 2,
+      "name": {
+        "local": "Oju",
+        "en": "Oju",
+        "slug": "oju-ng007017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007017",
+        "level": 2,
+        "name": {
+          "local": "Oju",
+          "en": "Oju",
+          "slug": "oju-ng007017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "8.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007017_idelle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idelle",
+      "en": "Idelle",
+      "slug": "idelle"
+    },
+    "code": {
+      "id": "NG007017_idelle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007017",
+      "level": 2,
+      "name": {
+        "local": "Oju",
+        "en": "Oju",
+        "slug": "oju-ng007017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007017",
+        "level": 2,
+        "name": {
+          "local": "Oju",
+          "en": "Oju",
+          "slug": "oju-ng007017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "8.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007017_iyeche",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iyeche",
+      "en": "Iyeche",
+      "slug": "iyeche"
+    },
+    "code": {
+      "id": "NG007017_iyeche",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007017",
+      "level": 2,
+      "name": {
+        "local": "Oju",
+        "en": "Oju",
+        "slug": "oju-ng007017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007017",
+        "level": 2,
+        "name": {
+          "local": "Oju",
+          "en": "Oju",
+          "slug": "oju-ng007017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "8.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007017_oboruoye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oboru/oye",
+      "en": "Oboru/oye",
+      "slug": "oboruoye"
+    },
+    "code": {
+      "id": "NG007017_oboruoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007017",
+      "level": 2,
+      "name": {
+        "local": "Oju",
+        "en": "Oju",
+        "slug": "oju-ng007017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007017",
+        "level": 2,
+        "name": {
+          "local": "Oju",
+          "en": "Oju",
+          "slug": "oju-ng007017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "8.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007017_oju",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oju",
+      "en": "Oju",
+      "slug": "oju"
+    },
+    "code": {
+      "id": "NG007017_oju",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007017",
+      "level": 2,
+      "name": {
+        "local": "Oju",
+        "en": "Oju",
+        "slug": "oju-ng007017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007017",
+        "level": 2,
+        "name": {
+          "local": "Oju",
+          "en": "Oju",
+          "slug": "oju-ng007017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "8.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007017_okpokpo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpokpo",
+      "en": "Okpokpo",
+      "slug": "okpokpo"
+    },
+    "code": {
+      "id": "NG007017_okpokpo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007017",
+      "level": 2,
+      "name": {
+        "local": "Oju",
+        "en": "Oju",
+        "slug": "oju-ng007017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007017",
+        "level": 2,
+        "name": {
+          "local": "Oju",
+          "en": "Oju",
+          "slug": "oju-ng007017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "8.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007017_okwudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okwudu",
+      "en": "Okwudu",
+      "slug": "okwudu"
+    },
+    "code": {
+      "id": "NG007017_okwudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007017",
+      "level": 2,
+      "name": {
+        "local": "Oju",
+        "en": "Oju",
+        "slug": "oju-ng007017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007017",
+        "level": 2,
+        "name": {
+          "local": "Oju",
+          "en": "Oju",
+          "slug": "oju-ng007017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "8.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007017_owo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owo",
+      "en": "Owo",
+      "slug": "owo"
+    },
+    "code": {
+      "id": "NG007017_owo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007017",
+      "level": 2,
+      "name": {
+        "local": "Oju",
+        "en": "Oju",
+        "slug": "oju-ng007017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007017",
+        "level": 2,
+        "name": {
+          "local": "Oju",
+          "en": "Oju",
+          "slug": "oju-ng007017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "8.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007017_ukpaainu-ette",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukpa/ainu Ette",
+      "en": "Ukpa/ainu Ette",
+      "slug": "ukpaainu-ette"
+    },
+    "code": {
+      "id": "NG007017_ukpaainu-ette",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007017",
+      "level": 2,
+      "name": {
+        "local": "Oju",
+        "en": "Oju",
+        "slug": "oju-ng007017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007017",
+        "level": 2,
+        "name": {
+          "local": "Oju",
+          "en": "Oju",
+          "slug": "oju-ng007017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "8.364"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

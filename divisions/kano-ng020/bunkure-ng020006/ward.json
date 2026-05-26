@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020006_barkum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Barkum",
+      "en": "Barkum",
+      "slug": "barkum"
+    },
+    "code": {
+      "id": "NG020006_barkum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020006",
+      "level": 2,
+      "name": {
+        "local": "Bunkure",
+        "en": "Bunkure",
+        "slug": "bunkure-ng020006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020006",
+        "level": 2,
+        "name": {
+          "local": "Bunkure",
+          "en": "Bunkure",
+          "slug": "bunkure-ng020006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.672",
+      "lon": "8.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020006_bono",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bono",
+      "en": "Bono",
+      "slug": "bono"
+    },
+    "code": {
+      "id": "NG020006_bono",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020006",
+      "level": 2,
+      "name": {
+        "local": "Bunkure",
+        "en": "Bunkure",
+        "slug": "bunkure-ng020006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020006",
+        "level": 2,
+        "name": {
+          "local": "Bunkure",
+          "en": "Bunkure",
+          "slug": "bunkure-ng020006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.672",
+      "lon": "8.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020006_bunkure",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bunkure",
+      "en": "Bunkure",
+      "slug": "bunkure"
+    },
+    "code": {
+      "id": "NG020006_bunkure",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020006",
+      "level": 2,
+      "name": {
+        "local": "Bunkure",
+        "en": "Bunkure",
+        "slug": "bunkure-ng020006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020006",
+        "level": 2,
+        "name": {
+          "local": "Bunkure",
+          "en": "Bunkure",
+          "slug": "bunkure-ng020006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.672",
+      "lon": "8.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020006_chirin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chirin",
+      "en": "Chirin",
+      "slug": "chirin"
+    },
+    "code": {
+      "id": "NG020006_chirin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020006",
+      "level": 2,
+      "name": {
+        "local": "Bunkure",
+        "en": "Bunkure",
+        "slug": "bunkure-ng020006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020006",
+        "level": 2,
+        "name": {
+          "local": "Bunkure",
+          "en": "Bunkure",
+          "slug": "bunkure-ng020006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.672",
+      "lon": "8.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020006_gafan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gafan",
+      "en": "Gafan",
+      "slug": "gafan"
+    },
+    "code": {
+      "id": "NG020006_gafan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020006",
+      "level": 2,
+      "name": {
+        "local": "Bunkure",
+        "en": "Bunkure",
+        "slug": "bunkure-ng020006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020006",
+        "level": 2,
+        "name": {
+          "local": "Bunkure",
+          "en": "Bunkure",
+          "slug": "bunkure-ng020006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.672",
+      "lon": "8.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020006_gurjiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gurjiya",
+      "en": "Gurjiya",
+      "slug": "gurjiya"
+    },
+    "code": {
+      "id": "NG020006_gurjiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020006",
+      "level": 2,
+      "name": {
+        "local": "Bunkure",
+        "en": "Bunkure",
+        "slug": "bunkure-ng020006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020006",
+        "level": 2,
+        "name": {
+          "local": "Bunkure",
+          "en": "Bunkure",
+          "slug": "bunkure-ng020006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.672",
+      "lon": "8.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020006_gwamma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwamma",
+      "en": "Gwamma",
+      "slug": "gwamma"
+    },
+    "code": {
+      "id": "NG020006_gwamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020006",
+      "level": 2,
+      "name": {
+        "local": "Bunkure",
+        "en": "Bunkure",
+        "slug": "bunkure-ng020006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020006",
+        "level": 2,
+        "name": {
+          "local": "Bunkure",
+          "en": "Bunkure",
+          "slug": "bunkure-ng020006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.672",
+      "lon": "8.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020006_kulluwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kulluwa",
+      "en": "Kulluwa",
+      "slug": "kulluwa"
+    },
+    "code": {
+      "id": "NG020006_kulluwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020006",
+      "level": 2,
+      "name": {
+        "local": "Bunkure",
+        "en": "Bunkure",
+        "slug": "bunkure-ng020006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020006",
+        "level": 2,
+        "name": {
+          "local": "Bunkure",
+          "en": "Bunkure",
+          "slug": "bunkure-ng020006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.672",
+      "lon": "8.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020006_kumurya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumurya",
+      "en": "Kumurya",
+      "slug": "kumurya"
+    },
+    "code": {
+      "id": "NG020006_kumurya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020006",
+      "level": 2,
+      "name": {
+        "local": "Bunkure",
+        "en": "Bunkure",
+        "slug": "bunkure-ng020006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020006",
+        "level": 2,
+        "name": {
+          "local": "Bunkure",
+          "en": "Bunkure",
+          "slug": "bunkure-ng020006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.672",
+      "lon": "8.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020006_sanda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sanda",
+      "en": "Sanda",
+      "slug": "sanda"
+    },
+    "code": {
+      "id": "NG020006_sanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020006",
+      "level": 2,
+      "name": {
+        "local": "Bunkure",
+        "en": "Bunkure",
+        "slug": "bunkure-ng020006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020006",
+        "level": 2,
+        "name": {
+          "local": "Bunkure",
+          "en": "Bunkure",
+          "slug": "bunkure-ng020006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.672",
+      "lon": "8.553"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

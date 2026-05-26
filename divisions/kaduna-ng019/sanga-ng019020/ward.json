@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG019020_aboro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aboro",
+      "en": "Aboro",
+      "slug": "aboro"
+    },
+    "code": {
+      "id": "NG019020_aboro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019020",
+      "level": 2,
+      "name": {
+        "local": "Sanga",
+        "en": "Sanga",
+        "slug": "sanga-ng019020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019020",
+        "level": 2,
+        "name": {
+          "local": "Sanga",
+          "en": "Sanga",
+          "slug": "sanga-ng019020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "8.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019020_arak",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Arak",
+      "en": "Arak",
+      "slug": "arak"
+    },
+    "code": {
+      "id": "NG019020_arak",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019020",
+      "level": 2,
+      "name": {
+        "local": "Sanga",
+        "en": "Sanga",
+        "slug": "sanga-ng019020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019020",
+        "level": 2,
+        "name": {
+          "local": "Sanga",
+          "en": "Sanga",
+          "slug": "sanga-ng019020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "8.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019020_ayu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayu",
+      "en": "Ayu",
+      "slug": "ayu"
+    },
+    "code": {
+      "id": "NG019020_ayu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019020",
+      "level": 2,
+      "name": {
+        "local": "Sanga",
+        "en": "Sanga",
+        "slug": "sanga-ng019020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019020",
+        "level": 2,
+        "name": {
+          "local": "Sanga",
+          "en": "Sanga",
+          "slug": "sanga-ng019020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "8.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019020_bokana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bokana",
+      "en": "Bokana",
+      "slug": "bokana"
+    },
+    "code": {
+      "id": "NG019020_bokana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019020",
+      "level": 2,
+      "name": {
+        "local": "Sanga",
+        "en": "Sanga",
+        "slug": "sanga-ng019020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019020",
+        "level": 2,
+        "name": {
+          "local": "Sanga",
+          "en": "Sanga",
+          "slug": "sanga-ng019020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "8.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019020_fadan-karshi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fadan Karshi",
+      "en": "Fadan Karshi",
+      "slug": "fadan-karshi"
+    },
+    "code": {
+      "id": "NG019020_fadan-karshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019020",
+      "level": 2,
+      "name": {
+        "local": "Sanga",
+        "en": "Sanga",
+        "slug": "sanga-ng019020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019020",
+        "level": 2,
+        "name": {
+          "local": "Sanga",
+          "en": "Sanga",
+          "slug": "sanga-ng019020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "8.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019020_gwantu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwantu",
+      "en": "Gwantu",
+      "slug": "gwantu"
+    },
+    "code": {
+      "id": "NG019020_gwantu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019020",
+      "level": 2,
+      "name": {
+        "local": "Sanga",
+        "en": "Sanga",
+        "slug": "sanga-ng019020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019020",
+        "level": 2,
+        "name": {
+          "local": "Sanga",
+          "en": "Sanga",
+          "slug": "sanga-ng019020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "8.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019020_nandu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nandu",
+      "en": "Nandu",
+      "slug": "nandu"
+    },
+    "code": {
+      "id": "NG019020_nandu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019020",
+      "level": 2,
+      "name": {
+        "local": "Sanga",
+        "en": "Sanga",
+        "slug": "sanga-ng019020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019020",
+        "level": 2,
+        "name": {
+          "local": "Sanga",
+          "en": "Sanga",
+          "slug": "sanga-ng019020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "8.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019020_ninzam-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ninzam North",
+      "en": "Ninzam North",
+      "slug": "ninzam-north"
+    },
+    "code": {
+      "id": "NG019020_ninzam-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019020",
+      "level": 2,
+      "name": {
+        "local": "Sanga",
+        "en": "Sanga",
+        "slug": "sanga-ng019020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019020",
+        "level": 2,
+        "name": {
+          "local": "Sanga",
+          "en": "Sanga",
+          "slug": "sanga-ng019020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "8.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019020_ninzam-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ninzam South",
+      "en": "Ninzam South",
+      "slug": "ninzam-south"
+    },
+    "code": {
+      "id": "NG019020_ninzam-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019020",
+      "level": 2,
+      "name": {
+        "local": "Sanga",
+        "en": "Sanga",
+        "slug": "sanga-ng019020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019020",
+        "level": 2,
+        "name": {
+          "local": "Sanga",
+          "en": "Sanga",
+          "slug": "sanga-ng019020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "8.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019020_ninzam-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ninzam West",
+      "en": "Ninzam West",
+      "slug": "ninzam-west"
+    },
+    "code": {
+      "id": "NG019020_ninzam-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019020",
+      "level": 2,
+      "name": {
+        "local": "Sanga",
+        "en": "Sanga",
+        "slug": "sanga-ng019020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019020",
+        "level": 2,
+        "name": {
+          "local": "Sanga",
+          "en": "Sanga",
+          "slug": "sanga-ng019020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "8.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019020_wasa-station",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wasa Station",
+      "en": "Wasa Station",
+      "slug": "wasa-station"
+    },
+    "code": {
+      "id": "NG019020_wasa-station",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019020",
+      "level": 2,
+      "name": {
+        "local": "Sanga",
+        "en": "Sanga",
+        "slug": "sanga-ng019020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019020",
+        "level": 2,
+        "name": {
+          "local": "Sanga",
+          "en": "Sanga",
+          "slug": "sanga-ng019020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "8.437"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

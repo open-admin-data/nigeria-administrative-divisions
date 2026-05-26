@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG008016_auno-chabbol",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Auno / Chabbol",
+      "en": "Auno / Chabbol",
+      "slug": "auno-chabbol"
+    },
+    "code": {
+      "id": "NG008016_auno-chabbol",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008016",
+      "level": 2,
+      "name": {
+        "local": "Konduga",
+        "en": "Konduga",
+        "slug": "konduga-ng008016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008016",
+        "level": 2,
+        "name": {
+          "local": "Konduga",
+          "en": "Konduga",
+          "slug": "konduga-ng008016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.823",
+      "lon": "13.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008016_dalori-wanori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dalori / Wanori",
+      "en": "Dalori / Wanori",
+      "slug": "dalori-wanori"
+    },
+    "code": {
+      "id": "NG008016_dalori-wanori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008016",
+      "level": 2,
+      "name": {
+        "local": "Konduga",
+        "en": "Konduga",
+        "slug": "konduga-ng008016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008016",
+        "level": 2,
+        "name": {
+          "local": "Konduga",
+          "en": "Konduga",
+          "slug": "konduga-ng008016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.765",
+      "lon": "13.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008016_dawa-east-malari-kangamari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dawa East / Malari / Kangamari",
+      "en": "Dawa East / Malari / Kangamari",
+      "slug": "dawa-east-malari-kangamari"
+    },
+    "code": {
+      "id": "NG008016_dawa-east-malari-kangamari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008016",
+      "level": 2,
+      "name": {
+        "local": "Konduga",
+        "en": "Konduga",
+        "slug": "konduga-ng008016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008016",
+        "level": 2,
+        "name": {
+          "local": "Konduga",
+          "en": "Konduga",
+          "slug": "konduga-ng008016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.654",
+      "lon": "13.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008016_jewu-lamboa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jewu / Lamboa",
+      "en": "Jewu / Lamboa",
+      "slug": "jewu-lamboa"
+    },
+    "code": {
+      "id": "NG008016_jewu-lamboa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008016",
+      "level": 2,
+      "name": {
+        "local": "Konduga",
+        "en": "Konduga",
+        "slug": "konduga-ng008016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008016",
+        "level": 2,
+        "name": {
+          "local": "Konduga",
+          "en": "Konduga",
+          "slug": "konduga-ng008016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.687",
+      "lon": "13.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008016_kawuri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kawuri",
+      "en": "Kawuri",
+      "slug": "kawuri"
+    },
+    "code": {
+      "id": "NG008016_kawuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008016",
+      "level": 2,
+      "name": {
+        "local": "Konduga",
+        "en": "Konduga",
+        "slug": "konduga-ng008016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008016",
+        "level": 2,
+        "name": {
+          "local": "Konduga",
+          "en": "Konduga",
+          "slug": "konduga-ng008016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.633",
+      "lon": "13.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008016_kelumiri-ngalbi-amari-yale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kelumiri / Ngalbi Amari / Yale",
+      "en": "Kelumiri / Ngalbi Amari / Yale",
+      "slug": "kelumiri-ngalbi-amari-yale"
+    },
+    "code": {
+      "id": "NG008016_kelumiri-ngalbi-amari-yale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008016",
+      "level": 2,
+      "name": {
+        "local": "Konduga",
+        "en": "Konduga",
+        "slug": "konduga-ng008016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008016",
+        "level": 2,
+        "name": {
+          "local": "Konduga",
+          "en": "Konduga",
+          "slug": "konduga-ng008016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.653",
+      "lon": "13.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008016_konduga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Konduga",
+      "en": "Konduga",
+      "slug": "konduga"
+    },
+    "code": {
+      "id": "NG008016_konduga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008016",
+      "level": 2,
+      "name": {
+        "local": "Konduga",
+        "en": "Konduga",
+        "slug": "konduga-ng008016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008016",
+        "level": 2,
+        "name": {
+          "local": "Konduga",
+          "en": "Konduga",
+          "slug": "konduga-ng008016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.682",
+      "lon": "13.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008016_mairamri-yeleri-bazamri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mairamri / Yeleri / Bazamri",
+      "en": "Mairamri / Yeleri / Bazamri",
+      "slug": "mairamri-yeleri-bazamri"
+    },
+    "code": {
+      "id": "NG008016_mairamri-yeleri-bazamri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008016",
+      "level": 2,
+      "name": {
+        "local": "Konduga",
+        "en": "Konduga",
+        "slug": "konduga-ng008016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008016",
+        "level": 2,
+        "name": {
+          "local": "Konduga",
+          "en": "Konduga",
+          "slug": "konduga-ng008016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.687",
+      "lon": "13.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008016_masba-dalwa-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Masba / Dalwa West",
+      "en": "Masba / Dalwa West",
+      "slug": "masba-dalwa-west"
+    },
+    "code": {
+      "id": "NG008016_masba-dalwa-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008016",
+      "level": 2,
+      "name": {
+        "local": "Konduga",
+        "en": "Konduga",
+        "slug": "konduga-ng008016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008016",
+        "level": 2,
+        "name": {
+          "local": "Konduga",
+          "en": "Konduga",
+          "slug": "konduga-ng008016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.51",
+      "lon": "13.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008016_nyalerisandiayejiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nyaleri/sandia/yejiwa",
+      "en": "Nyaleri/sandia/yejiwa",
+      "slug": "nyalerisandiayejiwa"
+    },
+    "code": {
+      "id": "NG008016_nyalerisandiayejiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008016",
+      "level": 2,
+      "name": {
+        "local": "Konduga",
+        "en": "Konduga",
+        "slug": "konduga-ng008016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008016",
+        "level": 2,
+        "name": {
+          "local": "Konduga",
+          "en": "Konduga",
+          "slug": "konduga-ng008016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.653",
+      "lon": "13.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008016_sojiri-nguro---nguro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sojiri/ Nguro - Nguro",
+      "en": "Sojiri/ Nguro - Nguro",
+      "slug": "sojiri-nguro---nguro"
+    },
+    "code": {
+      "id": "NG008016_sojiri-nguro---nguro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008016",
+      "level": 2,
+      "name": {
+        "local": "Konduga",
+        "en": "Konduga",
+        "slug": "konduga-ng008016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008016",
+        "level": 2,
+        "name": {
+          "local": "Konduga",
+          "en": "Konduga",
+          "slug": "konduga-ng008016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.687",
+      "lon": "13.183"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

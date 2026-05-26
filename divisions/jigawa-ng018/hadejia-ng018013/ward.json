@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018013_atafi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Atafi",
+      "en": "Atafi",
+      "slug": "atafi"
+    },
+    "code": {
+      "id": "NG018013_atafi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018013",
+      "level": 2,
+      "name": {
+        "local": "Hadejia",
+        "en": "Hadejia",
+        "slug": "hadejia-ng018013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018013",
+        "level": 2,
+        "name": {
+          "local": "Hadejia",
+          "en": "Hadejia",
+          "slug": "hadejia-ng018013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "10.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018013_dubantu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dubantu",
+      "en": "Dubantu",
+      "slug": "dubantu"
+    },
+    "code": {
+      "id": "NG018013_dubantu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018013",
+      "level": 2,
+      "name": {
+        "local": "Hadejia",
+        "en": "Hadejia",
+        "slug": "hadejia-ng018013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018013",
+        "level": 2,
+        "name": {
+          "local": "Hadejia",
+          "en": "Hadejia",
+          "slug": "hadejia-ng018013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "10.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018013_gagulmari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gagulmari",
+      "en": "Gagulmari",
+      "slug": "gagulmari"
+    },
+    "code": {
+      "id": "NG018013_gagulmari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018013",
+      "level": 2,
+      "name": {
+        "local": "Hadejia",
+        "en": "Hadejia",
+        "slug": "hadejia-ng018013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018013",
+        "level": 2,
+        "name": {
+          "local": "Hadejia",
+          "en": "Hadejia",
+          "slug": "hadejia-ng018013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "10.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018013_kasuwar-kofa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kasuwar Kofa",
+      "en": "Kasuwar Kofa",
+      "slug": "kasuwar-kofa"
+    },
+    "code": {
+      "id": "NG018013_kasuwar-kofa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018013",
+      "level": 2,
+      "name": {
+        "local": "Hadejia",
+        "en": "Hadejia",
+        "slug": "hadejia-ng018013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018013",
+        "level": 2,
+        "name": {
+          "local": "Hadejia",
+          "en": "Hadejia",
+          "slug": "hadejia-ng018013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "10.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018013_kasuwar-kuda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kasuwar Kuda",
+      "en": "Kasuwar Kuda",
+      "slug": "kasuwar-kuda"
+    },
+    "code": {
+      "id": "NG018013_kasuwar-kuda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018013",
+      "level": 2,
+      "name": {
+        "local": "Hadejia",
+        "en": "Hadejia",
+        "slug": "hadejia-ng018013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018013",
+        "level": 2,
+        "name": {
+          "local": "Hadejia",
+          "en": "Hadejia",
+          "slug": "hadejia-ng018013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "10.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018013_majema",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Majema",
+      "en": "Majema",
+      "slug": "majema"
+    },
+    "code": {
+      "id": "NG018013_majema",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018013",
+      "level": 2,
+      "name": {
+        "local": "Hadejia",
+        "en": "Hadejia",
+        "slug": "hadejia-ng018013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018013",
+        "level": 2,
+        "name": {
+          "local": "Hadejia",
+          "en": "Hadejia",
+          "slug": "hadejia-ng018013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "10.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018013_matsaro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Matsaro",
+      "en": "Matsaro",
+      "slug": "matsaro"
+    },
+    "code": {
+      "id": "NG018013_matsaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018013",
+      "level": 2,
+      "name": {
+        "local": "Hadejia",
+        "en": "Hadejia",
+        "slug": "hadejia-ng018013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018013",
+        "level": 2,
+        "name": {
+          "local": "Hadejia",
+          "en": "Hadejia",
+          "slug": "hadejia-ng018013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "10.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018013_rumfa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumfa",
+      "en": "Rumfa",
+      "slug": "rumfa"
+    },
+    "code": {
+      "id": "NG018013_rumfa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018013",
+      "level": 2,
+      "name": {
+        "local": "Hadejia",
+        "en": "Hadejia",
+        "slug": "hadejia-ng018013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018013",
+        "level": 2,
+        "name": {
+          "local": "Hadejia",
+          "en": "Hadejia",
+          "slug": "hadejia-ng018013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "10.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018013_sabon-garu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Garu",
+      "en": "Sabon Garu",
+      "slug": "sabon-garu"
+    },
+    "code": {
+      "id": "NG018013_sabon-garu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018013",
+      "level": 2,
+      "name": {
+        "local": "Hadejia",
+        "en": "Hadejia",
+        "slug": "hadejia-ng018013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018013",
+        "level": 2,
+        "name": {
+          "local": "Hadejia",
+          "en": "Hadejia",
+          "slug": "hadejia-ng018013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "10.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018013_yankoli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yankoli",
+      "en": "Yankoli",
+      "slug": "yankoli"
+    },
+    "code": {
+      "id": "NG018013_yankoli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018013",
+      "level": 2,
+      "name": {
+        "local": "Hadejia",
+        "en": "Hadejia",
+        "slug": "hadejia-ng018013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018013",
+        "level": 2,
+        "name": {
+          "local": "Hadejia",
+          "en": "Hadejia",
+          "slug": "hadejia-ng018013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "10.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018013_yayari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yayari",
+      "en": "Yayari",
+      "slug": "yayari"
+    },
+    "code": {
+      "id": "NG018013_yayari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018013",
+      "level": 2,
+      "name": {
+        "local": "Hadejia",
+        "en": "Hadejia",
+        "slug": "hadejia-ng018013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018013",
+        "level": 2,
+        "name": {
+          "local": "Hadejia",
+          "en": "Hadejia",
+          "slug": "hadejia-ng018013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.474",
+      "lon": "10.048"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

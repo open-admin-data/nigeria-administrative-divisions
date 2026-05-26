@@ -1,0 +1,47 @@
+{
+  "id": "NG001017",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Umu-Nneochi",
+    "en": "Umu-Nneochi",
+    "slug": "umu-nneochi-ng001017"
+  },
+  "code": {
+    "id": "NG001017",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG001",
+    "level": 1,
+    "name": {
+      "local": "Abia",
+      "en": "Abia",
+      "slug": "abia-ng001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG001",
+      "level": 1,
+      "name": {
+        "local": "Abia",
+        "en": "Abia",
+        "slug": "abia-ng001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.972",
+    "lon": "7.405"
+  },
+  "metadata": {},
+  "source": {}
+}

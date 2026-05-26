@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG021002_ajiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajiwa",
+      "en": "Ajiwa",
+      "slug": "ajiwa"
+    },
+    "code": {
+      "id": "NG021002_ajiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021002",
+      "level": 2,
+      "name": {
+        "local": "Batagarawa",
+        "en": "Batagarawa",
+        "slug": "batagarawa-ng021002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021002",
+        "level": 2,
+        "name": {
+          "local": "Batagarawa",
+          "en": "Batagarawa",
+          "slug": "batagarawa-ng021002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.879",
+      "lon": "7.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021002_bakiyawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakiyawa",
+      "en": "Bakiyawa",
+      "slug": "bakiyawa"
+    },
+    "code": {
+      "id": "NG021002_bakiyawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021002",
+      "level": 2,
+      "name": {
+        "local": "Batagarawa",
+        "en": "Batagarawa",
+        "slug": "batagarawa-ng021002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021002",
+        "level": 2,
+        "name": {
+          "local": "Batagarawa",
+          "en": "Batagarawa",
+          "slug": "batagarawa-ng021002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.879",
+      "lon": "7.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021002_barawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Barawa",
+      "en": "Barawa",
+      "slug": "barawa"
+    },
+    "code": {
+      "id": "NG021002_barawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021002",
+      "level": 2,
+      "name": {
+        "local": "Batagarawa",
+        "en": "Batagarawa",
+        "slug": "batagarawa-ng021002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021002",
+        "level": 2,
+        "name": {
+          "local": "Batagarawa",
+          "en": "Batagarawa",
+          "slug": "batagarawa-ng021002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.879",
+      "lon": "7.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021002_batagarawa-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Batagarawa A",
+      "en": "Batagarawa A",
+      "slug": "batagarawa-a"
+    },
+    "code": {
+      "id": "NG021002_batagarawa-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021002",
+      "level": 2,
+      "name": {
+        "local": "Batagarawa",
+        "en": "Batagarawa",
+        "slug": "batagarawa-ng021002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021002",
+        "level": 2,
+        "name": {
+          "local": "Batagarawa",
+          "en": "Batagarawa",
+          "slug": "batagarawa-ng021002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.879",
+      "lon": "7.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021002_batagarawa-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Batagarawa B",
+      "en": "Batagarawa B",
+      "slug": "batagarawa-b"
+    },
+    "code": {
+      "id": "NG021002_batagarawa-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021002",
+      "level": 2,
+      "name": {
+        "local": "Batagarawa",
+        "en": "Batagarawa",
+        "slug": "batagarawa-ng021002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021002",
+        "level": 2,
+        "name": {
+          "local": "Batagarawa",
+          "en": "Batagarawa",
+          "slug": "batagarawa-ng021002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.879",
+      "lon": "7.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021002_dandagoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dandagoro",
+      "en": "Dandagoro",
+      "slug": "dandagoro"
+    },
+    "code": {
+      "id": "NG021002_dandagoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021002",
+      "level": 2,
+      "name": {
+        "local": "Batagarawa",
+        "en": "Batagarawa",
+        "slug": "batagarawa-ng021002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021002",
+        "level": 2,
+        "name": {
+          "local": "Batagarawa",
+          "en": "Batagarawa",
+          "slug": "batagarawa-ng021002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.879",
+      "lon": "7.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021002_jino",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jino",
+      "en": "Jino",
+      "slug": "jino"
+    },
+    "code": {
+      "id": "NG021002_jino",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021002",
+      "level": 2,
+      "name": {
+        "local": "Batagarawa",
+        "en": "Batagarawa",
+        "slug": "batagarawa-ng021002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021002",
+        "level": 2,
+        "name": {
+          "local": "Batagarawa",
+          "en": "Batagarawa",
+          "slug": "batagarawa-ng021002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.879",
+      "lon": "7.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021002_kayauki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kayauki",
+      "en": "Kayauki",
+      "slug": "kayauki"
+    },
+    "code": {
+      "id": "NG021002_kayauki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021002",
+      "level": 2,
+      "name": {
+        "local": "Batagarawa",
+        "en": "Batagarawa",
+        "slug": "batagarawa-ng021002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021002",
+        "level": 2,
+        "name": {
+          "local": "Batagarawa",
+          "en": "Batagarawa",
+          "slug": "batagarawa-ng021002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.879",
+      "lon": "7.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021002_tsanni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsanni",
+      "en": "Tsanni",
+      "slug": "tsanni"
+    },
+    "code": {
+      "id": "NG021002_tsanni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021002",
+      "level": 2,
+      "name": {
+        "local": "Batagarawa",
+        "en": "Batagarawa",
+        "slug": "batagarawa-ng021002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021002",
+        "level": 2,
+        "name": {
+          "local": "Batagarawa",
+          "en": "Batagarawa",
+          "slug": "batagarawa-ng021002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.879",
+      "lon": "7.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021002_yargamji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yargamji",
+      "en": "Yargamji",
+      "slug": "yargamji"
+    },
+    "code": {
+      "id": "NG021002_yargamji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021002",
+      "level": 2,
+      "name": {
+        "local": "Batagarawa",
+        "en": "Batagarawa",
+        "slug": "batagarawa-ng021002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021002",
+        "level": 2,
+        "name": {
+          "local": "Batagarawa",
+          "en": "Batagarawa",
+          "slug": "batagarawa-ng021002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.879",
+      "lon": "7.531"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NG034010",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Kebbe",
+    "en": "Kebbe",
+    "slug": "kebbe-ng034010"
+  },
+  "code": {
+    "id": "NG034010",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG034",
+    "level": 1,
+    "name": {
+      "local": "Sokoto",
+      "en": "Sokoto",
+      "slug": "sokoto-ng034"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG034",
+      "level": 1,
+      "name": {
+        "local": "Sokoto",
+        "en": "Sokoto",
+        "slug": "sokoto-ng034"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.914",
+    "lon": "4.754"
+  },
+  "metadata": {},
+  "source": {}
+}

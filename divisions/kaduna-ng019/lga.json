@@ -1,0 +1,1083 @@
+[
+  {
+    "id": "NG019001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Birnin-Gwari",
+      "en": "Birnin-Gwari",
+      "slug": "birnin-gwari-ng019001"
+    },
+    "code": {
+      "id": "NG019001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.882",
+      "lon": "6.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Chikun",
+      "en": "Chikun",
+      "slug": "chikun-ng019002"
+    },
+    "code": {
+      "id": "NG019002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Giwa",
+      "en": "Giwa",
+      "slug": "giwa-ng019003"
+    },
+    "code": {
+      "id": "NG019003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.119",
+      "lon": "7.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Igabi",
+      "en": "Igabi",
+      "slug": "igabi-ng019004"
+    },
+    "code": {
+      "id": "NG019004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ikara",
+      "en": "Ikara",
+      "slug": "ikara-ng019005"
+    },
+    "code": {
+      "id": "NG019005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.314",
+      "lon": "8.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Jaba",
+      "en": "Jaba",
+      "slug": "jaba-ng019006"
+    },
+    "code": {
+      "id": "NG019006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.476",
+      "lon": "8.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Jema'a",
+      "en": "Jema'a",
+      "slug": "jemaa-ng019007"
+    },
+    "code": {
+      "id": "NG019007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.399",
+      "lon": "8.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kachia",
+      "en": "Kachia",
+      "slug": "kachia-ng019008"
+    },
+    "code": {
+      "id": "NG019008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kaduna North",
+      "en": "Kaduna North",
+      "slug": "kaduna-north-ng019009"
+    },
+    "code": {
+      "id": "NG019009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kaduna South",
+      "en": "Kaduna South",
+      "slug": "kaduna-south-ng019010"
+    },
+    "code": {
+      "id": "NG019010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.511",
+      "lon": "7.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kagarko",
+      "en": "Kagarko",
+      "slug": "kagarko-ng019011"
+    },
+    "code": {
+      "id": "NG019011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.494",
+      "lon": "7.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kajuru",
+      "en": "Kajuru",
+      "slug": "kajuru-ng019012"
+    },
+    "code": {
+      "id": "NG019012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.263",
+      "lon": "7.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kaura",
+      "en": "Kaura",
+      "slug": "kaura-ng019013"
+    },
+    "code": {
+      "id": "NG019013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.62",
+      "lon": "8.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kauru",
+      "en": "Kauru",
+      "slug": "kauru-ng019014"
+    },
+    "code": {
+      "id": "NG019014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.22",
+      "lon": "8.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kubau",
+      "en": "Kubau",
+      "slug": "kubau-ng019015"
+    },
+    "code": {
+      "id": "NG019015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "8.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kudan",
+      "en": "Kudan",
+      "slug": "kudan-ng019016"
+    },
+    "code": {
+      "id": "NG019016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.268",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Lere",
+      "en": "Lere",
+      "slug": "lere-ng019017"
+    },
+    "code": {
+      "id": "NG019017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.337",
+      "lon": "8.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Markafi",
+      "en": "Markafi",
+      "slug": "markafi-ng019018"
+    },
+    "code": {
+      "id": "NG019018",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.327",
+      "lon": "7.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Sabon-Gari",
+      "en": "Sabon-Gari",
+      "slug": "sabon-gari-ng019019"
+    },
+    "code": {
+      "id": "NG019019",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Sanga",
+      "en": "Sanga",
+      "slug": "sanga-ng019020"
+    },
+    "code": {
+      "id": "NG019020",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.251",
+      "lon": "8.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Soba",
+      "en": "Soba",
+      "slug": "soba-ng019021"
+    },
+    "code": {
+      "id": "NG019021",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.954",
+      "lon": "8.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Zango-Kataf",
+      "en": "Zango-Kataf",
+      "slug": "zango-kataf-ng019022"
+    },
+    "code": {
+      "id": "NG019022",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.839",
+      "lon": "8.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Zaria",
+      "en": "Zaria",
+      "slug": "zaria-ng019023"
+    },
+    "code": {
+      "id": "NG019023",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.019",
+      "lon": "7.646"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

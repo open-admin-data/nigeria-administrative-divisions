@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG009008_abo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abo",
+      "en": "Abo",
+      "slug": "abo"
+    },
+    "code": {
+      "id": "NG009008_abo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009008",
+      "level": 2,
+      "name": {
+        "local": "Boki",
+        "en": "Boki",
+        "slug": "boki-ng009008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009008",
+        "level": 2,
+        "name": {
+          "local": "Boki",
+          "en": "Boki",
+          "slug": "boki-ng009008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009008_alankwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alankwu",
+      "en": "Alankwu",
+      "slug": "alankwu"
+    },
+    "code": {
+      "id": "NG009008_alankwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009008",
+      "level": 2,
+      "name": {
+        "local": "Boki",
+        "en": "Boki",
+        "slug": "boki-ng009008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009008",
+        "level": 2,
+        "name": {
+          "local": "Boki",
+          "en": "Boki",
+          "slug": "boki-ng009008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009008_beebobumaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Beebo/bumaji",
+      "en": "Beebo/bumaji",
+      "slug": "beebobumaji"
+    },
+    "code": {
+      "id": "NG009008_beebobumaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009008",
+      "level": 2,
+      "name": {
+        "local": "Boki",
+        "en": "Boki",
+        "slug": "boki-ng009008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009008",
+        "level": 2,
+        "name": {
+          "local": "Boki",
+          "en": "Boki",
+          "slug": "boki-ng009008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009008_boje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Boje",
+      "en": "Boje",
+      "slug": "boje"
+    },
+    "code": {
+      "id": "NG009008_boje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009008",
+      "level": 2,
+      "name": {
+        "local": "Boki",
+        "en": "Boki",
+        "slug": "boki-ng009008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009008",
+        "level": 2,
+        "name": {
+          "local": "Boki",
+          "en": "Boki",
+          "slug": "boki-ng009008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009008_buda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buda",
+      "en": "Buda",
+      "slug": "buda"
+    },
+    "code": {
+      "id": "NG009008_buda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009008",
+      "level": 2,
+      "name": {
+        "local": "Boki",
+        "en": "Boki",
+        "slug": "boki-ng009008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009008",
+        "level": 2,
+        "name": {
+          "local": "Boki",
+          "en": "Boki",
+          "slug": "boki-ng009008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009008_buentsebe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buentsebe",
+      "en": "Buentsebe",
+      "slug": "buentsebe"
+    },
+    "code": {
+      "id": "NG009008_buentsebe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009008",
+      "level": 2,
+      "name": {
+        "local": "Boki",
+        "en": "Boki",
+        "slug": "boki-ng009008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009008",
+        "level": 2,
+        "name": {
+          "local": "Boki",
+          "en": "Boki",
+          "slug": "boki-ng009008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009008_bunyiaokubuchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bunyia/okubuchi",
+      "en": "Bunyia/okubuchi",
+      "slug": "bunyiaokubuchi"
+    },
+    "code": {
+      "id": "NG009008_bunyiaokubuchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009008",
+      "level": 2,
+      "name": {
+        "local": "Boki",
+        "en": "Boki",
+        "slug": "boki-ng009008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009008",
+        "level": 2,
+        "name": {
+          "local": "Boki",
+          "en": "Boki",
+          "slug": "boki-ng009008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009008_ekpashi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekpashi",
+      "en": "Ekpashi",
+      "slug": "ekpashi"
+    },
+    "code": {
+      "id": "NG009008_ekpashi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009008",
+      "level": 2,
+      "name": {
+        "local": "Boki",
+        "en": "Boki",
+        "slug": "boki-ng009008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009008",
+        "level": 2,
+        "name": {
+          "local": "Boki",
+          "en": "Boki",
+          "slug": "boki-ng009008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009008_kakwagombawop",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kakwagom/bawop",
+      "en": "Kakwagom/bawop",
+      "slug": "kakwagombawop"
+    },
+    "code": {
+      "id": "NG009008_kakwagombawop",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009008",
+      "level": 2,
+      "name": {
+        "local": "Boki",
+        "en": "Boki",
+        "slug": "boki-ng009008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009008",
+        "level": 2,
+        "name": {
+          "local": "Boki",
+          "en": "Boki",
+          "slug": "boki-ng009008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009008_ogeposokom",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogep/osokom",
+      "en": "Ogep/osokom",
+      "slug": "ogeposokom"
+    },
+    "code": {
+      "id": "NG009008_ogeposokom",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009008",
+      "level": 2,
+      "name": {
+        "local": "Boki",
+        "en": "Boki",
+        "slug": "boki-ng009008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009008",
+        "level": 2,
+        "name": {
+          "local": "Boki",
+          "en": "Boki",
+          "slug": "boki-ng009008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "9.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009008_okuborumnjua",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oku/borum/njua",
+      "en": "Oku/borum/njua",
+      "slug": "okuborumnjua"
+    },
+    "code": {
+      "id": "NG009008_okuborumnjua",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009008",
+      "level": 2,
+      "name": {
+        "local": "Boki",
+        "en": "Boki",
+        "slug": "boki-ng009008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009008",
+        "level": 2,
+        "name": {
+          "local": "Boki",
+          "en": "Boki",
+          "slug": "boki-ng009008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.271",
+      "lon": "9.043"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

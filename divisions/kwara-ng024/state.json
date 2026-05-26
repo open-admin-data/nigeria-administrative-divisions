@@ -1,0 +1,30 @@
+{
+  "id": "NG024",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Kwara",
+    "en": "Kwara",
+    "slug": "kwara-ng024"
+  },
+  "code": {
+    "id": "NG024",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 16,
+    "ward": 164
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.093",
+    "lon": "4.567"
+  },
+  "metadata": {},
+  "source": {}
+}

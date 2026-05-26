@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG002016_bare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bare",
+      "en": "Bare",
+      "slug": "bare"
+    },
+    "code": {
+      "id": "NG002016_bare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002016",
+      "level": 2,
+      "name": {
+        "local": "Numan",
+        "en": "Numan",
+        "slug": "numan-ng002016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002016",
+        "level": 2,
+        "name": {
+          "local": "Numan",
+          "en": "Numan",
+          "slug": "numan-ng002016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.585",
+      "lon": "12.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002016_bolki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bolki",
+      "en": "Bolki",
+      "slug": "bolki"
+    },
+    "code": {
+      "id": "NG002016_bolki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002016",
+      "level": 2,
+      "name": {
+        "local": "Numan",
+        "en": "Numan",
+        "slug": "numan-ng002016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002016",
+        "level": 2,
+        "name": {
+          "local": "Numan",
+          "en": "Numan",
+          "slug": "numan-ng002016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.451",
+      "lon": "11.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002016_gamadio",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamadio",
+      "en": "Gamadio",
+      "slug": "gamadio"
+    },
+    "code": {
+      "id": "NG002016_gamadio",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002016",
+      "level": 2,
+      "name": {
+        "local": "Numan",
+        "en": "Numan",
+        "slug": "numan-ng002016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002016",
+        "level": 2,
+        "name": {
+          "local": "Numan",
+          "en": "Numan",
+          "slug": "numan-ng002016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.424",
+      "lon": "11.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002016_imburu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imburu",
+      "en": "Imburu",
+      "slug": "imburu"
+    },
+    "code": {
+      "id": "NG002016_imburu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002016",
+      "level": 2,
+      "name": {
+        "local": "Numan",
+        "en": "Numan",
+        "slug": "numan-ng002016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002016",
+        "level": 2,
+        "name": {
+          "local": "Numan",
+          "en": "Numan",
+          "slug": "numan-ng002016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.514",
+      "lon": "12.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002016_kodomti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kodomti",
+      "en": "Kodomti",
+      "slug": "kodomti"
+    },
+    "code": {
+      "id": "NG002016_kodomti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002016",
+      "level": 2,
+      "name": {
+        "local": "Numan",
+        "en": "Numan",
+        "slug": "numan-ng002016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002016",
+        "level": 2,
+        "name": {
+          "local": "Numan",
+          "en": "Numan",
+          "slug": "numan-ng002016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.447",
+      "lon": "11.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002016_numan-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Numan I",
+      "en": "Numan I",
+      "slug": "numan-i"
+    },
+    "code": {
+      "id": "NG002016_numan-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002016",
+      "level": 2,
+      "name": {
+        "local": "Numan",
+        "en": "Numan",
+        "slug": "numan-ng002016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002016",
+        "level": 2,
+        "name": {
+          "local": "Numan",
+          "en": "Numan",
+          "slug": "numan-ng002016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.457",
+      "lon": "12.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002016_numan-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Numan Ii",
+      "en": "Numan Ii",
+      "slug": "numan-ii"
+    },
+    "code": {
+      "id": "NG002016_numan-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002016",
+      "level": 2,
+      "name": {
+        "local": "Numan",
+        "en": "Numan",
+        "slug": "numan-ng002016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002016",
+        "level": 2,
+        "name": {
+          "local": "Numan",
+          "en": "Numan",
+          "slug": "numan-ng002016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.457",
+      "lon": "12.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002016_numan-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Numan Iii",
+      "en": "Numan Iii",
+      "slug": "numan-iii"
+    },
+    "code": {
+      "id": "NG002016_numan-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002016",
+      "level": 2,
+      "name": {
+        "local": "Numan",
+        "en": "Numan",
+        "slug": "numan-ng002016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002016",
+        "level": 2,
+        "name": {
+          "local": "Numan",
+          "en": "Numan",
+          "slug": "numan-ng002016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.457",
+      "lon": "12.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002016_sabon-pegi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Pegi",
+      "en": "Sabon Pegi",
+      "slug": "sabon-pegi"
+    },
+    "code": {
+      "id": "NG002016_sabon-pegi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002016",
+      "level": 2,
+      "name": {
+        "local": "Numan",
+        "en": "Numan",
+        "slug": "numan-ng002016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002016",
+        "level": 2,
+        "name": {
+          "local": "Numan",
+          "en": "Numan",
+          "slug": "numan-ng002016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.456",
+      "lon": "12.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002016_vulpi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Vulpi",
+      "en": "Vulpi",
+      "slug": "vulpi"
+    },
+    "code": {
+      "id": "NG002016_vulpi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002016",
+      "level": 2,
+      "name": {
+        "local": "Numan",
+        "en": "Numan",
+        "slug": "numan-ng002016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002016",
+        "level": 2,
+        "name": {
+          "local": "Numan",
+          "en": "Numan",
+          "slug": "numan-ng002016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.403",
+      "lon": "11.753"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

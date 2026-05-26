@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG007016_agadagba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agadagba",
+      "en": "Agadagba",
+      "slug": "agadagba"
+    },
+    "code": {
+      "id": "NG007016_agadagba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007016",
+      "level": 2,
+      "name": {
+        "local": "Ohimini",
+        "en": "Ohimini",
+        "slug": "ohimini-ng007016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007016",
+        "level": 2,
+        "name": {
+          "local": "Ohimini",
+          "en": "Ohimini",
+          "slug": "ohimini-ng007016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.26",
+      "lon": "7.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007016_awume-ehaje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awume Ehaje",
+      "en": "Awume Ehaje",
+      "slug": "awume-ehaje"
+    },
+    "code": {
+      "id": "NG007016_awume-ehaje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007016",
+      "level": 2,
+      "name": {
+        "local": "Ohimini",
+        "en": "Ohimini",
+        "slug": "ohimini-ng007016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007016",
+        "level": 2,
+        "name": {
+          "local": "Ohimini",
+          "en": "Ohimini",
+          "slug": "ohimini-ng007016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.26",
+      "lon": "7.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007016_awume-icho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awume Icho",
+      "en": "Awume Icho",
+      "slug": "awume-icho"
+    },
+    "code": {
+      "id": "NG007016_awume-icho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007016",
+      "level": 2,
+      "name": {
+        "local": "Ohimini",
+        "en": "Ohimini",
+        "slug": "ohimini-ng007016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007016",
+        "level": 2,
+        "name": {
+          "local": "Ohimini",
+          "en": "Ohimini",
+          "slug": "ohimini-ng007016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.26",
+      "lon": "7.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007016_ehatokpe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ehatokpe",
+      "en": "Ehatokpe",
+      "slug": "ehatokpe"
+    },
+    "code": {
+      "id": "NG007016_ehatokpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007016",
+      "level": 2,
+      "name": {
+        "local": "Ohimini",
+        "en": "Ohimini",
+        "slug": "ohimini-ng007016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007016",
+        "level": 2,
+        "name": {
+          "local": "Ohimini",
+          "en": "Ohimini",
+          "slug": "ohimini-ng007016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.26",
+      "lon": "7.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007016_idekpa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idekpa",
+      "en": "Idekpa",
+      "slug": "idekpa"
+    },
+    "code": {
+      "id": "NG007016_idekpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007016",
+      "level": 2,
+      "name": {
+        "local": "Ohimini",
+        "en": "Ohimini",
+        "slug": "ohimini-ng007016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007016",
+        "level": 2,
+        "name": {
+          "local": "Ohimini",
+          "en": "Ohimini",
+          "slug": "ohimini-ng007016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.26",
+      "lon": "7.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007016_ochobo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ochobo",
+      "en": "Ochobo",
+      "slug": "ochobo"
+    },
+    "code": {
+      "id": "NG007016_ochobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007016",
+      "level": 2,
+      "name": {
+        "local": "Ohimini",
+        "en": "Ohimini",
+        "slug": "ohimini-ng007016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007016",
+        "level": 2,
+        "name": {
+          "local": "Ohimini",
+          "en": "Ohimini",
+          "slug": "ohimini-ng007016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.26",
+      "lon": "7.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007016_oglewu-ehaje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oglewu Ehaje",
+      "en": "Oglewu Ehaje",
+      "slug": "oglewu-ehaje"
+    },
+    "code": {
+      "id": "NG007016_oglewu-ehaje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007016",
+      "level": 2,
+      "name": {
+        "local": "Ohimini",
+        "en": "Ohimini",
+        "slug": "ohimini-ng007016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007016",
+        "level": 2,
+        "name": {
+          "local": "Ohimini",
+          "en": "Ohimini",
+          "slug": "ohimini-ng007016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.26",
+      "lon": "7.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007016_oglewu-icho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oglewu Icho",
+      "en": "Oglewu Icho",
+      "slug": "oglewu-icho"
+    },
+    "code": {
+      "id": "NG007016_oglewu-icho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007016",
+      "level": 2,
+      "name": {
+        "local": "Ohimini",
+        "en": "Ohimini",
+        "slug": "ohimini-ng007016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007016",
+        "level": 2,
+        "name": {
+          "local": "Ohimini",
+          "en": "Ohimini",
+          "slug": "ohimini-ng007016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.26",
+      "lon": "7.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007016_onyagede-icho-ogoli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Onyagede Icho (ogoli)",
+      "en": "Onyagede Icho (ogoli)",
+      "slug": "onyagede-icho-ogoli"
+    },
+    "code": {
+      "id": "NG007016_onyagede-icho-ogoli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007016",
+      "level": 2,
+      "name": {
+        "local": "Ohimini",
+        "en": "Ohimini",
+        "slug": "ohimini-ng007016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007016",
+        "level": 2,
+        "name": {
+          "local": "Ohimini",
+          "en": "Ohimini",
+          "slug": "ohimini-ng007016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.26",
+      "lon": "7.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007016_onyagede-ehaje-alle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Onyagede-ehaje (alle)",
+      "en": "Onyagede-ehaje (alle)",
+      "slug": "onyagede-ehaje-alle"
+    },
+    "code": {
+      "id": "NG007016_onyagede-ehaje-alle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007016",
+      "level": 2,
+      "name": {
+        "local": "Ohimini",
+        "en": "Ohimini",
+        "slug": "ohimini-ng007016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007016",
+        "level": 2,
+        "name": {
+          "local": "Ohimini",
+          "en": "Ohimini",
+          "slug": "ohimini-ng007016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.26",
+      "lon": "7.958"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

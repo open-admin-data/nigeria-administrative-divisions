@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG022007_bunza-dangaladima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bunza Dangaladima",
+      "en": "Bunza Dangaladima",
+      "slug": "bunza-dangaladima"
+    },
+    "code": {
+      "id": "NG022007_bunza-dangaladima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022007",
+      "level": 2,
+      "name": {
+        "local": "Bunza",
+        "en": "Bunza",
+        "slug": "bunza-ng022007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022007",
+        "level": 2,
+        "name": {
+          "local": "Bunza",
+          "en": "Bunza",
+          "slug": "bunza-ng022007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "3.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022007_bunza-marafa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bunza Marafa",
+      "en": "Bunza Marafa",
+      "slug": "bunza-marafa"
+    },
+    "code": {
+      "id": "NG022007_bunza-marafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022007",
+      "level": 2,
+      "name": {
+        "local": "Bunza",
+        "en": "Bunza",
+        "slug": "bunza-ng022007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022007",
+        "level": 2,
+        "name": {
+          "local": "Bunza",
+          "en": "Bunza",
+          "slug": "bunza-ng022007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "3.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022007_gwade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwade",
+      "en": "Gwade",
+      "slug": "gwade"
+    },
+    "code": {
+      "id": "NG022007_gwade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022007",
+      "level": 2,
+      "name": {
+        "local": "Bunza",
+        "en": "Bunza",
+        "slug": "bunza-ng022007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022007",
+        "level": 2,
+        "name": {
+          "local": "Bunza",
+          "en": "Bunza",
+          "slug": "bunza-ng022007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "3.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022007_maidahini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maidahini",
+      "en": "Maidahini",
+      "slug": "maidahini"
+    },
+    "code": {
+      "id": "NG022007_maidahini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022007",
+      "level": 2,
+      "name": {
+        "local": "Bunza",
+        "en": "Bunza",
+        "slug": "bunza-ng022007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022007",
+        "level": 2,
+        "name": {
+          "local": "Bunza",
+          "en": "Bunza",
+          "slug": "bunza-ng022007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "3.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022007_raha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Raha",
+      "en": "Raha",
+      "slug": "raha"
+    },
+    "code": {
+      "id": "NG022007_raha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022007",
+      "level": 2,
+      "name": {
+        "local": "Bunza",
+        "en": "Bunza",
+        "slug": "bunza-ng022007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022007",
+        "level": 2,
+        "name": {
+          "local": "Bunza",
+          "en": "Bunza",
+          "slug": "bunza-ng022007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "3.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022007_sabon-birni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Birni",
+      "en": "Sabon Birni",
+      "slug": "sabon-birni"
+    },
+    "code": {
+      "id": "NG022007_sabon-birni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022007",
+      "level": 2,
+      "name": {
+        "local": "Bunza",
+        "en": "Bunza",
+        "slug": "bunza-ng022007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022007",
+        "level": 2,
+        "name": {
+          "local": "Bunza",
+          "en": "Bunza",
+          "slug": "bunza-ng022007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "3.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022007_salwai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Salwai",
+      "en": "Salwai",
+      "slug": "salwai"
+    },
+    "code": {
+      "id": "NG022007_salwai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022007",
+      "level": 2,
+      "name": {
+        "local": "Bunza",
+        "en": "Bunza",
+        "slug": "bunza-ng022007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022007",
+        "level": 2,
+        "name": {
+          "local": "Bunza",
+          "en": "Bunza",
+          "slug": "bunza-ng022007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "3.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022007_tillihilema",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tilli/hilema",
+      "en": "Tilli/hilema",
+      "slug": "tillihilema"
+    },
+    "code": {
+      "id": "NG022007_tillihilema",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022007",
+      "level": 2,
+      "name": {
+        "local": "Bunza",
+        "en": "Bunza",
+        "slug": "bunza-ng022007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022007",
+        "level": 2,
+        "name": {
+          "local": "Bunza",
+          "en": "Bunza",
+          "slug": "bunza-ng022007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "3.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022007_tunga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tunga",
+      "en": "Tunga",
+      "slug": "tunga"
+    },
+    "code": {
+      "id": "NG022007_tunga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022007",
+      "level": 2,
+      "name": {
+        "local": "Bunza",
+        "en": "Bunza",
+        "slug": "bunza-ng022007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022007",
+        "level": 2,
+        "name": {
+          "local": "Bunza",
+          "en": "Bunza",
+          "slug": "bunza-ng022007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "3.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022007_zogrima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zogrima",
+      "en": "Zogrima",
+      "slug": "zogrima"
+    },
+    "code": {
+      "id": "NG022007_zogrima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022007",
+      "level": 2,
+      "name": {
+        "local": "Bunza",
+        "en": "Bunza",
+        "slug": "bunza-ng022007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022007",
+        "level": 2,
+        "name": {
+          "local": "Bunza",
+          "en": "Bunza",
+          "slug": "bunza-ng022007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "3.938"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

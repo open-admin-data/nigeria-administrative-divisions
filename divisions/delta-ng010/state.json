@@ -1,0 +1,30 @@
+{
+  "id": "NG010",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Delta",
+    "en": "Delta",
+    "slug": "delta-ng010"
+  },
+  "code": {
+    "id": "NG010",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 25,
+    "ward": 270
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.757",
+    "lon": "5.5"
+  },
+  "metadata": {},
+  "source": {}
+}

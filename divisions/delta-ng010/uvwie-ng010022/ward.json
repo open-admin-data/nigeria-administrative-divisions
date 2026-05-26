@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG010022_army-barracks-area",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Army Barracks Area",
+      "en": "Army Barracks Area",
+      "slug": "army-barracks-area"
+    },
+    "code": {
+      "id": "NG010022_army-barracks-area",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010022",
+      "level": 2,
+      "name": {
+        "local": "Uvwie",
+        "en": "Uvwie",
+        "slug": "uvwie-ng010022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010022",
+        "level": 2,
+        "name": {
+          "local": "Uvwie",
+          "en": "Uvwie",
+          "slug": "uvwie-ng010022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010022_effurun-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Effurun I",
+      "en": "Effurun I",
+      "slug": "effurun-i"
+    },
+    "code": {
+      "id": "NG010022_effurun-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010022",
+      "level": 2,
+      "name": {
+        "local": "Uvwie",
+        "en": "Uvwie",
+        "slug": "uvwie-ng010022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010022",
+        "level": 2,
+        "name": {
+          "local": "Uvwie",
+          "en": "Uvwie",
+          "slug": "uvwie-ng010022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010022_effurun-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Effurun Ii",
+      "en": "Effurun Ii",
+      "slug": "effurun-ii"
+    },
+    "code": {
+      "id": "NG010022_effurun-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010022",
+      "level": 2,
+      "name": {
+        "local": "Uvwie",
+        "en": "Uvwie",
+        "slug": "uvwie-ng010022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010022",
+        "level": 2,
+        "name": {
+          "local": "Uvwie",
+          "en": "Uvwie",
+          "slug": "uvwie-ng010022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010022_ekpan-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekpan I",
+      "en": "Ekpan I",
+      "slug": "ekpan-i"
+    },
+    "code": {
+      "id": "NG010022_ekpan-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010022",
+      "level": 2,
+      "name": {
+        "local": "Uvwie",
+        "en": "Uvwie",
+        "slug": "uvwie-ng010022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010022",
+        "level": 2,
+        "name": {
+          "local": "Uvwie",
+          "en": "Uvwie",
+          "slug": "uvwie-ng010022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010022_ekpan-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekpan Ii",
+      "en": "Ekpan Ii",
+      "slug": "ekpan-ii"
+    },
+    "code": {
+      "id": "NG010022_ekpan-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010022",
+      "level": 2,
+      "name": {
+        "local": "Uvwie",
+        "en": "Uvwie",
+        "slug": "uvwie-ng010022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010022",
+        "level": 2,
+        "name": {
+          "local": "Uvwie",
+          "en": "Uvwie",
+          "slug": "uvwie-ng010022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010022_enerhen-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Enerhen I",
+      "en": "Enerhen I",
+      "slug": "enerhen-i"
+    },
+    "code": {
+      "id": "NG010022_enerhen-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010022",
+      "level": 2,
+      "name": {
+        "local": "Uvwie",
+        "en": "Uvwie",
+        "slug": "uvwie-ng010022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010022",
+        "level": 2,
+        "name": {
+          "local": "Uvwie",
+          "en": "Uvwie",
+          "slug": "uvwie-ng010022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010022_enerhen-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Enerhen Ii",
+      "en": "Enerhen Ii",
+      "slug": "enerhen-ii"
+    },
+    "code": {
+      "id": "NG010022_enerhen-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010022",
+      "level": 2,
+      "name": {
+        "local": "Uvwie",
+        "en": "Uvwie",
+        "slug": "uvwie-ng010022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010022",
+        "level": 2,
+        "name": {
+          "local": "Uvwie",
+          "en": "Uvwie",
+          "slug": "uvwie-ng010022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010022_ugbomrougbolokposo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugbomro/ugbolokposo",
+      "en": "Ugbomro/ugbolokposo",
+      "slug": "ugbomrougbolokposo"
+    },
+    "code": {
+      "id": "NG010022_ugbomrougbolokposo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010022",
+      "level": 2,
+      "name": {
+        "local": "Uvwie",
+        "en": "Uvwie",
+        "slug": "uvwie-ng010022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010022",
+        "level": 2,
+        "name": {
+          "local": "Uvwie",
+          "en": "Uvwie",
+          "slug": "uvwie-ng010022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010022_ugborikoko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugborikoko",
+      "en": "Ugborikoko",
+      "slug": "ugborikoko"
+    },
+    "code": {
+      "id": "NG010022_ugborikoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010022",
+      "level": 2,
+      "name": {
+        "local": "Uvwie",
+        "en": "Uvwie",
+        "slug": "uvwie-ng010022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010022",
+        "level": 2,
+        "name": {
+          "local": "Uvwie",
+          "en": "Uvwie",
+          "slug": "uvwie-ng010022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010022_ugboroke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugboroke",
+      "en": "Ugboroke",
+      "slug": "ugboroke"
+    },
+    "code": {
+      "id": "NG010022_ugboroke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010022",
+      "level": 2,
+      "name": {
+        "local": "Uvwie",
+        "en": "Uvwie",
+        "slug": "uvwie-ng010022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010022",
+        "level": 2,
+        "name": {
+          "local": "Uvwie",
+          "en": "Uvwie",
+          "slug": "uvwie-ng010022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

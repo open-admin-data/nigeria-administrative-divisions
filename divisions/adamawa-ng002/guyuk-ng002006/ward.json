@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG002006_banjiram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Banjiram",
+      "en": "Banjiram",
+      "slug": "banjiram"
+    },
+    "code": {
+      "id": "NG002006_banjiram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002006",
+      "level": 2,
+      "name": {
+        "local": "Guyuk",
+        "en": "Guyuk",
+        "slug": "guyuk-ng002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002006",
+        "level": 2,
+        "name": {
+          "local": "Guyuk",
+          "en": "Guyuk",
+          "slug": "guyuk-ng002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.792",
+      "lon": "11.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002006_bobini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bobini",
+      "en": "Bobini",
+      "slug": "bobini"
+    },
+    "code": {
+      "id": "NG002006_bobini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002006",
+      "level": 2,
+      "name": {
+        "local": "Guyuk",
+        "en": "Guyuk",
+        "slug": "guyuk-ng002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002006",
+        "level": 2,
+        "name": {
+          "local": "Guyuk",
+          "en": "Guyuk",
+          "slug": "guyuk-ng002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.984",
+      "lon": "11.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002006_bodeno",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bodeno",
+      "en": "Bodeno",
+      "slug": "bodeno"
+    },
+    "code": {
+      "id": "NG002006_bodeno",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002006",
+      "level": 2,
+      "name": {
+        "local": "Guyuk",
+        "en": "Guyuk",
+        "slug": "guyuk-ng002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002006",
+        "level": 2,
+        "name": {
+          "local": "Guyuk",
+          "en": "Guyuk",
+          "slug": "guyuk-ng002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.999",
+      "lon": "11.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002006_chikila",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chikila",
+      "en": "Chikila",
+      "slug": "chikila"
+    },
+    "code": {
+      "id": "NG002006_chikila",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002006",
+      "level": 2,
+      "name": {
+        "local": "Guyuk",
+        "en": "Guyuk",
+        "slug": "guyuk-ng002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002006",
+        "level": 2,
+        "name": {
+          "local": "Guyuk",
+          "en": "Guyuk",
+          "slug": "guyuk-ng002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.75",
+      "lon": "11.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002006_dukul",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dukul",
+      "en": "Dukul",
+      "slug": "dukul"
+    },
+    "code": {
+      "id": "NG002006_dukul",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002006",
+      "level": 2,
+      "name": {
+        "local": "Guyuk",
+        "en": "Guyuk",
+        "slug": "guyuk-ng002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002006",
+        "level": 2,
+        "name": {
+          "local": "Guyuk",
+          "en": "Guyuk",
+          "slug": "guyuk-ng002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.876",
+      "lon": "11.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002006_dumna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dumna",
+      "en": "Dumna",
+      "slug": "dumna"
+    },
+    "code": {
+      "id": "NG002006_dumna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002006",
+      "level": 2,
+      "name": {
+        "local": "Guyuk",
+        "en": "Guyuk",
+        "slug": "guyuk-ng002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002006",
+        "level": 2,
+        "name": {
+          "local": "Guyuk",
+          "en": "Guyuk",
+          "slug": "guyuk-ng002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.693",
+      "lon": "11.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002006_guyuk",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guyuk",
+      "en": "Guyuk",
+      "slug": "guyuk"
+    },
+    "code": {
+      "id": "NG002006_guyuk",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002006",
+      "level": 2,
+      "name": {
+        "local": "Guyuk",
+        "en": "Guyuk",
+        "slug": "guyuk-ng002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002006",
+        "level": 2,
+        "name": {
+          "local": "Guyuk",
+          "en": "Guyuk",
+          "slug": "guyuk-ng002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.904",
+      "lon": "11.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002006_kola",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kola",
+      "en": "Kola",
+      "slug": "kola"
+    },
+    "code": {
+      "id": "NG002006_kola",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002006",
+      "level": 2,
+      "name": {
+        "local": "Guyuk",
+        "en": "Guyuk",
+        "slug": "guyuk-ng002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002006",
+        "level": 2,
+        "name": {
+          "local": "Guyuk",
+          "en": "Guyuk",
+          "slug": "guyuk-ng002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.701",
+      "lon": "11.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002006_lokoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lokoro",
+      "en": "Lokoro",
+      "slug": "lokoro"
+    },
+    "code": {
+      "id": "NG002006_lokoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002006",
+      "level": 2,
+      "name": {
+        "local": "Guyuk",
+        "en": "Guyuk",
+        "slug": "guyuk-ng002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002006",
+        "level": 2,
+        "name": {
+          "local": "Guyuk",
+          "en": "Guyuk",
+          "slug": "guyuk-ng002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.833",
+      "lon": "11.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002006_purokayo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Purokayo",
+      "en": "Purokayo",
+      "slug": "purokayo"
+    },
+    "code": {
+      "id": "NG002006_purokayo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002006",
+      "level": 2,
+      "name": {
+        "local": "Guyuk",
+        "en": "Guyuk",
+        "slug": "guyuk-ng002006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002006",
+        "level": 2,
+        "name": {
+          "local": "Guyuk",
+          "en": "Guyuk",
+          "slug": "guyuk-ng002006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.849",
+      "lon": "11.919"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

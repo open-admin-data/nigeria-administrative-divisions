@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG020028_burji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Burji",
+      "en": "Burji",
+      "slug": "burji"
+    },
+    "code": {
+      "id": "NG020028_burji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020028",
+      "level": 2,
+      "name": {
+        "local": "Madobi",
+        "en": "Madobi",
+        "slug": "madobi-ng020028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020028",
+        "level": 2,
+        "name": {
+          "local": "Madobi",
+          "en": "Madobi",
+          "slug": "madobi-ng020028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020028_cinkoso",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Cinkoso",
+      "en": "Cinkoso",
+      "slug": "cinkoso"
+    },
+    "code": {
+      "id": "NG020028_cinkoso",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020028",
+      "level": 2,
+      "name": {
+        "local": "Madobi",
+        "en": "Madobi",
+        "slug": "madobi-ng020028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020028",
+        "level": 2,
+        "name": {
+          "local": "Madobi",
+          "en": "Madobi",
+          "slug": "madobi-ng020028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020028_galinja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galinja",
+      "en": "Galinja",
+      "slug": "galinja"
+    },
+    "code": {
+      "id": "NG020028_galinja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020028",
+      "level": 2,
+      "name": {
+        "local": "Madobi",
+        "en": "Madobi",
+        "slug": "madobi-ng020028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020028",
+        "level": 2,
+        "name": {
+          "local": "Madobi",
+          "en": "Madobi",
+          "slug": "madobi-ng020028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020028_gora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gora",
+      "en": "Gora",
+      "slug": "gora"
+    },
+    "code": {
+      "id": "NG020028_gora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020028",
+      "level": 2,
+      "name": {
+        "local": "Madobi",
+        "en": "Madobi",
+        "slug": "madobi-ng020028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020028",
+        "level": 2,
+        "name": {
+          "local": "Madobi",
+          "en": "Madobi",
+          "slug": "madobi-ng020028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020028_kafin-agur",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafin Agur",
+      "en": "Kafin Agur",
+      "slug": "kafin-agur"
+    },
+    "code": {
+      "id": "NG020028_kafin-agur",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020028",
+      "level": 2,
+      "name": {
+        "local": "Madobi",
+        "en": "Madobi",
+        "slug": "madobi-ng020028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020028",
+        "level": 2,
+        "name": {
+          "local": "Madobi",
+          "en": "Madobi",
+          "slug": "madobi-ng020028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020028_kanwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanwa",
+      "en": "Kanwa",
+      "slug": "kanwa"
+    },
+    "code": {
+      "id": "NG020028_kanwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020028",
+      "level": 2,
+      "name": {
+        "local": "Madobi",
+        "en": "Madobi",
+        "slug": "madobi-ng020028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020028",
+        "level": 2,
+        "name": {
+          "local": "Madobi",
+          "en": "Madobi",
+          "slug": "madobi-ng020028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020028_kaura-mata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaura Mata",
+      "en": "Kaura Mata",
+      "slug": "kaura-mata"
+    },
+    "code": {
+      "id": "NG020028_kaura-mata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020028",
+      "level": 2,
+      "name": {
+        "local": "Madobi",
+        "en": "Madobi",
+        "slug": "madobi-ng020028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020028",
+        "level": 2,
+        "name": {
+          "local": "Madobi",
+          "en": "Madobi",
+          "slug": "madobi-ng020028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020028_kubaraci",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kubaraci",
+      "en": "Kubaraci",
+      "slug": "kubaraci"
+    },
+    "code": {
+      "id": "NG020028_kubaraci",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020028",
+      "level": 2,
+      "name": {
+        "local": "Madobi",
+        "en": "Madobi",
+        "slug": "madobi-ng020028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020028",
+        "level": 2,
+        "name": {
+          "local": "Madobi",
+          "en": "Madobi",
+          "slug": "madobi-ng020028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020028_kwankwaso",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwankwaso",
+      "en": "Kwankwaso",
+      "slug": "kwankwaso"
+    },
+    "code": {
+      "id": "NG020028_kwankwaso",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020028",
+      "level": 2,
+      "name": {
+        "local": "Madobi",
+        "en": "Madobi",
+        "slug": "madobi-ng020028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020028",
+        "level": 2,
+        "name": {
+          "local": "Madobi",
+          "en": "Madobi",
+          "slug": "madobi-ng020028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020028_madobi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madobi",
+      "en": "Madobi",
+      "slug": "madobi"
+    },
+    "code": {
+      "id": "NG020028_madobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020028",
+      "level": 2,
+      "name": {
+        "local": "Madobi",
+        "en": "Madobi",
+        "slug": "madobi-ng020028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020028",
+        "level": 2,
+        "name": {
+          "local": "Madobi",
+          "en": "Madobi",
+          "slug": "madobi-ng020028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020028_rikadawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rikadawa",
+      "en": "Rikadawa",
+      "slug": "rikadawa"
+    },
+    "code": {
+      "id": "NG020028_rikadawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020028",
+      "level": 2,
+      "name": {
+        "local": "Madobi",
+        "en": "Madobi",
+        "slug": "madobi-ng020028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020028",
+        "level": 2,
+        "name": {
+          "local": "Madobi",
+          "en": "Madobi",
+          "slug": "madobi-ng020028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020028_yakun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yakun",
+      "en": "Yakun",
+      "slug": "yakun"
+    },
+    "code": {
+      "id": "NG020028_yakun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020028",
+      "level": 2,
+      "name": {
+        "local": "Madobi",
+        "en": "Madobi",
+        "slug": "madobi-ng020028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020028",
+        "level": 2,
+        "name": {
+          "local": "Madobi",
+          "en": "Madobi",
+          "slug": "madobi-ng020028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.813",
+      "lon": "8.37"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

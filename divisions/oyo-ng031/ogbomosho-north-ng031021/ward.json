@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG031021_aajeogunbado",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aaje/ogunbado",
+      "en": "Aaje/ogunbado",
+      "slug": "aajeogunbado"
+    },
+    "code": {
+      "id": "NG031021_aajeogunbado",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031021",
+      "level": 2,
+      "name": {
+        "local": "Ogbomosho North",
+        "en": "Ogbomosho North",
+        "slug": "ogbomosho-north-ng031021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031021",
+        "level": 2,
+        "name": {
+          "local": "Ogbomosho North",
+          "en": "Ogbomosho North",
+          "slug": "ogbomosho-north-ng031021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.15",
+      "lon": "4.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031021_abogunde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abogunde",
+      "en": "Abogunde",
+      "slug": "abogunde"
+    },
+    "code": {
+      "id": "NG031021_abogunde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031021",
+      "level": 2,
+      "name": {
+        "local": "Ogbomosho North",
+        "en": "Ogbomosho North",
+        "slug": "ogbomosho-north-ng031021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031021",
+        "level": 2,
+        "name": {
+          "local": "Ogbomosho North",
+          "en": "Ogbomosho North",
+          "slug": "ogbomosho-north-ng031021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.15",
+      "lon": "4.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031021_aguodo-masifa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aguodo/ Masifa",
+      "en": "Aguodo/ Masifa",
+      "slug": "aguodo-masifa"
+    },
+    "code": {
+      "id": "NG031021_aguodo-masifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031021",
+      "level": 2,
+      "name": {
+        "local": "Ogbomosho North",
+        "en": "Ogbomosho North",
+        "slug": "ogbomosho-north-ng031021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031021",
+        "level": 2,
+        "name": {
+          "local": "Ogbomosho North",
+          "en": "Ogbomosho North",
+          "slug": "ogbomosho-north-ng031021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.15",
+      "lon": "4.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031021_isale-afon",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isale Afon",
+      "en": "Isale Afon",
+      "slug": "isale-afon"
+    },
+    "code": {
+      "id": "NG031021_isale-afon",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031021",
+      "level": 2,
+      "name": {
+        "local": "Ogbomosho North",
+        "en": "Ogbomosho North",
+        "slug": "ogbomosho-north-ng031021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031021",
+        "level": 2,
+        "name": {
+          "local": "Ogbomosho North",
+          "en": "Ogbomosho North",
+          "slug": "ogbomosho-north-ng031021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.15",
+      "lon": "4.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031021_isale-alaasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isale Alaasa",
+      "en": "Isale Alaasa",
+      "slug": "isale-alaasa"
+    },
+    "code": {
+      "id": "NG031021_isale-alaasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031021",
+      "level": 2,
+      "name": {
+        "local": "Ogbomosho North",
+        "en": "Ogbomosho North",
+        "slug": "ogbomosho-north-ng031021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031021",
+        "level": 2,
+        "name": {
+          "local": "Ogbomosho North",
+          "en": "Ogbomosho North",
+          "slug": "ogbomosho-north-ng031021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.15",
+      "lon": "4.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031021_isale-orasaja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isale Ora/saja",
+      "en": "Isale Ora/saja",
+      "slug": "isale-orasaja"
+    },
+    "code": {
+      "id": "NG031021_isale-orasaja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031021",
+      "level": 2,
+      "name": {
+        "local": "Ogbomosho North",
+        "en": "Ogbomosho North",
+        "slug": "ogbomosho-north-ng031021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031021",
+        "level": 2,
+        "name": {
+          "local": "Ogbomosho North",
+          "en": "Ogbomosho North",
+          "slug": "ogbomosho-north-ng031021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.15",
+      "lon": "4.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031021_jagun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jagun",
+      "en": "Jagun",
+      "slug": "jagun"
+    },
+    "code": {
+      "id": "NG031021_jagun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031021",
+      "level": 2,
+      "name": {
+        "local": "Ogbomosho North",
+        "en": "Ogbomosho North",
+        "slug": "ogbomosho-north-ng031021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031021",
+        "level": 2,
+        "name": {
+          "local": "Ogbomosho North",
+          "en": "Ogbomosho North",
+          "slug": "ogbomosho-north-ng031021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.15",
+      "lon": "4.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031021_okelerin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okelerin",
+      "en": "Okelerin",
+      "slug": "okelerin"
+    },
+    "code": {
+      "id": "NG031021_okelerin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031021",
+      "level": 2,
+      "name": {
+        "local": "Ogbomosho North",
+        "en": "Ogbomosho North",
+        "slug": "ogbomosho-north-ng031021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031021",
+        "level": 2,
+        "name": {
+          "local": "Ogbomosho North",
+          "en": "Ogbomosho North",
+          "slug": "ogbomosho-north-ng031021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.15",
+      "lon": "4.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031021_osupa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Osupa",
+      "en": "Osupa",
+      "slug": "osupa"
+    },
+    "code": {
+      "id": "NG031021_osupa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031021",
+      "level": 2,
+      "name": {
+        "local": "Ogbomosho North",
+        "en": "Ogbomosho North",
+        "slug": "ogbomosho-north-ng031021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031021",
+        "level": 2,
+        "name": {
+          "local": "Ogbomosho North",
+          "en": "Ogbomosho North",
+          "slug": "ogbomosho-north-ng031021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.15",
+      "lon": "4.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031021_sabotara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabo/tara",
+      "en": "Sabo/tara",
+      "slug": "sabotara"
+    },
+    "code": {
+      "id": "NG031021_sabotara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031021",
+      "level": 2,
+      "name": {
+        "local": "Ogbomosho North",
+        "en": "Ogbomosho North",
+        "slug": "ogbomosho-north-ng031021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031021",
+        "level": 2,
+        "name": {
+          "local": "Ogbomosho North",
+          "en": "Ogbomosho North",
+          "slug": "ogbomosho-north-ng031021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.15",
+      "lon": "4.249"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

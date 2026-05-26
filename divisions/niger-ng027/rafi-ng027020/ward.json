@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG027020_kagara-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kagara Gari",
+      "en": "Kagara Gari",
+      "slug": "kagara-gari"
+    },
+    "code": {
+      "id": "NG027020_kagara-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027020",
+      "level": 2,
+      "name": {
+        "local": "Rafi",
+        "en": "Rafi",
+        "slug": "rafi-ng027020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027020",
+        "level": 2,
+        "name": {
+          "local": "Rafi",
+          "en": "Rafi",
+          "slug": "rafi-ng027020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "6.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027020_kakuri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kakuri",
+      "en": "Kakuri",
+      "slug": "kakuri"
+    },
+    "code": {
+      "id": "NG027020_kakuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027020",
+      "level": 2,
+      "name": {
+        "local": "Rafi",
+        "en": "Rafi",
+        "slug": "rafi-ng027020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027020",
+        "level": 2,
+        "name": {
+          "local": "Rafi",
+          "en": "Rafi",
+          "slug": "rafi-ng027020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "6.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027020_kongoma-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kongoma Central",
+      "en": "Kongoma Central",
+      "slug": "kongoma-central"
+    },
+    "code": {
+      "id": "NG027020_kongoma-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027020",
+      "level": 2,
+      "name": {
+        "local": "Rafi",
+        "en": "Rafi",
+        "slug": "rafi-ng027020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027020",
+        "level": 2,
+        "name": {
+          "local": "Rafi",
+          "en": "Rafi",
+          "slug": "rafi-ng027020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "6.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027020_kongoma-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kongoma West",
+      "en": "Kongoma West",
+      "slug": "kongoma-west"
+    },
+    "code": {
+      "id": "NG027020_kongoma-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027020",
+      "level": 2,
+      "name": {
+        "local": "Rafi",
+        "en": "Rafi",
+        "slug": "rafi-ng027020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027020",
+        "level": 2,
+        "name": {
+          "local": "Rafi",
+          "en": "Rafi",
+          "slug": "rafi-ng027020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "6.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027020_kundu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kundu",
+      "en": "Kundu",
+      "slug": "kundu"
+    },
+    "code": {
+      "id": "NG027020_kundu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027020",
+      "level": 2,
+      "name": {
+        "local": "Rafi",
+        "en": "Rafi",
+        "slug": "rafi-ng027020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027020",
+        "level": 2,
+        "name": {
+          "local": "Rafi",
+          "en": "Rafi",
+          "slug": "rafi-ng027020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "6.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027020_kusherki-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kusherki North",
+      "en": "Kusherki North",
+      "slug": "kusherki-north"
+    },
+    "code": {
+      "id": "NG027020_kusherki-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027020",
+      "level": 2,
+      "name": {
+        "local": "Rafi",
+        "en": "Rafi",
+        "slug": "rafi-ng027020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027020",
+        "level": 2,
+        "name": {
+          "local": "Rafi",
+          "en": "Rafi",
+          "slug": "rafi-ng027020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "6.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027020_kushirki-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kushirki South",
+      "en": "Kushirki South",
+      "slug": "kushirki-south"
+    },
+    "code": {
+      "id": "NG027020_kushirki-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027020",
+      "level": 2,
+      "name": {
+        "local": "Rafi",
+        "en": "Rafi",
+        "slug": "rafi-ng027020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027020",
+        "level": 2,
+        "name": {
+          "local": "Rafi",
+          "en": "Rafi",
+          "slug": "rafi-ng027020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "6.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027020_sabon-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Gari",
+      "en": "Sabon Gari",
+      "slug": "sabon-gari"
+    },
+    "code": {
+      "id": "NG027020_sabon-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027020",
+      "level": 2,
+      "name": {
+        "local": "Rafi",
+        "en": "Rafi",
+        "slug": "rafi-ng027020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027020",
+        "level": 2,
+        "name": {
+          "local": "Rafi",
+          "en": "Rafi",
+          "slug": "rafi-ng027020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "6.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027020_tegina-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tegina Gari",
+      "en": "Tegina Gari",
+      "slug": "tegina-gari"
+    },
+    "code": {
+      "id": "NG027020_tegina-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027020",
+      "level": 2,
+      "name": {
+        "local": "Rafi",
+        "en": "Rafi",
+        "slug": "rafi-ng027020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027020",
+        "level": 2,
+        "name": {
+          "local": "Rafi",
+          "en": "Rafi",
+          "slug": "rafi-ng027020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "6.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027020_tegina-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tegina West",
+      "en": "Tegina West",
+      "slug": "tegina-west"
+    },
+    "code": {
+      "id": "NG027020_tegina-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027020",
+      "level": 2,
+      "name": {
+        "local": "Rafi",
+        "en": "Rafi",
+        "slug": "rafi-ng027020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027020",
+        "level": 2,
+        "name": {
+          "local": "Rafi",
+          "en": "Rafi",
+          "slug": "rafi-ng027020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "6.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027020_yakila",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yakila",
+      "en": "Yakila",
+      "slug": "yakila"
+    },
+    "code": {
+      "id": "NG027020_yakila",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027020",
+      "level": 2,
+      "name": {
+        "local": "Rafi",
+        "en": "Rafi",
+        "slug": "rafi-ng027020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027020",
+        "level": 2,
+        "name": {
+          "local": "Rafi",
+          "en": "Rafi",
+          "slug": "rafi-ng027020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.215",
+      "lon": "6.221"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

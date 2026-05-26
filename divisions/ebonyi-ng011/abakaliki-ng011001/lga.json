@@ -1,0 +1,47 @@
+{
+  "id": "NG011001",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Abakaliki",
+    "en": "Abakaliki",
+    "slug": "abakaliki-ng011001"
+  },
+  "code": {
+    "id": "NG011001",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG011",
+    "level": 1,
+    "name": {
+      "local": "Ebonyi",
+      "en": "Ebonyi",
+      "slug": "ebonyi-ng011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG011",
+      "level": 1,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.257",
+    "lon": "8.244"
+  },
+  "metadata": {},
+  "source": {}
+}

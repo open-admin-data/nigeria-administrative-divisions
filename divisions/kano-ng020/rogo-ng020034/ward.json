@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020034_beli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Beli",
+      "en": "Beli",
+      "slug": "beli"
+    },
+    "code": {
+      "id": "NG020034_beli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020034",
+      "level": 2,
+      "name": {
+        "local": "Rogo",
+        "en": "Rogo",
+        "slug": "rogo-ng020034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020034",
+        "level": 2,
+        "name": {
+          "local": "Rogo",
+          "en": "Rogo",
+          "slug": "rogo-ng020034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.509",
+      "lon": "7.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020034_falgore",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Falgore",
+      "en": "Falgore",
+      "slug": "falgore"
+    },
+    "code": {
+      "id": "NG020034_falgore",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020034",
+      "level": 2,
+      "name": {
+        "local": "Rogo",
+        "en": "Rogo",
+        "slug": "rogo-ng020034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020034",
+        "level": 2,
+        "name": {
+          "local": "Rogo",
+          "en": "Rogo",
+          "slug": "rogo-ng020034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.509",
+      "lon": "7.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020034_fulatan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fulatan",
+      "en": "Fulatan",
+      "slug": "fulatan"
+    },
+    "code": {
+      "id": "NG020034_fulatan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020034",
+      "level": 2,
+      "name": {
+        "local": "Rogo",
+        "en": "Rogo",
+        "slug": "rogo-ng020034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020034",
+        "level": 2,
+        "name": {
+          "local": "Rogo",
+          "en": "Rogo",
+          "slug": "rogo-ng020034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.509",
+      "lon": "7.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020034_gwangwan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwangwan",
+      "en": "Gwangwan",
+      "slug": "gwangwan"
+    },
+    "code": {
+      "id": "NG020034_gwangwan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020034",
+      "level": 2,
+      "name": {
+        "local": "Rogo",
+        "en": "Rogo",
+        "slug": "rogo-ng020034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020034",
+        "level": 2,
+        "name": {
+          "local": "Rogo",
+          "en": "Rogo",
+          "slug": "rogo-ng020034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.509",
+      "lon": "7.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020034_jajaye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jajaye",
+      "en": "Jajaye",
+      "slug": "jajaye"
+    },
+    "code": {
+      "id": "NG020034_jajaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020034",
+      "level": 2,
+      "name": {
+        "local": "Rogo",
+        "en": "Rogo",
+        "slug": "rogo-ng020034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020034",
+        "level": 2,
+        "name": {
+          "local": "Rogo",
+          "en": "Rogo",
+          "slug": "rogo-ng020034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.509",
+      "lon": "7.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020034_rogo-ruma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rogo Ruma",
+      "en": "Rogo Ruma",
+      "slug": "rogo-ruma"
+    },
+    "code": {
+      "id": "NG020034_rogo-ruma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020034",
+      "level": 2,
+      "name": {
+        "local": "Rogo",
+        "en": "Rogo",
+        "slug": "rogo-ng020034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020034",
+        "level": 2,
+        "name": {
+          "local": "Rogo",
+          "en": "Rogo",
+          "slug": "rogo-ng020034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.509",
+      "lon": "7.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020034_rogo-sabon-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rogo Sabon Gari",
+      "en": "Rogo Sabon Gari",
+      "slug": "rogo-sabon-gari"
+    },
+    "code": {
+      "id": "NG020034_rogo-sabon-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020034",
+      "level": 2,
+      "name": {
+        "local": "Rogo",
+        "en": "Rogo",
+        "slug": "rogo-ng020034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020034",
+        "level": 2,
+        "name": {
+          "local": "Rogo",
+          "en": "Rogo",
+          "slug": "rogo-ng020034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.509",
+      "lon": "7.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020034_ruwan-bago",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ruwan Bago",
+      "en": "Ruwan Bago",
+      "slug": "ruwan-bago"
+    },
+    "code": {
+      "id": "NG020034_ruwan-bago",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020034",
+      "level": 2,
+      "name": {
+        "local": "Rogo",
+        "en": "Rogo",
+        "slug": "rogo-ng020034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020034",
+        "level": 2,
+        "name": {
+          "local": "Rogo",
+          "en": "Rogo",
+          "slug": "rogo-ng020034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.509",
+      "lon": "7.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020034_zarewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zarewa",
+      "en": "Zarewa",
+      "slug": "zarewa"
+    },
+    "code": {
+      "id": "NG020034_zarewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020034",
+      "level": 2,
+      "name": {
+        "local": "Rogo",
+        "en": "Rogo",
+        "slug": "rogo-ng020034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020034",
+        "level": 2,
+        "name": {
+          "local": "Rogo",
+          "en": "Rogo",
+          "slug": "rogo-ng020034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.509",
+      "lon": "7.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020034_zoza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zoza",
+      "en": "Zoza",
+      "slug": "zoza"
+    },
+    "code": {
+      "id": "NG020034_zoza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020034",
+      "level": 2,
+      "name": {
+        "local": "Rogo",
+        "en": "Rogo",
+        "slug": "rogo-ng020034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020034",
+        "level": 2,
+        "name": {
+          "local": "Rogo",
+          "en": "Rogo",
+          "slug": "rogo-ng020034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.509",
+      "lon": "7.863"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

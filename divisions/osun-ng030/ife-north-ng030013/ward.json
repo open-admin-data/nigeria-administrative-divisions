@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG030013_asipaakinlalu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asipa/akinlalu",
+      "en": "Asipa/akinlalu",
+      "slug": "asipaakinlalu"
+    },
+    "code": {
+      "id": "NG030013_asipaakinlalu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030013",
+      "level": 2,
+      "name": {
+        "local": "Ife North",
+        "en": "Ife North",
+        "slug": "ife-north-ng030013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030013",
+        "level": 2,
+        "name": {
+          "local": "Ife North",
+          "en": "Ife North",
+          "slug": "ife-north-ng030013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.298",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030013_edunabon-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Edunabon I",
+      "en": "Edunabon I",
+      "slug": "edunabon-i"
+    },
+    "code": {
+      "id": "NG030013_edunabon-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030013",
+      "level": 2,
+      "name": {
+        "local": "Ife North",
+        "en": "Ife North",
+        "slug": "ife-north-ng030013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030013",
+        "level": 2,
+        "name": {
+          "local": "Ife North",
+          "en": "Ife North",
+          "slug": "ife-north-ng030013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.298",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030013_edunabon-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Edunabon Ii",
+      "en": "Edunabon Ii",
+      "slug": "edunabon-ii"
+    },
+    "code": {
+      "id": "NG030013_edunabon-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030013",
+      "level": 2,
+      "name": {
+        "local": "Ife North",
+        "en": "Ife North",
+        "slug": "ife-north-ng030013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030013",
+        "level": 2,
+        "name": {
+          "local": "Ife North",
+          "en": "Ife North",
+          "slug": "ife-north-ng030013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.298",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030013_famia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Famia",
+      "en": "Famia",
+      "slug": "famia"
+    },
+    "code": {
+      "id": "NG030013_famia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030013",
+      "level": 2,
+      "name": {
+        "local": "Ife North",
+        "en": "Ife North",
+        "slug": "ife-north-ng030013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030013",
+        "level": 2,
+        "name": {
+          "local": "Ife North",
+          "en": "Ife North",
+          "slug": "ife-north-ng030013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.298",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030013_ipetumodu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipetumodu I",
+      "en": "Ipetumodu I",
+      "slug": "ipetumodu-i"
+    },
+    "code": {
+      "id": "NG030013_ipetumodu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030013",
+      "level": 2,
+      "name": {
+        "local": "Ife North",
+        "en": "Ife North",
+        "slug": "ife-north-ng030013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030013",
+        "level": 2,
+        "name": {
+          "local": "Ife North",
+          "en": "Ife North",
+          "slug": "ife-north-ng030013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.298",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030013_ipetumodu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipetumodu Ii",
+      "en": "Ipetumodu Ii",
+      "slug": "ipetumodu-ii"
+    },
+    "code": {
+      "id": "NG030013_ipetumodu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030013",
+      "level": 2,
+      "name": {
+        "local": "Ife North",
+        "en": "Ife North",
+        "slug": "ife-north-ng030013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030013",
+        "level": 2,
+        "name": {
+          "local": "Ife North",
+          "en": "Ife North",
+          "slug": "ife-north-ng030013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.298",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030013_moro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Moro",
+      "en": "Moro",
+      "slug": "moro"
+    },
+    "code": {
+      "id": "NG030013_moro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030013",
+      "level": 2,
+      "name": {
+        "local": "Ife North",
+        "en": "Ife North",
+        "slug": "ife-north-ng030013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030013",
+        "level": 2,
+        "name": {
+          "local": "Ife North",
+          "en": "Ife North",
+          "slug": "ife-north-ng030013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.298",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030013_oyere---ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oyere - Ii",
+      "en": "Oyere - Ii",
+      "slug": "oyere---ii"
+    },
+    "code": {
+      "id": "NG030013_oyere---ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030013",
+      "level": 2,
+      "name": {
+        "local": "Ife North",
+        "en": "Ife North",
+        "slug": "ife-north-ng030013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030013",
+        "level": 2,
+        "name": {
+          "local": "Ife North",
+          "en": "Ife North",
+          "slug": "ife-north-ng030013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.298",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030013_oyere-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oyere I",
+      "en": "Oyere I",
+      "slug": "oyere-i"
+    },
+    "code": {
+      "id": "NG030013_oyere-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030013",
+      "level": 2,
+      "name": {
+        "local": "Ife North",
+        "en": "Ife North",
+        "slug": "ife-north-ng030013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030013",
+        "level": 2,
+        "name": {
+          "local": "Ife North",
+          "en": "Ife North",
+          "slug": "ife-north-ng030013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.298",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030013_yakoyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yakoyo",
+      "en": "Yakoyo",
+      "slug": "yakoyo"
+    },
+    "code": {
+      "id": "NG030013_yakoyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030013",
+      "level": 2,
+      "name": {
+        "local": "Ife North",
+        "en": "Ife North",
+        "slug": "ife-north-ng030013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030013",
+        "level": 2,
+        "name": {
+          "local": "Ife North",
+          "en": "Ife North",
+          "slug": "ife-north-ng030013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.298",
+      "lon": "4.45"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

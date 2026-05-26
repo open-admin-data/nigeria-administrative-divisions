@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG019015_anchau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Anchau",
+      "en": "Anchau",
+      "slug": "anchau"
+    },
+    "code": {
+      "id": "NG019015_anchau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019015",
+      "level": 2,
+      "name": {
+        "local": "Kubau",
+        "en": "Kubau",
+        "slug": "kubau-ng019015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019015",
+        "level": 2,
+        "name": {
+          "local": "Kubau",
+          "en": "Kubau",
+          "slug": "kubau-ng019015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "8.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019015_damau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damau",
+      "en": "Damau",
+      "slug": "damau"
+    },
+    "code": {
+      "id": "NG019015_damau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019015",
+      "level": 2,
+      "name": {
+        "local": "Kubau",
+        "en": "Kubau",
+        "slug": "kubau-ng019015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019015",
+        "level": 2,
+        "name": {
+          "local": "Kubau",
+          "en": "Kubau",
+          "slug": "kubau-ng019015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "8.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019015_dutsen-wai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dutsen Wai",
+      "en": "Dutsen Wai",
+      "slug": "dutsen-wai"
+    },
+    "code": {
+      "id": "NG019015_dutsen-wai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019015",
+      "level": 2,
+      "name": {
+        "local": "Kubau",
+        "en": "Kubau",
+        "slug": "kubau-ng019015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019015",
+        "level": 2,
+        "name": {
+          "local": "Kubau",
+          "en": "Kubau",
+          "slug": "kubau-ng019015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "8.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019015_haskiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Haskiya",
+      "en": "Haskiya",
+      "slug": "haskiya"
+    },
+    "code": {
+      "id": "NG019015_haskiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019015",
+      "level": 2,
+      "name": {
+        "local": "Kubau",
+        "en": "Kubau",
+        "slug": "kubau-ng019015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019015",
+        "level": 2,
+        "name": {
+          "local": "Kubau",
+          "en": "Kubau",
+          "slug": "kubau-ng019015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "8.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019015_kargi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kargi",
+      "en": "Kargi",
+      "slug": "kargi"
+    },
+    "code": {
+      "id": "NG019015_kargi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019015",
+      "level": 2,
+      "name": {
+        "local": "Kubau",
+        "en": "Kubau",
+        "slug": "kubau-ng019015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019015",
+        "level": 2,
+        "name": {
+          "local": "Kubau",
+          "en": "Kubau",
+          "slug": "kubau-ng019015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "8.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019015_karreh",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karreh",
+      "en": "Karreh",
+      "slug": "karreh"
+    },
+    "code": {
+      "id": "NG019015_karreh",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019015",
+      "level": 2,
+      "name": {
+        "local": "Kubau",
+        "en": "Kubau",
+        "slug": "kubau-ng019015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019015",
+        "level": 2,
+        "name": {
+          "local": "Kubau",
+          "en": "Kubau",
+          "slug": "kubau-ng019015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "8.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019015_kubau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kubau",
+      "en": "Kubau",
+      "slug": "kubau"
+    },
+    "code": {
+      "id": "NG019015_kubau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019015",
+      "level": 2,
+      "name": {
+        "local": "Kubau",
+        "en": "Kubau",
+        "slug": "kubau-ng019015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019015",
+        "level": 2,
+        "name": {
+          "local": "Kubau",
+          "en": "Kubau",
+          "slug": "kubau-ng019015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "8.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019015_mah",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mah",
+      "en": "Mah",
+      "slug": "mah"
+    },
+    "code": {
+      "id": "NG019015_mah",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019015",
+      "level": 2,
+      "name": {
+        "local": "Kubau",
+        "en": "Kubau",
+        "slug": "kubau-ng019015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019015",
+        "level": 2,
+        "name": {
+          "local": "Kubau",
+          "en": "Kubau",
+          "slug": "kubau-ng019015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "8.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019015_pambegua",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pambegua",
+      "en": "Pambegua",
+      "slug": "pambegua"
+    },
+    "code": {
+      "id": "NG019015_pambegua",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019015",
+      "level": 2,
+      "name": {
+        "local": "Kubau",
+        "en": "Kubau",
+        "slug": "kubau-ng019015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019015",
+        "level": 2,
+        "name": {
+          "local": "Kubau",
+          "en": "Kubau",
+          "slug": "kubau-ng019015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "8.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019015_zabi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zabi",
+      "en": "Zabi",
+      "slug": "zabi"
+    },
+    "code": {
+      "id": "NG019015_zabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019015",
+      "level": 2,
+      "name": {
+        "local": "Kubau",
+        "en": "Kubau",
+        "slug": "kubau-ng019015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019015",
+        "level": 2,
+        "name": {
+          "local": "Kubau",
+          "en": "Kubau",
+          "slug": "kubau-ng019015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "8.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019015_zuntu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zuntu",
+      "en": "Zuntu",
+      "slug": "zuntu"
+    },
+    "code": {
+      "id": "NG019015_zuntu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019015",
+      "level": 2,
+      "name": {
+        "local": "Kubau",
+        "en": "Kubau",
+        "slug": "kubau-ng019015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019015",
+        "level": 2,
+        "name": {
+          "local": "Kubau",
+          "en": "Kubau",
+          "slug": "kubau-ng019015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.857",
+      "lon": "8.374"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

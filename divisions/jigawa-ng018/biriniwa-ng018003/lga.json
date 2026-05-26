@@ -1,0 +1,47 @@
+{
+  "id": "NG018003",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Biriniwa",
+    "en": "Biriniwa",
+    "slug": "biriniwa-ng018003"
+  },
+  "code": {
+    "id": "NG018003",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG018",
+    "level": 1,
+    "name": {
+      "local": "Jigawa",
+      "en": "Jigawa",
+      "slug": "jigawa-ng018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG018",
+      "level": 1,
+      "name": {
+        "local": "Jigawa",
+        "en": "Jigawa",
+        "slug": "jigawa-ng018"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.825",
+    "lon": "10.092"
+  },
+  "metadata": {},
+  "source": {}
+}

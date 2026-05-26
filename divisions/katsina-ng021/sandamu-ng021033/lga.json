@@ -1,0 +1,47 @@
+{
+  "id": "NG021033",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Sandamu",
+    "en": "Sandamu",
+    "slug": "sandamu-ng021033"
+  },
+  "code": {
+    "id": "NG021033",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG021",
+    "level": 1,
+    "name": {
+      "local": "Katsina",
+      "en": "Katsina",
+      "slug": "katsina-ng021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG021",
+      "level": 1,
+      "name": {
+        "local": "Katsina",
+        "en": "Katsina",
+        "slug": "katsina-ng021"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.92",
+    "lon": "8.382"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "NG032013",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Pankshin",
+    "en": "Pankshin",
+    "slug": "pankshin-ng032013"
+  },
+  "code": {
+    "id": "NG032013",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG032",
+    "level": 1,
+    "name": {
+      "local": "Plateau",
+      "en": "Plateau",
+      "slug": "plateau-ng032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG032",
+      "level": 1,
+      "name": {
+        "local": "Plateau",
+        "en": "Plateau",
+        "slug": "plateau-ng032"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.325",
+    "lon": "9.388"
+  },
+  "metadata": {},
+  "source": {}
+}

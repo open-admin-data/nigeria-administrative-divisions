@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG037010_bindin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bindin",
+      "en": "Bindin",
+      "slug": "bindin"
+    },
+    "code": {
+      "id": "NG037010_bindin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037010",
+      "level": 2,
+      "name": {
+        "local": "Maru",
+        "en": "Maru",
+        "slug": "maru-ng037010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037010",
+        "level": 2,
+        "name": {
+          "local": "Maru",
+          "en": "Maru",
+          "slug": "maru-ng037010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.644",
+      "lon": "6.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037010_bingi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bingi",
+      "en": "Bingi",
+      "slug": "bingi"
+    },
+    "code": {
+      "id": "NG037010_bingi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037010",
+      "level": 2,
+      "name": {
+        "local": "Maru",
+        "en": "Maru",
+        "slug": "maru-ng037010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037010",
+        "level": 2,
+        "name": {
+          "local": "Maru",
+          "en": "Maru",
+          "slug": "maru-ng037010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.644",
+      "lon": "6.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037010_dan-gulbi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Gulbi",
+      "en": "Dan Gulbi",
+      "slug": "dan-gulbi"
+    },
+    "code": {
+      "id": "NG037010_dan-gulbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037010",
+      "level": 2,
+      "name": {
+        "local": "Maru",
+        "en": "Maru",
+        "slug": "maru-ng037010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037010",
+        "level": 2,
+        "name": {
+          "local": "Maru",
+          "en": "Maru",
+          "slug": "maru-ng037010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.644",
+      "lon": "6.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037010_dan-kurmi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Kurmi",
+      "en": "Dan Kurmi",
+      "slug": "dan-kurmi"
+    },
+    "code": {
+      "id": "NG037010_dan-kurmi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037010",
+      "level": 2,
+      "name": {
+        "local": "Maru",
+        "en": "Maru",
+        "slug": "maru-ng037010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037010",
+        "level": 2,
+        "name": {
+          "local": "Maru",
+          "en": "Maru",
+          "slug": "maru-ng037010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.644",
+      "lon": "6.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037010_dan-sadau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Sadau",
+      "en": "Dan Sadau",
+      "slug": "dan-sadau"
+    },
+    "code": {
+      "id": "NG037010_dan-sadau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037010",
+      "level": 2,
+      "name": {
+        "local": "Maru",
+        "en": "Maru",
+        "slug": "maru-ng037010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037010",
+        "level": 2,
+        "name": {
+          "local": "Maru",
+          "en": "Maru",
+          "slug": "maru-ng037010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.644",
+      "lon": "6.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037010_kanoma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanoma",
+      "en": "Kanoma",
+      "slug": "kanoma"
+    },
+    "code": {
+      "id": "NG037010_kanoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037010",
+      "level": 2,
+      "name": {
+        "local": "Maru",
+        "en": "Maru",
+        "slug": "maru-ng037010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037010",
+        "level": 2,
+        "name": {
+          "local": "Maru",
+          "en": "Maru",
+          "slug": "maru-ng037010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.644",
+      "lon": "6.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037010_kuyan-bana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuyan Bana",
+      "en": "Kuyan Bana",
+      "slug": "kuyan-bana"
+    },
+    "code": {
+      "id": "NG037010_kuyan-bana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037010",
+      "level": 2,
+      "name": {
+        "local": "Maru",
+        "en": "Maru",
+        "slug": "maru-ng037010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037010",
+        "level": 2,
+        "name": {
+          "local": "Maru",
+          "en": "Maru",
+          "slug": "maru-ng037010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.644",
+      "lon": "6.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037010_maru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maru",
+      "en": "Maru",
+      "slug": "maru"
+    },
+    "code": {
+      "id": "NG037010_maru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037010",
+      "level": 2,
+      "name": {
+        "local": "Maru",
+        "en": "Maru",
+        "slug": "maru-ng037010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037010",
+        "level": 2,
+        "name": {
+          "local": "Maru",
+          "en": "Maru",
+          "slug": "maru-ng037010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.644",
+      "lon": "6.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037010_mayanchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayanchi",
+      "en": "Mayanchi",
+      "slug": "mayanchi"
+    },
+    "code": {
+      "id": "NG037010_mayanchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037010",
+      "level": 2,
+      "name": {
+        "local": "Maru",
+        "en": "Maru",
+        "slug": "maru-ng037010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037010",
+        "level": 2,
+        "name": {
+          "local": "Maru",
+          "en": "Maru",
+          "slug": "maru-ng037010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.644",
+      "lon": "6.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037010_ruwan-dorawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ruwan Dorawa",
+      "en": "Ruwan Dorawa",
+      "slug": "ruwan-dorawa"
+    },
+    "code": {
+      "id": "NG037010_ruwan-dorawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037010",
+      "level": 2,
+      "name": {
+        "local": "Maru",
+        "en": "Maru",
+        "slug": "maru-ng037010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037010",
+        "level": 2,
+        "name": {
+          "local": "Maru",
+          "en": "Maru",
+          "slug": "maru-ng037010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.644",
+      "lon": "6.326"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

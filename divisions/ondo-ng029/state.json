@@ -1,0 +1,30 @@
+{
+  "id": "NG029",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Ondo",
+    "en": "Ondo",
+    "slug": "ondo-ng029"
+  },
+  "code": {
+    "id": "NG029",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 18,
+    "ward": 203
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.824",
+    "lon": "4.869"
+  },
+  "metadata": {},
+  "source": {}
+}

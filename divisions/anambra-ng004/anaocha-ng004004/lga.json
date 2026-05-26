@@ -1,0 +1,47 @@
+{
+  "id": "NG004004",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Anaocha",
+    "en": "Anaocha",
+    "slug": "anaocha-ng004004"
+  },
+  "code": {
+    "id": "NG004004",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG004",
+    "level": 1,
+    "name": {
+      "local": "Anambra",
+      "en": "Anambra",
+      "slug": "anambra-ng004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.091",
+    "lon": "7.026"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG002008_danaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danaba",
+      "en": "Danaba",
+      "slug": "danaba"
+    },
+    "code": {
+      "id": "NG002008_danaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002008",
+      "level": 2,
+      "name": {
+        "local": "Jada",
+        "en": "Jada",
+        "slug": "jada-ng002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002008",
+        "level": 2,
+        "name": {
+          "local": "Jada",
+          "en": "Jada",
+          "slug": "jada-ng002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.556",
+      "lon": "12.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002008_jada-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jada I",
+      "en": "Jada I",
+      "slug": "jada-i"
+    },
+    "code": {
+      "id": "NG002008_jada-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002008",
+      "level": 2,
+      "name": {
+        "local": "Jada",
+        "en": "Jada",
+        "slug": "jada-ng002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002008",
+        "level": 2,
+        "name": {
+          "local": "Jada",
+          "en": "Jada",
+          "slug": "jada-ng002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.712",
+      "lon": "12.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002008_jada-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jada Ii",
+      "en": "Jada Ii",
+      "slug": "jada-ii"
+    },
+    "code": {
+      "id": "NG002008_jada-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002008",
+      "level": 2,
+      "name": {
+        "local": "Jada",
+        "en": "Jada",
+        "slug": "jada-ng002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002008",
+        "level": 2,
+        "name": {
+          "local": "Jada",
+          "en": "Jada",
+          "slug": "jada-ng002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.712",
+      "lon": "12.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002008_koma-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koma I",
+      "en": "Koma I",
+      "slug": "koma-i"
+    },
+    "code": {
+      "id": "NG002008_koma-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002008",
+      "level": 2,
+      "name": {
+        "local": "Jada",
+        "en": "Jada",
+        "slug": "jada-ng002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002008",
+        "level": 2,
+        "name": {
+          "local": "Jada",
+          "en": "Jada",
+          "slug": "jada-ng002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.704",
+      "lon": "12.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002008_koma-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koma Ii",
+      "en": "Koma Ii",
+      "slug": "koma-ii"
+    },
+    "code": {
+      "id": "NG002008_koma-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002008",
+      "level": 2,
+      "name": {
+        "local": "Jada",
+        "en": "Jada",
+        "slug": "jada-ng002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002008",
+        "level": 2,
+        "name": {
+          "local": "Jada",
+          "en": "Jada",
+          "slug": "jada-ng002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.704",
+      "lon": "12.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002008_leko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Leko",
+      "en": "Leko",
+      "slug": "leko"
+    },
+    "code": {
+      "id": "NG002008_leko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002008",
+      "level": 2,
+      "name": {
+        "local": "Jada",
+        "en": "Jada",
+        "slug": "jada-ng002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002008",
+        "level": 2,
+        "name": {
+          "local": "Jada",
+          "en": "Jada",
+          "slug": "jada-ng002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.653",
+      "lon": "12.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002008_mapeo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mapeo",
+      "en": "Mapeo",
+      "slug": "mapeo"
+    },
+    "code": {
+      "id": "NG002008_mapeo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002008",
+      "level": 2,
+      "name": {
+        "local": "Jada",
+        "en": "Jada",
+        "slug": "jada-ng002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002008",
+        "level": 2,
+        "name": {
+          "local": "Jada",
+          "en": "Jada",
+          "slug": "jada-ng002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.74",
+      "lon": "12.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002008_mayokalaye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayokalaye",
+      "en": "Mayokalaye",
+      "slug": "mayokalaye"
+    },
+    "code": {
+      "id": "NG002008_mayokalaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002008",
+      "level": 2,
+      "name": {
+        "local": "Jada",
+        "en": "Jada",
+        "slug": "jada-ng002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002008",
+        "level": 2,
+        "name": {
+          "local": "Jada",
+          "en": "Jada",
+          "slug": "jada-ng002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.7",
+      "lon": "12.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002008_mbulo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbulo",
+      "en": "Mbulo",
+      "slug": "mbulo"
+    },
+    "code": {
+      "id": "NG002008_mbulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002008",
+      "level": 2,
+      "name": {
+        "local": "Jada",
+        "en": "Jada",
+        "slug": "jada-ng002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002008",
+        "level": 2,
+        "name": {
+          "local": "Jada",
+          "en": "Jada",
+          "slug": "jada-ng002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.7",
+      "lon": "12.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002008_nyibango",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nyibango",
+      "en": "Nyibango",
+      "slug": "nyibango"
+    },
+    "code": {
+      "id": "NG002008_nyibango",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002008",
+      "level": 2,
+      "name": {
+        "local": "Jada",
+        "en": "Jada",
+        "slug": "jada-ng002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002008",
+        "level": 2,
+        "name": {
+          "local": "Jada",
+          "en": "Jada",
+          "slug": "jada-ng002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.6",
+      "lon": "12.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002008_yelli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yelli",
+      "en": "Yelli",
+      "slug": "yelli"
+    },
+    "code": {
+      "id": "NG002008_yelli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002008",
+      "level": 2,
+      "name": {
+        "local": "Jada",
+        "en": "Jada",
+        "slug": "jada-ng002008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002008",
+        "level": 2,
+        "name": {
+          "local": "Jada",
+          "en": "Jada",
+          "slug": "jada-ng002008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.7",
+      "lon": "12.327"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

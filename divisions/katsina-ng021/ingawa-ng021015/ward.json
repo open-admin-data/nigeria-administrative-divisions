@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021015_agayawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agayawa",
+      "en": "Agayawa",
+      "slug": "agayawa"
+    },
+    "code": {
+      "id": "NG021015_agayawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021015",
+      "level": 2,
+      "name": {
+        "local": "Ingawa",
+        "en": "Ingawa",
+        "slug": "ingawa-ng021015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021015",
+        "level": 2,
+        "name": {
+          "local": "Ingawa",
+          "en": "Ingawa",
+          "slug": "ingawa-ng021015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.608",
+      "lon": "8.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021015_bareruwaruruma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bareruwa/ruruma",
+      "en": "Bareruwa/ruruma",
+      "slug": "bareruwaruruma"
+    },
+    "code": {
+      "id": "NG021015_bareruwaruruma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021015",
+      "level": 2,
+      "name": {
+        "local": "Ingawa",
+        "en": "Ingawa",
+        "slug": "ingawa-ng021015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021015",
+        "level": 2,
+        "name": {
+          "local": "Ingawa",
+          "en": "Ingawa",
+          "slug": "ingawa-ng021015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.608",
+      "lon": "8.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021015_bidoreyaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bidore/yaya",
+      "en": "Bidore/yaya",
+      "slug": "bidoreyaya"
+    },
+    "code": {
+      "id": "NG021015_bidoreyaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021015",
+      "level": 2,
+      "name": {
+        "local": "Ingawa",
+        "en": "Ingawa",
+        "slug": "ingawa-ng021015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021015",
+        "level": 2,
+        "name": {
+          "local": "Ingawa",
+          "en": "Ingawa",
+          "slug": "ingawa-ng021015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.608",
+      "lon": "8.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021015_dara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dara",
+      "en": "Dara",
+      "slug": "dara"
+    },
+    "code": {
+      "id": "NG021015_dara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021015",
+      "level": 2,
+      "name": {
+        "local": "Ingawa",
+        "en": "Ingawa",
+        "slug": "ingawa-ng021015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021015",
+        "level": 2,
+        "name": {
+          "local": "Ingawa",
+          "en": "Ingawa",
+          "slug": "ingawa-ng021015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.608",
+      "lon": "8.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021015_daunakabkwari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daunaka/b.kwari",
+      "en": "Daunaka/b.kwari",
+      "slug": "daunakabkwari"
+    },
+    "code": {
+      "id": "NG021015_daunakabkwari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021015",
+      "level": 2,
+      "name": {
+        "local": "Ingawa",
+        "en": "Ingawa",
+        "slug": "ingawa-ng021015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021015",
+        "level": 2,
+        "name": {
+          "local": "Ingawa",
+          "en": "Ingawa",
+          "slug": "ingawa-ng021015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.608",
+      "lon": "8.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021015_dugul",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dugul",
+      "en": "Dugul",
+      "slug": "dugul"
+    },
+    "code": {
+      "id": "NG021015_dugul",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021015",
+      "level": 2,
+      "name": {
+        "local": "Ingawa",
+        "en": "Ingawa",
+        "slug": "ingawa-ng021015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021015",
+        "level": 2,
+        "name": {
+          "local": "Ingawa",
+          "en": "Ingawa",
+          "slug": "ingawa-ng021015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.608",
+      "lon": "8.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021015_ingawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ingawa",
+      "en": "Ingawa",
+      "slug": "ingawa"
+    },
+    "code": {
+      "id": "NG021015_ingawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021015",
+      "level": 2,
+      "name": {
+        "local": "Ingawa",
+        "en": "Ingawa",
+        "slug": "ingawa-ng021015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021015",
+        "level": 2,
+        "name": {
+          "local": "Ingawa",
+          "en": "Ingawa",
+          "slug": "ingawa-ng021015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.608",
+      "lon": "8.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021015_jobekandawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jobe/kandawa",
+      "en": "Jobe/kandawa",
+      "slug": "jobekandawa"
+    },
+    "code": {
+      "id": "NG021015_jobekandawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021015",
+      "level": 2,
+      "name": {
+        "local": "Ingawa",
+        "en": "Ingawa",
+        "slug": "ingawa-ng021015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021015",
+        "level": 2,
+        "name": {
+          "local": "Ingawa",
+          "en": "Ingawa",
+          "slug": "ingawa-ng021015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.608",
+      "lon": "8.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021015_kurfejiyankaura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurfeji/yankaura",
+      "en": "Kurfeji/yankaura",
+      "slug": "kurfejiyankaura"
+    },
+    "code": {
+      "id": "NG021015_kurfejiyankaura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021015",
+      "level": 2,
+      "name": {
+        "local": "Ingawa",
+        "en": "Ingawa",
+        "slug": "ingawa-ng021015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021015",
+        "level": 2,
+        "name": {
+          "local": "Ingawa",
+          "en": "Ingawa",
+          "slug": "ingawa-ng021015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.608",
+      "lon": "8.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021015_manomawakafi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Manomawa/kafi",
+      "en": "Manomawa/kafi",
+      "slug": "manomawakafi"
+    },
+    "code": {
+      "id": "NG021015_manomawakafi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021015",
+      "level": 2,
+      "name": {
+        "local": "Ingawa",
+        "en": "Ingawa",
+        "slug": "ingawa-ng021015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021015",
+        "level": 2,
+        "name": {
+          "local": "Ingawa",
+          "en": "Ingawa",
+          "slug": "ingawa-ng021015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.608",
+      "lon": "8.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021015_yandoma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yandoma",
+      "en": "Yandoma",
+      "slug": "yandoma"
+    },
+    "code": {
+      "id": "NG021015_yandoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021015",
+      "level": 2,
+      "name": {
+        "local": "Ingawa",
+        "en": "Ingawa",
+        "slug": "ingawa-ng021015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021015",
+        "level": 2,
+        "name": {
+          "local": "Ingawa",
+          "en": "Ingawa",
+          "slug": "ingawa-ng021015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.608",
+      "lon": "8.145"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

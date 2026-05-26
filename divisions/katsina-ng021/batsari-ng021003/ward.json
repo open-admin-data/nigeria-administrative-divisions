@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021003_abadaukagara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abadau/kagara",
+      "en": "Abadau/kagara",
+      "slug": "abadaukagara"
+    },
+    "code": {
+      "id": "NG021003_abadaukagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021003",
+      "level": 2,
+      "name": {
+        "local": "Batsari",
+        "en": "Batsari",
+        "slug": "batsari-ng021003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021003",
+        "level": 2,
+        "name": {
+          "local": "Batsari",
+          "en": "Batsari",
+          "slug": "batsari-ng021003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.827",
+      "lon": "7.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021003_batsari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Batsari",
+      "en": "Batsari",
+      "slug": "batsari"
+    },
+    "code": {
+      "id": "NG021003_batsari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021003",
+      "level": 2,
+      "name": {
+        "local": "Batsari",
+        "en": "Batsari",
+        "slug": "batsari-ng021003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021003",
+        "level": 2,
+        "name": {
+          "local": "Batsari",
+          "en": "Batsari",
+          "slug": "batsari-ng021003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.827",
+      "lon": "7.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021003_dan-alhyangaiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan. Alh/yangaiya",
+      "en": "Dan. Alh/yangaiya",
+      "slug": "dan-alhyangaiya"
+    },
+    "code": {
+      "id": "NG021003_dan-alhyangaiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021003",
+      "level": 2,
+      "name": {
+        "local": "Batsari",
+        "en": "Batsari",
+        "slug": "batsari-ng021003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021003",
+        "level": 2,
+        "name": {
+          "local": "Batsari",
+          "en": "Batsari",
+          "slug": "batsari-ng021003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.827",
+      "lon": "7.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021003_darinimagajiabu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Darini/magaji/abu",
+      "en": "Darini/magaji/abu",
+      "slug": "darinimagajiabu"
+    },
+    "code": {
+      "id": "NG021003_darinimagajiabu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021003",
+      "level": 2,
+      "name": {
+        "local": "Batsari",
+        "en": "Batsari",
+        "slug": "batsari-ng021003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021003",
+        "level": 2,
+        "name": {
+          "local": "Batsari",
+          "en": "Batsari",
+          "slug": "batsari-ng021003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.827",
+      "lon": "7.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021003_kandawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kandawa",
+      "en": "Kandawa",
+      "slug": "kandawa"
+    },
+    "code": {
+      "id": "NG021003_kandawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021003",
+      "level": 2,
+      "name": {
+        "local": "Batsari",
+        "en": "Batsari",
+        "slug": "batsari-ng021003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021003",
+        "level": 2,
+        "name": {
+          "local": "Batsari",
+          "en": "Batsari",
+          "slug": "batsari-ng021003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.827",
+      "lon": "7.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021003_karare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karare",
+      "en": "Karare",
+      "slug": "karare"
+    },
+    "code": {
+      "id": "NG021003_karare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021003",
+      "level": 2,
+      "name": {
+        "local": "Batsari",
+        "en": "Batsari",
+        "slug": "batsari-ng021003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021003",
+        "level": 2,
+        "name": {
+          "local": "Batsari",
+          "en": "Batsari",
+          "slug": "batsari-ng021003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.827",
+      "lon": "7.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021003_madogara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madogara",
+      "en": "Madogara",
+      "slug": "madogara"
+    },
+    "code": {
+      "id": "NG021003_madogara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021003",
+      "level": 2,
+      "name": {
+        "local": "Batsari",
+        "en": "Batsari",
+        "slug": "batsari-ng021003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021003",
+        "level": 2,
+        "name": {
+          "local": "Batsari",
+          "en": "Batsari",
+          "slug": "batsari-ng021003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.827",
+      "lon": "7.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021003_manawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Manawa",
+      "en": "Manawa",
+      "slug": "manawa"
+    },
+    "code": {
+      "id": "NG021003_manawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021003",
+      "level": 2,
+      "name": {
+        "local": "Batsari",
+        "en": "Batsari",
+        "slug": "batsari-ng021003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021003",
+        "level": 2,
+        "name": {
+          "local": "Batsari",
+          "en": "Batsari",
+          "slug": "batsari-ng021003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.827",
+      "lon": "7.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021003_ruma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ruma",
+      "en": "Ruma",
+      "slug": "ruma"
+    },
+    "code": {
+      "id": "NG021003_ruma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021003",
+      "level": 2,
+      "name": {
+        "local": "Batsari",
+        "en": "Batsari",
+        "slug": "batsari-ng021003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021003",
+        "level": 2,
+        "name": {
+          "local": "Batsari",
+          "en": "Batsari",
+          "slug": "batsari-ng021003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.827",
+      "lon": "7.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021003_wagini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wagini",
+      "en": "Wagini",
+      "slug": "wagini"
+    },
+    "code": {
+      "id": "NG021003_wagini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021003",
+      "level": 2,
+      "name": {
+        "local": "Batsari",
+        "en": "Batsari",
+        "slug": "batsari-ng021003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021003",
+        "level": 2,
+        "name": {
+          "local": "Batsari",
+          "en": "Batsari",
+          "slug": "batsari-ng021003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.827",
+      "lon": "7.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021003_yauyaumallamawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yauyau/mallamawa",
+      "en": "Yauyau/mallamawa",
+      "slug": "yauyaumallamawa"
+    },
+    "code": {
+      "id": "NG021003_yauyaumallamawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021003",
+      "level": 2,
+      "name": {
+        "local": "Batsari",
+        "en": "Batsari",
+        "slug": "batsari-ng021003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021003",
+        "level": 2,
+        "name": {
+          "local": "Batsari",
+          "en": "Batsari",
+          "slug": "batsari-ng021003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.827",
+      "lon": "7.258"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

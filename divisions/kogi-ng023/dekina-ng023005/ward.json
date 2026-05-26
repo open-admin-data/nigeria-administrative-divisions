@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG023005_abocho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abocho",
+      "en": "Abocho",
+      "slug": "abocho"
+    },
+    "code": {
+      "id": "NG023005_abocho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023005",
+      "level": 2,
+      "name": {
+        "local": "Dekina",
+        "en": "Dekina",
+        "slug": "dekina-ng023005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023005",
+        "level": 2,
+        "name": {
+          "local": "Dekina",
+          "en": "Dekina",
+          "slug": "dekina-ng023005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023005_adumu-egume",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adumu Egume",
+      "en": "Adumu Egume",
+      "slug": "adumu-egume"
+    },
+    "code": {
+      "id": "NG023005_adumu-egume",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023005",
+      "level": 2,
+      "name": {
+        "local": "Dekina",
+        "en": "Dekina",
+        "slug": "dekina-ng023005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023005",
+        "level": 2,
+        "name": {
+          "local": "Dekina",
+          "en": "Dekina",
+          "slug": "dekina-ng023005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023005_anyigba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Anyigba",
+      "en": "Anyigba",
+      "slug": "anyigba"
+    },
+    "code": {
+      "id": "NG023005_anyigba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023005",
+      "level": 2,
+      "name": {
+        "local": "Dekina",
+        "en": "Dekina",
+        "slug": "dekina-ng023005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023005",
+        "level": 2,
+        "name": {
+          "local": "Dekina",
+          "en": "Dekina",
+          "slug": "dekina-ng023005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023005_dekina-town",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dekina Town",
+      "en": "Dekina Town",
+      "slug": "dekina-town"
+    },
+    "code": {
+      "id": "NG023005_dekina-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023005",
+      "level": 2,
+      "name": {
+        "local": "Dekina",
+        "en": "Dekina",
+        "slug": "dekina-ng023005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023005",
+        "level": 2,
+        "name": {
+          "local": "Dekina",
+          "en": "Dekina",
+          "slug": "dekina-ng023005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023005_emewe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Emewe",
+      "en": "Emewe",
+      "slug": "emewe"
+    },
+    "code": {
+      "id": "NG023005_emewe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023005",
+      "level": 2,
+      "name": {
+        "local": "Dekina",
+        "en": "Dekina",
+        "slug": "dekina-ng023005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023005",
+        "level": 2,
+        "name": {
+          "local": "Dekina",
+          "en": "Dekina",
+          "slug": "dekina-ng023005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023005_iyale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iyale",
+      "en": "Iyale",
+      "slug": "iyale"
+    },
+    "code": {
+      "id": "NG023005_iyale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023005",
+      "level": 2,
+      "name": {
+        "local": "Dekina",
+        "en": "Dekina",
+        "slug": "dekina-ng023005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023005",
+        "level": 2,
+        "name": {
+          "local": "Dekina",
+          "en": "Dekina",
+          "slug": "dekina-ng023005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023005_odu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odu I",
+      "en": "Odu I",
+      "slug": "odu-i"
+    },
+    "code": {
+      "id": "NG023005_odu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023005",
+      "level": 2,
+      "name": {
+        "local": "Dekina",
+        "en": "Dekina",
+        "slug": "dekina-ng023005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023005",
+        "level": 2,
+        "name": {
+          "local": "Dekina",
+          "en": "Dekina",
+          "slug": "dekina-ng023005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023005_odu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odu Ii",
+      "en": "Odu Ii",
+      "slug": "odu-ii"
+    },
+    "code": {
+      "id": "NG023005_odu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023005",
+      "level": 2,
+      "name": {
+        "local": "Dekina",
+        "en": "Dekina",
+        "slug": "dekina-ng023005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023005",
+        "level": 2,
+        "name": {
+          "local": "Dekina",
+          "en": "Dekina",
+          "slug": "dekina-ng023005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023005_ogane-inigu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogane Inigu",
+      "en": "Ogane Inigu",
+      "slug": "ogane-inigu"
+    },
+    "code": {
+      "id": "NG023005_ogane-inigu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023005",
+      "level": 2,
+      "name": {
+        "local": "Dekina",
+        "en": "Dekina",
+        "slug": "dekina-ng023005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023005",
+        "level": 2,
+        "name": {
+          "local": "Dekina",
+          "en": "Dekina",
+          "slug": "dekina-ng023005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023005_ogbabede",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbabede",
+      "en": "Ogbabede",
+      "slug": "ogbabede"
+    },
+    "code": {
+      "id": "NG023005_ogbabede",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023005",
+      "level": 2,
+      "name": {
+        "local": "Dekina",
+        "en": "Dekina",
+        "slug": "dekina-ng023005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023005",
+        "level": 2,
+        "name": {
+          "local": "Dekina",
+          "en": "Dekina",
+          "slug": "dekina-ng023005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023005_ojikpadala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojikpadala",
+      "en": "Ojikpadala",
+      "slug": "ojikpadala"
+    },
+    "code": {
+      "id": "NG023005_ojikpadala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023005",
+      "level": 2,
+      "name": {
+        "local": "Dekina",
+        "en": "Dekina",
+        "slug": "dekina-ng023005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023005",
+        "level": 2,
+        "name": {
+          "local": "Dekina",
+          "en": "Dekina",
+          "slug": "dekina-ng023005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG023005_okura-olafia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okura Olafia",
+      "en": "Okura Olafia",
+      "slug": "okura-olafia"
+    },
+    "code": {
+      "id": "NG023005_okura-olafia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG023005",
+      "level": 2,
+      "name": {
+        "local": "Dekina",
+        "en": "Dekina",
+        "slug": "dekina-ng023005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG023",
+        "level": 1,
+        "name": {
+          "local": "Kogi",
+          "en": "Kogi",
+          "slug": "kogi-ng023"
+        }
+      },
+      {
+        "id": "NG023005",
+        "level": 2,
+        "name": {
+          "local": "Dekina",
+          "en": "Dekina",
+          "slug": "dekina-ng023005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.596",
+      "lon": "7.14"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

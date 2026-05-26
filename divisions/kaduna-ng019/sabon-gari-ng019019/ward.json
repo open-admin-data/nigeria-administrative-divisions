@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG019019_basawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Basawa",
+      "en": "Basawa",
+      "slug": "basawa"
+    },
+    "code": {
+      "id": "NG019019_basawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019019",
+      "level": 2,
+      "name": {
+        "local": "Sabon-Gari",
+        "en": "Sabon-Gari",
+        "slug": "sabon-gari-ng019019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019019",
+        "level": 2,
+        "name": {
+          "local": "Sabon-Gari",
+          "en": "Sabon-Gari",
+          "slug": "sabon-gari-ng019019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019019_bomo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bomo",
+      "en": "Bomo",
+      "slug": "bomo"
+    },
+    "code": {
+      "id": "NG019019_bomo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019019",
+      "level": 2,
+      "name": {
+        "local": "Sabon-Gari",
+        "en": "Sabon-Gari",
+        "slug": "sabon-gari-ng019019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019019",
+        "level": 2,
+        "name": {
+          "local": "Sabon-Gari",
+          "en": "Sabon-Gari",
+          "slug": "sabon-gari-ng019019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019019_chikaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chikaji",
+      "en": "Chikaji",
+      "slug": "chikaji"
+    },
+    "code": {
+      "id": "NG019019_chikaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019019",
+      "level": 2,
+      "name": {
+        "local": "Sabon-Gari",
+        "en": "Sabon-Gari",
+        "slug": "sabon-gari-ng019019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019019",
+        "level": 2,
+        "name": {
+          "local": "Sabon-Gari",
+          "en": "Sabon-Gari",
+          "slug": "sabon-gari-ng019019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019019_dogarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dogarawa",
+      "en": "Dogarawa",
+      "slug": "dogarawa"
+    },
+    "code": {
+      "id": "NG019019_dogarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019019",
+      "level": 2,
+      "name": {
+        "local": "Sabon-Gari",
+        "en": "Sabon-Gari",
+        "slug": "sabon-gari-ng019019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019019",
+        "level": 2,
+        "name": {
+          "local": "Sabon-Gari",
+          "en": "Sabon-Gari",
+          "slug": "sabon-gari-ng019019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019019_hanwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hanwa",
+      "en": "Hanwa",
+      "slug": "hanwa"
+    },
+    "code": {
+      "id": "NG019019_hanwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019019",
+      "level": 2,
+      "name": {
+        "local": "Sabon-Gari",
+        "en": "Sabon-Gari",
+        "slug": "sabon-gari-ng019019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019019",
+        "level": 2,
+        "name": {
+          "local": "Sabon-Gari",
+          "en": "Sabon-Gari",
+          "slug": "sabon-gari-ng019019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019019_jamaa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jama'a",
+      "en": "Jama'a",
+      "slug": "jamaa"
+    },
+    "code": {
+      "id": "NG019019_jamaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019019",
+      "level": 2,
+      "name": {
+        "local": "Sabon-Gari",
+        "en": "Sabon-Gari",
+        "slug": "sabon-gari-ng019019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019019",
+        "level": 2,
+        "name": {
+          "local": "Sabon-Gari",
+          "en": "Sabon-Gari",
+          "slug": "sabon-gari-ng019019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019019_jushin-waje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jushin Waje",
+      "en": "Jushin Waje",
+      "slug": "jushin-waje"
+    },
+    "code": {
+      "id": "NG019019_jushin-waje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019019",
+      "level": 2,
+      "name": {
+        "local": "Sabon-Gari",
+        "en": "Sabon-Gari",
+        "slug": "sabon-gari-ng019019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019019",
+        "level": 2,
+        "name": {
+          "local": "Sabon-Gari",
+          "en": "Sabon-Gari",
+          "slug": "sabon-gari-ng019019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019019_muchia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Muchia",
+      "en": "Muchia",
+      "slug": "muchia"
+    },
+    "code": {
+      "id": "NG019019_muchia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019019",
+      "level": 2,
+      "name": {
+        "local": "Sabon-Gari",
+        "en": "Sabon-Gari",
+        "slug": "sabon-gari-ng019019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019019",
+        "level": 2,
+        "name": {
+          "local": "Sabon-Gari",
+          "en": "Sabon-Gari",
+          "slug": "sabon-gari-ng019019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019019_samaru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Samaru",
+      "en": "Samaru",
+      "slug": "samaru"
+    },
+    "code": {
+      "id": "NG019019_samaru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019019",
+      "level": 2,
+      "name": {
+        "local": "Sabon-Gari",
+        "en": "Sabon-Gari",
+        "slug": "sabon-gari-ng019019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019019",
+        "level": 2,
+        "name": {
+          "local": "Sabon-Gari",
+          "en": "Sabon-Gari",
+          "slug": "sabon-gari-ng019019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019019_unguwan-gabas",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwan Gabas",
+      "en": "Unguwan Gabas",
+      "slug": "unguwan-gabas"
+    },
+    "code": {
+      "id": "NG019019_unguwan-gabas",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019019",
+      "level": 2,
+      "name": {
+        "local": "Sabon-Gari",
+        "en": "Sabon-Gari",
+        "slug": "sabon-gari-ng019019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019019",
+        "level": 2,
+        "name": {
+          "local": "Sabon-Gari",
+          "en": "Sabon-Gari",
+          "slug": "sabon-gari-ng019019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019019_zabi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zabi",
+      "en": "Zabi",
+      "slug": "zabi"
+    },
+    "code": {
+      "id": "NG019019_zabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019019",
+      "level": 2,
+      "name": {
+        "local": "Sabon-Gari",
+        "en": "Sabon-Gari",
+        "slug": "sabon-gari-ng019019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019019",
+        "level": 2,
+        "name": {
+          "local": "Sabon-Gari",
+          "en": "Sabon-Gari",
+          "slug": "sabon-gari-ng019019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.179",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

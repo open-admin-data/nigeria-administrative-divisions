@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG029010_aheri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aheri",
+      "en": "Aheri",
+      "slug": "aheri"
+    },
+    "code": {
+      "id": "NG029010_aheri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029010",
+      "level": 2,
+      "name": {
+        "local": "Ilaje",
+        "en": "Ilaje",
+        "slug": "ilaje-ng029010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029010",
+        "level": 2,
+        "name": {
+          "local": "Ilaje",
+          "en": "Ilaje",
+          "slug": "ilaje-ng029010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "4.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029010_etikan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Etikan",
+      "en": "Etikan",
+      "slug": "etikan"
+    },
+    "code": {
+      "id": "NG029010_etikan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029010",
+      "level": 2,
+      "name": {
+        "local": "Ilaje",
+        "en": "Ilaje",
+        "slug": "ilaje-ng029010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029010",
+        "level": 2,
+        "name": {
+          "local": "Ilaje",
+          "en": "Ilaje",
+          "slug": "ilaje-ng029010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "4.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029010_mahin-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mahin 1",
+      "en": "Mahin 1",
+      "slug": "mahin-1"
+    },
+    "code": {
+      "id": "NG029010_mahin-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029010",
+      "level": 2,
+      "name": {
+        "local": "Ilaje",
+        "en": "Ilaje",
+        "slug": "ilaje-ng029010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029010",
+        "level": 2,
+        "name": {
+          "local": "Ilaje",
+          "en": "Ilaje",
+          "slug": "ilaje-ng029010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "4.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029010_mahin-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mahin 11",
+      "en": "Mahin 11",
+      "slug": "mahin-11"
+    },
+    "code": {
+      "id": "NG029010_mahin-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029010",
+      "level": 2,
+      "name": {
+        "local": "Ilaje",
+        "en": "Ilaje",
+        "slug": "ilaje-ng029010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029010",
+        "level": 2,
+        "name": {
+          "local": "Ilaje",
+          "en": "Ilaje",
+          "slug": "ilaje-ng029010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "4.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029010_mahin-111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mahin 111",
+      "en": "Mahin 111",
+      "slug": "mahin-111"
+    },
+    "code": {
+      "id": "NG029010_mahin-111",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029010",
+      "level": 2,
+      "name": {
+        "local": "Ilaje",
+        "en": "Ilaje",
+        "slug": "ilaje-ng029010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029010",
+        "level": 2,
+        "name": {
+          "local": "Ilaje",
+          "en": "Ilaje",
+          "slug": "ilaje-ng029010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "4.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029010_mahin-1v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mahin 1v",
+      "en": "Mahin 1v",
+      "slug": "mahin-1v"
+    },
+    "code": {
+      "id": "NG029010_mahin-1v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029010",
+      "level": 2,
+      "name": {
+        "local": "Ilaje",
+        "en": "Ilaje",
+        "slug": "ilaje-ng029010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029010",
+        "level": 2,
+        "name": {
+          "local": "Ilaje",
+          "en": "Ilaje",
+          "slug": "ilaje-ng029010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "4.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029010_ugbo-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugbo 1",
+      "en": "Ugbo 1",
+      "slug": "ugbo-1"
+    },
+    "code": {
+      "id": "NG029010_ugbo-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029010",
+      "level": 2,
+      "name": {
+        "local": "Ilaje",
+        "en": "Ilaje",
+        "slug": "ilaje-ng029010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029010",
+        "level": 2,
+        "name": {
+          "local": "Ilaje",
+          "en": "Ilaje",
+          "slug": "ilaje-ng029010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "4.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029010_ugbo-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugbo 11",
+      "en": "Ugbo 11",
+      "slug": "ugbo-11"
+    },
+    "code": {
+      "id": "NG029010_ugbo-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029010",
+      "level": 2,
+      "name": {
+        "local": "Ilaje",
+        "en": "Ilaje",
+        "slug": "ilaje-ng029010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029010",
+        "level": 2,
+        "name": {
+          "local": "Ilaje",
+          "en": "Ilaje",
+          "slug": "ilaje-ng029010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "4.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029010_ugbo-111",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugbo 111",
+      "en": "Ugbo 111",
+      "slug": "ugbo-111"
+    },
+    "code": {
+      "id": "NG029010_ugbo-111",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029010",
+      "level": 2,
+      "name": {
+        "local": "Ilaje",
+        "en": "Ilaje",
+        "slug": "ilaje-ng029010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029010",
+        "level": 2,
+        "name": {
+          "local": "Ilaje",
+          "en": "Ilaje",
+          "slug": "ilaje-ng029010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "4.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029010_ugbo-1v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugbo 1v",
+      "en": "Ugbo 1v",
+      "slug": "ugbo-1v"
+    },
+    "code": {
+      "id": "NG029010_ugbo-1v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029010",
+      "level": 2,
+      "name": {
+        "local": "Ilaje",
+        "en": "Ilaje",
+        "slug": "ilaje-ng029010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029010",
+        "level": 2,
+        "name": {
+          "local": "Ilaje",
+          "en": "Ilaje",
+          "slug": "ilaje-ng029010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "4.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029010_ugbo-v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugbo V",
+      "en": "Ugbo V",
+      "slug": "ugbo-v"
+    },
+    "code": {
+      "id": "NG029010_ugbo-v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029010",
+      "level": 2,
+      "name": {
+        "local": "Ilaje",
+        "en": "Ilaje",
+        "slug": "ilaje-ng029010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029010",
+        "level": 2,
+        "name": {
+          "local": "Ilaje",
+          "en": "Ilaje",
+          "slug": "ilaje-ng029010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "4.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029010_ugbo-v1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugbo V1",
+      "en": "Ugbo V1",
+      "slug": "ugbo-v1"
+    },
+    "code": {
+      "id": "NG029010_ugbo-v1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029010",
+      "level": 2,
+      "name": {
+        "local": "Ilaje",
+        "en": "Ilaje",
+        "slug": "ilaje-ng029010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029010",
+        "level": 2,
+        "name": {
+          "local": "Ilaje",
+          "en": "Ilaje",
+          "slug": "ilaje-ng029010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.199",
+      "lon": "4.753"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

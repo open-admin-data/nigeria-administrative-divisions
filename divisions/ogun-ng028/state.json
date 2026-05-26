@@ -1,0 +1,30 @@
+{
+  "id": "NG028",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Ogun",
+    "en": "Ogun",
+    "slug": "ogun-ng028"
+  },
+  "code": {
+    "id": "NG028",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 20,
+    "ward": 236
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.127",
+    "lon": "3.263"
+  },
+  "metadata": {},
+  "source": {}
+}

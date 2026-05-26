@@ -1,0 +1,284 @@
+[
+  {
+    "id": "NG015001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Abaji",
+      "en": "Abaji",
+      "slug": "abaji-ng015001"
+    },
+    "code": {
+      "id": "NG015001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015",
+      "level": 1,
+      "name": {
+        "local": "Federal Capital Territory",
+        "en": "Federal Capital Territory",
+        "slug": "federal-capital-territory-ng015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.84",
+      "lon": "6.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Abuja Municipal",
+      "en": "Abuja Municipal",
+      "slug": "abuja-municipal-ng015002"
+    },
+    "code": {
+      "id": "NG015002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015",
+      "level": 1,
+      "name": {
+        "local": "Federal Capital Territory",
+        "en": "Federal Capital Territory",
+        "slug": "federal-capital-territory-ng015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bwari",
+      "en": "Bwari",
+      "slug": "bwari-ng015003"
+    },
+    "code": {
+      "id": "NG015003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015",
+      "level": 1,
+      "name": {
+        "local": "Federal Capital Territory",
+        "en": "Federal Capital Territory",
+        "slug": "federal-capital-territory-ng015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.233",
+      "lon": "7.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gwagwalada",
+      "en": "Gwagwalada",
+      "slug": "gwagwalada-ng015004"
+    },
+    "code": {
+      "id": "NG015004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015",
+      "level": 1,
+      "name": {
+        "local": "Federal Capital Territory",
+        "en": "Federal Capital Territory",
+        "slug": "federal-capital-territory-ng015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.076",
+      "lon": "7.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kuje",
+      "en": "Kuje",
+      "slug": "kuje-ng015005"
+    },
+    "code": {
+      "id": "NG015005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015",
+      "level": 1,
+      "name": {
+        "local": "Federal Capital Territory",
+        "en": "Federal Capital Territory",
+        "slug": "federal-capital-territory-ng015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.696",
+      "lon": "7.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kwali",
+      "en": "Kwali",
+      "slug": "kwali-ng015006"
+    },
+    "code": {
+      "id": "NG015006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015",
+      "level": 1,
+      "name": {
+        "local": "Federal Capital Territory",
+        "en": "Federal Capital Territory",
+        "slug": "federal-capital-territory-ng015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "6.963"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

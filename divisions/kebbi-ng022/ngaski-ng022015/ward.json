@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG022015_birnin-yauri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birnin Yauri",
+      "en": "Birnin Yauri",
+      "slug": "birnin-yauri"
+    },
+    "code": {
+      "id": "NG022015_birnin-yauri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022015",
+      "level": 2,
+      "name": {
+        "local": "Ngaski",
+        "en": "Ngaski",
+        "slug": "ngaski-ng022015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022015",
+        "level": 2,
+        "name": {
+          "local": "Ngaski",
+          "en": "Ngaski",
+          "slug": "ngaski-ng022015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.585",
+      "lon": "4.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022015_gafara-machupa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gafara Machupa",
+      "en": "Gafara Machupa",
+      "slug": "gafara-machupa"
+    },
+    "code": {
+      "id": "NG022015_gafara-machupa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022015",
+      "level": 2,
+      "name": {
+        "local": "Ngaski",
+        "en": "Ngaski",
+        "slug": "ngaski-ng022015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022015",
+        "level": 2,
+        "name": {
+          "local": "Ngaski",
+          "en": "Ngaski",
+          "slug": "ngaski-ng022015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.585",
+      "lon": "4.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022015_garin-bakamakarin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garin Baka/makarin",
+      "en": "Garin Baka/makarin",
+      "slug": "garin-bakamakarin"
+    },
+    "code": {
+      "id": "NG022015_garin-bakamakarin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022015",
+      "level": 2,
+      "name": {
+        "local": "Ngaski",
+        "en": "Ngaski",
+        "slug": "ngaski-ng022015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022015",
+        "level": 2,
+        "name": {
+          "local": "Ngaski",
+          "en": "Ngaski",
+          "slug": "ngaski-ng022015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.585",
+      "lon": "4.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022015_kambuwadanmaraya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kambuwa/danmaraya",
+      "en": "Kambuwa/danmaraya",
+      "slug": "kambuwadanmaraya"
+    },
+    "code": {
+      "id": "NG022015_kambuwadanmaraya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022015",
+      "level": 2,
+      "name": {
+        "local": "Ngaski",
+        "en": "Ngaski",
+        "slug": "ngaski-ng022015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022015",
+        "level": 2,
+        "name": {
+          "local": "Ngaski",
+          "en": "Ngaski",
+          "slug": "ngaski-ng022015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.585",
+      "lon": "4.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022015_kwakwaran",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwakwaran",
+      "en": "Kwakwaran",
+      "slug": "kwakwaran"
+    },
+    "code": {
+      "id": "NG022015_kwakwaran",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022015",
+      "level": 2,
+      "name": {
+        "local": "Ngaski",
+        "en": "Ngaski",
+        "slug": "ngaski-ng022015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022015",
+        "level": 2,
+        "name": {
+          "local": "Ngaski",
+          "en": "Ngaski",
+          "slug": "ngaski-ng022015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.585",
+      "lon": "4.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022015_libatakwangia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Libata/kwangia",
+      "en": "Libata/kwangia",
+      "slug": "libatakwangia"
+    },
+    "code": {
+      "id": "NG022015_libatakwangia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022015",
+      "level": 2,
+      "name": {
+        "local": "Ngaski",
+        "en": "Ngaski",
+        "slug": "ngaski-ng022015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022015",
+        "level": 2,
+        "name": {
+          "local": "Ngaski",
+          "en": "Ngaski",
+          "slug": "ngaski-ng022015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.585",
+      "lon": "4.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022015_makawa-uleira",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makawa Uleira",
+      "en": "Makawa Uleira",
+      "slug": "makawa-uleira"
+    },
+    "code": {
+      "id": "NG022015_makawa-uleira",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022015",
+      "level": 2,
+      "name": {
+        "local": "Ngaski",
+        "en": "Ngaski",
+        "slug": "ngaski-ng022015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022015",
+        "level": 2,
+        "name": {
+          "local": "Ngaski",
+          "en": "Ngaski",
+          "slug": "ngaski-ng022015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.585",
+      "lon": "4.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022015_ngaski",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngaski",
+      "en": "Ngaski",
+      "slug": "ngaski"
+    },
+    "code": {
+      "id": "NG022015_ngaski",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022015",
+      "level": 2,
+      "name": {
+        "local": "Ngaski",
+        "en": "Ngaski",
+        "slug": "ngaski-ng022015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022015",
+        "level": 2,
+        "name": {
+          "local": "Ngaski",
+          "en": "Ngaski",
+          "slug": "ngaski-ng022015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.585",
+      "lon": "4.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022015_utonohoge",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Utono/hoge",
+      "en": "Utono/hoge",
+      "slug": "utonohoge"
+    },
+    "code": {
+      "id": "NG022015_utonohoge",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022015",
+      "level": 2,
+      "name": {
+        "local": "Ngaski",
+        "en": "Ngaski",
+        "slug": "ngaski-ng022015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022015",
+        "level": 2,
+        "name": {
+          "local": "Ngaski",
+          "en": "Ngaski",
+          "slug": "ngaski-ng022015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.585",
+      "lon": "4.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022015_wara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wara",
+      "en": "Wara",
+      "slug": "wara"
+    },
+    "code": {
+      "id": "NG022015_wara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022015",
+      "level": 2,
+      "name": {
+        "local": "Ngaski",
+        "en": "Ngaski",
+        "slug": "ngaski-ng022015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022015",
+        "level": 2,
+        "name": {
+          "local": "Ngaski",
+          "en": "Ngaski",
+          "slug": "ngaski-ng022015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.585",
+      "lon": "4.721"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

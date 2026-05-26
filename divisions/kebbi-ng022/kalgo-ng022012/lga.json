@@ -1,0 +1,47 @@
+{
+  "id": "NG022012",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Kalgo",
+    "en": "Kalgo",
+    "slug": "kalgo-ng022012"
+  },
+  "code": {
+    "id": "NG022012",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG022",
+    "level": 1,
+    "name": {
+      "local": "Kebbi",
+      "en": "Kebbi",
+      "slug": "kebbi-ng022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG022",
+      "level": 1,
+      "name": {
+        "local": "Kebbi",
+        "en": "Kebbi",
+        "slug": "kebbi-ng022"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.386",
+    "lon": "4.058"
+  },
+  "metadata": {},
+  "source": {}
+}

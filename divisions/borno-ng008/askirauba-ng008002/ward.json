@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG008002_askira-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Askira East",
+      "en": "Askira East",
+      "slug": "askira-east"
+    },
+    "code": {
+      "id": "NG008002_askira-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.65",
+      "lon": "12.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008002_chul-rumirgo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chul / Rumirgo",
+      "en": "Chul / Rumirgo",
+      "slug": "chul-rumirgo"
+    },
+    "code": {
+      "id": "NG008002_chul-rumirgo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.637",
+      "lon": "12.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008002_dille-huyum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dille / Huyum",
+      "en": "Dille / Huyum",
+      "slug": "dille-huyum"
+    },
+    "code": {
+      "id": "NG008002_dille-huyum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.739",
+      "lon": "13.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008002_husara-tampul",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Husara / Tampul",
+      "en": "Husara / Tampul",
+      "slug": "husara-tampul"
+    },
+    "code": {
+      "id": "NG008002_husara-tampul",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.637",
+      "lon": "12.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008002_kopa-multhafu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kopa / Multhafu",
+      "en": "Kopa / Multhafu",
+      "slug": "kopa-multhafu"
+    },
+    "code": {
+      "id": "NG008002_kopa-multhafu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.637",
+      "lon": "12.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008002_lassa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lassa",
+      "en": "Lassa",
+      "slug": "lassa"
+    },
+    "code": {
+      "id": "NG008002_lassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.692",
+      "lon": "13.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008002_mussa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mussa",
+      "en": "Mussa",
+      "slug": "mussa"
+    },
+    "code": {
+      "id": "NG008002_mussa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.734",
+      "lon": "13.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008002_ngohi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngohi",
+      "en": "Ngohi",
+      "slug": "ngohi"
+    },
+    "code": {
+      "id": "NG008002_ngohi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.578",
+      "lon": "12.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008002_ngulde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngulde",
+      "en": "Ngulde",
+      "slug": "ngulde"
+    },
+    "code": {
+      "id": "NG008002_ngulde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.624",
+      "lon": "12.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008002_uba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uba",
+      "en": "Uba",
+      "slug": "uba"
+    },
+    "code": {
+      "id": "NG008002_uba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.468",
+      "lon": "13.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008002_uda-uvu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uda / Uvu",
+      "en": "Uda / Uvu",
+      "slug": "uda-uvu"
+    },
+    "code": {
+      "id": "NG008002_uda-uvu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.637",
+      "lon": "12.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008002_wamdeo-giwi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wamdeo / Giwi",
+      "en": "Wamdeo / Giwi",
+      "slug": "wamdeo-giwi"
+    },
+    "code": {
+      "id": "NG008002_wamdeo-giwi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.553",
+      "lon": "13.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008002_zadawa-hausari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zadawa / Hausari",
+      "en": "Zadawa / Hausari",
+      "slug": "zadawa-hausari"
+    },
+    "code": {
+      "id": "NG008002_zadawa-hausari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008002",
+      "level": 2,
+      "name": {
+        "local": "Askira/Uba",
+        "en": "Askira/Uba",
+        "slug": "askirauba-ng008002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008002",
+        "level": 2,
+        "name": {
+          "local": "Askira/Uba",
+          "en": "Askira/Uba",
+          "slug": "askirauba-ng008002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.637",
+      "lon": "12.846"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

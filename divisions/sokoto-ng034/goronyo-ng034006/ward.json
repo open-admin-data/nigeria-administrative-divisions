@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG034006_birjingo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birjingo",
+      "en": "Birjingo",
+      "slug": "birjingo"
+    },
+    "code": {
+      "id": "NG034006_birjingo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034006",
+      "level": 2,
+      "name": {
+        "local": "Goronyo",
+        "en": "Goronyo",
+        "slug": "goronyo-ng034006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034006",
+        "level": 2,
+        "name": {
+          "local": "Goronyo",
+          "en": "Goronyo",
+          "slug": "goronyo-ng034006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.348",
+      "lon": "5.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034006_boyeka-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Boyeka I",
+      "en": "Boyeka I",
+      "slug": "boyeka-i"
+    },
+    "code": {
+      "id": "NG034006_boyeka-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034006",
+      "level": 2,
+      "name": {
+        "local": "Goronyo",
+        "en": "Goronyo",
+        "slug": "goronyo-ng034006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034006",
+        "level": 2,
+        "name": {
+          "local": "Goronyo",
+          "en": "Goronyo",
+          "slug": "goronyo-ng034006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.348",
+      "lon": "5.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034006_giyawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Giyawa",
+      "en": "Giyawa",
+      "slug": "giyawa"
+    },
+    "code": {
+      "id": "NG034006_giyawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034006",
+      "level": 2,
+      "name": {
+        "local": "Goronyo",
+        "en": "Goronyo",
+        "slug": "goronyo-ng034006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034006",
+        "level": 2,
+        "name": {
+          "local": "Goronyo",
+          "en": "Goronyo",
+          "slug": "goronyo-ng034006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.348",
+      "lon": "5.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034006_goronyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Goronyo",
+      "en": "Goronyo",
+      "slug": "goronyo"
+    },
+    "code": {
+      "id": "NG034006_goronyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034006",
+      "level": 2,
+      "name": {
+        "local": "Goronyo",
+        "en": "Goronyo",
+        "slug": "goronyo-ng034006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034006",
+        "level": 2,
+        "name": {
+          "local": "Goronyo",
+          "en": "Goronyo",
+          "slug": "goronyo-ng034006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.348",
+      "lon": "5.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034006_kagara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kagara",
+      "en": "Kagara",
+      "slug": "kagara"
+    },
+    "code": {
+      "id": "NG034006_kagara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034006",
+      "level": 2,
+      "name": {
+        "local": "Goronyo",
+        "en": "Goronyo",
+        "slug": "goronyo-ng034006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034006",
+        "level": 2,
+        "name": {
+          "local": "Goronyo",
+          "en": "Goronyo",
+          "slug": "goronyo-ng034006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.348",
+      "lon": "5.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034006_kojiyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kojiyo",
+      "en": "Kojiyo",
+      "slug": "kojiyo"
+    },
+    "code": {
+      "id": "NG034006_kojiyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034006",
+      "level": 2,
+      "name": {
+        "local": "Goronyo",
+        "en": "Goronyo",
+        "slug": "goronyo-ng034006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034006",
+        "level": 2,
+        "name": {
+          "local": "Goronyo",
+          "en": "Goronyo",
+          "slug": "goronyo-ng034006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.348",
+      "lon": "5.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034006_kwakwazo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwakwazo",
+      "en": "Kwakwazo",
+      "slug": "kwakwazo"
+    },
+    "code": {
+      "id": "NG034006_kwakwazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034006",
+      "level": 2,
+      "name": {
+        "local": "Goronyo",
+        "en": "Goronyo",
+        "slug": "goronyo-ng034006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034006",
+        "level": 2,
+        "name": {
+          "local": "Goronyo",
+          "en": "Goronyo",
+          "slug": "goronyo-ng034006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.348",
+      "lon": "5.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034006_rimawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rimawa",
+      "en": "Rimawa",
+      "slug": "rimawa"
+    },
+    "code": {
+      "id": "NG034006_rimawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034006",
+      "level": 2,
+      "name": {
+        "local": "Goronyo",
+        "en": "Goronyo",
+        "slug": "goronyo-ng034006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034006",
+        "level": 2,
+        "name": {
+          "local": "Goronyo",
+          "en": "Goronyo",
+          "slug": "goronyo-ng034006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.348",
+      "lon": "5.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034006_sgari-doledantasakko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S/gari Dole/dan/tasakko",
+      "en": "S/gari Dole/dan/tasakko",
+      "slug": "sgari-doledantasakko"
+    },
+    "code": {
+      "id": "NG034006_sgari-doledantasakko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034006",
+      "level": 2,
+      "name": {
+        "local": "Goronyo",
+        "en": "Goronyo",
+        "slug": "goronyo-ng034006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034006",
+        "level": 2,
+        "name": {
+          "local": "Goronyo",
+          "en": "Goronyo",
+          "slug": "goronyo-ng034006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.348",
+      "lon": "5.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034006_shinaka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shinaka",
+      "en": "Shinaka",
+      "slug": "shinaka"
+    },
+    "code": {
+      "id": "NG034006_shinaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034006",
+      "level": 2,
+      "name": {
+        "local": "Goronyo",
+        "en": "Goronyo",
+        "slug": "goronyo-ng034006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034006",
+        "level": 2,
+        "name": {
+          "local": "Goronyo",
+          "en": "Goronyo",
+          "slug": "goronyo-ng034006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.348",
+      "lon": "5.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034006_takakume",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Takakume",
+      "en": "Takakume",
+      "slug": "takakume"
+    },
+    "code": {
+      "id": "NG034006_takakume",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034006",
+      "level": 2,
+      "name": {
+        "local": "Goronyo",
+        "en": "Goronyo",
+        "slug": "goronyo-ng034006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034006",
+        "level": 2,
+        "name": {
+          "local": "Goronyo",
+          "en": "Goronyo",
+          "slug": "goronyo-ng034006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.348",
+      "lon": "5.737"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

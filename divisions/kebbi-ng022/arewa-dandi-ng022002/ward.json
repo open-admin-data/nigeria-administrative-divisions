@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG022002_bui",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bui",
+      "en": "Bui",
+      "slug": "bui"
+    },
+    "code": {
+      "id": "NG022002_bui",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022002",
+      "level": 2,
+      "name": {
+        "local": "Arewa-Dandi",
+        "en": "Arewa-Dandi",
+        "slug": "arewa-dandi-ng022002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022002",
+        "level": 2,
+        "name": {
+          "local": "Arewa-Dandi",
+          "en": "Arewa-Dandi",
+          "slug": "arewa-dandi-ng022002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.685",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022002_chibike",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chibike",
+      "en": "Chibike",
+      "slug": "chibike"
+    },
+    "code": {
+      "id": "NG022002_chibike",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022002",
+      "level": 2,
+      "name": {
+        "local": "Arewa-Dandi",
+        "en": "Arewa-Dandi",
+        "slug": "arewa-dandi-ng022002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022002",
+        "level": 2,
+        "name": {
+          "local": "Arewa-Dandi",
+          "en": "Arewa-Dandi",
+          "slug": "arewa-dandi-ng022002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.685",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022002_daurasakkwabejarkuka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daura/sakkwabe/jarkuka",
+      "en": "Daura/sakkwabe/jarkuka",
+      "slug": "daurasakkwabejarkuka"
+    },
+    "code": {
+      "id": "NG022002_daurasakkwabejarkuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022002",
+      "level": 2,
+      "name": {
+        "local": "Arewa-Dandi",
+        "en": "Arewa-Dandi",
+        "slug": "arewa-dandi-ng022002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022002",
+        "level": 2,
+        "name": {
+          "local": "Arewa-Dandi",
+          "en": "Arewa-Dandi",
+          "slug": "arewa-dandi-ng022002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.685",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022002_falde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Falde",
+      "en": "Falde",
+      "slug": "falde"
+    },
+    "code": {
+      "id": "NG022002_falde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022002",
+      "level": 2,
+      "name": {
+        "local": "Arewa-Dandi",
+        "en": "Arewa-Dandi",
+        "slug": "arewa-dandi-ng022002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022002",
+        "level": 2,
+        "name": {
+          "local": "Arewa-Dandi",
+          "en": "Arewa-Dandi",
+          "slug": "arewa-dandi-ng022002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.685",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022002_feskejaffeji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Feske/jaffeji",
+      "en": "Feske/jaffeji",
+      "slug": "feskejaffeji"
+    },
+    "code": {
+      "id": "NG022002_feskejaffeji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022002",
+      "level": 2,
+      "name": {
+        "local": "Arewa-Dandi",
+        "en": "Arewa-Dandi",
+        "slug": "arewa-dandi-ng022002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022002",
+        "level": 2,
+        "name": {
+          "local": "Arewa-Dandi",
+          "en": "Arewa-Dandi",
+          "slug": "arewa-dandi-ng022002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.685",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022002_gorun-dikko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gorun Dikko",
+      "en": "Gorun Dikko",
+      "slug": "gorun-dikko"
+    },
+    "code": {
+      "id": "NG022002_gorun-dikko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022002",
+      "level": 2,
+      "name": {
+        "local": "Arewa-Dandi",
+        "en": "Arewa-Dandi",
+        "slug": "arewa-dandi-ng022002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022002",
+        "level": 2,
+        "name": {
+          "local": "Arewa-Dandi",
+          "en": "Arewa-Dandi",
+          "slug": "arewa-dandi-ng022002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.685",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022002_gumumdairafin-tsaka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gumumdai/rafin Tsaka",
+      "en": "Gumumdai/rafin Tsaka",
+      "slug": "gumumdairafin-tsaka"
+    },
+    "code": {
+      "id": "NG022002_gumumdairafin-tsaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022002",
+      "level": 2,
+      "name": {
+        "local": "Arewa-Dandi",
+        "en": "Arewa-Dandi",
+        "slug": "arewa-dandi-ng022002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022002",
+        "level": 2,
+        "name": {
+          "local": "Arewa-Dandi",
+          "en": "Arewa-Dandi",
+          "slug": "arewa-dandi-ng022002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.685",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022002_kangiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kangiwa",
+      "en": "Kangiwa",
+      "slug": "kangiwa"
+    },
+    "code": {
+      "id": "NG022002_kangiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022002",
+      "level": 2,
+      "name": {
+        "local": "Arewa-Dandi",
+        "en": "Arewa-Dandi",
+        "slug": "arewa-dandi-ng022002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022002",
+        "level": 2,
+        "name": {
+          "local": "Arewa-Dandi",
+          "en": "Arewa-Dandi",
+          "slug": "arewa-dandi-ng022002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.685",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022002_laimajantullu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Laima/jantullu",
+      "en": "Laima/jantullu",
+      "slug": "laimajantullu"
+    },
+    "code": {
+      "id": "NG022002_laimajantullu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022002",
+      "level": 2,
+      "name": {
+        "local": "Arewa-Dandi",
+        "en": "Arewa-Dandi",
+        "slug": "arewa-dandi-ng022002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022002",
+        "level": 2,
+        "name": {
+          "local": "Arewa-Dandi",
+          "en": "Arewa-Dandi",
+          "slug": "arewa-dandi-ng022002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.685",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022002_sarkadantsoho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarka/dantsoho",
+      "en": "Sarka/dantsoho",
+      "slug": "sarkadantsoho"
+    },
+    "code": {
+      "id": "NG022002_sarkadantsoho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022002",
+      "level": 2,
+      "name": {
+        "local": "Arewa-Dandi",
+        "en": "Arewa-Dandi",
+        "slug": "arewa-dandi-ng022002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022002",
+        "level": 2,
+        "name": {
+          "local": "Arewa-Dandi",
+          "en": "Arewa-Dandi",
+          "slug": "arewa-dandi-ng022002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.685",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022002_yeldu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yeldu",
+      "en": "Yeldu",
+      "slug": "yeldu"
+    },
+    "code": {
+      "id": "NG022002_yeldu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022002",
+      "level": 2,
+      "name": {
+        "local": "Arewa-Dandi",
+        "en": "Arewa-Dandi",
+        "slug": "arewa-dandi-ng022002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022002",
+        "level": 2,
+        "name": {
+          "local": "Arewa-Dandi",
+          "en": "Arewa-Dandi",
+          "slug": "arewa-dandi-ng022002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.685",
+      "lon": "4.016"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

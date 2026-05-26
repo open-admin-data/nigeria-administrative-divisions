@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG032010_dadin-kowa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dadin Kowa",
+      "en": "Dadin Kowa",
+      "slug": "dadin-kowa"
+    },
+    "code": {
+      "id": "NG032010_dadin-kowa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032010",
+      "level": 2,
+      "name": {
+        "local": "Langtang South",
+        "en": "Langtang South",
+        "slug": "langtang-south-ng032010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032010",
+        "level": 2,
+        "name": {
+          "local": "Langtang South",
+          "en": "Langtang South",
+          "slug": "langtang-south-ng032010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.626",
+      "lon": "9.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032010_fajul",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fajul",
+      "en": "Fajul",
+      "slug": "fajul"
+    },
+    "code": {
+      "id": "NG032010_fajul",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032010",
+      "level": 2,
+      "name": {
+        "local": "Langtang South",
+        "en": "Langtang South",
+        "slug": "langtang-south-ng032010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032010",
+        "level": 2,
+        "name": {
+          "local": "Langtang South",
+          "en": "Langtang South",
+          "slug": "langtang-south-ng032010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.626",
+      "lon": "9.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032010_gamakai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamakai",
+      "en": "Gamakai",
+      "slug": "gamakai"
+    },
+    "code": {
+      "id": "NG032010_gamakai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032010",
+      "level": 2,
+      "name": {
+        "local": "Langtang South",
+        "en": "Langtang South",
+        "slug": "langtang-south-ng032010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032010",
+        "level": 2,
+        "name": {
+          "local": "Langtang South",
+          "en": "Langtang South",
+          "slug": "langtang-south-ng032010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.626",
+      "lon": "9.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032010_lashel",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lashel",
+      "en": "Lashel",
+      "slug": "lashel"
+    },
+    "code": {
+      "id": "NG032010_lashel",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032010",
+      "level": 2,
+      "name": {
+        "local": "Langtang South",
+        "en": "Langtang South",
+        "slug": "langtang-south-ng032010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032010",
+        "level": 2,
+        "name": {
+          "local": "Langtang South",
+          "en": "Langtang South",
+          "slug": "langtang-south-ng032010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.626",
+      "lon": "9.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032010_mabudi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mabudi",
+      "en": "Mabudi",
+      "slug": "mabudi"
+    },
+    "code": {
+      "id": "NG032010_mabudi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032010",
+      "level": 2,
+      "name": {
+        "local": "Langtang South",
+        "en": "Langtang South",
+        "slug": "langtang-south-ng032010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032010",
+        "level": 2,
+        "name": {
+          "local": "Langtang South",
+          "en": "Langtang South",
+          "slug": "langtang-south-ng032010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.626",
+      "lon": "9.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032010_magama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magama",
+      "en": "Magama",
+      "slug": "magama"
+    },
+    "code": {
+      "id": "NG032010_magama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032010",
+      "level": 2,
+      "name": {
+        "local": "Langtang South",
+        "en": "Langtang South",
+        "slug": "langtang-south-ng032010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032010",
+        "level": 2,
+        "name": {
+          "local": "Langtang South",
+          "en": "Langtang South",
+          "slug": "langtang-south-ng032010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.626",
+      "lon": "9.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032010_sabon-gida",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Gida",
+      "en": "Sabon Gida",
+      "slug": "sabon-gida"
+    },
+    "code": {
+      "id": "NG032010_sabon-gida",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032010",
+      "level": 2,
+      "name": {
+        "local": "Langtang South",
+        "en": "Langtang South",
+        "slug": "langtang-south-ng032010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032010",
+        "level": 2,
+        "name": {
+          "local": "Langtang South",
+          "en": "Langtang South",
+          "slug": "langtang-south-ng032010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.626",
+      "lon": "9.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032010_talgwang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Talgwang",
+      "en": "Talgwang",
+      "slug": "talgwang"
+    },
+    "code": {
+      "id": "NG032010_talgwang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032010",
+      "level": 2,
+      "name": {
+        "local": "Langtang South",
+        "en": "Langtang South",
+        "slug": "langtang-south-ng032010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032010",
+        "level": 2,
+        "name": {
+          "local": "Langtang South",
+          "en": "Langtang South",
+          "slug": "langtang-south-ng032010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.626",
+      "lon": "9.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032010_timbol",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Timbol",
+      "en": "Timbol",
+      "slug": "timbol"
+    },
+    "code": {
+      "id": "NG032010_timbol",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032010",
+      "level": 2,
+      "name": {
+        "local": "Langtang South",
+        "en": "Langtang South",
+        "slug": "langtang-south-ng032010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032010",
+        "level": 2,
+        "name": {
+          "local": "Langtang South",
+          "en": "Langtang South",
+          "slug": "langtang-south-ng032010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.626",
+      "lon": "9.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032010_turaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Turaki",
+      "en": "Turaki",
+      "slug": "turaki"
+    },
+    "code": {
+      "id": "NG032010_turaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032010",
+      "level": 2,
+      "name": {
+        "local": "Langtang South",
+        "en": "Langtang South",
+        "slug": "langtang-south-ng032010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032010",
+        "level": 2,
+        "name": {
+          "local": "Langtang South",
+          "en": "Langtang South",
+          "slug": "langtang-south-ng032010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.626",
+      "lon": "9.824"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

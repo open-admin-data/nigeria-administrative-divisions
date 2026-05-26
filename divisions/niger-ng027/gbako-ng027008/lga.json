@@ -1,0 +1,47 @@
+{
+  "id": "NG027008",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Gbako",
+    "en": "Gbako",
+    "slug": "gbako-ng027008"
+  },
+  "code": {
+    "id": "NG027008",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG027",
+    "level": 1,
+    "name": {
+      "local": "Niger",
+      "en": "Niger",
+      "slug": "niger-ng027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG027",
+      "level": 1,
+      "name": {
+        "local": "Niger",
+        "en": "Niger",
+        "slug": "niger-ng027"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.279",
+    "lon": "5.997"
+  },
+  "metadata": {},
+  "source": {}
+}

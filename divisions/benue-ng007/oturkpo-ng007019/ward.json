@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG007019_adoka-haje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adoka-haje",
+      "en": "Adoka-haje",
+      "slug": "adoka-haje"
+    },
+    "code": {
+      "id": "NG007019_adoka-haje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007019_adoka-icho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adoka-icho",
+      "en": "Adoka-icho",
+      "slug": "adoka-icho"
+    },
+    "code": {
+      "id": "NG007019_adoka-icho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007019_allan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Allan",
+      "en": "Allan",
+      "slug": "allan"
+    },
+    "code": {
+      "id": "NG007019_allan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007019_entekpa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Entekpa",
+      "en": "Entekpa",
+      "slug": "entekpa"
+    },
+    "code": {
+      "id": "NG007019_entekpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007019_ewulo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ewulo",
+      "en": "Ewulo",
+      "slug": "ewulo"
+    },
+    "code": {
+      "id": "NG007019_ewulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007019_okete",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okete",
+      "en": "Okete",
+      "slug": "okete"
+    },
+    "code": {
+      "id": "NG007019_okete",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007019_otobi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otobi",
+      "en": "Otobi",
+      "slug": "otobi"
+    },
+    "code": {
+      "id": "NG007019_otobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007019_otukpo-town-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otukpo Town Central",
+      "en": "Otukpo Town Central",
+      "slug": "otukpo-town-central"
+    },
+    "code": {
+      "id": "NG007019_otukpo-town-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007019_otukpo-town-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otukpo Town East",
+      "en": "Otukpo Town East",
+      "slug": "otukpo-town-east"
+    },
+    "code": {
+      "id": "NG007019_otukpo-town-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007019_otukpo-town-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otukpo Town West",
+      "en": "Otukpo Town West",
+      "slug": "otukpo-town-west"
+    },
+    "code": {
+      "id": "NG007019_otukpo-town-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007019_ugboju-ehaje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugboju-ehaje",
+      "en": "Ugboju-ehaje",
+      "slug": "ugboju-ehaje"
+    },
+    "code": {
+      "id": "NG007019_ugboju-ehaje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007019_ugboju-icho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugboju-icho",
+      "en": "Ugboju-icho",
+      "slug": "ugboju-icho"
+    },
+    "code": {
+      "id": "NG007019_ugboju-icho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007019_ugboju-otahe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugboju-otahe",
+      "en": "Ugboju-otahe",
+      "slug": "ugboju-otahe"
+    },
+    "code": {
+      "id": "NG007019_ugboju-otahe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007019",
+      "level": 2,
+      "name": {
+        "local": "Oturkpo",
+        "en": "Oturkpo",
+        "slug": "oturkpo-ng007019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007019",
+        "level": 2,
+        "name": {
+          "local": "Oturkpo",
+          "en": "Oturkpo",
+          "slug": "oturkpo-ng007019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.32",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

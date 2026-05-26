@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG019008_agunu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agunu",
+      "en": "Agunu",
+      "slug": "agunu"
+    },
+    "code": {
+      "id": "NG019008_agunu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019008",
+      "level": 2,
+      "name": {
+        "local": "Kachia",
+        "en": "Kachia",
+        "slug": "kachia-ng019008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019008",
+        "level": 2,
+        "name": {
+          "local": "Kachia",
+          "en": "Kachia",
+          "slug": "kachia-ng019008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019008_ankwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ankwa",
+      "en": "Ankwa",
+      "slug": "ankwa"
+    },
+    "code": {
+      "id": "NG019008_ankwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019008",
+      "level": 2,
+      "name": {
+        "local": "Kachia",
+        "en": "Kachia",
+        "slug": "kachia-ng019008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019008",
+        "level": 2,
+        "name": {
+          "local": "Kachia",
+          "en": "Kachia",
+          "slug": "kachia-ng019008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019008_awon",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awon",
+      "en": "Awon",
+      "slug": "awon"
+    },
+    "code": {
+      "id": "NG019008_awon",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019008",
+      "level": 2,
+      "name": {
+        "local": "Kachia",
+        "en": "Kachia",
+        "slug": "kachia-ng019008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019008",
+        "level": 2,
+        "name": {
+          "local": "Kachia",
+          "en": "Kachia",
+          "slug": "kachia-ng019008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019008_bishini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bishini",
+      "en": "Bishini",
+      "slug": "bishini"
+    },
+    "code": {
+      "id": "NG019008_bishini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019008",
+      "level": 2,
+      "name": {
+        "local": "Kachia",
+        "en": "Kachia",
+        "slug": "kachia-ng019008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019008",
+        "level": 2,
+        "name": {
+          "local": "Kachia",
+          "en": "Kachia",
+          "slug": "kachia-ng019008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019008_doka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doka",
+      "en": "Doka",
+      "slug": "doka"
+    },
+    "code": {
+      "id": "NG019008_doka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019008",
+      "level": 2,
+      "name": {
+        "local": "Kachia",
+        "en": "Kachia",
+        "slug": "kachia-ng019008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019008",
+        "level": 2,
+        "name": {
+          "local": "Kachia",
+          "en": "Kachia",
+          "slug": "kachia-ng019008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019008_gidan-tagwai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gidan Tagwai",
+      "en": "Gidan Tagwai",
+      "slug": "gidan-tagwai"
+    },
+    "code": {
+      "id": "NG019008_gidan-tagwai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019008",
+      "level": 2,
+      "name": {
+        "local": "Kachia",
+        "en": "Kachia",
+        "slug": "kachia-ng019008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019008",
+        "level": 2,
+        "name": {
+          "local": "Kachia",
+          "en": "Kachia",
+          "slug": "kachia-ng019008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019008_gumel",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gumel",
+      "en": "Gumel",
+      "slug": "gumel"
+    },
+    "code": {
+      "id": "NG019008_gumel",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019008",
+      "level": 2,
+      "name": {
+        "local": "Kachia",
+        "en": "Kachia",
+        "slug": "kachia-ng019008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019008",
+        "level": 2,
+        "name": {
+          "local": "Kachia",
+          "en": "Kachia",
+          "slug": "kachia-ng019008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019008_kachia-urban",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kachia Urban",
+      "en": "Kachia Urban",
+      "slug": "kachia-urban"
+    },
+    "code": {
+      "id": "NG019008_kachia-urban",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019008",
+      "level": 2,
+      "name": {
+        "local": "Kachia",
+        "en": "Kachia",
+        "slug": "kachia-ng019008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019008",
+        "level": 2,
+        "name": {
+          "local": "Kachia",
+          "en": "Kachia",
+          "slug": "kachia-ng019008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019008_katari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Katari",
+      "en": "Katari",
+      "slug": "katari"
+    },
+    "code": {
+      "id": "NG019008_katari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019008",
+      "level": 2,
+      "name": {
+        "local": "Kachia",
+        "en": "Kachia",
+        "slug": "kachia-ng019008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019008",
+        "level": 2,
+        "name": {
+          "local": "Kachia",
+          "en": "Kachia",
+          "slug": "kachia-ng019008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019008_kurmin-musa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurmin Musa",
+      "en": "Kurmin Musa",
+      "slug": "kurmin-musa"
+    },
+    "code": {
+      "id": "NG019008_kurmin-musa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019008",
+      "level": 2,
+      "name": {
+        "local": "Kachia",
+        "en": "Kachia",
+        "slug": "kachia-ng019008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019008",
+        "level": 2,
+        "name": {
+          "local": "Kachia",
+          "en": "Kachia",
+          "slug": "kachia-ng019008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019008_kwaturu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwaturu",
+      "en": "Kwaturu",
+      "slug": "kwaturu"
+    },
+    "code": {
+      "id": "NG019008_kwaturu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019008",
+      "level": 2,
+      "name": {
+        "local": "Kachia",
+        "en": "Kachia",
+        "slug": "kachia-ng019008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019008",
+        "level": 2,
+        "name": {
+          "local": "Kachia",
+          "en": "Kachia",
+          "slug": "kachia-ng019008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019008_sabon-sarki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Sarki",
+      "en": "Sabon Sarki",
+      "slug": "sabon-sarki"
+    },
+    "code": {
+      "id": "NG019008_sabon-sarki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019008",
+      "level": 2,
+      "name": {
+        "local": "Kachia",
+        "en": "Kachia",
+        "slug": "kachia-ng019008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019008",
+        "level": 2,
+        "name": {
+          "local": "Kachia",
+          "en": "Kachia",
+          "slug": "kachia-ng019008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.86",
+      "lon": "7.676"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

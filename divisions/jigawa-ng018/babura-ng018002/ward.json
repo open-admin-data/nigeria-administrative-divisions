@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018002_babura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Babura",
+      "en": "Babura",
+      "slug": "babura"
+    },
+    "code": {
+      "id": "NG018002_babura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018002",
+      "level": 2,
+      "name": {
+        "local": "Babura",
+        "en": "Babura",
+        "slug": "babura-ng018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018002",
+        "level": 2,
+        "name": {
+          "local": "Babura",
+          "en": "Babura",
+          "slug": "babura-ng018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.613",
+      "lon": "8.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018002_batali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Batali",
+      "en": "Batali",
+      "slug": "batali"
+    },
+    "code": {
+      "id": "NG018002_batali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018002",
+      "level": 2,
+      "name": {
+        "local": "Babura",
+        "en": "Babura",
+        "slug": "babura-ng018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018002",
+        "level": 2,
+        "name": {
+          "local": "Babura",
+          "en": "Babura",
+          "slug": "babura-ng018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.613",
+      "lon": "8.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018002_dorawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dorawa",
+      "en": "Dorawa",
+      "slug": "dorawa"
+    },
+    "code": {
+      "id": "NG018002_dorawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018002",
+      "level": 2,
+      "name": {
+        "local": "Babura",
+        "en": "Babura",
+        "slug": "babura-ng018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018002",
+        "level": 2,
+        "name": {
+          "local": "Babura",
+          "en": "Babura",
+          "slug": "babura-ng018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.613",
+      "lon": "8.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018002_garu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garu",
+      "en": "Garu",
+      "slug": "garu"
+    },
+    "code": {
+      "id": "NG018002_garu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018002",
+      "level": 2,
+      "name": {
+        "local": "Babura",
+        "en": "Babura",
+        "slug": "babura-ng018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018002",
+        "level": 2,
+        "name": {
+          "local": "Babura",
+          "en": "Babura",
+          "slug": "babura-ng018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.613",
+      "lon": "8.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018002_gasakoli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gasakoli",
+      "en": "Gasakoli",
+      "slug": "gasakoli"
+    },
+    "code": {
+      "id": "NG018002_gasakoli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018002",
+      "level": 2,
+      "name": {
+        "local": "Babura",
+        "en": "Babura",
+        "slug": "babura-ng018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018002",
+        "level": 2,
+        "name": {
+          "local": "Babura",
+          "en": "Babura",
+          "slug": "babura-ng018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.613",
+      "lon": "8.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018002_insharuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Insharuwa",
+      "en": "Insharuwa",
+      "slug": "insharuwa"
+    },
+    "code": {
+      "id": "NG018002_insharuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018002",
+      "level": 2,
+      "name": {
+        "local": "Babura",
+        "en": "Babura",
+        "slug": "babura-ng018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018002",
+        "level": 2,
+        "name": {
+          "local": "Babura",
+          "en": "Babura",
+          "slug": "babura-ng018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.613",
+      "lon": "8.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018002_jigawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jigawa",
+      "en": "Jigawa",
+      "slug": "jigawa"
+    },
+    "code": {
+      "id": "NG018002_jigawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018002",
+      "level": 2,
+      "name": {
+        "local": "Babura",
+        "en": "Babura",
+        "slug": "babura-ng018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018002",
+        "level": 2,
+        "name": {
+          "local": "Babura",
+          "en": "Babura",
+          "slug": "babura-ng018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.613",
+      "lon": "8.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018002_kanya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanya",
+      "en": "Kanya",
+      "slug": "kanya"
+    },
+    "code": {
+      "id": "NG018002_kanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018002",
+      "level": 2,
+      "name": {
+        "local": "Babura",
+        "en": "Babura",
+        "slug": "babura-ng018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018002",
+        "level": 2,
+        "name": {
+          "local": "Babura",
+          "en": "Babura",
+          "slug": "babura-ng018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.613",
+      "lon": "8.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018002_kuzunzumi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuzunzumi",
+      "en": "Kuzunzumi",
+      "slug": "kuzunzumi"
+    },
+    "code": {
+      "id": "NG018002_kuzunzumi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018002",
+      "level": 2,
+      "name": {
+        "local": "Babura",
+        "en": "Babura",
+        "slug": "babura-ng018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018002",
+        "level": 2,
+        "name": {
+          "local": "Babura",
+          "en": "Babura",
+          "slug": "babura-ng018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.613",
+      "lon": "8.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018002_kyambo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kyambo",
+      "en": "Kyambo",
+      "slug": "kyambo"
+    },
+    "code": {
+      "id": "NG018002_kyambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018002",
+      "level": 2,
+      "name": {
+        "local": "Babura",
+        "en": "Babura",
+        "slug": "babura-ng018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018002",
+        "level": 2,
+        "name": {
+          "local": "Babura",
+          "en": "Babura",
+          "slug": "babura-ng018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.613",
+      "lon": "8.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018002_takwasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Takwasa",
+      "en": "Takwasa",
+      "slug": "takwasa"
+    },
+    "code": {
+      "id": "NG018002_takwasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018002",
+      "level": 2,
+      "name": {
+        "local": "Babura",
+        "en": "Babura",
+        "slug": "babura-ng018002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018002",
+        "level": 2,
+        "name": {
+          "local": "Babura",
+          "en": "Babura",
+          "slug": "babura-ng018002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.613",
+      "lon": "8.838"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "NG016",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Gombe",
+    "en": "Gombe",
+    "slug": "gombe-ng016"
+  },
+  "code": {
+    "id": "NG016",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 11,
+    "ward": 114
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.431",
+    "lon": "11.225"
+  },
+  "metadata": {},
+  "source": {}
+}

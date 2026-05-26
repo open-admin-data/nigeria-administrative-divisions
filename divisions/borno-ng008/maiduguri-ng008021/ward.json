@@ -1,0 +1,812 @@
+[
+  {
+    "id": "NG008021_bolori-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bolori I",
+      "en": "Bolori I",
+      "slug": "bolori-i"
+    },
+    "code": {
+      "id": "NG008021_bolori-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.88",
+      "lon": "13.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_bolori-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bolori Ii",
+      "en": "Bolori Ii",
+      "slug": "bolori-ii"
+    },
+    "code": {
+      "id": "NG008021_bolori-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.888",
+      "lon": "13.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_bulablin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bulablin",
+      "en": "Bulablin",
+      "slug": "bulablin"
+    },
+    "code": {
+      "id": "NG008021_bulablin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.836",
+      "lon": "13.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_fezzan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fezzan",
+      "en": "Fezzan",
+      "slug": "fezzan"
+    },
+    "code": {
+      "id": "NG008021_fezzan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.843",
+      "lon": "13.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_gamboru-liberty",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamboru Liberty",
+      "en": "Gamboru Liberty",
+      "slug": "gamboru-liberty"
+    },
+    "code": {
+      "id": "NG008021_gamboru-liberty",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.856",
+      "lon": "13.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_gwange-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwange I",
+      "en": "Gwange I",
+      "slug": "gwange-i"
+    },
+    "code": {
+      "id": "NG008021_gwange-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.844",
+      "lon": "13.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_gwange-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwange Ii",
+      "en": "Gwange Ii",
+      "slug": "gwange-ii"
+    },
+    "code": {
+      "id": "NG008021_gwange-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.83",
+      "lon": "13.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_gwange-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwange Iii",
+      "en": "Gwange Iii",
+      "slug": "gwange-iii"
+    },
+    "code": {
+      "id": "NG008021_gwange-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.82",
+      "lon": "13.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_hausarizango",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hausari/zango",
+      "en": "Hausari/zango",
+      "slug": "hausarizango"
+    },
+    "code": {
+      "id": "NG008021_hausarizango",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.839",
+      "lon": "13.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_lamisulajabba-mari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lamisula/jabba Mari",
+      "en": "Lamisula/jabba Mari",
+      "slug": "lamisulajabba-mari"
+    },
+    "code": {
+      "id": "NG008021_lamisulajabba-mari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.847",
+      "lon": "13.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_limanti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Limanti",
+      "en": "Limanti",
+      "slug": "limanti"
+    },
+    "code": {
+      "id": "NG008021_limanti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.847",
+      "lon": "13.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_mafoni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mafoni",
+      "en": "Mafoni",
+      "slug": "mafoni"
+    },
+    "code": {
+      "id": "NG008021_mafoni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.849",
+      "lon": "13.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_maisandari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maisandari",
+      "en": "Maisandari",
+      "slug": "maisandari"
+    },
+    "code": {
+      "id": "NG008021_maisandari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.792",
+      "lon": "13.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_shehuri-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shehuri North",
+      "en": "Shehuri North",
+      "slug": "shehuri-north"
+    },
+    "code": {
+      "id": "NG008021_shehuri-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.852",
+      "lon": "13.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008021_shehuri-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shehuri South",
+      "en": "Shehuri South",
+      "slug": "shehuri-south"
+    },
+    "code": {
+      "id": "NG008021_shehuri-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008021",
+      "level": 2,
+      "name": {
+        "local": "Maiduguri",
+        "en": "Maiduguri",
+        "slug": "maiduguri-ng008021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008021",
+        "level": 2,
+        "name": {
+          "local": "Maiduguri",
+          "en": "Maiduguri",
+          "slug": "maiduguri-ng008021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.844",
+      "lon": "13.158"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

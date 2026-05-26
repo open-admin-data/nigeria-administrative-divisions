@@ -1,0 +1,47 @@
+{
+  "id": "NG024006",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ilorin East",
+    "en": "Ilorin East",
+    "slug": "ilorin-east-ng024006"
+  },
+  "code": {
+    "id": "NG024006",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG024",
+    "level": 1,
+    "name": {
+      "local": "Kwara",
+      "en": "Kwara",
+      "slug": "kwara-ng024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG024",
+      "level": 1,
+      "name": {
+        "local": "Kwara",
+        "en": "Kwara",
+        "slug": "kwara-ng024"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.629",
+    "lon": "4.823"
+  },
+  "metadata": {},
+  "source": {}
+}

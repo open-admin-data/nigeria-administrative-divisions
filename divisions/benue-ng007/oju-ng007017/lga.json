@@ -1,0 +1,47 @@
+{
+  "id": "NG007017",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Oju",
+    "en": "Oju",
+    "slug": "oju-ng007017"
+  },
+  "code": {
+    "id": "NG007017",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG007",
+    "level": 1,
+    "name": {
+      "local": "Benue",
+      "en": "Benue",
+      "slug": "benue-ng007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG007",
+      "level": 1,
+      "name": {
+        "local": "Benue",
+        "en": "Benue",
+        "slug": "benue-ng007"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.87",
+    "lon": "8.364"
+  },
+  "metadata": {},
+  "source": {}
+}

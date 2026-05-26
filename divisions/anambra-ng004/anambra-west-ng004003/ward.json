@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG004003_ezi-anam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ezi-anam",
+      "en": "Ezi-anam",
+      "slug": "ezi-anam"
+    },
+    "code": {
+      "id": "NG004003_ezi-anam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004003",
+      "level": 2,
+      "name": {
+        "local": "Anambra West",
+        "en": "Anambra West",
+        "slug": "anambra-west-ng004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004003",
+        "level": 2,
+        "name": {
+          "local": "Anambra West",
+          "en": "Anambra West",
+          "slug": "anambra-west-ng004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.493",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004003_ifite-anam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ifite-anam",
+      "en": "Ifite-anam",
+      "slug": "ifite-anam"
+    },
+    "code": {
+      "id": "NG004003_ifite-anam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004003",
+      "level": 2,
+      "name": {
+        "local": "Anambra West",
+        "en": "Anambra West",
+        "slug": "anambra-west-ng004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004003",
+        "level": 2,
+        "name": {
+          "local": "Anambra West",
+          "en": "Anambra West",
+          "slug": "anambra-west-ng004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.493",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004003_nzam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nzam",
+      "en": "Nzam",
+      "slug": "nzam"
+    },
+    "code": {
+      "id": "NG004003_nzam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004003",
+      "level": 2,
+      "name": {
+        "local": "Anambra West",
+        "en": "Anambra West",
+        "slug": "anambra-west-ng004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004003",
+        "level": 2,
+        "name": {
+          "local": "Anambra West",
+          "en": "Anambra West",
+          "slug": "anambra-west-ng004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.493",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004003_olumbanasa---ode",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olumbanasa - Ode",
+      "en": "Olumbanasa - Ode",
+      "slug": "olumbanasa---ode"
+    },
+    "code": {
+      "id": "NG004003_olumbanasa---ode",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004003",
+      "level": 2,
+      "name": {
+        "local": "Anambra West",
+        "en": "Anambra West",
+        "slug": "anambra-west-ng004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004003",
+        "level": 2,
+        "name": {
+          "local": "Anambra West",
+          "en": "Anambra West",
+          "slug": "anambra-west-ng004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.493",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004003_olumbanasa-inoma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olumbanasa-inoma",
+      "en": "Olumbanasa-inoma",
+      "slug": "olumbanasa-inoma"
+    },
+    "code": {
+      "id": "NG004003_olumbanasa-inoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004003",
+      "level": 2,
+      "name": {
+        "local": "Anambra West",
+        "en": "Anambra West",
+        "slug": "anambra-west-ng004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004003",
+        "level": 2,
+        "name": {
+          "local": "Anambra West",
+          "en": "Anambra West",
+          "slug": "anambra-west-ng004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.493",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004003_oroma-etiti-anam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oroma Etiti-anam",
+      "en": "Oroma Etiti-anam",
+      "slug": "oroma-etiti-anam"
+    },
+    "code": {
+      "id": "NG004003_oroma-etiti-anam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004003",
+      "level": 2,
+      "name": {
+        "local": "Anambra West",
+        "en": "Anambra West",
+        "slug": "anambra-west-ng004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004003",
+        "level": 2,
+        "name": {
+          "local": "Anambra West",
+          "en": "Anambra West",
+          "slug": "anambra-west-ng004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.493",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004003_umuenwelum-anam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuenwelum-anam",
+      "en": "Umuenwelum-anam",
+      "slug": "umuenwelum-anam"
+    },
+    "code": {
+      "id": "NG004003_umuenwelum-anam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004003",
+      "level": 2,
+      "name": {
+        "local": "Anambra West",
+        "en": "Anambra West",
+        "slug": "anambra-west-ng004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004003",
+        "level": 2,
+        "name": {
+          "local": "Anambra West",
+          "en": "Anambra West",
+          "slug": "anambra-west-ng004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.493",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004003_umueze-anam-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umueze-anam I",
+      "en": "Umueze-anam I",
+      "slug": "umueze-anam-i"
+    },
+    "code": {
+      "id": "NG004003_umueze-anam-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004003",
+      "level": 2,
+      "name": {
+        "local": "Anambra West",
+        "en": "Anambra West",
+        "slug": "anambra-west-ng004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004003",
+        "level": 2,
+        "name": {
+          "local": "Anambra West",
+          "en": "Anambra West",
+          "slug": "anambra-west-ng004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.493",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004003_umueze-anam-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umueze-anam Ii",
+      "en": "Umueze-anam Ii",
+      "slug": "umueze-anam-ii"
+    },
+    "code": {
+      "id": "NG004003_umueze-anam-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004003",
+      "level": 2,
+      "name": {
+        "local": "Anambra West",
+        "en": "Anambra West",
+        "slug": "anambra-west-ng004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004003",
+        "level": 2,
+        "name": {
+          "local": "Anambra West",
+          "en": "Anambra West",
+          "slug": "anambra-west-ng004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.493",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004003_umuoba---anam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuoba - Anam",
+      "en": "Umuoba - Anam",
+      "slug": "umuoba---anam"
+    },
+    "code": {
+      "id": "NG004003_umuoba---anam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004003",
+      "level": 2,
+      "name": {
+        "local": "Anambra West",
+        "en": "Anambra West",
+        "slug": "anambra-west-ng004003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004003",
+        "level": 2,
+        "name": {
+          "local": "Anambra West",
+          "en": "Anambra West",
+          "slug": "anambra-west-ng004003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.493",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

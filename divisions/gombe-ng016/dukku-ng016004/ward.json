@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG016004_gombe-abba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gombe Abba",
+      "en": "Gombe Abba",
+      "slug": "gombe-abba"
+    },
+    "code": {
+      "id": "NG016004_gombe-abba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016004",
+      "level": 2,
+      "name": {
+        "local": "Dukku",
+        "en": "Dukku",
+        "slug": "dukku-ng016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016004",
+        "level": 2,
+        "name": {
+          "local": "Dukku",
+          "en": "Dukku",
+          "slug": "dukku-ng016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016004_hashidu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hashidu",
+      "en": "Hashidu",
+      "slug": "hashidu"
+    },
+    "code": {
+      "id": "NG016004_hashidu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016004",
+      "level": 2,
+      "name": {
+        "local": "Dukku",
+        "en": "Dukku",
+        "slug": "dukku-ng016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016004",
+        "level": 2,
+        "name": {
+          "local": "Dukku",
+          "en": "Dukku",
+          "slug": "dukku-ng016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016004_jamari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jamari",
+      "en": "Jamari",
+      "slug": "jamari"
+    },
+    "code": {
+      "id": "NG016004_jamari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016004",
+      "level": 2,
+      "name": {
+        "local": "Dukku",
+        "en": "Dukku",
+        "slug": "dukku-ng016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016004",
+        "level": 2,
+        "name": {
+          "local": "Dukku",
+          "en": "Dukku",
+          "slug": "dukku-ng016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016004_kunde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kunde",
+      "en": "Kunde",
+      "slug": "kunde"
+    },
+    "code": {
+      "id": "NG016004_kunde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016004",
+      "level": 2,
+      "name": {
+        "local": "Dukku",
+        "en": "Dukku",
+        "slug": "dukku-ng016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016004",
+        "level": 2,
+        "name": {
+          "local": "Dukku",
+          "en": "Dukku",
+          "slug": "dukku-ng016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016004_lafiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lafiya",
+      "en": "Lafiya",
+      "slug": "lafiya"
+    },
+    "code": {
+      "id": "NG016004_lafiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016004",
+      "level": 2,
+      "name": {
+        "local": "Dukku",
+        "en": "Dukku",
+        "slug": "dukku-ng016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016004",
+        "level": 2,
+        "name": {
+          "local": "Dukku",
+          "en": "Dukku",
+          "slug": "dukku-ng016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016004_malala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Malala",
+      "en": "Malala",
+      "slug": "malala"
+    },
+    "code": {
+      "id": "NG016004_malala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016004",
+      "level": 2,
+      "name": {
+        "local": "Dukku",
+        "en": "Dukku",
+        "slug": "dukku-ng016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016004",
+        "level": 2,
+        "name": {
+          "local": "Dukku",
+          "en": "Dukku",
+          "slug": "dukku-ng016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016004_waziri-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Waziri North",
+      "en": "Waziri North",
+      "slug": "waziri-north"
+    },
+    "code": {
+      "id": "NG016004_waziri-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016004",
+      "level": 2,
+      "name": {
+        "local": "Dukku",
+        "en": "Dukku",
+        "slug": "dukku-ng016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016004",
+        "level": 2,
+        "name": {
+          "local": "Dukku",
+          "en": "Dukku",
+          "slug": "dukku-ng016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016004_waziri-south-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Waziri South / Central",
+      "en": "Waziri South / Central",
+      "slug": "waziri-south-central"
+    },
+    "code": {
+      "id": "NG016004_waziri-south-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016004",
+      "level": 2,
+      "name": {
+        "local": "Dukku",
+        "en": "Dukku",
+        "slug": "dukku-ng016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016004",
+        "level": 2,
+        "name": {
+          "local": "Dukku",
+          "en": "Dukku",
+          "slug": "dukku-ng016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016004_wuro-tale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wuro Tale",
+      "en": "Wuro Tale",
+      "slug": "wuro-tale"
+    },
+    "code": {
+      "id": "NG016004_wuro-tale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016004",
+      "level": 2,
+      "name": {
+        "local": "Dukku",
+        "en": "Dukku",
+        "slug": "dukku-ng016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016004",
+        "level": 2,
+        "name": {
+          "local": "Dukku",
+          "en": "Dukku",
+          "slug": "dukku-ng016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016004_zange",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zange",
+      "en": "Zange",
+      "slug": "zange"
+    },
+    "code": {
+      "id": "NG016004_zange",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016004",
+      "level": 2,
+      "name": {
+        "local": "Dukku",
+        "en": "Dukku",
+        "slug": "dukku-ng016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016004",
+        "level": 2,
+        "name": {
+          "local": "Dukku",
+          "en": "Dukku",
+          "slug": "dukku-ng016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016004_zaune",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zaune",
+      "en": "Zaune",
+      "slug": "zaune"
+    },
+    "code": {
+      "id": "NG016004_zaune",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016004",
+      "level": 2,
+      "name": {
+        "local": "Dukku",
+        "en": "Dukku",
+        "slug": "dukku-ng016004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016004",
+        "level": 2,
+        "name": {
+          "local": "Dukku",
+          "en": "Dukku",
+          "slug": "dukku-ng016004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

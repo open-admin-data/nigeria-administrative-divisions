@@ -1,0 +1,1271 @@
+[
+  {
+    "id": "NG017001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Aboh-Mbaise",
+      "en": "Aboh-Mbaise",
+      "slug": "aboh-mbaise-ng017001"
+    },
+    "code": {
+      "id": "NG017001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.419",
+      "lon": "7.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ahiazu-Mbaise",
+      "en": "Ahiazu-Mbaise",
+      "slug": "ahiazu-mbaise-ng017002"
+    },
+    "code": {
+      "id": "NG017002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.563",
+      "lon": "7.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ehime-Mbano",
+      "en": "Ehime-Mbano",
+      "slug": "ehime-mbano-ng017003"
+    },
+    "code": {
+      "id": "NG017003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.688",
+      "lon": "7.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ezinihitte",
+      "en": "Ezinihitte",
+      "slug": "ezinihitte-ng017004"
+    },
+    "code": {
+      "id": "NG017004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.473",
+      "lon": "7.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ideato North",
+      "en": "Ideato North",
+      "slug": "ideato-north-ng017005"
+    },
+    "code": {
+      "id": "NG017005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.869",
+      "lon": "7.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ideato South",
+      "en": "Ideato South",
+      "slug": "ideato-south-ng017006"
+    },
+    "code": {
+      "id": "NG017006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.816",
+      "lon": "7.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ihitte/Uboma",
+      "en": "Ihitte/Uboma",
+      "slug": "ihitteuboma-ng017007"
+    },
+    "code": {
+      "id": "NG017007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.647",
+      "lon": "7.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ikeduru",
+      "en": "Ikeduru",
+      "slug": "ikeduru-ng017008"
+    },
+    "code": {
+      "id": "NG017008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.563",
+      "lon": "7.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Isiala Mbano",
+      "en": "Isiala Mbano",
+      "slug": "isiala-mbano-ng017009"
+    },
+    "code": {
+      "id": "NG017009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.681",
+      "lon": "7.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Isu",
+      "en": "Isu",
+      "slug": "isu-ng017010"
+    },
+    "code": {
+      "id": "NG017010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.688",
+      "lon": "7.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Mbaitoli",
+      "en": "Mbaitoli",
+      "slug": "mbaitoli-ng017011"
+    },
+    "code": {
+      "id": "NG017011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.598",
+      "lon": "7.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ngor-Okpala",
+      "en": "Ngor-Okpala",
+      "slug": "ngor-okpala-ng017012"
+    },
+    "code": {
+      "id": "NG017012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.327",
+      "lon": "7.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Njaba",
+      "en": "Njaba",
+      "slug": "njaba-ng017013"
+    },
+    "code": {
+      "id": "NG017013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "7.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nkwerre",
+      "en": "Nkwerre",
+      "slug": "nkwerre-ng017014"
+    },
+    "code": {
+      "id": "NG017014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "7.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nwangele",
+      "en": "Nwangele",
+      "slug": "nwangele-ng017015"
+    },
+    "code": {
+      "id": "NG017015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.709",
+      "lon": "7.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Obowo",
+      "en": "Obowo",
+      "slug": "obowo-ng017016"
+    },
+    "code": {
+      "id": "NG017016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.56",
+      "lon": "7.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Oguta",
+      "en": "Oguta",
+      "slug": "oguta-ng017017"
+    },
+    "code": {
+      "id": "NG017017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.655",
+      "lon": "6.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ohaji/Egbema",
+      "en": "Ohaji/Egbema",
+      "slug": "ohajiegbema-ng017018"
+    },
+    "code": {
+      "id": "NG017018",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Okigwe",
+      "en": "Okigwe",
+      "slug": "okigwe-ng017019"
+    },
+    "code": {
+      "id": "NG017019",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.821",
+      "lon": "7.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Orlu",
+      "en": "Orlu",
+      "slug": "orlu-ng017020"
+    },
+    "code": {
+      "id": "NG017020",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.819",
+      "lon": "7.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Orsu",
+      "en": "Orsu",
+      "slug": "orsu-ng017021"
+    },
+    "code": {
+      "id": "NG017021",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.846",
+      "lon": "6.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Oru East",
+      "en": "Oru East",
+      "slug": "oru-east-ng017022"
+    },
+    "code": {
+      "id": "NG017022",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.729",
+      "lon": "6.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Oru West",
+      "en": "Oru West",
+      "slug": "oru-west-ng017023"
+    },
+    "code": {
+      "id": "NG017023",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.759",
+      "lon": "6.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017024",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Owerri North",
+      "en": "Owerri North",
+      "slug": "owerri-north-ng017024"
+    },
+    "code": {
+      "id": "NG017024",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.432",
+      "lon": "7.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017025",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Owerri West",
+      "en": "Owerri West",
+      "slug": "owerri-west-ng017025"
+    },
+    "code": {
+      "id": "NG017025",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.407",
+      "lon": "6.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017026",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Owerri-Municipal",
+      "en": "Owerri-Municipal",
+      "slug": "owerri-municipal-ng017026"
+    },
+    "code": {
+      "id": "NG017026",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.48",
+      "lon": "7.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017027",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Unuimo",
+      "en": "Unuimo",
+      "slug": "unuimo-ng017027"
+    },
+    "code": {
+      "id": "NG017027",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017",
+      "level": 1,
+      "name": {
+        "local": "Imo",
+        "en": "Imo",
+        "slug": "imo-ng017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.797",
+      "lon": "7.225"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

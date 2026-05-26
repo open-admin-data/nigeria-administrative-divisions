@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG005003_b-o-i-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "B O I \"a\"",
+      "en": "B O I \"a\"",
+      "slug": "b-o-i-a"
+    },
+    "code": {
+      "id": "NG005003_b-o-i-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005003",
+      "level": 2,
+      "name": {
+        "local": "Bogoro",
+        "en": "Bogoro",
+        "slug": "bogoro-ng005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005003",
+        "level": 2,
+        "name": {
+          "local": "Bogoro",
+          "en": "Bogoro",
+          "slug": "bogoro-ng005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.625",
+      "lon": "9.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005003_b-o-i-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "B O I \"b\"",
+      "en": "B O I \"b\"",
+      "slug": "b-o-i-b"
+    },
+    "code": {
+      "id": "NG005003_b-o-i-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005003",
+      "level": 2,
+      "name": {
+        "local": "Bogoro",
+        "en": "Bogoro",
+        "slug": "bogoro-ng005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005003",
+        "level": 2,
+        "name": {
+          "local": "Bogoro",
+          "en": "Bogoro",
+          "slug": "bogoro-ng005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.625",
+      "lon": "9.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005003_b-o-i-c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "B O I \"c\"",
+      "en": "B O I \"c\"",
+      "slug": "b-o-i-c"
+    },
+    "code": {
+      "id": "NG005003_b-o-i-c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005003",
+      "level": 2,
+      "name": {
+        "local": "Bogoro",
+        "en": "Bogoro",
+        "slug": "bogoro-ng005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005003",
+        "level": 2,
+        "name": {
+          "local": "Bogoro",
+          "en": "Bogoro",
+          "slug": "bogoro-ng005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.625",
+      "lon": "9.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005003_bogoro-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bogoro \"a\"",
+      "en": "Bogoro \"a\"",
+      "slug": "bogoro-a"
+    },
+    "code": {
+      "id": "NG005003_bogoro-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005003",
+      "level": 2,
+      "name": {
+        "local": "Bogoro",
+        "en": "Bogoro",
+        "slug": "bogoro-ng005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005003",
+        "level": 2,
+        "name": {
+          "local": "Bogoro",
+          "en": "Bogoro",
+          "slug": "bogoro-ng005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.625",
+      "lon": "9.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005003_bogoro-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bogoro \"b\"",
+      "en": "Bogoro \"b\"",
+      "slug": "bogoro-b"
+    },
+    "code": {
+      "id": "NG005003_bogoro-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005003",
+      "level": 2,
+      "name": {
+        "local": "Bogoro",
+        "en": "Bogoro",
+        "slug": "bogoro-ng005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005003",
+        "level": 2,
+        "name": {
+          "local": "Bogoro",
+          "en": "Bogoro",
+          "slug": "bogoro-ng005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.625",
+      "lon": "9.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005003_bogoro-c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bogoro \"c\"",
+      "en": "Bogoro \"c\"",
+      "slug": "bogoro-c"
+    },
+    "code": {
+      "id": "NG005003_bogoro-c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005003",
+      "level": 2,
+      "name": {
+        "local": "Bogoro",
+        "en": "Bogoro",
+        "slug": "bogoro-ng005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005003",
+        "level": 2,
+        "name": {
+          "local": "Bogoro",
+          "en": "Bogoro",
+          "slug": "bogoro-ng005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.625",
+      "lon": "9.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005003_bogoro-d",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bogoro \"d\"",
+      "en": "Bogoro \"d\"",
+      "slug": "bogoro-d"
+    },
+    "code": {
+      "id": "NG005003_bogoro-d",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005003",
+      "level": 2,
+      "name": {
+        "local": "Bogoro",
+        "en": "Bogoro",
+        "slug": "bogoro-ng005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005003",
+        "level": 2,
+        "name": {
+          "local": "Bogoro",
+          "en": "Bogoro",
+          "slug": "bogoro-ng005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.625",
+      "lon": "9.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005003_lusa-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lusa \"a\"",
+      "en": "Lusa \"a\"",
+      "slug": "lusa-a"
+    },
+    "code": {
+      "id": "NG005003_lusa-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005003",
+      "level": 2,
+      "name": {
+        "local": "Bogoro",
+        "en": "Bogoro",
+        "slug": "bogoro-ng005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005003",
+        "level": 2,
+        "name": {
+          "local": "Bogoro",
+          "en": "Bogoro",
+          "slug": "bogoro-ng005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.625",
+      "lon": "9.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005003_lusa-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lusa \"b\"",
+      "en": "Lusa \"b\"",
+      "slug": "lusa-b"
+    },
+    "code": {
+      "id": "NG005003_lusa-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005003",
+      "level": 2,
+      "name": {
+        "local": "Bogoro",
+        "en": "Bogoro",
+        "slug": "bogoro-ng005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005003",
+        "level": 2,
+        "name": {
+          "local": "Bogoro",
+          "en": "Bogoro",
+          "slug": "bogoro-ng005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.625",
+      "lon": "9.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005003_lusa-c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lusa \"c\"",
+      "en": "Lusa \"c\"",
+      "slug": "lusa-c"
+    },
+    "code": {
+      "id": "NG005003_lusa-c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005003",
+      "level": 2,
+      "name": {
+        "local": "Bogoro",
+        "en": "Bogoro",
+        "slug": "bogoro-ng005003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005003",
+        "level": 2,
+        "name": {
+          "local": "Bogoro",
+          "en": "Bogoro",
+          "slug": "bogoro-ng005003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.625",
+      "lon": "9.628"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

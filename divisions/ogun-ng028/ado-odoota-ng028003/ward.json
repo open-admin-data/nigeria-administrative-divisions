@@ -1,0 +1,866 @@
+[
+  {
+    "id": "NG028003_ado-odo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ado Odo I",
+      "en": "Ado Odo I",
+      "slug": "ado-odo-i"
+    },
+    "code": {
+      "id": "NG028003_ado-odo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_ado-odo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ado Odo Ii",
+      "en": "Ado Odo Ii",
+      "slug": "ado-odo-ii"
+    },
+    "code": {
+      "id": "NG028003_ado-odo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_agbara-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbara I",
+      "en": "Agbara I",
+      "slug": "agbara-i"
+    },
+    "code": {
+      "id": "NG028003_agbara-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_agbaraejila-awori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbara/ejila Awori",
+      "en": "Agbara/ejila Awori",
+      "slug": "agbaraejila-awori"
+    },
+    "code": {
+      "id": "NG028003_agbaraejila-awori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_alapoti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alapoti",
+      "en": "Alapoti",
+      "slug": "alapoti"
+    },
+    "code": {
+      "id": "NG028003_alapoti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_atan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Atan",
+      "en": "Atan",
+      "slug": "atan"
+    },
+    "code": {
+      "id": "NG028003_atan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_ere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ere",
+      "en": "Ere",
+      "slug": "ere"
+    },
+    "code": {
+      "id": "NG028003_ere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_igbesa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igbesa",
+      "en": "Igbesa",
+      "slug": "igbesa"
+    },
+    "code": {
+      "id": "NG028003_igbesa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_ijoko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijoko",
+      "en": "Ijoko",
+      "slug": "ijoko"
+    },
+    "code": {
+      "id": "NG028003_ijoko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_iju",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iju",
+      "en": "Iju",
+      "slug": "iju"
+    },
+    "code": {
+      "id": "NG028003_iju",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_ilogbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilogbo",
+      "en": "Ilogbo",
+      "slug": "ilogbo"
+    },
+    "code": {
+      "id": "NG028003_ilogbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_ketu-adie-owe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ketu-adie-owe",
+      "en": "Ketu-adie-owe",
+      "slug": "ketu-adie-owe"
+    },
+    "code": {
+      "id": "NG028003_ketu-adie-owe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_ota-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ota I",
+      "en": "Ota I",
+      "slug": "ota-i"
+    },
+    "code": {
+      "id": "NG028003_ota-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_ota-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ota Ii",
+      "en": "Ota Ii",
+      "slug": "ota-ii"
+    },
+    "code": {
+      "id": "NG028003_ota-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_ota-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ota Iii",
+      "en": "Ota Iii",
+      "slug": "ota-iii"
+    },
+    "code": {
+      "id": "NG028003_ota-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003_sango",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sango",
+      "en": "Sango",
+      "slug": "sango"
+    },
+    "code": {
+      "id": "NG028003_sango",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028003",
+      "level": 2,
+      "name": {
+        "local": "Ado-Odo/Ota",
+        "en": "Ado-Odo/Ota",
+        "slug": "ado-odoota-ng028003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028003",
+        "level": 2,
+        "name": {
+          "local": "Ado-Odo/Ota",
+          "en": "Ado-Odo/Ota",
+          "slug": "ado-odoota-ng028003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

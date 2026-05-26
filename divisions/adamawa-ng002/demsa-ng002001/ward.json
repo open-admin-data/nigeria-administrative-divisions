@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG002001_bille",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bille",
+      "en": "Bille",
+      "slug": "bille"
+    },
+    "code": {
+      "id": "NG002001_bille",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002001",
+      "level": 2,
+      "name": {
+        "local": "Demsa",
+        "en": "Demsa",
+        "slug": "demsa-ng002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002001",
+        "level": 2,
+        "name": {
+          "local": "Demsa",
+          "en": "Demsa",
+          "slug": "demsa-ng002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.263",
+      "lon": "11.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002001_borrong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Borrong",
+      "en": "Borrong",
+      "slug": "borrong"
+    },
+    "code": {
+      "id": "NG002001_borrong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002001",
+      "level": 2,
+      "name": {
+        "local": "Demsa",
+        "en": "Demsa",
+        "slug": "demsa-ng002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002001",
+        "level": 2,
+        "name": {
+          "local": "Demsa",
+          "en": "Demsa",
+          "slug": "demsa-ng002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.538",
+      "lon": "12.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002001_demsa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Demsa",
+      "en": "Demsa",
+      "slug": "demsa"
+    },
+    "code": {
+      "id": "NG002001_demsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002001",
+      "level": 2,
+      "name": {
+        "local": "Demsa",
+        "en": "Demsa",
+        "slug": "demsa-ng002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002001",
+        "level": 2,
+        "name": {
+          "local": "Demsa",
+          "en": "Demsa",
+          "slug": "demsa-ng002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.41",
+      "lon": "12.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002001_dilli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dilli",
+      "en": "Dilli",
+      "slug": "dilli"
+    },
+    "code": {
+      "id": "NG002001_dilli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002001",
+      "level": 2,
+      "name": {
+        "local": "Demsa",
+        "en": "Demsa",
+        "slug": "demsa-ng002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002001",
+        "level": 2,
+        "name": {
+          "local": "Demsa",
+          "en": "Demsa",
+          "slug": "demsa-ng002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.552",
+      "lon": "12.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002001_dong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dong",
+      "en": "Dong",
+      "slug": "dong"
+    },
+    "code": {
+      "id": "NG002001_dong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002001",
+      "level": 2,
+      "name": {
+        "local": "Demsa",
+        "en": "Demsa",
+        "slug": "demsa-ng002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002001",
+        "level": 2,
+        "name": {
+          "local": "Demsa",
+          "en": "Demsa",
+          "slug": "demsa-ng002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.376",
+      "lon": "11.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002001_dwam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dwam",
+      "en": "Dwam",
+      "slug": "dwam"
+    },
+    "code": {
+      "id": "NG002001_dwam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002001",
+      "level": 2,
+      "name": {
+        "local": "Demsa",
+        "en": "Demsa",
+        "slug": "demsa-ng002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002001",
+        "level": 2,
+        "name": {
+          "local": "Demsa",
+          "en": "Demsa",
+          "slug": "demsa-ng002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.382",
+      "lon": "12.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002001_gwamba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwamba",
+      "en": "Gwamba",
+      "slug": "gwamba"
+    },
+    "code": {
+      "id": "NG002001_gwamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002001",
+      "level": 2,
+      "name": {
+        "local": "Demsa",
+        "en": "Demsa",
+        "slug": "demsa-ng002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002001",
+        "level": 2,
+        "name": {
+          "local": "Demsa",
+          "en": "Demsa",
+          "slug": "demsa-ng002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.608",
+      "lon": "12.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002001_kpasham",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kpasham",
+      "en": "Kpasham",
+      "slug": "kpasham"
+    },
+    "code": {
+      "id": "NG002001_kpasham",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002001",
+      "level": 2,
+      "name": {
+        "local": "Demsa",
+        "en": "Demsa",
+        "slug": "demsa-ng002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002001",
+        "level": 2,
+        "name": {
+          "local": "Demsa",
+          "en": "Demsa",
+          "slug": "demsa-ng002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.285",
+      "lon": "11.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002001_mbula-kuli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbula Kuli",
+      "en": "Mbula Kuli",
+      "slug": "mbula-kuli"
+    },
+    "code": {
+      "id": "NG002001_mbula-kuli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002001",
+      "level": 2,
+      "name": {
+        "local": "Demsa",
+        "en": "Demsa",
+        "slug": "demsa-ng002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002001",
+        "level": 2,
+        "name": {
+          "local": "Demsa",
+          "en": "Demsa",
+          "slug": "demsa-ng002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.484",
+      "lon": "12.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002001_nassarawo-demsa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nassarawo Demsa",
+      "en": "Nassarawo Demsa",
+      "slug": "nassarawo-demsa"
+    },
+    "code": {
+      "id": "NG002001_nassarawo-demsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002001",
+      "level": 2,
+      "name": {
+        "local": "Demsa",
+        "en": "Demsa",
+        "slug": "demsa-ng002001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002001",
+        "level": 2,
+        "name": {
+          "local": "Demsa",
+          "en": "Demsa",
+          "slug": "demsa-ng002001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.352",
+      "lon": "12.003"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG001005_ariam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ariam",
+      "en": "Ariam",
+      "slug": "ariam"
+    },
+    "code": {
+      "id": "NG001005_ariam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001005",
+      "level": 2,
+      "name": {
+        "local": "Ikwuano",
+        "en": "Ikwuano",
+        "slug": "ikwuano-ng001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001005",
+        "level": 2,
+        "name": {
+          "local": "Ikwuano",
+          "en": "Ikwuano",
+          "slug": "ikwuano-ng001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.409",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001005_ibere-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibere I",
+      "en": "Ibere I",
+      "slug": "ibere-i"
+    },
+    "code": {
+      "id": "NG001005_ibere-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001005",
+      "level": 2,
+      "name": {
+        "local": "Ikwuano",
+        "en": "Ikwuano",
+        "slug": "ikwuano-ng001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001005",
+        "level": 2,
+        "name": {
+          "local": "Ikwuano",
+          "en": "Ikwuano",
+          "slug": "ikwuano-ng001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.409",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001005_ibere-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibere Ii",
+      "en": "Ibere Ii",
+      "slug": "ibere-ii"
+    },
+    "code": {
+      "id": "NG001005_ibere-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001005",
+      "level": 2,
+      "name": {
+        "local": "Ikwuano",
+        "en": "Ikwuano",
+        "slug": "ikwuano-ng001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001005",
+        "level": 2,
+        "name": {
+          "local": "Ikwuano",
+          "en": "Ikwuano",
+          "slug": "ikwuano-ng001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.409",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001005_oboro-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oboro I",
+      "en": "Oboro I",
+      "slug": "oboro-i"
+    },
+    "code": {
+      "id": "NG001005_oboro-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001005",
+      "level": 2,
+      "name": {
+        "local": "Ikwuano",
+        "en": "Ikwuano",
+        "slug": "ikwuano-ng001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001005",
+        "level": 2,
+        "name": {
+          "local": "Ikwuano",
+          "en": "Ikwuano",
+          "slug": "ikwuano-ng001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.409",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001005_oboro-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oboro Ii",
+      "en": "Oboro Ii",
+      "slug": "oboro-ii"
+    },
+    "code": {
+      "id": "NG001005_oboro-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001005",
+      "level": 2,
+      "name": {
+        "local": "Ikwuano",
+        "en": "Ikwuano",
+        "slug": "ikwuano-ng001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001005",
+        "level": 2,
+        "name": {
+          "local": "Ikwuano",
+          "en": "Ikwuano",
+          "slug": "ikwuano-ng001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.409",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001005_oboro-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oboro Iii",
+      "en": "Oboro Iii",
+      "slug": "oboro-iii"
+    },
+    "code": {
+      "id": "NG001005_oboro-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001005",
+      "level": 2,
+      "name": {
+        "local": "Ikwuano",
+        "en": "Ikwuano",
+        "slug": "ikwuano-ng001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001005",
+        "level": 2,
+        "name": {
+          "local": "Ikwuano",
+          "en": "Ikwuano",
+          "slug": "ikwuano-ng001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.409",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001005_oboro-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oboro Iv",
+      "en": "Oboro Iv",
+      "slug": "oboro-iv"
+    },
+    "code": {
+      "id": "NG001005_oboro-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001005",
+      "level": 2,
+      "name": {
+        "local": "Ikwuano",
+        "en": "Ikwuano",
+        "slug": "ikwuano-ng001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001005",
+        "level": 2,
+        "name": {
+          "local": "Ikwuano",
+          "en": "Ikwuano",
+          "slug": "ikwuano-ng001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.409",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001005_oloko-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oloko I",
+      "en": "Oloko I",
+      "slug": "oloko-i"
+    },
+    "code": {
+      "id": "NG001005_oloko-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001005",
+      "level": 2,
+      "name": {
+        "local": "Ikwuano",
+        "en": "Ikwuano",
+        "slug": "ikwuano-ng001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001005",
+        "level": 2,
+        "name": {
+          "local": "Ikwuano",
+          "en": "Ikwuano",
+          "slug": "ikwuano-ng001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.409",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001005_oloko-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oloko Ii",
+      "en": "Oloko Ii",
+      "slug": "oloko-ii"
+    },
+    "code": {
+      "id": "NG001005_oloko-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001005",
+      "level": 2,
+      "name": {
+        "local": "Ikwuano",
+        "en": "Ikwuano",
+        "slug": "ikwuano-ng001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001005",
+        "level": 2,
+        "name": {
+          "local": "Ikwuano",
+          "en": "Ikwuano",
+          "slug": "ikwuano-ng001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.409",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001005_usaka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Usaka",
+      "en": "Usaka",
+      "slug": "usaka"
+    },
+    "code": {
+      "id": "NG001005_usaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001005",
+      "level": 2,
+      "name": {
+        "local": "Ikwuano",
+        "en": "Ikwuano",
+        "slug": "ikwuano-ng001005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001005",
+        "level": 2,
+        "name": {
+          "local": "Ikwuano",
+          "en": "Ikwuano",
+          "slug": "ikwuano-ng001005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.409",
+      "lon": "7.573"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

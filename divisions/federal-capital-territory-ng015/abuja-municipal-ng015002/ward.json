@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG015002_city-centre",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "City Centre",
+      "en": "City Centre",
+      "slug": "city-centre"
+    },
+    "code": {
+      "id": "NG015002_city-centre",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015002",
+      "level": 2,
+      "name": {
+        "local": "Abuja Municipal",
+        "en": "Abuja Municipal",
+        "slug": "abuja-municipal-ng015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015002",
+        "level": 2,
+        "name": {
+          "local": "Abuja Municipal",
+          "en": "Abuja Municipal",
+          "slug": "abuja-municipal-ng015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015002_garki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garki",
+      "en": "Garki",
+      "slug": "garki"
+    },
+    "code": {
+      "id": "NG015002_garki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015002",
+      "level": 2,
+      "name": {
+        "local": "Abuja Municipal",
+        "en": "Abuja Municipal",
+        "slug": "abuja-municipal-ng015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015002",
+        "level": 2,
+        "name": {
+          "local": "Abuja Municipal",
+          "en": "Abuja Municipal",
+          "slug": "abuja-municipal-ng015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015002_gui",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gui",
+      "en": "Gui",
+      "slug": "gui"
+    },
+    "code": {
+      "id": "NG015002_gui",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015002",
+      "level": 2,
+      "name": {
+        "local": "Abuja Municipal",
+        "en": "Abuja Municipal",
+        "slug": "abuja-municipal-ng015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015002",
+        "level": 2,
+        "name": {
+          "local": "Abuja Municipal",
+          "en": "Abuja Municipal",
+          "slug": "abuja-municipal-ng015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015002_gwagwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwagwa",
+      "en": "Gwagwa",
+      "slug": "gwagwa"
+    },
+    "code": {
+      "id": "NG015002_gwagwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015002",
+      "level": 2,
+      "name": {
+        "local": "Abuja Municipal",
+        "en": "Abuja Municipal",
+        "slug": "abuja-municipal-ng015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015002",
+        "level": 2,
+        "name": {
+          "local": "Abuja Municipal",
+          "en": "Abuja Municipal",
+          "slug": "abuja-municipal-ng015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015002_gwarinpa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwarinpa",
+      "en": "Gwarinpa",
+      "slug": "gwarinpa"
+    },
+    "code": {
+      "id": "NG015002_gwarinpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015002",
+      "level": 2,
+      "name": {
+        "local": "Abuja Municipal",
+        "en": "Abuja Municipal",
+        "slug": "abuja-municipal-ng015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015002",
+        "level": 2,
+        "name": {
+          "local": "Abuja Municipal",
+          "en": "Abuja Municipal",
+          "slug": "abuja-municipal-ng015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015002_jiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jiwa",
+      "en": "Jiwa",
+      "slug": "jiwa"
+    },
+    "code": {
+      "id": "NG015002_jiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015002",
+      "level": 2,
+      "name": {
+        "local": "Abuja Municipal",
+        "en": "Abuja Municipal",
+        "slug": "abuja-municipal-ng015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015002",
+        "level": 2,
+        "name": {
+          "local": "Abuja Municipal",
+          "en": "Abuja Municipal",
+          "slug": "abuja-municipal-ng015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015002_kabusa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kabusa",
+      "en": "Kabusa",
+      "slug": "kabusa"
+    },
+    "code": {
+      "id": "NG015002_kabusa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015002",
+      "level": 2,
+      "name": {
+        "local": "Abuja Municipal",
+        "en": "Abuja Municipal",
+        "slug": "abuja-municipal-ng015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015002",
+        "level": 2,
+        "name": {
+          "local": "Abuja Municipal",
+          "en": "Abuja Municipal",
+          "slug": "abuja-municipal-ng015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015002_karshi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karshi",
+      "en": "Karshi",
+      "slug": "karshi"
+    },
+    "code": {
+      "id": "NG015002_karshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015002",
+      "level": 2,
+      "name": {
+        "local": "Abuja Municipal",
+        "en": "Abuja Municipal",
+        "slug": "abuja-municipal-ng015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015002",
+        "level": 2,
+        "name": {
+          "local": "Abuja Municipal",
+          "en": "Abuja Municipal",
+          "slug": "abuja-municipal-ng015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015002_karu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karu",
+      "en": "Karu",
+      "slug": "karu"
+    },
+    "code": {
+      "id": "NG015002_karu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015002",
+      "level": 2,
+      "name": {
+        "local": "Abuja Municipal",
+        "en": "Abuja Municipal",
+        "slug": "abuja-municipal-ng015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015002",
+        "level": 2,
+        "name": {
+          "local": "Abuja Municipal",
+          "en": "Abuja Municipal",
+          "slug": "abuja-municipal-ng015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015002_nyanya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nyanya",
+      "en": "Nyanya",
+      "slug": "nyanya"
+    },
+    "code": {
+      "id": "NG015002_nyanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015002",
+      "level": 2,
+      "name": {
+        "local": "Abuja Municipal",
+        "en": "Abuja Municipal",
+        "slug": "abuja-municipal-ng015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015002",
+        "level": 2,
+        "name": {
+          "local": "Abuja Municipal",
+          "en": "Abuja Municipal",
+          "slug": "abuja-municipal-ng015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015002_orozo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orozo",
+      "en": "Orozo",
+      "slug": "orozo"
+    },
+    "code": {
+      "id": "NG015002_orozo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015002",
+      "level": 2,
+      "name": {
+        "local": "Abuja Municipal",
+        "en": "Abuja Municipal",
+        "slug": "abuja-municipal-ng015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015002",
+        "level": 2,
+        "name": {
+          "local": "Abuja Municipal",
+          "en": "Abuja Municipal",
+          "slug": "abuja-municipal-ng015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015002_wuse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wuse",
+      "en": "Wuse",
+      "slug": "wuse"
+    },
+    "code": {
+      "id": "NG015002_wuse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015002",
+      "level": 2,
+      "name": {
+        "local": "Abuja Municipal",
+        "en": "Abuja Municipal",
+        "slug": "abuja-municipal-ng015002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015002",
+        "level": 2,
+        "name": {
+          "local": "Abuja Municipal",
+          "en": "Abuja Municipal",
+          "slug": "abuja-municipal-ng015002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.882",
+      "lon": "7.418"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

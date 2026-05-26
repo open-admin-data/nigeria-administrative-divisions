@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG021033_daneji-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daneji 'a'",
+      "en": "Daneji 'a'",
+      "slug": "daneji-a"
+    },
+    "code": {
+      "id": "NG021033_daneji-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021033",
+      "level": 2,
+      "name": {
+        "local": "Sandamu",
+        "en": "Sandamu",
+        "slug": "sandamu-ng021033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021033",
+        "level": 2,
+        "name": {
+          "local": "Sandamu",
+          "en": "Sandamu",
+          "slug": "sandamu-ng021033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.92",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021033_daneji-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daneji 'b'",
+      "en": "Daneji 'b'",
+      "slug": "daneji-b"
+    },
+    "code": {
+      "id": "NG021033_daneji-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021033",
+      "level": 2,
+      "name": {
+        "local": "Sandamu",
+        "en": "Sandamu",
+        "slug": "sandamu-ng021033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021033",
+        "level": 2,
+        "name": {
+          "local": "Sandamu",
+          "en": "Sandamu",
+          "slug": "sandamu-ng021033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.92",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021033_fago-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fago 'a'",
+      "en": "Fago 'a'",
+      "slug": "fago-a"
+    },
+    "code": {
+      "id": "NG021033_fago-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021033",
+      "level": 2,
+      "name": {
+        "local": "Sandamu",
+        "en": "Sandamu",
+        "slug": "sandamu-ng021033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021033",
+        "level": 2,
+        "name": {
+          "local": "Sandamu",
+          "en": "Sandamu",
+          "slug": "sandamu-ng021033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.92",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021033_fago-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fago 'b'",
+      "en": "Fago 'b'",
+      "slug": "fago-b"
+    },
+    "code": {
+      "id": "NG021033_fago-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021033",
+      "level": 2,
+      "name": {
+        "local": "Sandamu",
+        "en": "Sandamu",
+        "slug": "sandamu-ng021033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021033",
+        "level": 2,
+        "name": {
+          "local": "Sandamu",
+          "en": "Sandamu",
+          "slug": "sandamu-ng021033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.92",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021033_kagare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kagare",
+      "en": "Kagare",
+      "slug": "kagare"
+    },
+    "code": {
+      "id": "NG021033_kagare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021033",
+      "level": 2,
+      "name": {
+        "local": "Sandamu",
+        "en": "Sandamu",
+        "slug": "sandamu-ng021033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021033",
+        "level": 2,
+        "name": {
+          "local": "Sandamu",
+          "en": "Sandamu",
+          "slug": "sandamu-ng021033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.92",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021033_karkarku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karkarku",
+      "en": "Karkarku",
+      "slug": "karkarku"
+    },
+    "code": {
+      "id": "NG021033_karkarku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021033",
+      "level": 2,
+      "name": {
+        "local": "Sandamu",
+        "en": "Sandamu",
+        "slug": "sandamu-ng021033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021033",
+        "level": 2,
+        "name": {
+          "local": "Sandamu",
+          "en": "Sandamu",
+          "slug": "sandamu-ng021033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.92",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021033_katsayal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Katsayal",
+      "en": "Katsayal",
+      "slug": "katsayal"
+    },
+    "code": {
+      "id": "NG021033_katsayal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021033",
+      "level": 2,
+      "name": {
+        "local": "Sandamu",
+        "en": "Sandamu",
+        "slug": "sandamu-ng021033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021033",
+        "level": 2,
+        "name": {
+          "local": "Sandamu",
+          "en": "Sandamu",
+          "slug": "sandamu-ng021033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.92",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021033_kwasarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwasarawa",
+      "en": "Kwasarawa",
+      "slug": "kwasarawa"
+    },
+    "code": {
+      "id": "NG021033_kwasarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021033",
+      "level": 2,
+      "name": {
+        "local": "Sandamu",
+        "en": "Sandamu",
+        "slug": "sandamu-ng021033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021033",
+        "level": 2,
+        "name": {
+          "local": "Sandamu",
+          "en": "Sandamu",
+          "slug": "sandamu-ng021033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.92",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021033_rade-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rade 'a'",
+      "en": "Rade 'a'",
+      "slug": "rade-a"
+    },
+    "code": {
+      "id": "NG021033_rade-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021033",
+      "level": 2,
+      "name": {
+        "local": "Sandamu",
+        "en": "Sandamu",
+        "slug": "sandamu-ng021033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021033",
+        "level": 2,
+        "name": {
+          "local": "Sandamu",
+          "en": "Sandamu",
+          "slug": "sandamu-ng021033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.92",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021033_rade-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rade 'b'",
+      "en": "Rade 'b'",
+      "slug": "rade-b"
+    },
+    "code": {
+      "id": "NG021033_rade-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021033",
+      "level": 2,
+      "name": {
+        "local": "Sandamu",
+        "en": "Sandamu",
+        "slug": "sandamu-ng021033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021033",
+        "level": 2,
+        "name": {
+          "local": "Sandamu",
+          "en": "Sandamu",
+          "slug": "sandamu-ng021033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.92",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021033_sandamu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sandamu",
+      "en": "Sandamu",
+      "slug": "sandamu"
+    },
+    "code": {
+      "id": "NG021033_sandamu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021033",
+      "level": 2,
+      "name": {
+        "local": "Sandamu",
+        "en": "Sandamu",
+        "slug": "sandamu-ng021033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021033",
+        "level": 2,
+        "name": {
+          "local": "Sandamu",
+          "en": "Sandamu",
+          "slug": "sandamu-ng021033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.92",
+      "lon": "8.382"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

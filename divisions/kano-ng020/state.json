@@ -1,0 +1,30 @@
+{
+  "id": "NG020",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Kano",
+    "en": "Kano",
+    "slug": "kano-ng020"
+  },
+  "code": {
+    "id": "NG020",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 44,
+    "ward": 473
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.573",
+    "lon": "8.543"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG036006_asheikri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asheikri",
+      "en": "Asheikri",
+      "slug": "asheikri"
+    },
+    "code": {
+      "id": "NG036006_asheikri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036006",
+      "level": 2,
+      "name": {
+        "local": "Geidam",
+        "en": "Geidam",
+        "slug": "geidam-ng036006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036006",
+        "level": 2,
+        "name": {
+          "local": "Geidam",
+          "en": "Geidam",
+          "slug": "geidam-ng036006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.922",
+      "lon": "11.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036006_ballegallabameleri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Balle/gallaba/meleri",
+      "en": "Balle/gallaba/meleri",
+      "slug": "ballegallabameleri"
+    },
+    "code": {
+      "id": "NG036006_ballegallabameleri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036006",
+      "level": 2,
+      "name": {
+        "local": "Geidam",
+        "en": "Geidam",
+        "slug": "geidam-ng036006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036006",
+        "level": 2,
+        "name": {
+          "local": "Geidam",
+          "en": "Geidam",
+          "slug": "geidam-ng036006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.825",
+      "lon": "11.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036006_damakarwakusur",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damakarwa/kusur",
+      "en": "Damakarwa/kusur",
+      "slug": "damakarwakusur"
+    },
+    "code": {
+      "id": "NG036006_damakarwakusur",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036006",
+      "level": 2,
+      "name": {
+        "local": "Geidam",
+        "en": "Geidam",
+        "slug": "geidam-ng036006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036006",
+        "level": 2,
+        "name": {
+          "local": "Geidam",
+          "en": "Geidam",
+          "slug": "geidam-ng036006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.606",
+      "lon": "12.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036006_dejinafukurti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dejina/fukurti",
+      "en": "Dejina/fukurti",
+      "slug": "dejinafukurti"
+    },
+    "code": {
+      "id": "NG036006_dejinafukurti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036006",
+      "level": 2,
+      "name": {
+        "local": "Geidam",
+        "en": "Geidam",
+        "slug": "geidam-ng036006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036006",
+        "level": 2,
+        "name": {
+          "local": "Geidam",
+          "en": "Geidam",
+          "slug": "geidam-ng036006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.892",
+      "lon": "12.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036006_futchimiram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Futchimiram",
+      "en": "Futchimiram",
+      "slug": "futchimiram"
+    },
+    "code": {
+      "id": "NG036006_futchimiram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036006",
+      "level": 2,
+      "name": {
+        "local": "Geidam",
+        "en": "Geidam",
+        "slug": "geidam-ng036006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036006",
+        "level": 2,
+        "name": {
+          "local": "Geidam",
+          "en": "Geidam",
+          "slug": "geidam-ng036006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.733",
+      "lon": "12.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036006_gumsa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gumsa",
+      "en": "Gumsa",
+      "slug": "gumsa"
+    },
+    "code": {
+      "id": "NG036006_gumsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036006",
+      "level": 2,
+      "name": {
+        "local": "Geidam",
+        "en": "Geidam",
+        "slug": "geidam-ng036006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036006",
+        "level": 2,
+        "name": {
+          "local": "Geidam",
+          "en": "Geidam",
+          "slug": "geidam-ng036006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.567",
+      "lon": "11.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036006_hausari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hausari",
+      "en": "Hausari",
+      "slug": "hausari"
+    },
+    "code": {
+      "id": "NG036006_hausari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036006",
+      "level": 2,
+      "name": {
+        "local": "Geidam",
+        "en": "Geidam",
+        "slug": "geidam-ng036006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036006",
+        "level": 2,
+        "name": {
+          "local": "Geidam",
+          "en": "Geidam",
+          "slug": "geidam-ng036006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.881",
+      "lon": "11.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036006_kawuri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kawuri",
+      "en": "Kawuri",
+      "slug": "kawuri"
+    },
+    "code": {
+      "id": "NG036006_kawuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036006",
+      "level": 2,
+      "name": {
+        "local": "Geidam",
+        "en": "Geidam",
+        "slug": "geidam-ng036006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036006",
+        "level": 2,
+        "name": {
+          "local": "Geidam",
+          "en": "Geidam",
+          "slug": "geidam-ng036006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.695",
+      "lon": "12.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036006_maannadagambi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ma'anna/dagambi",
+      "en": "Ma'anna/dagambi",
+      "slug": "maannadagambi"
+    },
+    "code": {
+      "id": "NG036006_maannadagambi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036006",
+      "level": 2,
+      "name": {
+        "local": "Geidam",
+        "en": "Geidam",
+        "slug": "geidam-ng036006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036006",
+        "level": 2,
+        "name": {
+          "local": "Geidam",
+          "en": "Geidam",
+          "slug": "geidam-ng036006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.738",
+      "lon": "11.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036006_shame-kura-dilawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shame Kura / Dilawa",
+      "en": "Shame Kura / Dilawa",
+      "slug": "shame-kura-dilawa"
+    },
+    "code": {
+      "id": "NG036006_shame-kura-dilawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036006",
+      "level": 2,
+      "name": {
+        "local": "Geidam",
+        "en": "Geidam",
+        "slug": "geidam-ng036006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036006",
+        "level": 2,
+        "name": {
+          "local": "Geidam",
+          "en": "Geidam",
+          "slug": "geidam-ng036006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.695",
+      "lon": "12.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036006_zurgu-ngilewa-borko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zurgu Ngilewa / Borko",
+      "en": "Zurgu Ngilewa / Borko",
+      "slug": "zurgu-ngilewa-borko"
+    },
+    "code": {
+      "id": "NG036006_zurgu-ngilewa-borko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036006",
+      "level": 2,
+      "name": {
+        "local": "Geidam",
+        "en": "Geidam",
+        "slug": "geidam-ng036006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036006",
+        "level": 2,
+        "name": {
+          "local": "Geidam",
+          "en": "Geidam",
+          "slug": "geidam-ng036006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.628",
+      "lon": "12.301"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

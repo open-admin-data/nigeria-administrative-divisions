@@ -1,0 +1,519 @@
+[
+  {
+    "id": "NG016001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Akko",
+      "en": "Akko",
+      "slug": "akko-ng016001"
+    },
+    "code": {
+      "id": "NG016001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016",
+      "level": 1,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.105",
+      "lon": "10.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Balanga",
+      "en": "Balanga",
+      "slug": "balanga-ng016002"
+    },
+    "code": {
+      "id": "NG016002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016",
+      "level": 1,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.816",
+      "lon": "11.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Billiri",
+      "en": "Billiri",
+      "slug": "billiri-ng016003"
+    },
+    "code": {
+      "id": "NG016003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016",
+      "level": 1,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "11.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dukku",
+      "en": "Dukku",
+      "slug": "dukku-ng016004"
+    },
+    "code": {
+      "id": "NG016004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016",
+      "level": 1,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.787",
+      "lon": "10.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Funakaye",
+      "en": "Funakaye",
+      "slug": "funakaye-ng016005"
+    },
+    "code": {
+      "id": "NG016005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016",
+      "level": 1,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.814",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gombe",
+      "en": "Gombe",
+      "slug": "gombe-ng016006"
+    },
+    "code": {
+      "id": "NG016006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016",
+      "level": 1,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.295",
+      "lon": "11.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kaltungo",
+      "en": "Kaltungo",
+      "slug": "kaltungo-ng016007"
+    },
+    "code": {
+      "id": "NG016007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016",
+      "level": 1,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.841",
+      "lon": "11.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kwami",
+      "en": "Kwami",
+      "slug": "kwami-ng016008"
+    },
+    "code": {
+      "id": "NG016008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016",
+      "level": 1,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.495",
+      "lon": "11.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nafada",
+      "en": "Nafada",
+      "slug": "nafada-ng016009"
+    },
+    "code": {
+      "id": "NG016009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016",
+      "level": 1,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.051",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Shomgom",
+      "en": "Shomgom",
+      "slug": "shomgom-ng016010"
+    },
+    "code": {
+      "id": "NG016010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016",
+      "level": 1,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.75",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Yamaltu/Deba",
+      "en": "Yamaltu/Deba",
+      "slug": "yamaltudeba-ng016011"
+    },
+    "code": {
+      "id": "NG016011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016",
+      "level": 1,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.315",
+      "lon": "11.372"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

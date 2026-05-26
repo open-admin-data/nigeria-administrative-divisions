@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG019009_badarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Badarawa",
+      "en": "Badarawa",
+      "slug": "badarawa"
+    },
+    "code": {
+      "id": "NG019009_badarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019009",
+      "level": 2,
+      "name": {
+        "local": "Kaduna North",
+        "en": "Kaduna North",
+        "slug": "kaduna-north-ng019009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019009",
+        "level": 2,
+        "name": {
+          "local": "Kaduna North",
+          "en": "Kaduna North",
+          "slug": "kaduna-north-ng019009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019009_gabasawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gabasawa",
+      "en": "Gabasawa",
+      "slug": "gabasawa"
+    },
+    "code": {
+      "id": "NG019009_gabasawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019009",
+      "level": 2,
+      "name": {
+        "local": "Kaduna North",
+        "en": "Kaduna North",
+        "slug": "kaduna-north-ng019009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019009",
+        "level": 2,
+        "name": {
+          "local": "Kaduna North",
+          "en": "Kaduna North",
+          "slug": "kaduna-north-ng019009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019009_gaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gaji",
+      "en": "Gaji",
+      "slug": "gaji"
+    },
+    "code": {
+      "id": "NG019009_gaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019009",
+      "level": 2,
+      "name": {
+        "local": "Kaduna North",
+        "en": "Kaduna North",
+        "slug": "kaduna-north-ng019009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019009",
+        "level": 2,
+        "name": {
+          "local": "Kaduna North",
+          "en": "Kaduna North",
+          "slug": "kaduna-north-ng019009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019009_hayin-banki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hayin Banki",
+      "en": "Hayin Banki",
+      "slug": "hayin-banki"
+    },
+    "code": {
+      "id": "NG019009_hayin-banki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019009",
+      "level": 2,
+      "name": {
+        "local": "Kaduna North",
+        "en": "Kaduna North",
+        "slug": "kaduna-north-ng019009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019009",
+        "level": 2,
+        "name": {
+          "local": "Kaduna North",
+          "en": "Kaduna North",
+          "slug": "kaduna-north-ng019009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019009_kabala-costain-doki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kabala Costain/ Doki",
+      "en": "Kabala Costain/ Doki",
+      "slug": "kabala-costain-doki"
+    },
+    "code": {
+      "id": "NG019009_kabala-costain-doki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019009",
+      "level": 2,
+      "name": {
+        "local": "Kaduna North",
+        "en": "Kaduna North",
+        "slug": "kaduna-north-ng019009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019009",
+        "level": 2,
+        "name": {
+          "local": "Kaduna North",
+          "en": "Kaduna North",
+          "slug": "kaduna-north-ng019009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019009_kawo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kawo",
+      "en": "Kawo",
+      "slug": "kawo"
+    },
+    "code": {
+      "id": "NG019009_kawo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019009",
+      "level": 2,
+      "name": {
+        "local": "Kaduna North",
+        "en": "Kaduna North",
+        "slug": "kaduna-north-ng019009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019009",
+        "level": 2,
+        "name": {
+          "local": "Kaduna North",
+          "en": "Kaduna North",
+          "slug": "kaduna-north-ng019009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019009_maiburji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maiburji",
+      "en": "Maiburji",
+      "slug": "maiburji"
+    },
+    "code": {
+      "id": "NG019009_maiburji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019009",
+      "level": 2,
+      "name": {
+        "local": "Kaduna North",
+        "en": "Kaduna North",
+        "slug": "kaduna-north-ng019009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019009",
+        "level": 2,
+        "name": {
+          "local": "Kaduna North",
+          "en": "Kaduna North",
+          "slug": "kaduna-north-ng019009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019009_shaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shaba",
+      "en": "Shaba",
+      "slug": "shaba"
+    },
+    "code": {
+      "id": "NG019009_shaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019009",
+      "level": 2,
+      "name": {
+        "local": "Kaduna North",
+        "en": "Kaduna North",
+        "slug": "kaduna-north-ng019009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019009",
+        "level": 2,
+        "name": {
+          "local": "Kaduna North",
+          "en": "Kaduna North",
+          "slug": "kaduna-north-ng019009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019009_unguwan-dosa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwan Dosa",
+      "en": "Unguwan Dosa",
+      "slug": "unguwan-dosa"
+    },
+    "code": {
+      "id": "NG019009_unguwan-dosa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019009",
+      "level": 2,
+      "name": {
+        "local": "Kaduna North",
+        "en": "Kaduna North",
+        "slug": "kaduna-north-ng019009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019009",
+        "level": 2,
+        "name": {
+          "local": "Kaduna North",
+          "en": "Kaduna North",
+          "slug": "kaduna-north-ng019009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019009_unguwan-liman",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwan Liman",
+      "en": "Unguwan Liman",
+      "slug": "unguwan-liman"
+    },
+    "code": {
+      "id": "NG019009_unguwan-liman",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019009",
+      "level": 2,
+      "name": {
+        "local": "Kaduna North",
+        "en": "Kaduna North",
+        "slug": "kaduna-north-ng019009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019009",
+        "level": 2,
+        "name": {
+          "local": "Kaduna North",
+          "en": "Kaduna North",
+          "slug": "kaduna-north-ng019009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019009_unguwan-sarki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwan Sarki",
+      "en": "Unguwan Sarki",
+      "slug": "unguwan-sarki"
+    },
+    "code": {
+      "id": "NG019009_unguwan-sarki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019009",
+      "level": 2,
+      "name": {
+        "local": "Kaduna North",
+        "en": "Kaduna North",
+        "slug": "kaduna-north-ng019009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019009",
+        "level": 2,
+        "name": {
+          "local": "Kaduna North",
+          "en": "Kaduna North",
+          "slug": "kaduna-north-ng019009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019009_unguwan-shanu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwan Shanu",
+      "en": "Unguwan Shanu",
+      "slug": "unguwan-shanu"
+    },
+    "code": {
+      "id": "NG019009_unguwan-shanu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019009",
+      "level": 2,
+      "name": {
+        "local": "Kaduna North",
+        "en": "Kaduna North",
+        "slug": "kaduna-north-ng019009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019009",
+        "level": 2,
+        "name": {
+          "local": "Kaduna North",
+          "en": "Kaduna North",
+          "slug": "kaduna-north-ng019009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.545",
+      "lon": "7.45"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

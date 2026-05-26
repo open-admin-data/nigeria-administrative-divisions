@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG035012_bete",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bete",
+      "en": "Bete",
+      "slug": "bete"
+    },
+    "code": {
+      "id": "NG035012_bete",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035012",
+      "level": 2,
+      "name": {
+        "local": "Takum",
+        "en": "Takum",
+        "slug": "takum-ng035012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035012",
+        "level": 2,
+        "name": {
+          "local": "Takum",
+          "en": "Takum",
+          "slug": "takum-ng035012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.051",
+      "lon": "9.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035012_bikashibila",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bikashibila",
+      "en": "Bikashibila",
+      "slug": "bikashibila"
+    },
+    "code": {
+      "id": "NG035012_bikashibila",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035012",
+      "level": 2,
+      "name": {
+        "local": "Takum",
+        "en": "Takum",
+        "slug": "takum-ng035012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035012",
+        "level": 2,
+        "name": {
+          "local": "Takum",
+          "en": "Takum",
+          "slug": "takum-ng035012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.051",
+      "lon": "9.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035012_chanchanji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chanchanji",
+      "en": "Chanchanji",
+      "slug": "chanchanji"
+    },
+    "code": {
+      "id": "NG035012_chanchanji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035012",
+      "level": 2,
+      "name": {
+        "local": "Takum",
+        "en": "Takum",
+        "slug": "takum-ng035012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035012",
+        "level": 2,
+        "name": {
+          "local": "Takum",
+          "en": "Takum",
+          "slug": "takum-ng035012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.051",
+      "lon": "9.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035012_dutse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dutse",
+      "en": "Dutse",
+      "slug": "dutse"
+    },
+    "code": {
+      "id": "NG035012_dutse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035012",
+      "level": 2,
+      "name": {
+        "local": "Takum",
+        "en": "Takum",
+        "slug": "takum-ng035012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035012",
+        "level": 2,
+        "name": {
+          "local": "Takum",
+          "en": "Takum",
+          "slug": "takum-ng035012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.051",
+      "lon": "9.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035012_fete",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fete",
+      "en": "Fete",
+      "slug": "fete"
+    },
+    "code": {
+      "id": "NG035012_fete",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035012",
+      "level": 2,
+      "name": {
+        "local": "Takum",
+        "en": "Takum",
+        "slug": "takum-ng035012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035012",
+        "level": 2,
+        "name": {
+          "local": "Takum",
+          "en": "Takum",
+          "slug": "takum-ng035012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.051",
+      "lon": "9.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035012_gahweton",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gahweton",
+      "en": "Gahweton",
+      "slug": "gahweton"
+    },
+    "code": {
+      "id": "NG035012_gahweton",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035012",
+      "level": 2,
+      "name": {
+        "local": "Takum",
+        "en": "Takum",
+        "slug": "takum-ng035012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035012",
+        "level": 2,
+        "name": {
+          "local": "Takum",
+          "en": "Takum",
+          "slug": "takum-ng035012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.051",
+      "lon": "9.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035012_manya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Manya",
+      "en": "Manya",
+      "slug": "manya"
+    },
+    "code": {
+      "id": "NG035012_manya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035012",
+      "level": 2,
+      "name": {
+        "local": "Takum",
+        "en": "Takum",
+        "slug": "takum-ng035012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035012",
+        "level": 2,
+        "name": {
+          "local": "Takum",
+          "en": "Takum",
+          "slug": "takum-ng035012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.051",
+      "lon": "9.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035012_rogo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rogo",
+      "en": "Rogo",
+      "slug": "rogo"
+    },
+    "code": {
+      "id": "NG035012_rogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035012",
+      "level": 2,
+      "name": {
+        "local": "Takum",
+        "en": "Takum",
+        "slug": "takum-ng035012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035012",
+        "level": 2,
+        "name": {
+          "local": "Takum",
+          "en": "Takum",
+          "slug": "takum-ng035012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.051",
+      "lon": "9.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035012_shibong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shibong",
+      "en": "Shibong",
+      "slug": "shibong"
+    },
+    "code": {
+      "id": "NG035012_shibong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035012",
+      "level": 2,
+      "name": {
+        "local": "Takum",
+        "en": "Takum",
+        "slug": "takum-ng035012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035012",
+        "level": 2,
+        "name": {
+          "local": "Takum",
+          "en": "Takum",
+          "slug": "takum-ng035012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.051",
+      "lon": "9.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035012_tikari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tikari",
+      "en": "Tikari",
+      "slug": "tikari"
+    },
+    "code": {
+      "id": "NG035012_tikari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035012",
+      "level": 2,
+      "name": {
+        "local": "Takum",
+        "en": "Takum",
+        "slug": "takum-ng035012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035012",
+        "level": 2,
+        "name": {
+          "local": "Takum",
+          "en": "Takum",
+          "slug": "takum-ng035012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.051",
+      "lon": "9.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035012_yukuben",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yukuben",
+      "en": "Yukuben",
+      "slug": "yukuben"
+    },
+    "code": {
+      "id": "NG035012_yukuben",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035012",
+      "level": 2,
+      "name": {
+        "local": "Takum",
+        "en": "Takum",
+        "slug": "takum-ng035012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035012",
+        "level": 2,
+        "name": {
+          "local": "Takum",
+          "en": "Takum",
+          "slug": "takum-ng035012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.051",
+      "lon": "9.796"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

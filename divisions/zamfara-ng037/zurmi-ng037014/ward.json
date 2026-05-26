@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG037014_boko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Boko",
+      "en": "Boko",
+      "slug": "boko"
+    },
+    "code": {
+      "id": "NG037014_boko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037014",
+      "level": 2,
+      "name": {
+        "local": "Zurmi",
+        "en": "Zurmi",
+        "slug": "zurmi-ng037014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037014",
+        "level": 2,
+        "name": {
+          "local": "Zurmi",
+          "en": "Zurmi",
+          "slug": "zurmi-ng037014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037014_dauran-birnin-tsaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dauran / Birnin-tsaba",
+      "en": "Dauran / Birnin-tsaba",
+      "slug": "dauran-birnin-tsaba"
+    },
+    "code": {
+      "id": "NG037014_dauran-birnin-tsaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037014",
+      "level": 2,
+      "name": {
+        "local": "Zurmi",
+        "en": "Zurmi",
+        "slug": "zurmi-ng037014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037014",
+        "level": 2,
+        "name": {
+          "local": "Zurmi",
+          "en": "Zurmi",
+          "slug": "zurmi-ng037014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037014_dole",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dole",
+      "en": "Dole",
+      "slug": "dole"
+    },
+    "code": {
+      "id": "NG037014_dole",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037014",
+      "level": 2,
+      "name": {
+        "local": "Zurmi",
+        "en": "Zurmi",
+        "slug": "zurmi-ng037014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037014",
+        "level": 2,
+        "name": {
+          "local": "Zurmi",
+          "en": "Zurmi",
+          "slug": "zurmi-ng037014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037014_galadimayanruwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galadima/yanruwa",
+      "en": "Galadima/yanruwa",
+      "slug": "galadimayanruwa"
+    },
+    "code": {
+      "id": "NG037014_galadimayanruwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037014",
+      "level": 2,
+      "name": {
+        "local": "Zurmi",
+        "en": "Zurmi",
+        "slug": "zurmi-ng037014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037014",
+        "level": 2,
+        "name": {
+          "local": "Zurmi",
+          "en": "Zurmi",
+          "slug": "zurmi-ng037014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037014_kanwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanwa",
+      "en": "Kanwa",
+      "slug": "kanwa"
+    },
+    "code": {
+      "id": "NG037014_kanwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037014",
+      "level": 2,
+      "name": {
+        "local": "Zurmi",
+        "en": "Zurmi",
+        "slug": "zurmi-ng037014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037014",
+        "level": 2,
+        "name": {
+          "local": "Zurmi",
+          "en": "Zurmi",
+          "slug": "zurmi-ng037014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037014_kuturumayasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuturu/mayasa",
+      "en": "Kuturu/mayasa",
+      "slug": "kuturumayasa"
+    },
+    "code": {
+      "id": "NG037014_kuturumayasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037014",
+      "level": 2,
+      "name": {
+        "local": "Zurmi",
+        "en": "Zurmi",
+        "slug": "zurmi-ng037014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037014",
+        "level": 2,
+        "name": {
+          "local": "Zurmi",
+          "en": "Zurmi",
+          "slug": "zurmi-ng037014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037014_kwashbawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwashbawa",
+      "en": "Kwashbawa",
+      "slug": "kwashbawa"
+    },
+    "code": {
+      "id": "NG037014_kwashbawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037014",
+      "level": 2,
+      "name": {
+        "local": "Zurmi",
+        "en": "Zurmi",
+        "slug": "zurmi-ng037014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037014",
+        "level": 2,
+        "name": {
+          "local": "Zurmi",
+          "en": "Zurmi",
+          "slug": "zurmi-ng037014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037014_mashem",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mashem",
+      "en": "Mashem",
+      "slug": "mashem"
+    },
+    "code": {
+      "id": "NG037014_mashem",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037014",
+      "level": 2,
+      "name": {
+        "local": "Zurmi",
+        "en": "Zurmi",
+        "slug": "zurmi-ng037014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037014",
+        "level": 2,
+        "name": {
+          "local": "Zurmi",
+          "en": "Zurmi",
+          "slug": "zurmi-ng037014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037014_rukudawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rukudawa",
+      "en": "Rukudawa",
+      "slug": "rukudawa"
+    },
+    "code": {
+      "id": "NG037014_rukudawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037014",
+      "level": 2,
+      "name": {
+        "local": "Zurmi",
+        "en": "Zurmi",
+        "slug": "zurmi-ng037014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037014",
+        "level": 2,
+        "name": {
+          "local": "Zurmi",
+          "en": "Zurmi",
+          "slug": "zurmi-ng037014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037014_yan-buki-dutsi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yan Buki/ Dutsi",
+      "en": "Yan Buki/ Dutsi",
+      "slug": "yan-buki-dutsi"
+    },
+    "code": {
+      "id": "NG037014_yan-buki-dutsi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037014",
+      "level": 2,
+      "name": {
+        "local": "Zurmi",
+        "en": "Zurmi",
+        "slug": "zurmi-ng037014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037014",
+        "level": 2,
+        "name": {
+          "local": "Zurmi",
+          "en": "Zurmi",
+          "slug": "zurmi-ng037014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037014_zurmi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zurmi",
+      "en": "Zurmi",
+      "slug": "zurmi"
+    },
+    "code": {
+      "id": "NG037014_zurmi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037014",
+      "level": 2,
+      "name": {
+        "local": "Zurmi",
+        "en": "Zurmi",
+        "slug": "zurmi-ng037014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037014",
+        "level": 2,
+        "name": {
+          "local": "Zurmi",
+          "en": "Zurmi",
+          "slug": "zurmi-ng037014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

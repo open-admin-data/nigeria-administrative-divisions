@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020018_dandago",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dandago",
+      "en": "Dandago",
+      "slug": "dandago"
+    },
+    "code": {
+      "id": "NG020018_dandago",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020018",
+      "level": 2,
+      "name": {
+        "local": "Gwale",
+        "en": "Gwale",
+        "slug": "gwale-ng020018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020018",
+        "level": 2,
+        "name": {
+          "local": "Gwale",
+          "en": "Gwale",
+          "slug": "gwale-ng020018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.978",
+      "lon": "8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020018_diso",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Diso",
+      "en": "Diso",
+      "slug": "diso"
+    },
+    "code": {
+      "id": "NG020018_diso",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020018",
+      "level": 2,
+      "name": {
+        "local": "Gwale",
+        "en": "Gwale",
+        "slug": "gwale-ng020018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020018",
+        "level": 2,
+        "name": {
+          "local": "Gwale",
+          "en": "Gwale",
+          "slug": "gwale-ng020018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.978",
+      "lon": "8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020018_dorayi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dorayi",
+      "en": "Dorayi",
+      "slug": "dorayi"
+    },
+    "code": {
+      "id": "NG020018_dorayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020018",
+      "level": 2,
+      "name": {
+        "local": "Gwale",
+        "en": "Gwale",
+        "slug": "gwale-ng020018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020018",
+        "level": 2,
+        "name": {
+          "local": "Gwale",
+          "en": "Gwale",
+          "slug": "gwale-ng020018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.978",
+      "lon": "8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020018_galadanchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galadanchi",
+      "en": "Galadanchi",
+      "slug": "galadanchi"
+    },
+    "code": {
+      "id": "NG020018_galadanchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020018",
+      "level": 2,
+      "name": {
+        "local": "Gwale",
+        "en": "Gwale",
+        "slug": "gwale-ng020018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020018",
+        "level": 2,
+        "name": {
+          "local": "Gwale",
+          "en": "Gwale",
+          "slug": "gwale-ng020018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.978",
+      "lon": "8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020018_goron-dutse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Goron Dutse",
+      "en": "Goron Dutse",
+      "slug": "goron-dutse"
+    },
+    "code": {
+      "id": "NG020018_goron-dutse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020018",
+      "level": 2,
+      "name": {
+        "local": "Gwale",
+        "en": "Gwale",
+        "slug": "gwale-ng020018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020018",
+        "level": 2,
+        "name": {
+          "local": "Gwale",
+          "en": "Gwale",
+          "slug": "gwale-ng020018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.978",
+      "lon": "8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020018_gwale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwale",
+      "en": "Gwale",
+      "slug": "gwale"
+    },
+    "code": {
+      "id": "NG020018_gwale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020018",
+      "level": 2,
+      "name": {
+        "local": "Gwale",
+        "en": "Gwale",
+        "slug": "gwale-ng020018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020018",
+        "level": 2,
+        "name": {
+          "local": "Gwale",
+          "en": "Gwale",
+          "slug": "gwale-ng020018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.978",
+      "lon": "8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020018_gyaranya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gyaranya",
+      "en": "Gyaranya",
+      "slug": "gyaranya"
+    },
+    "code": {
+      "id": "NG020018_gyaranya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020018",
+      "level": 2,
+      "name": {
+        "local": "Gwale",
+        "en": "Gwale",
+        "slug": "gwale-ng020018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020018",
+        "level": 2,
+        "name": {
+          "local": "Gwale",
+          "en": "Gwale",
+          "slug": "gwale-ng020018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.978",
+      "lon": "8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020018_kabuga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kabuga",
+      "en": "Kabuga",
+      "slug": "kabuga"
+    },
+    "code": {
+      "id": "NG020018_kabuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020018",
+      "level": 2,
+      "name": {
+        "local": "Gwale",
+        "en": "Gwale",
+        "slug": "gwale-ng020018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020018",
+        "level": 2,
+        "name": {
+          "local": "Gwale",
+          "en": "Gwale",
+          "slug": "gwale-ng020018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.978",
+      "lon": "8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020018_mandawari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mandawari",
+      "en": "Mandawari",
+      "slug": "mandawari"
+    },
+    "code": {
+      "id": "NG020018_mandawari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020018",
+      "level": 2,
+      "name": {
+        "local": "Gwale",
+        "en": "Gwale",
+        "slug": "gwale-ng020018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020018",
+        "level": 2,
+        "name": {
+          "local": "Gwale",
+          "en": "Gwale",
+          "slug": "gwale-ng020018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.978",
+      "lon": "8.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020018_sani-mai-magge",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sani Mai Magge",
+      "en": "Sani Mai Magge",
+      "slug": "sani-mai-magge"
+    },
+    "code": {
+      "id": "NG020018_sani-mai-magge",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020018",
+      "level": 2,
+      "name": {
+        "local": "Gwale",
+        "en": "Gwale",
+        "slug": "gwale-ng020018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020018",
+        "level": 2,
+        "name": {
+          "local": "Gwale",
+          "en": "Gwale",
+          "slug": "gwale-ng020018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.978",
+      "lon": "8.484"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

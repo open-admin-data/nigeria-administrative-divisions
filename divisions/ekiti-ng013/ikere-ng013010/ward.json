@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG013010_afao-kajola",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Afao / Kajola",
+      "en": "Afao / Kajola",
+      "slug": "afao-kajola"
+    },
+    "code": {
+      "id": "NG013010_afao-kajola",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013010",
+      "level": 2,
+      "name": {
+        "local": "Ikere",
+        "en": "Ikere",
+        "slug": "ikere-ng013010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013010",
+        "level": 2,
+        "name": {
+          "local": "Ikere",
+          "en": "Ikere",
+          "slug": "ikere-ng013010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "5.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013010_agbado-oyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbado / Oyo",
+      "en": "Agbado / Oyo",
+      "slug": "agbado-oyo"
+    },
+    "code": {
+      "id": "NG013010_agbado-oyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013010",
+      "level": 2,
+      "name": {
+        "local": "Ikere",
+        "en": "Ikere",
+        "slug": "ikere-ng013010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013010",
+        "level": 2,
+        "name": {
+          "local": "Ikere",
+          "en": "Ikere",
+          "slug": "ikere-ng013010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "5.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013010_are-araromi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Are Araromi",
+      "en": "Are Araromi",
+      "slug": "are-araromi"
+    },
+    "code": {
+      "id": "NG013010_are-araromi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013010",
+      "level": 2,
+      "name": {
+        "local": "Ikere",
+        "en": "Ikere",
+        "slug": "ikere-ng013010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013010",
+        "level": 2,
+        "name": {
+          "local": "Ikere",
+          "en": "Ikere",
+          "slug": "ikere-ng013010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "5.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013010_atibaaafin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Atiba/aafin",
+      "en": "Atiba/aafin",
+      "slug": "atibaaafin"
+    },
+    "code": {
+      "id": "NG013010_atibaaafin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013010",
+      "level": 2,
+      "name": {
+        "local": "Ikere",
+        "en": "Ikere",
+        "slug": "ikere-ng013010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013010",
+        "level": 2,
+        "name": {
+          "local": "Ikere",
+          "en": "Ikere",
+          "slug": "ikere-ng013010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "5.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013010_idemo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idemo",
+      "en": "Idemo",
+      "slug": "idemo"
+    },
+    "code": {
+      "id": "NG013010_idemo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013010",
+      "level": 2,
+      "name": {
+        "local": "Ikere",
+        "en": "Ikere",
+        "slug": "ikere-ng013010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013010",
+        "level": 2,
+        "name": {
+          "local": "Ikere",
+          "en": "Ikere",
+          "slug": "ikere-ng013010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "5.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013010_ilapetu-ijao",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilapetu / Ijao",
+      "en": "Ilapetu / Ijao",
+      "slug": "ilapetu-ijao"
+    },
+    "code": {
+      "id": "NG013010_ilapetu-ijao",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013010",
+      "level": 2,
+      "name": {
+        "local": "Ikere",
+        "en": "Ikere",
+        "slug": "ikere-ng013010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013010",
+        "level": 2,
+        "name": {
+          "local": "Ikere",
+          "en": "Ikere",
+          "slug": "ikere-ng013010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "5.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013010_odose",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odose",
+      "en": "Odose",
+      "slug": "odose"
+    },
+    "code": {
+      "id": "NG013010_odose",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013010",
+      "level": 2,
+      "name": {
+        "local": "Ikere",
+        "en": "Ikere",
+        "slug": "ikere-ng013010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013010",
+        "level": 2,
+        "name": {
+          "local": "Ikere",
+          "en": "Ikere",
+          "slug": "ikere-ng013010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "5.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013010_ogbonjana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbonjana",
+      "en": "Ogbonjana",
+      "slug": "ogbonjana"
+    },
+    "code": {
+      "id": "NG013010_ogbonjana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013010",
+      "level": 2,
+      "name": {
+        "local": "Ikere",
+        "en": "Ikere",
+        "slug": "ikere-ng013010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013010",
+        "level": 2,
+        "name": {
+          "local": "Ikere",
+          "en": "Ikere",
+          "slug": "ikere-ng013010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "5.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013010_oke---osun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke - Osun",
+      "en": "Oke - Osun",
+      "slug": "oke---osun"
+    },
+    "code": {
+      "id": "NG013010_oke---osun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013010",
+      "level": 2,
+      "name": {
+        "local": "Ikere",
+        "en": "Ikere",
+        "slug": "ikere-ng013010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013010",
+        "level": 2,
+        "name": {
+          "local": "Ikere",
+          "en": "Ikere",
+          "slug": "ikere-ng013010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "5.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013010_okeruku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okeruku",
+      "en": "Okeruku",
+      "slug": "okeruku"
+    },
+    "code": {
+      "id": "NG013010_okeruku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013010",
+      "level": 2,
+      "name": {
+        "local": "Ikere",
+        "en": "Ikere",
+        "slug": "ikere-ng013010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013010",
+        "level": 2,
+        "name": {
+          "local": "Ikere",
+          "en": "Ikere",
+          "slug": "ikere-ng013010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "5.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013010_ugele-aroku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugele / Aroku",
+      "en": "Ugele / Aroku",
+      "slug": "ugele-aroku"
+    },
+    "code": {
+      "id": "NG013010_ugele-aroku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013010",
+      "level": 2,
+      "name": {
+        "local": "Ikere",
+        "en": "Ikere",
+        "slug": "ikere-ng013010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013010",
+        "level": 2,
+        "name": {
+          "local": "Ikere",
+          "en": "Ikere",
+          "slug": "ikere-ng013010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.494",
+      "lon": "5.209"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

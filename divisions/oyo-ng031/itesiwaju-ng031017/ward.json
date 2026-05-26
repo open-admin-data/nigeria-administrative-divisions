@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG031017_babaode",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Babaode",
+      "en": "Babaode",
+      "slug": "babaode"
+    },
+    "code": {
+      "id": "NG031017_babaode",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031017",
+      "level": 2,
+      "name": {
+        "local": "Itesiwaju",
+        "en": "Itesiwaju",
+        "slug": "itesiwaju-ng031017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031017",
+        "level": 2,
+        "name": {
+          "local": "Itesiwaju",
+          "en": "Itesiwaju",
+          "slug": "itesiwaju-ng031017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.208",
+      "lon": "3.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031017_igbojaiye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igbojaiye",
+      "en": "Igbojaiye",
+      "slug": "igbojaiye"
+    },
+    "code": {
+      "id": "NG031017_igbojaiye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031017",
+      "level": 2,
+      "name": {
+        "local": "Itesiwaju",
+        "en": "Itesiwaju",
+        "slug": "itesiwaju-ng031017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031017",
+        "level": 2,
+        "name": {
+          "local": "Itesiwaju",
+          "en": "Itesiwaju",
+          "slug": "itesiwaju-ng031017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.208",
+      "lon": "3.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031017_ipapo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipapo",
+      "en": "Ipapo",
+      "slug": "ipapo"
+    },
+    "code": {
+      "id": "NG031017_ipapo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031017",
+      "level": 2,
+      "name": {
+        "local": "Itesiwaju",
+        "en": "Itesiwaju",
+        "slug": "itesiwaju-ng031017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031017",
+        "level": 2,
+        "name": {
+          "local": "Itesiwaju",
+          "en": "Itesiwaju",
+          "slug": "itesiwaju-ng031017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.208",
+      "lon": "3.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031017_komu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Komu",
+      "en": "Komu",
+      "slug": "komu"
+    },
+    "code": {
+      "id": "NG031017_komu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031017",
+      "level": 2,
+      "name": {
+        "local": "Itesiwaju",
+        "en": "Itesiwaju",
+        "slug": "itesiwaju-ng031017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031017",
+        "level": 2,
+        "name": {
+          "local": "Itesiwaju",
+          "en": "Itesiwaju",
+          "slug": "itesiwaju-ng031017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.208",
+      "lon": "3.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031017_okaka-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okaka I",
+      "en": "Okaka I",
+      "slug": "okaka-i"
+    },
+    "code": {
+      "id": "NG031017_okaka-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031017",
+      "level": 2,
+      "name": {
+        "local": "Itesiwaju",
+        "en": "Itesiwaju",
+        "slug": "itesiwaju-ng031017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031017",
+        "level": 2,
+        "name": {
+          "local": "Itesiwaju",
+          "en": "Itesiwaju",
+          "slug": "itesiwaju-ng031017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.208",
+      "lon": "3.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031017_okaka-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okaka Ii",
+      "en": "Okaka Ii",
+      "slug": "okaka-ii"
+    },
+    "code": {
+      "id": "NG031017_okaka-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031017",
+      "level": 2,
+      "name": {
+        "local": "Itesiwaju",
+        "en": "Itesiwaju",
+        "slug": "itesiwaju-ng031017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031017",
+        "level": 2,
+        "name": {
+          "local": "Itesiwaju",
+          "en": "Itesiwaju",
+          "slug": "itesiwaju-ng031017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.208",
+      "lon": "3.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031017_oke-amu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke-amu",
+      "en": "Oke-amu",
+      "slug": "oke-amu"
+    },
+    "code": {
+      "id": "NG031017_oke-amu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031017",
+      "level": 2,
+      "name": {
+        "local": "Itesiwaju",
+        "en": "Itesiwaju",
+        "slug": "itesiwaju-ng031017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031017",
+        "level": 2,
+        "name": {
+          "local": "Itesiwaju",
+          "en": "Itesiwaju",
+          "slug": "itesiwaju-ng031017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.208",
+      "lon": "3.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031017_otu-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otu 1",
+      "en": "Otu 1",
+      "slug": "otu-1"
+    },
+    "code": {
+      "id": "NG031017_otu-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031017",
+      "level": 2,
+      "name": {
+        "local": "Itesiwaju",
+        "en": "Itesiwaju",
+        "slug": "itesiwaju-ng031017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031017",
+        "level": 2,
+        "name": {
+          "local": "Itesiwaju",
+          "en": "Itesiwaju",
+          "slug": "itesiwaju-ng031017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.208",
+      "lon": "3.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031017_otu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otu Ii",
+      "en": "Otu Ii",
+      "slug": "otu-ii"
+    },
+    "code": {
+      "id": "NG031017_otu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031017",
+      "level": 2,
+      "name": {
+        "local": "Itesiwaju",
+        "en": "Itesiwaju",
+        "slug": "itesiwaju-ng031017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031017",
+        "level": 2,
+        "name": {
+          "local": "Itesiwaju",
+          "en": "Itesiwaju",
+          "slug": "itesiwaju-ng031017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.208",
+      "lon": "3.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031017_owodeipapo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owode/ipapo",
+      "en": "Owode/ipapo",
+      "slug": "owodeipapo"
+    },
+    "code": {
+      "id": "NG031017_owodeipapo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031017",
+      "level": 2,
+      "name": {
+        "local": "Itesiwaju",
+        "en": "Itesiwaju",
+        "slug": "itesiwaju-ng031017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031017",
+        "level": 2,
+        "name": {
+          "local": "Itesiwaju",
+          "en": "Itesiwaju",
+          "slug": "itesiwaju-ng031017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.208",
+      "lon": "3.485"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

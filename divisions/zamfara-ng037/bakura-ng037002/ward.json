@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG037002_bakura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakura",
+      "en": "Bakura",
+      "slug": "bakura"
+    },
+    "code": {
+      "id": "NG037002_bakura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037002",
+      "level": 2,
+      "name": {
+        "local": "Bakura",
+        "en": "Bakura",
+        "slug": "bakura-ng037002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037002",
+        "level": 2,
+        "name": {
+          "local": "Bakura",
+          "en": "Bakura",
+          "slug": "bakura-ng037002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "5.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037002_birnin-tudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birnin Tudu",
+      "en": "Birnin Tudu",
+      "slug": "birnin-tudu"
+    },
+    "code": {
+      "id": "NG037002_birnin-tudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037002",
+      "level": 2,
+      "name": {
+        "local": "Bakura",
+        "en": "Bakura",
+        "slug": "bakura-ng037002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037002",
+        "level": 2,
+        "name": {
+          "local": "Bakura",
+          "en": "Bakura",
+          "slug": "bakura-ng037002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "5.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037002_dakko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dakko",
+      "en": "Dakko",
+      "slug": "dakko"
+    },
+    "code": {
+      "id": "NG037002_dakko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037002",
+      "level": 2,
+      "name": {
+        "local": "Bakura",
+        "en": "Bakura",
+        "slug": "bakura-ng037002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037002",
+        "level": 2,
+        "name": {
+          "local": "Bakura",
+          "en": "Bakura",
+          "slug": "bakura-ng037002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "5.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037002_damri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damri",
+      "en": "Damri",
+      "slug": "damri"
+    },
+    "code": {
+      "id": "NG037002_damri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037002",
+      "level": 2,
+      "name": {
+        "local": "Bakura",
+        "en": "Bakura",
+        "slug": "bakura-ng037002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037002",
+        "level": 2,
+        "name": {
+          "local": "Bakura",
+          "en": "Bakura",
+          "slug": "bakura-ng037002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "5.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037002_dan-manau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Manau",
+      "en": "Dan Manau",
+      "slug": "dan-manau"
+    },
+    "code": {
+      "id": "NG037002_dan-manau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037002",
+      "level": 2,
+      "name": {
+        "local": "Bakura",
+        "en": "Bakura",
+        "slug": "bakura-ng037002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037002",
+        "level": 2,
+        "name": {
+          "local": "Bakura",
+          "en": "Bakura",
+          "slug": "bakura-ng037002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "5.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037002_dankadu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dankadu",
+      "en": "Dankadu",
+      "slug": "dankadu"
+    },
+    "code": {
+      "id": "NG037002_dankadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037002",
+      "level": 2,
+      "name": {
+        "local": "Bakura",
+        "en": "Bakura",
+        "slug": "bakura-ng037002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037002",
+        "level": 2,
+        "name": {
+          "local": "Bakura",
+          "en": "Bakura",
+          "slug": "bakura-ng037002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "5.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037002_nasarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasarawa",
+      "en": "Nasarawa",
+      "slug": "nasarawa"
+    },
+    "code": {
+      "id": "NG037002_nasarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037002",
+      "level": 2,
+      "name": {
+        "local": "Bakura",
+        "en": "Bakura",
+        "slug": "bakura-ng037002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037002",
+        "level": 2,
+        "name": {
+          "local": "Bakura",
+          "en": "Bakura",
+          "slug": "bakura-ng037002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "5.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037002_rini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rini",
+      "en": "Rini",
+      "slug": "rini"
+    },
+    "code": {
+      "id": "NG037002_rini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037002",
+      "level": 2,
+      "name": {
+        "local": "Bakura",
+        "en": "Bakura",
+        "slug": "bakura-ng037002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037002",
+        "level": 2,
+        "name": {
+          "local": "Bakura",
+          "en": "Bakura",
+          "slug": "bakura-ng037002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "5.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037002_yar-geda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yar Geda",
+      "en": "Yar Geda",
+      "slug": "yar-geda"
+    },
+    "code": {
+      "id": "NG037002_yar-geda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037002",
+      "level": 2,
+      "name": {
+        "local": "Bakura",
+        "en": "Bakura",
+        "slug": "bakura-ng037002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037002",
+        "level": 2,
+        "name": {
+          "local": "Bakura",
+          "en": "Bakura",
+          "slug": "bakura-ng037002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "5.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037002_yar-kufoji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yar Kufoji",
+      "en": "Yar Kufoji",
+      "slug": "yar-kufoji"
+    },
+    "code": {
+      "id": "NG037002_yar-kufoji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037002",
+      "level": 2,
+      "name": {
+        "local": "Bakura",
+        "en": "Bakura",
+        "slug": "bakura-ng037002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037002",
+        "level": 2,
+        "name": {
+          "local": "Bakura",
+          "en": "Bakura",
+          "slug": "bakura-ng037002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "5.866"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

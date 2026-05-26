@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG017018_assaobile",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Assa/obile",
+      "en": "Assa/obile",
+      "slug": "assaobile"
+    },
+    "code": {
+      "id": "NG017018_assaobile",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017018",
+      "level": 2,
+      "name": {
+        "local": "Ohaji/Egbema",
+        "en": "Ohaji/Egbema",
+        "slug": "ohajiegbema-ng017018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017018",
+        "level": 2,
+        "name": {
+          "local": "Ohaji/Egbema",
+          "en": "Ohaji/Egbema",
+          "slug": "ohajiegbema-ng017018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017018_awaraikwerede",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awara/ikwerede",
+      "en": "Awara/ikwerede",
+      "slug": "awaraikwerede"
+    },
+    "code": {
+      "id": "NG017018_awaraikwerede",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017018",
+      "level": 2,
+      "name": {
+        "local": "Ohaji/Egbema",
+        "en": "Ohaji/Egbema",
+        "slug": "ohajiegbema-ng017018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017018",
+        "level": 2,
+        "name": {
+          "local": "Ohaji/Egbema",
+          "en": "Ohaji/Egbema",
+          "slug": "ohajiegbema-ng017018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017018_egbema-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egbema 'a'",
+      "en": "Egbema 'a'",
+      "slug": "egbema-a"
+    },
+    "code": {
+      "id": "NG017018_egbema-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017018",
+      "level": 2,
+      "name": {
+        "local": "Ohaji/Egbema",
+        "en": "Ohaji/Egbema",
+        "slug": "ohajiegbema-ng017018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017018",
+        "level": 2,
+        "name": {
+          "local": "Ohaji/Egbema",
+          "en": "Ohaji/Egbema",
+          "slug": "ohajiegbema-ng017018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017018_egbema-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egbema 'b'",
+      "en": "Egbema 'b'",
+      "slug": "egbema-b"
+    },
+    "code": {
+      "id": "NG017018_egbema-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017018",
+      "level": 2,
+      "name": {
+        "local": "Ohaji/Egbema",
+        "en": "Ohaji/Egbema",
+        "slug": "ohajiegbema-ng017018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017018",
+        "level": 2,
+        "name": {
+          "local": "Ohaji/Egbema",
+          "en": "Ohaji/Egbema",
+          "slug": "ohajiegbema-ng017018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017018_egbema-c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egbema 'c'",
+      "en": "Egbema 'c'",
+      "slug": "egbema-c"
+    },
+    "code": {
+      "id": "NG017018_egbema-c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017018",
+      "level": 2,
+      "name": {
+        "local": "Ohaji/Egbema",
+        "en": "Ohaji/Egbema",
+        "slug": "ohajiegbema-ng017018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017018",
+        "level": 2,
+        "name": {
+          "local": "Ohaji/Egbema",
+          "en": "Ohaji/Egbema",
+          "slug": "ohajiegbema-ng017018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017018_egbema-d",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egbema 'd'",
+      "en": "Egbema 'd'",
+      "slug": "egbema-d"
+    },
+    "code": {
+      "id": "NG017018_egbema-d",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017018",
+      "level": 2,
+      "name": {
+        "local": "Ohaji/Egbema",
+        "en": "Ohaji/Egbema",
+        "slug": "ohajiegbema-ng017018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017018",
+        "level": 2,
+        "name": {
+          "local": "Ohaji/Egbema",
+          "en": "Ohaji/Egbema",
+          "slug": "ohajiegbema-ng017018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017018_egbema-e",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egbema 'e'",
+      "en": "Egbema 'e'",
+      "slug": "egbema-e"
+    },
+    "code": {
+      "id": "NG017018_egbema-e",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017018",
+      "level": 2,
+      "name": {
+        "local": "Ohaji/Egbema",
+        "en": "Ohaji/Egbema",
+        "slug": "ohajiegbema-ng017018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017018",
+        "level": 2,
+        "name": {
+          "local": "Ohaji/Egbema",
+          "en": "Ohaji/Egbema",
+          "slug": "ohajiegbema-ng017018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017018_ekwuato",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekwuato",
+      "en": "Ekwuato",
+      "slug": "ekwuato"
+    },
+    "code": {
+      "id": "NG017018_ekwuato",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017018",
+      "level": 2,
+      "name": {
+        "local": "Ohaji/Egbema",
+        "en": "Ohaji/Egbema",
+        "slug": "ohajiegbema-ng017018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017018",
+        "level": 2,
+        "name": {
+          "local": "Ohaji/Egbema",
+          "en": "Ohaji/Egbema",
+          "slug": "ohajiegbema-ng017018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017018_obittimgbishi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obitti/mgbishi",
+      "en": "Obitti/mgbishi",
+      "slug": "obittimgbishi"
+    },
+    "code": {
+      "id": "NG017018_obittimgbishi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017018",
+      "level": 2,
+      "name": {
+        "local": "Ohaji/Egbema",
+        "en": "Ohaji/Egbema",
+        "slug": "ohajiegbema-ng017018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017018",
+        "level": 2,
+        "name": {
+          "local": "Ohaji/Egbema",
+          "en": "Ohaji/Egbema",
+          "slug": "ohajiegbema-ng017018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017018_ohoba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ohoba",
+      "en": "Ohoba",
+      "slug": "ohoba"
+    },
+    "code": {
+      "id": "NG017018_ohoba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017018",
+      "level": 2,
+      "name": {
+        "local": "Ohaji/Egbema",
+        "en": "Ohaji/Egbema",
+        "slug": "ohajiegbema-ng017018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017018",
+        "level": 2,
+        "name": {
+          "local": "Ohaji/Egbema",
+          "en": "Ohaji/Egbema",
+          "slug": "ohajiegbema-ng017018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017018_umuagwo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuagwo",
+      "en": "Umuagwo",
+      "slug": "umuagwo"
+    },
+    "code": {
+      "id": "NG017018_umuagwo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017018",
+      "level": 2,
+      "name": {
+        "local": "Ohaji/Egbema",
+        "en": "Ohaji/Egbema",
+        "slug": "ohajiegbema-ng017018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017018",
+        "level": 2,
+        "name": {
+          "local": "Ohaji/Egbema",
+          "en": "Ohaji/Egbema",
+          "slug": "ohajiegbema-ng017018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017018_umuapu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuapu",
+      "en": "Umuapu",
+      "slug": "umuapu"
+    },
+    "code": {
+      "id": "NG017018_umuapu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017018",
+      "level": 2,
+      "name": {
+        "local": "Ohaji/Egbema",
+        "en": "Ohaji/Egbema",
+        "slug": "ohajiegbema-ng017018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017018",
+        "level": 2,
+        "name": {
+          "local": "Ohaji/Egbema",
+          "en": "Ohaji/Egbema",
+          "slug": "ohajiegbema-ng017018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.426",
+      "lon": "6.848"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

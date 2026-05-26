@@ -1,0 +1,47 @@
+{
+  "id": "NG009003",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Akpabuyo",
+    "en": "Akpabuyo",
+    "slug": "akpabuyo-ng009003"
+  },
+  "code": {
+    "id": "NG009003",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG009",
+    "level": 1,
+    "name": {
+      "local": "Cross River",
+      "en": "Cross River",
+      "slug": "cross-river-ng009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.901",
+    "lon": "8.482"
+  },
+  "metadata": {},
+  "source": {}
+}

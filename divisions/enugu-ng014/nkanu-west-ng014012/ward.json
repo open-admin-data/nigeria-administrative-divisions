@@ -1,0 +1,758 @@
+[
+  {
+    "id": "NG014012_agbani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbani",
+      "en": "Agbani",
+      "slug": "agbani"
+    },
+    "code": {
+      "id": "NG014012_agbani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_akegbe-ugwu-okwuo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akegbe-ugwu (okwuo)",
+      "en": "Akegbe-ugwu (okwuo)",
+      "slug": "akegbe-ugwu-okwuo"
+    },
+    "code": {
+      "id": "NG014012_akegbe-ugwu-okwuo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_akpugo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akpugo Ii",
+      "en": "Akpugo Ii",
+      "slug": "akpugo-ii"
+    },
+    "code": {
+      "id": "NG014012_akpugo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_akpugo-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akpugo Iii",
+      "en": "Akpugo Iii",
+      "slug": "akpugo-iii"
+    },
+    "code": {
+      "id": "NG014012_akpugo-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_akugbo-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akugbo Iv",
+      "en": "Akugbo Iv",
+      "slug": "akugbo-iv"
+    },
+    "code": {
+      "id": "NG014012_akugbo-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_amodu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amodu",
+      "en": "Amodu",
+      "slug": "amodu"
+    },
+    "code": {
+      "id": "NG014012_amodu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_amurri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amurri",
+      "en": "Amurri",
+      "slug": "amurri"
+    },
+    "code": {
+      "id": "NG014012_amurri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_ibite-akegbe-ugwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibite Akegbe Ugwu",
+      "en": "Ibite Akegbe Ugwu",
+      "slug": "ibite-akegbe-ugwu"
+    },
+    "code": {
+      "id": "NG014012_ibite-akegbe-ugwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_ndiuno-uwani-akpugo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndiuno Uwani (akpugo I)",
+      "en": "Ndiuno Uwani (akpugo I)",
+      "slug": "ndiuno-uwani-akpugo-i"
+    },
+    "code": {
+      "id": "NG014012_ndiuno-uwani-akpugo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_obe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obe",
+      "en": "Obe",
+      "slug": "obe"
+    },
+    "code": {
+      "id": "NG014012_obe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_obinagu-uwani-akpugo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obinagu Uwani (akpugo I)",
+      "en": "Obinagu Uwani (akpugo I)",
+      "slug": "obinagu-uwani-akpugo-i"
+    },
+    "code": {
+      "id": "NG014012_obinagu-uwani-akpugo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_obuoffia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obuoffia",
+      "en": "Obuoffia",
+      "slug": "obuoffia"
+    },
+    "code": {
+      "id": "NG014012_obuoffia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_ozalla",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ozalla",
+      "en": "Ozalla",
+      "slug": "ozalla"
+    },
+    "code": {
+      "id": "NG014012_ozalla",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014012_umueze",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umueze",
+      "en": "Umueze",
+      "slug": "umueze"
+    },
+    "code": {
+      "id": "NG014012_umueze",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014012",
+      "level": 2,
+      "name": {
+        "local": "Nkanu West",
+        "en": "Nkanu West",
+        "slug": "nkanu-west-ng014012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014012",
+        "level": 2,
+        "name": {
+          "local": "Nkanu West",
+          "en": "Nkanu West",
+          "slug": "nkanu-west-ng014012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.328",
+      "lon": "7.534"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

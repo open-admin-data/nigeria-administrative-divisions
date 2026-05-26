@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG002007_bangshika",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bangshika",
+      "en": "Bangshika",
+      "slug": "bangshika"
+    },
+    "code": {
+      "id": "NG002007_bangshika",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002007",
+      "level": 2,
+      "name": {
+        "local": "Hong",
+        "en": "Hong",
+        "slug": "hong-ng002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002007",
+        "level": 2,
+        "name": {
+          "local": "Hong",
+          "en": "Hong",
+          "slug": "hong-ng002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.278",
+      "lon": "13.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002007_daksiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daksiri",
+      "en": "Daksiri",
+      "slug": "daksiri"
+    },
+    "code": {
+      "id": "NG002007_daksiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002007",
+      "level": 2,
+      "name": {
+        "local": "Hong",
+        "en": "Hong",
+        "slug": "hong-ng002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002007",
+        "level": 2,
+        "name": {
+          "local": "Hong",
+          "en": "Hong",
+          "slug": "hong-ng002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.074",
+      "lon": "12.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002007_garaha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garaha",
+      "en": "Garaha",
+      "slug": "garaha"
+    },
+    "code": {
+      "id": "NG002007_garaha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002007",
+      "level": 2,
+      "name": {
+        "local": "Hong",
+        "en": "Hong",
+        "slug": "hong-ng002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002007",
+        "level": 2,
+        "name": {
+          "local": "Hong",
+          "en": "Hong",
+          "slug": "hong-ng002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.422",
+      "lon": "12.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002007_gaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gaya",
+      "en": "Gaya",
+      "slug": "gaya"
+    },
+    "code": {
+      "id": "NG002007_gaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002007",
+      "level": 2,
+      "name": {
+        "local": "Hong",
+        "en": "Hong",
+        "slug": "hong-ng002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002007",
+        "level": 2,
+        "name": {
+          "local": "Hong",
+          "en": "Hong",
+          "slug": "hong-ng002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.45",
+      "lon": "12.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002007_hildi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hildi",
+      "en": "Hildi",
+      "slug": "hildi"
+    },
+    "code": {
+      "id": "NG002007_hildi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002007",
+      "level": 2,
+      "name": {
+        "local": "Hong",
+        "en": "Hong",
+        "slug": "hong-ng002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002007",
+        "level": 2,
+        "name": {
+          "local": "Hong",
+          "en": "Hong",
+          "slug": "hong-ng002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.377",
+      "lon": "13.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002007_hong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hong",
+      "en": "Hong",
+      "slug": "hong"
+    },
+    "code": {
+      "id": "NG002007_hong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002007",
+      "level": 2,
+      "name": {
+        "local": "Hong",
+        "en": "Hong",
+        "slug": "hong-ng002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002007",
+        "level": 2,
+        "name": {
+          "local": "Hong",
+          "en": "Hong",
+          "slug": "hong-ng002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.238",
+      "lon": "12.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002007_hushere-zum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hushere Zum",
+      "en": "Hushere Zum",
+      "slug": "hushere-zum"
+    },
+    "code": {
+      "id": "NG002007_hushere-zum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002007",
+      "level": 2,
+      "name": {
+        "local": "Hong",
+        "en": "Hong",
+        "slug": "hong-ng002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002007",
+        "level": 2,
+        "name": {
+          "local": "Hong",
+          "en": "Hong",
+          "slug": "hong-ng002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.271",
+      "lon": "13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002007_kwarhi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwarhi",
+      "en": "Kwarhi",
+      "slug": "kwarhi"
+    },
+    "code": {
+      "id": "NG002007_kwarhi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002007",
+      "level": 2,
+      "name": {
+        "local": "Hong",
+        "en": "Hong",
+        "slug": "hong-ng002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002007",
+        "level": 2,
+        "name": {
+          "local": "Hong",
+          "en": "Hong",
+          "slug": "hong-ng002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.322",
+      "lon": "13.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002007_mayo-lope",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayo Lope",
+      "en": "Mayo Lope",
+      "slug": "mayo-lope"
+    },
+    "code": {
+      "id": "NG002007_mayo-lope",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002007",
+      "level": 2,
+      "name": {
+        "local": "Hong",
+        "en": "Hong",
+        "slug": "hong-ng002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002007",
+        "level": 2,
+        "name": {
+          "local": "Hong",
+          "en": "Hong",
+          "slug": "hong-ng002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.33",
+      "lon": "13.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002007_shangui",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shangui",
+      "en": "Shangui",
+      "slug": "shangui"
+    },
+    "code": {
+      "id": "NG002007_shangui",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002007",
+      "level": 2,
+      "name": {
+        "local": "Hong",
+        "en": "Hong",
+        "slug": "hong-ng002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002007",
+        "level": 2,
+        "name": {
+          "local": "Hong",
+          "en": "Hong",
+          "slug": "hong-ng002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.296",
+      "lon": "12.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002007_thilbang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Thilbang",
+      "en": "Thilbang",
+      "slug": "thilbang"
+    },
+    "code": {
+      "id": "NG002007_thilbang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002007",
+      "level": 2,
+      "name": {
+        "local": "Hong",
+        "en": "Hong",
+        "slug": "hong-ng002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002007",
+        "level": 2,
+        "name": {
+          "local": "Hong",
+          "en": "Hong",
+          "slug": "hong-ng002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.153",
+      "lon": "12.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002007_uba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uba",
+      "en": "Uba",
+      "slug": "uba"
+    },
+    "code": {
+      "id": "NG002007_uba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002007",
+      "level": 2,
+      "name": {
+        "local": "Hong",
+        "en": "Hong",
+        "slug": "hong-ng002007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002007",
+        "level": 2,
+        "name": {
+          "local": "Hong",
+          "en": "Hong",
+          "slug": "hong-ng002007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.459",
+      "lon": "13.226"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

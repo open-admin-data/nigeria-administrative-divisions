@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG008004_balbaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Balbaya",
+      "en": "Balbaya",
+      "slug": "balbaya"
+    },
+    "code": {
+      "id": "NG008004_balbaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008004",
+      "level": 2,
+      "name": {
+        "local": "Bayo",
+        "en": "Bayo",
+        "slug": "bayo-ng008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008004",
+        "level": 2,
+        "name": {
+          "local": "Bayo",
+          "en": "Bayo",
+          "slug": "bayo-ng008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.601",
+      "lon": "11.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008004_briyel",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Briyel",
+      "en": "Briyel",
+      "slug": "briyel"
+    },
+    "code": {
+      "id": "NG008004_briyel",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008004",
+      "level": 2,
+      "name": {
+        "local": "Bayo",
+        "en": "Bayo",
+        "slug": "bayo-ng008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008004",
+        "level": 2,
+        "name": {
+          "local": "Bayo",
+          "en": "Bayo",
+          "slug": "bayo-ng008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.371",
+      "lon": "11.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008004_fikayel",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fikayel",
+      "en": "Fikayel",
+      "slug": "fikayel"
+    },
+    "code": {
+      "id": "NG008004_fikayel",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008004",
+      "level": 2,
+      "name": {
+        "local": "Bayo",
+        "en": "Bayo",
+        "slug": "bayo-ng008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008004",
+        "level": 2,
+        "name": {
+          "local": "Bayo",
+          "en": "Bayo",
+          "slug": "bayo-ng008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.447",
+      "lon": "11.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008004_gamadadi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamadadi",
+      "en": "Gamadadi",
+      "slug": "gamadadi"
+    },
+    "code": {
+      "id": "NG008004_gamadadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008004",
+      "level": 2,
+      "name": {
+        "local": "Bayo",
+        "en": "Bayo",
+        "slug": "bayo-ng008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008004",
+        "level": 2,
+        "name": {
+          "local": "Bayo",
+          "en": "Bayo",
+          "slug": "bayo-ng008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.319",
+      "lon": "11.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008004_jara-dali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jara Dali",
+      "en": "Jara Dali",
+      "slug": "jara-dali"
+    },
+    "code": {
+      "id": "NG008004_jara-dali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008004",
+      "level": 2,
+      "name": {
+        "local": "Bayo",
+        "en": "Bayo",
+        "slug": "bayo-ng008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008004",
+        "level": 2,
+        "name": {
+          "local": "Bayo",
+          "en": "Bayo",
+          "slug": "bayo-ng008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.252",
+      "lon": "11.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008004_jara-gol",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jara Gol",
+      "en": "Jara Gol",
+      "slug": "jara-gol"
+    },
+    "code": {
+      "id": "NG008004_jara-gol",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008004",
+      "level": 2,
+      "name": {
+        "local": "Bayo",
+        "en": "Bayo",
+        "slug": "bayo-ng008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008004",
+        "level": 2,
+        "name": {
+          "local": "Bayo",
+          "en": "Bayo",
+          "slug": "bayo-ng008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.26",
+      "lon": "11.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008004_limanti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Limanti",
+      "en": "Limanti",
+      "slug": "limanti"
+    },
+    "code": {
+      "id": "NG008004_limanti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008004",
+      "level": 2,
+      "name": {
+        "local": "Bayo",
+        "en": "Bayo",
+        "slug": "bayo-ng008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008004",
+        "level": 2,
+        "name": {
+          "local": "Bayo",
+          "en": "Bayo",
+          "slug": "bayo-ng008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.564",
+      "lon": "11.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008004_teli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Teli",
+      "en": "Teli",
+      "slug": "teli"
+    },
+    "code": {
+      "id": "NG008004_teli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008004",
+      "level": 2,
+      "name": {
+        "local": "Bayo",
+        "en": "Bayo",
+        "slug": "bayo-ng008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008004",
+        "level": 2,
+        "name": {
+          "local": "Bayo",
+          "en": "Bayo",
+          "slug": "bayo-ng008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.447",
+      "lon": "11.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008004_wuyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wuyo",
+      "en": "Wuyo",
+      "slug": "wuyo"
+    },
+    "code": {
+      "id": "NG008004_wuyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008004",
+      "level": 2,
+      "name": {
+        "local": "Bayo",
+        "en": "Bayo",
+        "slug": "bayo-ng008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008004",
+        "level": 2,
+        "name": {
+          "local": "Bayo",
+          "en": "Bayo",
+          "slug": "bayo-ng008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.402",
+      "lon": "11.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008004_zara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zara",
+      "en": "Zara",
+      "slug": "zara"
+    },
+    "code": {
+      "id": "NG008004_zara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008004",
+      "level": 2,
+      "name": {
+        "local": "Bayo",
+        "en": "Bayo",
+        "slug": "bayo-ng008004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008004",
+        "level": 2,
+        "name": {
+          "local": "Bayo",
+          "en": "Bayo",
+          "slug": "bayo-ng008004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.684",
+      "lon": "11.798"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

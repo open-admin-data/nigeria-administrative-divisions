@@ -1,0 +1,47 @@
+{
+  "id": "NG015002",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Abuja Municipal",
+    "en": "Abuja Municipal",
+    "slug": "abuja-municipal-ng015002"
+  },
+  "code": {
+    "id": "NG015002",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG015",
+    "level": 1,
+    "name": {
+      "local": "Federal Capital Territory",
+      "en": "Federal Capital Territory",
+      "slug": "federal-capital-territory-ng015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG015",
+      "level": 1,
+      "name": {
+        "local": "Federal Capital Territory",
+        "en": "Federal Capital Territory",
+        "slug": "federal-capital-territory-ng015"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.882",
+    "lon": "7.418"
+  },
+  "metadata": {},
+  "source": {}
+}

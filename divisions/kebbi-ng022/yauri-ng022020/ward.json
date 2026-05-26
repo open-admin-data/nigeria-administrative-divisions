@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG022020_chulukoma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chulu/koma",
+      "en": "Chulu/koma",
+      "slug": "chulukoma"
+    },
+    "code": {
+      "id": "NG022020_chulukoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022020",
+      "level": 2,
+      "name": {
+        "local": "Yauri",
+        "en": "Yauri",
+        "slug": "yauri-ng022020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022020",
+        "level": 2,
+        "name": {
+          "local": "Yauri",
+          "en": "Yauri",
+          "slug": "yauri-ng022020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.755",
+      "lon": "4.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022020_gungun-sarki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gungun Sarki",
+      "en": "Gungun Sarki",
+      "slug": "gungun-sarki"
+    },
+    "code": {
+      "id": "NG022020_gungun-sarki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022020",
+      "level": 2,
+      "name": {
+        "local": "Yauri",
+        "en": "Yauri",
+        "slug": "yauri-ng022020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022020",
+        "level": 2,
+        "name": {
+          "local": "Yauri",
+          "en": "Yauri",
+          "slug": "yauri-ng022020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.755",
+      "lon": "4.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022020_jijima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jijima",
+      "en": "Jijima",
+      "slug": "jijima"
+    },
+    "code": {
+      "id": "NG022020_jijima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022020",
+      "level": 2,
+      "name": {
+        "local": "Yauri",
+        "en": "Yauri",
+        "slug": "yauri-ng022020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022020",
+        "level": 2,
+        "name": {
+          "local": "Yauri",
+          "en": "Yauri",
+          "slug": "yauri-ng022020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.755",
+      "lon": "4.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022020_tondi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tondi",
+      "en": "Tondi",
+      "slug": "tondi"
+    },
+    "code": {
+      "id": "NG022020_tondi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022020",
+      "level": 2,
+      "name": {
+        "local": "Yauri",
+        "en": "Yauri",
+        "slug": "yauri-ng022020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022020",
+        "level": 2,
+        "name": {
+          "local": "Yauri",
+          "en": "Yauri",
+          "slug": "yauri-ng022020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.755",
+      "lon": "4.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022020_yelwa-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yelwa Central",
+      "en": "Yelwa Central",
+      "slug": "yelwa-central"
+    },
+    "code": {
+      "id": "NG022020_yelwa-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022020",
+      "level": 2,
+      "name": {
+        "local": "Yauri",
+        "en": "Yauri",
+        "slug": "yauri-ng022020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022020",
+        "level": 2,
+        "name": {
+          "local": "Yauri",
+          "en": "Yauri",
+          "slug": "yauri-ng022020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.755",
+      "lon": "4.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022020_yelwa-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yelwa East",
+      "en": "Yelwa East",
+      "slug": "yelwa-east"
+    },
+    "code": {
+      "id": "NG022020_yelwa-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022020",
+      "level": 2,
+      "name": {
+        "local": "Yauri",
+        "en": "Yauri",
+        "slug": "yauri-ng022020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022020",
+        "level": 2,
+        "name": {
+          "local": "Yauri",
+          "en": "Yauri",
+          "slug": "yauri-ng022020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.755",
+      "lon": "4.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022020_yelwa-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yelwa North",
+      "en": "Yelwa North",
+      "slug": "yelwa-north"
+    },
+    "code": {
+      "id": "NG022020_yelwa-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022020",
+      "level": 2,
+      "name": {
+        "local": "Yauri",
+        "en": "Yauri",
+        "slug": "yauri-ng022020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022020",
+        "level": 2,
+        "name": {
+          "local": "Yauri",
+          "en": "Yauri",
+          "slug": "yauri-ng022020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.755",
+      "lon": "4.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022020_yelwa-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yelwa South",
+      "en": "Yelwa South",
+      "slug": "yelwa-south"
+    },
+    "code": {
+      "id": "NG022020_yelwa-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022020",
+      "level": 2,
+      "name": {
+        "local": "Yauri",
+        "en": "Yauri",
+        "slug": "yauri-ng022020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022020",
+        "level": 2,
+        "name": {
+          "local": "Yauri",
+          "en": "Yauri",
+          "slug": "yauri-ng022020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.755",
+      "lon": "4.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022020_yelwa-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yelwa West",
+      "en": "Yelwa West",
+      "slug": "yelwa-west"
+    },
+    "code": {
+      "id": "NG022020_yelwa-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022020",
+      "level": 2,
+      "name": {
+        "local": "Yauri",
+        "en": "Yauri",
+        "slug": "yauri-ng022020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022020",
+        "level": 2,
+        "name": {
+          "local": "Yauri",
+          "en": "Yauri",
+          "slug": "yauri-ng022020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.755",
+      "lon": "4.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022020_zamare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zamare",
+      "en": "Zamare",
+      "slug": "zamare"
+    },
+    "code": {
+      "id": "NG022020_zamare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022020",
+      "level": 2,
+      "name": {
+        "local": "Yauri",
+        "en": "Yauri",
+        "slug": "yauri-ng022020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022020",
+        "level": 2,
+        "name": {
+          "local": "Yauri",
+          "en": "Yauri",
+          "slug": "yauri-ng022020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.755",
+      "lon": "4.726"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

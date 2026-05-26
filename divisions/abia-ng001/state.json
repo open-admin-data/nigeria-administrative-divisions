@@ -1,0 +1,30 @@
+{
+  "id": "NG001",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Abia",
+    "en": "Abia",
+    "slug": "abia-ng001"
+  },
+  "code": {
+    "id": "NG001",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 17,
+    "ward": 184
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.432",
+    "lon": "7.488"
+  },
+  "metadata": {},
+  "source": {}
+}

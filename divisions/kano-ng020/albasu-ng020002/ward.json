@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020002_albasu-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Albasu Central",
+      "en": "Albasu Central",
+      "slug": "albasu-central"
+    },
+    "code": {
+      "id": "NG020002_albasu-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020002",
+      "level": 2,
+      "name": {
+        "local": "Albasu",
+        "en": "Albasu",
+        "slug": "albasu-ng020002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020002",
+        "level": 2,
+        "name": {
+          "local": "Albasu",
+          "en": "Albasu",
+          "slug": "albasu-ng020002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.627",
+      "lon": "9.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020002_bataiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bataiya",
+      "en": "Bataiya",
+      "slug": "bataiya"
+    },
+    "code": {
+      "id": "NG020002_bataiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020002",
+      "level": 2,
+      "name": {
+        "local": "Albasu",
+        "en": "Albasu",
+        "slug": "albasu-ng020002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020002",
+        "level": 2,
+        "name": {
+          "local": "Albasu",
+          "en": "Albasu",
+          "slug": "albasu-ng020002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.627",
+      "lon": "9.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020002_chamarana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chamarana",
+      "en": "Chamarana",
+      "slug": "chamarana"
+    },
+    "code": {
+      "id": "NG020002_chamarana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020002",
+      "level": 2,
+      "name": {
+        "local": "Albasu",
+        "en": "Albasu",
+        "slug": "albasu-ng020002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020002",
+        "level": 2,
+        "name": {
+          "local": "Albasu",
+          "en": "Albasu",
+          "slug": "albasu-ng020002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.627",
+      "lon": "9.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020002_daho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Daho",
+      "en": "Daho",
+      "slug": "daho"
+    },
+    "code": {
+      "id": "NG020002_daho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020002",
+      "level": 2,
+      "name": {
+        "local": "Albasu",
+        "en": "Albasu",
+        "slug": "albasu-ng020002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020002",
+        "level": 2,
+        "name": {
+          "local": "Albasu",
+          "en": "Albasu",
+          "slug": "albasu-ng020002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.627",
+      "lon": "9.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020002_fanda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fanda",
+      "en": "Fanda",
+      "slug": "fanda"
+    },
+    "code": {
+      "id": "NG020002_fanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020002",
+      "level": 2,
+      "name": {
+        "local": "Albasu",
+        "en": "Albasu",
+        "slug": "albasu-ng020002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020002",
+        "level": 2,
+        "name": {
+          "local": "Albasu",
+          "en": "Albasu",
+          "slug": "albasu-ng020002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.627",
+      "lon": "9.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020002_faragai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Faragai",
+      "en": "Faragai",
+      "slug": "faragai"
+    },
+    "code": {
+      "id": "NG020002_faragai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020002",
+      "level": 2,
+      "name": {
+        "local": "Albasu",
+        "en": "Albasu",
+        "slug": "albasu-ng020002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020002",
+        "level": 2,
+        "name": {
+          "local": "Albasu",
+          "en": "Albasu",
+          "slug": "albasu-ng020002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.627",
+      "lon": "9.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020002_gagarame",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gagarame",
+      "en": "Gagarame",
+      "slug": "gagarame"
+    },
+    "code": {
+      "id": "NG020002_gagarame",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020002",
+      "level": 2,
+      "name": {
+        "local": "Albasu",
+        "en": "Albasu",
+        "slug": "albasu-ng020002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020002",
+        "level": 2,
+        "name": {
+          "local": "Albasu",
+          "en": "Albasu",
+          "slug": "albasu-ng020002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.627",
+      "lon": "9.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020002_hungu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hungu",
+      "en": "Hungu",
+      "slug": "hungu"
+    },
+    "code": {
+      "id": "NG020002_hungu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020002",
+      "level": 2,
+      "name": {
+        "local": "Albasu",
+        "en": "Albasu",
+        "slug": "albasu-ng020002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020002",
+        "level": 2,
+        "name": {
+          "local": "Albasu",
+          "en": "Albasu",
+          "slug": "albasu-ng020002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.627",
+      "lon": "9.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020002_saya-saya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Saya-saya",
+      "en": "Saya-saya",
+      "slug": "saya-saya"
+    },
+    "code": {
+      "id": "NG020002_saya-saya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020002",
+      "level": 2,
+      "name": {
+        "local": "Albasu",
+        "en": "Albasu",
+        "slug": "albasu-ng020002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020002",
+        "level": 2,
+        "name": {
+          "local": "Albasu",
+          "en": "Albasu",
+          "slug": "albasu-ng020002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.627",
+      "lon": "9.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020002_tsangaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsangaya",
+      "en": "Tsangaya",
+      "slug": "tsangaya"
+    },
+    "code": {
+      "id": "NG020002_tsangaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020002",
+      "level": 2,
+      "name": {
+        "local": "Albasu",
+        "en": "Albasu",
+        "slug": "albasu-ng020002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020002",
+        "level": 2,
+        "name": {
+          "local": "Albasu",
+          "en": "Albasu",
+          "slug": "albasu-ng020002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.627",
+      "lon": "9.029"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

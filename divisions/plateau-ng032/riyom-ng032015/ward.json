@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG032015_attakar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Attakar",
+      "en": "Attakar",
+      "slug": "attakar"
+    },
+    "code": {
+      "id": "NG032015_attakar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032015",
+      "level": 2,
+      "name": {
+        "local": "Riyom",
+        "en": "Riyom",
+        "slug": "riyom-ng032015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032015",
+        "level": 2,
+        "name": {
+          "local": "Riyom",
+          "en": "Riyom",
+          "slug": "riyom-ng032015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.556",
+      "lon": "8.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032015_bum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bum",
+      "en": "Bum",
+      "slug": "bum"
+    },
+    "code": {
+      "id": "NG032015_bum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032015",
+      "level": 2,
+      "name": {
+        "local": "Riyom",
+        "en": "Riyom",
+        "slug": "riyom-ng032015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032015",
+        "level": 2,
+        "name": {
+          "local": "Riyom",
+          "en": "Riyom",
+          "slug": "riyom-ng032015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.556",
+      "lon": "8.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032015_danto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danto",
+      "en": "Danto",
+      "slug": "danto"
+    },
+    "code": {
+      "id": "NG032015_danto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032015",
+      "level": 2,
+      "name": {
+        "local": "Riyom",
+        "en": "Riyom",
+        "slug": "riyom-ng032015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032015",
+        "level": 2,
+        "name": {
+          "local": "Riyom",
+          "en": "Riyom",
+          "slug": "riyom-ng032015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.556",
+      "lon": "8.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032015_jolkwi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jol/kwi",
+      "en": "Jol/kwi",
+      "slug": "jolkwi"
+    },
+    "code": {
+      "id": "NG032015_jolkwi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032015",
+      "level": 2,
+      "name": {
+        "local": "Riyom",
+        "en": "Riyom",
+        "slug": "riyom-ng032015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032015",
+        "level": 2,
+        "name": {
+          "local": "Riyom",
+          "en": "Riyom",
+          "slug": "riyom-ng032015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.556",
+      "lon": "8.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032015_ra-hoss",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ra-hoss",
+      "en": "Ra-hoss",
+      "slug": "ra-hoss"
+    },
+    "code": {
+      "id": "NG032015_ra-hoss",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032015",
+      "level": 2,
+      "name": {
+        "local": "Riyom",
+        "en": "Riyom",
+        "slug": "riyom-ng032015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032015",
+        "level": 2,
+        "name": {
+          "local": "Riyom",
+          "en": "Riyom",
+          "slug": "riyom-ng032015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.556",
+      "lon": "8.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032015_rim",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rim",
+      "en": "Rim",
+      "slug": "rim"
+    },
+    "code": {
+      "id": "NG032015_rim",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032015",
+      "level": 2,
+      "name": {
+        "local": "Riyom",
+        "en": "Riyom",
+        "slug": "riyom-ng032015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032015",
+        "level": 2,
+        "name": {
+          "local": "Riyom",
+          "en": "Riyom",
+          "slug": "riyom-ng032015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.556",
+      "lon": "8.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032015_riyom",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Riyom",
+      "en": "Riyom",
+      "slug": "riyom"
+    },
+    "code": {
+      "id": "NG032015_riyom",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032015",
+      "level": 2,
+      "name": {
+        "local": "Riyom",
+        "en": "Riyom",
+        "slug": "riyom-ng032015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032015",
+        "level": 2,
+        "name": {
+          "local": "Riyom",
+          "en": "Riyom",
+          "slug": "riyom-ng032015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.556",
+      "lon": "8.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032015_sharubutu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sharubutu",
+      "en": "Sharubutu",
+      "slug": "sharubutu"
+    },
+    "code": {
+      "id": "NG032015_sharubutu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032015",
+      "level": 2,
+      "name": {
+        "local": "Riyom",
+        "en": "Riyom",
+        "slug": "riyom-ng032015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032015",
+        "level": 2,
+        "name": {
+          "local": "Riyom",
+          "en": "Riyom",
+          "slug": "riyom-ng032015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.556",
+      "lon": "8.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032015_sopp",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sopp",
+      "en": "Sopp",
+      "slug": "sopp"
+    },
+    "code": {
+      "id": "NG032015_sopp",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032015",
+      "level": 2,
+      "name": {
+        "local": "Riyom",
+        "en": "Riyom",
+        "slug": "riyom-ng032015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032015",
+        "level": 2,
+        "name": {
+          "local": "Riyom",
+          "en": "Riyom",
+          "slug": "riyom-ng032015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.556",
+      "lon": "8.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032015_ta-hoss",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ta-hoss",
+      "en": "Ta-hoss",
+      "slug": "ta-hoss"
+    },
+    "code": {
+      "id": "NG032015_ta-hoss",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032015",
+      "level": 2,
+      "name": {
+        "local": "Riyom",
+        "en": "Riyom",
+        "slug": "riyom-ng032015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032015",
+        "level": 2,
+        "name": {
+          "local": "Riyom",
+          "en": "Riyom",
+          "slug": "riyom-ng032015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.556",
+      "lon": "8.705"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

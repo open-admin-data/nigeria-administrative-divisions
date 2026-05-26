@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG006005_anyama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Anyama",
+      "en": "Anyama",
+      "slug": "anyama"
+    },
+    "code": {
+      "id": "NG006005_anyama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005_emeyal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Emeyal",
+      "en": "Emeyal",
+      "slug": "emeyal"
+    },
+    "code": {
+      "id": "NG006005_emeyal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005_imiringi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imiringi",
+      "en": "Imiringi",
+      "slug": "imiringi"
+    },
+    "code": {
+      "id": "NG006005_imiringi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005_kolo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kolo",
+      "en": "Kolo",
+      "slug": "kolo"
+    },
+    "code": {
+      "id": "NG006005_kolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005_ogbia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbia",
+      "en": "Ogbia",
+      "slug": "ogbia"
+    },
+    "code": {
+      "id": "NG006005_ogbia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005_okodi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okodi",
+      "en": "Okodi",
+      "slug": "okodi"
+    },
+    "code": {
+      "id": "NG006005_okodi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005_ologi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ologi",
+      "en": "Ologi",
+      "slug": "ologi"
+    },
+    "code": {
+      "id": "NG006005_ologi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005_oloibiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oloibiri",
+      "en": "Oloibiri",
+      "slug": "oloibiri"
+    },
+    "code": {
+      "id": "NG006005_oloibiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005_opume",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Opume",
+      "en": "Opume",
+      "slug": "opume"
+    },
+    "code": {
+      "id": "NG006005_opume",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005_otakeme",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otakeme",
+      "en": "Otakeme",
+      "slug": "otakeme"
+    },
+    "code": {
+      "id": "NG006005_otakeme",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005_otuabula",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otuabula",
+      "en": "Otuabula",
+      "slug": "otuabula"
+    },
+    "code": {
+      "id": "NG006005_otuabula",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005_otuasega",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otuasega",
+      "en": "Otuasega",
+      "slug": "otuasega"
+    },
+    "code": {
+      "id": "NG006005_otuasega",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG006005_otuokpoti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otuokpoti",
+      "en": "Otuokpoti",
+      "slug": "otuokpoti"
+    },
+    "code": {
+      "id": "NG006005_otuokpoti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG006005",
+      "level": 2,
+      "name": {
+        "local": "Ogbia",
+        "en": "Ogbia",
+        "slug": "ogbia-ng006005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG006",
+        "level": 1,
+        "name": {
+          "local": "Bayelsa",
+          "en": "Bayelsa",
+          "slug": "bayelsa-ng006"
+        }
+      },
+      {
+        "id": "NG006005",
+        "level": 2,
+        "name": {
+          "local": "Ogbia",
+          "en": "Ogbia",
+          "slug": "ogbia-ng006005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.796",
+      "lon": "6.314"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

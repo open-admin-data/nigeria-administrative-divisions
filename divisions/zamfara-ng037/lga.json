@@ -1,0 +1,660 @@
+[
+  {
+    "id": "NG037001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Anka",
+      "en": "Anka",
+      "slug": "anka-ng037001"
+    },
+    "code": {
+      "id": "NG037001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.985",
+      "lon": "5.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bakura",
+      "en": "Bakura",
+      "slug": "bakura-ng037002"
+    },
+    "code": {
+      "id": "NG037002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.555",
+      "lon": "5.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Birnin Magaji",
+      "en": "Birnin Magaji",
+      "slug": "birnin-magaji-ng037003"
+    },
+    "code": {
+      "id": "NG037003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.454",
+      "lon": "6.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bukkuyum",
+      "en": "Bukkuyum",
+      "slug": "bukkuyum-ng037004"
+    },
+    "code": {
+      "id": "NG037004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.951",
+      "lon": "5.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bungudu",
+      "en": "Bungudu",
+      "slug": "bungudu-ng037005"
+    },
+    "code": {
+      "id": "NG037005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "6.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gummi",
+      "en": "Gummi",
+      "slug": "gummi-ng037006"
+    },
+    "code": {
+      "id": "NG037006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.013",
+      "lon": "5.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Gusau",
+      "en": "Gusau",
+      "slug": "gusau-ng037007"
+    },
+    "code": {
+      "id": "NG037007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.204",
+      "lon": "7.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Kaura Namoda",
+      "en": "Kaura Namoda",
+      "slug": "kaura-namoda-ng037008"
+    },
+    "code": {
+      "id": "NG037008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.482",
+      "lon": "6.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Maradun",
+      "en": "Maradun",
+      "slug": "maradun-ng037009"
+    },
+    "code": {
+      "id": "NG037009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.715",
+      "lon": "6.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Maru",
+      "en": "Maru",
+      "slug": "maru-ng037010"
+    },
+    "code": {
+      "id": "NG037010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.644",
+      "lon": "6.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Shinkafi",
+      "en": "Shinkafi",
+      "slug": "shinkafi-ng037011"
+    },
+    "code": {
+      "id": "NG037011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.029",
+      "lon": "6.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Talata Mafara",
+      "en": "Talata Mafara",
+      "slug": "talata-mafara-ng037012"
+    },
+    "code": {
+      "id": "NG037012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.396",
+      "lon": "6.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Tsafe",
+      "en": "Tsafe",
+      "slug": "tsafe-ng037013"
+    },
+    "code": {
+      "id": "NG037013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "6.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Zurmi",
+      "en": "Zurmi",
+      "slug": "zurmi-ng037014"
+    },
+    "code": {
+      "id": "NG037014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037",
+      "level": 1,
+      "name": {
+        "local": "Zamfara",
+        "en": "Zamfara",
+        "slug": "zamfara-ng037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "6.713"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

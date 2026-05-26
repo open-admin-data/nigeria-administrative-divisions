@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG008023_asaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asaga",
+      "en": "Asaga",
+      "slug": "asaga"
+    },
+    "code": {
+      "id": "NG008023_asaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008023",
+      "level": 2,
+      "name": {
+        "local": "Mobbar",
+        "en": "Mobbar",
+        "slug": "mobbar-ng008023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008023",
+        "level": 2,
+        "name": {
+          "local": "Mobbar",
+          "en": "Mobbar",
+          "slug": "mobbar-ng008023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.289",
+      "lon": "12.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008023_bogum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bogum",
+      "en": "Bogum",
+      "slug": "bogum"
+    },
+    "code": {
+      "id": "NG008023_bogum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008023",
+      "level": 2,
+      "name": {
+        "local": "Mobbar",
+        "en": "Mobbar",
+        "slug": "mobbar-ng008023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008023",
+        "level": 2,
+        "name": {
+          "local": "Mobbar",
+          "en": "Mobbar",
+          "slug": "mobbar-ng008023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.235",
+      "lon": "12.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008023_chamba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chamba",
+      "en": "Chamba",
+      "slug": "chamba"
+    },
+    "code": {
+      "id": "NG008023_chamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008023",
+      "level": 2,
+      "name": {
+        "local": "Mobbar",
+        "en": "Mobbar",
+        "slug": "mobbar-ng008023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008023",
+        "level": 2,
+        "name": {
+          "local": "Mobbar",
+          "en": "Mobbar",
+          "slug": "mobbar-ng008023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.075",
+      "lon": "12.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008023_damasak",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damasak",
+      "en": "Damasak",
+      "slug": "damasak"
+    },
+    "code": {
+      "id": "NG008023_damasak",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008023",
+      "level": 2,
+      "name": {
+        "local": "Mobbar",
+        "en": "Mobbar",
+        "slug": "mobbar-ng008023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008023",
+        "level": 2,
+        "name": {
+          "local": "Mobbar",
+          "en": "Mobbar",
+          "slug": "mobbar-ng008023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.108",
+      "lon": "12.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008023_duji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Duji",
+      "en": "Duji",
+      "slug": "duji"
+    },
+    "code": {
+      "id": "NG008023_duji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008023",
+      "level": 2,
+      "name": {
+        "local": "Mobbar",
+        "en": "Mobbar",
+        "slug": "mobbar-ng008023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008023",
+        "level": 2,
+        "name": {
+          "local": "Mobbar",
+          "en": "Mobbar",
+          "slug": "mobbar-ng008023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.195",
+      "lon": "12.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008023_gashagar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gashagar",
+      "en": "Gashagar",
+      "slug": "gashagar"
+    },
+    "code": {
+      "id": "NG008023_gashagar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008023",
+      "level": 2,
+      "name": {
+        "local": "Mobbar",
+        "en": "Mobbar",
+        "slug": "mobbar-ng008023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008023",
+        "level": 2,
+        "name": {
+          "local": "Mobbar",
+          "en": "Mobbar",
+          "slug": "mobbar-ng008023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.055",
+      "lon": "12.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008023_kareto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kareto",
+      "en": "Kareto",
+      "slug": "kareto"
+    },
+    "code": {
+      "id": "NG008023_kareto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008023",
+      "level": 2,
+      "name": {
+        "local": "Mobbar",
+        "en": "Mobbar",
+        "slug": "mobbar-ng008023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008023",
+        "level": 2,
+        "name": {
+          "local": "Mobbar",
+          "en": "Mobbar",
+          "slug": "mobbar-ng008023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.858",
+      "lon": "12.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008023_layi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Layi",
+      "en": "Layi",
+      "slug": "layi"
+    },
+    "code": {
+      "id": "NG008023_layi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008023",
+      "level": 2,
+      "name": {
+        "local": "Mobbar",
+        "en": "Mobbar",
+        "slug": "mobbar-ng008023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008023",
+        "level": 2,
+        "name": {
+          "local": "Mobbar",
+          "en": "Mobbar",
+          "slug": "mobbar-ng008023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.893",
+      "lon": "12.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008023_zanna-umorti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zanna Umorti",
+      "en": "Zanna Umorti",
+      "slug": "zanna-umorti"
+    },
+    "code": {
+      "id": "NG008023_zanna-umorti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008023",
+      "level": 2,
+      "name": {
+        "local": "Mobbar",
+        "en": "Mobbar",
+        "slug": "mobbar-ng008023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008023",
+        "level": 2,
+        "name": {
+          "local": "Mobbar",
+          "en": "Mobbar",
+          "slug": "mobbar-ng008023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.055",
+      "lon": "12.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008023_zari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zari",
+      "en": "Zari",
+      "slug": "zari"
+    },
+    "code": {
+      "id": "NG008023_zari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008023",
+      "level": 2,
+      "name": {
+        "local": "Mobbar",
+        "en": "Mobbar",
+        "slug": "mobbar-ng008023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008023",
+        "level": 2,
+        "name": {
+          "local": "Mobbar",
+          "en": "Mobbar",
+          "slug": "mobbar-ng008023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.112",
+      "lon": "12.728"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NG008020",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Magumeri",
+    "en": "Magumeri",
+    "slug": "magumeri-ng008020"
+  },
+  "code": {
+    "id": "NG008020",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG008",
+    "level": 1,
+    "name": {
+      "local": "Borno",
+      "en": "Borno",
+      "slug": "borno-ng008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG008",
+      "level": 1,
+      "name": {
+        "local": "Borno",
+        "en": "Borno",
+        "slug": "borno-ng008"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.225",
+    "lon": "12.712"
+  },
+  "metadata": {},
+  "source": {}
+}

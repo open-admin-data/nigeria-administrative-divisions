@@ -1,0 +1,47 @@
+{
+  "id": "NG005016",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Shira",
+    "en": "Shira",
+    "slug": "shira-ng005016"
+  },
+  "code": {
+    "id": "NG005016",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG005",
+    "level": 1,
+    "name": {
+      "local": "Bauchi",
+      "en": "Bauchi",
+      "slug": "bauchi-ng005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG005",
+      "level": 1,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.462",
+    "lon": "10.043"
+  },
+  "metadata": {},
+  "source": {}
+}

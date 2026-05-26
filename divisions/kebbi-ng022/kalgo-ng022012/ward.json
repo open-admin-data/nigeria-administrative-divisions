@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG022012_badariyamagarza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Badariya/magarza",
+      "en": "Badariya/magarza",
+      "slug": "badariyamagarza"
+    },
+    "code": {
+      "id": "NG022012_badariyamagarza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022012",
+      "level": 2,
+      "name": {
+        "local": "Kalgo",
+        "en": "Kalgo",
+        "slug": "kalgo-ng022012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022012",
+        "level": 2,
+        "name": {
+          "local": "Kalgo",
+          "en": "Kalgo",
+          "slug": "kalgo-ng022012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.386",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022012_dangomagayi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dangoma/gayi",
+      "en": "Dangoma/gayi",
+      "slug": "dangomagayi"
+    },
+    "code": {
+      "id": "NG022012_dangomagayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022012",
+      "level": 2,
+      "name": {
+        "local": "Kalgo",
+        "en": "Kalgo",
+        "slug": "kalgo-ng022012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022012",
+        "level": 2,
+        "name": {
+          "local": "Kalgo",
+          "en": "Kalgo",
+          "slug": "kalgo-ng022012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.386",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022012_diggi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Diggi",
+      "en": "Diggi",
+      "slug": "diggi"
+    },
+    "code": {
+      "id": "NG022012_diggi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022012",
+      "level": 2,
+      "name": {
+        "local": "Kalgo",
+        "en": "Kalgo",
+        "slug": "kalgo-ng022012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022012",
+        "level": 2,
+        "name": {
+          "local": "Kalgo",
+          "en": "Kalgo",
+          "slug": "kalgo-ng022012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.386",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022012_etene",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Etene",
+      "en": "Etene",
+      "slug": "etene"
+    },
+    "code": {
+      "id": "NG022012_etene",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022012",
+      "level": 2,
+      "name": {
+        "local": "Kalgo",
+        "en": "Kalgo",
+        "slug": "kalgo-ng022012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022012",
+        "level": 2,
+        "name": {
+          "local": "Kalgo",
+          "en": "Kalgo",
+          "slug": "kalgo-ng022012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.386",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022012_kalgo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kalgo",
+      "en": "Kalgo",
+      "slug": "kalgo"
+    },
+    "code": {
+      "id": "NG022012_kalgo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022012",
+      "level": 2,
+      "name": {
+        "local": "Kalgo",
+        "en": "Kalgo",
+        "slug": "kalgo-ng022012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022012",
+        "level": 2,
+        "name": {
+          "local": "Kalgo",
+          "en": "Kalgo",
+          "slug": "kalgo-ng022012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.386",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022012_kuka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuka",
+      "en": "Kuka",
+      "slug": "kuka"
+    },
+    "code": {
+      "id": "NG022012_kuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022012",
+      "level": 2,
+      "name": {
+        "local": "Kalgo",
+        "en": "Kalgo",
+        "slug": "kalgo-ng022012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022012",
+        "level": 2,
+        "name": {
+          "local": "Kalgo",
+          "en": "Kalgo",
+          "slug": "kalgo-ng022012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.386",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022012_mutubari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mutubari",
+      "en": "Mutubari",
+      "slug": "mutubari"
+    },
+    "code": {
+      "id": "NG022012_mutubari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022012",
+      "level": 2,
+      "name": {
+        "local": "Kalgo",
+        "en": "Kalgo",
+        "slug": "kalgo-ng022012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022012",
+        "level": 2,
+        "name": {
+          "local": "Kalgo",
+          "en": "Kalgo",
+          "slug": "kalgo-ng022012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.386",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022012_nayilwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nayilwa",
+      "en": "Nayilwa",
+      "slug": "nayilwa"
+    },
+    "code": {
+      "id": "NG022012_nayilwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022012",
+      "level": 2,
+      "name": {
+        "local": "Kalgo",
+        "en": "Kalgo",
+        "slug": "kalgo-ng022012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022012",
+        "level": 2,
+        "name": {
+          "local": "Kalgo",
+          "en": "Kalgo",
+          "slug": "kalgo-ng022012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.386",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022012_wurogauri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wurogauri",
+      "en": "Wurogauri",
+      "slug": "wurogauri"
+    },
+    "code": {
+      "id": "NG022012_wurogauri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022012",
+      "level": 2,
+      "name": {
+        "local": "Kalgo",
+        "en": "Kalgo",
+        "slug": "kalgo-ng022012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022012",
+        "level": 2,
+        "name": {
+          "local": "Kalgo",
+          "en": "Kalgo",
+          "slug": "kalgo-ng022012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.386",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022012_zuguru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zuguru",
+      "en": "Zuguru",
+      "slug": "zuguru"
+    },
+    "code": {
+      "id": "NG022012_zuguru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022012",
+      "level": 2,
+      "name": {
+        "local": "Kalgo",
+        "en": "Kalgo",
+        "slug": "kalgo-ng022012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022012",
+        "level": 2,
+        "name": {
+          "local": "Kalgo",
+          "en": "Kalgo",
+          "slug": "kalgo-ng022012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.386",
+      "lon": "4.058"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

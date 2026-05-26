@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG036013_bulabulin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bulabulin",
+      "en": "Bulabulin",
+      "slug": "bulabulin"
+    },
+    "code": {
+      "id": "NG036013_bulabulin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036013",
+      "level": 2,
+      "name": {
+        "local": "Nguru",
+        "en": "Nguru",
+        "slug": "nguru-ng036013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036013",
+        "level": 2,
+        "name": {
+          "local": "Nguru",
+          "en": "Nguru",
+          "slug": "nguru-ng036013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.855",
+      "lon": "10.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036013_bulanguwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bulanguwa",
+      "en": "Bulanguwa",
+      "slug": "bulanguwa"
+    },
+    "code": {
+      "id": "NG036013_bulanguwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036013",
+      "level": 2,
+      "name": {
+        "local": "Nguru",
+        "en": "Nguru",
+        "slug": "nguru-ng036013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036013",
+        "level": 2,
+        "name": {
+          "local": "Nguru",
+          "en": "Nguru",
+          "slug": "nguru-ng036013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.016",
+      "lon": "10.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036013_dabule",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dabule",
+      "en": "Dabule",
+      "slug": "dabule"
+    },
+    "code": {
+      "id": "NG036013_dabule",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036013",
+      "level": 2,
+      "name": {
+        "local": "Nguru",
+        "en": "Nguru",
+        "slug": "nguru-ng036013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036013",
+        "level": 2,
+        "name": {
+          "local": "Nguru",
+          "en": "Nguru",
+          "slug": "nguru-ng036013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.987",
+      "lon": "10.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036013_dumsaidogon-kuka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dumsai/dogon-kuka",
+      "en": "Dumsai/dogon-kuka",
+      "slug": "dumsaidogon-kuka"
+    },
+    "code": {
+      "id": "NG036013_dumsaidogon-kuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036013",
+      "level": 2,
+      "name": {
+        "local": "Nguru",
+        "en": "Nguru",
+        "slug": "nguru-ng036013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036013",
+        "level": 2,
+        "name": {
+          "local": "Nguru",
+          "en": "Nguru",
+          "slug": "nguru-ng036013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.892",
+      "lon": "10.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036013_garbibambori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garbi/bambori",
+      "en": "Garbi/bambori",
+      "slug": "garbibambori"
+    },
+    "code": {
+      "id": "NG036013_garbibambori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036013",
+      "level": 2,
+      "name": {
+        "local": "Nguru",
+        "en": "Nguru",
+        "slug": "nguru-ng036013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036013",
+        "level": 2,
+        "name": {
+          "local": "Nguru",
+          "en": "Nguru",
+          "slug": "nguru-ng036013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.978",
+      "lon": "10.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036013_hausari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hausari",
+      "en": "Hausari",
+      "slug": "hausari"
+    },
+    "code": {
+      "id": "NG036013_hausari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036013",
+      "level": 2,
+      "name": {
+        "local": "Nguru",
+        "en": "Nguru",
+        "slug": "nguru-ng036013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036013",
+        "level": 2,
+        "name": {
+          "local": "Nguru",
+          "en": "Nguru",
+          "slug": "nguru-ng036013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.877",
+      "lon": "10.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036013_kanuri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kanuri",
+      "en": "Kanuri",
+      "slug": "kanuri"
+    },
+    "code": {
+      "id": "NG036013_kanuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036013",
+      "level": 2,
+      "name": {
+        "local": "Nguru",
+        "en": "Nguru",
+        "slug": "nguru-ng036013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036013",
+        "level": 2,
+        "name": {
+          "local": "Nguru",
+          "en": "Nguru",
+          "slug": "nguru-ng036013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.885",
+      "lon": "10.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036013_maja-kura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maja-kura",
+      "en": "Maja-kura",
+      "slug": "maja-kura"
+    },
+    "code": {
+      "id": "NG036013_maja-kura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036013",
+      "level": 2,
+      "name": {
+        "local": "Nguru",
+        "en": "Nguru",
+        "slug": "nguru-ng036013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036013",
+        "level": 2,
+        "name": {
+          "local": "Nguru",
+          "en": "Nguru",
+          "slug": "nguru-ng036013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.903",
+      "lon": "10.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036013_mirba-kabirmirba-sagir",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mirba-kabir/mirba Sagir",
+      "en": "Mirba-kabir/mirba Sagir",
+      "slug": "mirba-kabirmirba-sagir"
+    },
+    "code": {
+      "id": "NG036013_mirba-kabirmirba-sagir",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036013",
+      "level": 2,
+      "name": {
+        "local": "Nguru",
+        "en": "Nguru",
+        "slug": "nguru-ng036013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036013",
+        "level": 2,
+        "name": {
+          "local": "Nguru",
+          "en": "Nguru",
+          "slug": "nguru-ng036013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.978",
+      "lon": "10.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036013_nglaiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nglaiwa",
+      "en": "Nglaiwa",
+      "slug": "nglaiwa"
+    },
+    "code": {
+      "id": "NG036013_nglaiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036013",
+      "level": 2,
+      "name": {
+        "local": "Nguru",
+        "en": "Nguru",
+        "slug": "nguru-ng036013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036013",
+        "level": 2,
+        "name": {
+          "local": "Nguru",
+          "en": "Nguru",
+          "slug": "nguru-ng036013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.896",
+      "lon": "10.458"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

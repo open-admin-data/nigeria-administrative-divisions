@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG008022_ala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ala",
+      "en": "Ala",
+      "slug": "ala"
+    },
+    "code": {
+      "id": "NG008022_ala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.177",
+      "lon": "13.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008022_alla-lawanti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alla Lawanti",
+      "en": "Alla Lawanti",
+      "slug": "alla-lawanti"
+    },
+    "code": {
+      "id": "NG008022_alla-lawanti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.258",
+      "lon": "13.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008022_borsori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Borsori",
+      "en": "Borsori",
+      "slug": "borsori"
+    },
+    "code": {
+      "id": "NG008022_borsori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.452",
+      "lon": "13.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008022_gumna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gumna",
+      "en": "Gumna",
+      "slug": "gumna"
+    },
+    "code": {
+      "id": "NG008022_gumna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.2",
+      "lon": "13.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008022_kabulawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kabulawa",
+      "en": "Kabulawa",
+      "slug": "kabulawa"
+    },
+    "code": {
+      "id": "NG008022_kabulawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.279",
+      "lon": "13.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008022_kirenowa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kirenowa",
+      "en": "Kirenowa",
+      "slug": "kirenowa"
+    },
+    "code": {
+      "id": "NG008022_kirenowa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.517",
+      "lon": "14.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008022_kulli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kulli",
+      "en": "Kulli",
+      "slug": "kulli"
+    },
+    "code": {
+      "id": "NG008022_kulli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.336",
+      "lon": "13.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008022_marte",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Marte",
+      "en": "Marte",
+      "slug": "marte"
+    },
+    "code": {
+      "id": "NG008022_marte",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.364",
+      "lon": "13.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008022_mawulli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mawulli",
+      "en": "Mawulli",
+      "slug": "mawulli"
+    },
+    "code": {
+      "id": "NG008022_mawulli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.406",
+      "lon": "13.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008022_musune",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Musune",
+      "en": "Musune",
+      "slug": "musune"
+    },
+    "code": {
+      "id": "NG008022_musune",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.245",
+      "lon": "13.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008022_ngilewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngilewa",
+      "en": "Ngilewa",
+      "slug": "ngilewa"
+    },
+    "code": {
+      "id": "NG008022_ngilewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.406",
+      "lon": "13.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008022_njine",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Njine",
+      "en": "Njine",
+      "slug": "njine"
+    },
+    "code": {
+      "id": "NG008022_njine",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.264",
+      "lon": "13.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008022_zaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zaga",
+      "en": "Zaga",
+      "slug": "zaga"
+    },
+    "code": {
+      "id": "NG008022_zaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008022",
+      "level": 2,
+      "name": {
+        "local": "Marte",
+        "en": "Marte",
+        "slug": "marte-ng008022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008022",
+        "level": 2,
+        "name": {
+          "local": "Marte",
+          "en": "Marte",
+          "slug": "marte-ng008022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.532",
+      "lon": "13.926"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

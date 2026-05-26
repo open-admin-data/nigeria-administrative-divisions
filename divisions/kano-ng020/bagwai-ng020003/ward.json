@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020003_bagwai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bagwai",
+      "en": "Bagwai",
+      "slug": "bagwai"
+    },
+    "code": {
+      "id": "NG020003_bagwai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020003",
+      "level": 2,
+      "name": {
+        "local": "Bagwai",
+        "en": "Bagwai",
+        "slug": "bagwai-ng020003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020003",
+        "level": 2,
+        "name": {
+          "local": "Bagwai",
+          "en": "Bagwai",
+          "slug": "bagwai-ng020003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.098",
+      "lon": "8.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020003_dangada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dangada",
+      "en": "Dangada",
+      "slug": "dangada"
+    },
+    "code": {
+      "id": "NG020003_dangada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020003",
+      "level": 2,
+      "name": {
+        "local": "Bagwai",
+        "en": "Bagwai",
+        "slug": "bagwai-ng020003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020003",
+        "level": 2,
+        "name": {
+          "local": "Bagwai",
+          "en": "Bagwai",
+          "slug": "bagwai-ng020003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.098",
+      "lon": "8.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020003_gadanya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gadanya",
+      "en": "Gadanya",
+      "slug": "gadanya"
+    },
+    "code": {
+      "id": "NG020003_gadanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020003",
+      "level": 2,
+      "name": {
+        "local": "Bagwai",
+        "en": "Bagwai",
+        "slug": "bagwai-ng020003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020003",
+        "level": 2,
+        "name": {
+          "local": "Bagwai",
+          "en": "Bagwai",
+          "slug": "bagwai-ng020003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.098",
+      "lon": "8.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020003_gogori",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gogori",
+      "en": "Gogori",
+      "slug": "gogori"
+    },
+    "code": {
+      "id": "NG020003_gogori",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020003",
+      "level": 2,
+      "name": {
+        "local": "Bagwai",
+        "en": "Bagwai",
+        "slug": "bagwai-ng020003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020003",
+        "level": 2,
+        "name": {
+          "local": "Bagwai",
+          "en": "Bagwai",
+          "slug": "bagwai-ng020003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.098",
+      "lon": "8.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020003_kiyawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kiyawa",
+      "en": "Kiyawa",
+      "slug": "kiyawa"
+    },
+    "code": {
+      "id": "NG020003_kiyawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020003",
+      "level": 2,
+      "name": {
+        "local": "Bagwai",
+        "en": "Bagwai",
+        "slug": "bagwai-ng020003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020003",
+        "level": 2,
+        "name": {
+          "local": "Bagwai",
+          "en": "Bagwai",
+          "slug": "bagwai-ng020003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.098",
+      "lon": "8.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020003_kwajali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwajali",
+      "en": "Kwajali",
+      "slug": "kwajali"
+    },
+    "code": {
+      "id": "NG020003_kwajali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020003",
+      "level": 2,
+      "name": {
+        "local": "Bagwai",
+        "en": "Bagwai",
+        "slug": "bagwai-ng020003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020003",
+        "level": 2,
+        "name": {
+          "local": "Bagwai",
+          "en": "Bagwai",
+          "slug": "bagwai-ng020003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.098",
+      "lon": "8.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020003_rimin-dako",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rimin Dako",
+      "en": "Rimin Dako",
+      "slug": "rimin-dako"
+    },
+    "code": {
+      "id": "NG020003_rimin-dako",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020003",
+      "level": 2,
+      "name": {
+        "local": "Bagwai",
+        "en": "Bagwai",
+        "slug": "bagwai-ng020003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020003",
+        "level": 2,
+        "name": {
+          "local": "Bagwai",
+          "en": "Bagwai",
+          "slug": "bagwai-ng020003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.098",
+      "lon": "8.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020003_romo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Romo",
+      "en": "Romo",
+      "slug": "romo"
+    },
+    "code": {
+      "id": "NG020003_romo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020003",
+      "level": 2,
+      "name": {
+        "local": "Bagwai",
+        "en": "Bagwai",
+        "slug": "bagwai-ng020003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020003",
+        "level": 2,
+        "name": {
+          "local": "Bagwai",
+          "en": "Bagwai",
+          "slug": "bagwai-ng020003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.098",
+      "lon": "8.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020003_sare-sare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sare-sare",
+      "en": "Sare-sare",
+      "slug": "sare-sare"
+    },
+    "code": {
+      "id": "NG020003_sare-sare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020003",
+      "level": 2,
+      "name": {
+        "local": "Bagwai",
+        "en": "Bagwai",
+        "slug": "bagwai-ng020003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020003",
+        "level": 2,
+        "name": {
+          "local": "Bagwai",
+          "en": "Bagwai",
+          "slug": "bagwai-ng020003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.098",
+      "lon": "8.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020003_wuro-bagga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wuro Bagga",
+      "en": "Wuro Bagga",
+      "slug": "wuro-bagga"
+    },
+    "code": {
+      "id": "NG020003_wuro-bagga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020003",
+      "level": 2,
+      "name": {
+        "local": "Bagwai",
+        "en": "Bagwai",
+        "slug": "bagwai-ng020003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020003",
+        "level": 2,
+        "name": {
+          "local": "Bagwai",
+          "en": "Bagwai",
+          "slug": "bagwai-ng020003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.098",
+      "lon": "8.125"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

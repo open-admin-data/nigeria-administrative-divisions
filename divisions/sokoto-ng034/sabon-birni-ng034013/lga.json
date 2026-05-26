@@ -1,0 +1,47 @@
+{
+  "id": "NG034013",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Sabon Birni",
+    "en": "Sabon Birni",
+    "slug": "sabon-birni-ng034013"
+  },
+  "code": {
+    "id": "NG034013",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG034",
+    "level": 1,
+    "name": {
+      "local": "Sokoto",
+      "en": "Sokoto",
+      "slug": "sokoto-ng034"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG034",
+      "level": 1,
+      "name": {
+        "local": "Sokoto",
+        "en": "Sokoto",
+        "slug": "sokoto-ng034"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.494",
+    "lon": "6.25"
+  },
+  "metadata": {},
+  "source": {}
+}

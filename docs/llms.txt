@@ -1,0 +1,126 @@
+# Nigeria Administrative Divisions
+
+> Open dataset of Nigeria's administrative hierarchy:
+> 37 states, 774 local government areas, 8,799 wards.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total states: 37
+- Total local government areas: 774
+- Total wards: 8,799
+- Coordinates: included (all levels)
+- Last updated: 2026-05-26
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All states (JSON)](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/data/all-state.json)
+- [All local government areas (JSON)](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/data/all-lga.json)
+- [All wards (JSON)](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/data/all-ward.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/data/schema.json)
+
+## Browse by State
+
+- [Abia](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/abia-ng001/) — 17 local government areas, 184 wards
+- [Adamawa](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/adamawa-ng002/) — 21 local government areas, 226 wards
+- [Akwa Ibom](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/akwa-ibom-ng003/) — 31 local government areas, 329 wards
+- [Anambra](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/anambra-ng004/) — 21 local government areas, 326 wards
+- [Bauchi](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/bauchi-ng005/) — 20 local government areas, 212 wards
+- [Bayelsa](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/bayelsa-ng006/) — 8 local government areas, 105 wards
+- [Benue](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/benue-ng007/) — 23 local government areas, 264 wards
+- [Borno](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/borno-ng008/) — 27 local government areas, 302 wards
+- [Cross River](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/cross-river-ng009/) — 18 local government areas, 193 wards
+- [Delta](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/delta-ng010/) — 25 local government areas, 270 wards
+- [Ebonyi](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/ebonyi-ng011/) — 13 local government areas, 171 wards
+- [Edo](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/edo-ng012/) — 18 local government areas, 192 wards
+- [Ekiti](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/ekiti-ng013/) — 16 local government areas, 177 wards
+- [Enugu](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/enugu-ng014/) — 17 local government areas, 260 wards
+- [Federal Capital Territory](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/federal-capital-territory-ng015/) — 6 local government areas, 62 wards
+- [Gombe](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/gombe-ng016/) — 11 local government areas, 114 wards
+- [Imo](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/imo-ng017/) — 27 local government areas, 305 wards
+- [Jigawa](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/jigawa-ng018/) — 27 local government areas, 287 wards
+- [Kaduna](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/kaduna-ng019/) — 23 local government areas, 255 wards
+- [Kano](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/kano-ng020/) — 44 local government areas, 473 wards
+- [Katsina](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/katsina-ng021/) — 34 local government areas, 361 wards
+- [Kebbi](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/kebbi-ng022/) — 21 local government areas, 225 wards
+- [Kogi](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/kogi-ng023/) — 21 local government areas, 229 wards
+- [Kwara](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/kwara-ng024/) — 16 local government areas, 164 wards
+- [Lagos](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/lagos-ng025/) — 20 local government areas, 233 wards
+- [Nasarawa](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/nasarawa-ng026/) — 13 local government areas, 170 wards
+- [Niger](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/niger-ng027/) — 25 local government areas, 274 wards
+- [Ogun](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/ogun-ng028/) — 20 local government areas, 236 wards
+- [Ondo](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/ondo-ng029/) — 18 local government areas, 203 wards
+- [Osun](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/osun-ng030/) — 30 local government areas, 361 wards
+- [Oyo](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/oyo-ng031/) — 33 local government areas, 363 wards
+- [Plateau](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/plateau-ng032/) — 17 local government areas, 217 wards
+- [Rivers](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/rivers-ng033/) — 23 local government areas, 319 wards
+- [Sokoto](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/sokoto-ng034/) — 23 local government areas, 244 wards
+- [Taraba](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/taraba-ng035/) — 16 local government areas, 168 wards
+- [Yobe](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/yobe-ng036/) — 17 local government areas, 178 wards
+- [Zamfara](https://github.com/open-admin-data/nigeria-administrative-divisions/tree/main/divisions/zamfara-ng037/) — 14 local government areas, 147 wards
+
+## Per-State Full Data
+
+- [Abia](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/abia-ng001.txt)
+- [Adamawa](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/adamawa-ng002.txt)
+- [Akwa Ibom](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/akwa-ibom-ng003.txt)
+- [Anambra](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/anambra-ng004.txt)
+- [Bauchi](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/bauchi-ng005.txt)
+- [Bayelsa](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/bayelsa-ng006.txt)
+- [Benue](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/benue-ng007.txt)
+- [Borno](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/borno-ng008.txt)
+- [Cross River](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/cross-river-ng009.txt)
+- [Delta](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/delta-ng010.txt)
+- [Ebonyi](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/ebonyi-ng011.txt)
+- [Edo](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/edo-ng012.txt)
+- [Ekiti](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/ekiti-ng013.txt)
+- [Enugu](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/enugu-ng014.txt)
+- [Federal Capital Territory](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/federal-capital-territory-ng015.txt)
+- [Gombe](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/gombe-ng016.txt)
+- [Imo](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/imo-ng017.txt)
+- [Jigawa](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/jigawa-ng018.txt)
+- [Kaduna](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/kaduna-ng019.txt)
+- [Kano](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/kano-ng020.txt)
+- [Katsina](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/katsina-ng021.txt)
+- [Kebbi](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/kebbi-ng022.txt)
+- [Kogi](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/kogi-ng023.txt)
+- [Kwara](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/kwara-ng024.txt)
+- [Lagos](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/lagos-ng025.txt)
+- [Nasarawa](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/nasarawa-ng026.txt)
+- [Niger](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/niger-ng027.txt)
+- [Ogun](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/ogun-ng028.txt)
+- [Ondo](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/ondo-ng029.txt)
+- [Osun](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/osun-ng030.txt)
+- [Oyo](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/oyo-ng031.txt)
+- [Plateau](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/plateau-ng032.txt)
+- [Rivers](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/rivers-ng033.txt)
+- [Sokoto](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/sokoto-ng034.txt)
+- [Taraba](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/taraba-ng035.txt)
+- [Yobe](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/yobe-ng036.txt)
+- [Zamfara](https://raw.githubusercontent.com/open-admin-data/nigeria-administrative-divisions/main/docs/llms-full/zamfara-ng037.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (state), 2 (local government area), 3 (ward)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Nigeria Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/nigeria-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

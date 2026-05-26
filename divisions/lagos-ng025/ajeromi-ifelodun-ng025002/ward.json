@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG025002_ago-hausa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ago Hausa",
+      "en": "Ago Hausa",
+      "slug": "ago-hausa"
+    },
+    "code": {
+      "id": "NG025002_ago-hausa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025002",
+      "level": 2,
+      "name": {
+        "local": "Ajeromi-Ifelodun",
+        "en": "Ajeromi-Ifelodun",
+        "slug": "ajeromi-ifelodun-ng025002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025002",
+        "level": 2,
+        "name": {
+          "local": "Ajeromi-Ifelodun",
+          "en": "Ajeromi-Ifelodun",
+          "slug": "ajeromi-ifelodun-ng025002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.456",
+      "lon": "3.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025002_alaba-oro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alaba Oro",
+      "en": "Alaba Oro",
+      "slug": "alaba-oro"
+    },
+    "code": {
+      "id": "NG025002_alaba-oro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025002",
+      "level": 2,
+      "name": {
+        "local": "Ajeromi-Ifelodun",
+        "en": "Ajeromi-Ifelodun",
+        "slug": "ajeromi-ifelodun-ng025002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025002",
+        "level": 2,
+        "name": {
+          "local": "Ajeromi-Ifelodun",
+          "en": "Ajeromi-Ifelodun",
+          "slug": "ajeromi-ifelodun-ng025002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.456",
+      "lon": "3.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025002_awodi-ora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awodi-ora",
+      "en": "Awodi-ora",
+      "slug": "awodi-ora"
+    },
+    "code": {
+      "id": "NG025002_awodi-ora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025002",
+      "level": 2,
+      "name": {
+        "local": "Ajeromi-Ifelodun",
+        "en": "Ajeromi-Ifelodun",
+        "slug": "ajeromi-ifelodun-ng025002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025002",
+        "level": 2,
+        "name": {
+          "local": "Ajeromi-Ifelodun",
+          "en": "Ajeromi-Ifelodun",
+          "slug": "ajeromi-ifelodun-ng025002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.456",
+      "lon": "3.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025002_layeni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Layeni",
+      "en": "Layeni",
+      "slug": "layeni"
+    },
+    "code": {
+      "id": "NG025002_layeni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025002",
+      "level": 2,
+      "name": {
+        "local": "Ajeromi-Ifelodun",
+        "en": "Ajeromi-Ifelodun",
+        "slug": "ajeromi-ifelodun-ng025002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025002",
+        "level": 2,
+        "name": {
+          "local": "Ajeromi-Ifelodun",
+          "en": "Ajeromi-Ifelodun",
+          "slug": "ajeromi-ifelodun-ng025002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.456",
+      "lon": "3.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025002_mosafejo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mosafejo",
+      "en": "Mosafejo",
+      "slug": "mosafejo"
+    },
+    "code": {
+      "id": "NG025002_mosafejo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025002",
+      "level": 2,
+      "name": {
+        "local": "Ajeromi-Ifelodun",
+        "en": "Ajeromi-Ifelodun",
+        "slug": "ajeromi-ifelodun-ng025002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025002",
+        "level": 2,
+        "name": {
+          "local": "Ajeromi-Ifelodun",
+          "en": "Ajeromi-Ifelodun",
+          "slug": "ajeromi-ifelodun-ng025002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.456",
+      "lon": "3.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025002_ojo-road",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojo Road",
+      "en": "Ojo Road",
+      "slug": "ojo-road"
+    },
+    "code": {
+      "id": "NG025002_ojo-road",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025002",
+      "level": 2,
+      "name": {
+        "local": "Ajeromi-Ifelodun",
+        "en": "Ajeromi-Ifelodun",
+        "slug": "ajeromi-ifelodun-ng025002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025002",
+        "level": 2,
+        "name": {
+          "local": "Ajeromi-Ifelodun",
+          "en": "Ajeromi-Ifelodun",
+          "slug": "ajeromi-ifelodun-ng025002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.456",
+      "lon": "3.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025002_olodi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olodi",
+      "en": "Olodi",
+      "slug": "olodi"
+    },
+    "code": {
+      "id": "NG025002_olodi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025002",
+      "level": 2,
+      "name": {
+        "local": "Ajeromi-Ifelodun",
+        "en": "Ajeromi-Ifelodun",
+        "slug": "ajeromi-ifelodun-ng025002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025002",
+        "level": 2,
+        "name": {
+          "local": "Ajeromi-Ifelodun",
+          "en": "Ajeromi-Ifelodun",
+          "slug": "ajeromi-ifelodun-ng025002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.456",
+      "lon": "3.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025002_temidire-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Temidire I",
+      "en": "Temidire I",
+      "slug": "temidire-i"
+    },
+    "code": {
+      "id": "NG025002_temidire-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025002",
+      "level": 2,
+      "name": {
+        "local": "Ajeromi-Ifelodun",
+        "en": "Ajeromi-Ifelodun",
+        "slug": "ajeromi-ifelodun-ng025002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025002",
+        "level": 2,
+        "name": {
+          "local": "Ajeromi-Ifelodun",
+          "en": "Ajeromi-Ifelodun",
+          "slug": "ajeromi-ifelodun-ng025002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.456",
+      "lon": "3.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025002_temidire-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Temidire Ii",
+      "en": "Temidire Ii",
+      "slug": "temidire-ii"
+    },
+    "code": {
+      "id": "NG025002_temidire-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025002",
+      "level": 2,
+      "name": {
+        "local": "Ajeromi-Ifelodun",
+        "en": "Ajeromi-Ifelodun",
+        "slug": "ajeromi-ifelodun-ng025002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025002",
+        "level": 2,
+        "name": {
+          "local": "Ajeromi-Ifelodun",
+          "en": "Ajeromi-Ifelodun",
+          "slug": "ajeromi-ifelodun-ng025002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.456",
+      "lon": "3.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025002_tolu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tolu",
+      "en": "Tolu",
+      "slug": "tolu"
+    },
+    "code": {
+      "id": "NG025002_tolu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025002",
+      "level": 2,
+      "name": {
+        "local": "Ajeromi-Ifelodun",
+        "en": "Ajeromi-Ifelodun",
+        "slug": "ajeromi-ifelodun-ng025002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025002",
+        "level": 2,
+        "name": {
+          "local": "Ajeromi-Ifelodun",
+          "en": "Ajeromi-Ifelodun",
+          "slug": "ajeromi-ifelodun-ng025002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.456",
+      "lon": "3.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG025002_wilmer",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wilmer",
+      "en": "Wilmer",
+      "slug": "wilmer"
+    },
+    "code": {
+      "id": "NG025002_wilmer",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG025002",
+      "level": 2,
+      "name": {
+        "local": "Ajeromi-Ifelodun",
+        "en": "Ajeromi-Ifelodun",
+        "slug": "ajeromi-ifelodun-ng025002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG025",
+        "level": 1,
+        "name": {
+          "local": "Lagos",
+          "en": "Lagos",
+          "slug": "lagos-ng025"
+        }
+      },
+      {
+        "id": "NG025002",
+        "level": 2,
+        "name": {
+          "local": "Ajeromi-Ifelodun",
+          "en": "Ajeromi-Ifelodun",
+          "slug": "ajeromi-ifelodun-ng025002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.456",
+      "lon": "3.337"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

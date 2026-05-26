@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG022021_bedi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bedi",
+      "en": "Bedi",
+      "slug": "bedi"
+    },
+    "code": {
+      "id": "NG022021_bedi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022021",
+      "level": 2,
+      "name": {
+        "local": "Zuru",
+        "en": "Zuru",
+        "slug": "zuru-ng022021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022021",
+        "level": 2,
+        "name": {
+          "local": "Zuru",
+          "en": "Zuru",
+          "slug": "zuru-ng022021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.413",
+      "lon": "5.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022021_ciroman-dabai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ciroman Dabai",
+      "en": "Ciroman Dabai",
+      "slug": "ciroman-dabai"
+    },
+    "code": {
+      "id": "NG022021_ciroman-dabai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022021",
+      "level": 2,
+      "name": {
+        "local": "Zuru",
+        "en": "Zuru",
+        "slug": "zuru-ng022021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022021",
+        "level": 2,
+        "name": {
+          "local": "Zuru",
+          "en": "Zuru",
+          "slug": "zuru-ng022021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.413",
+      "lon": "5.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022021_isgogo-dago",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isgogo /dago",
+      "en": "Isgogo /dago",
+      "slug": "isgogo-dago"
+    },
+    "code": {
+      "id": "NG022021_isgogo-dago",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022021",
+      "level": 2,
+      "name": {
+        "local": "Zuru",
+        "en": "Zuru",
+        "slug": "zuru-ng022021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022021",
+        "level": 2,
+        "name": {
+          "local": "Zuru",
+          "en": "Zuru",
+          "slug": "zuru-ng022021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.413",
+      "lon": "5.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022021_mangaushe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Manga/ushe",
+      "en": "Manga/ushe",
+      "slug": "mangaushe"
+    },
+    "code": {
+      "id": "NG022021_mangaushe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022021",
+      "level": 2,
+      "name": {
+        "local": "Zuru",
+        "en": "Zuru",
+        "slug": "zuru-ng022021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022021",
+        "level": 2,
+        "name": {
+          "local": "Zuru",
+          "en": "Zuru",
+          "slug": "zuru-ng022021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.413",
+      "lon": "5.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022021_rafin-zuru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rafin Zuru",
+      "en": "Rafin Zuru",
+      "slug": "rafin-zuru"
+    },
+    "code": {
+      "id": "NG022021_rafin-zuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022021",
+      "level": 2,
+      "name": {
+        "local": "Zuru",
+        "en": "Zuru",
+        "slug": "zuru-ng022021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022021",
+        "level": 2,
+        "name": {
+          "local": "Zuru",
+          "en": "Zuru",
+          "slug": "zuru-ng022021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.413",
+      "lon": "5.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022021_rikoto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rikoto",
+      "en": "Rikoto",
+      "slug": "rikoto"
+    },
+    "code": {
+      "id": "NG022021_rikoto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022021",
+      "level": 2,
+      "name": {
+        "local": "Zuru",
+        "en": "Zuru",
+        "slug": "zuru-ng022021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022021",
+        "level": 2,
+        "name": {
+          "local": "Zuru",
+          "en": "Zuru",
+          "slug": "zuru-ng022021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.413",
+      "lon": "5.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022021_rumudabenseme",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumu/daben/seme",
+      "en": "Rumu/daben/seme",
+      "slug": "rumudabenseme"
+    },
+    "code": {
+      "id": "NG022021_rumudabenseme",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022021",
+      "level": 2,
+      "name": {
+        "local": "Zuru",
+        "en": "Zuru",
+        "slug": "zuru-ng022021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022021",
+        "level": 2,
+        "name": {
+          "local": "Zuru",
+          "en": "Zuru",
+          "slug": "zuru-ng022021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.413",
+      "lon": "5.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022021_senchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Senchi",
+      "en": "Senchi",
+      "slug": "senchi"
+    },
+    "code": {
+      "id": "NG022021_senchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022021",
+      "level": 2,
+      "name": {
+        "local": "Zuru",
+        "en": "Zuru",
+        "slug": "zuru-ng022021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022021",
+        "level": 2,
+        "name": {
+          "local": "Zuru",
+          "en": "Zuru",
+          "slug": "zuru-ng022021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.413",
+      "lon": "5.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022021_tadurga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tadurga",
+      "en": "Tadurga",
+      "slug": "tadurga"
+    },
+    "code": {
+      "id": "NG022021_tadurga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022021",
+      "level": 2,
+      "name": {
+        "local": "Zuru",
+        "en": "Zuru",
+        "slug": "zuru-ng022021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022021",
+        "level": 2,
+        "name": {
+          "local": "Zuru",
+          "en": "Zuru",
+          "slug": "zuru-ng022021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.413",
+      "lon": "5.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022021_zodi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zodi",
+      "en": "Zodi",
+      "slug": "zodi"
+    },
+    "code": {
+      "id": "NG022021_zodi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022021",
+      "level": 2,
+      "name": {
+        "local": "Zuru",
+        "en": "Zuru",
+        "slug": "zuru-ng022021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022021",
+        "level": 2,
+        "name": {
+          "local": "Zuru",
+          "en": "Zuru",
+          "slug": "zuru-ng022021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.413",
+      "lon": "5.279"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

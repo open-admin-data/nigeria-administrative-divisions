@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG012002_egor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egor",
+      "en": "Egor",
+      "slug": "egor"
+    },
+    "code": {
+      "id": "NG012002_egor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012002",
+      "level": 2,
+      "name": {
+        "local": "Egor",
+        "en": "Egor",
+        "slug": "egor-ng012002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012002",
+        "level": 2,
+        "name": {
+          "local": "Egor",
+          "en": "Egor",
+          "slug": "egor-ng012002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.357",
+      "lon": "5.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012002_evbareke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Evbareke",
+      "en": "Evbareke",
+      "slug": "evbareke"
+    },
+    "code": {
+      "id": "NG012002_evbareke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012002",
+      "level": 2,
+      "name": {
+        "local": "Egor",
+        "en": "Egor",
+        "slug": "egor-ng012002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012002",
+        "level": 2,
+        "name": {
+          "local": "Egor",
+          "en": "Egor",
+          "slug": "egor-ng012002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.357",
+      "lon": "5.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012002_ogidause",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogida/use",
+      "en": "Ogida/use",
+      "slug": "ogidause"
+    },
+    "code": {
+      "id": "NG012002_ogidause",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012002",
+      "level": 2,
+      "name": {
+        "local": "Egor",
+        "en": "Egor",
+        "slug": "egor-ng012002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012002",
+        "level": 2,
+        "name": {
+          "local": "Egor",
+          "en": "Egor",
+          "slug": "egor-ng012002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.357",
+      "lon": "5.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012002_okhoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okhoro",
+      "en": "Okhoro",
+      "slug": "okhoro"
+    },
+    "code": {
+      "id": "NG012002_okhoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012002",
+      "level": 2,
+      "name": {
+        "local": "Egor",
+        "en": "Egor",
+        "slug": "egor-ng012002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012002",
+        "level": 2,
+        "name": {
+          "local": "Egor",
+          "en": "Egor",
+          "slug": "egor-ng012002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.357",
+      "lon": "5.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012002_oliha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oliha",
+      "en": "Oliha",
+      "slug": "oliha"
+    },
+    "code": {
+      "id": "NG012002_oliha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012002",
+      "level": 2,
+      "name": {
+        "local": "Egor",
+        "en": "Egor",
+        "slug": "egor-ng012002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012002",
+        "level": 2,
+        "name": {
+          "local": "Egor",
+          "en": "Egor",
+          "slug": "egor-ng012002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.357",
+      "lon": "5.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012002_otubu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otubu",
+      "en": "Otubu",
+      "slug": "otubu"
+    },
+    "code": {
+      "id": "NG012002_otubu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012002",
+      "level": 2,
+      "name": {
+        "local": "Egor",
+        "en": "Egor",
+        "slug": "egor-ng012002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012002",
+        "level": 2,
+        "name": {
+          "local": "Egor",
+          "en": "Egor",
+          "slug": "egor-ng012002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.357",
+      "lon": "5.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012002_ugbowo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugbowo",
+      "en": "Ugbowo",
+      "slug": "ugbowo"
+    },
+    "code": {
+      "id": "NG012002_ugbowo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012002",
+      "level": 2,
+      "name": {
+        "local": "Egor",
+        "en": "Egor",
+        "slug": "egor-ng012002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012002",
+        "level": 2,
+        "name": {
+          "local": "Egor",
+          "en": "Egor",
+          "slug": "egor-ng012002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.357",
+      "lon": "5.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012002_uselu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uselu I",
+      "en": "Uselu I",
+      "slug": "uselu-i"
+    },
+    "code": {
+      "id": "NG012002_uselu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012002",
+      "level": 2,
+      "name": {
+        "local": "Egor",
+        "en": "Egor",
+        "slug": "egor-ng012002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012002",
+        "level": 2,
+        "name": {
+          "local": "Egor",
+          "en": "Egor",
+          "slug": "egor-ng012002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.357",
+      "lon": "5.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012002_uselu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uselu Ii",
+      "en": "Uselu Ii",
+      "slug": "uselu-ii"
+    },
+    "code": {
+      "id": "NG012002_uselu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012002",
+      "level": 2,
+      "name": {
+        "local": "Egor",
+        "en": "Egor",
+        "slug": "egor-ng012002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012002",
+        "level": 2,
+        "name": {
+          "local": "Egor",
+          "en": "Egor",
+          "slug": "egor-ng012002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.357",
+      "lon": "5.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012002_uwelu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uwelu",
+      "en": "Uwelu",
+      "slug": "uwelu"
+    },
+    "code": {
+      "id": "NG012002_uwelu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012002",
+      "level": 2,
+      "name": {
+        "local": "Egor",
+        "en": "Egor",
+        "slug": "egor-ng012002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012002",
+        "level": 2,
+        "name": {
+          "local": "Egor",
+          "en": "Egor",
+          "slug": "egor-ng012002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.357",
+      "lon": "5.587"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

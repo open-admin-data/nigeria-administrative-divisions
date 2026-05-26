@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG033006_buguma-east-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buguma East I",
+      "en": "Buguma East I",
+      "slug": "buguma-east-i"
+    },
+    "code": {
+      "id": "NG033006_buguma-east-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006_buguma-east-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buguma East Ii",
+      "en": "Buguma East Ii",
+      "slug": "buguma-east-ii"
+    },
+    "code": {
+      "id": "NG033006_buguma-east-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006_buguma-east-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buguma East West",
+      "en": "Buguma East West",
+      "slug": "buguma-east-west"
+    },
+    "code": {
+      "id": "NG033006_buguma-east-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006_buguma-north-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buguma North East",
+      "en": "Buguma North East",
+      "slug": "buguma-north-east"
+    },
+    "code": {
+      "id": "NG033006_buguma-north-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006_buguma-north-west-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buguma North West I",
+      "en": "Buguma North West I",
+      "slug": "buguma-north-west-i"
+    },
+    "code": {
+      "id": "NG033006_buguma-north-west-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006_buguma-north-west-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buguma North West Ii",
+      "en": "Buguma North West Ii",
+      "slug": "buguma-north-west-ii"
+    },
+    "code": {
+      "id": "NG033006_buguma-north-west-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006_buguma-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buguma South",
+      "en": "Buguma South",
+      "slug": "buguma-south"
+    },
+    "code": {
+      "id": "NG033006_buguma-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006_buguma-south-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buguma South East",
+      "en": "Buguma South East",
+      "slug": "buguma-south-east"
+    },
+    "code": {
+      "id": "NG033006_buguma-south-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006_buguma-south-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buguma South West",
+      "en": "Buguma South West",
+      "slug": "buguma-south-west"
+    },
+    "code": {
+      "id": "NG033006_buguma-south-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006_buguma-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buguma West",
+      "en": "Buguma West",
+      "slug": "buguma-west"
+    },
+    "code": {
+      "id": "NG033006_buguma-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006_isia-group-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isia Group I",
+      "en": "Isia Group I",
+      "slug": "isia-group-i"
+    },
+    "code": {
+      "id": "NG033006_isia-group-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006_isia-group-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isia Group Ii",
+      "en": "Isia Group Ii",
+      "slug": "isia-group-ii"
+    },
+    "code": {
+      "id": "NG033006_isia-group-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033006_west-cental-group",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "West Cental Group",
+      "en": "West Cental Group",
+      "slug": "west-cental-group"
+    },
+    "code": {
+      "id": "NG033006_west-cental-group",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033006",
+      "level": 2,
+      "name": {
+        "local": "Asari-Toru",
+        "en": "Asari-Toru",
+        "slug": "asari-toru-ng033006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033006",
+        "level": 2,
+        "name": {
+          "local": "Asari-Toru",
+          "en": "Asari-Toru",
+          "slug": "asari-toru-ng033006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.755",
+      "lon": "6.828"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

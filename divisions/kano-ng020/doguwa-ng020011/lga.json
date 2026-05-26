@@ -1,0 +1,47 @@
+{
+  "id": "NG020011",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Doguwa",
+    "en": "Doguwa",
+    "slug": "doguwa-ng020011"
+  },
+  "code": {
+    "id": "NG020011",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG020",
+    "level": 1,
+    "name": {
+      "local": "Kano",
+      "en": "Kano",
+      "slug": "kano-ng020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG020",
+      "level": 1,
+      "name": {
+        "local": "Kano",
+        "en": "Kano",
+        "slug": "kano-ng020"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.89",
+    "lon": "8.67"
+  },
+  "metadata": {},
+  "source": {}
+}

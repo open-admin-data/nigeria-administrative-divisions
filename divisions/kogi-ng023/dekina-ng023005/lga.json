@@ -1,0 +1,47 @@
+{
+  "id": "NG023005",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Dekina",
+    "en": "Dekina",
+    "slug": "dekina-ng023005"
+  },
+  "code": {
+    "id": "NG023005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG023",
+    "level": 1,
+    "name": {
+      "local": "Kogi",
+      "en": "Kogi",
+      "slug": "kogi-ng023"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG023",
+      "level": 1,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.596",
+    "lon": "7.14"
+  },
+  "metadata": {},
+  "source": {}
+}

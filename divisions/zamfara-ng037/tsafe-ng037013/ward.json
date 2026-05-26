@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG037013_bilbis",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bilbis",
+      "en": "Bilbis",
+      "slug": "bilbis"
+    },
+    "code": {
+      "id": "NG037013_bilbis",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037013",
+      "level": 2,
+      "name": {
+        "local": "Tsafe",
+        "en": "Tsafe",
+        "slug": "tsafe-ng037013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037013",
+        "level": 2,
+        "name": {
+          "local": "Tsafe",
+          "en": "Tsafe",
+          "slug": "tsafe-ng037013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "6.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037013_chediya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chediya",
+      "en": "Chediya",
+      "slug": "chediya"
+    },
+    "code": {
+      "id": "NG037013_chediya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037013",
+      "level": 2,
+      "name": {
+        "local": "Tsafe",
+        "en": "Tsafe",
+        "slug": "tsafe-ng037013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037013",
+        "level": 2,
+        "name": {
+          "local": "Tsafe",
+          "en": "Tsafe",
+          "slug": "tsafe-ng037013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "6.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037013_danjibgakunchin---kalgo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danjibga/kunchin - Kalgo",
+      "en": "Danjibga/kunchin - Kalgo",
+      "slug": "danjibgakunchin---kalgo"
+    },
+    "code": {
+      "id": "NG037013_danjibgakunchin---kalgo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037013",
+      "level": 2,
+      "name": {
+        "local": "Tsafe",
+        "en": "Tsafe",
+        "slug": "tsafe-ng037013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037013",
+        "level": 2,
+        "name": {
+          "local": "Tsafe",
+          "en": "Tsafe",
+          "slug": "tsafe-ng037013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "6.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037013_dauki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dauki",
+      "en": "Dauki",
+      "slug": "dauki"
+    },
+    "code": {
+      "id": "NG037013_dauki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037013",
+      "level": 2,
+      "name": {
+        "local": "Tsafe",
+        "en": "Tsafe",
+        "slug": "tsafe-ng037013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037013",
+        "level": 2,
+        "name": {
+          "local": "Tsafe",
+          "en": "Tsafe",
+          "slug": "tsafe-ng037013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "6.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037013_ketakizara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Keta/kizara",
+      "en": "Keta/kizara",
+      "slug": "ketakizara"
+    },
+    "code": {
+      "id": "NG037013_ketakizara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037013",
+      "level": 2,
+      "name": {
+        "local": "Tsafe",
+        "en": "Tsafe",
+        "slug": "tsafe-ng037013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037013",
+        "level": 2,
+        "name": {
+          "local": "Tsafe",
+          "en": "Tsafe",
+          "slug": "tsafe-ng037013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "6.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037013_kwaren-ganuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwaren Ganuwa",
+      "en": "Kwaren Ganuwa",
+      "slug": "kwaren-ganuwa"
+    },
+    "code": {
+      "id": "NG037013_kwaren-ganuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037013",
+      "level": 2,
+      "name": {
+        "local": "Tsafe",
+        "en": "Tsafe",
+        "slug": "tsafe-ng037013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037013",
+        "level": 2,
+        "name": {
+          "local": "Tsafe",
+          "en": "Tsafe",
+          "slug": "tsafe-ng037013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "6.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037013_tsafe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsafe",
+      "en": "Tsafe",
+      "slug": "tsafe"
+    },
+    "code": {
+      "id": "NG037013_tsafe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037013",
+      "level": 2,
+      "name": {
+        "local": "Tsafe",
+        "en": "Tsafe",
+        "slug": "tsafe-ng037013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037013",
+        "level": 2,
+        "name": {
+          "local": "Tsafe",
+          "en": "Tsafe",
+          "slug": "tsafe-ng037013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "6.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037013_yan-kuzo-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yan Kuzo \"b\"",
+      "en": "Yan Kuzo \"b\"",
+      "slug": "yan-kuzo-b"
+    },
+    "code": {
+      "id": "NG037013_yan-kuzo-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037013",
+      "level": 2,
+      "name": {
+        "local": "Tsafe",
+        "en": "Tsafe",
+        "slug": "tsafe-ng037013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037013",
+        "level": 2,
+        "name": {
+          "local": "Tsafe",
+          "en": "Tsafe",
+          "slug": "tsafe-ng037013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "6.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037013_yan-waren-daji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yan Waren Daji",
+      "en": "Yan Waren Daji",
+      "slug": "yan-waren-daji"
+    },
+    "code": {
+      "id": "NG037013_yan-waren-daji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037013",
+      "level": 2,
+      "name": {
+        "local": "Tsafe",
+        "en": "Tsafe",
+        "slug": "tsafe-ng037013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037013",
+        "level": 2,
+        "name": {
+          "local": "Tsafe",
+          "en": "Tsafe",
+          "slug": "tsafe-ng037013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "6.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037013_yandoton-daji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yandoton Daji",
+      "en": "Yandoton Daji",
+      "slug": "yandoton-daji"
+    },
+    "code": {
+      "id": "NG037013_yandoton-daji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037013",
+      "level": 2,
+      "name": {
+        "local": "Tsafe",
+        "en": "Tsafe",
+        "slug": "tsafe-ng037013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037013",
+        "level": 2,
+        "name": {
+          "local": "Tsafe",
+          "en": "Tsafe",
+          "slug": "tsafe-ng037013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "6.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037013_yankuzo-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yankuzo \"a\"",
+      "en": "Yankuzo \"a\"",
+      "slug": "yankuzo-a"
+    },
+    "code": {
+      "id": "NG037013_yankuzo-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037013",
+      "level": 2,
+      "name": {
+        "local": "Tsafe",
+        "en": "Tsafe",
+        "slug": "tsafe-ng037013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037013",
+        "level": 2,
+        "name": {
+          "local": "Tsafe",
+          "en": "Tsafe",
+          "slug": "tsafe-ng037013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.825",
+      "lon": "6.896"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

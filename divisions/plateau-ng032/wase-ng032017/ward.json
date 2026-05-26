@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG032017_bashar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bashar",
+      "en": "Bashar",
+      "slug": "bashar"
+    },
+    "code": {
+      "id": "NG032017_bashar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032017",
+      "level": 2,
+      "name": {
+        "local": "Wase",
+        "en": "Wase",
+        "slug": "wase-ng032017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032017",
+        "level": 2,
+        "name": {
+          "local": "Wase",
+          "en": "Wase",
+          "slug": "wase-ng032017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "10.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032017_danbiram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danbiram",
+      "en": "Danbiram",
+      "slug": "danbiram"
+    },
+    "code": {
+      "id": "NG032017_danbiram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032017",
+      "level": 2,
+      "name": {
+        "local": "Wase",
+        "en": "Wase",
+        "slug": "wase-ng032017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032017",
+        "level": 2,
+        "name": {
+          "local": "Wase",
+          "en": "Wase",
+          "slug": "wase-ng032017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "10.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032017_gudus",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gudus",
+      "en": "Gudus",
+      "slug": "gudus"
+    },
+    "code": {
+      "id": "NG032017_gudus",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032017",
+      "level": 2,
+      "name": {
+        "local": "Wase",
+        "en": "Wase",
+        "slug": "wase-ng032017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032017",
+        "level": 2,
+        "name": {
+          "local": "Wase",
+          "en": "Wase",
+          "slug": "wase-ng032017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "10.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032017_kadarko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadarko",
+      "en": "Kadarko",
+      "slug": "kadarko"
+    },
+    "code": {
+      "id": "NG032017_kadarko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032017",
+      "level": 2,
+      "name": {
+        "local": "Wase",
+        "en": "Wase",
+        "slug": "wase-ng032017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032017",
+        "level": 2,
+        "name": {
+          "local": "Wase",
+          "en": "Wase",
+          "slug": "wase-ng032017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "10.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032017_kumbong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumbong",
+      "en": "Kumbong",
+      "slug": "kumbong"
+    },
+    "code": {
+      "id": "NG032017_kumbong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032017",
+      "level": 2,
+      "name": {
+        "local": "Wase",
+        "en": "Wase",
+        "slug": "wase-ng032017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032017",
+        "level": 2,
+        "name": {
+          "local": "Wase",
+          "en": "Wase",
+          "slug": "wase-ng032017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "10.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032017_kumbur",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumbur",
+      "en": "Kumbur",
+      "slug": "kumbur"
+    },
+    "code": {
+      "id": "NG032017_kumbur",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032017",
+      "level": 2,
+      "name": {
+        "local": "Wase",
+        "en": "Wase",
+        "slug": "wase-ng032017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032017",
+        "level": 2,
+        "name": {
+          "local": "Wase",
+          "en": "Wase",
+          "slug": "wase-ng032017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "10.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032017_kuyambana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuyambana",
+      "en": "Kuyambana",
+      "slug": "kuyambana"
+    },
+    "code": {
+      "id": "NG032017_kuyambana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032017",
+      "level": 2,
+      "name": {
+        "local": "Wase",
+        "en": "Wase",
+        "slug": "wase-ng032017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032017",
+        "level": 2,
+        "name": {
+          "local": "Wase",
+          "en": "Wase",
+          "slug": "wase-ng032017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "10.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032017_mavo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mavo",
+      "en": "Mavo",
+      "slug": "mavo"
+    },
+    "code": {
+      "id": "NG032017_mavo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032017",
+      "level": 2,
+      "name": {
+        "local": "Wase",
+        "en": "Wase",
+        "slug": "wase-ng032017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032017",
+        "level": 2,
+        "name": {
+          "local": "Wase",
+          "en": "Wase",
+          "slug": "wase-ng032017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "10.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032017_nyalumkampani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nyalum/kampani",
+      "en": "Nyalum/kampani",
+      "slug": "nyalumkampani"
+    },
+    "code": {
+      "id": "NG032017_nyalumkampani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032017",
+      "level": 2,
+      "name": {
+        "local": "Wase",
+        "en": "Wase",
+        "slug": "wase-ng032017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032017",
+        "level": 2,
+        "name": {
+          "local": "Wase",
+          "en": "Wase",
+          "slug": "wase-ng032017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "10.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032017_saluwe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Saluwe",
+      "en": "Saluwe",
+      "slug": "saluwe"
+    },
+    "code": {
+      "id": "NG032017_saluwe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032017",
+      "level": 2,
+      "name": {
+        "local": "Wase",
+        "en": "Wase",
+        "slug": "wase-ng032017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032017",
+        "level": 2,
+        "name": {
+          "local": "Wase",
+          "en": "Wase",
+          "slug": "wase-ng032017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "10.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032017_wase-tofa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wase Tofa",
+      "en": "Wase Tofa",
+      "slug": "wase-tofa"
+    },
+    "code": {
+      "id": "NG032017_wase-tofa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032017",
+      "level": 2,
+      "name": {
+        "local": "Wase",
+        "en": "Wase",
+        "slug": "wase-ng032017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032017",
+        "level": 2,
+        "name": {
+          "local": "Wase",
+          "en": "Wase",
+          "slug": "wase-ng032017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "10.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032017_yola-wakat",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yola Wakat",
+      "en": "Yola Wakat",
+      "slug": "yola-wakat"
+    },
+    "code": {
+      "id": "NG032017_yola-wakat",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032017",
+      "level": 2,
+      "name": {
+        "local": "Wase",
+        "en": "Wase",
+        "slug": "wase-ng032017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032017",
+        "level": 2,
+        "name": {
+          "local": "Wase",
+          "en": "Wase",
+          "slug": "wase-ng032017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.004",
+      "lon": "10.244"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

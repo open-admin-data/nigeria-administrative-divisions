@@ -1,0 +1,47 @@
+{
+  "id": "NG019001",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Birnin-Gwari",
+    "en": "Birnin-Gwari",
+    "slug": "birnin-gwari-ng019001"
+  },
+  "code": {
+    "id": "NG019001",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG019",
+    "level": 1,
+    "name": {
+      "local": "Kaduna",
+      "en": "Kaduna",
+      "slug": "kaduna-ng019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG019",
+      "level": 1,
+      "name": {
+        "local": "Kaduna",
+        "en": "Kaduna",
+        "slug": "kaduna-ng019"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.882",
+    "lon": "6.654"
+  },
+  "metadata": {},
+  "source": {}
+}

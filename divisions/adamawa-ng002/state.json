@@ -1,0 +1,30 @@
+{
+  "id": "NG002",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Adamawa",
+    "en": "Adamawa",
+    "slug": "adamawa-ng002"
+  },
+  "code": {
+    "id": "NG002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 21,
+    "ward": 226
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.163",
+    "lon": "12.292"
+  },
+  "metadata": {},
+  "source": {}
+}

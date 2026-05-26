@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG010012_abbi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abbi I",
+      "en": "Abbi I",
+      "slug": "abbi-i"
+    },
+    "code": {
+      "id": "NG010012_abbi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010012",
+      "level": 2,
+      "name": {
+        "local": "Ndokwa West",
+        "en": "Ndokwa West",
+        "slug": "ndokwa-west-ng010012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010012",
+        "level": 2,
+        "name": {
+          "local": "Ndokwa West",
+          "en": "Ndokwa West",
+          "slug": "ndokwa-west-ng010012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.826",
+      "lon": "6.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010012_abbi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abbi Ii",
+      "en": "Abbi Ii",
+      "slug": "abbi-ii"
+    },
+    "code": {
+      "id": "NG010012_abbi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010012",
+      "level": 2,
+      "name": {
+        "local": "Ndokwa West",
+        "en": "Ndokwa West",
+        "slug": "ndokwa-west-ng010012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010012",
+        "level": 2,
+        "name": {
+          "local": "Ndokwa West",
+          "en": "Ndokwa West",
+          "slug": "ndokwa-west-ng010012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.826",
+      "lon": "6.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010012_emu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Emu",
+      "en": "Emu",
+      "slug": "emu"
+    },
+    "code": {
+      "id": "NG010012_emu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010012",
+      "level": 2,
+      "name": {
+        "local": "Ndokwa West",
+        "en": "Ndokwa West",
+        "slug": "ndokwa-west-ng010012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010012",
+        "level": 2,
+        "name": {
+          "local": "Ndokwa West",
+          "en": "Ndokwa West",
+          "slug": "ndokwa-west-ng010012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.826",
+      "lon": "6.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010012_ogume-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogume I",
+      "en": "Ogume I",
+      "slug": "ogume-i"
+    },
+    "code": {
+      "id": "NG010012_ogume-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010012",
+      "level": 2,
+      "name": {
+        "local": "Ndokwa West",
+        "en": "Ndokwa West",
+        "slug": "ndokwa-west-ng010012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010012",
+        "level": 2,
+        "name": {
+          "local": "Ndokwa West",
+          "en": "Ndokwa West",
+          "slug": "ndokwa-west-ng010012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.826",
+      "lon": "6.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010012_ogume-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogume Ii",
+      "en": "Ogume Ii",
+      "slug": "ogume-ii"
+    },
+    "code": {
+      "id": "NG010012_ogume-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010012",
+      "level": 2,
+      "name": {
+        "local": "Ndokwa West",
+        "en": "Ndokwa West",
+        "slug": "ndokwa-west-ng010012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010012",
+        "level": 2,
+        "name": {
+          "local": "Ndokwa West",
+          "en": "Ndokwa West",
+          "slug": "ndokwa-west-ng010012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.826",
+      "lon": "6.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010012_onicha---ukwani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Onicha - Ukwani",
+      "en": "Onicha - Ukwani",
+      "slug": "onicha---ukwani"
+    },
+    "code": {
+      "id": "NG010012_onicha---ukwani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010012",
+      "level": 2,
+      "name": {
+        "local": "Ndokwa West",
+        "en": "Ndokwa West",
+        "slug": "ndokwa-west-ng010012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010012",
+        "level": 2,
+        "name": {
+          "local": "Ndokwa West",
+          "en": "Ndokwa West",
+          "slug": "ndokwa-west-ng010012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.826",
+      "lon": "6.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010012_utagba-ogbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Utagba Ogbe",
+      "en": "Utagba Ogbe",
+      "slug": "utagba-ogbe"
+    },
+    "code": {
+      "id": "NG010012_utagba-ogbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010012",
+      "level": 2,
+      "name": {
+        "local": "Ndokwa West",
+        "en": "Ndokwa West",
+        "slug": "ndokwa-west-ng010012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010012",
+        "level": 2,
+        "name": {
+          "local": "Ndokwa West",
+          "en": "Ndokwa West",
+          "slug": "ndokwa-west-ng010012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.826",
+      "lon": "6.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010012_utagba-uno-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Utagba Uno I",
+      "en": "Utagba Uno I",
+      "slug": "utagba-uno-i"
+    },
+    "code": {
+      "id": "NG010012_utagba-uno-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010012",
+      "level": 2,
+      "name": {
+        "local": "Ndokwa West",
+        "en": "Ndokwa West",
+        "slug": "ndokwa-west-ng010012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010012",
+        "level": 2,
+        "name": {
+          "local": "Ndokwa West",
+          "en": "Ndokwa West",
+          "slug": "ndokwa-west-ng010012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.826",
+      "lon": "6.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010012_utagba-uno-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Utagba Uno Ii",
+      "en": "Utagba Uno Ii",
+      "slug": "utagba-uno-ii"
+    },
+    "code": {
+      "id": "NG010012_utagba-uno-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010012",
+      "level": 2,
+      "name": {
+        "local": "Ndokwa West",
+        "en": "Ndokwa West",
+        "slug": "ndokwa-west-ng010012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010012",
+        "level": 2,
+        "name": {
+          "local": "Ndokwa West",
+          "en": "Ndokwa West",
+          "slug": "ndokwa-west-ng010012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.826",
+      "lon": "6.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010012_utagba-uno-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Utagba Uno Iii",
+      "en": "Utagba Uno Iii",
+      "slug": "utagba-uno-iii"
+    },
+    "code": {
+      "id": "NG010012_utagba-uno-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010012",
+      "level": 2,
+      "name": {
+        "local": "Ndokwa West",
+        "en": "Ndokwa West",
+        "slug": "ndokwa-west-ng010012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010012",
+        "level": 2,
+        "name": {
+          "local": "Ndokwa West",
+          "en": "Ndokwa West",
+          "slug": "ndokwa-west-ng010012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.826",
+      "lon": "6.416"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "id": "NG032011_ampang-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ampang West",
+      "en": "Ampang West",
+      "slug": "ampang-west"
+    },
+    "code": {
+      "id": "NG032011_ampang-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_chanso",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chanso",
+      "en": "Chanso",
+      "slug": "chanso"
+    },
+    "code": {
+      "id": "NG032011_chanso",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_gindiri-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gindiri 1",
+      "en": "Gindiri 1",
+      "slug": "gindiri-1"
+    },
+    "code": {
+      "id": "NG032011_gindiri-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_gindiri-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gindiri 11",
+      "en": "Gindiri 11",
+      "slug": "gindiri-11"
+    },
+    "code": {
+      "id": "NG032011_gindiri-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_jannaret",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jannaret",
+      "en": "Jannaret",
+      "slug": "jannaret"
+    },
+    "code": {
+      "id": "NG032011_jannaret",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_jipalchakfem",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jipal/chakfem",
+      "en": "Jipal/chakfem",
+      "slug": "jipalchakfem"
+    },
+    "code": {
+      "id": "NG032011_jipalchakfem",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_kadunu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadunu",
+      "en": "Kadunu",
+      "slug": "kadunu"
+    },
+    "code": {
+      "id": "NG032011_kadunu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_kerang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kerang",
+      "en": "Kerang",
+      "slug": "kerang"
+    },
+    "code": {
+      "id": "NG032011_kerang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_kombun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kombun",
+      "en": "Kombun",
+      "slug": "kombun"
+    },
+    "code": {
+      "id": "NG032011_kombun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_langai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Langai",
+      "en": "Langai",
+      "slug": "langai"
+    },
+    "code": {
+      "id": "NG032011_langai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_mangu-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mangu 1",
+      "en": "Mangu 1",
+      "slug": "mangu-1"
+    },
+    "code": {
+      "id": "NG032011_mangu-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_mangu-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mangu 11",
+      "en": "Mangu 11",
+      "slug": "mangu-11"
+    },
+    "code": {
+      "id": "NG032011_mangu-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_mangu-halle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mangu Halle",
+      "en": "Mangu Halle",
+      "slug": "mangu-halle"
+    },
+    "code": {
+      "id": "NG032011_mangu-halle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_mangun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mangun",
+      "en": "Mangun",
+      "slug": "mangun"
+    },
+    "code": {
+      "id": "NG032011_mangun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_pan-yam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pan Yam",
+      "en": "Pan Yam",
+      "slug": "pan-yam"
+    },
+    "code": {
+      "id": "NG032011_pan-yam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032011_pushit",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pushit",
+      "en": "Pushit",
+      "slug": "pushit"
+    },
+    "code": {
+      "id": "NG032011_pushit",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032011",
+      "level": 2,
+      "name": {
+        "local": "Mangu",
+        "en": "Mangu",
+        "slug": "mangu-ng032011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032011",
+        "level": 2,
+        "name": {
+          "local": "Mangu",
+          "en": "Mangu",
+          "slug": "mangu-ng032011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.362",
+      "lon": "9.185"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG027011_arewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Arewa",
+      "en": "Arewa",
+      "slug": "arewa"
+    },
+    "code": {
+      "id": "NG027011_arewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027011_central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Central",
+      "en": "Central",
+      "slug": "central"
+    },
+    "code": {
+      "id": "NG027011_central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027011_gabas",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gabas",
+      "en": "Gabas",
+      "slug": "gabas"
+    },
+    "code": {
+      "id": "NG027011_gabas",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027011_kudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kudu",
+      "en": "Kudu",
+      "slug": "kudu"
+    },
+    "code": {
+      "id": "NG027011_kudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027011_madara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madara",
+      "en": "Madara",
+      "slug": "madara"
+    },
+    "code": {
+      "id": "NG027011_madara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027011_magajiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magajiya",
+      "en": "Magajiya",
+      "slug": "magajiya"
+    },
+    "code": {
+      "id": "NG027011_magajiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027011_masuga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Masuga",
+      "en": "Masuga",
+      "slug": "masuga"
+    },
+    "code": {
+      "id": "NG027011_masuga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027011_nagwamatse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nagwamatse",
+      "en": "Nagwamatse",
+      "slug": "nagwamatse"
+    },
+    "code": {
+      "id": "NG027011_nagwamatse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027011_rafin-gora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rafin Gora",
+      "en": "Rafin Gora",
+      "slug": "rafin-gora"
+    },
+    "code": {
+      "id": "NG027011_rafin-gora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027011_tungan-kawo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tungan Kawo",
+      "en": "Tungan Kawo",
+      "slug": "tungan-kawo"
+    },
+    "code": {
+      "id": "NG027011_tungan-kawo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027011_tunganwawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tunganwawa",
+      "en": "Tunganwawa",
+      "slug": "tunganwawa"
+    },
+    "code": {
+      "id": "NG027011_tunganwawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027011_usalle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Usalle",
+      "en": "Usalle",
+      "slug": "usalle"
+    },
+    "code": {
+      "id": "NG027011_usalle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027011_yamma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yamma",
+      "en": "Yamma",
+      "slug": "yamma"
+    },
+    "code": {
+      "id": "NG027011_yamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027011",
+      "level": 2,
+      "name": {
+        "local": "Kontagora",
+        "en": "Kontagora",
+        "slug": "kontagora-ng027011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027011",
+        "level": 2,
+        "name": {
+          "local": "Kontagora",
+          "en": "Kontagora",
+          "slug": "kontagora-ng027011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.436",
+      "lon": "5.514"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

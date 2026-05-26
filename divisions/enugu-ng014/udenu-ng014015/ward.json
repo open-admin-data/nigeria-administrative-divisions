@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG014015_amala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amala",
+      "en": "Amala",
+      "slug": "amala"
+    },
+    "code": {
+      "id": "NG014015_amala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014015",
+      "level": 2,
+      "name": {
+        "local": "Udenu",
+        "en": "Udenu",
+        "slug": "udenu-ng014015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014015",
+        "level": 2,
+        "name": {
+          "local": "Udenu",
+          "en": "Udenu",
+          "slug": "udenu-ng014015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.898",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014015_ezimo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ezimo",
+      "en": "Ezimo",
+      "slug": "ezimo"
+    },
+    "code": {
+      "id": "NG014015_ezimo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014015",
+      "level": 2,
+      "name": {
+        "local": "Udenu",
+        "en": "Udenu",
+        "slug": "udenu-ng014015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014015",
+        "level": 2,
+        "name": {
+          "local": "Udenu",
+          "en": "Udenu",
+          "slug": "udenu-ng014015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.898",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014015_imilike",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imilike",
+      "en": "Imilike",
+      "slug": "imilike"
+    },
+    "code": {
+      "id": "NG014015_imilike",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014015",
+      "level": 2,
+      "name": {
+        "local": "Udenu",
+        "en": "Udenu",
+        "slug": "udenu-ng014015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014015",
+        "level": 2,
+        "name": {
+          "local": "Udenu",
+          "en": "Udenu",
+          "slug": "udenu-ng014015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.898",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014015_obollo-afor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obollo-afor",
+      "en": "Obollo-afor",
+      "slug": "obollo-afor"
+    },
+    "code": {
+      "id": "NG014015_obollo-afor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014015",
+      "level": 2,
+      "name": {
+        "local": "Udenu",
+        "en": "Udenu",
+        "slug": "udenu-ng014015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014015",
+        "level": 2,
+        "name": {
+          "local": "Udenu",
+          "en": "Udenu",
+          "slug": "udenu-ng014015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.898",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014015_obollo-eke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obollo-eke",
+      "en": "Obollo-eke",
+      "slug": "obollo-eke"
+    },
+    "code": {
+      "id": "NG014015_obollo-eke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014015",
+      "level": 2,
+      "name": {
+        "local": "Udenu",
+        "en": "Udenu",
+        "slug": "udenu-ng014015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014015",
+        "level": 2,
+        "name": {
+          "local": "Udenu",
+          "en": "Udenu",
+          "slug": "udenu-ng014015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.898",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014015_obollo-etiti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obollo-etiti",
+      "en": "Obollo-etiti",
+      "slug": "obollo-etiti"
+    },
+    "code": {
+      "id": "NG014015_obollo-etiti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014015",
+      "level": 2,
+      "name": {
+        "local": "Udenu",
+        "en": "Udenu",
+        "slug": "udenu-ng014015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014015",
+        "level": 2,
+        "name": {
+          "local": "Udenu",
+          "en": "Udenu",
+          "slug": "udenu-ng014015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.898",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014015_ogbodu-aba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbodu-aba",
+      "en": "Ogbodu-aba",
+      "slug": "ogbodu-aba"
+    },
+    "code": {
+      "id": "NG014015_ogbodu-aba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014015",
+      "level": 2,
+      "name": {
+        "local": "Udenu",
+        "en": "Udenu",
+        "slug": "udenu-ng014015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014015",
+        "level": 2,
+        "name": {
+          "local": "Udenu",
+          "en": "Udenu",
+          "slug": "udenu-ng014015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.898",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014015_orba-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orba I",
+      "en": "Orba I",
+      "slug": "orba-i"
+    },
+    "code": {
+      "id": "NG014015_orba-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014015",
+      "level": 2,
+      "name": {
+        "local": "Udenu",
+        "en": "Udenu",
+        "slug": "udenu-ng014015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014015",
+        "level": 2,
+        "name": {
+          "local": "Udenu",
+          "en": "Udenu",
+          "slug": "udenu-ng014015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.898",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014015_orba-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orba Ii",
+      "en": "Orba Ii",
+      "slug": "orba-ii"
+    },
+    "code": {
+      "id": "NG014015_orba-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014015",
+      "level": 2,
+      "name": {
+        "local": "Udenu",
+        "en": "Udenu",
+        "slug": "udenu-ng014015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014015",
+        "level": 2,
+        "name": {
+          "local": "Udenu",
+          "en": "Udenu",
+          "slug": "udenu-ng014015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.898",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014015_udunedem",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Udunedem",
+      "en": "Udunedem",
+      "slug": "udunedem"
+    },
+    "code": {
+      "id": "NG014015_udunedem",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014015",
+      "level": 2,
+      "name": {
+        "local": "Udenu",
+        "en": "Udenu",
+        "slug": "udenu-ng014015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014015",
+        "level": 2,
+        "name": {
+          "local": "Udenu",
+          "en": "Udenu",
+          "slug": "udenu-ng014015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.898",
+      "lon": "7.561"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

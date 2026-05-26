@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG037001_bagega",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bagega",
+      "en": "Bagega",
+      "slug": "bagega"
+    },
+    "code": {
+      "id": "NG037001_bagega",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037001",
+      "level": 2,
+      "name": {
+        "local": "Anka",
+        "en": "Anka",
+        "slug": "anka-ng037001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037001",
+        "level": 2,
+        "name": {
+          "local": "Anka",
+          "en": "Anka",
+          "slug": "anka-ng037001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.985",
+      "lon": "5.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037001_barayar-zaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Barayar-zaki",
+      "en": "Barayar-zaki",
+      "slug": "barayar-zaki"
+    },
+    "code": {
+      "id": "NG037001_barayar-zaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037001",
+      "level": 2,
+      "name": {
+        "local": "Anka",
+        "en": "Anka",
+        "slug": "anka-ng037001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037001",
+        "level": 2,
+        "name": {
+          "local": "Anka",
+          "en": "Anka",
+          "slug": "anka-ng037001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.985",
+      "lon": "5.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037001_dan-galadima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Galadima",
+      "en": "Dan Galadima",
+      "slug": "dan-galadima"
+    },
+    "code": {
+      "id": "NG037001_dan-galadima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037001",
+      "level": 2,
+      "name": {
+        "local": "Anka",
+        "en": "Anka",
+        "slug": "anka-ng037001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037001",
+        "level": 2,
+        "name": {
+          "local": "Anka",
+          "en": "Anka",
+          "slug": "anka-ng037001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.985",
+      "lon": "5.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037001_galadima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galadima",
+      "en": "Galadima",
+      "slug": "galadima"
+    },
+    "code": {
+      "id": "NG037001_galadima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037001",
+      "level": 2,
+      "name": {
+        "local": "Anka",
+        "en": "Anka",
+        "slug": "anka-ng037001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037001",
+        "level": 2,
+        "name": {
+          "local": "Anka",
+          "en": "Anka",
+          "slug": "anka-ng037001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.985",
+      "lon": "5.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037001_magaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magaji",
+      "en": "Magaji",
+      "slug": "magaji"
+    },
+    "code": {
+      "id": "NG037001_magaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037001",
+      "level": 2,
+      "name": {
+        "local": "Anka",
+        "en": "Anka",
+        "slug": "anka-ng037001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037001",
+        "level": 2,
+        "name": {
+          "local": "Anka",
+          "en": "Anka",
+          "slug": "anka-ng037001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.985",
+      "lon": "5.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037001_matseri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Matseri",
+      "en": "Matseri",
+      "slug": "matseri"
+    },
+    "code": {
+      "id": "NG037001_matseri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037001",
+      "level": 2,
+      "name": {
+        "local": "Anka",
+        "en": "Anka",
+        "slug": "anka-ng037001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037001",
+        "level": 2,
+        "name": {
+          "local": "Anka",
+          "en": "Anka",
+          "slug": "anka-ng037001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.985",
+      "lon": "5.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037001_sabon-birini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Birini",
+      "en": "Sabon Birini",
+      "slug": "sabon-birini"
+    },
+    "code": {
+      "id": "NG037001_sabon-birini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037001",
+      "level": 2,
+      "name": {
+        "local": "Anka",
+        "en": "Anka",
+        "slug": "anka-ng037001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037001",
+        "level": 2,
+        "name": {
+          "local": "Anka",
+          "en": "Anka",
+          "slug": "anka-ng037001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.985",
+      "lon": "5.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037001_waramu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Waramu",
+      "en": "Waramu",
+      "slug": "waramu"
+    },
+    "code": {
+      "id": "NG037001_waramu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037001",
+      "level": 2,
+      "name": {
+        "local": "Anka",
+        "en": "Anka",
+        "slug": "anka-ng037001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037001",
+        "level": 2,
+        "name": {
+          "local": "Anka",
+          "en": "Anka",
+          "slug": "anka-ng037001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.985",
+      "lon": "5.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037001_wuya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wuya",
+      "en": "Wuya",
+      "slug": "wuya"
+    },
+    "code": {
+      "id": "NG037001_wuya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037001",
+      "level": 2,
+      "name": {
+        "local": "Anka",
+        "en": "Anka",
+        "slug": "anka-ng037001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037001",
+        "level": 2,
+        "name": {
+          "local": "Anka",
+          "en": "Anka",
+          "slug": "anka-ng037001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.985",
+      "lon": "5.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037001_yarsabaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yar'sabaya",
+      "en": "Yar'sabaya",
+      "slug": "yarsabaya"
+    },
+    "code": {
+      "id": "NG037001_yarsabaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037001",
+      "level": 2,
+      "name": {
+        "local": "Anka",
+        "en": "Anka",
+        "slug": "anka-ng037001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037001",
+        "level": 2,
+        "name": {
+          "local": "Anka",
+          "en": "Anka",
+          "slug": "anka-ng037001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.985",
+      "lon": "5.986"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

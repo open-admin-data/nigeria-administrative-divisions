@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG034003_bodaijurga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bodai/jurga",
+      "en": "Bodai/jurga",
+      "slug": "bodaijurga"
+    },
+    "code": {
+      "id": "NG034003_bodaijurga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034003",
+      "level": 2,
+      "name": {
+        "local": "Dange-Shuni",
+        "en": "Dange-Shuni",
+        "slug": "dange-shuni-ng034003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034003",
+        "level": 2,
+        "name": {
+          "local": "Dange-Shuni",
+          "en": "Dange-Shuni",
+          "slug": "dange-shuni-ng034003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.833",
+      "lon": "5.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034003_dange",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dange",
+      "en": "Dange",
+      "slug": "dange"
+    },
+    "code": {
+      "id": "NG034003_dange",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034003",
+      "level": 2,
+      "name": {
+        "local": "Dange-Shuni",
+        "en": "Dange-Shuni",
+        "slug": "dange-shuni-ng034003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034003",
+        "level": 2,
+        "name": {
+          "local": "Dange-Shuni",
+          "en": "Dange-Shuni",
+          "slug": "dange-shuni-ng034003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.833",
+      "lon": "5.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034003_fajaldu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fajaldu",
+      "en": "Fajaldu",
+      "slug": "fajaldu"
+    },
+    "code": {
+      "id": "NG034003_fajaldu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034003",
+      "level": 2,
+      "name": {
+        "local": "Dange-Shuni",
+        "en": "Dange-Shuni",
+        "slug": "dange-shuni-ng034003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034003",
+        "level": 2,
+        "name": {
+          "local": "Dange-Shuni",
+          "en": "Dange-Shuni",
+          "slug": "dange-shuni-ng034003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.833",
+      "lon": "5.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034003_gieregajara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Giere/gajara",
+      "en": "Giere/gajara",
+      "slug": "gieregajara"
+    },
+    "code": {
+      "id": "NG034003_gieregajara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034003",
+      "level": 2,
+      "name": {
+        "local": "Dange-Shuni",
+        "en": "Dange-Shuni",
+        "slug": "dange-shuni-ng034003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034003",
+        "level": 2,
+        "name": {
+          "local": "Dange-Shuni",
+          "en": "Dange-Shuni",
+          "slug": "dange-shuni-ng034003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.833",
+      "lon": "5.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034003_rikina",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rikina",
+      "en": "Rikina",
+      "slug": "rikina"
+    },
+    "code": {
+      "id": "NG034003_rikina",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034003",
+      "level": 2,
+      "name": {
+        "local": "Dange-Shuni",
+        "en": "Dange-Shuni",
+        "slug": "dange-shuni-ng034003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034003",
+        "level": 2,
+        "name": {
+          "local": "Dange-Shuni",
+          "en": "Dange-Shuni",
+          "slug": "dange-shuni-ng034003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.833",
+      "lon": "5.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034003_ruduamanawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rudu/amanawa",
+      "en": "Rudu/amanawa",
+      "slug": "ruduamanawa"
+    },
+    "code": {
+      "id": "NG034003_ruduamanawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034003",
+      "level": 2,
+      "name": {
+        "local": "Dange-Shuni",
+        "en": "Dange-Shuni",
+        "slug": "dange-shuni-ng034003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034003",
+        "level": 2,
+        "name": {
+          "local": "Dange-Shuni",
+          "en": "Dange-Shuni",
+          "slug": "dange-shuni-ng034003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.833",
+      "lon": "5.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034003_ruggar-gidado",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ruggar Gidado",
+      "en": "Ruggar Gidado",
+      "slug": "ruggar-gidado"
+    },
+    "code": {
+      "id": "NG034003_ruggar-gidado",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034003",
+      "level": 2,
+      "name": {
+        "local": "Dange-Shuni",
+        "en": "Dange-Shuni",
+        "slug": "dange-shuni-ng034003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034003",
+        "level": 2,
+        "name": {
+          "local": "Dange-Shuni",
+          "en": "Dange-Shuni",
+          "slug": "dange-shuni-ng034003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.833",
+      "lon": "5.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034003_shuni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shuni",
+      "en": "Shuni",
+      "slug": "shuni"
+    },
+    "code": {
+      "id": "NG034003_shuni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034003",
+      "level": 2,
+      "name": {
+        "local": "Dange-Shuni",
+        "en": "Dange-Shuni",
+        "slug": "dange-shuni-ng034003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034003",
+        "level": 2,
+        "name": {
+          "local": "Dange-Shuni",
+          "en": "Dange-Shuni",
+          "slug": "dange-shuni-ng034003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.833",
+      "lon": "5.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034003_tsafanade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsafanade",
+      "en": "Tsafanade",
+      "slug": "tsafanade"
+    },
+    "code": {
+      "id": "NG034003_tsafanade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034003",
+      "level": 2,
+      "name": {
+        "local": "Dange-Shuni",
+        "en": "Dange-Shuni",
+        "slug": "dange-shuni-ng034003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034003",
+        "level": 2,
+        "name": {
+          "local": "Dange-Shuni",
+          "en": "Dange-Shuni",
+          "slug": "dange-shuni-ng034003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.833",
+      "lon": "5.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034003_tuntubetsehe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tuntube/tsehe",
+      "en": "Tuntube/tsehe",
+      "slug": "tuntubetsehe"
+    },
+    "code": {
+      "id": "NG034003_tuntubetsehe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034003",
+      "level": 2,
+      "name": {
+        "local": "Dange-Shuni",
+        "en": "Dange-Shuni",
+        "slug": "dange-shuni-ng034003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034003",
+        "level": 2,
+        "name": {
+          "local": "Dange-Shuni",
+          "en": "Dange-Shuni",
+          "slug": "dange-shuni-ng034003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.833",
+      "lon": "5.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034003_wababesalau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wababe/salau",
+      "en": "Wababe/salau",
+      "slug": "wababesalau"
+    },
+    "code": {
+      "id": "NG034003_wababesalau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034003",
+      "level": 2,
+      "name": {
+        "local": "Dange-Shuni",
+        "en": "Dange-Shuni",
+        "slug": "dange-shuni-ng034003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034003",
+        "level": 2,
+        "name": {
+          "local": "Dange-Shuni",
+          "en": "Dange-Shuni",
+          "slug": "dange-shuni-ng034003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.833",
+      "lon": "5.424"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

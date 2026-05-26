@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG028007_agbado",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbado",
+      "en": "Agbado",
+      "slug": "agbado"
+    },
+    "code": {
+      "id": "NG028007_agbado",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028007",
+      "level": 2,
+      "name": {
+        "local": "Ifo",
+        "en": "Ifo",
+        "slug": "ifo-ng028007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028007",
+        "level": 2,
+        "name": {
+          "local": "Ifo",
+          "en": "Ifo",
+          "slug": "ifo-ng028007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "3.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028007_ajuwonakute",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajuwon/akute",
+      "en": "Ajuwon/akute",
+      "slug": "ajuwonakute"
+    },
+    "code": {
+      "id": "NG028007_ajuwonakute",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028007",
+      "level": 2,
+      "name": {
+        "local": "Ifo",
+        "en": "Ifo",
+        "slug": "ifo-ng028007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028007",
+        "level": 2,
+        "name": {
+          "local": "Ifo",
+          "en": "Ifo",
+          "slug": "ifo-ng028007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "3.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028007_coker",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Coker",
+      "en": "Coker",
+      "slug": "coker"
+    },
+    "code": {
+      "id": "NG028007_coker",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028007",
+      "level": 2,
+      "name": {
+        "local": "Ifo",
+        "en": "Ifo",
+        "slug": "ifo-ng028007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028007",
+        "level": 2,
+        "name": {
+          "local": "Ifo",
+          "en": "Ifo",
+          "slug": "ifo-ng028007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "3.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028007_ibogun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibogun",
+      "en": "Ibogun",
+      "slug": "ibogun"
+    },
+    "code": {
+      "id": "NG028007_ibogun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028007",
+      "level": 2,
+      "name": {
+        "local": "Ifo",
+        "en": "Ifo",
+        "slug": "ifo-ng028007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028007",
+        "level": 2,
+        "name": {
+          "local": "Ifo",
+          "en": "Ifo",
+          "slug": "ifo-ng028007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "3.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028007_ifo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ifo I",
+      "en": "Ifo I",
+      "slug": "ifo-i"
+    },
+    "code": {
+      "id": "NG028007_ifo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028007",
+      "level": 2,
+      "name": {
+        "local": "Ifo",
+        "en": "Ifo",
+        "slug": "ifo-ng028007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028007",
+        "level": 2,
+        "name": {
+          "local": "Ifo",
+          "en": "Ifo",
+          "slug": "ifo-ng028007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "3.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028007_ifo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ifo Ii",
+      "en": "Ifo Ii",
+      "slug": "ifo-ii"
+    },
+    "code": {
+      "id": "NG028007_ifo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028007",
+      "level": 2,
+      "name": {
+        "local": "Ifo",
+        "en": "Ifo",
+        "slug": "ifo-ng028007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028007",
+        "level": 2,
+        "name": {
+          "local": "Ifo",
+          "en": "Ifo",
+          "slug": "ifo-ng028007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "3.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028007_ifo-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ifo Iii",
+      "en": "Ifo Iii",
+      "slug": "ifo-iii"
+    },
+    "code": {
+      "id": "NG028007_ifo-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028007",
+      "level": 2,
+      "name": {
+        "local": "Ifo",
+        "en": "Ifo",
+        "slug": "ifo-ng028007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028007",
+        "level": 2,
+        "name": {
+          "local": "Ifo",
+          "en": "Ifo",
+          "slug": "ifo-ng028007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "3.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028007_iseri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iseri",
+      "en": "Iseri",
+      "slug": "iseri"
+    },
+    "code": {
+      "id": "NG028007_iseri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028007",
+      "level": 2,
+      "name": {
+        "local": "Ifo",
+        "en": "Ifo",
+        "slug": "ifo-ng028007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028007",
+        "level": 2,
+        "name": {
+          "local": "Ifo",
+          "en": "Ifo",
+          "slug": "ifo-ng028007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "3.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028007_oke-aroibaragunrobiyan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke-aro/ibaragun/robiyan",
+      "en": "Oke-aro/ibaragun/robiyan",
+      "slug": "oke-aroibaragunrobiyan"
+    },
+    "code": {
+      "id": "NG028007_oke-aroibaragunrobiyan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028007",
+      "level": 2,
+      "name": {
+        "local": "Ifo",
+        "en": "Ifo",
+        "slug": "ifo-ng028007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028007",
+        "level": 2,
+        "name": {
+          "local": "Ifo",
+          "en": "Ifo",
+          "slug": "ifo-ng028007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "3.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028007_ososun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ososun",
+      "en": "Ososun",
+      "slug": "ososun"
+    },
+    "code": {
+      "id": "NG028007_ososun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028007",
+      "level": 2,
+      "name": {
+        "local": "Ifo",
+        "en": "Ifo",
+        "slug": "ifo-ng028007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028007",
+        "level": 2,
+        "name": {
+          "local": "Ifo",
+          "en": "Ifo",
+          "slug": "ifo-ng028007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "3.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028007_sunren",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sunren",
+      "en": "Sunren",
+      "slug": "sunren"
+    },
+    "code": {
+      "id": "NG028007_sunren",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028007",
+      "level": 2,
+      "name": {
+        "local": "Ifo",
+        "en": "Ifo",
+        "slug": "ifo-ng028007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028007",
+        "level": 2,
+        "name": {
+          "local": "Ifo",
+          "en": "Ifo",
+          "slug": "ifo-ng028007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "3.318"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

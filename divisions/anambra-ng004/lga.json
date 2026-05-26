@@ -1,0 +1,989 @@
+[
+  {
+    "id": "NG004001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Aguata",
+      "en": "Aguata",
+      "slug": "aguata-ng004001"
+    },
+    "code": {
+      "id": "NG004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.983",
+      "lon": "7.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Anambra East",
+      "en": "Anambra East",
+      "slug": "anambra-east-ng004002"
+    },
+    "code": {
+      "id": "NG004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.313",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Anambra West",
+      "en": "Anambra West",
+      "slug": "anambra-west-ng004003"
+    },
+    "code": {
+      "id": "NG004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.493",
+      "lon": "6.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Anaocha",
+      "en": "Anaocha",
+      "slug": "anaocha-ng004004"
+    },
+    "code": {
+      "id": "NG004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.091",
+      "lon": "7.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Awka North",
+      "en": "Awka North",
+      "slug": "awka-north-ng004005"
+    },
+    "code": {
+      "id": "NG004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.34",
+      "lon": "7.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Awka South",
+      "en": "Awka South",
+      "slug": "awka-south-ng004006"
+    },
+    "code": {
+      "id": "NG004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.193",
+      "lon": "7.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ayamelum",
+      "en": "Ayamelum",
+      "slug": "ayamelum-ng004007"
+    },
+    "code": {
+      "id": "NG004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "6.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Dunukofia",
+      "en": "Dunukofia",
+      "slug": "dunukofia-ng004008"
+    },
+    "code": {
+      "id": "NG004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ekwusigo",
+      "en": "Ekwusigo",
+      "slug": "ekwusigo-ng004009"
+    },
+    "code": {
+      "id": "NG004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.994",
+      "lon": "6.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Idemili North",
+      "en": "Idemili North",
+      "slug": "idemili-north-ng004010"
+    },
+    "code": {
+      "id": "NG004010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.137",
+      "lon": "6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Idemili South",
+      "en": "Idemili South",
+      "slug": "idemili-south-ng004011"
+    },
+    "code": {
+      "id": "NG004011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.061",
+      "lon": "6.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ihiala",
+      "en": "Ihiala",
+      "slug": "ihiala-ng004012"
+    },
+    "code": {
+      "id": "NG004012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.845",
+      "lon": "6.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Njikoka",
+      "en": "Njikoka",
+      "slug": "njikoka-ng004013"
+    },
+    "code": {
+      "id": "NG004013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.19",
+      "lon": "7.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nnewi North",
+      "en": "Nnewi North",
+      "slug": "nnewi-north-ng004014"
+    },
+    "code": {
+      "id": "NG004014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.019",
+      "lon": "6.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Nnewi South",
+      "en": "Nnewi South",
+      "slug": "nnewi-south-ng004015"
+    },
+    "code": {
+      "id": "NG004015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.958",
+      "lon": "6.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ogbaru",
+      "en": "Ogbaru",
+      "slug": "ogbaru-ng004016"
+    },
+    "code": {
+      "id": "NG004016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.912",
+      "lon": "6.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Onitsha North",
+      "en": "Onitsha North",
+      "slug": "onitsha-north-ng004017"
+    },
+    "code": {
+      "id": "NG004017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.164",
+      "lon": "6.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Onitsha South",
+      "en": "Onitsha South",
+      "slug": "onitsha-south-ng004018"
+    },
+    "code": {
+      "id": "NG004018",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.14",
+      "lon": "6.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Orumba North",
+      "en": "Orumba North",
+      "slug": "orumba-north-ng004019"
+    },
+    "code": {
+      "id": "NG004019",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.115",
+      "lon": "7.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Orumba South",
+      "en": "Orumba South",
+      "slug": "orumba-south-ng004020"
+    },
+    "code": {
+      "id": "NG004020",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Oyi",
+      "en": "Oyi",
+      "slug": "oyi-ng004021"
+    },
+    "code": {
+      "id": "NG004021",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.227",
+      "lon": "6.9"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

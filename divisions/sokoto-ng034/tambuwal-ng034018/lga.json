@@ -1,0 +1,47 @@
+{
+  "id": "NG034018",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Tambuwal",
+    "en": "Tambuwal",
+    "slug": "tambuwal-ng034018"
+  },
+  "code": {
+    "id": "NG034018",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG034",
+    "level": 1,
+    "name": {
+      "local": "Sokoto",
+      "en": "Sokoto",
+      "slug": "sokoto-ng034"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG034",
+      "level": 1,
+      "name": {
+        "local": "Sokoto",
+        "en": "Sokoto",
+        "slug": "sokoto-ng034"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.439",
+    "lon": "4.921"
+  },
+  "metadata": {},
+  "source": {}
+}

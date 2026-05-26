@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG019002_chikun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chikun",
+      "en": "Chikun",
+      "slug": "chikun"
+    },
+    "code": {
+      "id": "NG019002_chikun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019002",
+      "level": 2,
+      "name": {
+        "local": "Chikun",
+        "en": "Chikun",
+        "slug": "chikun-ng019002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019002",
+        "level": 2,
+        "name": {
+          "local": "Chikun",
+          "en": "Chikun",
+          "slug": "chikun-ng019002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019002_gwagwada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwagwada",
+      "en": "Gwagwada",
+      "slug": "gwagwada"
+    },
+    "code": {
+      "id": "NG019002_gwagwada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019002",
+      "level": 2,
+      "name": {
+        "local": "Chikun",
+        "en": "Chikun",
+        "slug": "chikun-ng019002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019002",
+        "level": 2,
+        "name": {
+          "local": "Chikun",
+          "en": "Chikun",
+          "slug": "chikun-ng019002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019002_kakau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kakau",
+      "en": "Kakau",
+      "slug": "kakau"
+    },
+    "code": {
+      "id": "NG019002_kakau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019002",
+      "level": 2,
+      "name": {
+        "local": "Chikun",
+        "en": "Chikun",
+        "slug": "chikun-ng019002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019002",
+        "level": 2,
+        "name": {
+          "local": "Chikun",
+          "en": "Chikun",
+          "slug": "chikun-ng019002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019002_kujama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kujama",
+      "en": "Kujama",
+      "slug": "kujama"
+    },
+    "code": {
+      "id": "NG019002_kujama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019002",
+      "level": 2,
+      "name": {
+        "local": "Chikun",
+        "en": "Chikun",
+        "slug": "chikun-ng019002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019002",
+        "level": 2,
+        "name": {
+          "local": "Chikun",
+          "en": "Chikun",
+          "slug": "chikun-ng019002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019002_kunai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kunai",
+      "en": "Kunai",
+      "slug": "kunai"
+    },
+    "code": {
+      "id": "NG019002_kunai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019002",
+      "level": 2,
+      "name": {
+        "local": "Chikun",
+        "en": "Chikun",
+        "slug": "chikun-ng019002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019002",
+        "level": 2,
+        "name": {
+          "local": "Chikun",
+          "en": "Chikun",
+          "slug": "chikun-ng019002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019002_kuriga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuriga",
+      "en": "Kuriga",
+      "slug": "kuriga"
+    },
+    "code": {
+      "id": "NG019002_kuriga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019002",
+      "level": 2,
+      "name": {
+        "local": "Chikun",
+        "en": "Chikun",
+        "slug": "chikun-ng019002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019002",
+        "level": 2,
+        "name": {
+          "local": "Chikun",
+          "en": "Chikun",
+          "slug": "chikun-ng019002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019002_narayi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Narayi",
+      "en": "Narayi",
+      "slug": "narayi"
+    },
+    "code": {
+      "id": "NG019002_narayi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019002",
+      "level": 2,
+      "name": {
+        "local": "Chikun",
+        "en": "Chikun",
+        "slug": "chikun-ng019002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019002",
+        "level": 2,
+        "name": {
+          "local": "Chikun",
+          "en": "Chikun",
+          "slug": "chikun-ng019002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019002_nasarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasarawa",
+      "en": "Nasarawa",
+      "slug": "nasarawa"
+    },
+    "code": {
+      "id": "NG019002_nasarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019002",
+      "level": 2,
+      "name": {
+        "local": "Chikun",
+        "en": "Chikun",
+        "slug": "chikun-ng019002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019002",
+        "level": 2,
+        "name": {
+          "local": "Chikun",
+          "en": "Chikun",
+          "slug": "chikun-ng019002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019002_rido",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rido",
+      "en": "Rido",
+      "slug": "rido"
+    },
+    "code": {
+      "id": "NG019002_rido",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019002",
+      "level": 2,
+      "name": {
+        "local": "Chikun",
+        "en": "Chikun",
+        "slug": "chikun-ng019002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019002",
+        "level": 2,
+        "name": {
+          "local": "Chikun",
+          "en": "Chikun",
+          "slug": "chikun-ng019002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019002_sggarin-arewa-tirkaniya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S/ggarin Arewa Tirkaniya",
+      "en": "S/ggarin Arewa Tirkaniya",
+      "slug": "sggarin-arewa-tirkaniya"
+    },
+    "code": {
+      "id": "NG019002_sggarin-arewa-tirkaniya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019002",
+      "level": 2,
+      "name": {
+        "local": "Chikun",
+        "en": "Chikun",
+        "slug": "chikun-ng019002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019002",
+        "level": 2,
+        "name": {
+          "local": "Chikun",
+          "en": "Chikun",
+          "slug": "chikun-ng019002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019002_sabon-tasha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Tasha",
+      "en": "Sabon Tasha",
+      "slug": "sabon-tasha"
+    },
+    "code": {
+      "id": "NG019002_sabon-tasha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019002",
+      "level": 2,
+      "name": {
+        "local": "Chikun",
+        "en": "Chikun",
+        "slug": "chikun-ng019002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019002",
+        "level": 2,
+        "name": {
+          "local": "Chikun",
+          "en": "Chikun",
+          "slug": "chikun-ng019002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019002_ung-yelwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ung. Yelwa",
+      "en": "Ung. Yelwa",
+      "slug": "ung-yelwa"
+    },
+    "code": {
+      "id": "NG019002_ung-yelwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019002",
+      "level": 2,
+      "name": {
+        "local": "Chikun",
+        "en": "Chikun",
+        "slug": "chikun-ng019002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019002",
+        "level": 2,
+        "name": {
+          "local": "Chikun",
+          "en": "Chikun",
+          "slug": "chikun-ng019002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.411",
+      "lon": "7.304"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

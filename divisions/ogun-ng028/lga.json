@@ -1,0 +1,942 @@
+[
+  {
+    "id": "NG028001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Abeokuta North",
+      "en": "Abeokuta North",
+      "slug": "abeokuta-north-ng028001"
+    },
+    "code": {
+      "id": "NG028001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.243",
+      "lon": "3.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Abeokuta South",
+      "en": "Abeokuta South",
+      "slug": "abeokuta-south-ng028002"
+    },
+    "code": {
+      "id": "NG028002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.156",
+      "lon": "3.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ado-Odo/Ota",
+      "en": "Ado-Odo/Ota",
+      "slug": "ado-odoota-ng028003"
+    },
+    "code": {
+      "id": "NG028003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "3.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Egbado North",
+      "en": "Egbado North",
+      "slug": "egbado-north-ng028004"
+    },
+    "code": {
+      "id": "NG028004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.113",
+      "lon": "2.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Egbado South",
+      "en": "Egbado South",
+      "slug": "egbado-south-ng028005"
+    },
+    "code": {
+      "id": "NG028005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.767",
+      "lon": "2.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ewekoro",
+      "en": "Ewekoro",
+      "slug": "ewekoro-ng028006"
+    },
+    "code": {
+      "id": "NG028006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.974",
+      "lon": "3.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ifo",
+      "en": "Ifo",
+      "slug": "ifo-ng028007"
+    },
+    "code": {
+      "id": "NG028007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.76",
+      "lon": "3.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ijebu East",
+      "en": "Ijebu East",
+      "slug": "ijebu-east-ng028008"
+    },
+    "code": {
+      "id": "NG028008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "4.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ijebu North",
+      "en": "Ijebu North",
+      "slug": "ijebu-north-ng028009"
+    },
+    "code": {
+      "id": "NG028009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.032",
+      "lon": "3.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ijebu North East",
+      "en": "Ijebu North East",
+      "slug": "ijebu-north-east-ng028010"
+    },
+    "code": {
+      "id": "NG028010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.871",
+      "lon": "4.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ijebu Ode",
+      "en": "Ijebu Ode",
+      "slug": "ijebu-ode-ng028011"
+    },
+    "code": {
+      "id": "NG028011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.767",
+      "lon": "3.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ikenne",
+      "en": "Ikenne",
+      "slug": "ikenne-ng028012"
+    },
+    "code": {
+      "id": "NG028012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.901",
+      "lon": "3.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Imeko-Afon",
+      "en": "Imeko-Afon",
+      "slug": "imeko-afon-ng028013"
+    },
+    "code": {
+      "id": "NG028013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.633",
+      "lon": "2.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ipokia",
+      "en": "Ipokia",
+      "slug": "ipokia-ng028014"
+    },
+    "code": {
+      "id": "NG028014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.653",
+      "lon": "2.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Obafemi-Owode",
+      "en": "Obafemi-Owode",
+      "slug": "obafemi-owode-ng028015"
+    },
+    "code": {
+      "id": "NG028015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.961",
+      "lon": "3.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Odeda",
+      "en": "Odeda",
+      "slug": "odeda-ng028016"
+    },
+    "code": {
+      "id": "NG028016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.317",
+      "lon": "3.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Odogbolu",
+      "en": "Odogbolu",
+      "slug": "odogbolu-ng028017"
+    },
+    "code": {
+      "id": "NG028017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.808",
+      "lon": "3.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ogun waterside",
+      "en": "Ogun waterside",
+      "slug": "ogun-waterside-ng028018"
+    },
+    "code": {
+      "id": "NG028018",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.474",
+      "lon": "4.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Remo North",
+      "en": "Remo North",
+      "slug": "remo-north-ng028019"
+    },
+    "code": {
+      "id": "NG028019",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.995",
+      "lon": "3.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Shagamu",
+      "en": "Shagamu",
+      "slug": "shagamu-ng028020"
+    },
+    "code": {
+      "id": "NG028020",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.808",
+      "lon": "3.589"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

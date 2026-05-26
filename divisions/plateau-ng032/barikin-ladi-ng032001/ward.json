@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG032001_barakin-ladi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Barakin Ladi",
+      "en": "Barakin Ladi",
+      "slug": "barakin-ladi"
+    },
+    "code": {
+      "id": "NG032001_barakin-ladi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032001",
+      "level": 2,
+      "name": {
+        "local": "Barikin Ladi",
+        "en": "Barikin Ladi",
+        "slug": "barikin-ladi-ng032001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032001",
+        "level": 2,
+        "name": {
+          "local": "Barikin Ladi",
+          "en": "Barikin Ladi",
+          "slug": "barikin-ladi-ng032001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.574",
+      "lon": "8.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032001_gassasho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gassa/sho",
+      "en": "Gassa/sho",
+      "slug": "gassasho"
+    },
+    "code": {
+      "id": "NG032001_gassasho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032001",
+      "level": 2,
+      "name": {
+        "local": "Barikin Ladi",
+        "en": "Barikin Ladi",
+        "slug": "barikin-ladi-ng032001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032001",
+        "level": 2,
+        "name": {
+          "local": "Barikin Ladi",
+          "en": "Barikin Ladi",
+          "slug": "barikin-ladi-ng032001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.574",
+      "lon": "8.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032001_gindin-akwati",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gindin Akwati",
+      "en": "Gindin Akwati",
+      "slug": "gindin-akwati"
+    },
+    "code": {
+      "id": "NG032001_gindin-akwati",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032001",
+      "level": 2,
+      "name": {
+        "local": "Barikin Ladi",
+        "en": "Barikin Ladi",
+        "slug": "barikin-ladi-ng032001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032001",
+        "level": 2,
+        "name": {
+          "local": "Barikin Ladi",
+          "en": "Barikin Ladi",
+          "slug": "barikin-ladi-ng032001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.574",
+      "lon": "8.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032001_heipang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Heipang",
+      "en": "Heipang",
+      "slug": "heipang"
+    },
+    "code": {
+      "id": "NG032001_heipang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032001",
+      "level": 2,
+      "name": {
+        "local": "Barikin Ladi",
+        "en": "Barikin Ladi",
+        "slug": "barikin-ladi-ng032001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032001",
+        "level": 2,
+        "name": {
+          "local": "Barikin Ladi",
+          "en": "Barikin Ladi",
+          "slug": "barikin-ladi-ng032001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.574",
+      "lon": "8.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032001_kapwis",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kapwis",
+      "en": "Kapwis",
+      "slug": "kapwis"
+    },
+    "code": {
+      "id": "NG032001_kapwis",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032001",
+      "level": 2,
+      "name": {
+        "local": "Barikin Ladi",
+        "en": "Barikin Ladi",
+        "slug": "barikin-ladi-ng032001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032001",
+        "level": 2,
+        "name": {
+          "local": "Barikin Ladi",
+          "en": "Barikin Ladi",
+          "slug": "barikin-ladi-ng032001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.574",
+      "lon": "8.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032001_kurra-falls",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurra Falls",
+      "en": "Kurra Falls",
+      "slug": "kurra-falls"
+    },
+    "code": {
+      "id": "NG032001_kurra-falls",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032001",
+      "level": 2,
+      "name": {
+        "local": "Barikin Ladi",
+        "en": "Barikin Ladi",
+        "slug": "barikin-ladi-ng032001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032001",
+        "level": 2,
+        "name": {
+          "local": "Barikin Ladi",
+          "en": "Barikin Ladi",
+          "slug": "barikin-ladi-ng032001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.574",
+      "lon": "8.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032001_lobiring",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lobiring",
+      "en": "Lobiring",
+      "slug": "lobiring"
+    },
+    "code": {
+      "id": "NG032001_lobiring",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032001",
+      "level": 2,
+      "name": {
+        "local": "Barikin Ladi",
+        "en": "Barikin Ladi",
+        "slug": "barikin-ladi-ng032001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032001",
+        "level": 2,
+        "name": {
+          "local": "Barikin Ladi",
+          "en": "Barikin Ladi",
+          "slug": "barikin-ladi-ng032001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.574",
+      "lon": "8.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032001_maritmazat",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Marit/mazat",
+      "en": "Marit/mazat",
+      "slug": "maritmazat"
+    },
+    "code": {
+      "id": "NG032001_maritmazat",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032001",
+      "level": 2,
+      "name": {
+        "local": "Barikin Ladi",
+        "en": "Barikin Ladi",
+        "slug": "barikin-ladi-ng032001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032001",
+        "level": 2,
+        "name": {
+          "local": "Barikin Ladi",
+          "en": "Barikin Ladi",
+          "slug": "barikin-ladi-ng032001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.574",
+      "lon": "8.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032001_rafan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rafan",
+      "en": "Rafan",
+      "slug": "rafan"
+    },
+    "code": {
+      "id": "NG032001_rafan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032001",
+      "level": 2,
+      "name": {
+        "local": "Barikin Ladi",
+        "en": "Barikin Ladi",
+        "slug": "barikin-ladi-ng032001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032001",
+        "level": 2,
+        "name": {
+          "local": "Barikin Ladi",
+          "en": "Barikin Ladi",
+          "slug": "barikin-ladi-ng032001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.574",
+      "lon": "8.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032001_tafan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tafan",
+      "en": "Tafan",
+      "slug": "tafan"
+    },
+    "code": {
+      "id": "NG032001_tafan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032001",
+      "level": 2,
+      "name": {
+        "local": "Barikin Ladi",
+        "en": "Barikin Ladi",
+        "slug": "barikin-ladi-ng032001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032001",
+        "level": 2,
+        "name": {
+          "local": "Barikin Ladi",
+          "en": "Barikin Ladi",
+          "slug": "barikin-ladi-ng032001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.574",
+      "lon": "8.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032001_zabot",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zabot",
+      "en": "Zabot",
+      "slug": "zabot"
+    },
+    "code": {
+      "id": "NG032001_zabot",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032001",
+      "level": 2,
+      "name": {
+        "local": "Barikin Ladi",
+        "en": "Barikin Ladi",
+        "slug": "barikin-ladi-ng032001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032001",
+        "level": 2,
+        "name": {
+          "local": "Barikin Ladi",
+          "en": "Barikin Ladi",
+          "slug": "barikin-ladi-ng032001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.574",
+      "lon": "8.971"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

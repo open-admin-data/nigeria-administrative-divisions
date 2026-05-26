@@ -1,0 +1,758 @@
+[
+  {
+    "id": "NG033010_egbeda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egbeda",
+      "en": "Egbeda",
+      "slug": "egbeda"
+    },
+    "code": {
+      "id": "NG033010_egbeda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_elele-alimini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Elele Alimini",
+      "en": "Elele Alimini",
+      "slug": "elele-alimini"
+    },
+    "code": {
+      "id": "NG033010_elele-alimini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_emohua-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Emohua I",
+      "en": "Emohua I",
+      "slug": "emohua-i"
+    },
+    "code": {
+      "id": "NG033010_emohua-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_emohua-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Emohua Ii",
+      "en": "Emohua Ii",
+      "slug": "emohua-ii"
+    },
+    "code": {
+      "id": "NG033010_emohua-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_ibaa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibaa",
+      "en": "Ibaa",
+      "slug": "ibaa"
+    },
+    "code": {
+      "id": "NG033010_ibaa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_obelle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obelle",
+      "en": "Obelle",
+      "slug": "obelle"
+    },
+    "code": {
+      "id": "NG033010_obelle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_odegu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odegu I",
+      "en": "Odegu I",
+      "slug": "odegu-i"
+    },
+    "code": {
+      "id": "NG033010_odegu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_odegu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odegu Ii",
+      "en": "Odegu Ii",
+      "slug": "odegu-ii"
+    },
+    "code": {
+      "id": "NG033010_odegu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_ogbakiri-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbakiri I",
+      "en": "Ogbakiri I",
+      "slug": "ogbakiri-i"
+    },
+    "code": {
+      "id": "NG033010_ogbakiri-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_ogbakiri-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbakiri Ii",
+      "en": "Ogbakiri Ii",
+      "slug": "ogbakiri-ii"
+    },
+    "code": {
+      "id": "NG033010_ogbakiri-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_omudioga-akpadu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Omudioga/ Akpadu",
+      "en": "Omudioga/ Akpadu",
+      "slug": "omudioga-akpadu"
+    },
+    "code": {
+      "id": "NG033010_omudioga-akpadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_rumuekpe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rumuekpe",
+      "en": "Rumuekpe",
+      "slug": "rumuekpe"
+    },
+    "code": {
+      "id": "NG033010_rumuekpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_rundele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rundele",
+      "en": "Rundele",
+      "slug": "rundele"
+    },
+    "code": {
+      "id": "NG033010_rundele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033010_ubimini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ubimini",
+      "en": "Ubimini",
+      "slug": "ubimini"
+    },
+    "code": {
+      "id": "NG033010_ubimini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033010",
+      "level": 2,
+      "name": {
+        "local": "Emohua",
+        "en": "Emohua",
+        "slug": "emohua-ng033010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033010",
+        "level": 2,
+        "name": {
+          "local": "Emohua",
+          "en": "Emohua",
+          "slug": "emohua-ng033010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.032",
+      "lon": "6.764"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

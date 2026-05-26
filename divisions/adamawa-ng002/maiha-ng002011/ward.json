@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG002011_belel",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Belel",
+      "en": "Belel",
+      "slug": "belel"
+    },
+    "code": {
+      "id": "NG002011_belel",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002011",
+      "level": 2,
+      "name": {
+        "local": "Maiha",
+        "en": "Maiha",
+        "slug": "maiha-ng002011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002011",
+        "level": 2,
+        "name": {
+          "local": "Maiha",
+          "en": "Maiha",
+          "slug": "maiha-ng002011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.874",
+      "lon": "13.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002011_humbutudi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Humbutudi",
+      "en": "Humbutudi",
+      "slug": "humbutudi"
+    },
+    "code": {
+      "id": "NG002011_humbutudi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002011",
+      "level": 2,
+      "name": {
+        "local": "Maiha",
+        "en": "Maiha",
+        "slug": "maiha-ng002011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002011",
+        "level": 2,
+        "name": {
+          "local": "Maiha",
+          "en": "Maiha",
+          "slug": "maiha-ng002011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.147",
+      "lon": "13.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002011_konkol",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Konkol",
+      "en": "Konkol",
+      "slug": "konkol"
+    },
+    "code": {
+      "id": "NG002011_konkol",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002011",
+      "level": 2,
+      "name": {
+        "local": "Maiha",
+        "en": "Maiha",
+        "slug": "maiha-ng002011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002011",
+        "level": 2,
+        "name": {
+          "local": "Maiha",
+          "en": "Maiha",
+          "slug": "maiha-ng002011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.6",
+      "lon": "13.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002011_maiha-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maiha Gari",
+      "en": "Maiha Gari",
+      "slug": "maiha-gari"
+    },
+    "code": {
+      "id": "NG002011_maiha-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002011",
+      "level": 2,
+      "name": {
+        "local": "Maiha",
+        "en": "Maiha",
+        "slug": "maiha-ng002011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002011",
+        "level": 2,
+        "name": {
+          "local": "Maiha",
+          "en": "Maiha",
+          "slug": "maiha-ng002011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.985",
+      "lon": "13.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002011_manjekin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Manjekin",
+      "en": "Manjekin",
+      "slug": "manjekin"
+    },
+    "code": {
+      "id": "NG002011_manjekin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002011",
+      "level": 2,
+      "name": {
+        "local": "Maiha",
+        "en": "Maiha",
+        "slug": "maiha-ng002011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002011",
+        "level": 2,
+        "name": {
+          "local": "Maiha",
+          "en": "Maiha",
+          "slug": "maiha-ng002011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.061",
+      "lon": "13.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002011_mayonguli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayonguli",
+      "en": "Mayonguli",
+      "slug": "mayonguli"
+    },
+    "code": {
+      "id": "NG002011_mayonguli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002011",
+      "level": 2,
+      "name": {
+        "local": "Maiha",
+        "en": "Maiha",
+        "slug": "maiha-ng002011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002011",
+        "level": 2,
+        "name": {
+          "local": "Maiha",
+          "en": "Maiha",
+          "slug": "maiha-ng002011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.874",
+      "lon": "13.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002011_pakka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pakka",
+      "en": "Pakka",
+      "slug": "pakka"
+    },
+    "code": {
+      "id": "NG002011_pakka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002011",
+      "level": 2,
+      "name": {
+        "local": "Maiha",
+        "en": "Maiha",
+        "slug": "maiha-ng002011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002011",
+        "level": 2,
+        "name": {
+          "local": "Maiha",
+          "en": "Maiha",
+          "slug": "maiha-ng002011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.115",
+      "lon": "13.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002011_sorau-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sorau 'a'",
+      "en": "Sorau 'a'",
+      "slug": "sorau-a"
+    },
+    "code": {
+      "id": "NG002011_sorau-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002011",
+      "level": 2,
+      "name": {
+        "local": "Maiha",
+        "en": "Maiha",
+        "slug": "maiha-ng002011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002011",
+        "level": 2,
+        "name": {
+          "local": "Maiha",
+          "en": "Maiha",
+          "slug": "maiha-ng002011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.905",
+      "lon": "13.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002011_sorau-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sorau 'b'",
+      "en": "Sorau 'b'",
+      "slug": "sorau-b"
+    },
+    "code": {
+      "id": "NG002011_sorau-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002011",
+      "level": 2,
+      "name": {
+        "local": "Maiha",
+        "en": "Maiha",
+        "slug": "maiha-ng002011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002011",
+        "level": 2,
+        "name": {
+          "local": "Maiha",
+          "en": "Maiha",
+          "slug": "maiha-ng002011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.905",
+      "lon": "13.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002011_tambajam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tambajam",
+      "en": "Tambajam",
+      "slug": "tambajam"
+    },
+    "code": {
+      "id": "NG002011_tambajam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002011",
+      "level": 2,
+      "name": {
+        "local": "Maiha",
+        "en": "Maiha",
+        "slug": "maiha-ng002011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002011",
+        "level": 2,
+        "name": {
+          "local": "Maiha",
+          "en": "Maiha",
+          "slug": "maiha-ng002011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.972",
+      "lon": "13.184"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

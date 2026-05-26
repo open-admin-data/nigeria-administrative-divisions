@@ -1,0 +1,47 @@
+{
+  "id": "NG025013",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Kosofe",
+    "en": "Kosofe",
+    "slug": "kosofe-ng025013"
+  },
+  "code": {
+    "id": "NG025013",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG025",
+    "level": 1,
+    "name": {
+      "local": "Lagos",
+      "en": "Lagos",
+      "slug": "lagos-ng025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.584",
+    "lon": "3.417"
+  },
+  "metadata": {},
+  "source": {}
+}

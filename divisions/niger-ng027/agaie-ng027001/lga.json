@@ -1,0 +1,47 @@
+{
+  "id": "NG027001",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Agaie",
+    "en": "Agaie",
+    "slug": "agaie-ng027001"
+  },
+  "code": {
+    "id": "NG027001",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG027",
+    "level": 1,
+    "name": {
+      "local": "Niger",
+      "en": "Niger",
+      "slug": "niger-ng027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG027",
+      "level": 1,
+      "name": {
+        "local": "Niger",
+        "en": "Niger",
+        "slug": "niger-ng027"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.934",
+    "lon": "6.43"
+  },
+  "metadata": {},
+  "source": {}
+}

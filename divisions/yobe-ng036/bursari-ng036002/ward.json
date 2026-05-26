@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG036002_bayamari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bayamari",
+      "en": "Bayamari",
+      "slug": "bayamari"
+    },
+    "code": {
+      "id": "NG036002_bayamari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036002",
+      "level": 2,
+      "name": {
+        "local": "Bursari",
+        "en": "Bursari",
+        "slug": "bursari-ng036002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036002",
+        "level": 2,
+        "name": {
+          "local": "Bursari",
+          "en": "Bursari",
+          "slug": "bursari-ng036002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.757",
+      "lon": "11.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036002_damnawajuluri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damnawa/juluri",
+      "en": "Damnawa/juluri",
+      "slug": "damnawajuluri"
+    },
+    "code": {
+      "id": "NG036002_damnawajuluri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036002",
+      "level": 2,
+      "name": {
+        "local": "Bursari",
+        "en": "Bursari",
+        "slug": "bursari-ng036002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036002",
+        "level": 2,
+        "name": {
+          "local": "Bursari",
+          "en": "Bursari",
+          "slug": "bursari-ng036002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.696",
+      "lon": "11.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036002_danani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danani",
+      "en": "Danani",
+      "slug": "danani"
+    },
+    "code": {
+      "id": "NG036002_danani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036002",
+      "level": 2,
+      "name": {
+        "local": "Bursari",
+        "en": "Bursari",
+        "slug": "bursari-ng036002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036002",
+        "level": 2,
+        "name": {
+          "local": "Bursari",
+          "en": "Bursari",
+          "slug": "bursari-ng036002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.587",
+      "lon": "11.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036002_dapchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dapchi",
+      "en": "Dapchi",
+      "slug": "dapchi"
+    },
+    "code": {
+      "id": "NG036002_dapchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036002",
+      "level": 2,
+      "name": {
+        "local": "Bursari",
+        "en": "Bursari",
+        "slug": "bursari-ng036002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036002",
+        "level": 2,
+        "name": {
+          "local": "Bursari",
+          "en": "Bursari",
+          "slug": "bursari-ng036002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.518",
+      "lon": "11.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036002_garun-dole-garin-alkali",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garun Dole / Garin Alkali",
+      "en": "Garun Dole / Garin Alkali",
+      "slug": "garun-dole-garin-alkali"
+    },
+    "code": {
+      "id": "NG036002_garun-dole-garin-alkali",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036002",
+      "level": 2,
+      "name": {
+        "local": "Bursari",
+        "en": "Bursari",
+        "slug": "bursari-ng036002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036002",
+        "level": 2,
+        "name": {
+          "local": "Bursari",
+          "en": "Bursari",
+          "slug": "bursari-ng036002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.696",
+      "lon": "11.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036002_guba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guba",
+      "en": "Guba",
+      "slug": "guba"
+    },
+    "code": {
+      "id": "NG036002_guba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036002",
+      "level": 2,
+      "name": {
+        "local": "Bursari",
+        "en": "Bursari",
+        "slug": "bursari-ng036002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036002",
+        "level": 2,
+        "name": {
+          "local": "Bursari",
+          "en": "Bursari",
+          "slug": "bursari-ng036002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.742",
+      "lon": "11.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036002_guji-metalari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guji / Metalari",
+      "en": "Guji / Metalari",
+      "slug": "guji-metalari"
+    },
+    "code": {
+      "id": "NG036002_guji-metalari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036002",
+      "level": 2,
+      "name": {
+        "local": "Bursari",
+        "en": "Bursari",
+        "slug": "bursari-ng036002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036002",
+        "level": 2,
+        "name": {
+          "local": "Bursari",
+          "en": "Bursari",
+          "slug": "bursari-ng036002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.772",
+      "lon": "11.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036002_kaliyari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaliyari",
+      "en": "Kaliyari",
+      "slug": "kaliyari"
+    },
+    "code": {
+      "id": "NG036002_kaliyari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036002",
+      "level": 2,
+      "name": {
+        "local": "Bursari",
+        "en": "Bursari",
+        "slug": "bursari-ng036002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036002",
+        "level": 2,
+        "name": {
+          "local": "Bursari",
+          "en": "Bursari",
+          "slug": "bursari-ng036002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.901",
+      "lon": "11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036002_kurnawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurnawa",
+      "en": "Kurnawa",
+      "slug": "kurnawa"
+    },
+    "code": {
+      "id": "NG036002_kurnawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036002",
+      "level": 2,
+      "name": {
+        "local": "Bursari",
+        "en": "Bursari",
+        "slug": "bursari-ng036002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036002",
+        "level": 2,
+        "name": {
+          "local": "Bursari",
+          "en": "Bursari",
+          "slug": "bursari-ng036002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.627",
+      "lon": "11.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036002_masaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Masaba",
+      "en": "Masaba",
+      "slug": "masaba"
+    },
+    "code": {
+      "id": "NG036002_masaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036002",
+      "level": 2,
+      "name": {
+        "local": "Bursari",
+        "en": "Bursari",
+        "slug": "bursari-ng036002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036002",
+        "level": 2,
+        "name": {
+          "local": "Bursari",
+          "en": "Bursari",
+          "slug": "bursari-ng036002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.894",
+      "lon": "11.189"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

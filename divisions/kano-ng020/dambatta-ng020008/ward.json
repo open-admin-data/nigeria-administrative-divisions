@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020008_ajumawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajumawa",
+      "en": "Ajumawa",
+      "slug": "ajumawa"
+    },
+    "code": {
+      "id": "NG020008_ajumawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020008",
+      "level": 2,
+      "name": {
+        "local": "Dambatta",
+        "en": "Dambatta",
+        "slug": "dambatta-ng020008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020008",
+        "level": 2,
+        "name": {
+          "local": "Dambatta",
+          "en": "Dambatta",
+          "slug": "dambatta-ng020008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.425",
+      "lon": "8.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020008_danbatta-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danbatta East",
+      "en": "Danbatta East",
+      "slug": "danbatta-east"
+    },
+    "code": {
+      "id": "NG020008_danbatta-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020008",
+      "level": 2,
+      "name": {
+        "local": "Dambatta",
+        "en": "Dambatta",
+        "slug": "dambatta-ng020008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020008",
+        "level": 2,
+        "name": {
+          "local": "Dambatta",
+          "en": "Dambatta",
+          "slug": "dambatta-ng020008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.425",
+      "lon": "8.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020008_danbatta-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danbatta West",
+      "en": "Danbatta West",
+      "slug": "danbatta-west"
+    },
+    "code": {
+      "id": "NG020008_danbatta-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020008",
+      "level": 2,
+      "name": {
+        "local": "Dambatta",
+        "en": "Dambatta",
+        "slug": "dambatta-ng020008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020008",
+        "level": 2,
+        "name": {
+          "local": "Dambatta",
+          "en": "Dambatta",
+          "slug": "dambatta-ng020008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.425",
+      "lon": "8.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020008_fagwalawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fagwalawa",
+      "en": "Fagwalawa",
+      "slug": "fagwalawa"
+    },
+    "code": {
+      "id": "NG020008_fagwalawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020008",
+      "level": 2,
+      "name": {
+        "local": "Dambatta",
+        "en": "Dambatta",
+        "slug": "dambatta-ng020008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020008",
+        "level": 2,
+        "name": {
+          "local": "Dambatta",
+          "en": "Dambatta",
+          "slug": "dambatta-ng020008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.425",
+      "lon": "8.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020008_goron-maje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Goron Maje",
+      "en": "Goron Maje",
+      "slug": "goron-maje"
+    },
+    "code": {
+      "id": "NG020008_goron-maje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020008",
+      "level": 2,
+      "name": {
+        "local": "Dambatta",
+        "en": "Dambatta",
+        "slug": "dambatta-ng020008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020008",
+        "level": 2,
+        "name": {
+          "local": "Dambatta",
+          "en": "Dambatta",
+          "slug": "dambatta-ng020008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.425",
+      "lon": "8.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020008_gwanda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwanda",
+      "en": "Gwanda",
+      "slug": "gwanda"
+    },
+    "code": {
+      "id": "NG020008_gwanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020008",
+      "level": 2,
+      "name": {
+        "local": "Dambatta",
+        "en": "Dambatta",
+        "slug": "dambatta-ng020008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020008",
+        "level": 2,
+        "name": {
+          "local": "Dambatta",
+          "en": "Dambatta",
+          "slug": "dambatta-ng020008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.425",
+      "lon": "8.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020008_gwarabjawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwarabjawa",
+      "en": "Gwarabjawa",
+      "slug": "gwarabjawa"
+    },
+    "code": {
+      "id": "NG020008_gwarabjawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020008",
+      "level": 2,
+      "name": {
+        "local": "Dambatta",
+        "en": "Dambatta",
+        "slug": "dambatta-ng020008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020008",
+        "level": 2,
+        "name": {
+          "local": "Dambatta",
+          "en": "Dambatta",
+          "slug": "dambatta-ng020008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.425",
+      "lon": "8.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020008_kore",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kore",
+      "en": "Kore",
+      "slug": "kore"
+    },
+    "code": {
+      "id": "NG020008_kore",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020008",
+      "level": 2,
+      "name": {
+        "local": "Dambatta",
+        "en": "Dambatta",
+        "slug": "dambatta-ng020008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020008",
+        "level": 2,
+        "name": {
+          "local": "Dambatta",
+          "en": "Dambatta",
+          "slug": "dambatta-ng020008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.425",
+      "lon": "8.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020008_saidawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Saidawa",
+      "en": "Saidawa",
+      "slug": "saidawa"
+    },
+    "code": {
+      "id": "NG020008_saidawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020008",
+      "level": 2,
+      "name": {
+        "local": "Dambatta",
+        "en": "Dambatta",
+        "slug": "dambatta-ng020008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020008",
+        "level": 2,
+        "name": {
+          "local": "Dambatta",
+          "en": "Dambatta",
+          "slug": "dambatta-ng020008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.425",
+      "lon": "8.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020008_sansan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sansan",
+      "en": "Sansan",
+      "slug": "sansan"
+    },
+    "code": {
+      "id": "NG020008_sansan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020008",
+      "level": 2,
+      "name": {
+        "local": "Dambatta",
+        "en": "Dambatta",
+        "slug": "dambatta-ng020008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020008",
+        "level": 2,
+        "name": {
+          "local": "Dambatta",
+          "en": "Dambatta",
+          "slug": "dambatta-ng020008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.425",
+      "lon": "8.642"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

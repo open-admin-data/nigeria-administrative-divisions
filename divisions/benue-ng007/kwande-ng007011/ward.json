@@ -1,0 +1,812 @@
+[
+  {
+    "id": "NG007011_adikpo-metropolis",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adikpo Metropolis",
+      "en": "Adikpo Metropolis",
+      "slug": "adikpo-metropolis"
+    },
+    "code": {
+      "id": "NG007011_adikpo-metropolis",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_kumakwagh",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kumakwagh",
+      "en": "Kumakwagh",
+      "slug": "kumakwagh"
+    },
+    "code": {
+      "id": "NG007011_kumakwagh",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_liev-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Liev I",
+      "en": "Liev I",
+      "slug": "liev-i"
+    },
+    "code": {
+      "id": "NG007011_liev-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_liev-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Liev Ii",
+      "en": "Liev Ii",
+      "slug": "liev-ii"
+    },
+    "code": {
+      "id": "NG007011_liev-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_mbadura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbadura",
+      "en": "Mbadura",
+      "slug": "mbadura"
+    },
+    "code": {
+      "id": "NG007011_mbadura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_mbagbambaikyan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbagba/mbaikyan",
+      "en": "Mbagba/mbaikyan",
+      "slug": "mbagbambaikyan"
+    },
+    "code": {
+      "id": "NG007011_mbagbambaikyan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_mbaikyor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbaikyor",
+      "en": "Mbaikyor",
+      "slug": "mbaikyor"
+    },
+    "code": {
+      "id": "NG007011_mbaikyor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_mbaketsa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbaketsa",
+      "en": "Mbaketsa",
+      "slug": "mbaketsa"
+    },
+    "code": {
+      "id": "NG007011_mbaketsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_mbayoo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbayoo",
+      "en": "Mbayoo",
+      "slug": "mbayoo"
+    },
+    "code": {
+      "id": "NG007011_mbayoo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_menev",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Menev",
+      "en": "Menev",
+      "slug": "menev"
+    },
+    "code": {
+      "id": "NG007011_menev",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_moon",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Moon",
+      "en": "Moon",
+      "slug": "moon"
+    },
+    "code": {
+      "id": "NG007011_moon",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_tondov-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tondov I",
+      "en": "Tondov I",
+      "slug": "tondov-i"
+    },
+    "code": {
+      "id": "NG007011_tondov-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_tondov-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tondov Ii",
+      "en": "Tondov Ii",
+      "slug": "tondov-ii"
+    },
+    "code": {
+      "id": "NG007011_tondov-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_usar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Usar",
+      "en": "Usar",
+      "slug": "usar"
+    },
+    "code": {
+      "id": "NG007011_usar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007011_yaav",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yaav",
+      "en": "Yaav",
+      "slug": "yaav"
+    },
+    "code": {
+      "id": "NG007011_yaav",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007011",
+      "level": 2,
+      "name": {
+        "local": "Kwande",
+        "en": "Kwande",
+        "slug": "kwande-ng007011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007011",
+        "level": 2,
+        "name": {
+          "local": "Kwande",
+          "en": "Kwande",
+          "slug": "kwande-ng007011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "9.413"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

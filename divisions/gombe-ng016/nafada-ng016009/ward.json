@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG016009_barwo-nasarawo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Barwo / Nasarawo",
+      "en": "Barwo / Nasarawo",
+      "slug": "barwo-nasarawo"
+    },
+    "code": {
+      "id": "NG016009_barwo-nasarawo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016009",
+      "level": 2,
+      "name": {
+        "local": "Nafada",
+        "en": "Nafada",
+        "slug": "nafada-ng016009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016009",
+        "level": 2,
+        "name": {
+          "local": "Nafada",
+          "en": "Nafada",
+          "slug": "nafada-ng016009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.051",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016009_barwo-winde",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Barwo Winde",
+      "en": "Barwo Winde",
+      "slug": "barwo-winde"
+    },
+    "code": {
+      "id": "NG016009_barwo-winde",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016009",
+      "level": 2,
+      "name": {
+        "local": "Nafada",
+        "en": "Nafada",
+        "slug": "nafada-ng016009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016009",
+        "level": 2,
+        "name": {
+          "local": "Nafada",
+          "en": "Nafada",
+          "slug": "nafada-ng016009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.051",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016009_birin-bolewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birin Bolewa",
+      "en": "Birin Bolewa",
+      "slug": "birin-bolewa"
+    },
+    "code": {
+      "id": "NG016009_birin-bolewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016009",
+      "level": 2,
+      "name": {
+        "local": "Nafada",
+        "en": "Nafada",
+        "slug": "nafada-ng016009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016009",
+        "level": 2,
+        "name": {
+          "local": "Nafada",
+          "en": "Nafada",
+          "slug": "nafada-ng016009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.051",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016009_birin-fulani-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birin Fulani East",
+      "en": "Birin Fulani East",
+      "slug": "birin-fulani-east"
+    },
+    "code": {
+      "id": "NG016009_birin-fulani-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016009",
+      "level": 2,
+      "name": {
+        "local": "Nafada",
+        "en": "Nafada",
+        "slug": "nafada-ng016009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016009",
+        "level": 2,
+        "name": {
+          "local": "Nafada",
+          "en": "Nafada",
+          "slug": "nafada-ng016009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.051",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016009_birin-fulani-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birin Fulani West",
+      "en": "Birin Fulani West",
+      "slug": "birin-fulani-west"
+    },
+    "code": {
+      "id": "NG016009_birin-fulani-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016009",
+      "level": 2,
+      "name": {
+        "local": "Nafada",
+        "en": "Nafada",
+        "slug": "nafada-ng016009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016009",
+        "level": 2,
+        "name": {
+          "local": "Nafada",
+          "en": "Nafada",
+          "slug": "nafada-ng016009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.051",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016009_gudukku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gudukku",
+      "en": "Gudukku",
+      "slug": "gudukku"
+    },
+    "code": {
+      "id": "NG016009_gudukku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016009",
+      "level": 2,
+      "name": {
+        "local": "Nafada",
+        "en": "Nafada",
+        "slug": "nafada-ng016009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016009",
+        "level": 2,
+        "name": {
+          "local": "Nafada",
+          "en": "Nafada",
+          "slug": "nafada-ng016009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.051",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016009_jigawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jigawa",
+      "en": "Jigawa",
+      "slug": "jigawa"
+    },
+    "code": {
+      "id": "NG016009_jigawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016009",
+      "level": 2,
+      "name": {
+        "local": "Nafada",
+        "en": "Nafada",
+        "slug": "nafada-ng016009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016009",
+        "level": 2,
+        "name": {
+          "local": "Nafada",
+          "en": "Nafada",
+          "slug": "nafada-ng016009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.051",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016009_nafada-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nafada Central",
+      "en": "Nafada Central",
+      "slug": "nafada-central"
+    },
+    "code": {
+      "id": "NG016009_nafada-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016009",
+      "level": 2,
+      "name": {
+        "local": "Nafada",
+        "en": "Nafada",
+        "slug": "nafada-ng016009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016009",
+        "level": 2,
+        "name": {
+          "local": "Nafada",
+          "en": "Nafada",
+          "slug": "nafada-ng016009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.051",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016009_nafada-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nafada East",
+      "en": "Nafada East",
+      "slug": "nafada-east"
+    },
+    "code": {
+      "id": "NG016009_nafada-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016009",
+      "level": 2,
+      "name": {
+        "local": "Nafada",
+        "en": "Nafada",
+        "slug": "nafada-ng016009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016009",
+        "level": 2,
+        "name": {
+          "local": "Nafada",
+          "en": "Nafada",
+          "slug": "nafada-ng016009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.051",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016009_nafada-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nafada West",
+      "en": "Nafada West",
+      "slug": "nafada-west"
+    },
+    "code": {
+      "id": "NG016009_nafada-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016009",
+      "level": 2,
+      "name": {
+        "local": "Nafada",
+        "en": "Nafada",
+        "slug": "nafada-ng016009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016009",
+        "level": 2,
+        "name": {
+          "local": "Nafada",
+          "en": "Nafada",
+          "slug": "nafada-ng016009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.051",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

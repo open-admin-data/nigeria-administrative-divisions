@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG001001_ariaria-market",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ariaria Market",
+      "en": "Ariaria Market",
+      "slug": "ariaria-market"
+    },
+    "code": {
+      "id": "NG001001_ariaria-market",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001001",
+      "level": 2,
+      "name": {
+        "local": "Aba North",
+        "en": "Aba North",
+        "slug": "aba-north-ng001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001001",
+        "level": 2,
+        "name": {
+          "local": "Aba North",
+          "en": "Aba North",
+          "slug": "aba-north-ng001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001001_eziama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eziama",
+      "en": "Eziama",
+      "slug": "eziama"
+    },
+    "code": {
+      "id": "NG001001_eziama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001001",
+      "level": 2,
+      "name": {
+        "local": "Aba North",
+        "en": "Aba North",
+        "slug": "aba-north-ng001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001001",
+        "level": 2,
+        "name": {
+          "local": "Aba North",
+          "en": "Aba North",
+          "slug": "aba-north-ng001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001001_industrial-area",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Industrial Area",
+      "en": "Industrial Area",
+      "slug": "industrial-area"
+    },
+    "code": {
+      "id": "NG001001_industrial-area",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001001",
+      "level": 2,
+      "name": {
+        "local": "Aba North",
+        "en": "Aba North",
+        "slug": "aba-north-ng001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001001",
+        "level": 2,
+        "name": {
+          "local": "Aba North",
+          "en": "Aba North",
+          "slug": "aba-north-ng001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001001_ogbor-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbor I",
+      "en": "Ogbor I",
+      "slug": "ogbor-i"
+    },
+    "code": {
+      "id": "NG001001_ogbor-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001001",
+      "level": 2,
+      "name": {
+        "local": "Aba North",
+        "en": "Aba North",
+        "slug": "aba-north-ng001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001001",
+        "level": 2,
+        "name": {
+          "local": "Aba North",
+          "en": "Aba North",
+          "slug": "aba-north-ng001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001001_ogbor-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbor Ii",
+      "en": "Ogbor Ii",
+      "slug": "ogbor-ii"
+    },
+    "code": {
+      "id": "NG001001_ogbor-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001001",
+      "level": 2,
+      "name": {
+        "local": "Aba North",
+        "en": "Aba North",
+        "slug": "aba-north-ng001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001001",
+        "level": 2,
+        "name": {
+          "local": "Aba North",
+          "en": "Aba North",
+          "slug": "aba-north-ng001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001001_old-aba-gra",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Old Aba Gra",
+      "en": "Old Aba Gra",
+      "slug": "old-aba-gra"
+    },
+    "code": {
+      "id": "NG001001_old-aba-gra",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001001",
+      "level": 2,
+      "name": {
+        "local": "Aba North",
+        "en": "Aba North",
+        "slug": "aba-north-ng001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001001",
+        "level": 2,
+        "name": {
+          "local": "Aba North",
+          "en": "Aba North",
+          "slug": "aba-north-ng001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001001_osusu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Osusu I",
+      "en": "Osusu I",
+      "slug": "osusu-i"
+    },
+    "code": {
+      "id": "NG001001_osusu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001001",
+      "level": 2,
+      "name": {
+        "local": "Aba North",
+        "en": "Aba North",
+        "slug": "aba-north-ng001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001001",
+        "level": 2,
+        "name": {
+          "local": "Aba North",
+          "en": "Aba North",
+          "slug": "aba-north-ng001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001001_osusu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Osusu Ii",
+      "en": "Osusu Ii",
+      "slug": "osusu-ii"
+    },
+    "code": {
+      "id": "NG001001_osusu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001001",
+      "level": 2,
+      "name": {
+        "local": "Aba North",
+        "en": "Aba North",
+        "slug": "aba-north-ng001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001001",
+        "level": 2,
+        "name": {
+          "local": "Aba North",
+          "en": "Aba North",
+          "slug": "aba-north-ng001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001001_steugenes-by-okigwe-rd",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "St.eugenes By Okigwe Rd.",
+      "en": "St.eugenes By Okigwe Rd.",
+      "slug": "steugenes-by-okigwe-rd"
+    },
+    "code": {
+      "id": "NG001001_steugenes-by-okigwe-rd",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001001",
+      "level": 2,
+      "name": {
+        "local": "Aba North",
+        "en": "Aba North",
+        "slug": "aba-north-ng001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001001",
+        "level": 2,
+        "name": {
+          "local": "Aba North",
+          "en": "Aba North",
+          "slug": "aba-north-ng001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001001_umuogor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuogor",
+      "en": "Umuogor",
+      "slug": "umuogor"
+    },
+    "code": {
+      "id": "NG001001_umuogor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001001",
+      "level": 2,
+      "name": {
+        "local": "Aba North",
+        "en": "Aba North",
+        "slug": "aba-north-ng001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001001",
+        "level": 2,
+        "name": {
+          "local": "Aba North",
+          "en": "Aba North",
+          "slug": "aba-north-ng001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001001_umuola",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuola",
+      "en": "Umuola",
+      "slug": "umuola"
+    },
+    "code": {
+      "id": "NG001001_umuola",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001001",
+      "level": 2,
+      "name": {
+        "local": "Aba North",
+        "en": "Aba North",
+        "slug": "aba-north-ng001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001001",
+        "level": 2,
+        "name": {
+          "local": "Aba North",
+          "en": "Aba North",
+          "slug": "aba-north-ng001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001001_uratta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uratta",
+      "en": "Uratta",
+      "slug": "uratta"
+    },
+    "code": {
+      "id": "NG001001_uratta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001001",
+      "level": 2,
+      "name": {
+        "local": "Aba North",
+        "en": "Aba North",
+        "slug": "aba-north-ng001001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001001",
+        "level": 2,
+        "name": {
+          "local": "Aba North",
+          "en": "Aba North",
+          "slug": "aba-north-ng001001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.108",
+      "lon": "7.342"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

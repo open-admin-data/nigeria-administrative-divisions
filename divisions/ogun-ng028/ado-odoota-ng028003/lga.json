@@ -1,0 +1,47 @@
+{
+  "id": "NG028003",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ado-Odo/Ota",
+    "en": "Ado-Odo/Ota",
+    "slug": "ado-odoota-ng028003"
+  },
+  "code": {
+    "id": "NG028003",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG028",
+    "level": 1,
+    "name": {
+      "local": "Ogun",
+      "en": "Ogun",
+      "slug": "ogun-ng028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG028",
+      "level": 1,
+      "name": {
+        "local": "Ogun",
+        "en": "Ogun",
+        "slug": "ogun-ng028"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.63",
+    "lon": "3.08"
+  },
+  "metadata": {},
+  "source": {}
+}

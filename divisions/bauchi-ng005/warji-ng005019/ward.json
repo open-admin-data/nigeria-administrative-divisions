@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG005019_baima-north-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baima North / West",
+      "en": "Baima North / West",
+      "slug": "baima-north-west"
+    },
+    "code": {
+      "id": "NG005019_baima-north-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005019",
+      "level": 2,
+      "name": {
+        "local": "Warji",
+        "en": "Warji",
+        "slug": "warji-ng005019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005019",
+        "level": 2,
+        "name": {
+          "local": "Warji",
+          "en": "Warji",
+          "slug": "warji-ng005019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.164",
+      "lon": "9.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005019_baima-southeast",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baima South/east",
+      "en": "Baima South/east",
+      "slug": "baima-southeast"
+    },
+    "code": {
+      "id": "NG005019_baima-southeast",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005019",
+      "level": 2,
+      "name": {
+        "local": "Warji",
+        "en": "Warji",
+        "slug": "warji-ng005019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005019",
+        "level": 2,
+        "name": {
+          "local": "Warji",
+          "en": "Warji",
+          "slug": "warji-ng005019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.164",
+      "lon": "9.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005019_dagu-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dagu East",
+      "en": "Dagu East",
+      "slug": "dagu-east"
+    },
+    "code": {
+      "id": "NG005019_dagu-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005019",
+      "level": 2,
+      "name": {
+        "local": "Warji",
+        "en": "Warji",
+        "slug": "warji-ng005019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005019",
+        "level": 2,
+        "name": {
+          "local": "Warji",
+          "en": "Warji",
+          "slug": "warji-ng005019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.164",
+      "lon": "9.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005019_dagu-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dagu West",
+      "en": "Dagu West",
+      "slug": "dagu-west"
+    },
+    "code": {
+      "id": "NG005019_dagu-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005019",
+      "level": 2,
+      "name": {
+        "local": "Warji",
+        "en": "Warji",
+        "slug": "warji-ng005019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005019",
+        "level": 2,
+        "name": {
+          "local": "Warji",
+          "en": "Warji",
+          "slug": "warji-ng005019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.164",
+      "lon": "9.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005019_gabanga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gabanga",
+      "en": "Gabanga",
+      "slug": "gabanga"
+    },
+    "code": {
+      "id": "NG005019_gabanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005019",
+      "level": 2,
+      "name": {
+        "local": "Warji",
+        "en": "Warji",
+        "slug": "warji-ng005019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005019",
+        "level": 2,
+        "name": {
+          "local": "Warji",
+          "en": "Warji",
+          "slug": "warji-ng005019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.164",
+      "lon": "9.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005019_katanga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Katanga",
+      "en": "Katanga",
+      "slug": "katanga"
+    },
+    "code": {
+      "id": "NG005019_katanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005019",
+      "level": 2,
+      "name": {
+        "local": "Warji",
+        "en": "Warji",
+        "slug": "warji-ng005019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005019",
+        "level": 2,
+        "name": {
+          "local": "Warji",
+          "en": "Warji",
+          "slug": "warji-ng005019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.164",
+      "lon": "9.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005019_ranga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ranga",
+      "en": "Ranga",
+      "slug": "ranga"
+    },
+    "code": {
+      "id": "NG005019_ranga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005019",
+      "level": 2,
+      "name": {
+        "local": "Warji",
+        "en": "Warji",
+        "slug": "warji-ng005019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005019",
+        "level": 2,
+        "name": {
+          "local": "Warji",
+          "en": "Warji",
+          "slug": "warji-ng005019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.164",
+      "lon": "9.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005019_tiyin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tiyin",
+      "en": "Tiyin",
+      "slug": "tiyin"
+    },
+    "code": {
+      "id": "NG005019_tiyin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005019",
+      "level": 2,
+      "name": {
+        "local": "Warji",
+        "en": "Warji",
+        "slug": "warji-ng005019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005019",
+        "level": 2,
+        "name": {
+          "local": "Warji",
+          "en": "Warji",
+          "slug": "warji-ng005019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.164",
+      "lon": "9.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005019_tudun-wada-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Wada East",
+      "en": "Tudun Wada East",
+      "slug": "tudun-wada-east"
+    },
+    "code": {
+      "id": "NG005019_tudun-wada-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005019",
+      "level": 2,
+      "name": {
+        "local": "Warji",
+        "en": "Warji",
+        "slug": "warji-ng005019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005019",
+        "level": 2,
+        "name": {
+          "local": "Warji",
+          "en": "Warji",
+          "slug": "warji-ng005019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.164",
+      "lon": "9.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005019_tudun-wada-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Wada West",
+      "en": "Tudun Wada West",
+      "slug": "tudun-wada-west"
+    },
+    "code": {
+      "id": "NG005019_tudun-wada-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005019",
+      "level": 2,
+      "name": {
+        "local": "Warji",
+        "en": "Warji",
+        "slug": "warji-ng005019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005019",
+        "level": 2,
+        "name": {
+          "local": "Warji",
+          "en": "Warji",
+          "slug": "warji-ng005019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.164",
+      "lon": "9.744"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

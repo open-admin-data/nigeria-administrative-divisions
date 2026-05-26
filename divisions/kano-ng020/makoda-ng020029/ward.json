@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG020029_babbar-riga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Babbar Riga",
+      "en": "Babbar Riga",
+      "slug": "babbar-riga"
+    },
+    "code": {
+      "id": "NG020029_babbar-riga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020029",
+      "level": 2,
+      "name": {
+        "local": "Makoda",
+        "en": "Makoda",
+        "slug": "makoda-ng020029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020029",
+        "level": 2,
+        "name": {
+          "local": "Makoda",
+          "en": "Makoda",
+          "slug": "makoda-ng020029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.422",
+      "lon": "8.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020029_durma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Durma",
+      "en": "Durma",
+      "slug": "durma"
+    },
+    "code": {
+      "id": "NG020029_durma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020029",
+      "level": 2,
+      "name": {
+        "local": "Makoda",
+        "en": "Makoda",
+        "slug": "makoda-ng020029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020029",
+        "level": 2,
+        "name": {
+          "local": "Makoda",
+          "en": "Makoda",
+          "slug": "makoda-ng020029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.422",
+      "lon": "8.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020029_jibga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jibga",
+      "en": "Jibga",
+      "slug": "jibga"
+    },
+    "code": {
+      "id": "NG020029_jibga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020029",
+      "level": 2,
+      "name": {
+        "local": "Makoda",
+        "en": "Makoda",
+        "slug": "makoda-ng020029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020029",
+        "level": 2,
+        "name": {
+          "local": "Makoda",
+          "en": "Makoda",
+          "slug": "makoda-ng020029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.422",
+      "lon": "8.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020029_kadandani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadandani",
+      "en": "Kadandani",
+      "slug": "kadandani"
+    },
+    "code": {
+      "id": "NG020029_kadandani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020029",
+      "level": 2,
+      "name": {
+        "local": "Makoda",
+        "en": "Makoda",
+        "slug": "makoda-ng020029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020029",
+        "level": 2,
+        "name": {
+          "local": "Makoda",
+          "en": "Makoda",
+          "slug": "makoda-ng020029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.422",
+      "lon": "8.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020029_koguna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koguna",
+      "en": "Koguna",
+      "slug": "koguna"
+    },
+    "code": {
+      "id": "NG020029_koguna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020029",
+      "level": 2,
+      "name": {
+        "local": "Makoda",
+        "en": "Makoda",
+        "slug": "makoda-ng020029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020029",
+        "level": 2,
+        "name": {
+          "local": "Makoda",
+          "en": "Makoda",
+          "slug": "makoda-ng020029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.422",
+      "lon": "8.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020029_koren-tatso",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koren Tatso",
+      "en": "Koren Tatso",
+      "slug": "koren-tatso"
+    },
+    "code": {
+      "id": "NG020029_koren-tatso",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020029",
+      "level": 2,
+      "name": {
+        "local": "Makoda",
+        "en": "Makoda",
+        "slug": "makoda-ng020029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020029",
+        "level": 2,
+        "name": {
+          "local": "Makoda",
+          "en": "Makoda",
+          "slug": "makoda-ng020029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.422",
+      "lon": "8.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020029_maitsidau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maitsidau",
+      "en": "Maitsidau",
+      "slug": "maitsidau"
+    },
+    "code": {
+      "id": "NG020029_maitsidau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020029",
+      "level": 2,
+      "name": {
+        "local": "Makoda",
+        "en": "Makoda",
+        "slug": "makoda-ng020029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020029",
+        "level": 2,
+        "name": {
+          "local": "Makoda",
+          "en": "Makoda",
+          "slug": "makoda-ng020029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.422",
+      "lon": "8.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020029_makoda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makoda",
+      "en": "Makoda",
+      "slug": "makoda"
+    },
+    "code": {
+      "id": "NG020029_makoda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020029",
+      "level": 2,
+      "name": {
+        "local": "Makoda",
+        "en": "Makoda",
+        "slug": "makoda-ng020029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020029",
+        "level": 2,
+        "name": {
+          "local": "Makoda",
+          "en": "Makoda",
+          "slug": "makoda-ng020029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.422",
+      "lon": "8.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020029_satame",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Satame",
+      "en": "Satame",
+      "slug": "satame"
+    },
+    "code": {
+      "id": "NG020029_satame",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020029",
+      "level": 2,
+      "name": {
+        "local": "Makoda",
+        "en": "Makoda",
+        "slug": "makoda-ng020029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020029",
+        "level": 2,
+        "name": {
+          "local": "Makoda",
+          "en": "Makoda",
+          "slug": "makoda-ng020029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.422",
+      "lon": "8.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020029_tangaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tangaji",
+      "en": "Tangaji",
+      "slug": "tangaji"
+    },
+    "code": {
+      "id": "NG020029_tangaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020029",
+      "level": 2,
+      "name": {
+        "local": "Makoda",
+        "en": "Makoda",
+        "slug": "makoda-ng020029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020029",
+        "level": 2,
+        "name": {
+          "local": "Makoda",
+          "en": "Makoda",
+          "slug": "makoda-ng020029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.422",
+      "lon": "8.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020029_wailare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wailare",
+      "en": "Wailare",
+      "slug": "wailare"
+    },
+    "code": {
+      "id": "NG020029_wailare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020029",
+      "level": 2,
+      "name": {
+        "local": "Makoda",
+        "en": "Makoda",
+        "slug": "makoda-ng020029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020029",
+        "level": 2,
+        "name": {
+          "local": "Makoda",
+          "en": "Makoda",
+          "slug": "makoda-ng020029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.422",
+      "lon": "8.442"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

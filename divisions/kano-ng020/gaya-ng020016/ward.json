@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020016_balan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Balan",
+      "en": "Balan",
+      "slug": "balan"
+    },
+    "code": {
+      "id": "NG020016_balan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020016",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ng020016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020016",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ng020016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.793",
+      "lon": "9.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020016_gamarya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamarya",
+      "en": "Gamarya",
+      "slug": "gamarya"
+    },
+    "code": {
+      "id": "NG020016_gamarya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020016",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ng020016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020016",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ng020016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.793",
+      "lon": "9.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020016_gamoji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamoji",
+      "en": "Gamoji",
+      "slug": "gamoji"
+    },
+    "code": {
+      "id": "NG020016_gamoji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020016",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ng020016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020016",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ng020016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.793",
+      "lon": "9.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020016_gaya-arewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gaya Arewa",
+      "en": "Gaya Arewa",
+      "slug": "gaya-arewa"
+    },
+    "code": {
+      "id": "NG020016_gaya-arewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020016",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ng020016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020016",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ng020016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.793",
+      "lon": "9.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020016_gaya-kudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gaya Kudu",
+      "en": "Gaya Kudu",
+      "slug": "gaya-kudu"
+    },
+    "code": {
+      "id": "NG020016_gaya-kudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020016",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ng020016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020016",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ng020016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.793",
+      "lon": "9.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020016_kademi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kademi",
+      "en": "Kademi",
+      "slug": "kademi"
+    },
+    "code": {
+      "id": "NG020016_kademi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020016",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ng020016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020016",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ng020016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.793",
+      "lon": "9.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020016_kazurawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kazurawa",
+      "en": "Kazurawa",
+      "slug": "kazurawa"
+    },
+    "code": {
+      "id": "NG020016_kazurawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020016",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ng020016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020016",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ng020016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.793",
+      "lon": "9.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020016_maimakawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maimakawa",
+      "en": "Maimakawa",
+      "slug": "maimakawa"
+    },
+    "code": {
+      "id": "NG020016_maimakawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020016",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ng020016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020016",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ng020016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.793",
+      "lon": "9.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020016_shagogo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shagogo",
+      "en": "Shagogo",
+      "slug": "shagogo"
+    },
+    "code": {
+      "id": "NG020016_shagogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020016",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ng020016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020016",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ng020016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.793",
+      "lon": "9.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020016_wudilawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wudilawa",
+      "en": "Wudilawa",
+      "slug": "wudilawa"
+    },
+    "code": {
+      "id": "NG020016_wudilawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020016",
+      "level": 2,
+      "name": {
+        "local": "Gaya",
+        "en": "Gaya",
+        "slug": "gaya-ng020016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020016",
+        "level": 2,
+        "name": {
+          "local": "Gaya",
+          "en": "Gaya",
+          "slug": "gaya-ng020016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.793",
+      "lon": "9.018"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

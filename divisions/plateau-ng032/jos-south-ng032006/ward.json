@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG032006_bukuru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bukuru",
+      "en": "Bukuru",
+      "slug": "bukuru"
+    },
+    "code": {
+      "id": "NG032006_bukuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032006",
+      "level": 2,
+      "name": {
+        "local": "Jos South",
+        "en": "Jos South",
+        "slug": "jos-south-ng032006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032006",
+        "level": 2,
+        "name": {
+          "local": "Jos South",
+          "en": "Jos South",
+          "slug": "jos-south-ng032006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "8.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032006_du",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Du",
+      "en": "Du",
+      "slug": "du"
+    },
+    "code": {
+      "id": "NG032006_du",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032006",
+      "level": 2,
+      "name": {
+        "local": "Jos South",
+        "en": "Jos South",
+        "slug": "jos-south-ng032006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032006",
+        "level": 2,
+        "name": {
+          "local": "Jos South",
+          "en": "Jos South",
+          "slug": "jos-south-ng032006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "8.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032006_giring",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Giring",
+      "en": "Giring",
+      "slug": "giring"
+    },
+    "code": {
+      "id": "NG032006_giring",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032006",
+      "level": 2,
+      "name": {
+        "local": "Jos South",
+        "en": "Jos South",
+        "slug": "jos-south-ng032006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032006",
+        "level": 2,
+        "name": {
+          "local": "Jos South",
+          "en": "Jos South",
+          "slug": "jos-south-ng032006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "8.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032006_gyel-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gyel 'a'",
+      "en": "Gyel 'a'",
+      "slug": "gyel-a"
+    },
+    "code": {
+      "id": "NG032006_gyel-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032006",
+      "level": 2,
+      "name": {
+        "local": "Jos South",
+        "en": "Jos South",
+        "slug": "jos-south-ng032006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032006",
+        "level": 2,
+        "name": {
+          "local": "Jos South",
+          "en": "Jos South",
+          "slug": "jos-south-ng032006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "8.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032006_gyel-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gyel 'b'",
+      "en": "Gyel 'b'",
+      "slug": "gyel-b"
+    },
+    "code": {
+      "id": "NG032006_gyel-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032006",
+      "level": 2,
+      "name": {
+        "local": "Jos South",
+        "en": "Jos South",
+        "slug": "jos-south-ng032006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032006",
+        "level": 2,
+        "name": {
+          "local": "Jos South",
+          "en": "Jos South",
+          "slug": "jos-south-ng032006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "8.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032006_kuru-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuru 'a'",
+      "en": "Kuru 'a'",
+      "slug": "kuru-a"
+    },
+    "code": {
+      "id": "NG032006_kuru-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032006",
+      "level": 2,
+      "name": {
+        "local": "Jos South",
+        "en": "Jos South",
+        "slug": "jos-south-ng032006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032006",
+        "level": 2,
+        "name": {
+          "local": "Jos South",
+          "en": "Jos South",
+          "slug": "jos-south-ng032006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "8.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032006_kuru-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuru 'b'",
+      "en": "Kuru 'b'",
+      "slug": "kuru-b"
+    },
+    "code": {
+      "id": "NG032006_kuru-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032006",
+      "level": 2,
+      "name": {
+        "local": "Jos South",
+        "en": "Jos South",
+        "slug": "jos-south-ng032006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032006",
+        "level": 2,
+        "name": {
+          "local": "Jos South",
+          "en": "Jos South",
+          "slug": "jos-south-ng032006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "8.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032006_shen",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shen",
+      "en": "Shen",
+      "slug": "shen"
+    },
+    "code": {
+      "id": "NG032006_shen",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032006",
+      "level": 2,
+      "name": {
+        "local": "Jos South",
+        "en": "Jos South",
+        "slug": "jos-south-ng032006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032006",
+        "level": 2,
+        "name": {
+          "local": "Jos South",
+          "en": "Jos South",
+          "slug": "jos-south-ng032006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "8.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032006_turu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Turu",
+      "en": "Turu",
+      "slug": "turu"
+    },
+    "code": {
+      "id": "NG032006_turu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032006",
+      "level": 2,
+      "name": {
+        "local": "Jos South",
+        "en": "Jos South",
+        "slug": "jos-south-ng032006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032006",
+        "level": 2,
+        "name": {
+          "local": "Jos South",
+          "en": "Jos South",
+          "slug": "jos-south-ng032006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "8.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032006_vwang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Vwang",
+      "en": "Vwang",
+      "slug": "vwang"
+    },
+    "code": {
+      "id": "NG032006_vwang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032006",
+      "level": 2,
+      "name": {
+        "local": "Jos South",
+        "en": "Jos South",
+        "slug": "jos-south-ng032006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032006",
+        "level": 2,
+        "name": {
+          "local": "Jos South",
+          "en": "Jos South",
+          "slug": "jos-south-ng032006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "8.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032006_zawan-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zawan 'a'",
+      "en": "Zawan 'a'",
+      "slug": "zawan-a"
+    },
+    "code": {
+      "id": "NG032006_zawan-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032006",
+      "level": 2,
+      "name": {
+        "local": "Jos South",
+        "en": "Jos South",
+        "slug": "jos-south-ng032006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032006",
+        "level": 2,
+        "name": {
+          "local": "Jos South",
+          "en": "Jos South",
+          "slug": "jos-south-ng032006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "8.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032006_zawan-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zawan 'b'",
+      "en": "Zawan 'b'",
+      "slug": "zawan-b"
+    },
+    "code": {
+      "id": "NG032006_zawan-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032006",
+      "level": 2,
+      "name": {
+        "local": "Jos South",
+        "en": "Jos South",
+        "slug": "jos-south-ng032006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032006",
+        "level": 2,
+        "name": {
+          "local": "Jos South",
+          "en": "Jos South",
+          "slug": "jos-south-ng032006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.761",
+      "lon": "8.846"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

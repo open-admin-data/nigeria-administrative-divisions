@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG026005_agaza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agaza",
+      "en": "Agaza",
+      "slug": "agaza"
+    },
+    "code": {
+      "id": "NG026005_agaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026005",
+      "level": 2,
+      "name": {
+        "local": "Keana",
+        "en": "Keana",
+        "slug": "keana-ng026005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026005",
+        "level": 2,
+        "name": {
+          "local": "Keana",
+          "en": "Keana",
+          "slug": "keana-ng026005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "8.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026005_aloshi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aloshi",
+      "en": "Aloshi",
+      "slug": "aloshi"
+    },
+    "code": {
+      "id": "NG026005_aloshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026005",
+      "level": 2,
+      "name": {
+        "local": "Keana",
+        "en": "Keana",
+        "slug": "keana-ng026005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026005",
+        "level": 2,
+        "name": {
+          "local": "Keana",
+          "en": "Keana",
+          "slug": "keana-ng026005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "8.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026005_amiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amiri",
+      "en": "Amiri",
+      "slug": "amiri"
+    },
+    "code": {
+      "id": "NG026005_amiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026005",
+      "level": 2,
+      "name": {
+        "local": "Keana",
+        "en": "Keana",
+        "slug": "keana-ng026005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026005",
+        "level": 2,
+        "name": {
+          "local": "Keana",
+          "en": "Keana",
+          "slug": "keana-ng026005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "8.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026005_giza-galadima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Giza Galadima",
+      "en": "Giza Galadima",
+      "slug": "giza-galadima"
+    },
+    "code": {
+      "id": "NG026005_giza-galadima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026005",
+      "level": 2,
+      "name": {
+        "local": "Keana",
+        "en": "Keana",
+        "slug": "keana-ng026005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026005",
+        "level": 2,
+        "name": {
+          "local": "Keana",
+          "en": "Keana",
+          "slug": "keana-ng026005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "8.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026005_iwagu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iwagu",
+      "en": "Iwagu",
+      "slug": "iwagu"
+    },
+    "code": {
+      "id": "NG026005_iwagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026005",
+      "level": 2,
+      "name": {
+        "local": "Keana",
+        "en": "Keana",
+        "slug": "keana-ng026005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026005",
+        "level": 2,
+        "name": {
+          "local": "Keana",
+          "en": "Keana",
+          "slug": "keana-ng026005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "8.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026005_kadarko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadarko",
+      "en": "Kadarko",
+      "slug": "kadarko"
+    },
+    "code": {
+      "id": "NG026005_kadarko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026005",
+      "level": 2,
+      "name": {
+        "local": "Keana",
+        "en": "Keana",
+        "slug": "keana-ng026005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026005",
+        "level": 2,
+        "name": {
+          "local": "Keana",
+          "en": "Keana",
+          "slug": "keana-ng026005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "8.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026005_kwara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwara",
+      "en": "Kwara",
+      "slug": "kwara"
+    },
+    "code": {
+      "id": "NG026005_kwara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026005",
+      "level": 2,
+      "name": {
+        "local": "Keana",
+        "en": "Keana",
+        "slug": "keana-ng026005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026005",
+        "level": 2,
+        "name": {
+          "local": "Keana",
+          "en": "Keana",
+          "slug": "keana-ng026005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "8.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026005_madaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madaki",
+      "en": "Madaki",
+      "slug": "madaki"
+    },
+    "code": {
+      "id": "NG026005_madaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026005",
+      "level": 2,
+      "name": {
+        "local": "Keana",
+        "en": "Keana",
+        "slug": "keana-ng026005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026005",
+        "level": 2,
+        "name": {
+          "local": "Keana",
+          "en": "Keana",
+          "slug": "keana-ng026005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "8.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026005_obene",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obene",
+      "en": "Obene",
+      "slug": "obene"
+    },
+    "code": {
+      "id": "NG026005_obene",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026005",
+      "level": 2,
+      "name": {
+        "local": "Keana",
+        "en": "Keana",
+        "slug": "keana-ng026005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026005",
+        "level": 2,
+        "name": {
+          "local": "Keana",
+          "en": "Keana",
+          "slug": "keana-ng026005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "8.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026005_oki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oki",
+      "en": "Oki",
+      "slug": "oki"
+    },
+    "code": {
+      "id": "NG026005_oki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026005",
+      "level": 2,
+      "name": {
+        "local": "Keana",
+        "en": "Keana",
+        "slug": "keana-ng026005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026005",
+        "level": 2,
+        "name": {
+          "local": "Keana",
+          "en": "Keana",
+          "slug": "keana-ng026005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.205",
+      "lon": "8.717"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NG032005",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Jos North",
+    "en": "Jos North",
+    "slug": "jos-north-ng032005"
+  },
+  "code": {
+    "id": "NG032005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG032",
+    "level": 1,
+    "name": {
+      "local": "Plateau",
+      "en": "Plateau",
+      "slug": "plateau-ng032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG032",
+      "level": 1,
+      "name": {
+        "local": "Plateau",
+        "en": "Plateau",
+        "slug": "plateau-ng032"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.944",
+    "lon": "8.895"
+  },
+  "metadata": {},
+  "source": {}
+}

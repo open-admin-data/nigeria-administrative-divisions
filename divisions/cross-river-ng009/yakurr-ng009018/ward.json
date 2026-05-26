@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG009018_abanakpai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abanakpai",
+      "en": "Abanakpai",
+      "slug": "abanakpai"
+    },
+    "code": {
+      "id": "NG009018_abanakpai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018_afrekpeekpenti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Afrekpe/ekpenti",
+      "en": "Afrekpe/ekpenti",
+      "slug": "afrekpeekpenti"
+    },
+    "code": {
+      "id": "NG009018_afrekpeekpenti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018_ajere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajere",
+      "en": "Ajere",
+      "slug": "ajere"
+    },
+    "code": {
+      "id": "NG009018_ajere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018_assiga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Assiga",
+      "en": "Assiga",
+      "slug": "assiga"
+    },
+    "code": {
+      "id": "NG009018_assiga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018_biko-biko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Biko Biko",
+      "en": "Biko Biko",
+      "slug": "biko-biko"
+    },
+    "code": {
+      "id": "NG009018_biko-biko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018_idomi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idomi",
+      "en": "Idomi",
+      "slug": "idomi"
+    },
+    "code": {
+      "id": "NG009018_idomi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018_ijiman",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijiman",
+      "en": "Ijiman",
+      "slug": "ijiman"
+    },
+    "code": {
+      "id": "NG009018_ijiman",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018_ijom",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijom",
+      "en": "Ijom",
+      "slug": "ijom"
+    },
+    "code": {
+      "id": "NG009018_ijom",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018_ikpakapit",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikpakapit",
+      "en": "Ikpakapit",
+      "slug": "ikpakapit"
+    },
+    "code": {
+      "id": "NG009018_ikpakapit",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018_inyima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Inyima",
+      "en": "Inyima",
+      "slug": "inyima"
+    },
+    "code": {
+      "id": "NG009018_inyima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018_mkpaniagoi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mkpani/agoi",
+      "en": "Mkpani/agoi",
+      "slug": "mkpaniagoi"
+    },
+    "code": {
+      "id": "NG009018_mkpaniagoi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018_nkpoloukpawen",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkpolo/ukpawen",
+      "en": "Nkpolo/ukpawen",
+      "slug": "nkpoloukpawen"
+    },
+    "code": {
+      "id": "NG009018_nkpoloukpawen",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009018_ntan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ntan",
+      "en": "Ntan",
+      "slug": "ntan"
+    },
+    "code": {
+      "id": "NG009018_ntan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009018",
+      "level": 2,
+      "name": {
+        "local": "Yakurr",
+        "en": "Yakurr",
+        "slug": "yakurr-ng009018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009018",
+        "level": 2,
+        "name": {
+          "local": "Yakurr",
+          "en": "Yakurr",
+          "slug": "yakurr-ng009018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.818",
+      "lon": "8.178"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG017013_amucha-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amucha I",
+      "en": "Amucha I",
+      "slug": "amucha-i"
+    },
+    "code": {
+      "id": "NG017013_amucha-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017013",
+      "level": 2,
+      "name": {
+        "local": "Njaba",
+        "en": "Njaba",
+        "slug": "njaba-ng017013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017013",
+        "level": 2,
+        "name": {
+          "local": "Njaba",
+          "en": "Njaba",
+          "slug": "njaba-ng017013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "7.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017013_amucha-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amucha Ii",
+      "en": "Amucha Ii",
+      "slug": "amucha-ii"
+    },
+    "code": {
+      "id": "NG017013_amucha-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017013",
+      "level": 2,
+      "name": {
+        "local": "Njaba",
+        "en": "Njaba",
+        "slug": "njaba-ng017013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017013",
+        "level": 2,
+        "name": {
+          "local": "Njaba",
+          "en": "Njaba",
+          "slug": "njaba-ng017013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "7.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017013_atta-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Atta I",
+      "en": "Atta I",
+      "slug": "atta-i"
+    },
+    "code": {
+      "id": "NG017013_atta-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017013",
+      "level": 2,
+      "name": {
+        "local": "Njaba",
+        "en": "Njaba",
+        "slug": "njaba-ng017013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017013",
+        "level": 2,
+        "name": {
+          "local": "Njaba",
+          "en": "Njaba",
+          "slug": "njaba-ng017013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "7.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017013_atta-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Atta Ii",
+      "en": "Atta Ii",
+      "slug": "atta-ii"
+    },
+    "code": {
+      "id": "NG017013_atta-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017013",
+      "level": 2,
+      "name": {
+        "local": "Njaba",
+        "en": "Njaba",
+        "slug": "njaba-ng017013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017013",
+        "level": 2,
+        "name": {
+          "local": "Njaba",
+          "en": "Njaba",
+          "slug": "njaba-ng017013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "7.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017013_atta-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Atta Iii",
+      "en": "Atta Iii",
+      "slug": "atta-iii"
+    },
+    "code": {
+      "id": "NG017013_atta-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017013",
+      "level": 2,
+      "name": {
+        "local": "Njaba",
+        "en": "Njaba",
+        "slug": "njaba-ng017013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017013",
+        "level": 2,
+        "name": {
+          "local": "Njaba",
+          "en": "Njaba",
+          "slug": "njaba-ng017013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "7.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017013_nkume",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkume",
+      "en": "Nkume",
+      "slug": "nkume"
+    },
+    "code": {
+      "id": "NG017013_nkume",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017013",
+      "level": 2,
+      "name": {
+        "local": "Njaba",
+        "en": "Njaba",
+        "slug": "njaba-ng017013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017013",
+        "level": 2,
+        "name": {
+          "local": "Njaba",
+          "en": "Njaba",
+          "slug": "njaba-ng017013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "7.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017013_okwudor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okwudor",
+      "en": "Okwudor",
+      "slug": "okwudor"
+    },
+    "code": {
+      "id": "NG017013_okwudor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017013",
+      "level": 2,
+      "name": {
+        "local": "Njaba",
+        "en": "Njaba",
+        "slug": "njaba-ng017013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017013",
+        "level": 2,
+        "name": {
+          "local": "Njaba",
+          "en": "Njaba",
+          "slug": "njaba-ng017013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "7.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017013_umuaka-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuaka I",
+      "en": "Umuaka I",
+      "slug": "umuaka-i"
+    },
+    "code": {
+      "id": "NG017013_umuaka-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017013",
+      "level": 2,
+      "name": {
+        "local": "Njaba",
+        "en": "Njaba",
+        "slug": "njaba-ng017013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017013",
+        "level": 2,
+        "name": {
+          "local": "Njaba",
+          "en": "Njaba",
+          "slug": "njaba-ng017013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "7.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017013_umuaka-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuaka Ii",
+      "en": "Umuaka Ii",
+      "slug": "umuaka-ii"
+    },
+    "code": {
+      "id": "NG017013_umuaka-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017013",
+      "level": 2,
+      "name": {
+        "local": "Njaba",
+        "en": "Njaba",
+        "slug": "njaba-ng017013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017013",
+        "level": 2,
+        "name": {
+          "local": "Njaba",
+          "en": "Njaba",
+          "slug": "njaba-ng017013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "7.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017013_umuaka-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuaka Iii",
+      "en": "Umuaka Iii",
+      "slug": "umuaka-iii"
+    },
+    "code": {
+      "id": "NG017013_umuaka-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017013",
+      "level": 2,
+      "name": {
+        "local": "Njaba",
+        "en": "Njaba",
+        "slug": "njaba-ng017013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017013",
+        "level": 2,
+        "name": {
+          "local": "Njaba",
+          "en": "Njaba",
+          "slug": "njaba-ng017013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "7.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017013_umuaka-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuaka Iv",
+      "en": "Umuaka Iv",
+      "slug": "umuaka-iv"
+    },
+    "code": {
+      "id": "NG017013_umuaka-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017013",
+      "level": 2,
+      "name": {
+        "local": "Njaba",
+        "en": "Njaba",
+        "slug": "njaba-ng017013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017013",
+        "level": 2,
+        "name": {
+          "local": "Njaba",
+          "en": "Njaba",
+          "slug": "njaba-ng017013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.701",
+      "lon": "7.001"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

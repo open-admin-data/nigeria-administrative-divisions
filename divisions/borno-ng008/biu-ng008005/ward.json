@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG008005_buratai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buratai",
+      "en": "Buratai",
+      "slug": "buratai"
+    },
+    "code": {
+      "id": "NG008005_buratai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008005",
+      "level": 2,
+      "name": {
+        "local": "Biu",
+        "en": "Biu",
+        "slug": "biu-ng008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008005",
+        "level": 2,
+        "name": {
+          "local": "Biu",
+          "en": "Biu",
+          "slug": "biu-ng008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.943",
+      "lon": "12.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008005_dadin-kowa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dadin Kowa",
+      "en": "Dadin Kowa",
+      "slug": "dadin-kowa"
+    },
+    "code": {
+      "id": "NG008005_dadin-kowa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008005",
+      "level": 2,
+      "name": {
+        "local": "Biu",
+        "en": "Biu",
+        "slug": "biu-ng008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008005",
+        "level": 2,
+        "name": {
+          "local": "Biu",
+          "en": "Biu",
+          "slug": "biu-ng008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.804",
+      "lon": "12.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008005_dugja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dugja",
+      "en": "Dugja",
+      "slug": "dugja"
+    },
+    "code": {
+      "id": "NG008005_dugja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008005",
+      "level": 2,
+      "name": {
+        "local": "Biu",
+        "en": "Biu",
+        "slug": "biu-ng008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008005",
+        "level": 2,
+        "name": {
+          "local": "Biu",
+          "en": "Biu",
+          "slug": "biu-ng008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.632",
+      "lon": "12.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008005_garubula",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garubula",
+      "en": "Garubula",
+      "slug": "garubula"
+    },
+    "code": {
+      "id": "NG008005_garubula",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008005",
+      "level": 2,
+      "name": {
+        "local": "Biu",
+        "en": "Biu",
+        "slug": "biu-ng008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008005",
+        "level": 2,
+        "name": {
+          "local": "Biu",
+          "en": "Biu",
+          "slug": "biu-ng008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.713",
+      "lon": "11.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008005_gur",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gur",
+      "en": "Gur",
+      "slug": "gur"
+    },
+    "code": {
+      "id": "NG008005_gur",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008005",
+      "level": 2,
+      "name": {
+        "local": "Biu",
+        "en": "Biu",
+        "slug": "biu-ng008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008005",
+        "level": 2,
+        "name": {
+          "local": "Biu",
+          "en": "Biu",
+          "slug": "biu-ng008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.819",
+      "lon": "12.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008005_kenken",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kenken",
+      "en": "Kenken",
+      "slug": "kenken"
+    },
+    "code": {
+      "id": "NG008005_kenken",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008005",
+      "level": 2,
+      "name": {
+        "local": "Biu",
+        "en": "Biu",
+        "slug": "biu-ng008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008005",
+        "level": 2,
+        "name": {
+          "local": "Biu",
+          "en": "Biu",
+          "slug": "biu-ng008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.804",
+      "lon": "12.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008005_mandara-girau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mandara Girau",
+      "en": "Mandara Girau",
+      "slug": "mandara-girau"
+    },
+    "code": {
+      "id": "NG008005_mandara-girau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008005",
+      "level": 2,
+      "name": {
+        "local": "Biu",
+        "en": "Biu",
+        "slug": "biu-ng008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008005",
+        "level": 2,
+        "name": {
+          "local": "Biu",
+          "en": "Biu",
+          "slug": "biu-ng008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.703",
+      "lon": "12.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008005_miringa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Miringa",
+      "en": "Miringa",
+      "slug": "miringa"
+    },
+    "code": {
+      "id": "NG008005_miringa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008005",
+      "level": 2,
+      "name": {
+        "local": "Biu",
+        "en": "Biu",
+        "slug": "biu-ng008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008005",
+        "level": 2,
+        "name": {
+          "local": "Biu",
+          "en": "Biu",
+          "slug": "biu-ng008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.732",
+      "lon": "12.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008005_sulumthla",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sulumthla",
+      "en": "Sulumthla",
+      "slug": "sulumthla"
+    },
+    "code": {
+      "id": "NG008005_sulumthla",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008005",
+      "level": 2,
+      "name": {
+        "local": "Biu",
+        "en": "Biu",
+        "slug": "biu-ng008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008005",
+        "level": 2,
+        "name": {
+          "local": "Biu",
+          "en": "Biu",
+          "slug": "biu-ng008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.611",
+      "lon": "12.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008005_yawi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yawi",
+      "en": "Yawi",
+      "slug": "yawi"
+    },
+    "code": {
+      "id": "NG008005_yawi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008005",
+      "level": 2,
+      "name": {
+        "local": "Biu",
+        "en": "Biu",
+        "slug": "biu-ng008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008005",
+        "level": 2,
+        "name": {
+          "local": "Biu",
+          "en": "Biu",
+          "slug": "biu-ng008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.599",
+      "lon": "12.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008005_zarawuyaku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zarawuyaku",
+      "en": "Zarawuyaku",
+      "slug": "zarawuyaku"
+    },
+    "code": {
+      "id": "NG008005_zarawuyaku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008005",
+      "level": 2,
+      "name": {
+        "local": "Biu",
+        "en": "Biu",
+        "slug": "biu-ng008005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008005",
+        "level": 2,
+        "name": {
+          "local": "Biu",
+          "en": "Biu",
+          "slug": "biu-ng008005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.667",
+      "lon": "12.224"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

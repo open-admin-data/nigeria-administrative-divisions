@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG026003_agbashi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbashi",
+      "en": "Agbashi",
+      "slug": "agbashi"
+    },
+    "code": {
+      "id": "NG026003_agbashi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026003",
+      "level": 2,
+      "name": {
+        "local": "Doma",
+        "en": "Doma",
+        "slug": "doma-ng026003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026003",
+        "level": 2,
+        "name": {
+          "local": "Doma",
+          "en": "Doma",
+          "slug": "doma-ng026003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026003_akpanaja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akpanaja",
+      "en": "Akpanaja",
+      "slug": "akpanaja"
+    },
+    "code": {
+      "id": "NG026003_akpanaja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026003",
+      "level": 2,
+      "name": {
+        "local": "Doma",
+        "en": "Doma",
+        "slug": "doma-ng026003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026003",
+        "level": 2,
+        "name": {
+          "local": "Doma",
+          "en": "Doma",
+          "slug": "doma-ng026003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026003_alagye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alagye",
+      "en": "Alagye",
+      "slug": "alagye"
+    },
+    "code": {
+      "id": "NG026003_alagye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026003",
+      "level": 2,
+      "name": {
+        "local": "Doma",
+        "en": "Doma",
+        "slug": "doma-ng026003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026003",
+        "level": 2,
+        "name": {
+          "local": "Doma",
+          "en": "Doma",
+          "slug": "doma-ng026003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026003_doka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doka",
+      "en": "Doka",
+      "slug": "doka"
+    },
+    "code": {
+      "id": "NG026003_doka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026003",
+      "level": 2,
+      "name": {
+        "local": "Doma",
+        "en": "Doma",
+        "slug": "doma-ng026003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026003",
+        "level": 2,
+        "name": {
+          "local": "Doma",
+          "en": "Doma",
+          "slug": "doma-ng026003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026003_madaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madaki",
+      "en": "Madaki",
+      "slug": "madaki"
+    },
+    "code": {
+      "id": "NG026003_madaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026003",
+      "level": 2,
+      "name": {
+        "local": "Doma",
+        "en": "Doma",
+        "slug": "doma-ng026003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026003",
+        "level": 2,
+        "name": {
+          "local": "Doma",
+          "en": "Doma",
+          "slug": "doma-ng026003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026003_madauchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madauchi",
+      "en": "Madauchi",
+      "slug": "madauchi"
+    },
+    "code": {
+      "id": "NG026003_madauchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026003",
+      "level": 2,
+      "name": {
+        "local": "Doma",
+        "en": "Doma",
+        "slug": "doma-ng026003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026003",
+        "level": 2,
+        "name": {
+          "local": "Doma",
+          "en": "Doma",
+          "slug": "doma-ng026003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026003_rukubi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rukubi",
+      "en": "Rukubi",
+      "slug": "rukubi"
+    },
+    "code": {
+      "id": "NG026003_rukubi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026003",
+      "level": 2,
+      "name": {
+        "local": "Doma",
+        "en": "Doma",
+        "slug": "doma-ng026003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026003",
+        "level": 2,
+        "name": {
+          "local": "Doma",
+          "en": "Doma",
+          "slug": "doma-ng026003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026003_sabon-gari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Gari",
+      "en": "Sabon Gari",
+      "slug": "sabon-gari"
+    },
+    "code": {
+      "id": "NG026003_sabon-gari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026003",
+      "level": 2,
+      "name": {
+        "local": "Doma",
+        "en": "Doma",
+        "slug": "doma-ng026003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026003",
+        "level": 2,
+        "name": {
+          "local": "Doma",
+          "en": "Doma",
+          "slug": "doma-ng026003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026003_ungwan-dan-galadima",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ungwan Dan Galadima",
+      "en": "Ungwan Dan Galadima",
+      "slug": "ungwan-dan-galadima"
+    },
+    "code": {
+      "id": "NG026003_ungwan-dan-galadima",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026003",
+      "level": 2,
+      "name": {
+        "local": "Doma",
+        "en": "Doma",
+        "slug": "doma-ng026003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026003",
+        "level": 2,
+        "name": {
+          "local": "Doma",
+          "en": "Doma",
+          "slug": "doma-ng026003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "8.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026003_ungwan-sarki-dawaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ungwan Sarki Dawaki",
+      "en": "Ungwan Sarki Dawaki",
+      "slug": "ungwan-sarki-dawaki"
+    },
+    "code": {
+      "id": "NG026003_ungwan-sarki-dawaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026003",
+      "level": 2,
+      "name": {
+        "local": "Doma",
+        "en": "Doma",
+        "slug": "doma-ng026003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026003",
+        "level": 2,
+        "name": {
+          "local": "Doma",
+          "en": "Doma",
+          "slug": "doma-ng026003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.156",
+      "lon": "8.315"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

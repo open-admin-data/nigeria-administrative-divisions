@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG010002_aba---unor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aba - Unor",
+      "en": "Aba - Unor",
+      "slug": "aba---unor"
+    },
+    "code": {
+      "id": "NG010002_aba---unor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010002",
+      "level": 2,
+      "name": {
+        "local": "Aniocha South",
+        "en": "Aniocha South",
+        "slug": "aniocha-south-ng010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010002",
+        "level": 2,
+        "name": {
+          "local": "Aniocha South",
+          "en": "Aniocha South",
+          "slug": "aniocha-south-ng010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "6.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010002_ejeme",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ejeme",
+      "en": "Ejeme",
+      "slug": "ejeme"
+    },
+    "code": {
+      "id": "NG010002_ejeme",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010002",
+      "level": 2,
+      "name": {
+        "local": "Aniocha South",
+        "en": "Aniocha South",
+        "slug": "aniocha-south-ng010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010002",
+        "level": 2,
+        "name": {
+          "local": "Aniocha South",
+          "en": "Aniocha South",
+          "slug": "aniocha-south-ng010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "6.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010002_isheagu-ewulu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isheagu-ewulu",
+      "en": "Isheagu-ewulu",
+      "slug": "isheagu-ewulu"
+    },
+    "code": {
+      "id": "NG010002_isheagu-ewulu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010002",
+      "level": 2,
+      "name": {
+        "local": "Aniocha South",
+        "en": "Aniocha South",
+        "slug": "aniocha-south-ng010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010002",
+        "level": 2,
+        "name": {
+          "local": "Aniocha South",
+          "en": "Aniocha South",
+          "slug": "aniocha-south-ng010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "6.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010002_nsukwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nsukwa",
+      "en": "Nsukwa",
+      "slug": "nsukwa"
+    },
+    "code": {
+      "id": "NG010002_nsukwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010002",
+      "level": 2,
+      "name": {
+        "local": "Aniocha South",
+        "en": "Aniocha South",
+        "slug": "aniocha-south-ng010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010002",
+        "level": 2,
+        "name": {
+          "local": "Aniocha South",
+          "en": "Aniocha South",
+          "slug": "aniocha-south-ng010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "6.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010002_ogwashi---uku-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogwashi - Uku I",
+      "en": "Ogwashi - Uku I",
+      "slug": "ogwashi---uku-i"
+    },
+    "code": {
+      "id": "NG010002_ogwashi---uku-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010002",
+      "level": 2,
+      "name": {
+        "local": "Aniocha South",
+        "en": "Aniocha South",
+        "slug": "aniocha-south-ng010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010002",
+        "level": 2,
+        "name": {
+          "local": "Aniocha South",
+          "en": "Aniocha South",
+          "slug": "aniocha-south-ng010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "6.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010002_ogwashi---uku-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogwashi - Uku Ii",
+      "en": "Ogwashi - Uku Ii",
+      "slug": "ogwashi---uku-ii"
+    },
+    "code": {
+      "id": "NG010002_ogwashi---uku-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010002",
+      "level": 2,
+      "name": {
+        "local": "Aniocha South",
+        "en": "Aniocha South",
+        "slug": "aniocha-south-ng010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010002",
+        "level": 2,
+        "name": {
+          "local": "Aniocha South",
+          "en": "Aniocha South",
+          "slug": "aniocha-south-ng010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "6.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010002_ogwashi---uku-village",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogwashi - Uku Village",
+      "en": "Ogwashi - Uku Village",
+      "slug": "ogwashi---uku-village"
+    },
+    "code": {
+      "id": "NG010002_ogwashi---uku-village",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010002",
+      "level": 2,
+      "name": {
+        "local": "Aniocha South",
+        "en": "Aniocha South",
+        "slug": "aniocha-south-ng010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010002",
+        "level": 2,
+        "name": {
+          "local": "Aniocha South",
+          "en": "Aniocha South",
+          "slug": "aniocha-south-ng010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "6.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010002_ubulu---uku-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ubulu - Uku I",
+      "en": "Ubulu - Uku I",
+      "slug": "ubulu---uku-i"
+    },
+    "code": {
+      "id": "NG010002_ubulu---uku-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010002",
+      "level": 2,
+      "name": {
+        "local": "Aniocha South",
+        "en": "Aniocha South",
+        "slug": "aniocha-south-ng010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010002",
+        "level": 2,
+        "name": {
+          "local": "Aniocha South",
+          "en": "Aniocha South",
+          "slug": "aniocha-south-ng010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "6.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010002_ubulu---uku-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ubulu - Uku Ii",
+      "en": "Ubulu - Uku Ii",
+      "slug": "ubulu---uku-ii"
+    },
+    "code": {
+      "id": "NG010002_ubulu---uku-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010002",
+      "level": 2,
+      "name": {
+        "local": "Aniocha South",
+        "en": "Aniocha South",
+        "slug": "aniocha-south-ng010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010002",
+        "level": 2,
+        "name": {
+          "local": "Aniocha South",
+          "en": "Aniocha South",
+          "slug": "aniocha-south-ng010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "6.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010002_ubulu---unor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ubulu - Unor",
+      "en": "Ubulu - Unor",
+      "slug": "ubulu---unor"
+    },
+    "code": {
+      "id": "NG010002_ubulu---unor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010002",
+      "level": 2,
+      "name": {
+        "local": "Aniocha South",
+        "en": "Aniocha South",
+        "slug": "aniocha-south-ng010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010002",
+        "level": 2,
+        "name": {
+          "local": "Aniocha South",
+          "en": "Aniocha South",
+          "slug": "aniocha-south-ng010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "6.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010002_ubulu-okiti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ubulu Okiti",
+      "en": "Ubulu Okiti",
+      "slug": "ubulu-okiti"
+    },
+    "code": {
+      "id": "NG010002_ubulu-okiti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010002",
+      "level": 2,
+      "name": {
+        "local": "Aniocha South",
+        "en": "Aniocha South",
+        "slug": "aniocha-south-ng010002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010002",
+        "level": 2,
+        "name": {
+          "local": "Aniocha South",
+          "en": "Aniocha South",
+          "slug": "aniocha-south-ng010002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "6.474"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

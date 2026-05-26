@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG007013_agan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agan",
+      "en": "Agan",
+      "slug": "agan"
+    },
+    "code": {
+      "id": "NG007013_agan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007013",
+      "level": 2,
+      "name": {
+        "local": "Makurdi",
+        "en": "Makurdi",
+        "slug": "makurdi-ng007013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007013",
+        "level": 2,
+        "name": {
+          "local": "Makurdi",
+          "en": "Makurdi",
+          "slug": "makurdi-ng007013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.735",
+      "lon": "8.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007013_ankpawadata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ankpa/wadata",
+      "en": "Ankpa/wadata",
+      "slug": "ankpawadata"
+    },
+    "code": {
+      "id": "NG007013_ankpawadata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007013",
+      "level": 2,
+      "name": {
+        "local": "Makurdi",
+        "en": "Makurdi",
+        "slug": "makurdi-ng007013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007013",
+        "level": 2,
+        "name": {
+          "local": "Makurdi",
+          "en": "Makurdi",
+          "slug": "makurdi-ng007013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.735",
+      "lon": "8.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007013_bar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bar",
+      "en": "Bar",
+      "slug": "bar"
+    },
+    "code": {
+      "id": "NG007013_bar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007013",
+      "level": 2,
+      "name": {
+        "local": "Makurdi",
+        "en": "Makurdi",
+        "slug": "makurdi-ng007013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007013",
+        "level": 2,
+        "name": {
+          "local": "Makurdi",
+          "en": "Makurdi",
+          "slug": "makurdi-ng007013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.735",
+      "lon": "8.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007013_centralsouth-mission",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Central/south Mission",
+      "en": "Central/south Mission",
+      "slug": "centralsouth-mission"
+    },
+    "code": {
+      "id": "NG007013_centralsouth-mission",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007013",
+      "level": 2,
+      "name": {
+        "local": "Makurdi",
+        "en": "Makurdi",
+        "slug": "makurdi-ng007013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007013",
+        "level": 2,
+        "name": {
+          "local": "Makurdi",
+          "en": "Makurdi",
+          "slug": "makurdi-ng007013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.735",
+      "lon": "8.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007013_clerksmarket",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Clerks/market",
+      "en": "Clerks/market",
+      "slug": "clerksmarket"
+    },
+    "code": {
+      "id": "NG007013_clerksmarket",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007013",
+      "level": 2,
+      "name": {
+        "local": "Makurdi",
+        "en": "Makurdi",
+        "slug": "makurdi-ng007013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007013",
+        "level": 2,
+        "name": {
+          "local": "Makurdi",
+          "en": "Makurdi",
+          "slug": "makurdi-ng007013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.735",
+      "lon": "8.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007013_fiidi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fiidi",
+      "en": "Fiidi",
+      "slug": "fiidi"
+    },
+    "code": {
+      "id": "NG007013_fiidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007013",
+      "level": 2,
+      "name": {
+        "local": "Makurdi",
+        "en": "Makurdi",
+        "slug": "makurdi-ng007013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007013",
+        "level": 2,
+        "name": {
+          "local": "Makurdi",
+          "en": "Makurdi",
+          "slug": "makurdi-ng007013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.735",
+      "lon": "8.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007013_mbalagh",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbalagh",
+      "en": "Mbalagh",
+      "slug": "mbalagh"
+    },
+    "code": {
+      "id": "NG007013_mbalagh",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007013",
+      "level": 2,
+      "name": {
+        "local": "Makurdi",
+        "en": "Makurdi",
+        "slug": "makurdi-ng007013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007013",
+        "level": 2,
+        "name": {
+          "local": "Makurdi",
+          "en": "Makurdi",
+          "slug": "makurdi-ng007013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.735",
+      "lon": "8.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007013_modern-market",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Modern Market",
+      "en": "Modern Market",
+      "slug": "modern-market"
+    },
+    "code": {
+      "id": "NG007013_modern-market",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007013",
+      "level": 2,
+      "name": {
+        "local": "Makurdi",
+        "en": "Makurdi",
+        "slug": "makurdi-ng007013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007013",
+        "level": 2,
+        "name": {
+          "local": "Makurdi",
+          "en": "Makurdi",
+          "slug": "makurdi-ng007013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.735",
+      "lon": "8.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007013_north-bank-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "North Bank I",
+      "en": "North Bank I",
+      "slug": "north-bank-i"
+    },
+    "code": {
+      "id": "NG007013_north-bank-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007013",
+      "level": 2,
+      "name": {
+        "local": "Makurdi",
+        "en": "Makurdi",
+        "slug": "makurdi-ng007013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007013",
+        "level": 2,
+        "name": {
+          "local": "Makurdi",
+          "en": "Makurdi",
+          "slug": "makurdi-ng007013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.735",
+      "lon": "8.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007013_north-bank-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "North Bank Ii",
+      "en": "North Bank Ii",
+      "slug": "north-bank-ii"
+    },
+    "code": {
+      "id": "NG007013_north-bank-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007013",
+      "level": 2,
+      "name": {
+        "local": "Makurdi",
+        "en": "Makurdi",
+        "slug": "makurdi-ng007013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007013",
+        "level": 2,
+        "name": {
+          "local": "Makurdi",
+          "en": "Makurdi",
+          "slug": "makurdi-ng007013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.735",
+      "lon": "8.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007013_wailomayo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wailomayo",
+      "en": "Wailomayo",
+      "slug": "wailomayo"
+    },
+    "code": {
+      "id": "NG007013_wailomayo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007013",
+      "level": 2,
+      "name": {
+        "local": "Makurdi",
+        "en": "Makurdi",
+        "slug": "makurdi-ng007013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007013",
+        "level": 2,
+        "name": {
+          "local": "Makurdi",
+          "en": "Makurdi",
+          "slug": "makurdi-ng007013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.735",
+      "lon": "8.518"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

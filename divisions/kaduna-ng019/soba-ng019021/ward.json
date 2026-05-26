@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG019021_dan-wata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Wata",
+      "en": "Dan Wata",
+      "slug": "dan-wata"
+    },
+    "code": {
+      "id": "NG019021_dan-wata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019021",
+      "level": 2,
+      "name": {
+        "local": "Soba",
+        "en": "Soba",
+        "slug": "soba-ng019021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019021",
+        "level": 2,
+        "name": {
+          "local": "Soba",
+          "en": "Soba",
+          "slug": "soba-ng019021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.954",
+      "lon": "8.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019021_gamagira",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gamagira",
+      "en": "Gamagira",
+      "slug": "gamagira"
+    },
+    "code": {
+      "id": "NG019021_gamagira",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019021",
+      "level": 2,
+      "name": {
+        "local": "Soba",
+        "en": "Soba",
+        "slug": "soba-ng019021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019021",
+        "level": 2,
+        "name": {
+          "local": "Soba",
+          "en": "Soba",
+          "slug": "soba-ng019021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.954",
+      "lon": "8.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019021_garun-gwanki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garun Gwanki",
+      "en": "Garun Gwanki",
+      "slug": "garun-gwanki"
+    },
+    "code": {
+      "id": "NG019021_garun-gwanki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019021",
+      "level": 2,
+      "name": {
+        "local": "Soba",
+        "en": "Soba",
+        "slug": "soba-ng019021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019021",
+        "level": 2,
+        "name": {
+          "local": "Soba",
+          "en": "Soba",
+          "slug": "soba-ng019021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.954",
+      "lon": "8.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019021_gimba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gimba",
+      "en": "Gimba",
+      "slug": "gimba"
+    },
+    "code": {
+      "id": "NG019021_gimba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019021",
+      "level": 2,
+      "name": {
+        "local": "Soba",
+        "en": "Soba",
+        "slug": "soba-ng019021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019021",
+        "level": 2,
+        "name": {
+          "local": "Soba",
+          "en": "Soba",
+          "slug": "soba-ng019021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.954",
+      "lon": "8.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019021_kinkiba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kinkiba",
+      "en": "Kinkiba",
+      "slug": "kinkiba"
+    },
+    "code": {
+      "id": "NG019021_kinkiba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019021",
+      "level": 2,
+      "name": {
+        "local": "Soba",
+        "en": "Soba",
+        "slug": "soba-ng019021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019021",
+        "level": 2,
+        "name": {
+          "local": "Soba",
+          "en": "Soba",
+          "slug": "soba-ng019021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.954",
+      "lon": "8.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019021_kwassallo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwassallo",
+      "en": "Kwassallo",
+      "slug": "kwassallo"
+    },
+    "code": {
+      "id": "NG019021_kwassallo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019021",
+      "level": 2,
+      "name": {
+        "local": "Soba",
+        "en": "Soba",
+        "slug": "soba-ng019021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019021",
+        "level": 2,
+        "name": {
+          "local": "Soba",
+          "en": "Soba",
+          "slug": "soba-ng019021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.954",
+      "lon": "8.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019021_maigana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maigana",
+      "en": "Maigana",
+      "slug": "maigana"
+    },
+    "code": {
+      "id": "NG019021_maigana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019021",
+      "level": 2,
+      "name": {
+        "local": "Soba",
+        "en": "Soba",
+        "slug": "soba-ng019021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019021",
+        "level": 2,
+        "name": {
+          "local": "Soba",
+          "en": "Soba",
+          "slug": "soba-ng019021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.954",
+      "lon": "8.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019021_rahama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rahama",
+      "en": "Rahama",
+      "slug": "rahama"
+    },
+    "code": {
+      "id": "NG019021_rahama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019021",
+      "level": 2,
+      "name": {
+        "local": "Soba",
+        "en": "Soba",
+        "slug": "soba-ng019021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019021",
+        "level": 2,
+        "name": {
+          "local": "Soba",
+          "en": "Soba",
+          "slug": "soba-ng019021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.954",
+      "lon": "8.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019021_richifa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Richifa",
+      "en": "Richifa",
+      "slug": "richifa"
+    },
+    "code": {
+      "id": "NG019021_richifa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019021",
+      "level": 2,
+      "name": {
+        "local": "Soba",
+        "en": "Soba",
+        "slug": "soba-ng019021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019021",
+        "level": 2,
+        "name": {
+          "local": "Soba",
+          "en": "Soba",
+          "slug": "soba-ng019021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.954",
+      "lon": "8.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019021_soba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Soba",
+      "en": "Soba",
+      "slug": "soba"
+    },
+    "code": {
+      "id": "NG019021_soba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019021",
+      "level": 2,
+      "name": {
+        "local": "Soba",
+        "en": "Soba",
+        "slug": "soba-ng019021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019021",
+        "level": 2,
+        "name": {
+          "local": "Soba",
+          "en": "Soba",
+          "slug": "soba-ng019021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.954",
+      "lon": "8.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019021_turawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Turawa",
+      "en": "Turawa",
+      "slug": "turawa"
+    },
+    "code": {
+      "id": "NG019021_turawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019021",
+      "level": 2,
+      "name": {
+        "local": "Soba",
+        "en": "Soba",
+        "slug": "soba-ng019021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019021",
+        "level": 2,
+        "name": {
+          "local": "Soba",
+          "en": "Soba",
+          "slug": "soba-ng019021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.954",
+      "lon": "8.053"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

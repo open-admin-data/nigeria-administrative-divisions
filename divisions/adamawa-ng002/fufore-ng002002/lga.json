@@ -1,0 +1,47 @@
+{
+  "id": "NG002002",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Fufore",
+    "en": "Fufore",
+    "slug": "fufore-ng002002"
+  },
+  "code": {
+    "id": "NG002002",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG002",
+    "level": 1,
+    "name": {
+      "local": "Adamawa",
+      "en": "Adamawa",
+      "slug": "adamawa-ng002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG002",
+      "level": 1,
+      "name": {
+        "local": "Adamawa",
+        "en": "Adamawa",
+        "slug": "adamawa-ng002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.247",
+    "lon": "12.755"
+  },
+  "metadata": {},
+  "source": {}
+}

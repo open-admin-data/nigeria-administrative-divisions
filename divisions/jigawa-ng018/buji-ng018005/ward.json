@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG018005_ahoto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ahoto",
+      "en": "Ahoto",
+      "slug": "ahoto"
+    },
+    "code": {
+      "id": "NG018005_ahoto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018005",
+      "level": 2,
+      "name": {
+        "local": "Buji",
+        "en": "Buji",
+        "slug": "buji-ng018005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018005",
+        "level": 2,
+        "name": {
+          "local": "Buji",
+          "en": "Buji",
+          "slug": "buji-ng018005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018005_buji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buji",
+      "en": "Buji",
+      "slug": "buji"
+    },
+    "code": {
+      "id": "NG018005_buji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018005",
+      "level": 2,
+      "name": {
+        "local": "Buji",
+        "en": "Buji",
+        "slug": "buji-ng018005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018005",
+        "level": 2,
+        "name": {
+          "local": "Buji",
+          "en": "Buji",
+          "slug": "buji-ng018005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018005_churbun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Churbun",
+      "en": "Churbun",
+      "slug": "churbun"
+    },
+    "code": {
+      "id": "NG018005_churbun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018005",
+      "level": 2,
+      "name": {
+        "local": "Buji",
+        "en": "Buji",
+        "slug": "buji-ng018005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018005",
+        "level": 2,
+        "name": {
+          "local": "Buji",
+          "en": "Buji",
+          "slug": "buji-ng018005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018005_falageri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Falageri",
+      "en": "Falageri",
+      "slug": "falageri"
+    },
+    "code": {
+      "id": "NG018005_falageri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018005",
+      "level": 2,
+      "name": {
+        "local": "Buji",
+        "en": "Buji",
+        "slug": "buji-ng018005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018005",
+        "level": 2,
+        "name": {
+          "local": "Buji",
+          "en": "Buji",
+          "slug": "buji-ng018005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018005_gantsa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gantsa",
+      "en": "Gantsa",
+      "slug": "gantsa"
+    },
+    "code": {
+      "id": "NG018005_gantsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018005",
+      "level": 2,
+      "name": {
+        "local": "Buji",
+        "en": "Buji",
+        "slug": "buji-ng018005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018005",
+        "level": 2,
+        "name": {
+          "local": "Buji",
+          "en": "Buji",
+          "slug": "buji-ng018005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018005_klelen-kudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "K/lelen Kudu",
+      "en": "K/lelen Kudu",
+      "slug": "klelen-kudu"
+    },
+    "code": {
+      "id": "NG018005_klelen-kudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018005",
+      "level": 2,
+      "name": {
+        "local": "Buji",
+        "en": "Buji",
+        "slug": "buji-ng018005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018005",
+        "level": 2,
+        "name": {
+          "local": "Buji",
+          "en": "Buji",
+          "slug": "buji-ng018005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018005_kawaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kawaya",
+      "en": "Kawaya",
+      "slug": "kawaya"
+    },
+    "code": {
+      "id": "NG018005_kawaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018005",
+      "level": 2,
+      "name": {
+        "local": "Buji",
+        "en": "Buji",
+        "slug": "buji-ng018005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018005",
+        "level": 2,
+        "name": {
+          "local": "Buji",
+          "en": "Buji",
+          "slug": "buji-ng018005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018005_kukuma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kukuma",
+      "en": "Kukuma",
+      "slug": "kukuma"
+    },
+    "code": {
+      "id": "NG018005_kukuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018005",
+      "level": 2,
+      "name": {
+        "local": "Buji",
+        "en": "Buji",
+        "slug": "buji-ng018005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018005",
+        "level": 2,
+        "name": {
+          "local": "Buji",
+          "en": "Buji",
+          "slug": "buji-ng018005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018005_madabe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madabe",
+      "en": "Madabe",
+      "slug": "madabe"
+    },
+    "code": {
+      "id": "NG018005_madabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018005",
+      "level": 2,
+      "name": {
+        "local": "Buji",
+        "en": "Buji",
+        "slug": "buji-ng018005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018005",
+        "level": 2,
+        "name": {
+          "local": "Buji",
+          "en": "Buji",
+          "slug": "buji-ng018005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "9.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018005_ytukur",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Y/tukur",
+      "en": "Y/tukur",
+      "slug": "ytukur"
+    },
+    "code": {
+      "id": "NG018005_ytukur",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018005",
+      "level": 2,
+      "name": {
+        "local": "Buji",
+        "en": "Buji",
+        "slug": "buji-ng018005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018005",
+        "level": 2,
+        "name": {
+          "local": "Buji",
+          "en": "Buji",
+          "slug": "buji-ng018005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.548",
+      "lon": "9.715"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

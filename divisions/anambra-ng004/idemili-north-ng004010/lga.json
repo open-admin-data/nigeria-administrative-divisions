@@ -1,0 +1,47 @@
+{
+  "id": "NG004010",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Idemili North",
+    "en": "Idemili North",
+    "slug": "idemili-north-ng004010"
+  },
+  "code": {
+    "id": "NG004010",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG004",
+    "level": 1,
+    "name": {
+      "local": "Anambra",
+      "en": "Anambra",
+      "slug": "anambra-ng004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.137",
+    "lon": "6.893"
+  },
+  "metadata": {},
+  "source": {}
+}

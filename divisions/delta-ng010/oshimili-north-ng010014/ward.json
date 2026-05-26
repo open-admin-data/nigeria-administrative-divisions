@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG010014_akwukwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akwukwu",
+      "en": "Akwukwu",
+      "slug": "akwukwu"
+    },
+    "code": {
+      "id": "NG010014_akwukwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010014",
+      "level": 2,
+      "name": {
+        "local": "Oshimili North",
+        "en": "Oshimili North",
+        "slug": "oshimili-north-ng010014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010014",
+        "level": 2,
+        "name": {
+          "local": "Oshimili North",
+          "en": "Oshimili North",
+          "slug": "oshimili-north-ng010014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.304",
+      "lon": "6.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010014_ebu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ebu",
+      "en": "Ebu",
+      "slug": "ebu"
+    },
+    "code": {
+      "id": "NG010014_ebu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010014",
+      "level": 2,
+      "name": {
+        "local": "Oshimili North",
+        "en": "Oshimili North",
+        "slug": "oshimili-north-ng010014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010014",
+        "level": 2,
+        "name": {
+          "local": "Oshimili North",
+          "en": "Oshimili North",
+          "slug": "oshimili-north-ng010014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.304",
+      "lon": "6.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010014_ibusa-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibusa I",
+      "en": "Ibusa I",
+      "slug": "ibusa-i"
+    },
+    "code": {
+      "id": "NG010014_ibusa-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010014",
+      "level": 2,
+      "name": {
+        "local": "Oshimili North",
+        "en": "Oshimili North",
+        "slug": "oshimili-north-ng010014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010014",
+        "level": 2,
+        "name": {
+          "local": "Oshimili North",
+          "en": "Oshimili North",
+          "slug": "oshimili-north-ng010014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.304",
+      "lon": "6.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010014_ibusa-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibusa Ii",
+      "en": "Ibusa Ii",
+      "slug": "ibusa-ii"
+    },
+    "code": {
+      "id": "NG010014_ibusa-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010014",
+      "level": 2,
+      "name": {
+        "local": "Oshimili North",
+        "en": "Oshimili North",
+        "slug": "oshimili-north-ng010014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010014",
+        "level": 2,
+        "name": {
+          "local": "Oshimili North",
+          "en": "Oshimili North",
+          "slug": "oshimili-north-ng010014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.304",
+      "lon": "6.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010014_ibusa-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibusa Iii",
+      "en": "Ibusa Iii",
+      "slug": "ibusa-iii"
+    },
+    "code": {
+      "id": "NG010014_ibusa-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010014",
+      "level": 2,
+      "name": {
+        "local": "Oshimili North",
+        "en": "Oshimili North",
+        "slug": "oshimili-north-ng010014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010014",
+        "level": 2,
+        "name": {
+          "local": "Oshimili North",
+          "en": "Oshimili North",
+          "slug": "oshimili-north-ng010014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.304",
+      "lon": "6.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010014_ibusa-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibusa Iv",
+      "en": "Ibusa Iv",
+      "slug": "ibusa-iv"
+    },
+    "code": {
+      "id": "NG010014_ibusa-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010014",
+      "level": 2,
+      "name": {
+        "local": "Oshimili North",
+        "en": "Oshimili North",
+        "slug": "oshimili-north-ng010014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010014",
+        "level": 2,
+        "name": {
+          "local": "Oshimili North",
+          "en": "Oshimili North",
+          "slug": "oshimili-north-ng010014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.304",
+      "lon": "6.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010014_ibusa-v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibusa V",
+      "en": "Ibusa V",
+      "slug": "ibusa-v"
+    },
+    "code": {
+      "id": "NG010014_ibusa-v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010014",
+      "level": 2,
+      "name": {
+        "local": "Oshimili North",
+        "en": "Oshimili North",
+        "slug": "oshimili-north-ng010014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010014",
+        "level": 2,
+        "name": {
+          "local": "Oshimili North",
+          "en": "Oshimili North",
+          "slug": "oshimili-north-ng010014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.304",
+      "lon": "6.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010014_illah",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Illah",
+      "en": "Illah",
+      "slug": "illah"
+    },
+    "code": {
+      "id": "NG010014_illah",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010014",
+      "level": 2,
+      "name": {
+        "local": "Oshimili North",
+        "en": "Oshimili North",
+        "slug": "oshimili-north-ng010014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010014",
+        "level": 2,
+        "name": {
+          "local": "Oshimili North",
+          "en": "Oshimili North",
+          "slug": "oshimili-north-ng010014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.304",
+      "lon": "6.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010014_okpanam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpanam",
+      "en": "Okpanam",
+      "slug": "okpanam"
+    },
+    "code": {
+      "id": "NG010014_okpanam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010014",
+      "level": 2,
+      "name": {
+        "local": "Oshimili North",
+        "en": "Oshimili North",
+        "slug": "oshimili-north-ng010014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010014",
+        "level": 2,
+        "name": {
+          "local": "Oshimili North",
+          "en": "Oshimili North",
+          "slug": "oshimili-north-ng010014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.304",
+      "lon": "6.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010014_ukala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukala",
+      "en": "Ukala",
+      "slug": "ukala"
+    },
+    "code": {
+      "id": "NG010014_ukala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010014",
+      "level": 2,
+      "name": {
+        "local": "Oshimili North",
+        "en": "Oshimili North",
+        "slug": "oshimili-north-ng010014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010014",
+        "level": 2,
+        "name": {
+          "local": "Oshimili North",
+          "en": "Oshimili North",
+          "slug": "oshimili-north-ng010014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.304",
+      "lon": "6.645"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

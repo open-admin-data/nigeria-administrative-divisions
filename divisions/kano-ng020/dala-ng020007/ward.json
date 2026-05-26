@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG020007_adakawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adakawa",
+      "en": "Adakawa",
+      "slug": "adakawa"
+    },
+    "code": {
+      "id": "NG020007_adakawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020007",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ng020007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020007",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ng020007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020007_bakin-ruwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bakin Ruwa",
+      "en": "Bakin Ruwa",
+      "slug": "bakin-ruwa"
+    },
+    "code": {
+      "id": "NG020007_bakin-ruwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020007",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ng020007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020007",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ng020007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020007_dala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dala",
+      "en": "Dala",
+      "slug": "dala"
+    },
+    "code": {
+      "id": "NG020007_dala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020007",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ng020007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020007",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ng020007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020007_dogon-nama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dogon Nama",
+      "en": "Dogon Nama",
+      "slug": "dogon-nama"
+    },
+    "code": {
+      "id": "NG020007_dogon-nama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020007",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ng020007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020007",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ng020007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020007_gobirawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gobirawa",
+      "en": "Gobirawa",
+      "slug": "gobirawa"
+    },
+    "code": {
+      "id": "NG020007_gobirawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020007",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ng020007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020007",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ng020007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020007_gwammaja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwammaja",
+      "en": "Gwammaja",
+      "slug": "gwammaja"
+    },
+    "code": {
+      "id": "NG020007_gwammaja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020007",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ng020007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020007",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ng020007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020007_kabuwaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kabuwaya",
+      "en": "Kabuwaya",
+      "slug": "kabuwaya"
+    },
+    "code": {
+      "id": "NG020007_kabuwaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020007",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ng020007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020007",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ng020007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020007_kantudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kantudu",
+      "en": "Kantudu",
+      "slug": "kantudu"
+    },
+    "code": {
+      "id": "NG020007_kantudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020007",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ng020007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020007",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ng020007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020007_kofar-mazugal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kofar Mazugal",
+      "en": "Kofar Mazugal",
+      "slug": "kofar-mazugal"
+    },
+    "code": {
+      "id": "NG020007_kofar-mazugal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020007",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ng020007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020007",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ng020007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020007_kofar-ruwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kofar Ruwa",
+      "en": "Kofar Ruwa",
+      "slug": "kofar-ruwa"
+    },
+    "code": {
+      "id": "NG020007_kofar-ruwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020007",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ng020007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020007",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ng020007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020007_madigawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madigawa",
+      "en": "Madigawa",
+      "slug": "madigawa"
+    },
+    "code": {
+      "id": "NG020007_madigawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020007",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ng020007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020007",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ng020007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020007_yalwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yalwa",
+      "en": "Yalwa",
+      "slug": "yalwa"
+    },
+    "code": {
+      "id": "NG020007_yalwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020007",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ng020007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020007",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ng020007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.027",
+      "lon": "8.494"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

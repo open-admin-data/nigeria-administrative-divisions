@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG005005_darazo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Darazo",
+      "en": "Darazo",
+      "slug": "darazo"
+    },
+    "code": {
+      "id": "NG005005_darazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005005",
+      "level": 2,
+      "name": {
+        "local": "Darazo",
+        "en": "Darazo",
+        "slug": "darazo-ng005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005005",
+        "level": 2,
+        "name": {
+          "local": "Darazo",
+          "en": "Darazo",
+          "slug": "darazo-ng005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.108",
+      "lon": "10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005005_gabarin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gabarin",
+      "en": "Gabarin",
+      "slug": "gabarin"
+    },
+    "code": {
+      "id": "NG005005_gabarin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005005",
+      "level": 2,
+      "name": {
+        "local": "Darazo",
+        "en": "Darazo",
+        "slug": "darazo-ng005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005005",
+        "level": 2,
+        "name": {
+          "local": "Darazo",
+          "en": "Darazo",
+          "slug": "darazo-ng005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.108",
+      "lon": "10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005005_gabciyari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gabciyari",
+      "en": "Gabciyari",
+      "slug": "gabciyari"
+    },
+    "code": {
+      "id": "NG005005_gabciyari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005005",
+      "level": 2,
+      "name": {
+        "local": "Darazo",
+        "en": "Darazo",
+        "slug": "darazo-ng005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005005",
+        "level": 2,
+        "name": {
+          "local": "Darazo",
+          "en": "Darazo",
+          "slug": "darazo-ng005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.108",
+      "lon": "10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005005_konkiyal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Konkiyal",
+      "en": "Konkiyal",
+      "slug": "konkiyal"
+    },
+    "code": {
+      "id": "NG005005_konkiyal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005005",
+      "level": 2,
+      "name": {
+        "local": "Darazo",
+        "en": "Darazo",
+        "slug": "darazo-ng005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005005",
+        "level": 2,
+        "name": {
+          "local": "Darazo",
+          "en": "Darazo",
+          "slug": "darazo-ng005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.108",
+      "lon": "10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005005_lago",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lago",
+      "en": "Lago",
+      "slug": "lago"
+    },
+    "code": {
+      "id": "NG005005_lago",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005005",
+      "level": 2,
+      "name": {
+        "local": "Darazo",
+        "en": "Darazo",
+        "slug": "darazo-ng005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005005",
+        "level": 2,
+        "name": {
+          "local": "Darazo",
+          "en": "Darazo",
+          "slug": "darazo-ng005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.108",
+      "lon": "10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005005_lanzai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lanzai",
+      "en": "Lanzai",
+      "slug": "lanzai"
+    },
+    "code": {
+      "id": "NG005005_lanzai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005005",
+      "level": 2,
+      "name": {
+        "local": "Darazo",
+        "en": "Darazo",
+        "slug": "darazo-ng005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005005",
+        "level": 2,
+        "name": {
+          "local": "Darazo",
+          "en": "Darazo",
+          "slug": "darazo-ng005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.108",
+      "lon": "10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005005_papa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Papa",
+      "en": "Papa",
+      "slug": "papa"
+    },
+    "code": {
+      "id": "NG005005_papa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005005",
+      "level": 2,
+      "name": {
+        "local": "Darazo",
+        "en": "Darazo",
+        "slug": "darazo-ng005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005005",
+        "level": 2,
+        "name": {
+          "local": "Darazo",
+          "en": "Darazo",
+          "slug": "darazo-ng005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.108",
+      "lon": "10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005005_sade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sade",
+      "en": "Sade",
+      "slug": "sade"
+    },
+    "code": {
+      "id": "NG005005_sade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005005",
+      "level": 2,
+      "name": {
+        "local": "Darazo",
+        "en": "Darazo",
+        "slug": "darazo-ng005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005005",
+        "level": 2,
+        "name": {
+          "local": "Darazo",
+          "en": "Darazo",
+          "slug": "darazo-ng005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.108",
+      "lon": "10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005005_tauya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tauya",
+      "en": "Tauya",
+      "slug": "tauya"
+    },
+    "code": {
+      "id": "NG005005_tauya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005005",
+      "level": 2,
+      "name": {
+        "local": "Darazo",
+        "en": "Darazo",
+        "slug": "darazo-ng005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005005",
+        "level": 2,
+        "name": {
+          "local": "Darazo",
+          "en": "Darazo",
+          "slug": "darazo-ng005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.108",
+      "lon": "10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005005_wahu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wahu",
+      "en": "Wahu",
+      "slug": "wahu"
+    },
+    "code": {
+      "id": "NG005005_wahu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005005",
+      "level": 2,
+      "name": {
+        "local": "Darazo",
+        "en": "Darazo",
+        "slug": "darazo-ng005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005005",
+        "level": 2,
+        "name": {
+          "local": "Darazo",
+          "en": "Darazo",
+          "slug": "darazo-ng005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.108",
+      "lon": "10.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005005_yautare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yautare",
+      "en": "Yautare",
+      "slug": "yautare"
+    },
+    "code": {
+      "id": "NG005005_yautare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005005",
+      "level": 2,
+      "name": {
+        "local": "Darazo",
+        "en": "Darazo",
+        "slug": "darazo-ng005005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005005",
+        "level": 2,
+        "name": {
+          "local": "Darazo",
+          "en": "Darazo",
+          "slug": "darazo-ng005005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.108",
+      "lon": "10.51"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

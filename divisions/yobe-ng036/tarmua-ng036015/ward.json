@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG036015_babangida",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Babangida",
+      "en": "Babangida",
+      "slug": "babangida"
+    },
+    "code": {
+      "id": "NG036015_babangida",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036015",
+      "level": 2,
+      "name": {
+        "local": "Tarmua",
+        "en": "Tarmua",
+        "slug": "tarmua-ng036015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036015",
+        "level": 2,
+        "name": {
+          "local": "Tarmua",
+          "en": "Tarmua",
+          "slug": "tarmua-ng036015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.171",
+      "lon": "11.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036015_barkami-bulturi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Barkami / Bulturi",
+      "en": "Barkami / Bulturi",
+      "slug": "barkami-bulturi"
+    },
+    "code": {
+      "id": "NG036015_barkami-bulturi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036015",
+      "level": 2,
+      "name": {
+        "local": "Tarmua",
+        "en": "Tarmua",
+        "slug": "tarmua-ng036015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036015",
+        "level": 2,
+        "name": {
+          "local": "Tarmua",
+          "en": "Tarmua",
+          "slug": "tarmua-ng036015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.221",
+      "lon": "11.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036015_biririchurokusko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Biriri/churokusko",
+      "en": "Biriri/churokusko",
+      "slug": "biririchurokusko"
+    },
+    "code": {
+      "id": "NG036015_biririchurokusko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036015",
+      "level": 2,
+      "name": {
+        "local": "Tarmua",
+        "en": "Tarmua",
+        "slug": "tarmua-ng036015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036015",
+        "level": 2,
+        "name": {
+          "local": "Tarmua",
+          "en": "Tarmua",
+          "slug": "tarmua-ng036015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.059",
+      "lon": "11.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036015_jumbam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jumbam",
+      "en": "Jumbam",
+      "slug": "jumbam"
+    },
+    "code": {
+      "id": "NG036015_jumbam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036015",
+      "level": 2,
+      "name": {
+        "local": "Tarmua",
+        "en": "Tarmua",
+        "slug": "tarmua-ng036015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036015",
+        "level": 2,
+        "name": {
+          "local": "Tarmua",
+          "en": "Tarmua",
+          "slug": "tarmua-ng036015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.44",
+      "lon": "11.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036015_kokasungul",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koka/sungul",
+      "en": "Koka/sungul",
+      "slug": "kokasungul"
+    },
+    "code": {
+      "id": "NG036015_kokasungul",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036015",
+      "level": 2,
+      "name": {
+        "local": "Tarmua",
+        "en": "Tarmua",
+        "slug": "tarmua-ng036015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036015",
+        "level": 2,
+        "name": {
+          "local": "Tarmua",
+          "en": "Tarmua",
+          "slug": "tarmua-ng036015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.221",
+      "lon": "11.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036015_koriyel",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koriyel",
+      "en": "Koriyel",
+      "slug": "koriyel"
+    },
+    "code": {
+      "id": "NG036015_koriyel",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036015",
+      "level": 2,
+      "name": {
+        "local": "Tarmua",
+        "en": "Tarmua",
+        "slug": "tarmua-ng036015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036015",
+        "level": 2,
+        "name": {
+          "local": "Tarmua",
+          "en": "Tarmua",
+          "slug": "tarmua-ng036015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.286",
+      "lon": "11.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036015_lantaiwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lantaiwa",
+      "en": "Lantaiwa",
+      "slug": "lantaiwa"
+    },
+    "code": {
+      "id": "NG036015_lantaiwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036015",
+      "level": 2,
+      "name": {
+        "local": "Tarmua",
+        "en": "Tarmua",
+        "slug": "tarmua-ng036015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036015",
+        "level": 2,
+        "name": {
+          "local": "Tarmua",
+          "en": "Tarmua",
+          "slug": "tarmua-ng036015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.325",
+      "lon": "11.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036015_mafa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mafa",
+      "en": "Mafa",
+      "slug": "mafa"
+    },
+    "code": {
+      "id": "NG036015_mafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036015",
+      "level": 2,
+      "name": {
+        "local": "Tarmua",
+        "en": "Tarmua",
+        "slug": "tarmua-ng036015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036015",
+        "level": 2,
+        "name": {
+          "local": "Tarmua",
+          "en": "Tarmua",
+          "slug": "tarmua-ng036015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.288",
+      "lon": "12.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036015_mandadawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mandadawa",
+      "en": "Mandadawa",
+      "slug": "mandadawa"
+    },
+    "code": {
+      "id": "NG036015_mandadawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036015",
+      "level": 2,
+      "name": {
+        "local": "Tarmua",
+        "en": "Tarmua",
+        "slug": "tarmua-ng036015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036015",
+        "level": 2,
+        "name": {
+          "local": "Tarmua",
+          "en": "Tarmua",
+          "slug": "tarmua-ng036015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.349",
+      "lon": "11.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036015_shekau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shekau",
+      "en": "Shekau",
+      "slug": "shekau"
+    },
+    "code": {
+      "id": "NG036015_shekau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036015",
+      "level": 2,
+      "name": {
+        "local": "Tarmua",
+        "en": "Tarmua",
+        "slug": "tarmua-ng036015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036015",
+        "level": 2,
+        "name": {
+          "local": "Tarmua",
+          "en": "Tarmua",
+          "slug": "tarmua-ng036015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.164",
+      "lon": "11.674"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

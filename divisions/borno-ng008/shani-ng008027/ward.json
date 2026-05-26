@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG008027_bargu-burashika",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bargu / Burashika",
+      "en": "Bargu / Burashika",
+      "slug": "bargu-burashika"
+    },
+    "code": {
+      "id": "NG008027_bargu-burashika",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008027",
+      "level": 2,
+      "name": {
+        "local": "Shani",
+        "en": "Shani",
+        "slug": "shani-ng008027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008027",
+        "level": 2,
+        "name": {
+          "local": "Shani",
+          "en": "Shani",
+          "slug": "shani-ng008027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.12",
+      "lon": "11.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008027_buma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buma",
+      "en": "Buma",
+      "slug": "buma"
+    },
+    "code": {
+      "id": "NG008027_buma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008027",
+      "level": 2,
+      "name": {
+        "local": "Shani",
+        "en": "Shani",
+        "slug": "shani-ng008027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008027",
+        "level": 2,
+        "name": {
+          "local": "Shani",
+          "en": "Shani",
+          "slug": "shani-ng008027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.256",
+      "lon": "12.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008027_gasi-salifawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gasi / Salifawa",
+      "en": "Gasi / Salifawa",
+      "slug": "gasi-salifawa"
+    },
+    "code": {
+      "id": "NG008027_gasi-salifawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008027",
+      "level": 2,
+      "name": {
+        "local": "Shani",
+        "en": "Shani",
+        "slug": "shani-ng008027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008027",
+        "level": 2,
+        "name": {
+          "local": "Shani",
+          "en": "Shani",
+          "slug": "shani-ng008027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.18",
+      "lon": "11.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008027_gora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gora",
+      "en": "Gora",
+      "slug": "gora"
+    },
+    "code": {
+      "id": "NG008027_gora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008027",
+      "level": 2,
+      "name": {
+        "local": "Shani",
+        "en": "Shani",
+        "slug": "shani-ng008027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008027",
+        "level": 2,
+        "name": {
+          "local": "Shani",
+          "en": "Shani",
+          "slug": "shani-ng008027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.068",
+      "lon": "11.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008027_gwalasho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwalasho",
+      "en": "Gwalasho",
+      "slug": "gwalasho"
+    },
+    "code": {
+      "id": "NG008027_gwalasho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008027",
+      "level": 2,
+      "name": {
+        "local": "Shani",
+        "en": "Shani",
+        "slug": "shani-ng008027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008027",
+        "level": 2,
+        "name": {
+          "local": "Shani",
+          "en": "Shani",
+          "slug": "shani-ng008027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.134",
+      "lon": "12.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008027_gwaskara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwaskara",
+      "en": "Gwaskara",
+      "slug": "gwaskara"
+    },
+    "code": {
+      "id": "NG008027_gwaskara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008027",
+      "level": 2,
+      "name": {
+        "local": "Shani",
+        "en": "Shani",
+        "slug": "shani-ng008027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008027",
+        "level": 2,
+        "name": {
+          "local": "Shani",
+          "en": "Shani",
+          "slug": "shani-ng008027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.228",
+      "lon": "12.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008027_kombo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kombo",
+      "en": "Kombo",
+      "slug": "kombo"
+    },
+    "code": {
+      "id": "NG008027_kombo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008027",
+      "level": 2,
+      "name": {
+        "local": "Shani",
+        "en": "Shani",
+        "slug": "shani-ng008027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008027",
+        "level": 2,
+        "name": {
+          "local": "Shani",
+          "en": "Shani",
+          "slug": "shani-ng008027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.078",
+      "lon": "11.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008027_kubo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kubo",
+      "en": "Kubo",
+      "slug": "kubo"
+    },
+    "code": {
+      "id": "NG008027_kubo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008027",
+      "level": 2,
+      "name": {
+        "local": "Shani",
+        "en": "Shani",
+        "slug": "shani-ng008027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008027",
+        "level": 2,
+        "name": {
+          "local": "Shani",
+          "en": "Shani",
+          "slug": "shani-ng008027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.093",
+      "lon": "12.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008027_kwaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwaba",
+      "en": "Kwaba",
+      "slug": "kwaba"
+    },
+    "code": {
+      "id": "NG008027_kwaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008027",
+      "level": 2,
+      "name": {
+        "local": "Shani",
+        "en": "Shani",
+        "slug": "shani-ng008027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008027",
+        "level": 2,
+        "name": {
+          "local": "Shani",
+          "en": "Shani",
+          "slug": "shani-ng008027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.193",
+      "lon": "11.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008027_shani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shani",
+      "en": "Shani",
+      "slug": "shani"
+    },
+    "code": {
+      "id": "NG008027_shani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008027",
+      "level": 2,
+      "name": {
+        "local": "Shani",
+        "en": "Shani",
+        "slug": "shani-ng008027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008027",
+        "level": 2,
+        "name": {
+          "local": "Shani",
+          "en": "Shani",
+          "slug": "shani-ng008027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.21",
+      "lon": "12.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008027_walama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Walama",
+      "en": "Walama",
+      "slug": "walama"
+    },
+    "code": {
+      "id": "NG008027_walama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008027",
+      "level": 2,
+      "name": {
+        "local": "Shani",
+        "en": "Shani",
+        "slug": "shani-ng008027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008027",
+        "level": 2,
+        "name": {
+          "local": "Shani",
+          "en": "Shani",
+          "slug": "shani-ng008027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.284",
+      "lon": "11.936"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

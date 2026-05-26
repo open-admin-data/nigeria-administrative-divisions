@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG036011_bogo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bogo",
+      "en": "Bogo",
+      "slug": "bogo"
+    },
+    "code": {
+      "id": "NG036011_bogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036011",
+      "level": 2,
+      "name": {
+        "local": "Machina",
+        "en": "Machina",
+        "slug": "machina-ng036011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036011",
+        "level": 2,
+        "name": {
+          "local": "Machina",
+          "en": "Machina",
+          "slug": "machina-ng036011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.847",
+      "lon": "9.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036011_damai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damai",
+      "en": "Damai",
+      "slug": "damai"
+    },
+    "code": {
+      "id": "NG036011_damai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036011",
+      "level": 2,
+      "name": {
+        "local": "Machina",
+        "en": "Machina",
+        "slug": "machina-ng036011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036011",
+        "level": 2,
+        "name": {
+          "local": "Machina",
+          "en": "Machina",
+          "slug": "machina-ng036011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.947",
+      "lon": "9.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036011_dole",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dole",
+      "en": "Dole",
+      "slug": "dole"
+    },
+    "code": {
+      "id": "NG036011_dole",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036011",
+      "level": 2,
+      "name": {
+        "local": "Machina",
+        "en": "Machina",
+        "slug": "machina-ng036011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036011",
+        "level": 2,
+        "name": {
+          "local": "Machina",
+          "en": "Machina",
+          "slug": "machina-ng036011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.917",
+      "lon": "9.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036011_falimaram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Falimaram",
+      "en": "Falimaram",
+      "slug": "falimaram"
+    },
+    "code": {
+      "id": "NG036011_falimaram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036011",
+      "level": 2,
+      "name": {
+        "local": "Machina",
+        "en": "Machina",
+        "slug": "machina-ng036011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036011",
+        "level": 2,
+        "name": {
+          "local": "Machina",
+          "en": "Machina",
+          "slug": "machina-ng036011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.028",
+      "lon": "9.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036011_kom-komma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kom-komma",
+      "en": "Kom-komma",
+      "slug": "kom-komma"
+    },
+    "code": {
+      "id": "NG036011_kom-komma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036011",
+      "level": 2,
+      "name": {
+        "local": "Machina",
+        "en": "Machina",
+        "slug": "machina-ng036011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036011",
+        "level": 2,
+        "name": {
+          "local": "Machina",
+          "en": "Machina",
+          "slug": "machina-ng036011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.04",
+      "lon": "10.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036011_kuka-yasku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuka-yasku",
+      "en": "Kuka-yasku",
+      "slug": "kuka-yasku"
+    },
+    "code": {
+      "id": "NG036011_kuka-yasku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036011",
+      "level": 2,
+      "name": {
+        "local": "Machina",
+        "en": "Machina",
+        "slug": "machina-ng036011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036011",
+        "level": 2,
+        "name": {
+          "local": "Machina",
+          "en": "Machina",
+          "slug": "machina-ng036011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.04",
+      "lon": "10.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036011_lamisu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lamisu",
+      "en": "Lamisu",
+      "slug": "lamisu"
+    },
+    "code": {
+      "id": "NG036011_lamisu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036011",
+      "level": 2,
+      "name": {
+        "local": "Machina",
+        "en": "Machina",
+        "slug": "machina-ng036011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036011",
+        "level": 2,
+        "name": {
+          "local": "Machina",
+          "en": "Machina",
+          "slug": "machina-ng036011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.136",
+      "lon": "10.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036011_machina-kwari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Machina-kwari",
+      "en": "Machina-kwari",
+      "slug": "machina-kwari"
+    },
+    "code": {
+      "id": "NG036011_machina-kwari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036011",
+      "level": 2,
+      "name": {
+        "local": "Machina",
+        "en": "Machina",
+        "slug": "machina-ng036011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036011",
+        "level": 2,
+        "name": {
+          "local": "Machina",
+          "en": "Machina",
+          "slug": "machina-ng036011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.141",
+      "lon": "10.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036011_maskandare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maskandare",
+      "en": "Maskandare",
+      "slug": "maskandare"
+    },
+    "code": {
+      "id": "NG036011_maskandare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036011",
+      "level": 2,
+      "name": {
+        "local": "Machina",
+        "en": "Machina",
+        "slug": "machina-ng036011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036011",
+        "level": 2,
+        "name": {
+          "local": "Machina",
+          "en": "Machina",
+          "slug": "machina-ng036011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.002",
+      "lon": "9.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG036011_taganama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Taganama",
+      "en": "Taganama",
+      "slug": "taganama"
+    },
+    "code": {
+      "id": "NG036011_taganama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG036011",
+      "level": 2,
+      "name": {
+        "local": "Machina",
+        "en": "Machina",
+        "slug": "machina-ng036011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG036",
+        "level": 1,
+        "name": {
+          "local": "Yobe",
+          "en": "Yobe",
+          "slug": "yobe-ng036"
+        }
+      },
+      {
+        "id": "NG036011",
+        "level": 2,
+        "name": {
+          "local": "Machina",
+          "en": "Machina",
+          "slug": "machina-ng036011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.851",
+      "lon": "9.826"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

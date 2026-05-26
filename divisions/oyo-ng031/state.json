@@ -1,0 +1,30 @@
+{
+  "id": "NG031",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Oyo",
+    "en": "Oyo",
+    "slug": "oyo-ng031"
+  },
+  "code": {
+    "id": "NG031",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 33,
+    "ward": 363
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.135",
+    "lon": "3.613"
+  },
+  "metadata": {},
+  "source": {}
+}

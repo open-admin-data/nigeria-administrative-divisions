@@ -1,0 +1,47 @@
+{
+  "id": "NG023001",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Adavi",
+    "en": "Adavi",
+    "slug": "adavi-ng023001"
+  },
+  "code": {
+    "id": "NG023001",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG023",
+    "level": 1,
+    "name": {
+      "local": "Kogi",
+      "en": "Kogi",
+      "slug": "kogi-ng023"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG023",
+      "level": 1,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.684",
+    "lon": "6.467"
+  },
+  "metadata": {},
+  "source": {}
+}

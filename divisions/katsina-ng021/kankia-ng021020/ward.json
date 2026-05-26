@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG021020_gachi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gachi",
+      "en": "Gachi",
+      "slug": "gachi"
+    },
+    "code": {
+      "id": "NG021020_gachi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021020",
+      "level": 2,
+      "name": {
+        "local": "Kankia",
+        "en": "Kankia",
+        "slug": "kankia-ng021020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021020",
+        "level": 2,
+        "name": {
+          "local": "Kankia",
+          "en": "Kankia",
+          "slug": "kankia-ng021020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.438",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021020_galadima-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galadima 'a'",
+      "en": "Galadima 'a'",
+      "slug": "galadima-a"
+    },
+    "code": {
+      "id": "NG021020_galadima-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021020",
+      "level": 2,
+      "name": {
+        "local": "Kankia",
+        "en": "Kankia",
+        "slug": "kankia-ng021020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021020",
+        "level": 2,
+        "name": {
+          "local": "Kankia",
+          "en": "Kankia",
+          "slug": "kankia-ng021020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.438",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021020_galadima-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galadima 'b'",
+      "en": "Galadima 'b'",
+      "slug": "galadima-b"
+    },
+    "code": {
+      "id": "NG021020_galadima-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021020",
+      "level": 2,
+      "name": {
+        "local": "Kankia",
+        "en": "Kankia",
+        "slug": "kankia-ng021020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021020",
+        "level": 2,
+        "name": {
+          "local": "Kankia",
+          "en": "Kankia",
+          "slug": "kankia-ng021020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.438",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021020_kafin-dangifakuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafin Dangi/fakuwa",
+      "en": "Kafin Dangi/fakuwa",
+      "slug": "kafin-dangifakuwa"
+    },
+    "code": {
+      "id": "NG021020_kafin-dangifakuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021020",
+      "level": 2,
+      "name": {
+        "local": "Kankia",
+        "en": "Kankia",
+        "slug": "kankia-ng021020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021020",
+        "level": 2,
+        "name": {
+          "local": "Kankia",
+          "en": "Kankia",
+          "slug": "kankia-ng021020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.438",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021020_kafinsoli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafinsoli",
+      "en": "Kafinsoli",
+      "slug": "kafinsoli"
+    },
+    "code": {
+      "id": "NG021020_kafinsoli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021020",
+      "level": 2,
+      "name": {
+        "local": "Kankia",
+        "en": "Kankia",
+        "slug": "kankia-ng021020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021020",
+        "level": 2,
+        "name": {
+          "local": "Kankia",
+          "en": "Kankia",
+          "slug": "kankia-ng021020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.438",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021020_kundurugyaza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kunduru/gyaza",
+      "en": "Kunduru/gyaza",
+      "slug": "kundurugyaza"
+    },
+    "code": {
+      "id": "NG021020_kundurugyaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021020",
+      "level": 2,
+      "name": {
+        "local": "Kankia",
+        "en": "Kankia",
+        "slug": "kankia-ng021020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021020",
+        "level": 2,
+        "name": {
+          "local": "Kankia",
+          "en": "Kankia",
+          "slug": "kankia-ng021020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.438",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021020_magamtsa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magam/tsa",
+      "en": "Magam/tsa",
+      "slug": "magamtsa"
+    },
+    "code": {
+      "id": "NG021020_magamtsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021020",
+      "level": 2,
+      "name": {
+        "local": "Kankia",
+        "en": "Kankia",
+        "slug": "kankia-ng021020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021020",
+        "level": 2,
+        "name": {
+          "local": "Kankia",
+          "en": "Kankia",
+          "slug": "kankia-ng021020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.438",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021020_rimaye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rimaye",
+      "en": "Rimaye",
+      "slug": "rimaye"
+    },
+    "code": {
+      "id": "NG021020_rimaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021020",
+      "level": 2,
+      "name": {
+        "local": "Kankia",
+        "en": "Kankia",
+        "slug": "kankia-ng021020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021020",
+        "level": 2,
+        "name": {
+          "local": "Kankia",
+          "en": "Kankia",
+          "slug": "kankia-ng021020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.438",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021020_sukuntuni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sukuntuni",
+      "en": "Sukuntuni",
+      "slug": "sukuntuni"
+    },
+    "code": {
+      "id": "NG021020_sukuntuni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021020",
+      "level": 2,
+      "name": {
+        "local": "Kankia",
+        "en": "Kankia",
+        "slug": "kankia-ng021020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021020",
+        "level": 2,
+        "name": {
+          "local": "Kankia",
+          "en": "Kankia",
+          "slug": "kankia-ng021020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.438",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021020_tafashiyanasarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tafashiya/nasarawa",
+      "en": "Tafashiya/nasarawa",
+      "slug": "tafashiyanasarawa"
+    },
+    "code": {
+      "id": "NG021020_tafashiyanasarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021020",
+      "level": 2,
+      "name": {
+        "local": "Kankia",
+        "en": "Kankia",
+        "slug": "kankia-ng021020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021020",
+        "level": 2,
+        "name": {
+          "local": "Kankia",
+          "en": "Kankia",
+          "slug": "kankia-ng021020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.438",
+      "lon": "7.792"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

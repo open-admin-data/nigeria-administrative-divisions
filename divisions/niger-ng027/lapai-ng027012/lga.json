@@ -1,0 +1,47 @@
+{
+  "id": "NG027012",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Lapai",
+    "en": "Lapai",
+    "slug": "lapai-ng027012"
+  },
+  "code": {
+    "id": "NG027012",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG027",
+    "level": 1,
+    "name": {
+      "local": "Niger",
+      "en": "Niger",
+      "slug": "niger-ng027"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG027",
+      "level": 1,
+      "name": {
+        "local": "Niger",
+        "en": "Niger",
+        "slug": "niger-ng027"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.781",
+    "lon": "6.674"
+  },
+  "metadata": {},
+  "source": {}
+}

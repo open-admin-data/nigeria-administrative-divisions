@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020035_alajawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alajawa",
+      "en": "Alajawa",
+      "slug": "alajawa"
+    },
+    "code": {
+      "id": "NG020035_alajawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020035",
+      "level": 2,
+      "name": {
+        "local": "Shanono",
+        "en": "Shanono",
+        "slug": "shanono-ng020035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020035",
+        "level": 2,
+        "name": {
+          "local": "Shanono",
+          "en": "Shanono",
+          "slug": "shanono-ng020035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.087",
+      "lon": "7.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020035_dutsen-bakoshi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dutsen-bakoshi",
+      "en": "Dutsen-bakoshi",
+      "slug": "dutsen-bakoshi"
+    },
+    "code": {
+      "id": "NG020035_dutsen-bakoshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020035",
+      "level": 2,
+      "name": {
+        "local": "Shanono",
+        "en": "Shanono",
+        "slug": "shanono-ng020035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020035",
+        "level": 2,
+        "name": {
+          "local": "Shanono",
+          "en": "Shanono",
+          "slug": "shanono-ng020035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.087",
+      "lon": "7.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020035_faruruwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Faruruwa",
+      "en": "Faruruwa",
+      "slug": "faruruwa"
+    },
+    "code": {
+      "id": "NG020035_faruruwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020035",
+      "level": 2,
+      "name": {
+        "local": "Shanono",
+        "en": "Shanono",
+        "slug": "shanono-ng020035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020035",
+        "level": 2,
+        "name": {
+          "local": "Shanono",
+          "en": "Shanono",
+          "slug": "shanono-ng020035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.087",
+      "lon": "7.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020035_goron-dutse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Goron Dutse",
+      "en": "Goron Dutse",
+      "slug": "goron-dutse"
+    },
+    "code": {
+      "id": "NG020035_goron-dutse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020035",
+      "level": 2,
+      "name": {
+        "local": "Shanono",
+        "en": "Shanono",
+        "slug": "shanono-ng020035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020035",
+        "level": 2,
+        "name": {
+          "local": "Shanono",
+          "en": "Shanono",
+          "slug": "shanono-ng020035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.087",
+      "lon": "7.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020035_kadamu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadamu",
+      "en": "Kadamu",
+      "slug": "kadamu"
+    },
+    "code": {
+      "id": "NG020035_kadamu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020035",
+      "level": 2,
+      "name": {
+        "local": "Shanono",
+        "en": "Shanono",
+        "slug": "shanono-ng020035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020035",
+        "level": 2,
+        "name": {
+          "local": "Shanono",
+          "en": "Shanono",
+          "slug": "shanono-ng020035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.087",
+      "lon": "7.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020035_kokiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kokiya",
+      "en": "Kokiya",
+      "slug": "kokiya"
+    },
+    "code": {
+      "id": "NG020035_kokiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020035",
+      "level": 2,
+      "name": {
+        "local": "Shanono",
+        "en": "Shanono",
+        "slug": "shanono-ng020035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020035",
+        "level": 2,
+        "name": {
+          "local": "Shanono",
+          "en": "Shanono",
+          "slug": "shanono-ng020035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.087",
+      "lon": "7.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020035_leni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Leni",
+      "en": "Leni",
+      "slug": "leni"
+    },
+    "code": {
+      "id": "NG020035_leni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020035",
+      "level": 2,
+      "name": {
+        "local": "Shanono",
+        "en": "Shanono",
+        "slug": "shanono-ng020035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020035",
+        "level": 2,
+        "name": {
+          "local": "Shanono",
+          "en": "Shanono",
+          "slug": "shanono-ng020035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.087",
+      "lon": "7.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020035_shakogi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shakogi",
+      "en": "Shakogi",
+      "slug": "shakogi"
+    },
+    "code": {
+      "id": "NG020035_shakogi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020035",
+      "level": 2,
+      "name": {
+        "local": "Shanono",
+        "en": "Shanono",
+        "slug": "shanono-ng020035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020035",
+        "level": 2,
+        "name": {
+          "local": "Shanono",
+          "en": "Shanono",
+          "slug": "shanono-ng020035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.087",
+      "lon": "7.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020035_shanono",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shanono",
+      "en": "Shanono",
+      "slug": "shanono"
+    },
+    "code": {
+      "id": "NG020035_shanono",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020035",
+      "level": 2,
+      "name": {
+        "local": "Shanono",
+        "en": "Shanono",
+        "slug": "shanono-ng020035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020035",
+        "level": 2,
+        "name": {
+          "local": "Shanono",
+          "en": "Shanono",
+          "slug": "shanono-ng020035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.087",
+      "lon": "7.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020035_tsaure",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsaure",
+      "en": "Tsaure",
+      "slug": "tsaure"
+    },
+    "code": {
+      "id": "NG020035_tsaure",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020035",
+      "level": 2,
+      "name": {
+        "local": "Shanono",
+        "en": "Shanono",
+        "slug": "shanono-ng020035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020035",
+        "level": 2,
+        "name": {
+          "local": "Shanono",
+          "en": "Shanono",
+          "slug": "shanono-ng020035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.087",
+      "lon": "7.929"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG033023_ban-ogoi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ban-ogoi",
+      "en": "Ban-ogoi",
+      "slug": "ban-ogoi"
+    },
+    "code": {
+      "id": "NG033023_ban-ogoi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033023",
+      "level": 2,
+      "name": {
+        "local": "Tai",
+        "en": "Tai",
+        "slug": "tai-ng033023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033023",
+        "level": 2,
+        "name": {
+          "local": "Tai",
+          "en": "Tai",
+          "slug": "tai-ng033023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.77",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033023_botemgbeneo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Botem/gbeneo",
+      "en": "Botem/gbeneo",
+      "slug": "botemgbeneo"
+    },
+    "code": {
+      "id": "NG033023_botemgbeneo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033023",
+      "level": 2,
+      "name": {
+        "local": "Tai",
+        "en": "Tai",
+        "slug": "tai-ng033023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033023",
+        "level": 2,
+        "name": {
+          "local": "Tai",
+          "en": "Tai",
+          "slug": "tai-ng033023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.77",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033023_bububarakani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bubu/bara/kani",
+      "en": "Bubu/bara/kani",
+      "slug": "bububarakani"
+    },
+    "code": {
+      "id": "NG033023_bububarakani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033023",
+      "level": 2,
+      "name": {
+        "local": "Tai",
+        "en": "Tai",
+        "slug": "tai-ng033023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033023",
+        "level": 2,
+        "name": {
+          "local": "Tai",
+          "en": "Tai",
+          "slug": "tai-ng033023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.77",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033023_giokporghorgbam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gio/kporghor/gbam",
+      "en": "Gio/kporghor/gbam",
+      "slug": "giokporghorgbam"
+    },
+    "code": {
+      "id": "NG033023_giokporghorgbam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033023",
+      "level": 2,
+      "name": {
+        "local": "Tai",
+        "en": "Tai",
+        "slug": "tai-ng033023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033023",
+        "level": 2,
+        "name": {
+          "local": "Tai",
+          "en": "Tai",
+          "slug": "tai-ng033023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.77",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033023_kiraborobara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kira/borobara",
+      "en": "Kira/borobara",
+      "slug": "kiraborobara"
+    },
+    "code": {
+      "id": "NG033023_kiraborobara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033023",
+      "level": 2,
+      "name": {
+        "local": "Tai",
+        "en": "Tai",
+        "slug": "tai-ng033023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033023",
+        "level": 2,
+        "name": {
+          "local": "Tai",
+          "en": "Tai",
+          "slug": "tai-ng033023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.77",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033023_korokoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Korokoro",
+      "en": "Korokoro",
+      "slug": "korokoro"
+    },
+    "code": {
+      "id": "NG033023_korokoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033023",
+      "level": 2,
+      "name": {
+        "local": "Tai",
+        "en": "Tai",
+        "slug": "tai-ng033023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033023",
+        "level": 2,
+        "name": {
+          "local": "Tai",
+          "en": "Tai",
+          "slug": "tai-ng033023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.77",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033023_koromahoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koroma/horo",
+      "en": "Koroma/horo",
+      "slug": "koromahoro"
+    },
+    "code": {
+      "id": "NG033023_koromahoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033023",
+      "level": 2,
+      "name": {
+        "local": "Tai",
+        "en": "Tai",
+        "slug": "tai-ng033023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033023",
+        "level": 2,
+        "name": {
+          "local": "Tai",
+          "en": "Tai",
+          "slug": "tai-ng033023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.77",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033023_kpite",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kpite",
+      "en": "Kpite",
+      "slug": "kpite"
+    },
+    "code": {
+      "id": "NG033023_kpite",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033023",
+      "level": 2,
+      "name": {
+        "local": "Tai",
+        "en": "Tai",
+        "slug": "tai-ng033023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033023",
+        "level": 2,
+        "name": {
+          "local": "Tai",
+          "en": "Tai",
+          "slug": "tai-ng033023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.77",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033023_nonwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nonwa",
+      "en": "Nonwa",
+      "slug": "nonwa"
+    },
+    "code": {
+      "id": "NG033023_nonwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033023",
+      "level": 2,
+      "name": {
+        "local": "Tai",
+        "en": "Tai",
+        "slug": "tai-ng033023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033023",
+        "level": 2,
+        "name": {
+          "local": "Tai",
+          "en": "Tai",
+          "slug": "tai-ng033023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.77",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033023_oyigbo-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oyigbo West",
+      "en": "Oyigbo West",
+      "slug": "oyigbo-west"
+    },
+    "code": {
+      "id": "NG033023_oyigbo-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033023",
+      "level": 2,
+      "name": {
+        "local": "Tai",
+        "en": "Tai",
+        "slug": "tai-ng033023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033023",
+        "level": 2,
+        "name": {
+          "local": "Tai",
+          "en": "Tai",
+          "slug": "tai-ng033023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.77",
+      "lon": "7.262"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

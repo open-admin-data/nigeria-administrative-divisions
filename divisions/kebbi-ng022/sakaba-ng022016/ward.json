@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG022016_adai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adai",
+      "en": "Adai",
+      "slug": "adai"
+    },
+    "code": {
+      "id": "NG022016_adai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022016",
+      "level": 2,
+      "name": {
+        "local": "Sakaba",
+        "en": "Sakaba",
+        "slug": "sakaba-ng022016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022016",
+        "level": 2,
+        "name": {
+          "local": "Sakaba",
+          "en": "Sakaba",
+          "slug": "sakaba-ng022016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.175",
+      "lon": "5.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022016_dankolo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dankolo",
+      "en": "Dankolo",
+      "slug": "dankolo"
+    },
+    "code": {
+      "id": "NG022016_dankolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022016",
+      "level": 2,
+      "name": {
+        "local": "Sakaba",
+        "en": "Sakaba",
+        "slug": "sakaba-ng022016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022016",
+        "level": 2,
+        "name": {
+          "local": "Sakaba",
+          "en": "Sakaba",
+          "slug": "sakaba-ng022016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.175",
+      "lon": "5.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022016_dokabere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doka/bere",
+      "en": "Doka/bere",
+      "slug": "dokabere"
+    },
+    "code": {
+      "id": "NG022016_dokabere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022016",
+      "level": 2,
+      "name": {
+        "local": "Sakaba",
+        "en": "Sakaba",
+        "slug": "sakaba-ng022016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022016",
+        "level": 2,
+        "name": {
+          "local": "Sakaba",
+          "en": "Sakaba",
+          "slug": "sakaba-ng022016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.175",
+      "lon": "5.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022016_fada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fada",
+      "en": "Fada",
+      "slug": "fada"
+    },
+    "code": {
+      "id": "NG022016_fada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022016",
+      "level": 2,
+      "name": {
+        "local": "Sakaba",
+        "en": "Sakaba",
+        "slug": "sakaba-ng022016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022016",
+        "level": 2,
+        "name": {
+          "local": "Sakaba",
+          "en": "Sakaba",
+          "slug": "sakaba-ng022016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.175",
+      "lon": "5.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022016_gelwasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gelwasa",
+      "en": "Gelwasa",
+      "slug": "gelwasa"
+    },
+    "code": {
+      "id": "NG022016_gelwasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022016",
+      "level": 2,
+      "name": {
+        "local": "Sakaba",
+        "en": "Sakaba",
+        "slug": "sakaba-ng022016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022016",
+        "level": 2,
+        "name": {
+          "local": "Sakaba",
+          "en": "Sakaba",
+          "slug": "sakaba-ng022016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.175",
+      "lon": "5.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022016_janbirni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Janbirni",
+      "en": "Janbirni",
+      "slug": "janbirni"
+    },
+    "code": {
+      "id": "NG022016_janbirni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022016",
+      "level": 2,
+      "name": {
+        "local": "Sakaba",
+        "en": "Sakaba",
+        "slug": "sakaba-ng022016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022016",
+        "level": 2,
+        "name": {
+          "local": "Sakaba",
+          "en": "Sakaba",
+          "slug": "sakaba-ng022016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.175",
+      "lon": "5.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022016_makuku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makuku",
+      "en": "Makuku",
+      "slug": "makuku"
+    },
+    "code": {
+      "id": "NG022016_makuku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022016",
+      "level": 2,
+      "name": {
+        "local": "Sakaba",
+        "en": "Sakaba",
+        "slug": "sakaba-ng022016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022016",
+        "level": 2,
+        "name": {
+          "local": "Sakaba",
+          "en": "Sakaba",
+          "slug": "sakaba-ng022016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.175",
+      "lon": "5.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022016_mazamaza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maza/maza",
+      "en": "Maza/maza",
+      "slug": "mazamaza"
+    },
+    "code": {
+      "id": "NG022016_mazamaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022016",
+      "level": 2,
+      "name": {
+        "local": "Sakaba",
+        "en": "Sakaba",
+        "slug": "sakaba-ng022016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022016",
+        "level": 2,
+        "name": {
+          "local": "Sakaba",
+          "en": "Sakaba",
+          "slug": "sakaba-ng022016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.175",
+      "lon": "5.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022016_sakaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sakaba",
+      "en": "Sakaba",
+      "slug": "sakaba"
+    },
+    "code": {
+      "id": "NG022016_sakaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022016",
+      "level": 2,
+      "name": {
+        "local": "Sakaba",
+        "en": "Sakaba",
+        "slug": "sakaba-ng022016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022016",
+        "level": 2,
+        "name": {
+          "local": "Sakaba",
+          "en": "Sakaba",
+          "slug": "sakaba-ng022016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.175",
+      "lon": "5.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022016_tudun-kuka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Kuka",
+      "en": "Tudun Kuka",
+      "slug": "tudun-kuka"
+    },
+    "code": {
+      "id": "NG022016_tudun-kuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022016",
+      "level": 2,
+      "name": {
+        "local": "Sakaba",
+        "en": "Sakaba",
+        "slug": "sakaba-ng022016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022016",
+        "level": 2,
+        "name": {
+          "local": "Sakaba",
+          "en": "Sakaba",
+          "slug": "sakaba-ng022016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.175",
+      "lon": "5.595"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

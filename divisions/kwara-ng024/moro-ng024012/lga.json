@@ -1,0 +1,47 @@
+{
+  "id": "NG024012",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Moro",
+    "en": "Moro",
+    "slug": "moro-ng024012"
+  },
+  "code": {
+    "id": "NG024012",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG024",
+    "level": 1,
+    "name": {
+      "local": "Kwara",
+      "en": "Kwara",
+      "slug": "kwara-ng024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG024",
+      "level": 1,
+      "name": {
+        "local": "Kwara",
+        "en": "Kwara",
+        "slug": "kwara-ng024"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.838",
+    "lon": "4.514"
+  },
+  "metadata": {},
+  "source": {}
+}

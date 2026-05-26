@@ -1,0 +1,47 @@
+{
+  "id": "NG007007",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Gwer East",
+    "en": "Gwer East",
+    "slug": "gwer-east-ng007007"
+  },
+  "code": {
+    "id": "NG007007",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG007",
+    "level": 1,
+    "name": {
+      "local": "Benue",
+      "en": "Benue",
+      "slug": "benue-ng007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG007",
+      "level": 1,
+      "name": {
+        "local": "Benue",
+        "en": "Benue",
+        "slug": "benue-ng007"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.376",
+    "lon": "8.383"
+  },
+  "metadata": {},
+  "source": {}
+}

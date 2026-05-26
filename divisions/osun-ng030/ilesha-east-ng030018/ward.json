@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG030018_biladu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Biladu",
+      "en": "Biladu",
+      "slug": "biladu"
+    },
+    "code": {
+      "id": "NG030018_biladu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030018",
+      "level": 2,
+      "name": {
+        "local": "Ilesha East",
+        "en": "Ilesha East",
+        "slug": "ilesha-east-ng030018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030018",
+        "level": 2,
+        "name": {
+          "local": "Ilesha East",
+          "en": "Ilesha East",
+          "slug": "ilesha-east-ng030018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.608",
+      "lon": "4.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030018_bolorunduro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bolorunduro",
+      "en": "Bolorunduro",
+      "slug": "bolorunduro"
+    },
+    "code": {
+      "id": "NG030018_bolorunduro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030018",
+      "level": 2,
+      "name": {
+        "local": "Ilesha East",
+        "en": "Ilesha East",
+        "slug": "ilesha-east-ng030018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030018",
+        "level": 2,
+        "name": {
+          "local": "Ilesha East",
+          "en": "Ilesha East",
+          "slug": "ilesha-east-ng030018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.608",
+      "lon": "4.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030018_ifosanoke-eso",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ifosan/oke-eso",
+      "en": "Ifosan/oke-eso",
+      "slug": "ifosanoke-eso"
+    },
+    "code": {
+      "id": "NG030018_ifosanoke-eso",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030018",
+      "level": 2,
+      "name": {
+        "local": "Ilesha East",
+        "en": "Ilesha East",
+        "slug": "ilesha-east-ng030018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030018",
+        "level": 2,
+        "name": {
+          "local": "Ilesha East",
+          "en": "Ilesha East",
+          "slug": "ilesha-east-ng030018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.608",
+      "lon": "4.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030018_ijamo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijamo",
+      "en": "Ijamo",
+      "slug": "ijamo"
+    },
+    "code": {
+      "id": "NG030018_ijamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030018",
+      "level": 2,
+      "name": {
+        "local": "Ilesha East",
+        "en": "Ilesha East",
+        "slug": "ilesha-east-ng030018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030018",
+        "level": 2,
+        "name": {
+          "local": "Ilesha East",
+          "en": "Ilesha East",
+          "slug": "ilesha-east-ng030018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.608",
+      "lon": "4.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030018_ilerin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilerin",
+      "en": "Ilerin",
+      "slug": "ilerin"
+    },
+    "code": {
+      "id": "NG030018_ilerin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030018",
+      "level": 2,
+      "name": {
+        "local": "Ilesha East",
+        "en": "Ilesha East",
+        "slug": "ilesha-east-ng030018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030018",
+        "level": 2,
+        "name": {
+          "local": "Ilesha East",
+          "en": "Ilesha East",
+          "slug": "ilesha-east-ng030018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.608",
+      "lon": "4.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030018_ilororoye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iloro/roye",
+      "en": "Iloro/roye",
+      "slug": "ilororoye"
+    },
+    "code": {
+      "id": "NG030018_ilororoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030018",
+      "level": 2,
+      "name": {
+        "local": "Ilesha East",
+        "en": "Ilesha East",
+        "slug": "ilesha-east-ng030018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030018",
+        "level": 2,
+        "name": {
+          "local": "Ilesha East",
+          "en": "Ilesha East",
+          "slug": "ilesha-east-ng030018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.608",
+      "lon": "4.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030018_imo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imo",
+      "en": "Imo",
+      "slug": "imo"
+    },
+    "code": {
+      "id": "NG030018_imo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030018",
+      "level": 2,
+      "name": {
+        "local": "Ilesha East",
+        "en": "Ilesha East",
+        "slug": "ilesha-east-ng030018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030018",
+        "level": 2,
+        "name": {
+          "local": "Ilesha East",
+          "en": "Ilesha East",
+          "slug": "ilesha-east-ng030018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.608",
+      "lon": "4.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030018_isare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isare",
+      "en": "Isare",
+      "slug": "isare"
+    },
+    "code": {
+      "id": "NG030018_isare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030018",
+      "level": 2,
+      "name": {
+        "local": "Ilesha East",
+        "en": "Ilesha East",
+        "slug": "ilesha-east-ng030018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030018",
+        "level": 2,
+        "name": {
+          "local": "Ilesha East",
+          "en": "Ilesha East",
+          "slug": "ilesha-east-ng030018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.608",
+      "lon": "4.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030018_itisinogudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Itisin/ogudu",
+      "en": "Itisin/ogudu",
+      "slug": "itisinogudu"
+    },
+    "code": {
+      "id": "NG030018_itisinogudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030018",
+      "level": 2,
+      "name": {
+        "local": "Ilesha East",
+        "en": "Ilesha East",
+        "slug": "ilesha-east-ng030018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030018",
+        "level": 2,
+        "name": {
+          "local": "Ilesha East",
+          "en": "Ilesha East",
+          "slug": "ilesha-east-ng030018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.608",
+      "lon": "4.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030018_okesa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okesa",
+      "en": "Okesa",
+      "slug": "okesa"
+    },
+    "code": {
+      "id": "NG030018_okesa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030018",
+      "level": 2,
+      "name": {
+        "local": "Ilesha East",
+        "en": "Ilesha East",
+        "slug": "ilesha-east-ng030018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030018",
+        "level": 2,
+        "name": {
+          "local": "Ilesha East",
+          "en": "Ilesha East",
+          "slug": "ilesha-east-ng030018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.608",
+      "lon": "4.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030018_upper-lower-ijoka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Upper & Lower Ijoka",
+      "en": "Upper & Lower Ijoka",
+      "slug": "upper-lower-ijoka"
+    },
+    "code": {
+      "id": "NG030018_upper-lower-ijoka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030018",
+      "level": 2,
+      "name": {
+        "local": "Ilesha East",
+        "en": "Ilesha East",
+        "slug": "ilesha-east-ng030018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030018",
+        "level": 2,
+        "name": {
+          "local": "Ilesha East",
+          "en": "Ilesha East",
+          "slug": "ilesha-east-ng030018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.608",
+      "lon": "4.761"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

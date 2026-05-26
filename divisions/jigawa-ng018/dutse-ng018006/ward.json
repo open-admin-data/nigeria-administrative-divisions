@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018006_abaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abaya",
+      "en": "Abaya",
+      "slug": "abaya"
+    },
+    "code": {
+      "id": "NG018006_abaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018006",
+      "level": 2,
+      "name": {
+        "local": "Dutse",
+        "en": "Dutse",
+        "slug": "dutse-ng018006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018006",
+        "level": 2,
+        "name": {
+          "local": "Dutse",
+          "en": "Dutse",
+          "slug": "dutse-ng018006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "9.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018006_chamo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chamo",
+      "en": "Chamo",
+      "slug": "chamo"
+    },
+    "code": {
+      "id": "NG018006_chamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018006",
+      "level": 2,
+      "name": {
+        "local": "Dutse",
+        "en": "Dutse",
+        "slug": "dutse-ng018006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018006",
+        "level": 2,
+        "name": {
+          "local": "Dutse",
+          "en": "Dutse",
+          "slug": "dutse-ng018006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "9.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018006_dundubus",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dundubus",
+      "en": "Dundubus",
+      "slug": "dundubus"
+    },
+    "code": {
+      "id": "NG018006_dundubus",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018006",
+      "level": 2,
+      "name": {
+        "local": "Dutse",
+        "en": "Dutse",
+        "slug": "dutse-ng018006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018006",
+        "level": 2,
+        "name": {
+          "local": "Dutse",
+          "en": "Dutse",
+          "slug": "dutse-ng018006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "9.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018006_duru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Duru",
+      "en": "Duru",
+      "slug": "duru"
+    },
+    "code": {
+      "id": "NG018006_duru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018006",
+      "level": 2,
+      "name": {
+        "local": "Dutse",
+        "en": "Dutse",
+        "slug": "dutse-ng018006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018006",
+        "level": 2,
+        "name": {
+          "local": "Dutse",
+          "en": "Dutse",
+          "slug": "dutse-ng018006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "9.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018006_jigawar-tsada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jigawar Tsada",
+      "en": "Jigawar Tsada",
+      "slug": "jigawar-tsada"
+    },
+    "code": {
+      "id": "NG018006_jigawar-tsada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018006",
+      "level": 2,
+      "name": {
+        "local": "Dutse",
+        "en": "Dutse",
+        "slug": "dutse-ng018006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018006",
+        "level": 2,
+        "name": {
+          "local": "Dutse",
+          "en": "Dutse",
+          "slug": "dutse-ng018006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "9.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018006_kachi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kachi",
+      "en": "Kachi",
+      "slug": "kachi"
+    },
+    "code": {
+      "id": "NG018006_kachi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018006",
+      "level": 2,
+      "name": {
+        "local": "Dutse",
+        "en": "Dutse",
+        "slug": "dutse-ng018006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018006",
+        "level": 2,
+        "name": {
+          "local": "Dutse",
+          "en": "Dutse",
+          "slug": "dutse-ng018006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "9.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018006_karnaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karnaya",
+      "en": "Karnaya",
+      "slug": "karnaya"
+    },
+    "code": {
+      "id": "NG018006_karnaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018006",
+      "level": 2,
+      "name": {
+        "local": "Dutse",
+        "en": "Dutse",
+        "slug": "dutse-ng018006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018006",
+        "level": 2,
+        "name": {
+          "local": "Dutse",
+          "en": "Dutse",
+          "slug": "dutse-ng018006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "9.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018006_kudai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kudai",
+      "en": "Kudai",
+      "slug": "kudai"
+    },
+    "code": {
+      "id": "NG018006_kudai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018006",
+      "level": 2,
+      "name": {
+        "local": "Dutse",
+        "en": "Dutse",
+        "slug": "dutse-ng018006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018006",
+        "level": 2,
+        "name": {
+          "local": "Dutse",
+          "en": "Dutse",
+          "slug": "dutse-ng018006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "9.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018006_limawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Limawa",
+      "en": "Limawa",
+      "slug": "limawa"
+    },
+    "code": {
+      "id": "NG018006_limawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018006",
+      "level": 2,
+      "name": {
+        "local": "Dutse",
+        "en": "Dutse",
+        "slug": "dutse-ng018006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018006",
+        "level": 2,
+        "name": {
+          "local": "Dutse",
+          "en": "Dutse",
+          "slug": "dutse-ng018006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "9.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018006_madobi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madobi",
+      "en": "Madobi",
+      "slug": "madobi"
+    },
+    "code": {
+      "id": "NG018006_madobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018006",
+      "level": 2,
+      "name": {
+        "local": "Dutse",
+        "en": "Dutse",
+        "slug": "dutse-ng018006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018006",
+        "level": 2,
+        "name": {
+          "local": "Dutse",
+          "en": "Dutse",
+          "slug": "dutse-ng018006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "9.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018006_sakwaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sakwaya",
+      "en": "Sakwaya",
+      "slug": "sakwaya"
+    },
+    "code": {
+      "id": "NG018006_sakwaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018006",
+      "level": 2,
+      "name": {
+        "local": "Dutse",
+        "en": "Dutse",
+        "slug": "dutse-ng018006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018006",
+        "level": 2,
+        "name": {
+          "local": "Dutse",
+          "en": "Dutse",
+          "slug": "dutse-ng018006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "9.258"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

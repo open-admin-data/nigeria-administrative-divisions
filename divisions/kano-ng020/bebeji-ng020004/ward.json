@@ -1,0 +1,758 @@
+[
+  {
+    "id": "NG020004_anadariya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Anadariya",
+      "en": "Anadariya",
+      "slug": "anadariya"
+    },
+    "code": {
+      "id": "NG020004_anadariya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_baguda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baguda",
+      "en": "Baguda",
+      "slug": "baguda"
+    },
+    "code": {
+      "id": "NG020004_baguda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_bebeji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bebeji",
+      "en": "Bebeji",
+      "slug": "bebeji"
+    },
+    "code": {
+      "id": "NG020004_bebeji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_damau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damau",
+      "en": "Damau",
+      "slug": "damau"
+    },
+    "code": {
+      "id": "NG020004_damau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_durmawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Durmawa",
+      "en": "Durmawa",
+      "slug": "durmawa"
+    },
+    "code": {
+      "id": "NG020004_durmawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_gargai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gargai",
+      "en": "Gargai",
+      "slug": "gargai"
+    },
+    "code": {
+      "id": "NG020004_gargai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_gwarmai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwarmai",
+      "en": "Gwarmai",
+      "slug": "gwarmai"
+    },
+    "code": {
+      "id": "NG020004_gwarmai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_kofa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kofa",
+      "en": "Kofa",
+      "slug": "kofa"
+    },
+    "code": {
+      "id": "NG020004_kofa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_kuki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuki",
+      "en": "Kuki",
+      "slug": "kuki"
+    },
+    "code": {
+      "id": "NG020004_kuki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_rahama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rahama",
+      "en": "Rahama",
+      "slug": "rahama"
+    },
+    "code": {
+      "id": "NG020004_rahama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_ranka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ranka",
+      "en": "Ranka",
+      "slug": "ranka"
+    },
+    "code": {
+      "id": "NG020004_ranka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_rantan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rantan",
+      "en": "Rantan",
+      "slug": "rantan"
+    },
+    "code": {
+      "id": "NG020004_rantan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_tariwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tariwa",
+      "en": "Tariwa",
+      "slug": "tariwa"
+    },
+    "code": {
+      "id": "NG020004_tariwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020004_wak",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wak",
+      "en": "Wak",
+      "slug": "wak"
+    },
+    "code": {
+      "id": "NG020004_wak",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020004",
+      "level": 2,
+      "name": {
+        "local": "Bebeji",
+        "en": "Bebeji",
+        "slug": "bebeji-ng020004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020004",
+        "level": 2,
+        "name": {
+          "local": "Bebeji",
+          "en": "Bebeji",
+          "slug": "bebeji-ng020004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.526",
+      "lon": "8.328"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

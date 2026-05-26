@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG015006_ashara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ashara",
+      "en": "Ashara",
+      "slug": "ashara"
+    },
+    "code": {
+      "id": "NG015006_ashara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015006",
+      "level": 2,
+      "name": {
+        "local": "Kwali",
+        "en": "Kwali",
+        "slug": "kwali-ng015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015006",
+        "level": 2,
+        "name": {
+          "local": "Kwali",
+          "en": "Kwali",
+          "slug": "kwali-ng015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "6.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015006_dafa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dafa",
+      "en": "Dafa",
+      "slug": "dafa"
+    },
+    "code": {
+      "id": "NG015006_dafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015006",
+      "level": 2,
+      "name": {
+        "local": "Kwali",
+        "en": "Kwali",
+        "slug": "kwali-ng015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015006",
+        "level": 2,
+        "name": {
+          "local": "Kwali",
+          "en": "Kwali",
+          "slug": "kwali-ng015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "6.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015006_gumbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gumbo",
+      "en": "Gumbo",
+      "slug": "gumbo"
+    },
+    "code": {
+      "id": "NG015006_gumbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015006",
+      "level": 2,
+      "name": {
+        "local": "Kwali",
+        "en": "Kwali",
+        "slug": "kwali-ng015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015006",
+        "level": 2,
+        "name": {
+          "local": "Kwali",
+          "en": "Kwali",
+          "slug": "kwali-ng015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "6.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015006_kilankwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kilankwa",
+      "en": "Kilankwa",
+      "slug": "kilankwa"
+    },
+    "code": {
+      "id": "NG015006_kilankwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015006",
+      "level": 2,
+      "name": {
+        "local": "Kwali",
+        "en": "Kwali",
+        "slug": "kwali-ng015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015006",
+        "level": 2,
+        "name": {
+          "local": "Kwali",
+          "en": "Kwali",
+          "slug": "kwali-ng015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "6.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015006_kundu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kundu",
+      "en": "Kundu",
+      "slug": "kundu"
+    },
+    "code": {
+      "id": "NG015006_kundu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015006",
+      "level": 2,
+      "name": {
+        "local": "Kwali",
+        "en": "Kwali",
+        "slug": "kwali-ng015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015006",
+        "level": 2,
+        "name": {
+          "local": "Kwali",
+          "en": "Kwali",
+          "slug": "kwali-ng015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "6.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015006_kwali-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwali Ward",
+      "en": "Kwali Ward",
+      "slug": "kwali-ward"
+    },
+    "code": {
+      "id": "NG015006_kwali-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015006",
+      "level": 2,
+      "name": {
+        "local": "Kwali",
+        "en": "Kwali",
+        "slug": "kwali-ng015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015006",
+        "level": 2,
+        "name": {
+          "local": "Kwali",
+          "en": "Kwali",
+          "slug": "kwali-ng015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "6.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015006_pai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pai",
+      "en": "Pai",
+      "slug": "pai"
+    },
+    "code": {
+      "id": "NG015006_pai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015006",
+      "level": 2,
+      "name": {
+        "local": "Kwali",
+        "en": "Kwali",
+        "slug": "kwali-ng015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015006",
+        "level": 2,
+        "name": {
+          "local": "Kwali",
+          "en": "Kwali",
+          "slug": "kwali-ng015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "6.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015006_wako",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wako",
+      "en": "Wako",
+      "slug": "wako"
+    },
+    "code": {
+      "id": "NG015006_wako",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015006",
+      "level": 2,
+      "name": {
+        "local": "Kwali",
+        "en": "Kwali",
+        "slug": "kwali-ng015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015006",
+        "level": 2,
+        "name": {
+          "local": "Kwali",
+          "en": "Kwali",
+          "slug": "kwali-ng015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "6.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015006_yangoji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yangoji",
+      "en": "Yangoji",
+      "slug": "yangoji"
+    },
+    "code": {
+      "id": "NG015006_yangoji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015006",
+      "level": 2,
+      "name": {
+        "local": "Kwali",
+        "en": "Kwali",
+        "slug": "kwali-ng015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015006",
+        "level": 2,
+        "name": {
+          "local": "Kwali",
+          "en": "Kwali",
+          "slug": "kwali-ng015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "6.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG015006_yebu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yebu",
+      "en": "Yebu",
+      "slug": "yebu"
+    },
+    "code": {
+      "id": "NG015006_yebu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG015006",
+      "level": 2,
+      "name": {
+        "local": "Kwali",
+        "en": "Kwali",
+        "slug": "kwali-ng015006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG015",
+        "level": 1,
+        "name": {
+          "local": "Federal Capital Territory",
+          "en": "Federal Capital Territory",
+          "slug": "federal-capital-territory-ng015"
+        }
+      },
+      {
+        "id": "NG015006",
+        "level": 2,
+        "name": {
+          "local": "Kwali",
+          "en": "Kwali",
+          "slug": "kwali-ng015006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "6.963"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

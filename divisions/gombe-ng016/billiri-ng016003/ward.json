@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG016003_baganje-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baganje North",
+      "en": "Baganje North",
+      "slug": "baganje-north"
+    },
+    "code": {
+      "id": "NG016003_baganje-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016003",
+      "level": 2,
+      "name": {
+        "local": "Billiri",
+        "en": "Billiri",
+        "slug": "billiri-ng016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016003",
+        "level": 2,
+        "name": {
+          "local": "Billiri",
+          "en": "Billiri",
+          "slug": "billiri-ng016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "11.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016003_baganje-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baganje South",
+      "en": "Baganje South",
+      "slug": "baganje-south"
+    },
+    "code": {
+      "id": "NG016003_baganje-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016003",
+      "level": 2,
+      "name": {
+        "local": "Billiri",
+        "en": "Billiri",
+        "slug": "billiri-ng016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016003",
+        "level": 2,
+        "name": {
+          "local": "Billiri",
+          "en": "Billiri",
+          "slug": "billiri-ng016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "11.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016003_bare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bare",
+      "en": "Bare",
+      "slug": "bare"
+    },
+    "code": {
+      "id": "NG016003_bare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016003",
+      "level": 2,
+      "name": {
+        "local": "Billiri",
+        "en": "Billiri",
+        "slug": "billiri-ng016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016003",
+        "level": 2,
+        "name": {
+          "local": "Billiri",
+          "en": "Billiri",
+          "slug": "billiri-ng016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "11.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016003_billiri-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Billiri North",
+      "en": "Billiri North",
+      "slug": "billiri-north"
+    },
+    "code": {
+      "id": "NG016003_billiri-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016003",
+      "level": 2,
+      "name": {
+        "local": "Billiri",
+        "en": "Billiri",
+        "slug": "billiri-ng016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016003",
+        "level": 2,
+        "name": {
+          "local": "Billiri",
+          "en": "Billiri",
+          "slug": "billiri-ng016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "11.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016003_billiri-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Billiri South",
+      "en": "Billiri South",
+      "slug": "billiri-south"
+    },
+    "code": {
+      "id": "NG016003_billiri-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016003",
+      "level": 2,
+      "name": {
+        "local": "Billiri",
+        "en": "Billiri",
+        "slug": "billiri-ng016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016003",
+        "level": 2,
+        "name": {
+          "local": "Billiri",
+          "en": "Billiri",
+          "slug": "billiri-ng016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "11.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016003_kalmai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kalmai",
+      "en": "Kalmai",
+      "slug": "kalmai"
+    },
+    "code": {
+      "id": "NG016003_kalmai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016003",
+      "level": 2,
+      "name": {
+        "local": "Billiri",
+        "en": "Billiri",
+        "slug": "billiri-ng016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016003",
+        "level": 2,
+        "name": {
+          "local": "Billiri",
+          "en": "Billiri",
+          "slug": "billiri-ng016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "11.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016003_tal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tal",
+      "en": "Tal",
+      "slug": "tal"
+    },
+    "code": {
+      "id": "NG016003_tal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016003",
+      "level": 2,
+      "name": {
+        "local": "Billiri",
+        "en": "Billiri",
+        "slug": "billiri-ng016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016003",
+        "level": 2,
+        "name": {
+          "local": "Billiri",
+          "en": "Billiri",
+          "slug": "billiri-ng016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "11.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016003_tanglang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tanglang",
+      "en": "Tanglang",
+      "slug": "tanglang"
+    },
+    "code": {
+      "id": "NG016003_tanglang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016003",
+      "level": 2,
+      "name": {
+        "local": "Billiri",
+        "en": "Billiri",
+        "slug": "billiri-ng016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016003",
+        "level": 2,
+        "name": {
+          "local": "Billiri",
+          "en": "Billiri",
+          "slug": "billiri-ng016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "11.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016003_todi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Todi",
+      "en": "Todi",
+      "slug": "todi"
+    },
+    "code": {
+      "id": "NG016003_todi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016003",
+      "level": 2,
+      "name": {
+        "local": "Billiri",
+        "en": "Billiri",
+        "slug": "billiri-ng016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016003",
+        "level": 2,
+        "name": {
+          "local": "Billiri",
+          "en": "Billiri",
+          "slug": "billiri-ng016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "11.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016003_tudu-kwaya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudu Kwaya",
+      "en": "Tudu Kwaya",
+      "slug": "tudu-kwaya"
+    },
+    "code": {
+      "id": "NG016003_tudu-kwaya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016003",
+      "level": 2,
+      "name": {
+        "local": "Billiri",
+        "en": "Billiri",
+        "slug": "billiri-ng016003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016003",
+        "level": 2,
+        "name": {
+          "local": "Billiri",
+          "en": "Billiri",
+          "slug": "billiri-ng016003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.842",
+      "lon": "11.127"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

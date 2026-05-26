@@ -1,0 +1,47 @@
+{
+  "id": "NG004015",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Nnewi South",
+    "en": "Nnewi South",
+    "slug": "nnewi-south-ng004015"
+  },
+  "code": {
+    "id": "NG004015",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG004",
+    "level": 1,
+    "name": {
+      "local": "Anambra",
+      "en": "Anambra",
+      "slug": "anambra-ng004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.958",
+    "lon": "6.977"
+  },
+  "metadata": {},
+  "source": {}
+}

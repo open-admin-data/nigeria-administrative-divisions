@@ -1,0 +1,47 @@
+{
+  "id": "NG033015",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Obia/Akpor",
+    "en": "Obia/Akpor",
+    "slug": "obiaakpor-ng033015"
+  },
+  "code": {
+    "id": "NG033015",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG033",
+    "level": 1,
+    "name": {
+      "local": "Rivers",
+      "en": "Rivers",
+      "slug": "rivers-ng033"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG033",
+      "level": 1,
+      "name": {
+        "local": "Rivers",
+        "en": "Rivers",
+        "slug": "rivers-ng033"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.862",
+    "lon": "7.022"
+  },
+  "metadata": {},
+  "source": {}
+}

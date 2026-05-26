@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG034013_gangara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gangara",
+      "en": "Gangara",
+      "slug": "gangara"
+    },
+    "code": {
+      "id": "NG034013_gangara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034013",
+      "level": 2,
+      "name": {
+        "local": "Sabon Birni",
+        "en": "Sabon Birni",
+        "slug": "sabon-birni-ng034013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034013",
+        "level": 2,
+        "name": {
+          "local": "Sabon Birni",
+          "en": "Sabon Birni",
+          "slug": "sabon-birni-ng034013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "6.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034013_gatawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gatawa",
+      "en": "Gatawa",
+      "slug": "gatawa"
+    },
+    "code": {
+      "id": "NG034013_gatawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034013",
+      "level": 2,
+      "name": {
+        "local": "Sabon Birni",
+        "en": "Sabon Birni",
+        "slug": "sabon-birni-ng034013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034013",
+        "level": 2,
+        "name": {
+          "local": "Sabon Birni",
+          "en": "Sabon Birni",
+          "slug": "sabon-birni-ng034013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "6.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034013_kalgo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kalgo",
+      "en": "Kalgo",
+      "slug": "kalgo"
+    },
+    "code": {
+      "id": "NG034013_kalgo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034013",
+      "level": 2,
+      "name": {
+        "local": "Sabon Birni",
+        "en": "Sabon Birni",
+        "slug": "sabon-birni-ng034013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034013",
+        "level": 2,
+        "name": {
+          "local": "Sabon Birni",
+          "en": "Sabon Birni",
+          "slug": "sabon-birni-ng034013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "6.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034013_kurawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurawa",
+      "en": "Kurawa",
+      "slug": "kurawa"
+    },
+    "code": {
+      "id": "NG034013_kurawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034013",
+      "level": 2,
+      "name": {
+        "local": "Sabon Birni",
+        "en": "Sabon Birni",
+        "slug": "sabon-birni-ng034013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034013",
+        "level": 2,
+        "name": {
+          "local": "Sabon Birni",
+          "en": "Sabon Birni",
+          "slug": "sabon-birni-ng034013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "6.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034013_lajinge",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lajinge",
+      "en": "Lajinge",
+      "slug": "lajinge"
+    },
+    "code": {
+      "id": "NG034013_lajinge",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034013",
+      "level": 2,
+      "name": {
+        "local": "Sabon Birni",
+        "en": "Sabon Birni",
+        "slug": "sabon-birni-ng034013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034013",
+        "level": 2,
+        "name": {
+          "local": "Sabon Birni",
+          "en": "Sabon Birni",
+          "slug": "sabon-birni-ng034013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "6.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034013_makuwana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makuwana",
+      "en": "Makuwana",
+      "slug": "makuwana"
+    },
+    "code": {
+      "id": "NG034013_makuwana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034013",
+      "level": 2,
+      "name": {
+        "local": "Sabon Birni",
+        "en": "Sabon Birni",
+        "slug": "sabon-birni-ng034013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034013",
+        "level": 2,
+        "name": {
+          "local": "Sabon Birni",
+          "en": "Sabon Birni",
+          "slug": "sabon-birni-ng034013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "6.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034013_sbirni-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S/birni East",
+      "en": "S/birni East",
+      "slug": "sbirni-east"
+    },
+    "code": {
+      "id": "NG034013_sbirni-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034013",
+      "level": 2,
+      "name": {
+        "local": "Sabon Birni",
+        "en": "Sabon Birni",
+        "slug": "sabon-birni-ng034013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034013",
+        "level": 2,
+        "name": {
+          "local": "Sabon Birni",
+          "en": "Sabon Birni",
+          "slug": "sabon-birni-ng034013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "6.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034013_sbirni-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "S/birni West",
+      "en": "S/birni West",
+      "slug": "sbirni-west"
+    },
+    "code": {
+      "id": "NG034013_sbirni-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034013",
+      "level": 2,
+      "name": {
+        "local": "Sabon Birni",
+        "en": "Sabon Birni",
+        "slug": "sabon-birni-ng034013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034013",
+        "level": 2,
+        "name": {
+          "local": "Sabon Birni",
+          "en": "Sabon Birni",
+          "slug": "sabon-birni-ng034013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "6.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034013_tara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tara",
+      "en": "Tara",
+      "slug": "tara"
+    },
+    "code": {
+      "id": "NG034013_tara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034013",
+      "level": 2,
+      "name": {
+        "local": "Sabon Birni",
+        "en": "Sabon Birni",
+        "slug": "sabon-birni-ng034013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034013",
+        "level": 2,
+        "name": {
+          "local": "Sabon Birni",
+          "en": "Sabon Birni",
+          "slug": "sabon-birni-ng034013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "6.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034013_tsamaye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsamaye",
+      "en": "Tsamaye",
+      "slug": "tsamaye"
+    },
+    "code": {
+      "id": "NG034013_tsamaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034013",
+      "level": 2,
+      "name": {
+        "local": "Sabon Birni",
+        "en": "Sabon Birni",
+        "slug": "sabon-birni-ng034013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034013",
+        "level": 2,
+        "name": {
+          "local": "Sabon Birni",
+          "en": "Sabon Birni",
+          "slug": "sabon-birni-ng034013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "6.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034013_unguwar-lalle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Lalle",
+      "en": "Unguwar Lalle",
+      "slug": "unguwar-lalle"
+    },
+    "code": {
+      "id": "NG034013_unguwar-lalle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034013",
+      "level": 2,
+      "name": {
+        "local": "Sabon Birni",
+        "en": "Sabon Birni",
+        "slug": "sabon-birni-ng034013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034013",
+        "level": 2,
+        "name": {
+          "local": "Sabon Birni",
+          "en": "Sabon Birni",
+          "slug": "sabon-birni-ng034013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.494",
+      "lon": "6.25"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

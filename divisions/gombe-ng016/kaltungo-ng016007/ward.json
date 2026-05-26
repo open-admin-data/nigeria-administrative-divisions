@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG016007_awak",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awak",
+      "en": "Awak",
+      "slug": "awak"
+    },
+    "code": {
+      "id": "NG016007_awak",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016007",
+      "level": 2,
+      "name": {
+        "local": "Kaltungo",
+        "en": "Kaltungo",
+        "slug": "kaltungo-ng016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016007",
+        "level": 2,
+        "name": {
+          "local": "Kaltungo",
+          "en": "Kaltungo",
+          "slug": "kaltungo-ng016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.841",
+      "lon": "11.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016007_bule-kaltin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bule / Kaltin",
+      "en": "Bule / Kaltin",
+      "slug": "bule-kaltin"
+    },
+    "code": {
+      "id": "NG016007_bule-kaltin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016007",
+      "level": 2,
+      "name": {
+        "local": "Kaltungo",
+        "en": "Kaltungo",
+        "slug": "kaltungo-ng016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016007",
+        "level": 2,
+        "name": {
+          "local": "Kaltungo",
+          "en": "Kaltungo",
+          "slug": "kaltungo-ng016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.841",
+      "lon": "11.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016007_kaltungo-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaltungo East",
+      "en": "Kaltungo East",
+      "slug": "kaltungo-east"
+    },
+    "code": {
+      "id": "NG016007_kaltungo-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016007",
+      "level": 2,
+      "name": {
+        "local": "Kaltungo",
+        "en": "Kaltungo",
+        "slug": "kaltungo-ng016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016007",
+        "level": 2,
+        "name": {
+          "local": "Kaltungo",
+          "en": "Kaltungo",
+          "slug": "kaltungo-ng016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.841",
+      "lon": "11.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016007_kaltungo-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaltungo West",
+      "en": "Kaltungo West",
+      "slug": "kaltungo-west"
+    },
+    "code": {
+      "id": "NG016007_kaltungo-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016007",
+      "level": 2,
+      "name": {
+        "local": "Kaltungo",
+        "en": "Kaltungo",
+        "slug": "kaltungo-ng016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016007",
+        "level": 2,
+        "name": {
+          "local": "Kaltungo",
+          "en": "Kaltungo",
+          "slug": "kaltungo-ng016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.841",
+      "lon": "11.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016007_kamo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kamo",
+      "en": "Kamo",
+      "slug": "kamo"
+    },
+    "code": {
+      "id": "NG016007_kamo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016007",
+      "level": 2,
+      "name": {
+        "local": "Kaltungo",
+        "en": "Kaltungo",
+        "slug": "kaltungo-ng016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016007",
+        "level": 2,
+        "name": {
+          "local": "Kaltungo",
+          "en": "Kaltungo",
+          "slug": "kaltungo-ng016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.841",
+      "lon": "11.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016007_tula---yiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tula - Yiri",
+      "en": "Tula - Yiri",
+      "slug": "tula---yiri"
+    },
+    "code": {
+      "id": "NG016007_tula---yiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016007",
+      "level": 2,
+      "name": {
+        "local": "Kaltungo",
+        "en": "Kaltungo",
+        "slug": "kaltungo-ng016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016007",
+        "level": 2,
+        "name": {
+          "local": "Kaltungo",
+          "en": "Kaltungo",
+          "slug": "kaltungo-ng016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.841",
+      "lon": "11.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016007_tula-baule",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tula Baule",
+      "en": "Tula Baule",
+      "slug": "tula-baule"
+    },
+    "code": {
+      "id": "NG016007_tula-baule",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016007",
+      "level": 2,
+      "name": {
+        "local": "Kaltungo",
+        "en": "Kaltungo",
+        "slug": "kaltungo-ng016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016007",
+        "level": 2,
+        "name": {
+          "local": "Kaltungo",
+          "en": "Kaltungo",
+          "slug": "kaltungo-ng016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.841",
+      "lon": "11.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016007_tula-wange",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tula Wange",
+      "en": "Tula Wange",
+      "slug": "tula-wange"
+    },
+    "code": {
+      "id": "NG016007_tula-wange",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016007",
+      "level": 2,
+      "name": {
+        "local": "Kaltungo",
+        "en": "Kaltungo",
+        "slug": "kaltungo-ng016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016007",
+        "level": 2,
+        "name": {
+          "local": "Kaltungo",
+          "en": "Kaltungo",
+          "slug": "kaltungo-ng016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.841",
+      "lon": "11.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016007_tungo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tungo",
+      "en": "Tungo",
+      "slug": "tungo"
+    },
+    "code": {
+      "id": "NG016007_tungo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016007",
+      "level": 2,
+      "name": {
+        "local": "Kaltungo",
+        "en": "Kaltungo",
+        "slug": "kaltungo-ng016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016007",
+        "level": 2,
+        "name": {
+          "local": "Kaltungo",
+          "en": "Kaltungo",
+          "slug": "kaltungo-ng016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.841",
+      "lon": "11.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016007_ture",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ture",
+      "en": "Ture",
+      "slug": "ture"
+    },
+    "code": {
+      "id": "NG016007_ture",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016007",
+      "level": 2,
+      "name": {
+        "local": "Kaltungo",
+        "en": "Kaltungo",
+        "slug": "kaltungo-ng016007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016007",
+        "level": 2,
+        "name": {
+          "local": "Kaltungo",
+          "en": "Kaltungo",
+          "slug": "kaltungo-ng016007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.841",
+      "lon": "11.432"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

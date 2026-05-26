@@ -1,0 +1,47 @@
+{
+  "id": "NG031013",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ibarapa North",
+    "en": "Ibarapa North",
+    "slug": "ibarapa-north-ng031013"
+  },
+  "code": {
+    "id": "NG031013",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG031",
+    "level": 1,
+    "name": {
+      "local": "Oyo",
+      "en": "Oyo",
+      "slug": "oyo-ng031"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG031",
+      "level": 1,
+      "name": {
+        "local": "Oyo",
+        "en": "Oyo",
+        "slug": "oyo-ng031"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.675",
+    "lon": "3.156"
+  },
+  "metadata": {},
+  "source": {}
+}

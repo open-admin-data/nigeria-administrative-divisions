@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG034004_dukamajeilah",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dukamaje/ilah",
+      "en": "Dukamaje/ilah",
+      "slug": "dukamajeilah"
+    },
+    "code": {
+      "id": "NG034004_dukamajeilah",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034004",
+      "level": 2,
+      "name": {
+        "local": "Gada",
+        "en": "Gada",
+        "slug": "gada-ng034004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034004",
+        "level": 2,
+        "name": {
+          "local": "Gada",
+          "en": "Gada",
+          "slug": "gada-ng034004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.679",
+      "lon": "5.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034004_gada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gada",
+      "en": "Gada",
+      "slug": "gada"
+    },
+    "code": {
+      "id": "NG034004_gada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034004",
+      "level": 2,
+      "name": {
+        "local": "Gada",
+        "en": "Gada",
+        "slug": "gada-ng034004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034004",
+        "level": 2,
+        "name": {
+          "local": "Gada",
+          "en": "Gada",
+          "slug": "gada-ng034004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.679",
+      "lon": "5.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034004_gilbadi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gilbadi",
+      "en": "Gilbadi",
+      "slug": "gilbadi"
+    },
+    "code": {
+      "id": "NG034004_gilbadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034004",
+      "level": 2,
+      "name": {
+        "local": "Gada",
+        "en": "Gada",
+        "slug": "gada-ng034004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034004",
+        "level": 2,
+        "name": {
+          "local": "Gada",
+          "en": "Gada",
+          "slug": "gada-ng034004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.679",
+      "lon": "5.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034004_kadadin-buda-kaddi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadadin Buda (kaddi)",
+      "en": "Kadadin Buda (kaddi)",
+      "slug": "kadadin-buda-kaddi"
+    },
+    "code": {
+      "id": "NG034004_kadadin-buda-kaddi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034004",
+      "level": 2,
+      "name": {
+        "local": "Gada",
+        "en": "Gada",
+        "slug": "gada-ng034004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034004",
+        "level": 2,
+        "name": {
+          "local": "Gada",
+          "en": "Gada",
+          "slug": "gada-ng034004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.679",
+      "lon": "5.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034004_kadassaka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadassaka",
+      "en": "Kadassaka",
+      "slug": "kadassaka"
+    },
+    "code": {
+      "id": "NG034004_kadassaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034004",
+      "level": 2,
+      "name": {
+        "local": "Gada",
+        "en": "Gada",
+        "slug": "gada-ng034004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034004",
+        "level": 2,
+        "name": {
+          "local": "Gada",
+          "en": "Gada",
+          "slug": "gada-ng034004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.679",
+      "lon": "5.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034004_kaddi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaddi",
+      "en": "Kaddi",
+      "slug": "kaddi"
+    },
+    "code": {
+      "id": "NG034004_kaddi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034004",
+      "level": 2,
+      "name": {
+        "local": "Gada",
+        "en": "Gada",
+        "slug": "gada-ng034004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034004",
+        "level": 2,
+        "name": {
+          "local": "Gada",
+          "en": "Gada",
+          "slug": "gada-ng034004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.679",
+      "lon": "5.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034004_kaffe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaffe",
+      "en": "Kaffe",
+      "slug": "kaffe"
+    },
+    "code": {
+      "id": "NG034004_kaffe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034004",
+      "level": 2,
+      "name": {
+        "local": "Gada",
+        "en": "Gada",
+        "slug": "gada-ng034004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034004",
+        "level": 2,
+        "name": {
+          "local": "Gada",
+          "en": "Gada",
+          "slug": "gada-ng034004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.679",
+      "lon": "5.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034004_kiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kiri",
+      "en": "Kiri",
+      "slug": "kiri"
+    },
+    "code": {
+      "id": "NG034004_kiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034004",
+      "level": 2,
+      "name": {
+        "local": "Gada",
+        "en": "Gada",
+        "slug": "gada-ng034004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034004",
+        "level": 2,
+        "name": {
+          "local": "Gada",
+          "en": "Gada",
+          "slug": "gada-ng034004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.679",
+      "lon": "5.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034004_kwarma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwarma",
+      "en": "Kwarma",
+      "slug": "kwarma"
+    },
+    "code": {
+      "id": "NG034004_kwarma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034004",
+      "level": 2,
+      "name": {
+        "local": "Gada",
+        "en": "Gada",
+        "slug": "gada-ng034004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034004",
+        "level": 2,
+        "name": {
+          "local": "Gada",
+          "en": "Gada",
+          "slug": "gada-ng034004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.679",
+      "lon": "5.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034004_kyadawaholai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kyadawa/holai",
+      "en": "Kyadawa/holai",
+      "slug": "kyadawaholai"
+    },
+    "code": {
+      "id": "NG034004_kyadawaholai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034004",
+      "level": 2,
+      "name": {
+        "local": "Gada",
+        "en": "Gada",
+        "slug": "gada-ng034004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034004",
+        "level": 2,
+        "name": {
+          "local": "Gada",
+          "en": "Gada",
+          "slug": "gada-ng034004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.679",
+      "lon": "5.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034004_tsitse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsitse",
+      "en": "Tsitse",
+      "slug": "tsitse"
+    },
+    "code": {
+      "id": "NG034004_tsitse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034004",
+      "level": 2,
+      "name": {
+        "local": "Gada",
+        "en": "Gada",
+        "slug": "gada-ng034004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034004",
+        "level": 2,
+        "name": {
+          "local": "Gada",
+          "en": "Gada",
+          "slug": "gada-ng034004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.679",
+      "lon": "5.738"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

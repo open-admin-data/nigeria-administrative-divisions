@@ -1,0 +1,30 @@
+{
+  "id": "NG008",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Borno",
+    "en": "Borno",
+    "slug": "borno-ng008"
+  },
+  "code": {
+    "id": "NG008",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 27,
+    "ward": 302
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.87",
+    "lon": "13.428"
+  },
+  "metadata": {},
+  "source": {}
+}

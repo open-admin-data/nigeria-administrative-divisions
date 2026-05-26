@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG010008_abavo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abavo I",
+      "en": "Abavo I",
+      "slug": "abavo-i"
+    },
+    "code": {
+      "id": "NG010008_abavo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010008",
+      "level": 2,
+      "name": {
+        "local": "Ika South",
+        "en": "Ika South",
+        "slug": "ika-south-ng010008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010008",
+        "level": 2,
+        "name": {
+          "local": "Ika South",
+          "en": "Ika South",
+          "slug": "ika-south-ng010008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010008_abavo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abavo Ii",
+      "en": "Abavo Ii",
+      "slug": "abavo-ii"
+    },
+    "code": {
+      "id": "NG010008_abavo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010008",
+      "level": 2,
+      "name": {
+        "local": "Ika South",
+        "en": "Ika South",
+        "slug": "ika-south-ng010008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010008",
+        "level": 2,
+        "name": {
+          "local": "Ika South",
+          "en": "Ika South",
+          "slug": "ika-south-ng010008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010008_abavo-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abavo Iii",
+      "en": "Abavo Iii",
+      "slug": "abavo-iii"
+    },
+    "code": {
+      "id": "NG010008_abavo-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010008",
+      "level": 2,
+      "name": {
+        "local": "Ika South",
+        "en": "Ika South",
+        "slug": "ika-south-ng010008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010008",
+        "level": 2,
+        "name": {
+          "local": "Ika South",
+          "en": "Ika South",
+          "slug": "ika-south-ng010008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010008_agbor-town-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbor Town I",
+      "en": "Agbor Town I",
+      "slug": "agbor-town-i"
+    },
+    "code": {
+      "id": "NG010008_agbor-town-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010008",
+      "level": 2,
+      "name": {
+        "local": "Ika South",
+        "en": "Ika South",
+        "slug": "ika-south-ng010008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010008",
+        "level": 2,
+        "name": {
+          "local": "Ika South",
+          "en": "Ika South",
+          "slug": "ika-south-ng010008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010008_agbor-town-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbor Town Ii",
+      "en": "Agbor Town Ii",
+      "slug": "agbor-town-ii"
+    },
+    "code": {
+      "id": "NG010008_agbor-town-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010008",
+      "level": 2,
+      "name": {
+        "local": "Ika South",
+        "en": "Ika South",
+        "slug": "ika-south-ng010008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010008",
+        "level": 2,
+        "name": {
+          "local": "Ika South",
+          "en": "Ika South",
+          "slug": "ika-south-ng010008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010008_boji---boji-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Boji - Boji I",
+      "en": "Boji - Boji I",
+      "slug": "boji---boji-i"
+    },
+    "code": {
+      "id": "NG010008_boji---boji-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010008",
+      "level": 2,
+      "name": {
+        "local": "Ika South",
+        "en": "Ika South",
+        "slug": "ika-south-ng010008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010008",
+        "level": 2,
+        "name": {
+          "local": "Ika South",
+          "en": "Ika South",
+          "slug": "ika-south-ng010008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010008_boji---boji-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Boji - Boji Ii",
+      "en": "Boji - Boji Ii",
+      "slug": "boji---boji-ii"
+    },
+    "code": {
+      "id": "NG010008_boji---boji-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010008",
+      "level": 2,
+      "name": {
+        "local": "Ika South",
+        "en": "Ika South",
+        "slug": "ika-south-ng010008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010008",
+        "level": 2,
+        "name": {
+          "local": "Ika South",
+          "en": "Ika South",
+          "slug": "ika-south-ng010008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010008_boji---boji-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Boji - Boji Iii",
+      "en": "Boji - Boji Iii",
+      "slug": "boji---boji-iii"
+    },
+    "code": {
+      "id": "NG010008_boji---boji-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010008",
+      "level": 2,
+      "name": {
+        "local": "Ika South",
+        "en": "Ika South",
+        "slug": "ika-south-ng010008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010008",
+        "level": 2,
+        "name": {
+          "local": "Ika South",
+          "en": "Ika South",
+          "slug": "ika-south-ng010008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010008_ekuku---agbor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekuku - Agbor",
+      "en": "Ekuku - Agbor",
+      "slug": "ekuku---agbor"
+    },
+    "code": {
+      "id": "NG010008_ekuku---agbor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010008",
+      "level": 2,
+      "name": {
+        "local": "Ika South",
+        "en": "Ika South",
+        "slug": "ika-south-ng010008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010008",
+        "level": 2,
+        "name": {
+          "local": "Ika South",
+          "en": "Ika South",
+          "slug": "ika-south-ng010008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010008_ihiuiyase-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ihiuiyase I",
+      "en": "Ihiuiyase I",
+      "slug": "ihiuiyase-i"
+    },
+    "code": {
+      "id": "NG010008_ihiuiyase-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010008",
+      "level": 2,
+      "name": {
+        "local": "Ika South",
+        "en": "Ika South",
+        "slug": "ika-south-ng010008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010008",
+        "level": 2,
+        "name": {
+          "local": "Ika South",
+          "en": "Ika South",
+          "slug": "ika-south-ng010008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010008_ihuiyase-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ihuiyase Ii",
+      "en": "Ihuiyase Ii",
+      "slug": "ihuiyase-ii"
+    },
+    "code": {
+      "id": "NG010008_ihuiyase-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010008",
+      "level": 2,
+      "name": {
+        "local": "Ika South",
+        "en": "Ika South",
+        "slug": "ika-south-ng010008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010008",
+        "level": 2,
+        "name": {
+          "local": "Ika South",
+          "en": "Ika South",
+          "slug": "ika-south-ng010008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010008_ihuozomor-ozanogogo-alisimie",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ihuozomor (ozanogogo Alisimie)",
+      "en": "Ihuozomor (ozanogogo Alisimie)",
+      "slug": "ihuozomor-ozanogogo-alisimie"
+    },
+    "code": {
+      "id": "NG010008_ihuozomor-ozanogogo-alisimie",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010008",
+      "level": 2,
+      "name": {
+        "local": "Ika South",
+        "en": "Ika South",
+        "slug": "ika-south-ng010008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      },
+      {
+        "id": "NG010008",
+        "level": 2,
+        "name": {
+          "local": "Ika South",
+          "en": "Ika South",
+          "slug": "ika-south-ng010008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

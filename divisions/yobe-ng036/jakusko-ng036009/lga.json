@@ -1,0 +1,47 @@
+{
+  "id": "NG036009",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Jakusko",
+    "en": "Jakusko",
+    "slug": "jakusko-ng036009"
+  },
+  "code": {
+    "id": "NG036009",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG036",
+    "level": 1,
+    "name": {
+      "local": "Yobe",
+      "en": "Yobe",
+      "slug": "yobe-ng036"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG036",
+      "level": 1,
+      "name": {
+        "local": "Yobe",
+        "en": "Yobe",
+        "slug": "yobe-ng036"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.371",
+    "lon": "11.004"
+  },
+  "metadata": {},
+  "source": {}
+}

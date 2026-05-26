@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG008018_gondi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gondi",
+      "en": "Gondi",
+      "slug": "gondi"
+    },
+    "code": {
+      "id": "NG008018_gondi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008018",
+      "level": 2,
+      "name": {
+        "local": "Kwaya Kusar",
+        "en": "Kwaya Kusar",
+        "slug": "kwaya-kusar-ng008018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008018",
+        "level": 2,
+        "name": {
+          "local": "Kwaya Kusar",
+          "en": "Kwaya Kusar",
+          "slug": "kwaya-kusar-ng008018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.431",
+      "lon": "11.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008018_gusi-billa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gusi / Billa",
+      "en": "Gusi / Billa",
+      "slug": "gusi-billa"
+    },
+    "code": {
+      "id": "NG008018_gusi-billa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008018",
+      "level": 2,
+      "name": {
+        "local": "Kwaya Kusar",
+        "en": "Kwaya Kusar",
+        "slug": "kwaya-kusar-ng008018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008018",
+        "level": 2,
+        "name": {
+          "local": "Kwaya Kusar",
+          "en": "Kwaya Kusar",
+          "slug": "kwaya-kusar-ng008018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.431",
+      "lon": "11.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008018_guwal",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guwal",
+      "en": "Guwal",
+      "slug": "guwal"
+    },
+    "code": {
+      "id": "NG008018_guwal",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008018",
+      "level": 2,
+      "name": {
+        "local": "Kwaya Kusar",
+        "en": "Kwaya Kusar",
+        "slug": "kwaya-kusar-ng008018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008018",
+        "level": 2,
+        "name": {
+          "local": "Kwaya Kusar",
+          "en": "Kwaya Kusar",
+          "slug": "kwaya-kusar-ng008018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.539",
+      "lon": "11.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008018_kubuku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kubuku",
+      "en": "Kubuku",
+      "slug": "kubuku"
+    },
+    "code": {
+      "id": "NG008018_kubuku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008018",
+      "level": 2,
+      "name": {
+        "local": "Kwaya Kusar",
+        "en": "Kwaya Kusar",
+        "slug": "kwaya-kusar-ng008018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008018",
+        "level": 2,
+        "name": {
+          "local": "Kwaya Kusar",
+          "en": "Kwaya Kusar",
+          "slug": "kwaya-kusar-ng008018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.452",
+      "lon": "11.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008018_kurba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurba",
+      "en": "Kurba",
+      "slug": "kurba"
+    },
+    "code": {
+      "id": "NG008018_kurba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008018",
+      "level": 2,
+      "name": {
+        "local": "Kwaya Kusar",
+        "en": "Kwaya Kusar",
+        "slug": "kwaya-kusar-ng008018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008018",
+        "level": 2,
+        "name": {
+          "local": "Kwaya Kusar",
+          "en": "Kwaya Kusar",
+          "slug": "kwaya-kusar-ng008018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.442",
+      "lon": "11.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008018_kwaya-kusar",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwaya Kusar",
+      "en": "Kwaya Kusar",
+      "slug": "kwaya-kusar"
+    },
+    "code": {
+      "id": "NG008018_kwaya-kusar",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008018",
+      "level": 2,
+      "name": {
+        "local": "Kwaya Kusar",
+        "en": "Kwaya Kusar",
+        "slug": "kwaya-kusar-ng008018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008018",
+        "level": 2,
+        "name": {
+          "local": "Kwaya Kusar",
+          "en": "Kwaya Kusar",
+          "slug": "kwaya-kusar-ng008018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.542",
+      "lon": "11.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008018_peta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Peta",
+      "en": "Peta",
+      "slug": "peta"
+    },
+    "code": {
+      "id": "NG008018_peta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008018",
+      "level": 2,
+      "name": {
+        "local": "Kwaya Kusar",
+        "en": "Kwaya Kusar",
+        "slug": "kwaya-kusar-ng008018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008018",
+        "level": 2,
+        "name": {
+          "local": "Kwaya Kusar",
+          "en": "Kwaya Kusar",
+          "slug": "kwaya-kusar-ng008018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.314",
+      "lon": "11.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008018_wada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wada",
+      "en": "Wada",
+      "slug": "wada"
+    },
+    "code": {
+      "id": "NG008018_wada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008018",
+      "level": 2,
+      "name": {
+        "local": "Kwaya Kusar",
+        "en": "Kwaya Kusar",
+        "slug": "kwaya-kusar-ng008018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008018",
+        "level": 2,
+        "name": {
+          "local": "Kwaya Kusar",
+          "en": "Kwaya Kusar",
+          "slug": "kwaya-kusar-ng008018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.389",
+      "lon": "11.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008018_wawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wawa",
+      "en": "Wawa",
+      "slug": "wawa"
+    },
+    "code": {
+      "id": "NG008018_wawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008018",
+      "level": 2,
+      "name": {
+        "local": "Kwaya Kusar",
+        "en": "Kwaya Kusar",
+        "slug": "kwaya-kusar-ng008018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008018",
+        "level": 2,
+        "name": {
+          "local": "Kwaya Kusar",
+          "en": "Kwaya Kusar",
+          "slug": "kwaya-kusar-ng008018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.467",
+      "lon": "11.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008018_yimirthalang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yimirthalang",
+      "en": "Yimirthalang",
+      "slug": "yimirthalang"
+    },
+    "code": {
+      "id": "NG008018_yimirthalang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008018",
+      "level": 2,
+      "name": {
+        "local": "Kwaya Kusar",
+        "en": "Kwaya Kusar",
+        "slug": "kwaya-kusar-ng008018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008018",
+        "level": 2,
+        "name": {
+          "local": "Kwaya Kusar",
+          "en": "Kwaya Kusar",
+          "slug": "kwaya-kusar-ng008018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.351",
+      "lon": "11.851"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG031001_akinmorinjobele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akinmorin/jobele",
+      "en": "Akinmorin/jobele",
+      "slug": "akinmorinjobele"
+    },
+    "code": {
+      "id": "NG031001_akinmorinjobele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031001",
+      "level": 2,
+      "name": {
+        "local": "Afijio",
+        "en": "Afijio",
+        "slug": "afijio-ng031001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031001",
+        "level": 2,
+        "name": {
+          "local": "Afijio",
+          "en": "Afijio",
+          "slug": "afijio-ng031001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "3.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031001_awe-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awe I",
+      "en": "Awe I",
+      "slug": "awe-i"
+    },
+    "code": {
+      "id": "NG031001_awe-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031001",
+      "level": 2,
+      "name": {
+        "local": "Afijio",
+        "en": "Afijio",
+        "slug": "afijio-ng031001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031001",
+        "level": 2,
+        "name": {
+          "local": "Afijio",
+          "en": "Afijio",
+          "slug": "afijio-ng031001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "3.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031001_awe-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Awe Ii",
+      "en": "Awe Ii",
+      "slug": "awe-ii"
+    },
+    "code": {
+      "id": "NG031001_awe-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031001",
+      "level": 2,
+      "name": {
+        "local": "Afijio",
+        "en": "Afijio",
+        "slug": "afijio-ng031001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031001",
+        "level": 2,
+        "name": {
+          "local": "Afijio",
+          "en": "Afijio",
+          "slug": "afijio-ng031001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "3.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031001_fiditi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fiditi I",
+      "en": "Fiditi I",
+      "slug": "fiditi-i"
+    },
+    "code": {
+      "id": "NG031001_fiditi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031001",
+      "level": 2,
+      "name": {
+        "local": "Afijio",
+        "en": "Afijio",
+        "slug": "afijio-ng031001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031001",
+        "level": 2,
+        "name": {
+          "local": "Afijio",
+          "en": "Afijio",
+          "slug": "afijio-ng031001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "3.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031001_fiditi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fiditi Ii",
+      "en": "Fiditi Ii",
+      "slug": "fiditi-ii"
+    },
+    "code": {
+      "id": "NG031001_fiditi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031001",
+      "level": 2,
+      "name": {
+        "local": "Afijio",
+        "en": "Afijio",
+        "slug": "afijio-ng031001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031001",
+        "level": 2,
+        "name": {
+          "local": "Afijio",
+          "en": "Afijio",
+          "slug": "afijio-ng031001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "3.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031001_ilora-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilora I",
+      "en": "Ilora I",
+      "slug": "ilora-i"
+    },
+    "code": {
+      "id": "NG031001_ilora-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031001",
+      "level": 2,
+      "name": {
+        "local": "Afijio",
+        "en": "Afijio",
+        "slug": "afijio-ng031001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031001",
+        "level": 2,
+        "name": {
+          "local": "Afijio",
+          "en": "Afijio",
+          "slug": "afijio-ng031001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "3.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031001_ilora-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilora Ii",
+      "en": "Ilora Ii",
+      "slug": "ilora-ii"
+    },
+    "code": {
+      "id": "NG031001_ilora-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031001",
+      "level": 2,
+      "name": {
+        "local": "Afijio",
+        "en": "Afijio",
+        "slug": "afijio-ng031001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031001",
+        "level": 2,
+        "name": {
+          "local": "Afijio",
+          "en": "Afijio",
+          "slug": "afijio-ng031001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "3.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031001_ilora-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilora Iii",
+      "en": "Ilora Iii",
+      "slug": "ilora-iii"
+    },
+    "code": {
+      "id": "NG031001_ilora-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031001",
+      "level": 2,
+      "name": {
+        "local": "Afijio",
+        "en": "Afijio",
+        "slug": "afijio-ng031001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031001",
+        "level": 2,
+        "name": {
+          "local": "Afijio",
+          "en": "Afijio",
+          "slug": "afijio-ng031001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "3.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031001_imini",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imini",
+      "en": "Imini",
+      "slug": "imini"
+    },
+    "code": {
+      "id": "NG031001_imini",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031001",
+      "level": 2,
+      "name": {
+        "local": "Afijio",
+        "en": "Afijio",
+        "slug": "afijio-ng031001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031001",
+        "level": 2,
+        "name": {
+          "local": "Afijio",
+          "en": "Afijio",
+          "slug": "afijio-ng031001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "3.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG031001_iware",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iware",
+      "en": "Iware",
+      "slug": "iware"
+    },
+    "code": {
+      "id": "NG031001_iware",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG031001",
+      "level": 2,
+      "name": {
+        "local": "Afijio",
+        "en": "Afijio",
+        "slug": "afijio-ng031001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG031",
+        "level": 1,
+        "name": {
+          "local": "Oyo",
+          "en": "Oyo",
+          "slug": "oyo-ng031"
+        }
+      },
+      {
+        "id": "NG031001",
+        "level": 2,
+        "name": {
+          "local": "Afijio",
+          "en": "Afijio",
+          "slug": "afijio-ng031001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.749",
+      "lon": "3.857"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

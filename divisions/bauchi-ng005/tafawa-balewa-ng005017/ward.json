@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG005017_ball",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ball",
+      "en": "Ball",
+      "slug": "ball"
+    },
+    "code": {
+      "id": "NG005017_ball",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005017",
+      "level": 2,
+      "name": {
+        "local": "Tafawa-Balewa",
+        "en": "Tafawa-Balewa",
+        "slug": "tafawa-balewa-ng005017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005017",
+        "level": 2,
+        "name": {
+          "local": "Tafawa-Balewa",
+          "en": "Tafawa-Balewa",
+          "slug": "tafawa-balewa-ng005017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.858",
+      "lon": "9.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005017_bula",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bula",
+      "en": "Bula",
+      "slug": "bula"
+    },
+    "code": {
+      "id": "NG005017_bula",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005017",
+      "level": 2,
+      "name": {
+        "local": "Tafawa-Balewa",
+        "en": "Tafawa-Balewa",
+        "slug": "tafawa-balewa-ng005017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005017",
+        "level": 2,
+        "name": {
+          "local": "Tafawa-Balewa",
+          "en": "Tafawa-Balewa",
+          "slug": "tafawa-balewa-ng005017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.858",
+      "lon": "9.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005017_bununu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bununu",
+      "en": "Bununu",
+      "slug": "bununu"
+    },
+    "code": {
+      "id": "NG005017_bununu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005017",
+      "level": 2,
+      "name": {
+        "local": "Tafawa-Balewa",
+        "en": "Tafawa-Balewa",
+        "slug": "tafawa-balewa-ng005017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005017",
+        "level": 2,
+        "name": {
+          "local": "Tafawa-Balewa",
+          "en": "Tafawa-Balewa",
+          "slug": "tafawa-balewa-ng005017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.858",
+      "lon": "9.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005017_dajin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dajin",
+      "en": "Dajin",
+      "slug": "dajin"
+    },
+    "code": {
+      "id": "NG005017_dajin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005017",
+      "level": 2,
+      "name": {
+        "local": "Tafawa-Balewa",
+        "en": "Tafawa-Balewa",
+        "slug": "tafawa-balewa-ng005017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005017",
+        "level": 2,
+        "name": {
+          "local": "Tafawa-Balewa",
+          "en": "Tafawa-Balewa",
+          "slug": "tafawa-balewa-ng005017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.858",
+      "lon": "9.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005017_dull",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dull",
+      "en": "Dull",
+      "slug": "dull"
+    },
+    "code": {
+      "id": "NG005017_dull",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005017",
+      "level": 2,
+      "name": {
+        "local": "Tafawa-Balewa",
+        "en": "Tafawa-Balewa",
+        "slug": "tafawa-balewa-ng005017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005017",
+        "level": 2,
+        "name": {
+          "local": "Tafawa-Balewa",
+          "en": "Tafawa-Balewa",
+          "slug": "tafawa-balewa-ng005017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.858",
+      "lon": "9.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005017_kardam-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kardam \"a\"",
+      "en": "Kardam \"a\"",
+      "slug": "kardam-a"
+    },
+    "code": {
+      "id": "NG005017_kardam-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005017",
+      "level": 2,
+      "name": {
+        "local": "Tafawa-Balewa",
+        "en": "Tafawa-Balewa",
+        "slug": "tafawa-balewa-ng005017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005017",
+        "level": 2,
+        "name": {
+          "local": "Tafawa-Balewa",
+          "en": "Tafawa-Balewa",
+          "slug": "tafawa-balewa-ng005017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.858",
+      "lon": "9.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005017_kardam-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kardam \"b\"",
+      "en": "Kardam \"b\"",
+      "slug": "kardam-b"
+    },
+    "code": {
+      "id": "NG005017_kardam-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005017",
+      "level": 2,
+      "name": {
+        "local": "Tafawa-Balewa",
+        "en": "Tafawa-Balewa",
+        "slug": "tafawa-balewa-ng005017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005017",
+        "level": 2,
+        "name": {
+          "local": "Tafawa-Balewa",
+          "en": "Tafawa-Balewa",
+          "slug": "tafawa-balewa-ng005017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.858",
+      "lon": "9.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005017_lere-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lere North",
+      "en": "Lere North",
+      "slug": "lere-north"
+    },
+    "code": {
+      "id": "NG005017_lere-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005017",
+      "level": 2,
+      "name": {
+        "local": "Tafawa-Balewa",
+        "en": "Tafawa-Balewa",
+        "slug": "tafawa-balewa-ng005017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005017",
+        "level": 2,
+        "name": {
+          "local": "Tafawa-Balewa",
+          "en": "Tafawa-Balewa",
+          "slug": "tafawa-balewa-ng005017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.858",
+      "lon": "9.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005017_lere-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lere South",
+      "en": "Lere South",
+      "slug": "lere-south"
+    },
+    "code": {
+      "id": "NG005017_lere-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005017",
+      "level": 2,
+      "name": {
+        "local": "Tafawa-Balewa",
+        "en": "Tafawa-Balewa",
+        "slug": "tafawa-balewa-ng005017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005017",
+        "level": 2,
+        "name": {
+          "local": "Tafawa-Balewa",
+          "en": "Tafawa-Balewa",
+          "slug": "tafawa-balewa-ng005017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.858",
+      "lon": "9.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005017_tapshin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tapshin",
+      "en": "Tapshin",
+      "slug": "tapshin"
+    },
+    "code": {
+      "id": "NG005017_tapshin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005017",
+      "level": 2,
+      "name": {
+        "local": "Tafawa-Balewa",
+        "en": "Tafawa-Balewa",
+        "slug": "tafawa-balewa-ng005017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005017",
+        "level": 2,
+        "name": {
+          "local": "Tafawa-Balewa",
+          "en": "Tafawa-Balewa",
+          "slug": "tafawa-balewa-ng005017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.858",
+      "lon": "9.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005017_wai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wai",
+      "en": "Wai",
+      "slug": "wai"
+    },
+    "code": {
+      "id": "NG005017_wai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005017",
+      "level": 2,
+      "name": {
+        "local": "Tafawa-Balewa",
+        "en": "Tafawa-Balewa",
+        "slug": "tafawa-balewa-ng005017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005017",
+        "level": 2,
+        "name": {
+          "local": "Tafawa-Balewa",
+          "en": "Tafawa-Balewa",
+          "slug": "tafawa-balewa-ng005017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.858",
+      "lon": "9.61"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

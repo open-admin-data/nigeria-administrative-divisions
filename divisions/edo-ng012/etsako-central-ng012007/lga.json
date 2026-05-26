@@ -1,0 +1,47 @@
+{
+  "id": "NG012007",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Etsako Central",
+    "en": "Etsako Central",
+    "slug": "etsako-central-ng012007"
+  },
+  "code": {
+    "id": "NG012007",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG012",
+    "level": 1,
+    "name": {
+      "local": "Edo",
+      "en": "Edo",
+      "slug": "edo-ng012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG012",
+      "level": 1,
+      "name": {
+        "local": "Edo",
+        "en": "Edo",
+        "slug": "edo-ng012"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.976",
+    "lon": "6.516"
+  },
+  "metadata": {},
+  "source": {}
+}

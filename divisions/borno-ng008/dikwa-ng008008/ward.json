@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG008008_boboshe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Boboshe",
+      "en": "Boboshe",
+      "slug": "boboshe"
+    },
+    "code": {
+      "id": "NG008008_boboshe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008008",
+      "level": 2,
+      "name": {
+        "local": "Dikwa",
+        "en": "Dikwa",
+        "slug": "dikwa-ng008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008008",
+        "level": 2,
+        "name": {
+          "local": "Dikwa",
+          "en": "Dikwa",
+          "slug": "dikwa-ng008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.939",
+      "lon": "13.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008008_dikwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dikwa",
+      "en": "Dikwa",
+      "slug": "dikwa"
+    },
+    "code": {
+      "id": "NG008008_dikwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008008",
+      "level": 2,
+      "name": {
+        "local": "Dikwa",
+        "en": "Dikwa",
+        "slug": "dikwa-ng008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008008",
+        "level": 2,
+        "name": {
+          "local": "Dikwa",
+          "en": "Dikwa",
+          "slug": "dikwa-ng008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.061",
+      "lon": "13.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008008_gajibo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gajibo",
+      "en": "Gajibo",
+      "slug": "gajibo"
+    },
+    "code": {
+      "id": "NG008008_gajibo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008008",
+      "level": 2,
+      "name": {
+        "local": "Dikwa",
+        "en": "Dikwa",
+        "slug": "dikwa-ng008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008008",
+        "level": 2,
+        "name": {
+          "local": "Dikwa",
+          "en": "Dikwa",
+          "slug": "dikwa-ng008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.11",
+      "lon": "14.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008008_magarta-sheffri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magarta / Sheffri",
+      "en": "Magarta / Sheffri",
+      "slug": "magarta-sheffri"
+    },
+    "code": {
+      "id": "NG008008_magarta-sheffri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008008",
+      "level": 2,
+      "name": {
+        "local": "Dikwa",
+        "en": "Dikwa",
+        "slug": "dikwa-ng008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008008",
+        "level": 2,
+        "name": {
+          "local": "Dikwa",
+          "en": "Dikwa",
+          "slug": "dikwa-ng008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.935",
+      "lon": "14.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008008_mallam-maja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mallam Maja",
+      "en": "Mallam Maja",
+      "slug": "mallam-maja"
+    },
+    "code": {
+      "id": "NG008008_mallam-maja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008008",
+      "level": 2,
+      "name": {
+        "local": "Dikwa",
+        "en": "Dikwa",
+        "slug": "dikwa-ng008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008008",
+        "level": 2,
+        "name": {
+          "local": "Dikwa",
+          "en": "Dikwa",
+          "slug": "dikwa-ng008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.905",
+      "lon": "14.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008008_mudu-kaza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mudu / Kaza",
+      "en": "Mudu / Kaza",
+      "slug": "mudu-kaza"
+    },
+    "code": {
+      "id": "NG008008_mudu-kaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008008",
+      "level": 2,
+      "name": {
+        "local": "Dikwa",
+        "en": "Dikwa",
+        "slug": "dikwa-ng008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008008",
+        "level": 2,
+        "name": {
+          "local": "Dikwa",
+          "en": "Dikwa",
+          "slug": "dikwa-ng008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.935",
+      "lon": "14.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008008_muliye-jemuri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Muliye / Jemuri",
+      "en": "Muliye / Jemuri",
+      "slug": "muliye-jemuri"
+    },
+    "code": {
+      "id": "NG008008_muliye-jemuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008008",
+      "level": 2,
+      "name": {
+        "local": "Dikwa",
+        "en": "Dikwa",
+        "slug": "dikwa-ng008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008008",
+        "level": 2,
+        "name": {
+          "local": "Dikwa",
+          "en": "Dikwa",
+          "slug": "dikwa-ng008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.81",
+      "lon": "13.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008008_ngudoram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ngudoram",
+      "en": "Ngudoram",
+      "slug": "ngudoram"
+    },
+    "code": {
+      "id": "NG008008_ngudoram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008008",
+      "level": 2,
+      "name": {
+        "local": "Dikwa",
+        "en": "Dikwa",
+        "slug": "dikwa-ng008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008008",
+        "level": 2,
+        "name": {
+          "local": "Dikwa",
+          "en": "Dikwa",
+          "slug": "dikwa-ng008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.042",
+      "lon": "13.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008008_sogoma-afuye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sogoma / Afuye",
+      "en": "Sogoma / Afuye",
+      "slug": "sogoma-afuye"
+    },
+    "code": {
+      "id": "NG008008_sogoma-afuye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008008",
+      "level": 2,
+      "name": {
+        "local": "Dikwa",
+        "en": "Dikwa",
+        "slug": "dikwa-ng008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008008",
+        "level": 2,
+        "name": {
+          "local": "Dikwa",
+          "en": "Dikwa",
+          "slug": "dikwa-ng008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.944",
+      "lon": "14.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008008_ufaye-gujile",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ufaye / Gujile",
+      "en": "Ufaye / Gujile",
+      "slug": "ufaye-gujile"
+    },
+    "code": {
+      "id": "NG008008_ufaye-gujile",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008008",
+      "level": 2,
+      "name": {
+        "local": "Dikwa",
+        "en": "Dikwa",
+        "slug": "dikwa-ng008008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008008",
+        "level": 2,
+        "name": {
+          "local": "Dikwa",
+          "en": "Dikwa",
+          "slug": "dikwa-ng008008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12",
+      "lon": "13.967"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

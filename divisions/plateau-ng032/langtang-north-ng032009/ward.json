@@ -1,0 +1,758 @@
+[
+  {
+    "id": "NG032009_funyalang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Funyalang",
+      "en": "Funyalang",
+      "slug": "funyalang"
+    },
+    "code": {
+      "id": "NG032009_funyalang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_jat",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jat",
+      "en": "Jat",
+      "slug": "jat"
+    },
+    "code": {
+      "id": "NG032009_jat",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_keller",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Keller",
+      "en": "Keller",
+      "slug": "keller"
+    },
+    "code": {
+      "id": "NG032009_keller",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_kuffen",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuffen",
+      "en": "Kuffen",
+      "slug": "kuffen"
+    },
+    "code": {
+      "id": "NG032009_kuffen",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_kwallak",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwallak",
+      "en": "Kwallak",
+      "slug": "kwallak"
+    },
+    "code": {
+      "id": "NG032009_kwallak",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_kwanpe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwanpe",
+      "en": "Kwanpe",
+      "slug": "kwanpe"
+    },
+    "code": {
+      "id": "NG032009_kwanpe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_lipchok",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lipchok",
+      "en": "Lipchok",
+      "slug": "lipchok"
+    },
+    "code": {
+      "id": "NG032009_lipchok",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_mbanzamko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mban/zamko",
+      "en": "Mban/zamko",
+      "slug": "mbanzamko"
+    },
+    "code": {
+      "id": "NG032009_mbanzamko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_nyer",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nyer",
+      "en": "Nyer",
+      "slug": "nyer"
+    },
+    "code": {
+      "id": "NG032009_nyer",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_pajat",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pajat",
+      "en": "Pajat",
+      "slug": "pajat"
+    },
+    "code": {
+      "id": "NG032009_pajat",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_pil-gani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pil Gani",
+      "en": "Pil Gani",
+      "slug": "pil-gani"
+    },
+    "code": {
+      "id": "NG032009_pil-gani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_pisheyashi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pishe/yashi",
+      "en": "Pishe/yashi",
+      "slug": "pisheyashi"
+    },
+    "code": {
+      "id": "NG032009_pisheyashi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_reak",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Reak",
+      "en": "Reak",
+      "slug": "reak"
+    },
+    "code": {
+      "id": "NG032009_reak",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032009_waroh",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Waroh",
+      "en": "Waroh",
+      "slug": "waroh"
+    },
+    "code": {
+      "id": "NG032009_waroh",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032009",
+      "level": 2,
+      "name": {
+        "local": "Langtang North",
+        "en": "Langtang North",
+        "slug": "langtang-north-ng032009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032009",
+        "level": 2,
+        "name": {
+          "local": "Langtang North",
+          "en": "Langtang North",
+          "slug": "langtang-north-ng032009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.049",
+      "lon": "9.827"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

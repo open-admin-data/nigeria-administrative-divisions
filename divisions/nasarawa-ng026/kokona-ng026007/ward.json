@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG026007_agwada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agwada",
+      "en": "Agwada",
+      "slug": "agwada"
+    },
+    "code": {
+      "id": "NG026007_agwada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026007",
+      "level": 2,
+      "name": {
+        "local": "Kokona",
+        "en": "Kokona",
+        "slug": "kokona-ng026007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026007",
+        "level": 2,
+        "name": {
+          "local": "Kokona",
+          "en": "Kokona",
+          "slug": "kokona-ng026007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026007_amba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amba",
+      "en": "Amba",
+      "slug": "amba"
+    },
+    "code": {
+      "id": "NG026007_amba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026007",
+      "level": 2,
+      "name": {
+        "local": "Kokona",
+        "en": "Kokona",
+        "slug": "kokona-ng026007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026007",
+        "level": 2,
+        "name": {
+          "local": "Kokona",
+          "en": "Kokona",
+          "slug": "kokona-ng026007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026007_bassa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bassa",
+      "en": "Bassa",
+      "slug": "bassa"
+    },
+    "code": {
+      "id": "NG026007_bassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026007",
+      "level": 2,
+      "name": {
+        "local": "Kokona",
+        "en": "Kokona",
+        "slug": "kokona-ng026007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026007",
+        "level": 2,
+        "name": {
+          "local": "Kokona",
+          "en": "Kokona",
+          "slug": "kokona-ng026007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026007_dari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dari",
+      "en": "Dari",
+      "slug": "dari"
+    },
+    "code": {
+      "id": "NG026007_dari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026007",
+      "level": 2,
+      "name": {
+        "local": "Kokona",
+        "en": "Kokona",
+        "slug": "kokona-ng026007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026007",
+        "level": 2,
+        "name": {
+          "local": "Kokona",
+          "en": "Kokona",
+          "slug": "kokona-ng026007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026007_garaku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garaku",
+      "en": "Garaku",
+      "slug": "garaku"
+    },
+    "code": {
+      "id": "NG026007_garaku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026007",
+      "level": 2,
+      "name": {
+        "local": "Kokona",
+        "en": "Kokona",
+        "slug": "kokona-ng026007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026007",
+        "level": 2,
+        "name": {
+          "local": "Kokona",
+          "en": "Kokona",
+          "slug": "kokona-ng026007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026007_hadari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hadari",
+      "en": "Hadari",
+      "slug": "hadari"
+    },
+    "code": {
+      "id": "NG026007_hadari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026007",
+      "level": 2,
+      "name": {
+        "local": "Kokona",
+        "en": "Kokona",
+        "slug": "kokona-ng026007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026007",
+        "level": 2,
+        "name": {
+          "local": "Kokona",
+          "en": "Kokona",
+          "slug": "kokona-ng026007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026007_kofar-gwari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kofar Gwari",
+      "en": "Kofar Gwari",
+      "slug": "kofar-gwari"
+    },
+    "code": {
+      "id": "NG026007_kofar-gwari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026007",
+      "level": 2,
+      "name": {
+        "local": "Kokona",
+        "en": "Kokona",
+        "slug": "kokona-ng026007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026007",
+        "level": 2,
+        "name": {
+          "local": "Kokona",
+          "en": "Kokona",
+          "slug": "kokona-ng026007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026007_kokona",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kokona",
+      "en": "Kokona",
+      "slug": "kokona"
+    },
+    "code": {
+      "id": "NG026007_kokona",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026007",
+      "level": 2,
+      "name": {
+        "local": "Kokona",
+        "en": "Kokona",
+        "slug": "kokona-ng026007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026007",
+        "level": 2,
+        "name": {
+          "local": "Kokona",
+          "en": "Kokona",
+          "slug": "kokona-ng026007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026007_koya-kana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Koya / Kana",
+      "en": "Koya / Kana",
+      "slug": "koya-kana"
+    },
+    "code": {
+      "id": "NG026007_koya-kana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026007",
+      "level": 2,
+      "name": {
+        "local": "Kokona",
+        "en": "Kokona",
+        "slug": "kokona-ng026007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026007",
+        "level": 2,
+        "name": {
+          "local": "Kokona",
+          "en": "Kokona",
+          "slug": "kokona-ng026007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026007_ninkoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ninkoro",
+      "en": "Ninkoro",
+      "slug": "ninkoro"
+    },
+    "code": {
+      "id": "NG026007_ninkoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026007",
+      "level": 2,
+      "name": {
+        "local": "Kokona",
+        "en": "Kokona",
+        "slug": "kokona-ng026007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026007",
+        "level": 2,
+        "name": {
+          "local": "Kokona",
+          "en": "Kokona",
+          "slug": "kokona-ng026007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026007_yelwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yelwa",
+      "en": "Yelwa",
+      "slug": "yelwa"
+    },
+    "code": {
+      "id": "NG026007_yelwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026007",
+      "level": 2,
+      "name": {
+        "local": "Kokona",
+        "en": "Kokona",
+        "slug": "kokona-ng026007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026007",
+        "level": 2,
+        "name": {
+          "local": "Kokona",
+          "en": "Kokona",
+          "slug": "kokona-ng026007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.756",
+      "lon": "8.087"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

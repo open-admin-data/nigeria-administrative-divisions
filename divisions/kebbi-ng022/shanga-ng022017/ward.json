@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG022017_atuwo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Atuwo",
+      "en": "Atuwo",
+      "slug": "atuwo"
+    },
+    "code": {
+      "id": "NG022017_atuwo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022017",
+      "level": 2,
+      "name": {
+        "local": "Shanga",
+        "en": "Shanga",
+        "slug": "shanga-ng022017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022017",
+        "level": 2,
+        "name": {
+          "local": "Shanga",
+          "en": "Shanga",
+          "slug": "shanga-ng022017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.211",
+      "lon": "4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022017_binuwagebbebukunji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Binuwa/gebbe/bukunji",
+      "en": "Binuwa/gebbe/bukunji",
+      "slug": "binuwagebbebukunji"
+    },
+    "code": {
+      "id": "NG022017_binuwagebbebukunji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022017",
+      "level": 2,
+      "name": {
+        "local": "Shanga",
+        "en": "Shanga",
+        "slug": "shanga-ng022017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022017",
+        "level": 2,
+        "name": {
+          "local": "Shanga",
+          "en": "Shanga",
+          "slug": "shanga-ng022017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.211",
+      "lon": "4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022017_dugu-tsohodugu-raha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dugu Tsoho/dugu Raha",
+      "en": "Dugu Tsoho/dugu Raha",
+      "slug": "dugu-tsohodugu-raha"
+    },
+    "code": {
+      "id": "NG022017_dugu-tsohodugu-raha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022017",
+      "level": 2,
+      "name": {
+        "local": "Shanga",
+        "en": "Shanga",
+        "slug": "shanga-ng022017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022017",
+        "level": 2,
+        "name": {
+          "local": "Shanga",
+          "en": "Shanga",
+          "slug": "shanga-ng022017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.211",
+      "lon": "4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022017_kawaraingusargo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kawara/ingu/sargo",
+      "en": "Kawara/ingu/sargo",
+      "slug": "kawaraingusargo"
+    },
+    "code": {
+      "id": "NG022017_kawaraingusargo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022017",
+      "level": 2,
+      "name": {
+        "local": "Shanga",
+        "en": "Shanga",
+        "slug": "shanga-ng022017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022017",
+        "level": 2,
+        "name": {
+          "local": "Shanga",
+          "en": "Shanga",
+          "slug": "shanga-ng022017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.211",
+      "lon": "4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022017_rafin-kiryatafki-tara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rafin Kirya/tafki Tara",
+      "en": "Rafin Kirya/tafki Tara",
+      "slug": "rafin-kiryatafki-tara"
+    },
+    "code": {
+      "id": "NG022017_rafin-kiryatafki-tara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022017",
+      "level": 2,
+      "name": {
+        "local": "Shanga",
+        "en": "Shanga",
+        "slug": "shanga-ng022017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022017",
+        "level": 2,
+        "name": {
+          "local": "Shanga",
+          "en": "Shanga",
+          "slug": "shanga-ng022017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.211",
+      "lon": "4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022017_sakacegolongohundeji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sakace/golongo/hundeji",
+      "en": "Sakace/golongo/hundeji",
+      "slug": "sakacegolongohundeji"
+    },
+    "code": {
+      "id": "NG022017_sakacegolongohundeji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022017",
+      "level": 2,
+      "name": {
+        "local": "Shanga",
+        "en": "Shanga",
+        "slug": "shanga-ng022017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022017",
+        "level": 2,
+        "name": {
+          "local": "Shanga",
+          "en": "Shanga",
+          "slug": "shanga-ng022017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.211",
+      "lon": "4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022017_sawashi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sawashi",
+      "en": "Sawashi",
+      "slug": "sawashi"
+    },
+    "code": {
+      "id": "NG022017_sawashi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022017",
+      "level": 2,
+      "name": {
+        "local": "Shanga",
+        "en": "Shanga",
+        "slug": "shanga-ng022017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022017",
+        "level": 2,
+        "name": {
+          "local": "Shanga",
+          "en": "Shanga",
+          "slug": "shanga-ng022017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.211",
+      "lon": "4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022017_shanga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shanga",
+      "en": "Shanga",
+      "slug": "shanga"
+    },
+    "code": {
+      "id": "NG022017_shanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022017",
+      "level": 2,
+      "name": {
+        "local": "Shanga",
+        "en": "Shanga",
+        "slug": "shanga-ng022017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022017",
+        "level": 2,
+        "name": {
+          "local": "Shanga",
+          "en": "Shanga",
+          "slug": "shanga-ng022017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.211",
+      "lon": "4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022017_takware",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Takware",
+      "en": "Takware",
+      "slug": "takware"
+    },
+    "code": {
+      "id": "NG022017_takware",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022017",
+      "level": 2,
+      "name": {
+        "local": "Shanga",
+        "en": "Shanga",
+        "slug": "shanga-ng022017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022017",
+        "level": 2,
+        "name": {
+          "local": "Shanga",
+          "en": "Shanga",
+          "slug": "shanga-ng022017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.211",
+      "lon": "4.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG022017_yarbesse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yarbesse",
+      "en": "Yarbesse",
+      "slug": "yarbesse"
+    },
+    "code": {
+      "id": "NG022017_yarbesse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG022017",
+      "level": 2,
+      "name": {
+        "local": "Shanga",
+        "en": "Shanga",
+        "slug": "shanga-ng022017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG022",
+        "level": 1,
+        "name": {
+          "local": "Kebbi",
+          "en": "Kebbi",
+          "slug": "kebbi-ng022"
+        }
+      },
+      {
+        "id": "NG022017",
+        "level": 2,
+        "name": {
+          "local": "Shanga",
+          "en": "Shanga",
+          "slug": "shanga-ng022017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.211",
+      "lon": "4.597"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

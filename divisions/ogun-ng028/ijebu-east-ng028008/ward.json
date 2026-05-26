@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG028008_ajebandele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajebandele",
+      "en": "Ajebandele",
+      "slug": "ajebandele"
+    },
+    "code": {
+      "id": "NG028008_ajebandele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028008",
+      "level": 2,
+      "name": {
+        "local": "Ijebu East",
+        "en": "Ijebu East",
+        "slug": "ijebu-east-ng028008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028008",
+        "level": 2,
+        "name": {
+          "local": "Ijebu East",
+          "en": "Ijebu East",
+          "slug": "ijebu-east-ng028008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "4.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028008_ijebu-ife-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijebu Ife I",
+      "en": "Ijebu Ife I",
+      "slug": "ijebu-ife-i"
+    },
+    "code": {
+      "id": "NG028008_ijebu-ife-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028008",
+      "level": 2,
+      "name": {
+        "local": "Ijebu East",
+        "en": "Ijebu East",
+        "slug": "ijebu-east-ng028008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028008",
+        "level": 2,
+        "name": {
+          "local": "Ijebu East",
+          "en": "Ijebu East",
+          "slug": "ijebu-east-ng028008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "4.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028008_ijebu-ife-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijebu Ife Ii",
+      "en": "Ijebu Ife Ii",
+      "slug": "ijebu-ife-ii"
+    },
+    "code": {
+      "id": "NG028008_ijebu-ife-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028008",
+      "level": 2,
+      "name": {
+        "local": "Ijebu East",
+        "en": "Ijebu East",
+        "slug": "ijebu-east-ng028008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028008",
+        "level": 2,
+        "name": {
+          "local": "Ijebu East",
+          "en": "Ijebu East",
+          "slug": "ijebu-east-ng028008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "4.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028008_ijebu-mushin-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijebu Mushin I",
+      "en": "Ijebu Mushin I",
+      "slug": "ijebu-mushin-i"
+    },
+    "code": {
+      "id": "NG028008_ijebu-mushin-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028008",
+      "level": 2,
+      "name": {
+        "local": "Ijebu East",
+        "en": "Ijebu East",
+        "slug": "ijebu-east-ng028008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028008",
+        "level": 2,
+        "name": {
+          "local": "Ijebu East",
+          "en": "Ijebu East",
+          "slug": "ijebu-east-ng028008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "4.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028008_ijebu-mushin-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijebu Mushin Ii",
+      "en": "Ijebu Mushin Ii",
+      "slug": "ijebu-mushin-ii"
+    },
+    "code": {
+      "id": "NG028008_ijebu-mushin-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028008",
+      "level": 2,
+      "name": {
+        "local": "Ijebu East",
+        "en": "Ijebu East",
+        "slug": "ijebu-east-ng028008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028008",
+        "level": 2,
+        "name": {
+          "local": "Ijebu East",
+          "en": "Ijebu East",
+          "slug": "ijebu-east-ng028008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "4.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028008_ikija",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikija",
+      "en": "Ikija",
+      "slug": "ikija"
+    },
+    "code": {
+      "id": "NG028008_ikija",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028008",
+      "level": 2,
+      "name": {
+        "local": "Ijebu East",
+        "en": "Ijebu East",
+        "slug": "ijebu-east-ng028008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028008",
+        "level": 2,
+        "name": {
+          "local": "Ijebu East",
+          "en": "Ijebu East",
+          "slug": "ijebu-east-ng028008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "4.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028008_imobi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imobi I",
+      "en": "Imobi I",
+      "slug": "imobi-i"
+    },
+    "code": {
+      "id": "NG028008_imobi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028008",
+      "level": 2,
+      "name": {
+        "local": "Ijebu East",
+        "en": "Ijebu East",
+        "slug": "ijebu-east-ng028008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028008",
+        "level": 2,
+        "name": {
+          "local": "Ijebu East",
+          "en": "Ijebu East",
+          "slug": "ijebu-east-ng028008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "4.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028008_imobi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Imobi Ii",
+      "en": "Imobi Ii",
+      "slug": "imobi-ii"
+    },
+    "code": {
+      "id": "NG028008_imobi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028008",
+      "level": 2,
+      "name": {
+        "local": "Ijebu East",
+        "en": "Ijebu East",
+        "slug": "ijebu-east-ng028008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028008",
+        "level": 2,
+        "name": {
+          "local": "Ijebu East",
+          "en": "Ijebu East",
+          "slug": "ijebu-east-ng028008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "4.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028008_itele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Itele",
+      "en": "Itele",
+      "slug": "itele"
+    },
+    "code": {
+      "id": "NG028008_itele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028008",
+      "level": 2,
+      "name": {
+        "local": "Ijebu East",
+        "en": "Ijebu East",
+        "slug": "ijebu-east-ng028008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028008",
+        "level": 2,
+        "name": {
+          "local": "Ijebu East",
+          "en": "Ijebu East",
+          "slug": "ijebu-east-ng028008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "4.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028008_ogbere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbere",
+      "en": "Ogbere",
+      "slug": "ogbere"
+    },
+    "code": {
+      "id": "NG028008_ogbere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028008",
+      "level": 2,
+      "name": {
+        "local": "Ijebu East",
+        "en": "Ijebu East",
+        "slug": "ijebu-east-ng028008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028008",
+        "level": 2,
+        "name": {
+          "local": "Ijebu East",
+          "en": "Ijebu East",
+          "slug": "ijebu-east-ng028008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "4.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028008_owu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owu",
+      "en": "Owu",
+      "slug": "owu"
+    },
+    "code": {
+      "id": "NG028008_owu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028008",
+      "level": 2,
+      "name": {
+        "local": "Ijebu East",
+        "en": "Ijebu East",
+        "slug": "ijebu-east-ng028008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028008",
+        "level": 2,
+        "name": {
+          "local": "Ijebu East",
+          "en": "Ijebu East",
+          "slug": "ijebu-east-ng028008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.818",
+      "lon": "4.251"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

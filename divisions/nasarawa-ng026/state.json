@@ -1,0 +1,30 @@
+{
+  "id": "NG026",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Nasarawa",
+    "en": "Nasarawa",
+    "slug": "nasarawa-ng026"
+  },
+  "code": {
+    "id": "NG026",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 13,
+    "ward": 170
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.589",
+    "lon": "8.211"
+  },
+  "metadata": {},
+  "source": {}
+}

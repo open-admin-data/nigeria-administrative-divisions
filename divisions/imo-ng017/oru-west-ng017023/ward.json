@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG017023_aji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aji",
+      "en": "Aji",
+      "slug": "aji"
+    },
+    "code": {
+      "id": "NG017023_aji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017023",
+      "level": 2,
+      "name": {
+        "local": "Oru West",
+        "en": "Oru West",
+        "slug": "oru-west-ng017023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017023",
+        "level": 2,
+        "name": {
+          "local": "Oru West",
+          "en": "Oru West",
+          "slug": "oru-west-ng017023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.759",
+      "lon": "6.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017023_amafuo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amafuo",
+      "en": "Amafuo",
+      "slug": "amafuo"
+    },
+    "code": {
+      "id": "NG017023_amafuo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017023",
+      "level": 2,
+      "name": {
+        "local": "Oru West",
+        "en": "Oru West",
+        "slug": "oru-west-ng017023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017023",
+        "level": 2,
+        "name": {
+          "local": "Oru West",
+          "en": "Oru West",
+          "slug": "oru-west-ng017023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.759",
+      "lon": "6.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017023_ibiaso-egbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ibiaso Egbe",
+      "en": "Ibiaso Egbe",
+      "slug": "ibiaso-egbe"
+    },
+    "code": {
+      "id": "NG017023_ibiaso-egbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017023",
+      "level": 2,
+      "name": {
+        "local": "Oru West",
+        "en": "Oru West",
+        "slug": "oru-west-ng017023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017023",
+        "level": 2,
+        "name": {
+          "local": "Oru West",
+          "en": "Oru West",
+          "slug": "oru-west-ng017023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.759",
+      "lon": "6.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017023_mgbidi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mgbidi I",
+      "en": "Mgbidi I",
+      "slug": "mgbidi-i"
+    },
+    "code": {
+      "id": "NG017023_mgbidi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017023",
+      "level": 2,
+      "name": {
+        "local": "Oru West",
+        "en": "Oru West",
+        "slug": "oru-west-ng017023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017023",
+        "level": 2,
+        "name": {
+          "local": "Oru West",
+          "en": "Oru West",
+          "slug": "oru-west-ng017023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.759",
+      "lon": "6.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017023_mgbidi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mgbidi Ii",
+      "en": "Mgbidi Ii",
+      "slug": "mgbidi-ii"
+    },
+    "code": {
+      "id": "NG017023_mgbidi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017023",
+      "level": 2,
+      "name": {
+        "local": "Oru West",
+        "en": "Oru West",
+        "slug": "oru-west-ng017023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017023",
+        "level": 2,
+        "name": {
+          "local": "Oru West",
+          "en": "Oru West",
+          "slug": "oru-west-ng017023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.759",
+      "lon": "6.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017023_nempieleh",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nempi/eleh",
+      "en": "Nempi/eleh",
+      "slug": "nempieleh"
+    },
+    "code": {
+      "id": "NG017023_nempieleh",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017023",
+      "level": 2,
+      "name": {
+        "local": "Oru West",
+        "en": "Oru West",
+        "slug": "oru-west-ng017023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017023",
+        "level": 2,
+        "name": {
+          "local": "Oru West",
+          "en": "Oru West",
+          "slug": "oru-west-ng017023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.759",
+      "lon": "6.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017023_ohakpu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ohakpu",
+      "en": "Ohakpu",
+      "slug": "ohakpu"
+    },
+    "code": {
+      "id": "NG017023_ohakpu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017023",
+      "level": 2,
+      "name": {
+        "local": "Oru West",
+        "en": "Oru West",
+        "slug": "oru-west-ng017023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017023",
+        "level": 2,
+        "name": {
+          "local": "Oru West",
+          "en": "Oru West",
+          "slug": "oru-west-ng017023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.759",
+      "lon": "6.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017023_otulu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Otulu",
+      "en": "Otulu",
+      "slug": "otulu"
+    },
+    "code": {
+      "id": "NG017023_otulu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017023",
+      "level": 2,
+      "name": {
+        "local": "Oru West",
+        "en": "Oru West",
+        "slug": "oru-west-ng017023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017023",
+        "level": 2,
+        "name": {
+          "local": "Oru West",
+          "en": "Oru West",
+          "slug": "oru-west-ng017023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.759",
+      "lon": "6.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017023_ozara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ozara",
+      "en": "Ozara",
+      "slug": "ozara"
+    },
+    "code": {
+      "id": "NG017023_ozara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017023",
+      "level": 2,
+      "name": {
+        "local": "Oru West",
+        "en": "Oru West",
+        "slug": "oru-west-ng017023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017023",
+        "level": 2,
+        "name": {
+          "local": "Oru West",
+          "en": "Oru West",
+          "slug": "oru-west-ng017023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.759",
+      "lon": "6.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017023_ubulu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ubulu",
+      "en": "Ubulu",
+      "slug": "ubulu"
+    },
+    "code": {
+      "id": "NG017023_ubulu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017023",
+      "level": 2,
+      "name": {
+        "local": "Oru West",
+        "en": "Oru West",
+        "slug": "oru-west-ng017023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017023",
+        "level": 2,
+        "name": {
+          "local": "Oru West",
+          "en": "Oru West",
+          "slug": "oru-west-ng017023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.759",
+      "lon": "6.906"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

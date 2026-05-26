@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG009019_echumofana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Echumofana",
+      "en": "Echumofana",
+      "slug": "echumofana"
+    },
+    "code": {
+      "id": "NG009019_echumofana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009019",
+      "level": 2,
+      "name": {
+        "local": "Yala",
+        "en": "Yala",
+        "slug": "yala-ng009019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009019",
+        "level": 2,
+        "name": {
+          "local": "Yala",
+          "en": "Yala",
+          "slug": "yala-ng009019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009019_gabu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gabu",
+      "en": "Gabu",
+      "slug": "gabu"
+    },
+    "code": {
+      "id": "NG009019_gabu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009019",
+      "level": 2,
+      "name": {
+        "local": "Yala",
+        "en": "Yala",
+        "slug": "yala-ng009019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009019",
+        "level": 2,
+        "name": {
+          "local": "Yala",
+          "en": "Yala",
+          "slug": "yala-ng009019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009019_ijiraga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijiraga",
+      "en": "Ijiraga",
+      "slug": "ijiraga"
+    },
+    "code": {
+      "id": "NG009019_ijiraga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009019",
+      "level": 2,
+      "name": {
+        "local": "Yala",
+        "en": "Yala",
+        "slug": "yala-ng009019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009019",
+        "level": 2,
+        "name": {
+          "local": "Yala",
+          "en": "Yala",
+          "slug": "yala-ng009019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009019_ntrigommfuma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ntrigom/mfuma",
+      "en": "Ntrigom/mfuma",
+      "slug": "ntrigommfuma"
+    },
+    "code": {
+      "id": "NG009019_ntrigommfuma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009019",
+      "level": 2,
+      "name": {
+        "local": "Yala",
+        "en": "Yala",
+        "slug": "yala-ng009019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009019",
+        "level": 2,
+        "name": {
+          "local": "Yala",
+          "en": "Yala",
+          "slug": "yala-ng009019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009019_okpoma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpoma",
+      "en": "Okpoma",
+      "slug": "okpoma"
+    },
+    "code": {
+      "id": "NG009019_okpoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009019",
+      "level": 2,
+      "name": {
+        "local": "Yala",
+        "en": "Yala",
+        "slug": "yala-ng009019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009019",
+        "level": 2,
+        "name": {
+          "local": "Yala",
+          "en": "Yala",
+          "slug": "yala-ng009019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009019_okuku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okuku",
+      "en": "Okuku",
+      "slug": "okuku"
+    },
+    "code": {
+      "id": "NG009019_okuku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009019",
+      "level": 2,
+      "name": {
+        "local": "Yala",
+        "en": "Yala",
+        "slug": "yala-ng009019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009019",
+        "level": 2,
+        "name": {
+          "local": "Yala",
+          "en": "Yala",
+          "slug": "yala-ng009019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009019_wanakom",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wanakom",
+      "en": "Wanakom",
+      "slug": "wanakom"
+    },
+    "code": {
+      "id": "NG009019_wanakom",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009019",
+      "level": 2,
+      "name": {
+        "local": "Yala",
+        "en": "Yala",
+        "slug": "yala-ng009019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009019",
+        "level": 2,
+        "name": {
+          "local": "Yala",
+          "en": "Yala",
+          "slug": "yala-ng009019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009019_wanihem",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wanihem",
+      "en": "Wanihem",
+      "slug": "wanihem"
+    },
+    "code": {
+      "id": "NG009019_wanihem",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009019",
+      "level": 2,
+      "name": {
+        "local": "Yala",
+        "en": "Yala",
+        "slug": "yala-ng009019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009019",
+        "level": 2,
+        "name": {
+          "local": "Yala",
+          "en": "Yala",
+          "slug": "yala-ng009019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009019_wanikade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wanikade",
+      "en": "Wanikade",
+      "slug": "wanikade"
+    },
+    "code": {
+      "id": "NG009019_wanikade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009019",
+      "level": 2,
+      "name": {
+        "local": "Yala",
+        "en": "Yala",
+        "slug": "yala-ng009019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009019",
+        "level": 2,
+        "name": {
+          "local": "Yala",
+          "en": "Yala",
+          "slug": "yala-ng009019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009019_yache",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yache",
+      "en": "Yache",
+      "slug": "yache"
+    },
+    "code": {
+      "id": "NG009019_yache",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009019",
+      "level": 2,
+      "name": {
+        "local": "Yala",
+        "en": "Yala",
+        "slug": "yala-ng009019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009019",
+        "level": 2,
+        "name": {
+          "local": "Yala",
+          "en": "Yala",
+          "slug": "yala-ng009019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009019_yahe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yahe",
+      "en": "Yahe",
+      "slug": "yahe"
+    },
+    "code": {
+      "id": "NG009019_yahe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009019",
+      "level": 2,
+      "name": {
+        "local": "Yala",
+        "en": "Yala",
+        "slug": "yala-ng009019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009019",
+        "level": 2,
+        "name": {
+          "local": "Yala",
+          "en": "Yala",
+          "slug": "yala-ng009019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.587",
+      "lon": "8.512"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

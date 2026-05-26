@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG017014_amaokpara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amaokpara",
+      "en": "Amaokpara",
+      "slug": "amaokpara"
+    },
+    "code": {
+      "id": "NG017014_amaokpara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017014",
+      "level": 2,
+      "name": {
+        "local": "Nkwerre",
+        "en": "Nkwerre",
+        "slug": "nkwerre-ng017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017014",
+        "level": 2,
+        "name": {
+          "local": "Nkwerre",
+          "en": "Nkwerre",
+          "slug": "nkwerre-ng017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "7.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017014_eziama-obaire",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eziama Obaire",
+      "en": "Eziama Obaire",
+      "slug": "eziama-obaire"
+    },
+    "code": {
+      "id": "NG017014_eziama-obaire",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017014",
+      "level": 2,
+      "name": {
+        "local": "Nkwerre",
+        "en": "Nkwerre",
+        "slug": "nkwerre-ng017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017014",
+        "level": 2,
+        "name": {
+          "local": "Nkwerre",
+          "en": "Nkwerre",
+          "slug": "nkwerre-ng017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "7.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017014_nkwerre-iv-umunuboumunachi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkwerre Iv (umunubo/umunachi)",
+      "en": "Nkwerre Iv (umunubo/umunachi)",
+      "slug": "nkwerre-iv-umunuboumunachi"
+    },
+    "code": {
+      "id": "NG017014_nkwerre-iv-umunuboumunachi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017014",
+      "level": 2,
+      "name": {
+        "local": "Nkwerre",
+        "en": "Nkwerre",
+        "slug": "nkwerre-ng017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017014",
+        "level": 2,
+        "name": {
+          "local": "Nkwerre",
+          "en": "Nkwerre",
+          "slug": "nkwerre-ng017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "7.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017014_nkwerre-v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkwerre V",
+      "en": "Nkwerre V",
+      "slug": "nkwerre-v"
+    },
+    "code": {
+      "id": "NG017014_nkwerre-v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017014",
+      "level": 2,
+      "name": {
+        "local": "Nkwerre",
+        "en": "Nkwerre",
+        "slug": "nkwerre-ng017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017014",
+        "level": 2,
+        "name": {
+          "local": "Nkwerre",
+          "en": "Nkwerre",
+          "slug": "nkwerre-ng017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "7.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017014_nnanano-nkwerre-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nnanano (nkwerre Ii)",
+      "en": "Nnanano (nkwerre Ii)",
+      "slug": "nnanano-nkwerre-ii"
+    },
+    "code": {
+      "id": "NG017014_nnanano-nkwerre-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017014",
+      "level": 2,
+      "name": {
+        "local": "Nkwerre",
+        "en": "Nkwerre",
+        "slug": "nkwerre-ng017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017014",
+        "level": 2,
+        "name": {
+          "local": "Nkwerre",
+          "en": "Nkwerre",
+          "slug": "nkwerre-ng017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "7.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017014_onusa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Onusa",
+      "en": "Onusa",
+      "slug": "onusa"
+    },
+    "code": {
+      "id": "NG017014_onusa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017014",
+      "level": 2,
+      "name": {
+        "local": "Nkwerre",
+        "en": "Nkwerre",
+        "slug": "nkwerre-ng017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017014",
+        "level": 2,
+        "name": {
+          "local": "Nkwerre",
+          "en": "Nkwerre",
+          "slug": "nkwerre-ng017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "7.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017014_owerre-nkworji-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owerre Nkworji I",
+      "en": "Owerre Nkworji I",
+      "slug": "owerre-nkworji-i"
+    },
+    "code": {
+      "id": "NG017014_owerre-nkworji-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017014",
+      "level": 2,
+      "name": {
+        "local": "Nkwerre",
+        "en": "Nkwerre",
+        "slug": "nkwerre-ng017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017014",
+        "level": 2,
+        "name": {
+          "local": "Nkwerre",
+          "en": "Nkwerre",
+          "slug": "nkwerre-ng017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "7.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017014_owerre-nkworji-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owerre Nkworji Ii",
+      "en": "Owerre Nkworji Ii",
+      "slug": "owerre-nkworji-ii"
+    },
+    "code": {
+      "id": "NG017014_owerre-nkworji-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017014",
+      "level": 2,
+      "name": {
+        "local": "Nkwerre",
+        "en": "Nkwerre",
+        "slug": "nkwerre-ng017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017014",
+        "level": 2,
+        "name": {
+          "local": "Nkwerre",
+          "en": "Nkwerre",
+          "slug": "nkwerre-ng017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "7.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017014_umudiumuwala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umudi/umuwala",
+      "en": "Umudi/umuwala",
+      "slug": "umudiumuwala"
+    },
+    "code": {
+      "id": "NG017014_umudiumuwala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017014",
+      "level": 2,
+      "name": {
+        "local": "Nkwerre",
+        "en": "Nkwerre",
+        "slug": "nkwerre-ng017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017014",
+        "level": 2,
+        "name": {
+          "local": "Nkwerre",
+          "en": "Nkwerre",
+          "slug": "nkwerre-ng017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "7.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG017014_umukor-nkwerre-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umukor (nkwerre Iii)",
+      "en": "Umukor (nkwerre Iii)",
+      "slug": "umukor-nkwerre-iii"
+    },
+    "code": {
+      "id": "NG017014_umukor-nkwerre-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG017014",
+      "level": 2,
+      "name": {
+        "local": "Nkwerre",
+        "en": "Nkwerre",
+        "slug": "nkwerre-ng017014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG017",
+        "level": 1,
+        "name": {
+          "local": "Imo",
+          "en": "Imo",
+          "slug": "imo-ng017"
+        }
+      },
+      {
+        "id": "NG017014",
+        "level": 2,
+        "name": {
+          "local": "Nkwerre",
+          "en": "Nkwerre",
+          "slug": "nkwerre-ng017014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.75",
+      "lon": "7.1"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG002005_dakri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dakri",
+      "en": "Dakri",
+      "slug": "dakri"
+    },
+    "code": {
+      "id": "NG002005_dakri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002005",
+      "level": 2,
+      "name": {
+        "local": "Girei",
+        "en": "Girei",
+        "slug": "girei-ng002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002005",
+        "level": 2,
+        "name": {
+          "local": "Girei",
+          "en": "Girei",
+          "slug": "girei-ng002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.37",
+      "lon": "12.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002005_damare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Damare",
+      "en": "Damare",
+      "slug": "damare"
+    },
+    "code": {
+      "id": "NG002005_damare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002005",
+      "level": 2,
+      "name": {
+        "local": "Girei",
+        "en": "Girei",
+        "slug": "girei-ng002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002005",
+        "level": 2,
+        "name": {
+          "local": "Girei",
+          "en": "Girei",
+          "slug": "girei-ng002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.315",
+      "lon": "12.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002005_gerei-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gerei I",
+      "en": "Gerei I",
+      "slug": "gerei-i"
+    },
+    "code": {
+      "id": "NG002005_gerei-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002005",
+      "level": 2,
+      "name": {
+        "local": "Girei",
+        "en": "Girei",
+        "slug": "girei-ng002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002005",
+        "level": 2,
+        "name": {
+          "local": "Girei",
+          "en": "Girei",
+          "slug": "girei-ng002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.42",
+      "lon": "12.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002005_gereng",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gereng",
+      "en": "Gereng",
+      "slug": "gereng"
+    },
+    "code": {
+      "id": "NG002005_gereng",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002005",
+      "level": 2,
+      "name": {
+        "local": "Girei",
+        "en": "Girei",
+        "slug": "girei-ng002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002005",
+        "level": 2,
+        "name": {
+          "local": "Girei",
+          "en": "Girei",
+          "slug": "girei-ng002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.503",
+      "lon": "12.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002005_girei-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Girei Ii",
+      "en": "Girei Ii",
+      "slug": "girei-ii"
+    },
+    "code": {
+      "id": "NG002005_girei-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002005",
+      "level": 2,
+      "name": {
+        "local": "Girei",
+        "en": "Girei",
+        "slug": "girei-ng002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002005",
+        "level": 2,
+        "name": {
+          "local": "Girei",
+          "en": "Girei",
+          "slug": "girei-ng002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.371",
+      "lon": "12.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002005_jera-bakari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jera Bakari",
+      "en": "Jera Bakari",
+      "slug": "jera-bakari"
+    },
+    "code": {
+      "id": "NG002005_jera-bakari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002005",
+      "level": 2,
+      "name": {
+        "local": "Girei",
+        "en": "Girei",
+        "slug": "girei-ng002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002005",
+        "level": 2,
+        "name": {
+          "local": "Girei",
+          "en": "Girei",
+          "slug": "girei-ng002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.472",
+      "lon": "12.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002005_jera-bonyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jera Bonyo",
+      "en": "Jera Bonyo",
+      "slug": "jera-bonyo"
+    },
+    "code": {
+      "id": "NG002005_jera-bonyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002005",
+      "level": 2,
+      "name": {
+        "local": "Girei",
+        "en": "Girei",
+        "slug": "girei-ng002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002005",
+        "level": 2,
+        "name": {
+          "local": "Girei",
+          "en": "Girei",
+          "slug": "girei-ng002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.544",
+      "lon": "12.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002005_modire-vinikilang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Modire/ Vinikilang",
+      "en": "Modire/ Vinikilang",
+      "slug": "modire-vinikilang"
+    },
+    "code": {
+      "id": "NG002005_modire-vinikilang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002005",
+      "level": 2,
+      "name": {
+        "local": "Girei",
+        "en": "Girei",
+        "slug": "girei-ng002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002005",
+        "level": 2,
+        "name": {
+          "local": "Girei",
+          "en": "Girei",
+          "slug": "girei-ng002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.279",
+      "lon": "12.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002005_tambo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tambo",
+      "en": "Tambo",
+      "slug": "tambo"
+    },
+    "code": {
+      "id": "NG002005_tambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002005",
+      "level": 2,
+      "name": {
+        "local": "Girei",
+        "en": "Girei",
+        "slug": "girei-ng002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002005",
+        "level": 2,
+        "name": {
+          "local": "Girei",
+          "en": "Girei",
+          "slug": "girei-ng002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.555",
+      "lon": "12.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG002005_wuro-dole",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wuro Dole",
+      "en": "Wuro Dole",
+      "slug": "wuro-dole"
+    },
+    "code": {
+      "id": "NG002005_wuro-dole",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG002005",
+      "level": 2,
+      "name": {
+        "local": "Girei",
+        "en": "Girei",
+        "slug": "girei-ng002005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG002",
+        "level": 1,
+        "name": {
+          "local": "Adamawa",
+          "en": "Adamawa",
+          "slug": "adamawa-ng002"
+        }
+      },
+      {
+        "id": "NG002005",
+        "level": 2,
+        "name": {
+          "local": "Girei",
+          "en": "Girei",
+          "slug": "girei-ng002005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.525",
+      "lon": "12.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

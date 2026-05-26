@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG005012_bulkachuwadagaro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bulkachuwa/dagaro",
+      "en": "Bulkachuwa/dagaro",
+      "slug": "bulkachuwadagaro"
+    },
+    "code": {
+      "id": "NG005012_bulkachuwadagaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005012",
+      "level": 2,
+      "name": {
+        "local": "Katagum",
+        "en": "Katagum",
+        "slug": "katagum-ng005012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005012",
+        "level": 2,
+        "name": {
+          "local": "Katagum",
+          "en": "Katagum",
+          "slug": "katagum-ng005012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "10.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005012_buskuri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Buskuri",
+      "en": "Buskuri",
+      "slug": "buskuri"
+    },
+    "code": {
+      "id": "NG005012_buskuri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005012",
+      "level": 2,
+      "name": {
+        "local": "Katagum",
+        "en": "Katagum",
+        "slug": "katagum-ng005012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005012",
+        "level": 2,
+        "name": {
+          "local": "Katagum",
+          "en": "Katagum",
+          "slug": "katagum-ng005012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "10.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005012_chinade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chinade",
+      "en": "Chinade",
+      "slug": "chinade"
+    },
+    "code": {
+      "id": "NG005012_chinade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005012",
+      "level": 2,
+      "name": {
+        "local": "Katagum",
+        "en": "Katagum",
+        "slug": "katagum-ng005012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005012",
+        "level": 2,
+        "name": {
+          "local": "Katagum",
+          "en": "Katagum",
+          "slug": "katagum-ng005012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "10.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005012_gambakibidir",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gambaki/bidir",
+      "en": "Gambaki/bidir",
+      "slug": "gambakibidir"
+    },
+    "code": {
+      "id": "NG005012_gambakibidir",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005012",
+      "level": 2,
+      "name": {
+        "local": "Katagum",
+        "en": "Katagum",
+        "slug": "katagum-ng005012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005012",
+        "level": 2,
+        "name": {
+          "local": "Katagum",
+          "en": "Katagum",
+          "slug": "katagum-ng005012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "10.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005012_madachigangai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madachi/gangai",
+      "en": "Madachi/gangai",
+      "slug": "madachigangai"
+    },
+    "code": {
+      "id": "NG005012_madachigangai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005012",
+      "level": 2,
+      "name": {
+        "local": "Katagum",
+        "en": "Katagum",
+        "slug": "katagum-ng005012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005012",
+        "level": 2,
+        "name": {
+          "local": "Katagum",
+          "en": "Katagum",
+          "slug": "katagum-ng005012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "10.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005012_madangala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madangala",
+      "en": "Madangala",
+      "slug": "madangala"
+    },
+    "code": {
+      "id": "NG005012_madangala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005012",
+      "level": 2,
+      "name": {
+        "local": "Katagum",
+        "en": "Katagum",
+        "slug": "katagum-ng005012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005012",
+        "level": 2,
+        "name": {
+          "local": "Katagum",
+          "en": "Katagum",
+          "slug": "katagum-ng005012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "10.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005012_madara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madara",
+      "en": "Madara",
+      "slug": "madara"
+    },
+    "code": {
+      "id": "NG005012_madara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005012",
+      "level": 2,
+      "name": {
+        "local": "Katagum",
+        "en": "Katagum",
+        "slug": "katagum-ng005012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005012",
+        "level": 2,
+        "name": {
+          "local": "Katagum",
+          "en": "Katagum",
+          "slug": "katagum-ng005012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "10.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005012_nasarawa-bakin-kasuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nasarawa Bakin Kasuwa",
+      "en": "Nasarawa Bakin Kasuwa",
+      "slug": "nasarawa-bakin-kasuwa"
+    },
+    "code": {
+      "id": "NG005012_nasarawa-bakin-kasuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005012",
+      "level": 2,
+      "name": {
+        "local": "Katagum",
+        "en": "Katagum",
+        "slug": "katagum-ng005012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005012",
+        "level": 2,
+        "name": {
+          "local": "Katagum",
+          "en": "Katagum",
+          "slug": "katagum-ng005012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "10.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005012_ragwammagonshi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ragwam/magonshi",
+      "en": "Ragwam/magonshi",
+      "slug": "ragwammagonshi"
+    },
+    "code": {
+      "id": "NG005012_ragwammagonshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005012",
+      "level": 2,
+      "name": {
+        "local": "Katagum",
+        "en": "Katagum",
+        "slug": "katagum-ng005012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005012",
+        "level": 2,
+        "name": {
+          "local": "Katagum",
+          "en": "Katagum",
+          "slug": "katagum-ng005012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "10.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005012_tsakuwa-kofar-gabas-kofar-kuka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsakuwa Kofar Gabas/ Kofar Kuka",
+      "en": "Tsakuwa Kofar Gabas/ Kofar Kuka",
+      "slug": "tsakuwa-kofar-gabas-kofar-kuka"
+    },
+    "code": {
+      "id": "NG005012_tsakuwa-kofar-gabas-kofar-kuka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005012",
+      "level": 2,
+      "name": {
+        "local": "Katagum",
+        "en": "Katagum",
+        "slug": "katagum-ng005012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005012",
+        "level": 2,
+        "name": {
+          "local": "Katagum",
+          "en": "Katagum",
+          "slug": "katagum-ng005012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "10.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005012_yayu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yayu",
+      "en": "Yayu",
+      "slug": "yayu"
+    },
+    "code": {
+      "id": "NG005012_yayu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005012",
+      "level": 2,
+      "name": {
+        "local": "Katagum",
+        "en": "Katagum",
+        "slug": "katagum-ng005012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005012",
+        "level": 2,
+        "name": {
+          "local": "Katagum",
+          "en": "Katagum",
+          "slug": "katagum-ng005012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "10.345"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

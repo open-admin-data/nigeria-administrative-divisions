@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG014001_mpu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mpu",
+      "en": "Mpu",
+      "slug": "mpu"
+    },
+    "code": {
+      "id": "NG014001_mpu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014001",
+      "level": 2,
+      "name": {
+        "local": "Aninri",
+        "en": "Aninri",
+        "slug": "aninri-ng014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014001",
+        "level": 2,
+        "name": {
+          "local": "Aninri",
+          "en": "Aninri",
+          "slug": "aninri-ng014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "7.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014001_ndeabo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndeabo",
+      "en": "Ndeabo",
+      "slug": "ndeabo"
+    },
+    "code": {
+      "id": "NG014001_ndeabo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014001",
+      "level": 2,
+      "name": {
+        "local": "Aninri",
+        "en": "Aninri",
+        "slug": "aninri-ng014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014001",
+        "level": 2,
+        "name": {
+          "local": "Aninri",
+          "en": "Aninri",
+          "slug": "aninri-ng014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "7.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014001_nnenwe-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nnenwe I",
+      "en": "Nnenwe I",
+      "slug": "nnenwe-i"
+    },
+    "code": {
+      "id": "NG014001_nnenwe-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014001",
+      "level": 2,
+      "name": {
+        "local": "Aninri",
+        "en": "Aninri",
+        "slug": "aninri-ng014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014001",
+        "level": 2,
+        "name": {
+          "local": "Aninri",
+          "en": "Aninri",
+          "slug": "aninri-ng014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "7.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014001_nnenwe-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nnenwe Ii",
+      "en": "Nnenwe Ii",
+      "slug": "nnenwe-ii"
+    },
+    "code": {
+      "id": "NG014001_nnenwe-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014001",
+      "level": 2,
+      "name": {
+        "local": "Aninri",
+        "en": "Aninri",
+        "slug": "aninri-ng014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014001",
+        "level": 2,
+        "name": {
+          "local": "Aninri",
+          "en": "Aninri",
+          "slug": "aninri-ng014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "7.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014001_nnenwe-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nnenwe Iii",
+      "en": "Nnenwe Iii",
+      "slug": "nnenwe-iii"
+    },
+    "code": {
+      "id": "NG014001_nnenwe-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014001",
+      "level": 2,
+      "name": {
+        "local": "Aninri",
+        "en": "Aninri",
+        "slug": "aninri-ng014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014001",
+        "level": 2,
+        "name": {
+          "local": "Aninri",
+          "en": "Aninri",
+          "slug": "aninri-ng014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "7.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014001_oduma-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oduma I",
+      "en": "Oduma I",
+      "slug": "oduma-i"
+    },
+    "code": {
+      "id": "NG014001_oduma-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014001",
+      "level": 2,
+      "name": {
+        "local": "Aninri",
+        "en": "Aninri",
+        "slug": "aninri-ng014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014001",
+        "level": 2,
+        "name": {
+          "local": "Aninri",
+          "en": "Aninri",
+          "slug": "aninri-ng014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "7.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014001_oduma-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oduma Ii",
+      "en": "Oduma Ii",
+      "slug": "oduma-ii"
+    },
+    "code": {
+      "id": "NG014001_oduma-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014001",
+      "level": 2,
+      "name": {
+        "local": "Aninri",
+        "en": "Aninri",
+        "slug": "aninri-ng014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014001",
+        "level": 2,
+        "name": {
+          "local": "Aninri",
+          "en": "Aninri",
+          "slug": "aninri-ng014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "7.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014001_oduma-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oduma Iii",
+      "en": "Oduma Iii",
+      "slug": "oduma-iii"
+    },
+    "code": {
+      "id": "NG014001_oduma-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014001",
+      "level": 2,
+      "name": {
+        "local": "Aninri",
+        "en": "Aninri",
+        "slug": "aninri-ng014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014001",
+        "level": 2,
+        "name": {
+          "local": "Aninri",
+          "en": "Aninri",
+          "slug": "aninri-ng014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "7.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014001_oduma-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oduma Iv",
+      "en": "Oduma Iv",
+      "slug": "oduma-iv"
+    },
+    "code": {
+      "id": "NG014001_oduma-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014001",
+      "level": 2,
+      "name": {
+        "local": "Aninri",
+        "en": "Aninri",
+        "slug": "aninri-ng014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014001",
+        "level": 2,
+        "name": {
+          "local": "Aninri",
+          "en": "Aninri",
+          "slug": "aninri-ng014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "7.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014001_okpanku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpanku",
+      "en": "Okpanku",
+      "slug": "okpanku"
+    },
+    "code": {
+      "id": "NG014001_okpanku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014001",
+      "level": 2,
+      "name": {
+        "local": "Aninri",
+        "en": "Aninri",
+        "slug": "aninri-ng014001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014001",
+        "level": 2,
+        "name": {
+          "local": "Aninri",
+          "en": "Aninri",
+          "slug": "aninri-ng014001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.068",
+      "lon": "7.597"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

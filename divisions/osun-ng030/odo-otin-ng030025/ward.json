@@ -1,0 +1,812 @@
+[
+  {
+    "id": "NG030025_asiasaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asi/asaba",
+      "en": "Asi/asaba",
+      "slug": "asiasaba"
+    },
+    "code": {
+      "id": "NG030025_asiasaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_baale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baale",
+      "en": "Baale",
+      "slug": "baale"
+    },
+    "code": {
+      "id": "NG030025_baale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_ekosiniyeku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekosin/iyeku",
+      "en": "Ekosin/iyeku",
+      "slug": "ekosiniyeku"
+    },
+    "code": {
+      "id": "NG030025_ekosiniyeku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_esa-otun-baale-ode",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Esa Otun Baale Ode",
+      "en": "Esa Otun Baale Ode",
+      "slug": "esa-otun-baale-ode"
+    },
+    "code": {
+      "id": "NG030025_esa-otun-baale-ode",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_fajiopete",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Faji/opete",
+      "en": "Faji/opete",
+      "slug": "fajiopete"
+    },
+    "code": {
+      "id": "NG030025_fajiopete",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_igbaye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igbaye",
+      "en": "Igbaye",
+      "slug": "igbaye"
+    },
+    "code": {
+      "id": "NG030025_igbaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_ijabeila-odo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijabe/ila Odo",
+      "en": "Ijabe/ila Odo",
+      "slug": "ijabeila-odo"
+    },
+    "code": {
+      "id": "NG030025_ijabeila-odo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_jagun-osi-bale-ode",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jagun Osi Bale Ode",
+      "en": "Jagun Osi Bale Ode",
+      "slug": "jagun-osi-bale-ode"
+    },
+    "code": {
+      "id": "NG030025_jagun-osi-bale-ode",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_oba-ojomu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oba Ojomu",
+      "en": "Oba Ojomu",
+      "slug": "oba-ojomu"
+    },
+    "code": {
+      "id": "NG030025_oba-ojomu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_okuaekusa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okua/ekusa",
+      "en": "Okua/ekusa",
+      "slug": "okuaekusa"
+    },
+    "code": {
+      "id": "NG030025_okuaekusa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_oloyan-elemosho-esa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oloyan Elemosho / Esa",
+      "en": "Oloyan Elemosho / Esa",
+      "slug": "oloyan-elemosho-esa"
+    },
+    "code": {
+      "id": "NG030025_oloyan-elemosho-esa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_olukotun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olukotun",
+      "en": "Olukotun",
+      "slug": "olukotun"
+    },
+    "code": {
+      "id": "NG030025_olukotun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_olunisa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Olunisa",
+      "en": "Olunisa",
+      "slug": "olunisa"
+    },
+    "code": {
+      "id": "NG030025_olunisa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_oreagbeye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ore/agbeye",
+      "en": "Ore/agbeye",
+      "slug": "oreagbeye"
+    },
+    "code": {
+      "id": "NG030025_oreagbeye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG030025_osolooparinola",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Osolo/oparin/ola",
+      "en": "Osolo/oparin/ola",
+      "slug": "osolooparinola"
+    },
+    "code": {
+      "id": "NG030025_osolooparinola",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG030025",
+      "level": 2,
+      "name": {
+        "local": "Odo-Otin",
+        "en": "Odo-Otin",
+        "slug": "odo-otin-ng030025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG030",
+        "level": 1,
+        "name": {
+          "local": "Osun",
+          "en": "Osun",
+          "slug": "osun-ng030"
+        }
+      },
+      {
+        "id": "NG030025",
+        "level": 2,
+        "name": {
+          "local": "Odo-Otin",
+          "en": "Odo-Otin",
+          "slug": "odo-otin-ng030025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.007",
+      "lon": "4.679"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG024008_adewole",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adewole",
+      "en": "Adewole",
+      "slug": "adewole"
+    },
+    "code": {
+      "id": "NG024008_adewole",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024008",
+      "level": 2,
+      "name": {
+        "local": "Ilorin West",
+        "en": "Ilorin West",
+        "slug": "ilorin-west-ng024008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024008",
+        "level": 2,
+        "name": {
+          "local": "Ilorin West",
+          "en": "Ilorin West",
+          "slug": "ilorin-west-ng024008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.49",
+      "lon": "4.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024008_ajikobi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajikobi",
+      "en": "Ajikobi",
+      "slug": "ajikobi"
+    },
+    "code": {
+      "id": "NG024008_ajikobi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024008",
+      "level": 2,
+      "name": {
+        "local": "Ilorin West",
+        "en": "Ilorin West",
+        "slug": "ilorin-west-ng024008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024008",
+        "level": 2,
+        "name": {
+          "local": "Ilorin West",
+          "en": "Ilorin West",
+          "slug": "ilorin-west-ng024008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.49",
+      "lon": "4.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024008_baboko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baboko",
+      "en": "Baboko",
+      "slug": "baboko"
+    },
+    "code": {
+      "id": "NG024008_baboko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024008",
+      "level": 2,
+      "name": {
+        "local": "Ilorin West",
+        "en": "Ilorin West",
+        "slug": "ilorin-west-ng024008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024008",
+        "level": 2,
+        "name": {
+          "local": "Ilorin West",
+          "en": "Ilorin West",
+          "slug": "ilorin-west-ng024008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.49",
+      "lon": "4.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024008_badari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Badari",
+      "en": "Badari",
+      "slug": "badari"
+    },
+    "code": {
+      "id": "NG024008_badari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024008",
+      "level": 2,
+      "name": {
+        "local": "Ilorin West",
+        "en": "Ilorin West",
+        "slug": "ilorin-west-ng024008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024008",
+        "level": 2,
+        "name": {
+          "local": "Ilorin West",
+          "en": "Ilorin West",
+          "slug": "ilorin-west-ng024008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.49",
+      "lon": "4.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024008_balogun-alanamu-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Balogun Alanamu Central",
+      "en": "Balogun Alanamu Central",
+      "slug": "balogun-alanamu-central"
+    },
+    "code": {
+      "id": "NG024008_balogun-alanamu-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024008",
+      "level": 2,
+      "name": {
+        "local": "Ilorin West",
+        "en": "Ilorin West",
+        "slug": "ilorin-west-ng024008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024008",
+        "level": 2,
+        "name": {
+          "local": "Ilorin West",
+          "en": "Ilorin West",
+          "slug": "ilorin-west-ng024008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.49",
+      "lon": "4.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024008_magaji-ngeri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magaji Ngeri",
+      "en": "Magaji Ngeri",
+      "slug": "magaji-ngeri"
+    },
+    "code": {
+      "id": "NG024008_magaji-ngeri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024008",
+      "level": 2,
+      "name": {
+        "local": "Ilorin West",
+        "en": "Ilorin West",
+        "slug": "ilorin-west-ng024008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024008",
+        "level": 2,
+        "name": {
+          "local": "Ilorin West",
+          "en": "Ilorin West",
+          "slug": "ilorin-west-ng024008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.49",
+      "lon": "4.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024008_ogidi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogidi",
+      "en": "Ogidi",
+      "slug": "ogidi"
+    },
+    "code": {
+      "id": "NG024008_ogidi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024008",
+      "level": 2,
+      "name": {
+        "local": "Ilorin West",
+        "en": "Ilorin West",
+        "slug": "ilorin-west-ng024008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024008",
+        "level": 2,
+        "name": {
+          "local": "Ilorin West",
+          "en": "Ilorin West",
+          "slug": "ilorin-west-ng024008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.49",
+      "lon": "4.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024008_ojuekunzarumi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojuekun/zarumi",
+      "en": "Ojuekun/zarumi",
+      "slug": "ojuekunzarumi"
+    },
+    "code": {
+      "id": "NG024008_ojuekunzarumi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024008",
+      "level": 2,
+      "name": {
+        "local": "Ilorin West",
+        "en": "Ilorin West",
+        "slug": "ilorin-west-ng024008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024008",
+        "level": 2,
+        "name": {
+          "local": "Ilorin West",
+          "en": "Ilorin West",
+          "slug": "ilorin-west-ng024008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.49",
+      "lon": "4.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024008_oko-erin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oko-erin",
+      "en": "Oko-erin",
+      "slug": "oko-erin"
+    },
+    "code": {
+      "id": "NG024008_oko-erin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024008",
+      "level": 2,
+      "name": {
+        "local": "Ilorin West",
+        "en": "Ilorin West",
+        "slug": "ilorin-west-ng024008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024008",
+        "level": 2,
+        "name": {
+          "local": "Ilorin West",
+          "en": "Ilorin West",
+          "slug": "ilorin-west-ng024008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.49",
+      "lon": "4.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024008_oloje",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oloje",
+      "en": "Oloje",
+      "slug": "oloje"
+    },
+    "code": {
+      "id": "NG024008_oloje",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024008",
+      "level": 2,
+      "name": {
+        "local": "Ilorin West",
+        "en": "Ilorin West",
+        "slug": "ilorin-west-ng024008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024008",
+        "level": 2,
+        "name": {
+          "local": "Ilorin West",
+          "en": "Ilorin West",
+          "slug": "ilorin-west-ng024008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.49",
+      "lon": "4.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024008_ubandawaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ubandawaki",
+      "en": "Ubandawaki",
+      "slug": "ubandawaki"
+    },
+    "code": {
+      "id": "NG024008_ubandawaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024008",
+      "level": 2,
+      "name": {
+        "local": "Ilorin West",
+        "en": "Ilorin West",
+        "slug": "ilorin-west-ng024008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024008",
+        "level": 2,
+        "name": {
+          "local": "Ilorin West",
+          "en": "Ilorin West",
+          "slug": "ilorin-west-ng024008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.49",
+      "lon": "4.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024008_warrahegbe-jilaoshin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Warrah/egbe Jila/oshin",
+      "en": "Warrah/egbe Jila/oshin",
+      "slug": "warrahegbe-jilaoshin"
+    },
+    "code": {
+      "id": "NG024008_warrahegbe-jilaoshin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024008",
+      "level": 2,
+      "name": {
+        "local": "Ilorin West",
+        "en": "Ilorin West",
+        "slug": "ilorin-west-ng024008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024008",
+        "level": 2,
+        "name": {
+          "local": "Ilorin West",
+          "en": "Ilorin West",
+          "slug": "ilorin-west-ng024008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.49",
+      "lon": "4.498"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

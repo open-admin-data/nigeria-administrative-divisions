@@ -1,0 +1,47 @@
+{
+  "id": "NG008012",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Hawul",
+    "en": "Hawul",
+    "slug": "hawul-ng008012"
+  },
+  "code": {
+    "id": "NG008012",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG008",
+    "level": 1,
+    "name": {
+      "local": "Borno",
+      "en": "Borno",
+      "slug": "borno-ng008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG008",
+      "level": 1,
+      "name": {
+        "local": "Borno",
+        "en": "Borno",
+        "slug": "borno-ng008"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.457",
+    "lon": "12.295"
+  },
+  "metadata": {},
+  "source": {}
+}

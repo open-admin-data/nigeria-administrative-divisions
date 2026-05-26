@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG011004_abakpa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abakpa",
+      "en": "Abakpa",
+      "slug": "abakpa"
+    },
+    "code": {
+      "id": "NG011004_abakpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011004_abofia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abofia",
+      "en": "Abofia",
+      "slug": "abofia"
+    },
+    "code": {
+      "id": "NG011004_abofia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011004_agalegu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agalegu",
+      "en": "Agalegu",
+      "slug": "agalegu"
+    },
+    "code": {
+      "id": "NG011004_agalegu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011004_echiaba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Echiaba",
+      "en": "Echiaba",
+      "slug": "echiaba"
+    },
+    "code": {
+      "id": "NG011004_echiaba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011004_egwudinagu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egwudinagu",
+      "en": "Egwudinagu",
+      "slug": "egwudinagu"
+    },
+    "code": {
+      "id": "NG011004_egwudinagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011004_enyibichiri-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Enyibichiri I",
+      "en": "Enyibichiri I",
+      "slug": "enyibichiri-i"
+    },
+    "code": {
+      "id": "NG011004_enyibichiri-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011004_enyibichiri-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Enyibichiri Ii",
+      "en": "Enyibichiri Ii",
+      "slug": "enyibichiri-ii"
+    },
+    "code": {
+      "id": "NG011004_enyibichiri-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011004_kpirikpiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kpirikpiri",
+      "en": "Kpirikpiri",
+      "slug": "kpirikpiri"
+    },
+    "code": {
+      "id": "NG011004_kpirikpiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011004_mbeke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbeke",
+      "en": "Mbeke",
+      "slug": "mbeke"
+    },
+    "code": {
+      "id": "NG011004_mbeke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011004_ndiagu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndiagu",
+      "en": "Ndiagu",
+      "slug": "ndiagu"
+    },
+    "code": {
+      "id": "NG011004_ndiagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011004_ndiebor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndiebor",
+      "en": "Ndiebor",
+      "slug": "ndiebor"
+    },
+    "code": {
+      "id": "NG011004_ndiebor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011004_onuenyim",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Onuenyim",
+      "en": "Onuenyim",
+      "slug": "onuenyim"
+    },
+    "code": {
+      "id": "NG011004_onuenyim",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG011004_urban-new-layout",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Urban New Layout",
+      "en": "Urban New Layout",
+      "slug": "urban-new-layout"
+    },
+    "code": {
+      "id": "NG011004_urban-new-layout",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG011004",
+      "level": 2,
+      "name": {
+        "local": "Ebonyi",
+        "en": "Ebonyi",
+        "slug": "ebonyi-ng011004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG011",
+        "level": 1,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011"
+        }
+      },
+      {
+        "id": "NG011004",
+        "level": 2,
+        "name": {
+          "local": "Ebonyi",
+          "en": "Ebonyi",
+          "slug": "ebonyi-ng011004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.558",
+      "lon": "8.112"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NG023014",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ofu",
+    "en": "Ofu",
+    "slug": "ofu-ng023014"
+  },
+  "code": {
+    "id": "NG023014",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG023",
+    "level": 1,
+    "name": {
+      "local": "Kogi",
+      "en": "Kogi",
+      "slug": "kogi-ng023"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG023",
+      "level": 1,
+      "name": {
+        "local": "Kogi",
+        "en": "Kogi",
+        "slug": "kogi-ng023"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.329",
+    "lon": "7.069"
+  },
+  "metadata": {},
+  "source": {}
+}

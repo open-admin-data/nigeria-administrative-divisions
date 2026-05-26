@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG009003_atimbo-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Atimbo East",
+      "en": "Atimbo East",
+      "slug": "atimbo-east"
+    },
+    "code": {
+      "id": "NG009003_atimbo-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009003",
+      "level": 2,
+      "name": {
+        "local": "Akpabuyo",
+        "en": "Akpabuyo",
+        "slug": "akpabuyo-ng009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009003",
+        "level": 2,
+        "name": {
+          "local": "Akpabuyo",
+          "en": "Akpabuyo",
+          "slug": "akpabuyo-ng009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "8.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009003_atimbo-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Atimbo West",
+      "en": "Atimbo West",
+      "slug": "atimbo-west"
+    },
+    "code": {
+      "id": "NG009003_atimbo-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009003",
+      "level": 2,
+      "name": {
+        "local": "Akpabuyo",
+        "en": "Akpabuyo",
+        "slug": "akpabuyo-ng009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009003",
+        "level": 2,
+        "name": {
+          "local": "Akpabuyo",
+          "en": "Akpabuyo",
+          "slug": "akpabuyo-ng009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "8.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009003_eneyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eneyo",
+      "en": "Eneyo",
+      "slug": "eneyo"
+    },
+    "code": {
+      "id": "NG009003_eneyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009003",
+      "level": 2,
+      "name": {
+        "local": "Akpabuyo",
+        "en": "Akpabuyo",
+        "slug": "akpabuyo-ng009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009003",
+        "level": 2,
+        "name": {
+          "local": "Akpabuyo",
+          "en": "Akpabuyo",
+          "slug": "akpabuyo-ng009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "8.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009003_idunduanyanganse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idundu/anyanganse",
+      "en": "Idundu/anyanganse",
+      "slug": "idunduanyanganse"
+    },
+    "code": {
+      "id": "NG009003_idunduanyanganse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009003",
+      "level": 2,
+      "name": {
+        "local": "Akpabuyo",
+        "en": "Akpabuyo",
+        "slug": "akpabuyo-ng009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009003",
+        "level": 2,
+        "name": {
+          "local": "Akpabuyo",
+          "en": "Akpabuyo",
+          "slug": "akpabuyo-ng009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "8.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009003_ikang-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikang Central",
+      "en": "Ikang Central",
+      "slug": "ikang-central"
+    },
+    "code": {
+      "id": "NG009003_ikang-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009003",
+      "level": 2,
+      "name": {
+        "local": "Akpabuyo",
+        "en": "Akpabuyo",
+        "slug": "akpabuyo-ng009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009003",
+        "level": 2,
+        "name": {
+          "local": "Akpabuyo",
+          "en": "Akpabuyo",
+          "slug": "akpabuyo-ng009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "8.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009003_ikang-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikang North",
+      "en": "Ikang North",
+      "slug": "ikang-north"
+    },
+    "code": {
+      "id": "NG009003_ikang-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009003",
+      "level": 2,
+      "name": {
+        "local": "Akpabuyo",
+        "en": "Akpabuyo",
+        "slug": "akpabuyo-ng009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009003",
+        "level": 2,
+        "name": {
+          "local": "Akpabuyo",
+          "en": "Akpabuyo",
+          "slug": "akpabuyo-ng009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "8.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009003_ikang-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikang South",
+      "en": "Ikang South",
+      "slug": "ikang-south"
+    },
+    "code": {
+      "id": "NG009003_ikang-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009003",
+      "level": 2,
+      "name": {
+        "local": "Akpabuyo",
+        "en": "Akpabuyo",
+        "slug": "akpabuyo-ng009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009003",
+        "level": 2,
+        "name": {
+          "local": "Akpabuyo",
+          "en": "Akpabuyo",
+          "slug": "akpabuyo-ng009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "8.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009003_ikot-edem-odo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikot Edem Odo",
+      "en": "Ikot Edem Odo",
+      "slug": "ikot-edem-odo"
+    },
+    "code": {
+      "id": "NG009003_ikot-edem-odo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009003",
+      "level": 2,
+      "name": {
+        "local": "Akpabuyo",
+        "en": "Akpabuyo",
+        "slug": "akpabuyo-ng009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009003",
+        "level": 2,
+        "name": {
+          "local": "Akpabuyo",
+          "en": "Akpabuyo",
+          "slug": "akpabuyo-ng009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "8.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009003_ikot-eyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikot Eyo",
+      "en": "Ikot Eyo",
+      "slug": "ikot-eyo"
+    },
+    "code": {
+      "id": "NG009003_ikot-eyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009003",
+      "level": 2,
+      "name": {
+        "local": "Akpabuyo",
+        "en": "Akpabuyo",
+        "slug": "akpabuyo-ng009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009003",
+        "level": 2,
+        "name": {
+          "local": "Akpabuyo",
+          "en": "Akpabuyo",
+          "slug": "akpabuyo-ng009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "8.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009003_ikot-nakanda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ikot Nakanda",
+      "en": "Ikot Nakanda",
+      "slug": "ikot-nakanda"
+    },
+    "code": {
+      "id": "NG009003_ikot-nakanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009003",
+      "level": 2,
+      "name": {
+        "local": "Akpabuyo",
+        "en": "Akpabuyo",
+        "slug": "akpabuyo-ng009003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009003",
+        "level": 2,
+        "name": {
+          "local": "Akpabuyo",
+          "en": "Akpabuyo",
+          "slug": "akpabuyo-ng009003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "8.482"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

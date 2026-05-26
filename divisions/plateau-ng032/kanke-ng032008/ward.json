@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG032008_ampang-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ampang-east",
+      "en": "Ampang-east",
+      "slug": "ampang-east"
+    },
+    "code": {
+      "id": "NG032008_ampang-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032008",
+      "level": 2,
+      "name": {
+        "local": "Kanke",
+        "en": "Kanke",
+        "slug": "kanke-ng032008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032008",
+        "level": 2,
+        "name": {
+          "local": "Kanke",
+          "en": "Kanke",
+          "slug": "kanke-ng032008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "9.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032008_amper-chika-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amper Chika 'a'",
+      "en": "Amper Chika 'a'",
+      "slug": "amper-chika-a"
+    },
+    "code": {
+      "id": "NG032008_amper-chika-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032008",
+      "level": 2,
+      "name": {
+        "local": "Kanke",
+        "en": "Kanke",
+        "slug": "kanke-ng032008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032008",
+        "level": 2,
+        "name": {
+          "local": "Kanke",
+          "en": "Kanke",
+          "slug": "kanke-ng032008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "9.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032008_amper-chika-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amper Chika 'b'",
+      "en": "Amper Chika 'b'",
+      "slug": "amper-chika-b"
+    },
+    "code": {
+      "id": "NG032008_amper-chika-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032008",
+      "level": 2,
+      "name": {
+        "local": "Kanke",
+        "en": "Kanke",
+        "slug": "kanke-ng032008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032008",
+        "level": 2,
+        "name": {
+          "local": "Kanke",
+          "en": "Kanke",
+          "slug": "kanke-ng032008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "9.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032008_amper-seri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amper Seri",
+      "en": "Amper Seri",
+      "slug": "amper-seri"
+    },
+    "code": {
+      "id": "NG032008_amper-seri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032008",
+      "level": 2,
+      "name": {
+        "local": "Kanke",
+        "en": "Kanke",
+        "slug": "kanke-ng032008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032008",
+        "level": 2,
+        "name": {
+          "local": "Kanke",
+          "en": "Kanke",
+          "slug": "kanke-ng032008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "9.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032008_dawaki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dawaki",
+      "en": "Dawaki",
+      "slug": "dawaki"
+    },
+    "code": {
+      "id": "NG032008_dawaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032008",
+      "level": 2,
+      "name": {
+        "local": "Kanke",
+        "en": "Kanke",
+        "slug": "kanke-ng032008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032008",
+        "level": 2,
+        "name": {
+          "local": "Kanke",
+          "en": "Kanke",
+          "slug": "kanke-ng032008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "9.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032008_garram",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garram",
+      "en": "Garram",
+      "slug": "garram"
+    },
+    "code": {
+      "id": "NG032008_garram",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032008",
+      "level": 2,
+      "name": {
+        "local": "Kanke",
+        "en": "Kanke",
+        "slug": "kanke-ng032008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032008",
+        "level": 2,
+        "name": {
+          "local": "Kanke",
+          "en": "Kanke",
+          "slug": "kanke-ng032008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "9.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032008_kabwir-pada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kabwir Pada",
+      "en": "Kabwir Pada",
+      "slug": "kabwir-pada"
+    },
+    "code": {
+      "id": "NG032008_kabwir-pada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032008",
+      "level": 2,
+      "name": {
+        "local": "Kanke",
+        "en": "Kanke",
+        "slug": "kanke-ng032008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032008",
+        "level": 2,
+        "name": {
+          "local": "Kanke",
+          "en": "Kanke",
+          "slug": "kanke-ng032008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "9.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032008_kabwirgyangyang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kabwir/gyangyang",
+      "en": "Kabwir/gyangyang",
+      "slug": "kabwirgyangyang"
+    },
+    "code": {
+      "id": "NG032008_kabwirgyangyang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032008",
+      "level": 2,
+      "name": {
+        "local": "Kanke",
+        "en": "Kanke",
+        "slug": "kanke-ng032008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032008",
+        "level": 2,
+        "name": {
+          "local": "Kanke",
+          "en": "Kanke",
+          "slug": "kanke-ng032008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "9.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032008_langshi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Langshi",
+      "en": "Langshi",
+      "slug": "langshi"
+    },
+    "code": {
+      "id": "NG032008_langshi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032008",
+      "level": 2,
+      "name": {
+        "local": "Kanke",
+        "en": "Kanke",
+        "slug": "kanke-ng032008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032008",
+        "level": 2,
+        "name": {
+          "local": "Kanke",
+          "en": "Kanke",
+          "slug": "kanke-ng032008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "9.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG032008_nemel",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nemel",
+      "en": "Nemel",
+      "slug": "nemel"
+    },
+    "code": {
+      "id": "NG032008_nemel",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG032008",
+      "level": 2,
+      "name": {
+        "local": "Kanke",
+        "en": "Kanke",
+        "slug": "kanke-ng032008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG032",
+        "level": 1,
+        "name": {
+          "local": "Plateau",
+          "en": "Plateau",
+          "slug": "plateau-ng032"
+        }
+      },
+      {
+        "id": "NG032008",
+        "level": 2,
+        "name": {
+          "local": "Kanke",
+          "en": "Kanke",
+          "slug": "kanke-ng032008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.363",
+      "lon": "9.655"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG029018_ehinogbe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ehinogbe",
+      "en": "Ehinogbe",
+      "slug": "ehinogbe"
+    },
+    "code": {
+      "id": "NG029018_ehinogbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029018",
+      "level": 2,
+      "name": {
+        "local": "Owo",
+        "en": "Owo",
+        "slug": "owo-ng029018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029018",
+        "level": 2,
+        "name": {
+          "local": "Owo",
+          "en": "Owo",
+          "slug": "owo-ng029018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "5.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029018_igboroko-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igboroko 1",
+      "en": "Igboroko 1",
+      "slug": "igboroko-1"
+    },
+    "code": {
+      "id": "NG029018_igboroko-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029018",
+      "level": 2,
+      "name": {
+        "local": "Owo",
+        "en": "Owo",
+        "slug": "owo-ng029018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029018",
+        "level": 2,
+        "name": {
+          "local": "Owo",
+          "en": "Owo",
+          "slug": "owo-ng029018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "5.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029018_igboroko-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igboroko 11",
+      "en": "Igboroko 11",
+      "slug": "igboroko-11"
+    },
+    "code": {
+      "id": "NG029018_igboroko-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029018",
+      "level": 2,
+      "name": {
+        "local": "Owo",
+        "en": "Owo",
+        "slug": "owo-ng029018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029018",
+        "level": 2,
+        "name": {
+          "local": "Owo",
+          "en": "Owo",
+          "slug": "owo-ng029018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "5.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029018_ijebu-1",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijebu 1",
+      "en": "Ijebu 1",
+      "slug": "ijebu-1"
+    },
+    "code": {
+      "id": "NG029018_ijebu-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029018",
+      "level": 2,
+      "name": {
+        "local": "Owo",
+        "en": "Owo",
+        "slug": "owo-ng029018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029018",
+        "level": 2,
+        "name": {
+          "local": "Owo",
+          "en": "Owo",
+          "slug": "owo-ng029018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "5.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029018_ijebu-11",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ijebu 11",
+      "en": "Ijebu 11",
+      "slug": "ijebu-11"
+    },
+    "code": {
+      "id": "NG029018_ijebu-11",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029018",
+      "level": 2,
+      "name": {
+        "local": "Owo",
+        "en": "Owo",
+        "slug": "owo-ng029018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029018",
+        "level": 2,
+        "name": {
+          "local": "Owo",
+          "en": "Owo",
+          "slug": "owo-ng029018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "5.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029018_iloro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iloro",
+      "en": "Iloro",
+      "slug": "iloro"
+    },
+    "code": {
+      "id": "NG029018_iloro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029018",
+      "level": 2,
+      "name": {
+        "local": "Owo",
+        "en": "Owo",
+        "slug": "owo-ng029018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029018",
+        "level": 2,
+        "name": {
+          "local": "Owo",
+          "en": "Owo",
+          "slug": "owo-ng029018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "5.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029018_ipele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipele",
+      "en": "Ipele",
+      "slug": "ipele"
+    },
+    "code": {
+      "id": "NG029018_ipele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029018",
+      "level": 2,
+      "name": {
+        "local": "Owo",
+        "en": "Owo",
+        "slug": "owo-ng029018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029018",
+        "level": 2,
+        "name": {
+          "local": "Owo",
+          "en": "Owo",
+          "slug": "owo-ng029018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "5.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029018_isaipen",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isaipen",
+      "en": "Isaipen",
+      "slug": "isaipen"
+    },
+    "code": {
+      "id": "NG029018_isaipen",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029018",
+      "level": 2,
+      "name": {
+        "local": "Owo",
+        "en": "Owo",
+        "slug": "owo-ng029018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029018",
+        "level": 2,
+        "name": {
+          "local": "Owo",
+          "en": "Owo",
+          "slug": "owo-ng029018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "5.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029018_isuadaipenmenidasanobasooto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isuada/ipenmen/idasan/obasooto",
+      "en": "Isuada/ipenmen/idasan/obasooto",
+      "slug": "isuadaipenmenidasanobasooto"
+    },
+    "code": {
+      "id": "NG029018_isuadaipenmenidasanobasooto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029018",
+      "level": 2,
+      "name": {
+        "local": "Owo",
+        "en": "Owo",
+        "slug": "owo-ng029018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029018",
+        "level": 2,
+        "name": {
+          "local": "Owo",
+          "en": "Owo",
+          "slug": "owo-ng029018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "5.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029018_iyare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iyare",
+      "en": "Iyare",
+      "slug": "iyare"
+    },
+    "code": {
+      "id": "NG029018_iyare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029018",
+      "level": 2,
+      "name": {
+        "local": "Owo",
+        "en": "Owo",
+        "slug": "owo-ng029018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029018",
+        "level": 2,
+        "name": {
+          "local": "Owo",
+          "en": "Owo",
+          "slug": "owo-ng029018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "5.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029018_usoemure-ile",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uso/emure Ile",
+      "en": "Uso/emure Ile",
+      "slug": "usoemure-ile"
+    },
+    "code": {
+      "id": "NG029018_usoemure-ile",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029018",
+      "level": 2,
+      "name": {
+        "local": "Owo",
+        "en": "Owo",
+        "slug": "owo-ng029018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029018",
+        "level": 2,
+        "name": {
+          "local": "Owo",
+          "en": "Owo",
+          "slug": "owo-ng029018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.108",
+      "lon": "5.592"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

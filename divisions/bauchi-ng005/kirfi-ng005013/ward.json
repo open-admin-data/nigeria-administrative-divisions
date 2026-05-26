@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG005013_badara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Badara",
+      "en": "Badara",
+      "slug": "badara"
+    },
+    "code": {
+      "id": "NG005013_badara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005013",
+      "level": 2,
+      "name": {
+        "local": "Kirfi",
+        "en": "Kirfi",
+        "slug": "kirfi-ng005013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005013",
+        "level": 2,
+        "name": {
+          "local": "Kirfi",
+          "en": "Kirfi",
+          "slug": "kirfi-ng005013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.442",
+      "lon": "10.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005013_bara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bara",
+      "en": "Bara",
+      "slug": "bara"
+    },
+    "code": {
+      "id": "NG005013_bara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005013",
+      "level": 2,
+      "name": {
+        "local": "Kirfi",
+        "en": "Kirfi",
+        "slug": "kirfi-ng005013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005013",
+        "level": 2,
+        "name": {
+          "local": "Kirfi",
+          "en": "Kirfi",
+          "slug": "kirfi-ng005013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.442",
+      "lon": "10.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005013_beni-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Beni \"a\"",
+      "en": "Beni \"a\"",
+      "slug": "beni-a"
+    },
+    "code": {
+      "id": "NG005013_beni-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005013",
+      "level": 2,
+      "name": {
+        "local": "Kirfi",
+        "en": "Kirfi",
+        "slug": "kirfi-ng005013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005013",
+        "level": 2,
+        "name": {
+          "local": "Kirfi",
+          "en": "Kirfi",
+          "slug": "kirfi-ng005013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.442",
+      "lon": "10.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005013_beni-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Beni \"b\"",
+      "en": "Beni \"b\"",
+      "slug": "beni-b"
+    },
+    "code": {
+      "id": "NG005013_beni-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005013",
+      "level": 2,
+      "name": {
+        "local": "Kirfi",
+        "en": "Kirfi",
+        "slug": "kirfi-ng005013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005013",
+        "level": 2,
+        "name": {
+          "local": "Kirfi",
+          "en": "Kirfi",
+          "slug": "kirfi-ng005013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.442",
+      "lon": "10.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005013_dewu-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dewu Central",
+      "en": "Dewu Central",
+      "slug": "dewu-central"
+    },
+    "code": {
+      "id": "NG005013_dewu-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005013",
+      "level": 2,
+      "name": {
+        "local": "Kirfi",
+        "en": "Kirfi",
+        "slug": "kirfi-ng005013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005013",
+        "level": 2,
+        "name": {
+          "local": "Kirfi",
+          "en": "Kirfi",
+          "slug": "kirfi-ng005013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.442",
+      "lon": "10.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005013_dewu-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dewu East",
+      "en": "Dewu East",
+      "slug": "dewu-east"
+    },
+    "code": {
+      "id": "NG005013_dewu-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005013",
+      "level": 2,
+      "name": {
+        "local": "Kirfi",
+        "en": "Kirfi",
+        "slug": "kirfi-ng005013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005013",
+        "level": 2,
+        "name": {
+          "local": "Kirfi",
+          "en": "Kirfi",
+          "slug": "kirfi-ng005013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.442",
+      "lon": "10.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005013_kirfi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kirfi",
+      "en": "Kirfi",
+      "slug": "kirfi"
+    },
+    "code": {
+      "id": "NG005013_kirfi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005013",
+      "level": 2,
+      "name": {
+        "local": "Kirfi",
+        "en": "Kirfi",
+        "slug": "kirfi-ng005013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005013",
+        "level": 2,
+        "name": {
+          "local": "Kirfi",
+          "en": "Kirfi",
+          "slug": "kirfi-ng005013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.442",
+      "lon": "10.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005013_shango",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shango",
+      "en": "Shango",
+      "slug": "shango"
+    },
+    "code": {
+      "id": "NG005013_shango",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005013",
+      "level": 2,
+      "name": {
+        "local": "Kirfi",
+        "en": "Kirfi",
+        "slug": "kirfi-ng005013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005013",
+        "level": 2,
+        "name": {
+          "local": "Kirfi",
+          "en": "Kirfi",
+          "slug": "kirfi-ng005013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.442",
+      "lon": "10.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005013_tubule",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tubule",
+      "en": "Tubule",
+      "slug": "tubule"
+    },
+    "code": {
+      "id": "NG005013_tubule",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005013",
+      "level": 2,
+      "name": {
+        "local": "Kirfi",
+        "en": "Kirfi",
+        "slug": "kirfi-ng005013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005013",
+        "level": 2,
+        "name": {
+          "local": "Kirfi",
+          "en": "Kirfi",
+          "slug": "kirfi-ng005013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.442",
+      "lon": "10.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005013_wanka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wanka",
+      "en": "Wanka",
+      "slug": "wanka"
+    },
+    "code": {
+      "id": "NG005013_wanka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005013",
+      "level": 2,
+      "name": {
+        "local": "Kirfi",
+        "en": "Kirfi",
+        "slug": "kirfi-ng005013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005013",
+        "level": 2,
+        "name": {
+          "local": "Kirfi",
+          "en": "Kirfi",
+          "slug": "kirfi-ng005013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.442",
+      "lon": "10.525"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "NG004013",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Njikoka",
+    "en": "Njikoka",
+    "slug": "njikoka-ng004013"
+  },
+  "code": {
+    "id": "NG004013",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG004",
+    "level": 1,
+    "name": {
+      "local": "Anambra",
+      "en": "Anambra",
+      "slug": "anambra-ng004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG004",
+      "level": 1,
+      "name": {
+        "local": "Anambra",
+        "en": "Anambra",
+        "slug": "anambra-ng004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.19",
+    "lon": "7.008"
+  },
+  "metadata": {},
+  "source": {}
+}

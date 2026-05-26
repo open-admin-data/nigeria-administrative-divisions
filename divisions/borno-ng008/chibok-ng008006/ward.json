@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG008006_chibok-garu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chibok Garu",
+      "en": "Chibok Garu",
+      "slug": "chibok-garu"
+    },
+    "code": {
+      "id": "NG008006_chibok-garu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008006",
+      "level": 2,
+      "name": {
+        "local": "Chibok",
+        "en": "Chibok",
+        "slug": "chibok-ng008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008006",
+        "level": 2,
+        "name": {
+          "local": "Chibok",
+          "en": "Chibok",
+          "slug": "chibok-ng008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.858",
+      "lon": "12.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008006_chibok-likama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chibok Likama",
+      "en": "Chibok Likama",
+      "slug": "chibok-likama"
+    },
+    "code": {
+      "id": "NG008006_chibok-likama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008006",
+      "level": 2,
+      "name": {
+        "local": "Chibok",
+        "en": "Chibok",
+        "slug": "chibok-ng008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008006",
+        "level": 2,
+        "name": {
+          "local": "Chibok",
+          "en": "Chibok",
+          "slug": "chibok-ng008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.911",
+      "lon": "12.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008006_chibok-wuntaku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chibok Wuntaku",
+      "en": "Chibok Wuntaku",
+      "slug": "chibok-wuntaku"
+    },
+    "code": {
+      "id": "NG008006_chibok-wuntaku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008006",
+      "level": 2,
+      "name": {
+        "local": "Chibok",
+        "en": "Chibok",
+        "slug": "chibok-ng008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008006",
+        "level": 2,
+        "name": {
+          "local": "Chibok",
+          "en": "Chibok",
+          "slug": "chibok-ng008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.856",
+      "lon": "12.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008006_gatamarwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gatamarwa",
+      "en": "Gatamarwa",
+      "slug": "gatamarwa"
+    },
+    "code": {
+      "id": "NG008006_gatamarwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008006",
+      "level": 2,
+      "name": {
+        "local": "Chibok",
+        "en": "Chibok",
+        "slug": "chibok-ng008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008006",
+        "level": 2,
+        "name": {
+          "local": "Chibok",
+          "en": "Chibok",
+          "slug": "chibok-ng008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.724",
+      "lon": "12.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008006_kautikari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kautikari",
+      "en": "Kautikari",
+      "slug": "kautikari"
+    },
+    "code": {
+      "id": "NG008006_kautikari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008006",
+      "level": 2,
+      "name": {
+        "local": "Chibok",
+        "en": "Chibok",
+        "slug": "chibok-ng008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008006",
+        "level": 2,
+        "name": {
+          "local": "Chibok",
+          "en": "Chibok",
+          "slug": "chibok-ng008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.845",
+      "lon": "13.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008006_korongilim",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Korongilim",
+      "en": "Korongilim",
+      "slug": "korongilim"
+    },
+    "code": {
+      "id": "NG008006_korongilim",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008006",
+      "level": 2,
+      "name": {
+        "local": "Chibok",
+        "en": "Chibok",
+        "slug": "chibok-ng008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008006",
+        "level": 2,
+        "name": {
+          "local": "Chibok",
+          "en": "Chibok",
+          "slug": "chibok-ng008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.865",
+      "lon": "12.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008006_kuburmbula",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuburmbula",
+      "en": "Kuburmbula",
+      "slug": "kuburmbula"
+    },
+    "code": {
+      "id": "NG008006_kuburmbula",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008006",
+      "level": 2,
+      "name": {
+        "local": "Chibok",
+        "en": "Chibok",
+        "slug": "chibok-ng008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008006",
+        "level": 2,
+        "name": {
+          "local": "Chibok",
+          "en": "Chibok",
+          "slug": "chibok-ng008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.903",
+      "lon": "12.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008006_mbalala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mbalala",
+      "en": "Mbalala",
+      "slug": "mbalala"
+    },
+    "code": {
+      "id": "NG008006_mbalala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008006",
+      "level": 2,
+      "name": {
+        "local": "Chibok",
+        "en": "Chibok",
+        "slug": "chibok-ng008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008006",
+        "level": 2,
+        "name": {
+          "local": "Chibok",
+          "en": "Chibok",
+          "slug": "chibok-ng008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.773",
+      "lon": "12.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008006_mboa-kura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mboa Kura",
+      "en": "Mboa Kura",
+      "slug": "mboa-kura"
+    },
+    "code": {
+      "id": "NG008006_mboa-kura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008006",
+      "level": 2,
+      "name": {
+        "local": "Chibok",
+        "en": "Chibok",
+        "slug": "chibok-ng008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008006",
+        "level": 2,
+        "name": {
+          "local": "Chibok",
+          "en": "Chibok",
+          "slug": "chibok-ng008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.856",
+      "lon": "12.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008006_pemi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Pemi",
+      "en": "Pemi",
+      "slug": "pemi"
+    },
+    "code": {
+      "id": "NG008006_pemi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008006",
+      "level": 2,
+      "name": {
+        "local": "Chibok",
+        "en": "Chibok",
+        "slug": "chibok-ng008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008006",
+        "level": 2,
+        "name": {
+          "local": "Chibok",
+          "en": "Chibok",
+          "slug": "chibok-ng008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.789",
+      "lon": "12.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008006_shikarkir",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shikarkir",
+      "en": "Shikarkir",
+      "slug": "shikarkir"
+    },
+    "code": {
+      "id": "NG008006_shikarkir",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008006",
+      "level": 2,
+      "name": {
+        "local": "Chibok",
+        "en": "Chibok",
+        "slug": "chibok-ng008006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008006",
+        "level": 2,
+        "name": {
+          "local": "Chibok",
+          "en": "Chibok",
+          "slug": "chibok-ng008006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.856",
+      "lon": "12.823"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

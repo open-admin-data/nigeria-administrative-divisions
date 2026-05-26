@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG007018_amejo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amejo",
+      "en": "Amejo",
+      "slug": "amejo"
+    },
+    "code": {
+      "id": "NG007018_amejo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007018",
+      "level": 2,
+      "name": {
+        "local": "Okpokwu",
+        "en": "Okpokwu",
+        "slug": "okpokwu-ng007018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007018",
+        "level": 2,
+        "name": {
+          "local": "Okpokwu",
+          "en": "Okpokwu",
+          "slug": "okpokwu-ng007018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007018_eke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eke",
+      "en": "Eke",
+      "slug": "eke"
+    },
+    "code": {
+      "id": "NG007018_eke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007018",
+      "level": 2,
+      "name": {
+        "local": "Okpokwu",
+        "en": "Okpokwu",
+        "slug": "okpokwu-ng007018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007018",
+        "level": 2,
+        "name": {
+          "local": "Okpokwu",
+          "en": "Okpokwu",
+          "slug": "okpokwu-ng007018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007018_ichama-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ichama Ii",
+      "en": "Ichama Ii",
+      "slug": "ichama-ii"
+    },
+    "code": {
+      "id": "NG007018_ichama-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007018",
+      "level": 2,
+      "name": {
+        "local": "Okpokwu",
+        "en": "Okpokwu",
+        "slug": "okpokwu-ng007018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007018",
+        "level": 2,
+        "name": {
+          "local": "Okpokwu",
+          "en": "Okpokwu",
+          "slug": "okpokwu-ng007018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007018_ojigo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojigo",
+      "en": "Ojigo",
+      "slug": "ojigo"
+    },
+    "code": {
+      "id": "NG007018_ojigo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007018",
+      "level": 2,
+      "name": {
+        "local": "Okpokwu",
+        "en": "Okpokwu",
+        "slug": "okpokwu-ng007018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007018",
+        "level": 2,
+        "name": {
+          "local": "Okpokwu",
+          "en": "Okpokwu",
+          "slug": "okpokwu-ng007018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007018_ojoga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ojoga",
+      "en": "Ojoga",
+      "slug": "ojoga"
+    },
+    "code": {
+      "id": "NG007018_ojoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007018",
+      "level": 2,
+      "name": {
+        "local": "Okpokwu",
+        "en": "Okpokwu",
+        "slug": "okpokwu-ng007018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007018",
+        "level": 2,
+        "name": {
+          "local": "Okpokwu",
+          "en": "Okpokwu",
+          "slug": "okpokwu-ng007018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007018_okonobo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okonobo",
+      "en": "Okonobo",
+      "slug": "okonobo"
+    },
+    "code": {
+      "id": "NG007018_okonobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007018",
+      "level": 2,
+      "name": {
+        "local": "Okpokwu",
+        "en": "Okpokwu",
+        "slug": "okpokwu-ng007018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007018",
+        "level": 2,
+        "name": {
+          "local": "Okpokwu",
+          "en": "Okpokwu",
+          "slug": "okpokwu-ng007018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007018_okpaileingle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpaile/ingle",
+      "en": "Okpaile/ingle",
+      "slug": "okpaileingle"
+    },
+    "code": {
+      "id": "NG007018_okpaileingle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007018",
+      "level": 2,
+      "name": {
+        "local": "Okpokwu",
+        "en": "Okpokwu",
+        "slug": "okpokwu-ng007018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007018",
+        "level": 2,
+        "name": {
+          "local": "Okpokwu",
+          "en": "Okpokwu",
+          "slug": "okpokwu-ng007018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007018_okpoga-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpoga Central",
+      "en": "Okpoga Central",
+      "slug": "okpoga-central"
+    },
+    "code": {
+      "id": "NG007018_okpoga-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007018",
+      "level": 2,
+      "name": {
+        "local": "Okpokwu",
+        "en": "Okpokwu",
+        "slug": "okpokwu-ng007018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007018",
+        "level": 2,
+        "name": {
+          "local": "Okpokwu",
+          "en": "Okpokwu",
+          "slug": "okpokwu-ng007018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007018_okpoga-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpoga North",
+      "en": "Okpoga North",
+      "slug": "okpoga-north"
+    },
+    "code": {
+      "id": "NG007018_okpoga-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007018",
+      "level": 2,
+      "name": {
+        "local": "Okpokwu",
+        "en": "Okpokwu",
+        "slug": "okpokwu-ng007018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007018",
+        "level": 2,
+        "name": {
+          "local": "Okpokwu",
+          "en": "Okpokwu",
+          "slug": "okpokwu-ng007018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007018_okpoga-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpoga South",
+      "en": "Okpoga South",
+      "slug": "okpoga-south"
+    },
+    "code": {
+      "id": "NG007018_okpoga-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007018",
+      "level": 2,
+      "name": {
+        "local": "Okpokwu",
+        "en": "Okpokwu",
+        "slug": "okpokwu-ng007018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007018",
+        "level": 2,
+        "name": {
+          "local": "Okpokwu",
+          "en": "Okpokwu",
+          "slug": "okpokwu-ng007018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007018_okpoga-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okpoga West",
+      "en": "Okpoga West",
+      "slug": "okpoga-west"
+    },
+    "code": {
+      "id": "NG007018_okpoga-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007018",
+      "level": 2,
+      "name": {
+        "local": "Okpokwu",
+        "en": "Okpokwu",
+        "slug": "okpokwu-ng007018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007018",
+        "level": 2,
+        "name": {
+          "local": "Okpokwu",
+          "en": "Okpokwu",
+          "slug": "okpokwu-ng007018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007018_ugbokolo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugbokolo",
+      "en": "Ugbokolo",
+      "slug": "ugbokolo"
+    },
+    "code": {
+      "id": "NG007018_ugbokolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007018",
+      "level": 2,
+      "name": {
+        "local": "Okpokwu",
+        "en": "Okpokwu",
+        "slug": "okpokwu-ng007018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007018",
+        "level": 2,
+        "name": {
+          "local": "Okpokwu",
+          "en": "Okpokwu",
+          "slug": "okpokwu-ng007018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.044",
+      "lon": "7.893"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

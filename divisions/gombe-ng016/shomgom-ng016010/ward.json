@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG016010_bangunji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bangunji",
+      "en": "Bangunji",
+      "slug": "bangunji"
+    },
+    "code": {
+      "id": "NG016010_bangunji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016010",
+      "level": 2,
+      "name": {
+        "local": "Shomgom",
+        "en": "Shomgom",
+        "slug": "shomgom-ng016010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016010",
+        "level": 2,
+        "name": {
+          "local": "Shomgom",
+          "en": "Shomgom",
+          "slug": "shomgom-ng016010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.75",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016010_boh",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Boh",
+      "en": "Boh",
+      "slug": "boh"
+    },
+    "code": {
+      "id": "NG016010_boh",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016010",
+      "level": 2,
+      "name": {
+        "local": "Shomgom",
+        "en": "Shomgom",
+        "slug": "shomgom-ng016010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016010",
+        "level": 2,
+        "name": {
+          "local": "Shomgom",
+          "en": "Shomgom",
+          "slug": "shomgom-ng016010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.75",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016010_burak",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Burak",
+      "en": "Burak",
+      "slug": "burak"
+    },
+    "code": {
+      "id": "NG016010_burak",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016010",
+      "level": 2,
+      "name": {
+        "local": "Shomgom",
+        "en": "Shomgom",
+        "slug": "shomgom-ng016010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016010",
+        "level": 2,
+        "name": {
+          "local": "Shomgom",
+          "en": "Shomgom",
+          "slug": "shomgom-ng016010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.75",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016010_filiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Filiya",
+      "en": "Filiya",
+      "slug": "filiya"
+    },
+    "code": {
+      "id": "NG016010_filiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016010",
+      "level": 2,
+      "name": {
+        "local": "Shomgom",
+        "en": "Shomgom",
+        "slug": "shomgom-ng016010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016010",
+        "level": 2,
+        "name": {
+          "local": "Shomgom",
+          "en": "Shomgom",
+          "slug": "shomgom-ng016010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.75",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016010_gundale",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gundale",
+      "en": "Gundale",
+      "slug": "gundale"
+    },
+    "code": {
+      "id": "NG016010_gundale",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016010",
+      "level": 2,
+      "name": {
+        "local": "Shomgom",
+        "en": "Shomgom",
+        "slug": "shomgom-ng016010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016010",
+        "level": 2,
+        "name": {
+          "local": "Shomgom",
+          "en": "Shomgom",
+          "slug": "shomgom-ng016010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.75",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016010_gwandum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwandum",
+      "en": "Gwandum",
+      "slug": "gwandum"
+    },
+    "code": {
+      "id": "NG016010_gwandum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016010",
+      "level": 2,
+      "name": {
+        "local": "Shomgom",
+        "en": "Shomgom",
+        "slug": "shomgom-ng016010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016010",
+        "level": 2,
+        "name": {
+          "local": "Shomgom",
+          "en": "Shomgom",
+          "slug": "shomgom-ng016010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.75",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016010_kulishin",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kulishin",
+      "en": "Kulishin",
+      "slug": "kulishin"
+    },
+    "code": {
+      "id": "NG016010_kulishin",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016010",
+      "level": 2,
+      "name": {
+        "local": "Shomgom",
+        "en": "Shomgom",
+        "slug": "shomgom-ng016010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016010",
+        "level": 2,
+        "name": {
+          "local": "Shomgom",
+          "en": "Shomgom",
+          "slug": "shomgom-ng016010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.75",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016010_kushi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kushi",
+      "en": "Kushi",
+      "slug": "kushi"
+    },
+    "code": {
+      "id": "NG016010_kushi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016010",
+      "level": 2,
+      "name": {
+        "local": "Shomgom",
+        "en": "Shomgom",
+        "slug": "shomgom-ng016010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016010",
+        "level": 2,
+        "name": {
+          "local": "Shomgom",
+          "en": "Shomgom",
+          "slug": "shomgom-ng016010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.75",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016010_lalaipido",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lalaipido",
+      "en": "Lalaipido",
+      "slug": "lalaipido"
+    },
+    "code": {
+      "id": "NG016010_lalaipido",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016010",
+      "level": 2,
+      "name": {
+        "local": "Shomgom",
+        "en": "Shomgom",
+        "slug": "shomgom-ng016010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016010",
+        "level": 2,
+        "name": {
+          "local": "Shomgom",
+          "en": "Shomgom",
+          "slug": "shomgom-ng016010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.75",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG016010_lapan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lapan",
+      "en": "Lapan",
+      "slug": "lapan"
+    },
+    "code": {
+      "id": "NG016010_lapan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG016010",
+      "level": 2,
+      "name": {
+        "local": "Shomgom",
+        "en": "Shomgom",
+        "slug": "shomgom-ng016010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG016",
+        "level": 1,
+        "name": {
+          "local": "Gombe",
+          "en": "Gombe",
+          "slug": "gombe-ng016"
+        }
+      },
+      {
+        "id": "NG016010",
+        "level": 2,
+        "name": {
+          "local": "Shomgom",
+          "en": "Shomgom",
+          "slug": "shomgom-ng016010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.75",
+      "lon": "11.247"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

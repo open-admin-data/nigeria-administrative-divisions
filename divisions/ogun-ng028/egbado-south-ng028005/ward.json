@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG028005_ajilete",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajilete",
+      "en": "Ajilete",
+      "slug": "ajilete"
+    },
+    "code": {
+      "id": "NG028005_ajilete",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028005",
+      "level": 2,
+      "name": {
+        "local": "Egbado South",
+        "en": "Egbado South",
+        "slug": "egbado-south-ng028005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028005",
+        "level": 2,
+        "name": {
+          "local": "Egbado South",
+          "en": "Egbado South",
+          "slug": "egbado-south-ng028005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.767",
+      "lon": "2.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028005_idogo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Idogo",
+      "en": "Idogo",
+      "slug": "idogo"
+    },
+    "code": {
+      "id": "NG028005_idogo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028005",
+      "level": 2,
+      "name": {
+        "local": "Egbado South",
+        "en": "Egbado South",
+        "slug": "egbado-south-ng028005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028005",
+        "level": 2,
+        "name": {
+          "local": "Egbado South",
+          "en": "Egbado South",
+          "slug": "egbado-south-ng028005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.767",
+      "lon": "2.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028005_ilaro-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilaro I",
+      "en": "Ilaro I",
+      "slug": "ilaro-i"
+    },
+    "code": {
+      "id": "NG028005_ilaro-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028005",
+      "level": 2,
+      "name": {
+        "local": "Egbado South",
+        "en": "Egbado South",
+        "slug": "egbado-south-ng028005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028005",
+        "level": 2,
+        "name": {
+          "local": "Egbado South",
+          "en": "Egbado South",
+          "slug": "egbado-south-ng028005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.767",
+      "lon": "2.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028005_ilaro-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilaro Ii",
+      "en": "Ilaro Ii",
+      "slug": "ilaro-ii"
+    },
+    "code": {
+      "id": "NG028005_ilaro-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028005",
+      "level": 2,
+      "name": {
+        "local": "Egbado South",
+        "en": "Egbado South",
+        "slug": "egbado-south-ng028005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028005",
+        "level": 2,
+        "name": {
+          "local": "Egbado South",
+          "en": "Egbado South",
+          "slug": "egbado-south-ng028005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.767",
+      "lon": "2.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028005_ilaro-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilaro Iii",
+      "en": "Ilaro Iii",
+      "slug": "ilaro-iii"
+    },
+    "code": {
+      "id": "NG028005_ilaro-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028005",
+      "level": 2,
+      "name": {
+        "local": "Egbado South",
+        "en": "Egbado South",
+        "slug": "egbado-south-ng028005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028005",
+        "level": 2,
+        "name": {
+          "local": "Egbado South",
+          "en": "Egbado South",
+          "slug": "egbado-south-ng028005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.767",
+      "lon": "2.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028005_ilobierinja",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilobi/erinja",
+      "en": "Ilobi/erinja",
+      "slug": "ilobierinja"
+    },
+    "code": {
+      "id": "NG028005_ilobierinja",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028005",
+      "level": 2,
+      "name": {
+        "local": "Egbado South",
+        "en": "Egbado South",
+        "slug": "egbado-south-ng028005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028005",
+        "level": 2,
+        "name": {
+          "local": "Egbado South",
+          "en": "Egbado South",
+          "slug": "egbado-south-ng028005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.767",
+      "lon": "2.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028005_iwoye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iwoye",
+      "en": "Iwoye",
+      "slug": "iwoye"
+    },
+    "code": {
+      "id": "NG028005_iwoye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028005",
+      "level": 2,
+      "name": {
+        "local": "Egbado South",
+        "en": "Egbado South",
+        "slug": "egbado-south-ng028005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028005",
+        "level": 2,
+        "name": {
+          "local": "Egbado South",
+          "en": "Egbado South",
+          "slug": "egbado-south-ng028005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.767",
+      "lon": "2.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028005_oke-odan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oke Odan",
+      "en": "Oke Odan",
+      "slug": "oke-odan"
+    },
+    "code": {
+      "id": "NG028005_oke-odan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028005",
+      "level": 2,
+      "name": {
+        "local": "Egbado South",
+        "en": "Egbado South",
+        "slug": "egbado-south-ng028005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028005",
+        "level": 2,
+        "name": {
+          "local": "Egbado South",
+          "en": "Egbado South",
+          "slug": "egbado-south-ng028005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.767",
+      "lon": "2.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028005_owode-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owode I",
+      "en": "Owode I",
+      "slug": "owode-i"
+    },
+    "code": {
+      "id": "NG028005_owode-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028005",
+      "level": 2,
+      "name": {
+        "local": "Egbado South",
+        "en": "Egbado South",
+        "slug": "egbado-south-ng028005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028005",
+        "level": 2,
+        "name": {
+          "local": "Egbado South",
+          "en": "Egbado South",
+          "slug": "egbado-south-ng028005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.767",
+      "lon": "2.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG028005_owode-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owode Ii",
+      "en": "Owode Ii",
+      "slug": "owode-ii"
+    },
+    "code": {
+      "id": "NG028005_owode-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG028005",
+      "level": 2,
+      "name": {
+        "local": "Egbado South",
+        "en": "Egbado South",
+        "slug": "egbado-south-ng028005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG028",
+        "level": 1,
+        "name": {
+          "local": "Ogun",
+          "en": "Ogun",
+          "slug": "ogun-ng028"
+        }
+      },
+      {
+        "id": "NG028005",
+        "level": 2,
+        "name": {
+          "local": "Egbado South",
+          "en": "Egbado South",
+          "slug": "egbado-south-ng028005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.767",
+      "lon": "2.955"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

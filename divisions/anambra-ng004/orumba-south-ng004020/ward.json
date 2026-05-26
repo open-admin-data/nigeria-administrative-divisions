@@ -1,0 +1,974 @@
+[
+  {
+    "id": "NG004020_agbudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbudu",
+      "en": "Agbudu",
+      "slug": "agbudu"
+    },
+    "code": {
+      "id": "NG004020_agbudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_akpu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akpu",
+      "en": "Akpu",
+      "slug": "akpu"
+    },
+    "code": {
+      "id": "NG004020_akpu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_enuguumonyia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Enugu/umonyia",
+      "en": "Enugu/umonyia",
+      "slug": "enuguumonyia"
+    },
+    "code": {
+      "id": "NG004020_enuguumonyia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_eziagu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Eziagu",
+      "en": "Eziagu",
+      "slug": "eziagu"
+    },
+    "code": {
+      "id": "NG004020_eziagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_ezira",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ezira",
+      "en": "Ezira",
+      "slug": "ezira"
+    },
+    "code": {
+      "id": "NG004020_ezira",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_ihite",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ihite",
+      "en": "Ihite",
+      "slug": "ihite"
+    },
+    "code": {
+      "id": "NG004020_ihite",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_isulo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isulo",
+      "en": "Isulo",
+      "slug": "isulo"
+    },
+    "code": {
+      "id": "NG004020_isulo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_nawfija",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nawfija",
+      "en": "Nawfija",
+      "slug": "nawfija"
+    },
+    "code": {
+      "id": "NG004020_nawfija",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_ogboji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogboji",
+      "en": "Ogboji",
+      "slug": "ogboji"
+    },
+    "code": {
+      "id": "NG004020_ogboji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_ogbunka-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbunka I",
+      "en": "Ogbunka I",
+      "slug": "ogbunka-i"
+    },
+    "code": {
+      "id": "NG004020_ogbunka-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_ogbunka-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbunka Ii",
+      "en": "Ogbunka Ii",
+      "slug": "ogbunka-ii"
+    },
+    "code": {
+      "id": "NG004020_ogbunka-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_owerre-ezukala-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owerre-ezukala I",
+      "en": "Owerre-ezukala I",
+      "slug": "owerre-ezukala-i"
+    },
+    "code": {
+      "id": "NG004020_owerre-ezukala-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_owerre-ezukala-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Owerre-ezukala Ii",
+      "en": "Owerre-ezukala Ii",
+      "slug": "owerre-ezukala-ii"
+    },
+    "code": {
+      "id": "NG004020_owerre-ezukala-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_umuchukwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuchukwu",
+      "en": "Umuchukwu",
+      "slug": "umuchukwu"
+    },
+    "code": {
+      "id": "NG004020_umuchukwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_umunze-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umunze I",
+      "en": "Umunze I",
+      "slug": "umunze-i"
+    },
+    "code": {
+      "id": "NG004020_umunze-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_umunze-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umunze Ii",
+      "en": "Umunze Ii",
+      "slug": "umunze-ii"
+    },
+    "code": {
+      "id": "NG004020_umunze-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_umunze-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umunze Iii",
+      "en": "Umunze Iii",
+      "slug": "umunze-iii"
+    },
+    "code": {
+      "id": "NG004020_umunze-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004020_umuomaku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuomaku",
+      "en": "Umuomaku",
+      "slug": "umuomaku"
+    },
+    "code": {
+      "id": "NG004020_umuomaku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004020",
+      "level": 2,
+      "name": {
+        "local": "Orumba South",
+        "en": "Orumba South",
+        "slug": "orumba-south-ng004020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004020",
+        "level": 2,
+        "name": {
+          "local": "Orumba South",
+          "en": "Orumba South",
+          "slug": "orumba-south-ng004020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.99",
+      "lon": "7.205"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

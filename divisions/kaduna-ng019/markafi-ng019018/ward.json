@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG019018_dandamisa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dandamisa",
+      "en": "Dandamisa",
+      "slug": "dandamisa"
+    },
+    "code": {
+      "id": "NG019018_dandamisa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019018",
+      "level": 2,
+      "name": {
+        "local": "Markafi",
+        "en": "Markafi",
+        "slug": "markafi-ng019018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019018",
+        "level": 2,
+        "name": {
+          "local": "Markafi",
+          "en": "Markafi",
+          "slug": "markafi-ng019018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.327",
+      "lon": "7.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019018_danguziri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danguziri",
+      "en": "Danguziri",
+      "slug": "danguziri"
+    },
+    "code": {
+      "id": "NG019018_danguziri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019018",
+      "level": 2,
+      "name": {
+        "local": "Markafi",
+        "en": "Markafi",
+        "slug": "markafi-ng019018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019018",
+        "level": 2,
+        "name": {
+          "local": "Markafi",
+          "en": "Markafi",
+          "slug": "markafi-ng019018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.327",
+      "lon": "7.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019018_gazara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gazara",
+      "en": "Gazara",
+      "slug": "gazara"
+    },
+    "code": {
+      "id": "NG019018_gazara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019018",
+      "level": 2,
+      "name": {
+        "local": "Markafi",
+        "en": "Markafi",
+        "slug": "markafi-ng019018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019018",
+        "level": 2,
+        "name": {
+          "local": "Markafi",
+          "en": "Markafi",
+          "slug": "markafi-ng019018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.327",
+      "lon": "7.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019018_gimi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gimi",
+      "en": "Gimi",
+      "slug": "gimi"
+    },
+    "code": {
+      "id": "NG019018_gimi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019018",
+      "level": 2,
+      "name": {
+        "local": "Markafi",
+        "en": "Markafi",
+        "slug": "markafi-ng019018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019018",
+        "level": 2,
+        "name": {
+          "local": "Markafi",
+          "en": "Markafi",
+          "slug": "markafi-ng019018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.327",
+      "lon": "7.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019018_gubuchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gubuchi",
+      "en": "Gubuchi",
+      "slug": "gubuchi"
+    },
+    "code": {
+      "id": "NG019018_gubuchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019018",
+      "level": 2,
+      "name": {
+        "local": "Markafi",
+        "en": "Markafi",
+        "slug": "markafi-ng019018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019018",
+        "level": 2,
+        "name": {
+          "local": "Markafi",
+          "en": "Markafi",
+          "slug": "markafi-ng019018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.327",
+      "lon": "7.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019018_gwanki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwanki",
+      "en": "Gwanki",
+      "slug": "gwanki"
+    },
+    "code": {
+      "id": "NG019018_gwanki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019018",
+      "level": 2,
+      "name": {
+        "local": "Markafi",
+        "en": "Markafi",
+        "slug": "markafi-ng019018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019018",
+        "level": 2,
+        "name": {
+          "local": "Markafi",
+          "en": "Markafi",
+          "slug": "markafi-ng019018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.327",
+      "lon": "7.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019018_makarfi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makarfi",
+      "en": "Makarfi",
+      "slug": "makarfi"
+    },
+    "code": {
+      "id": "NG019018_makarfi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019018",
+      "level": 2,
+      "name": {
+        "local": "Markafi",
+        "en": "Markafi",
+        "slug": "markafi-ng019018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019018",
+        "level": 2,
+        "name": {
+          "local": "Markafi",
+          "en": "Markafi",
+          "slug": "markafi-ng019018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.327",
+      "lon": "7.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019018_mayere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mayere",
+      "en": "Mayere",
+      "slug": "mayere"
+    },
+    "code": {
+      "id": "NG019018_mayere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019018",
+      "level": 2,
+      "name": {
+        "local": "Markafi",
+        "en": "Markafi",
+        "slug": "markafi-ng019018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019018",
+        "level": 2,
+        "name": {
+          "local": "Markafi",
+          "en": "Markafi",
+          "slug": "markafi-ng019018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.327",
+      "lon": "7.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019018_nassarawan-doya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nassarawan Doya",
+      "en": "Nassarawan Doya",
+      "slug": "nassarawan-doya"
+    },
+    "code": {
+      "id": "NG019018_nassarawan-doya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019018",
+      "level": 2,
+      "name": {
+        "local": "Markafi",
+        "en": "Markafi",
+        "slug": "markafi-ng019018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019018",
+        "level": 2,
+        "name": {
+          "local": "Markafi",
+          "en": "Markafi",
+          "slug": "markafi-ng019018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.327",
+      "lon": "7.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019018_tudun-wada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Wada",
+      "en": "Tudun Wada",
+      "slug": "tudun-wada"
+    },
+    "code": {
+      "id": "NG019018_tudun-wada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019018",
+      "level": 2,
+      "name": {
+        "local": "Markafi",
+        "en": "Markafi",
+        "slug": "markafi-ng019018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019018",
+        "level": 2,
+        "name": {
+          "local": "Markafi",
+          "en": "Markafi",
+          "slug": "markafi-ng019018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.327",
+      "lon": "7.956"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

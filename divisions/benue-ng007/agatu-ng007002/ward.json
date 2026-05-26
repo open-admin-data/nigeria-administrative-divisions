@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG007002_egba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egba",
+      "en": "Egba",
+      "slug": "egba"
+    },
+    "code": {
+      "id": "NG007002_egba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007002",
+      "level": 2,
+      "name": {
+        "local": "Agatu",
+        "en": "Agatu",
+        "slug": "agatu-ng007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007002",
+        "level": 2,
+        "name": {
+          "local": "Agatu",
+          "en": "Agatu",
+          "slug": "agatu-ng007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.876",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007002_enungba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Enungba",
+      "en": "Enungba",
+      "slug": "enungba"
+    },
+    "code": {
+      "id": "NG007002_enungba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007002",
+      "level": 2,
+      "name": {
+        "local": "Agatu",
+        "en": "Agatu",
+        "slug": "agatu-ng007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007002",
+        "level": 2,
+        "name": {
+          "local": "Agatu",
+          "en": "Agatu",
+          "slug": "agatu-ng007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.876",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007002_obagaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obagaji",
+      "en": "Obagaji",
+      "slug": "obagaji"
+    },
+    "code": {
+      "id": "NG007002_obagaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007002",
+      "level": 2,
+      "name": {
+        "local": "Agatu",
+        "en": "Agatu",
+        "slug": "agatu-ng007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007002",
+        "level": 2,
+        "name": {
+          "local": "Agatu",
+          "en": "Agatu",
+          "slug": "agatu-ng007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.876",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007002_odugbeho",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odugbeho",
+      "en": "Odugbeho",
+      "slug": "odugbeho"
+    },
+    "code": {
+      "id": "NG007002_odugbeho",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007002",
+      "level": 2,
+      "name": {
+        "local": "Agatu",
+        "en": "Agatu",
+        "slug": "agatu-ng007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007002",
+        "level": 2,
+        "name": {
+          "local": "Agatu",
+          "en": "Agatu",
+          "slug": "agatu-ng007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.876",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007002_ogbaulu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbaulu",
+      "en": "Ogbaulu",
+      "slug": "ogbaulu"
+    },
+    "code": {
+      "id": "NG007002_ogbaulu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007002",
+      "level": 2,
+      "name": {
+        "local": "Agatu",
+        "en": "Agatu",
+        "slug": "agatu-ng007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007002",
+        "level": 2,
+        "name": {
+          "local": "Agatu",
+          "en": "Agatu",
+          "slug": "agatu-ng007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.876",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007002_ogwule-ogbaulu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogwule Ogbaulu",
+      "en": "Ogwule Ogbaulu",
+      "slug": "ogwule-ogbaulu"
+    },
+    "code": {
+      "id": "NG007002_ogwule-ogbaulu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007002",
+      "level": 2,
+      "name": {
+        "local": "Agatu",
+        "en": "Agatu",
+        "slug": "agatu-ng007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007002",
+        "level": 2,
+        "name": {
+          "local": "Agatu",
+          "en": "Agatu",
+          "slug": "agatu-ng007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.876",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007002_ogwule-kaduna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogwule-kaduna",
+      "en": "Ogwule-kaduna",
+      "slug": "ogwule-kaduna"
+    },
+    "code": {
+      "id": "NG007002_ogwule-kaduna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007002",
+      "level": 2,
+      "name": {
+        "local": "Agatu",
+        "en": "Agatu",
+        "slug": "agatu-ng007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007002",
+        "level": 2,
+        "name": {
+          "local": "Agatu",
+          "en": "Agatu",
+          "slug": "agatu-ng007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.876",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007002_okokolo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okokolo",
+      "en": "Okokolo",
+      "slug": "okokolo"
+    },
+    "code": {
+      "id": "NG007002_okokolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007002",
+      "level": 2,
+      "name": {
+        "local": "Agatu",
+        "en": "Agatu",
+        "slug": "agatu-ng007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007002",
+        "level": 2,
+        "name": {
+          "local": "Agatu",
+          "en": "Agatu",
+          "slug": "agatu-ng007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.876",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007002_oshigbudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Oshigbudu",
+      "en": "Oshigbudu",
+      "slug": "oshigbudu"
+    },
+    "code": {
+      "id": "NG007002_oshigbudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007002",
+      "level": 2,
+      "name": {
+        "local": "Agatu",
+        "en": "Agatu",
+        "slug": "agatu-ng007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007002",
+        "level": 2,
+        "name": {
+          "local": "Agatu",
+          "en": "Agatu",
+          "slug": "agatu-ng007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.876",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG007002_usha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Usha",
+      "en": "Usha",
+      "slug": "usha"
+    },
+    "code": {
+      "id": "NG007002_usha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG007002",
+      "level": 2,
+      "name": {
+        "local": "Agatu",
+        "en": "Agatu",
+        "slug": "agatu-ng007002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG007",
+        "level": 1,
+        "name": {
+          "local": "Benue",
+          "en": "Benue",
+          "slug": "benue-ng007"
+        }
+      },
+      {
+        "id": "NG007002",
+        "level": 2,
+        "name": {
+          "local": "Agatu",
+          "en": "Agatu",
+          "slug": "agatu-ng007002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.876",
+      "lon": "7.895"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

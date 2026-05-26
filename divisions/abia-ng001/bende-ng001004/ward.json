@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG001004_amankaluakoliufu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amankalu/akoliufu",
+      "en": "Amankalu/akoliufu",
+      "slug": "amankaluakoliufu"
+    },
+    "code": {
+      "id": "NG001004_amankaluakoliufu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004_bende",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bende",
+      "en": "Bende",
+      "slug": "bende"
+    },
+    "code": {
+      "id": "NG001004_bende",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004_igbere-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igbere 'a'",
+      "en": "Igbere 'a'",
+      "slug": "igbere-a"
+    },
+    "code": {
+      "id": "NG001004_igbere-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004_igbere-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igbere 'b'",
+      "en": "Igbere 'b'",
+      "slug": "igbere-b"
+    },
+    "code": {
+      "id": "NG001004_igbere-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004_item-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Item A",
+      "en": "Item A",
+      "slug": "item-a"
+    },
+    "code": {
+      "id": "NG001004_item-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004_item-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Item B",
+      "en": "Item B",
+      "slug": "item-b"
+    },
+    "code": {
+      "id": "NG001004_item-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004_item-c",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Item C",
+      "en": "Item C",
+      "slug": "item-c"
+    },
+    "code": {
+      "id": "NG001004_item-c",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004_itumbauzo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Itumbauzo",
+      "en": "Itumbauzo",
+      "slug": "itumbauzo"
+    },
+    "code": {
+      "id": "NG001004_itumbauzo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004_ozuitem",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ozuitem",
+      "en": "Ozuitem",
+      "slug": "ozuitem"
+    },
+    "code": {
+      "id": "NG001004_ozuitem",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004_ugwuekeezeukwu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugwueke/ezeukwu",
+      "en": "Ugwueke/ezeukwu",
+      "slug": "ugwuekeezeukwu"
+    },
+    "code": {
+      "id": "NG001004_ugwuekeezeukwu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004_umu---imenyi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umu - Imenyi",
+      "en": "Umu - Imenyi",
+      "slug": "umu---imenyi"
+    },
+    "code": {
+      "id": "NG001004_umu---imenyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004_umuhu-ezechi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umuhu / Ezechi",
+      "en": "Umuhu / Ezechi",
+      "slug": "umuhu-ezechi"
+    },
+    "code": {
+      "id": "NG001004_umuhu-ezechi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG001004_uzuakoli",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uzuakoli",
+      "en": "Uzuakoli",
+      "slug": "uzuakoli"
+    },
+    "code": {
+      "id": "NG001004_uzuakoli",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG001004",
+      "level": 2,
+      "name": {
+        "local": "Bende",
+        "en": "Bende",
+        "slug": "bende-ng001004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG001",
+        "level": 1,
+        "name": {
+          "local": "Abia",
+          "en": "Abia",
+          "slug": "abia-ng001"
+        }
+      },
+      {
+        "id": "NG001004",
+        "level": 2,
+        "name": {
+          "local": "Bende",
+          "en": "Bende",
+          "slug": "bende-ng001004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.637",
+      "lon": "7.569"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG033017_bolo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bolo I",
+      "en": "Bolo I",
+      "slug": "bolo-i"
+    },
+    "code": {
+      "id": "NG033017_bolo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033017",
+      "level": 2,
+      "name": {
+        "local": "Ogu/Bolo",
+        "en": "Ogu/Bolo",
+        "slug": "ogubolo-ng033017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033017",
+        "level": 2,
+        "name": {
+          "local": "Ogu/Bolo",
+          "en": "Ogu/Bolo",
+          "slug": "ogubolo-ng033017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033017_bolo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bolo Ii",
+      "en": "Bolo Ii",
+      "slug": "bolo-ii"
+    },
+    "code": {
+      "id": "NG033017_bolo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033017",
+      "level": 2,
+      "name": {
+        "local": "Ogu/Bolo",
+        "en": "Ogu/Bolo",
+        "slug": "ogubolo-ng033017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033017",
+        "level": 2,
+        "name": {
+          "local": "Ogu/Bolo",
+          "en": "Ogu/Bolo",
+          "slug": "ogubolo-ng033017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033017_bolo-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bolo Iii",
+      "en": "Bolo Iii",
+      "slug": "bolo-iii"
+    },
+    "code": {
+      "id": "NG033017_bolo-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033017",
+      "level": 2,
+      "name": {
+        "local": "Ogu/Bolo",
+        "en": "Ogu/Bolo",
+        "slug": "ogubolo-ng033017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033017",
+        "level": 2,
+        "name": {
+          "local": "Ogu/Bolo",
+          "en": "Ogu/Bolo",
+          "slug": "ogubolo-ng033017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033017_bolo-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bolo Iv",
+      "en": "Bolo Iv",
+      "slug": "bolo-iv"
+    },
+    "code": {
+      "id": "NG033017_bolo-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033017",
+      "level": 2,
+      "name": {
+        "local": "Ogu/Bolo",
+        "en": "Ogu/Bolo",
+        "slug": "ogubolo-ng033017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033017",
+        "level": 2,
+        "name": {
+          "local": "Ogu/Bolo",
+          "en": "Ogu/Bolo",
+          "slug": "ogubolo-ng033017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033017_ele",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ele",
+      "en": "Ele",
+      "slug": "ele"
+    },
+    "code": {
+      "id": "NG033017_ele",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033017",
+      "level": 2,
+      "name": {
+        "local": "Ogu/Bolo",
+        "en": "Ogu/Bolo",
+        "slug": "ogubolo-ng033017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033017",
+        "level": 2,
+        "name": {
+          "local": "Ogu/Bolo",
+          "en": "Ogu/Bolo",
+          "slug": "ogubolo-ng033017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033017_ogu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogu I",
+      "en": "Ogu I",
+      "slug": "ogu-i"
+    },
+    "code": {
+      "id": "NG033017_ogu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033017",
+      "level": 2,
+      "name": {
+        "local": "Ogu/Bolo",
+        "en": "Ogu/Bolo",
+        "slug": "ogubolo-ng033017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033017",
+        "level": 2,
+        "name": {
+          "local": "Ogu/Bolo",
+          "en": "Ogu/Bolo",
+          "slug": "ogubolo-ng033017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033017_ogu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogu Ii",
+      "en": "Ogu Ii",
+      "slug": "ogu-ii"
+    },
+    "code": {
+      "id": "NG033017_ogu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033017",
+      "level": 2,
+      "name": {
+        "local": "Ogu/Bolo",
+        "en": "Ogu/Bolo",
+        "slug": "ogubolo-ng033017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033017",
+        "level": 2,
+        "name": {
+          "local": "Ogu/Bolo",
+          "en": "Ogu/Bolo",
+          "slug": "ogubolo-ng033017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033017_ogu-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogu Iii",
+      "en": "Ogu Iii",
+      "slug": "ogu-iii"
+    },
+    "code": {
+      "id": "NG033017_ogu-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033017",
+      "level": 2,
+      "name": {
+        "local": "Ogu/Bolo",
+        "en": "Ogu/Bolo",
+        "slug": "ogubolo-ng033017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033017",
+        "level": 2,
+        "name": {
+          "local": "Ogu/Bolo",
+          "en": "Ogu/Bolo",
+          "slug": "ogubolo-ng033017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033017_ogu-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogu Iv",
+      "en": "Ogu Iv",
+      "slug": "ogu-iv"
+    },
+    "code": {
+      "id": "NG033017_ogu-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033017",
+      "level": 2,
+      "name": {
+        "local": "Ogu/Bolo",
+        "en": "Ogu/Bolo",
+        "slug": "ogubolo-ng033017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033017",
+        "level": 2,
+        "name": {
+          "local": "Ogu/Bolo",
+          "en": "Ogu/Bolo",
+          "slug": "ogubolo-ng033017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033017_ogu-v",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogu V",
+      "en": "Ogu V",
+      "slug": "ogu-v"
+    },
+    "code": {
+      "id": "NG033017_ogu-v",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033017",
+      "level": 2,
+      "name": {
+        "local": "Ogu/Bolo",
+        "en": "Ogu/Bolo",
+        "slug": "ogubolo-ng033017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033017",
+        "level": 2,
+        "name": {
+          "local": "Ogu/Bolo",
+          "en": "Ogu/Bolo",
+          "slug": "ogubolo-ng033017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033017_ogu-vi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogu Vi",
+      "en": "Ogu Vi",
+      "slug": "ogu-vi"
+    },
+    "code": {
+      "id": "NG033017_ogu-vi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033017",
+      "level": 2,
+      "name": {
+        "local": "Ogu/Bolo",
+        "en": "Ogu/Bolo",
+        "slug": "ogubolo-ng033017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033017",
+        "level": 2,
+        "name": {
+          "local": "Ogu/Bolo",
+          "en": "Ogu/Bolo",
+          "slug": "ogubolo-ng033017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033017_wakama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wakama",
+      "en": "Wakama",
+      "slug": "wakama"
+    },
+    "code": {
+      "id": "NG033017_wakama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033017",
+      "level": 2,
+      "name": {
+        "local": "Ogu/Bolo",
+        "en": "Ogu/Bolo",
+        "slug": "ogubolo-ng033017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033017",
+        "level": 2,
+        "name": {
+          "local": "Ogu/Bolo",
+          "en": "Ogu/Bolo",
+          "slug": "ogubolo-ng033017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "7.196"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

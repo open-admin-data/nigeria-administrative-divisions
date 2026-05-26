@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018004_birnin-kudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birnin Kudu",
+      "en": "Birnin Kudu",
+      "slug": "birnin-kudu"
+    },
+    "code": {
+      "id": "NG018004_birnin-kudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018004",
+      "level": 2,
+      "name": {
+        "local": "Birni Kudu",
+        "en": "Birni Kudu",
+        "slug": "birni-kudu-ng018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018004",
+        "level": 2,
+        "name": {
+          "local": "Birni Kudu",
+          "en": "Birni Kudu",
+          "slug": "birni-kudu-ng018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.49",
+      "lon": "9.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018004_kangire",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kangire",
+      "en": "Kangire",
+      "slug": "kangire"
+    },
+    "code": {
+      "id": "NG018004_kangire",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018004",
+      "level": 2,
+      "name": {
+        "local": "Birni Kudu",
+        "en": "Birni Kudu",
+        "slug": "birni-kudu-ng018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018004",
+        "level": 2,
+        "name": {
+          "local": "Birni Kudu",
+          "en": "Birni Kudu",
+          "slug": "birni-kudu-ng018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.49",
+      "lon": "9.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018004_kantoga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kantoga",
+      "en": "Kantoga",
+      "slug": "kantoga"
+    },
+    "code": {
+      "id": "NG018004_kantoga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018004",
+      "level": 2,
+      "name": {
+        "local": "Birni Kudu",
+        "en": "Birni Kudu",
+        "slug": "birni-kudu-ng018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018004",
+        "level": 2,
+        "name": {
+          "local": "Birni Kudu",
+          "en": "Birni Kudu",
+          "slug": "birni-kudu-ng018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.49",
+      "lon": "9.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018004_kiyako",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kiyako",
+      "en": "Kiyako",
+      "slug": "kiyako"
+    },
+    "code": {
+      "id": "NG018004_kiyako",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018004",
+      "level": 2,
+      "name": {
+        "local": "Birni Kudu",
+        "en": "Birni Kudu",
+        "slug": "birni-kudu-ng018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018004",
+        "level": 2,
+        "name": {
+          "local": "Birni Kudu",
+          "en": "Birni Kudu",
+          "slug": "birni-kudu-ng018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.49",
+      "lon": "9.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018004_kwangwara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwangwara",
+      "en": "Kwangwara",
+      "slug": "kwangwara"
+    },
+    "code": {
+      "id": "NG018004_kwangwara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018004",
+      "level": 2,
+      "name": {
+        "local": "Birni Kudu",
+        "en": "Birni Kudu",
+        "slug": "birni-kudu-ng018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018004",
+        "level": 2,
+        "name": {
+          "local": "Birni Kudu",
+          "en": "Birni Kudu",
+          "slug": "birni-kudu-ng018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.49",
+      "lon": "9.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018004_lafiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Lafiya",
+      "en": "Lafiya",
+      "slug": "lafiya"
+    },
+    "code": {
+      "id": "NG018004_lafiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018004",
+      "level": 2,
+      "name": {
+        "local": "Birni Kudu",
+        "en": "Birni Kudu",
+        "slug": "birni-kudu-ng018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018004",
+        "level": 2,
+        "name": {
+          "local": "Birni Kudu",
+          "en": "Birni Kudu",
+          "slug": "birni-kudu-ng018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.49",
+      "lon": "9.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018004_sundimina",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sundimina",
+      "en": "Sundimina",
+      "slug": "sundimina"
+    },
+    "code": {
+      "id": "NG018004_sundimina",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018004",
+      "level": 2,
+      "name": {
+        "local": "Birni Kudu",
+        "en": "Birni Kudu",
+        "slug": "birni-kudu-ng018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018004",
+        "level": 2,
+        "name": {
+          "local": "Birni Kudu",
+          "en": "Birni Kudu",
+          "slug": "birni-kudu-ng018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.49",
+      "lon": "9.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018004_surko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Surko",
+      "en": "Surko",
+      "slug": "surko"
+    },
+    "code": {
+      "id": "NG018004_surko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018004",
+      "level": 2,
+      "name": {
+        "local": "Birni Kudu",
+        "en": "Birni Kudu",
+        "slug": "birni-kudu-ng018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018004",
+        "level": 2,
+        "name": {
+          "local": "Birni Kudu",
+          "en": "Birni Kudu",
+          "slug": "birni-kudu-ng018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.49",
+      "lon": "9.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018004_unguwarya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar\"ya",
+      "en": "Unguwar\"ya",
+      "slug": "unguwarya"
+    },
+    "code": {
+      "id": "NG018004_unguwarya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018004",
+      "level": 2,
+      "name": {
+        "local": "Birni Kudu",
+        "en": "Birni Kudu",
+        "slug": "birni-kudu-ng018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018004",
+        "level": 2,
+        "name": {
+          "local": "Birni Kudu",
+          "en": "Birni Kudu",
+          "slug": "birni-kudu-ng018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.49",
+      "lon": "9.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018004_wurno",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wurno",
+      "en": "Wurno",
+      "slug": "wurno"
+    },
+    "code": {
+      "id": "NG018004_wurno",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018004",
+      "level": 2,
+      "name": {
+        "local": "Birni Kudu",
+        "en": "Birni Kudu",
+        "slug": "birni-kudu-ng018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018004",
+        "level": 2,
+        "name": {
+          "local": "Birni Kudu",
+          "en": "Birni Kudu",
+          "slug": "birni-kudu-ng018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.49",
+      "lon": "9.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018004_yalwan-damai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yalwan Damai",
+      "en": "Yalwan Damai",
+      "slug": "yalwan-damai"
+    },
+    "code": {
+      "id": "NG018004_yalwan-damai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018004",
+      "level": 2,
+      "name": {
+        "local": "Birni Kudu",
+        "en": "Birni Kudu",
+        "slug": "birni-kudu-ng018004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018004",
+        "level": 2,
+        "name": {
+          "local": "Birni Kudu",
+          "en": "Birni Kudu",
+          "slug": "birni-kudu-ng018004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.49",
+      "lon": "9.462"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

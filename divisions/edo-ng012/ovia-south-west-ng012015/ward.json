@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG012015_iguobazuwa-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iguobazuwa East",
+      "en": "Iguobazuwa East",
+      "slug": "iguobazuwa-east"
+    },
+    "code": {
+      "id": "NG012015_iguobazuwa-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012015",
+      "level": 2,
+      "name": {
+        "local": "Ovia South West",
+        "en": "Ovia South West",
+        "slug": "ovia-south-west-ng012015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012015",
+        "level": 2,
+        "name": {
+          "local": "Ovia South West",
+          "en": "Ovia South West",
+          "slug": "ovia-south-west-ng012015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "5.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012015_iguobazuwa-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iguobazuwa West",
+      "en": "Iguobazuwa West",
+      "slug": "iguobazuwa-west"
+    },
+    "code": {
+      "id": "NG012015_iguobazuwa-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012015",
+      "level": 2,
+      "name": {
+        "local": "Ovia South West",
+        "en": "Ovia South West",
+        "slug": "ovia-south-west-ng012015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012015",
+        "level": 2,
+        "name": {
+          "local": "Ovia South West",
+          "en": "Ovia South West",
+          "slug": "ovia-south-west-ng012015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "5.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012015_nikorogha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nikorogha",
+      "en": "Nikorogha",
+      "slug": "nikorogha"
+    },
+    "code": {
+      "id": "NG012015_nikorogha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012015",
+      "level": 2,
+      "name": {
+        "local": "Ovia South West",
+        "en": "Ovia South West",
+        "slug": "ovia-south-west-ng012015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012015",
+        "level": 2,
+        "name": {
+          "local": "Ovia South West",
+          "en": "Ovia South West",
+          "slug": "ovia-south-west-ng012015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "5.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012015_ofunama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ofunama",
+      "en": "Ofunama",
+      "slug": "ofunama"
+    },
+    "code": {
+      "id": "NG012015_ofunama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012015",
+      "level": 2,
+      "name": {
+        "local": "Ovia South West",
+        "en": "Ovia South West",
+        "slug": "ovia-south-west-ng012015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012015",
+        "level": 2,
+        "name": {
+          "local": "Ovia South West",
+          "en": "Ovia South West",
+          "slug": "ovia-south-west-ng012015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "5.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012015_ora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ora",
+      "en": "Ora",
+      "slug": "ora"
+    },
+    "code": {
+      "id": "NG012015_ora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012015",
+      "level": 2,
+      "name": {
+        "local": "Ovia South West",
+        "en": "Ovia South West",
+        "slug": "ovia-south-west-ng012015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012015",
+        "level": 2,
+        "name": {
+          "local": "Ovia South West",
+          "en": "Ovia South West",
+          "slug": "ovia-south-west-ng012015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "5.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012015_siluko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Siluko",
+      "en": "Siluko",
+      "slug": "siluko"
+    },
+    "code": {
+      "id": "NG012015_siluko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012015",
+      "level": 2,
+      "name": {
+        "local": "Ovia South West",
+        "en": "Ovia South West",
+        "slug": "ovia-south-west-ng012015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012015",
+        "level": 2,
+        "name": {
+          "local": "Ovia South West",
+          "en": "Ovia South West",
+          "slug": "ovia-south-west-ng012015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "5.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012015_udo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Udo",
+      "en": "Udo",
+      "slug": "udo"
+    },
+    "code": {
+      "id": "NG012015_udo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012015",
+      "level": 2,
+      "name": {
+        "local": "Ovia South West",
+        "en": "Ovia South West",
+        "slug": "ovia-south-west-ng012015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012015",
+        "level": 2,
+        "name": {
+          "local": "Ovia South West",
+          "en": "Ovia South West",
+          "slug": "ovia-south-west-ng012015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "5.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012015_ugbogui",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ugbogui",
+      "en": "Ugbogui",
+      "slug": "ugbogui"
+    },
+    "code": {
+      "id": "NG012015_ugbogui",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012015",
+      "level": 2,
+      "name": {
+        "local": "Ovia South West",
+        "en": "Ovia South West",
+        "slug": "ovia-south-west-ng012015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012015",
+        "level": 2,
+        "name": {
+          "local": "Ovia South West",
+          "en": "Ovia South West",
+          "slug": "ovia-south-west-ng012015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "5.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012015_umaza",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umaza",
+      "en": "Umaza",
+      "slug": "umaza"
+    },
+    "code": {
+      "id": "NG012015_umaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012015",
+      "level": 2,
+      "name": {
+        "local": "Ovia South West",
+        "en": "Ovia South West",
+        "slug": "ovia-south-west-ng012015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012015",
+        "level": 2,
+        "name": {
+          "local": "Ovia South West",
+          "en": "Ovia South West",
+          "slug": "ovia-south-west-ng012015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "5.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012015_usen",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Usen",
+      "en": "Usen",
+      "slug": "usen"
+    },
+    "code": {
+      "id": "NG012015_usen",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012015",
+      "level": 2,
+      "name": {
+        "local": "Ovia South West",
+        "en": "Ovia South West",
+        "slug": "ovia-south-west-ng012015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012015",
+        "level": 2,
+        "name": {
+          "local": "Ovia South West",
+          "en": "Ovia South West",
+          "slug": "ovia-south-west-ng012015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.471",
+      "lon": "5.299"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

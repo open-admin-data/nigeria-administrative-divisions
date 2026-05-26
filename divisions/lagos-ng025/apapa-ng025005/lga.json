@@ -1,0 +1,47 @@
+{
+  "id": "NG025005",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Apapa",
+    "en": "Apapa",
+    "slug": "apapa-ng025005"
+  },
+  "code": {
+    "id": "NG025005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG025",
+    "level": 1,
+    "name": {
+      "local": "Lagos",
+      "en": "Lagos",
+      "slug": "lagos-ng025"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG025",
+      "level": 1,
+      "name": {
+        "local": "Lagos",
+        "en": "Lagos",
+        "slug": "lagos-ng025"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.448",
+    "lon": "3.367"
+  },
+  "metadata": {},
+  "source": {}
+}

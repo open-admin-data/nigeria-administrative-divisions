@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG018020_balarabe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Balarabe",
+      "en": "Balarabe",
+      "slug": "balarabe"
+    },
+    "code": {
+      "id": "NG018020_balarabe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018020",
+      "level": 2,
+      "name": {
+        "local": "Maigatari",
+        "en": "Maigatari",
+        "slug": "maigatari-ng018020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018020",
+        "level": 2,
+        "name": {
+          "local": "Maigatari",
+          "en": "Maigatari",
+          "slug": "maigatari-ng018020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018020_dankumbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dankumbo",
+      "en": "Dankumbo",
+      "slug": "dankumbo"
+    },
+    "code": {
+      "id": "NG018020_dankumbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018020",
+      "level": 2,
+      "name": {
+        "local": "Maigatari",
+        "en": "Maigatari",
+        "slug": "maigatari-ng018020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018020",
+        "level": 2,
+        "name": {
+          "local": "Maigatari",
+          "en": "Maigatari",
+          "slug": "maigatari-ng018020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018020_fulata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fulata",
+      "en": "Fulata",
+      "slug": "fulata"
+    },
+    "code": {
+      "id": "NG018020_fulata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018020",
+      "level": 2,
+      "name": {
+        "local": "Maigatari",
+        "en": "Maigatari",
+        "slug": "maigatari-ng018020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018020",
+        "level": 2,
+        "name": {
+          "local": "Maigatari",
+          "en": "Maigatari",
+          "slug": "maigatari-ng018020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018020_galadi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Galadi",
+      "en": "Galadi",
+      "slug": "galadi"
+    },
+    "code": {
+      "id": "NG018020_galadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018020",
+      "level": 2,
+      "name": {
+        "local": "Maigatari",
+        "en": "Maigatari",
+        "slug": "maigatari-ng018020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018020",
+        "level": 2,
+        "name": {
+          "local": "Maigatari",
+          "en": "Maigatari",
+          "slug": "maigatari-ng018020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018020_jajeri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jajeri",
+      "en": "Jajeri",
+      "slug": "jajeri"
+    },
+    "code": {
+      "id": "NG018020_jajeri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018020",
+      "level": 2,
+      "name": {
+        "local": "Maigatari",
+        "en": "Maigatari",
+        "slug": "maigatari-ng018020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018020",
+        "level": 2,
+        "name": {
+          "local": "Maigatari",
+          "en": "Maigatari",
+          "slug": "maigatari-ng018020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018020_kukayasku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kukayasku",
+      "en": "Kukayasku",
+      "slug": "kukayasku"
+    },
+    "code": {
+      "id": "NG018020_kukayasku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018020",
+      "level": 2,
+      "name": {
+        "local": "Maigatari",
+        "en": "Maigatari",
+        "slug": "maigatari-ng018020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018020",
+        "level": 2,
+        "name": {
+          "local": "Maigatari",
+          "en": "Maigatari",
+          "slug": "maigatari-ng018020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018020_madana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Madana",
+      "en": "Madana",
+      "slug": "madana"
+    },
+    "code": {
+      "id": "NG018020_madana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018020",
+      "level": 2,
+      "name": {
+        "local": "Maigatari",
+        "en": "Maigatari",
+        "slug": "maigatari-ng018020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018020",
+        "level": 2,
+        "name": {
+          "local": "Maigatari",
+          "en": "Maigatari",
+          "slug": "maigatari-ng018020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018020_maigatari-arewa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maigatari Arewa",
+      "en": "Maigatari Arewa",
+      "slug": "maigatari-arewa"
+    },
+    "code": {
+      "id": "NG018020_maigatari-arewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018020",
+      "level": 2,
+      "name": {
+        "local": "Maigatari",
+        "en": "Maigatari",
+        "slug": "maigatari-ng018020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018020",
+        "level": 2,
+        "name": {
+          "local": "Maigatari",
+          "en": "Maigatari",
+          "slug": "maigatari-ng018020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018020_maigatari-kudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Maigatari Kudu",
+      "en": "Maigatari Kudu",
+      "slug": "maigatari-kudu"
+    },
+    "code": {
+      "id": "NG018020_maigatari-kudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018020",
+      "level": 2,
+      "name": {
+        "local": "Maigatari",
+        "en": "Maigatari",
+        "slug": "maigatari-ng018020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018020",
+        "level": 2,
+        "name": {
+          "local": "Maigatari",
+          "en": "Maigatari",
+          "slug": "maigatari-ng018020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018020_matoya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Matoya",
+      "en": "Matoya",
+      "slug": "matoya"
+    },
+    "code": {
+      "id": "NG018020_matoya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018020",
+      "level": 2,
+      "name": {
+        "local": "Maigatari",
+        "en": "Maigatari",
+        "slug": "maigatari-ng018020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018020",
+        "level": 2,
+        "name": {
+          "local": "Maigatari",
+          "en": "Maigatari",
+          "slug": "maigatari-ng018020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG018020_turbus",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Turbus",
+      "en": "Turbus",
+      "slug": "turbus"
+    },
+    "code": {
+      "id": "NG018020_turbus",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG018020",
+      "level": 2,
+      "name": {
+        "local": "Maigatari",
+        "en": "Maigatari",
+        "slug": "maigatari-ng018020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG018",
+        "level": 1,
+        "name": {
+          "local": "Jigawa",
+          "en": "Jigawa",
+          "slug": "jigawa-ng018"
+        }
+      },
+      {
+        "id": "NG018020",
+        "level": 2,
+        "name": {
+          "local": "Maigatari",
+          "en": "Maigatari",
+          "slug": "maigatari-ng018020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.686",
+      "lon": "9.617"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "NG007",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Benue",
+    "en": "Benue",
+    "slug": "benue-ng007"
+  },
+  "code": {
+    "id": "NG007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 23,
+    "ward": 264
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.301",
+    "lon": "8.812"
+  },
+  "metadata": {},
+  "source": {}
+}

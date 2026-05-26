@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG027001_baro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baro",
+      "en": "Baro",
+      "slug": "baro"
+    },
+    "code": {
+      "id": "NG027001_baro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027001",
+      "level": 2,
+      "name": {
+        "local": "Agaie",
+        "en": "Agaie",
+        "slug": "agaie-ng027001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027001",
+        "level": 2,
+        "name": {
+          "local": "Agaie",
+          "en": "Agaie",
+          "slug": "agaie-ng027001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.934",
+      "lon": "6.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027001_boku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Boku",
+      "en": "Boku",
+      "slug": "boku"
+    },
+    "code": {
+      "id": "NG027001_boku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027001",
+      "level": 2,
+      "name": {
+        "local": "Agaie",
+        "en": "Agaie",
+        "slug": "agaie-ng027001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027001",
+        "level": 2,
+        "name": {
+          "local": "Agaie",
+          "en": "Agaie",
+          "slug": "agaie-ng027001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.934",
+      "lon": "6.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027001_dauaci",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dauaci",
+      "en": "Dauaci",
+      "slug": "dauaci"
+    },
+    "code": {
+      "id": "NG027001_dauaci",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027001",
+      "level": 2,
+      "name": {
+        "local": "Agaie",
+        "en": "Agaie",
+        "slug": "agaie-ng027001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027001",
+        "level": 2,
+        "name": {
+          "local": "Agaie",
+          "en": "Agaie",
+          "slug": "agaie-ng027001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.934",
+      "lon": "6.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027001_ekobadeggi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekobadeggi",
+      "en": "Ekobadeggi",
+      "slug": "ekobadeggi"
+    },
+    "code": {
+      "id": "NG027001_ekobadeggi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027001",
+      "level": 2,
+      "name": {
+        "local": "Agaie",
+        "en": "Agaie",
+        "slug": "agaie-ng027001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027001",
+        "level": 2,
+        "name": {
+          "local": "Agaie",
+          "en": "Agaie",
+          "slug": "agaie-ng027001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.934",
+      "lon": "6.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027001_ekossa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekossa",
+      "en": "Ekossa",
+      "slug": "ekossa"
+    },
+    "code": {
+      "id": "NG027001_ekossa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027001",
+      "level": 2,
+      "name": {
+        "local": "Agaie",
+        "en": "Agaie",
+        "slug": "agaie-ng027001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027001",
+        "level": 2,
+        "name": {
+          "local": "Agaie",
+          "en": "Agaie",
+          "slug": "agaie-ng027001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.934",
+      "lon": "6.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027001_ekowugi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekowugi",
+      "en": "Ekowugi",
+      "slug": "ekowugi"
+    },
+    "code": {
+      "id": "NG027001_ekowugi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027001",
+      "level": 2,
+      "name": {
+        "local": "Agaie",
+        "en": "Agaie",
+        "slug": "agaie-ng027001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027001",
+        "level": 2,
+        "name": {
+          "local": "Agaie",
+          "en": "Agaie",
+          "slug": "agaie-ng027001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.934",
+      "lon": "6.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027001_ekowuna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekowuna",
+      "en": "Ekowuna",
+      "slug": "ekowuna"
+    },
+    "code": {
+      "id": "NG027001_ekowuna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027001",
+      "level": 2,
+      "name": {
+        "local": "Agaie",
+        "en": "Agaie",
+        "slug": "agaie-ng027001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027001",
+        "level": 2,
+        "name": {
+          "local": "Agaie",
+          "en": "Agaie",
+          "slug": "agaie-ng027001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.934",
+      "lon": "6.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027001_etsugaie",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Etsugaie",
+      "en": "Etsugaie",
+      "slug": "etsugaie"
+    },
+    "code": {
+      "id": "NG027001_etsugaie",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027001",
+      "level": 2,
+      "name": {
+        "local": "Agaie",
+        "en": "Agaie",
+        "slug": "agaie-ng027001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027001",
+        "level": 2,
+        "name": {
+          "local": "Agaie",
+          "en": "Agaie",
+          "slug": "agaie-ng027001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.934",
+      "lon": "6.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027001_kutiriko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kutiriko",
+      "en": "Kutiriko",
+      "slug": "kutiriko"
+    },
+    "code": {
+      "id": "NG027001_kutiriko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027001",
+      "level": 2,
+      "name": {
+        "local": "Agaie",
+        "en": "Agaie",
+        "slug": "agaie-ng027001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027001",
+        "level": 2,
+        "name": {
+          "local": "Agaie",
+          "en": "Agaie",
+          "slug": "agaie-ng027001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.934",
+      "lon": "6.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027001_magaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Magaji",
+      "en": "Magaji",
+      "slug": "magaji"
+    },
+    "code": {
+      "id": "NG027001_magaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027001",
+      "level": 2,
+      "name": {
+        "local": "Agaie",
+        "en": "Agaie",
+        "slug": "agaie-ng027001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027001",
+        "level": 2,
+        "name": {
+          "local": "Agaie",
+          "en": "Agaie",
+          "slug": "agaie-ng027001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.934",
+      "lon": "6.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027001_tagagi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tagagi",
+      "en": "Tagagi",
+      "slug": "tagagi"
+    },
+    "code": {
+      "id": "NG027001_tagagi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027001",
+      "level": 2,
+      "name": {
+        "local": "Agaie",
+        "en": "Agaie",
+        "slug": "agaie-ng027001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027001",
+        "level": 2,
+        "name": {
+          "local": "Agaie",
+          "en": "Agaie",
+          "slug": "agaie-ng027001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.934",
+      "lon": "6.43"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

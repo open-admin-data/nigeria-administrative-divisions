@@ -1,0 +1,30 @@
+{
+  "id": "NG006",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Bayelsa",
+    "en": "Bayelsa",
+    "slug": "bayelsa-ng006"
+  },
+  "code": {
+    "id": "NG006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 8,
+    "ward": 105
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.827",
+    "lon": "5.951"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG019004_afaka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Afaka",
+      "en": "Afaka",
+      "slug": "afaka"
+    },
+    "code": {
+      "id": "NG019004_afaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019004",
+      "level": 2,
+      "name": {
+        "local": "Igabi",
+        "en": "Igabi",
+        "slug": "igabi-ng019004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019004",
+        "level": 2,
+        "name": {
+          "local": "Igabi",
+          "en": "Igabi",
+          "slug": "igabi-ng019004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019004_birnin-yero",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birnin Yero",
+      "en": "Birnin Yero",
+      "slug": "birnin-yero"
+    },
+    "code": {
+      "id": "NG019004_birnin-yero",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019004",
+      "level": 2,
+      "name": {
+        "local": "Igabi",
+        "en": "Igabi",
+        "slug": "igabi-ng019004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019004",
+        "level": 2,
+        "name": {
+          "local": "Igabi",
+          "en": "Igabi",
+          "slug": "igabi-ng019004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019004_gadan-gayan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gadan Gayan",
+      "en": "Gadan Gayan",
+      "slug": "gadan-gayan"
+    },
+    "code": {
+      "id": "NG019004_gadan-gayan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019004",
+      "level": 2,
+      "name": {
+        "local": "Igabi",
+        "en": "Igabi",
+        "slug": "igabi-ng019004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019004",
+        "level": 2,
+        "name": {
+          "local": "Igabi",
+          "en": "Igabi",
+          "slug": "igabi-ng019004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019004_gwaraji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwaraji",
+      "en": "Gwaraji",
+      "slug": "gwaraji"
+    },
+    "code": {
+      "id": "NG019004_gwaraji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019004",
+      "level": 2,
+      "name": {
+        "local": "Igabi",
+        "en": "Igabi",
+        "slug": "igabi-ng019004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019004",
+        "level": 2,
+        "name": {
+          "local": "Igabi",
+          "en": "Igabi",
+          "slug": "igabi-ng019004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019004_igabi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igabi",
+      "en": "Igabi",
+      "slug": "igabi"
+    },
+    "code": {
+      "id": "NG019004_igabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019004",
+      "level": 2,
+      "name": {
+        "local": "Igabi",
+        "en": "Igabi",
+        "slug": "igabi-ng019004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019004",
+        "level": 2,
+        "name": {
+          "local": "Igabi",
+          "en": "Igabi",
+          "slug": "igabi-ng019004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019004_kerawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kerawa",
+      "en": "Kerawa",
+      "slug": "kerawa"
+    },
+    "code": {
+      "id": "NG019004_kerawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019004",
+      "level": 2,
+      "name": {
+        "local": "Igabi",
+        "en": "Igabi",
+        "slug": "igabi-ng019004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019004",
+        "level": 2,
+        "name": {
+          "local": "Igabi",
+          "en": "Igabi",
+          "slug": "igabi-ng019004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019004_kwarau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwarau",
+      "en": "Kwarau",
+      "slug": "kwarau"
+    },
+    "code": {
+      "id": "NG019004_kwarau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019004",
+      "level": 2,
+      "name": {
+        "local": "Igabi",
+        "en": "Igabi",
+        "slug": "igabi-ng019004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019004",
+        "level": 2,
+        "name": {
+          "local": "Igabi",
+          "en": "Igabi",
+          "slug": "igabi-ng019004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019004_rigachikun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rigachikun",
+      "en": "Rigachikun",
+      "slug": "rigachikun"
+    },
+    "code": {
+      "id": "NG019004_rigachikun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019004",
+      "level": 2,
+      "name": {
+        "local": "Igabi",
+        "en": "Igabi",
+        "slug": "igabi-ng019004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019004",
+        "level": 2,
+        "name": {
+          "local": "Igabi",
+          "en": "Igabi",
+          "slug": "igabi-ng019004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019004_rigasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rigasa",
+      "en": "Rigasa",
+      "slug": "rigasa"
+    },
+    "code": {
+      "id": "NG019004_rigasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019004",
+      "level": 2,
+      "name": {
+        "local": "Igabi",
+        "en": "Igabi",
+        "slug": "igabi-ng019004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019004",
+        "level": 2,
+        "name": {
+          "local": "Igabi",
+          "en": "Igabi",
+          "slug": "igabi-ng019004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019004_sabon-birnin-daji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Birnin Daji",
+      "en": "Sabon Birnin Daji",
+      "slug": "sabon-birnin-daji"
+    },
+    "code": {
+      "id": "NG019004_sabon-birnin-daji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019004",
+      "level": 2,
+      "name": {
+        "local": "Igabi",
+        "en": "Igabi",
+        "slug": "igabi-ng019004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019004",
+        "level": 2,
+        "name": {
+          "local": "Igabi",
+          "en": "Igabi",
+          "slug": "igabi-ng019004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019004_turunku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Turunku",
+      "en": "Turunku",
+      "slug": "turunku"
+    },
+    "code": {
+      "id": "NG019004_turunku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019004",
+      "level": 2,
+      "name": {
+        "local": "Igabi",
+        "en": "Igabi",
+        "slug": "igabi-ng019004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019004",
+        "level": 2,
+        "name": {
+          "local": "Igabi",
+          "en": "Igabi",
+          "slug": "igabi-ng019004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019004_zangon-aya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zangon Aya",
+      "en": "Zangon Aya",
+      "slug": "zangon-aya"
+    },
+    "code": {
+      "id": "NG019004_zangon-aya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019004",
+      "level": 2,
+      "name": {
+        "local": "Igabi",
+        "en": "Igabi",
+        "slug": "igabi-ng019004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019004",
+        "level": 2,
+        "name": {
+          "local": "Igabi",
+          "en": "Igabi",
+          "slug": "igabi-ng019004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.743",
+      "lon": "7.484"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

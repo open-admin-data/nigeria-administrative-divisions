@@ -1,0 +1,47 @@
+{
+  "id": "NG016010",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Shomgom",
+    "en": "Shomgom",
+    "slug": "shomgom-ng016010"
+  },
+  "code": {
+    "id": "NG016010",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG016",
+    "level": 1,
+    "name": {
+      "local": "Gombe",
+      "en": "Gombe",
+      "slug": "gombe-ng016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG016",
+      "level": 1,
+      "name": {
+        "local": "Gombe",
+        "en": "Gombe",
+        "slug": "gombe-ng016"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.75",
+    "lon": "11.247"
+  },
+  "metadata": {},
+  "source": {}
+}

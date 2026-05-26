@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG037005_bingi-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bingi North",
+      "en": "Bingi North",
+      "slug": "bingi-north"
+    },
+    "code": {
+      "id": "NG037005_bingi-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037005",
+      "level": 2,
+      "name": {
+        "local": "Bungudu",
+        "en": "Bungudu",
+        "slug": "bungudu-ng037005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037005",
+        "level": 2,
+        "name": {
+          "local": "Bungudu",
+          "en": "Bungudu",
+          "slug": "bungudu-ng037005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "6.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037005_bingi-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bingi South",
+      "en": "Bingi South",
+      "slug": "bingi-south"
+    },
+    "code": {
+      "id": "NG037005_bingi-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037005",
+      "level": 2,
+      "name": {
+        "local": "Bungudu",
+        "en": "Bungudu",
+        "slug": "bungudu-ng037005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037005",
+        "level": 2,
+        "name": {
+          "local": "Bungudu",
+          "en": "Bungudu",
+          "slug": "bungudu-ng037005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "6.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037005_bungudu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bungudu",
+      "en": "Bungudu",
+      "slug": "bungudu"
+    },
+    "code": {
+      "id": "NG037005_bungudu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037005",
+      "level": 2,
+      "name": {
+        "local": "Bungudu",
+        "en": "Bungudu",
+        "slug": "bungudu-ng037005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037005",
+        "level": 2,
+        "name": {
+          "local": "Bungudu",
+          "en": "Bungudu",
+          "slug": "bungudu-ng037005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "6.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037005_furfurikwai-kwai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Furfuri/kwai-kwai",
+      "en": "Furfuri/kwai-kwai",
+      "slug": "furfurikwai-kwai"
+    },
+    "code": {
+      "id": "NG037005_furfurikwai-kwai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037005",
+      "level": 2,
+      "name": {
+        "local": "Bungudu",
+        "en": "Bungudu",
+        "slug": "bungudu-ng037005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037005",
+        "level": 2,
+        "name": {
+          "local": "Bungudu",
+          "en": "Bungudu",
+          "slug": "bungudu-ng037005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "6.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037005_gada-karakkai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gada / Karakkai",
+      "en": "Gada / Karakkai",
+      "slug": "gada-karakkai"
+    },
+    "code": {
+      "id": "NG037005_gada-karakkai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037005",
+      "level": 2,
+      "name": {
+        "local": "Bungudu",
+        "en": "Bungudu",
+        "slug": "bungudu-ng037005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037005",
+        "level": 2,
+        "name": {
+          "local": "Bungudu",
+          "en": "Bungudu",
+          "slug": "bungudu-ng037005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "6.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037005_kwatarkwashi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwatarkwashi",
+      "en": "Kwatarkwashi",
+      "slug": "kwatarkwashi"
+    },
+    "code": {
+      "id": "NG037005_kwatarkwashi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037005",
+      "level": 2,
+      "name": {
+        "local": "Bungudu",
+        "en": "Bungudu",
+        "slug": "bungudu-ng037005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037005",
+        "level": 2,
+        "name": {
+          "local": "Bungudu",
+          "en": "Bungudu",
+          "slug": "bungudu-ng037005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "6.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037005_nahuce",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nahuce",
+      "en": "Nahuce",
+      "slug": "nahuce"
+    },
+    "code": {
+      "id": "NG037005_nahuce",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037005",
+      "level": 2,
+      "name": {
+        "local": "Bungudu",
+        "en": "Bungudu",
+        "slug": "bungudu-ng037005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037005",
+        "level": 2,
+        "name": {
+          "local": "Bungudu",
+          "en": "Bungudu",
+          "slug": "bungudu-ng037005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "6.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037005_rawayya-bela",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rawayya/ Bela",
+      "en": "Rawayya/ Bela",
+      "slug": "rawayya-bela"
+    },
+    "code": {
+      "id": "NG037005_rawayya-bela",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037005",
+      "level": 2,
+      "name": {
+        "local": "Bungudu",
+        "en": "Bungudu",
+        "slug": "bungudu-ng037005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037005",
+        "level": 2,
+        "name": {
+          "local": "Bungudu",
+          "en": "Bungudu",
+          "slug": "bungudu-ng037005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "6.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037005_samawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Samawa",
+      "en": "Samawa",
+      "slug": "samawa"
+    },
+    "code": {
+      "id": "NG037005_samawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037005",
+      "level": 2,
+      "name": {
+        "local": "Bungudu",
+        "en": "Bungudu",
+        "slug": "bungudu-ng037005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037005",
+        "level": 2,
+        "name": {
+          "local": "Bungudu",
+          "en": "Bungudu",
+          "slug": "bungudu-ng037005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "6.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037005_sankalawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sankalawa",
+      "en": "Sankalawa",
+      "slug": "sankalawa"
+    },
+    "code": {
+      "id": "NG037005_sankalawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037005",
+      "level": 2,
+      "name": {
+        "local": "Bungudu",
+        "en": "Bungudu",
+        "slug": "bungudu-ng037005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037005",
+        "level": 2,
+        "name": {
+          "local": "Bungudu",
+          "en": "Bungudu",
+          "slug": "bungudu-ng037005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "6.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG037005_tofa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tofa",
+      "en": "Tofa",
+      "slug": "tofa"
+    },
+    "code": {
+      "id": "NG037005_tofa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG037005",
+      "level": 2,
+      "name": {
+        "local": "Bungudu",
+        "en": "Bungudu",
+        "slug": "bungudu-ng037005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG037",
+        "level": 1,
+        "name": {
+          "local": "Zamfara",
+          "en": "Zamfara",
+          "slug": "zamfara-ng037"
+        }
+      },
+      {
+        "id": "NG037005",
+        "level": 2,
+        "name": {
+          "local": "Bungudu",
+          "en": "Bungudu",
+          "slug": "bungudu-ng037005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.034",
+      "lon": "6.471"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

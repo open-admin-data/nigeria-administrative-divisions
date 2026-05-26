@@ -1,0 +1,47 @@
+{
+  "id": "NG009012",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ikom",
+    "en": "Ikom",
+    "slug": "ikom-ng009012"
+  },
+  "code": {
+    "id": "NG009012",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG009",
+    "level": 1,
+    "name": {
+      "local": "Cross River",
+      "en": "Cross River",
+      "slug": "cross-river-ng009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.061",
+    "lon": "8.668"
+  },
+  "metadata": {},
+  "source": {}
+}

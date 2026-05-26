@@ -1,0 +1,47 @@
+{
+  "id": "NG005012",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Katagum",
+    "en": "Katagum",
+    "slug": "katagum-ng005012"
+  },
+  "code": {
+    "id": "NG005012",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG005",
+    "level": 1,
+    "name": {
+      "local": "Bauchi",
+      "en": "Bauchi",
+      "slug": "bauchi-ng005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG005",
+      "level": 1,
+      "name": {
+        "local": "Bauchi",
+        "en": "Bauchi",
+        "slug": "bauchi-ng005"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.66",
+    "lon": "10.345"
+  },
+  "metadata": {},
+  "source": {}
+}

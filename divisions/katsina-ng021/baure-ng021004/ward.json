@@ -1,0 +1,650 @@
+[
+  {
+    "id": "NG021004_agala",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agala",
+      "en": "Agala",
+      "slug": "agala"
+    },
+    "code": {
+      "id": "NG021004_agala",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021004",
+      "level": 2,
+      "name": {
+        "local": "Baure",
+        "en": "Baure",
+        "slug": "baure-ng021004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021004",
+        "level": 2,
+        "name": {
+          "local": "Baure",
+          "en": "Baure",
+          "slug": "baure-ng021004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "8.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021004_babban-mutum",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Babban Mutum",
+      "en": "Babban Mutum",
+      "slug": "babban-mutum"
+    },
+    "code": {
+      "id": "NG021004_babban-mutum",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021004",
+      "level": 2,
+      "name": {
+        "local": "Baure",
+        "en": "Baure",
+        "slug": "baure-ng021004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021004",
+        "level": 2,
+        "name": {
+          "local": "Baure",
+          "en": "Baure",
+          "slug": "baure-ng021004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "8.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021004_baure",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baure",
+      "en": "Baure",
+      "slug": "baure"
+    },
+    "code": {
+      "id": "NG021004_baure",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021004",
+      "level": 2,
+      "name": {
+        "local": "Baure",
+        "en": "Baure",
+        "slug": "baure-ng021004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021004",
+        "level": 2,
+        "name": {
+          "local": "Baure",
+          "en": "Baure",
+          "slug": "baure-ng021004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "8.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021004_garki",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garki",
+      "en": "Garki",
+      "slug": "garki"
+    },
+    "code": {
+      "id": "NG021004_garki",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021004",
+      "level": 2,
+      "name": {
+        "local": "Baure",
+        "en": "Baure",
+        "slug": "baure-ng021004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021004",
+        "level": 2,
+        "name": {
+          "local": "Baure",
+          "en": "Baure",
+          "slug": "baure-ng021004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "8.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021004_hui",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hui",
+      "en": "Hui",
+      "slug": "hui"
+    },
+    "code": {
+      "id": "NG021004_hui",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021004",
+      "level": 2,
+      "name": {
+        "local": "Baure",
+        "en": "Baure",
+        "slug": "baure-ng021004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021004",
+        "level": 2,
+        "name": {
+          "local": "Baure",
+          "en": "Baure",
+          "slug": "baure-ng021004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "8.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021004_kagarafaski",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kagara/faski",
+      "en": "Kagara/faski",
+      "slug": "kagarafaski"
+    },
+    "code": {
+      "id": "NG021004_kagarafaski",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021004",
+      "level": 2,
+      "name": {
+        "local": "Baure",
+        "en": "Baure",
+        "slug": "baure-ng021004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021004",
+        "level": 2,
+        "name": {
+          "local": "Baure",
+          "en": "Baure",
+          "slug": "baure-ng021004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "8.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021004_mai-bara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mai Bara",
+      "en": "Mai Bara",
+      "slug": "mai-bara"
+    },
+    "code": {
+      "id": "NG021004_mai-bara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021004",
+      "level": 2,
+      "name": {
+        "local": "Baure",
+        "en": "Baure",
+        "slug": "baure-ng021004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021004",
+        "level": 2,
+        "name": {
+          "local": "Baure",
+          "en": "Baure",
+          "slug": "baure-ng021004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "8.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021004_muduri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Muduri",
+      "en": "Muduri",
+      "slug": "muduri"
+    },
+    "code": {
+      "id": "NG021004_muduri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021004",
+      "level": 2,
+      "name": {
+        "local": "Baure",
+        "en": "Baure",
+        "slug": "baure-ng021004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021004",
+        "level": 2,
+        "name": {
+          "local": "Baure",
+          "en": "Baure",
+          "slug": "baure-ng021004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "8.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021004_taramnawabare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Taramnawa/bare",
+      "en": "Taramnawa/bare",
+      "slug": "taramnawabare"
+    },
+    "code": {
+      "id": "NG021004_taramnawabare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021004",
+      "level": 2,
+      "name": {
+        "local": "Baure",
+        "en": "Baure",
+        "slug": "baure-ng021004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021004",
+        "level": 2,
+        "name": {
+          "local": "Baure",
+          "en": "Baure",
+          "slug": "baure-ng021004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "8.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021004_unguwar-rai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unguwar Rai",
+      "en": "Unguwar Rai",
+      "slug": "unguwar-rai"
+    },
+    "code": {
+      "id": "NG021004_unguwar-rai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021004",
+      "level": 2,
+      "name": {
+        "local": "Baure",
+        "en": "Baure",
+        "slug": "baure-ng021004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021004",
+        "level": 2,
+        "name": {
+          "local": "Baure",
+          "en": "Baure",
+          "slug": "baure-ng021004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "8.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021004_yanduna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yanduna",
+      "en": "Yanduna",
+      "slug": "yanduna"
+    },
+    "code": {
+      "id": "NG021004_yanduna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021004",
+      "level": 2,
+      "name": {
+        "local": "Baure",
+        "en": "Baure",
+        "slug": "baure-ng021004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021004",
+        "level": 2,
+        "name": {
+          "local": "Baure",
+          "en": "Baure",
+          "slug": "baure-ng021004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "8.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021004_yanmaulu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yanmaulu",
+      "en": "Yanmaulu",
+      "slug": "yanmaulu"
+    },
+    "code": {
+      "id": "NG021004_yanmaulu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021004",
+      "level": 2,
+      "name": {
+        "local": "Baure",
+        "en": "Baure",
+        "slug": "baure-ng021004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021004",
+        "level": 2,
+        "name": {
+          "local": "Baure",
+          "en": "Baure",
+          "slug": "baure-ng021004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.794",
+      "lon": "8.782"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

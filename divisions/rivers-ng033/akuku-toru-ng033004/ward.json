@@ -1,0 +1,920 @@
+[
+  {
+    "id": "NG033004_alise-group",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alise Group",
+      "en": "Alise Group",
+      "slug": "alise-group"
+    },
+    "code": {
+      "id": "NG033004_alise-group",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_briggs-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Briggs I",
+      "en": "Briggs I",
+      "slug": "briggs-i"
+    },
+    "code": {
+      "id": "NG033004_briggs-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_briggs-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Briggs Ii",
+      "en": "Briggs Ii",
+      "slug": "briggs-ii"
+    },
+    "code": {
+      "id": "NG033004_briggs-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_briggs-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Briggs Iii",
+      "en": "Briggs Iii",
+      "slug": "briggs-iii"
+    },
+    "code": {
+      "id": "NG033004_briggs-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_georgewill-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Georgewill I",
+      "en": "Georgewill I",
+      "slug": "georgewill-i"
+    },
+    "code": {
+      "id": "NG033004_georgewill-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_georgewill-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Georgewill Ii",
+      "en": "Georgewill Ii",
+      "slug": "georgewill-ii"
+    },
+    "code": {
+      "id": "NG033004_georgewill-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_georgwill-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Georgwill Iii",
+      "en": "Georgwill Iii",
+      "slug": "georgwill-iii"
+    },
+    "code": {
+      "id": "NG033004_georgwill-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_jack-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jack I",
+      "en": "Jack I",
+      "slug": "jack-i"
+    },
+    "code": {
+      "id": "NG033004_jack-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_jack-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jack Ii",
+      "en": "Jack Ii",
+      "slug": "jack-ii"
+    },
+    "code": {
+      "id": "NG033004_jack-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_jack-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jack Iii",
+      "en": "Jack Iii",
+      "slug": "jack-iii"
+    },
+    "code": {
+      "id": "NG033004_jack-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_kula-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kula I",
+      "en": "Kula I",
+      "slug": "kula-i"
+    },
+    "code": {
+      "id": "NG033004_kula-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_kula-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kula Ii",
+      "en": "Kula Ii",
+      "slug": "kula-ii"
+    },
+    "code": {
+      "id": "NG033004_kula-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_manuel-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Manuel I",
+      "en": "Manuel I",
+      "slug": "manuel-i"
+    },
+    "code": {
+      "id": "NG033004_manuel-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_manuel-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Manuel Ii",
+      "en": "Manuel Ii",
+      "slug": "manuel-ii"
+    },
+    "code": {
+      "id": "NG033004_manuel-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_manuel-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Manuel Iii",
+      "en": "Manuel Iii",
+      "slug": "manuel-iii"
+    },
+    "code": {
+      "id": "NG033004_manuel-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_northsouth-group",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "North/south Group",
+      "en": "North/south Group",
+      "slug": "northsouth-group"
+    },
+    "code": {
+      "id": "NG033004_northsouth-group",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG033004_obonoma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Obonoma",
+      "en": "Obonoma",
+      "slug": "obonoma"
+    },
+    "code": {
+      "id": "NG033004_obonoma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG033004",
+      "level": 2,
+      "name": {
+        "local": "Akuku Toru",
+        "en": "Akuku Toru",
+        "slug": "akuku-toru-ng033004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG033",
+        "level": 1,
+        "name": {
+          "local": "Rivers",
+          "en": "Rivers",
+          "slug": "rivers-ng033"
+        }
+      },
+      {
+        "id": "NG033004",
+        "level": 2,
+        "name": {
+          "local": "Akuku Toru",
+          "en": "Akuku Toru",
+          "slug": "akuku-toru-ng033004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.537",
+      "lon": "6.705"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG021023_bauranya-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bauranya 'a'",
+      "en": "Bauranya 'a'",
+      "slug": "bauranya-a"
+    },
+    "code": {
+      "id": "NG021023_bauranya-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021023",
+      "level": 2,
+      "name": {
+        "local": "Kusada",
+        "en": "Kusada",
+        "slug": "kusada-ng021023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021023",
+        "level": 2,
+        "name": {
+          "local": "Kusada",
+          "en": "Kusada",
+          "slug": "kusada-ng021023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.457",
+      "lon": "7.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021023_bauranya-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bauranya 'b'",
+      "en": "Bauranya 'b'",
+      "slug": "bauranya-b"
+    },
+    "code": {
+      "id": "NG021023_bauranya-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021023",
+      "level": 2,
+      "name": {
+        "local": "Kusada",
+        "en": "Kusada",
+        "slug": "kusada-ng021023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021023",
+        "level": 2,
+        "name": {
+          "local": "Kusada",
+          "en": "Kusada",
+          "slug": "kusada-ng021023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.457",
+      "lon": "7.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021023_boko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Boko",
+      "en": "Boko",
+      "slug": "boko"
+    },
+    "code": {
+      "id": "NG021023_boko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021023",
+      "level": 2,
+      "name": {
+        "local": "Kusada",
+        "en": "Kusada",
+        "slug": "kusada-ng021023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021023",
+        "level": 2,
+        "name": {
+          "local": "Kusada",
+          "en": "Kusada",
+          "slug": "kusada-ng021023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.457",
+      "lon": "7.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021023_dudunni",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dudunni",
+      "en": "Dudunni",
+      "slug": "dudunni"
+    },
+    "code": {
+      "id": "NG021023_dudunni",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021023",
+      "level": 2,
+      "name": {
+        "local": "Kusada",
+        "en": "Kusada",
+        "slug": "kusada-ng021023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021023",
+        "level": 2,
+        "name": {
+          "local": "Kusada",
+          "en": "Kusada",
+          "slug": "kusada-ng021023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.457",
+      "lon": "7.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021023_kaikai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kaikai",
+      "en": "Kaikai",
+      "slug": "kaikai"
+    },
+    "code": {
+      "id": "NG021023_kaikai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021023",
+      "level": 2,
+      "name": {
+        "local": "Kusada",
+        "en": "Kusada",
+        "slug": "kusada-ng021023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021023",
+        "level": 2,
+        "name": {
+          "local": "Kusada",
+          "en": "Kusada",
+          "slug": "kusada-ng021023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.457",
+      "lon": "7.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021023_kofa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kofa",
+      "en": "Kofa",
+      "slug": "kofa"
+    },
+    "code": {
+      "id": "NG021023_kofa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021023",
+      "level": 2,
+      "name": {
+        "local": "Kusada",
+        "en": "Kusada",
+        "slug": "kusada-ng021023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021023",
+        "level": 2,
+        "name": {
+          "local": "Kusada",
+          "en": "Kusada",
+          "slug": "kusada-ng021023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.457",
+      "lon": "7.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021023_kusada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kusada",
+      "en": "Kusada",
+      "slug": "kusada"
+    },
+    "code": {
+      "id": "NG021023_kusada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021023",
+      "level": 2,
+      "name": {
+        "local": "Kusada",
+        "en": "Kusada",
+        "slug": "kusada-ng021023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021023",
+        "level": 2,
+        "name": {
+          "local": "Kusada",
+          "en": "Kusada",
+          "slug": "kusada-ng021023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.457",
+      "lon": "7.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021023_mawashi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mawashi",
+      "en": "Mawashi",
+      "slug": "mawashi"
+    },
+    "code": {
+      "id": "NG021023_mawashi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021023",
+      "level": 2,
+      "name": {
+        "local": "Kusada",
+        "en": "Kusada",
+        "slug": "kusada-ng021023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021023",
+        "level": 2,
+        "name": {
+          "local": "Kusada",
+          "en": "Kusada",
+          "slug": "kusada-ng021023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.457",
+      "lon": "7.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021023_yashe-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yashe 'a",
+      "en": "Yashe 'a",
+      "slug": "yashe-a"
+    },
+    "code": {
+      "id": "NG021023_yashe-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021023",
+      "level": 2,
+      "name": {
+        "local": "Kusada",
+        "en": "Kusada",
+        "slug": "kusada-ng021023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021023",
+        "level": 2,
+        "name": {
+          "local": "Kusada",
+          "en": "Kusada",
+          "slug": "kusada-ng021023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.457",
+      "lon": "7.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG021023_yashe-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yashe 'b'",
+      "en": "Yashe 'b'",
+      "slug": "yashe-b"
+    },
+    "code": {
+      "id": "NG021023_yashe-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG021023",
+      "level": 2,
+      "name": {
+        "local": "Kusada",
+        "en": "Kusada",
+        "slug": "kusada-ng021023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG021",
+        "level": 1,
+        "name": {
+          "local": "Katsina",
+          "en": "Katsina",
+          "slug": "katsina-ng021"
+        }
+      },
+      {
+        "id": "NG021023",
+        "level": 2,
+        "name": {
+          "local": "Kusada",
+          "en": "Kusada",
+          "slug": "kusada-ng021023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.457",
+      "lon": "7.974"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG009011_abia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abia",
+      "en": "Abia",
+      "slug": "abia"
+    },
+    "code": {
+      "id": "NG009011_abia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009011",
+      "level": 2,
+      "name": {
+        "local": "Etung",
+        "en": "Etung",
+        "slug": "etung-ng009011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009011",
+        "level": 2,
+        "name": {
+          "local": "Etung",
+          "en": "Etung",
+          "slug": "etung-ng009011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "8.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009011_abijang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abijang",
+      "en": "Abijang",
+      "slug": "abijang"
+    },
+    "code": {
+      "id": "NG009011_abijang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009011",
+      "level": 2,
+      "name": {
+        "local": "Etung",
+        "en": "Etung",
+        "slug": "etung-ng009011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009011",
+        "level": 2,
+        "name": {
+          "local": "Etung",
+          "en": "Etung",
+          "slug": "etung-ng009011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "8.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009011_agbokim",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agbokim",
+      "en": "Agbokim",
+      "slug": "agbokim"
+    },
+    "code": {
+      "id": "NG009011_agbokim",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009011",
+      "level": 2,
+      "name": {
+        "local": "Etung",
+        "en": "Etung",
+        "slug": "etung-ng009011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009011",
+        "level": 2,
+        "name": {
+          "local": "Etung",
+          "en": "Etung",
+          "slug": "etung-ng009011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "8.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009011_ajassor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ajassor",
+      "en": "Ajassor",
+      "slug": "ajassor"
+    },
+    "code": {
+      "id": "NG009011_ajassor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009011",
+      "level": 2,
+      "name": {
+        "local": "Etung",
+        "en": "Etung",
+        "slug": "etung-ng009011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009011",
+        "level": 2,
+        "name": {
+          "local": "Etung",
+          "en": "Etung",
+          "slug": "etung-ng009011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "8.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009011_bendeghe-ekiem",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bendeghe Ekiem",
+      "en": "Bendeghe Ekiem",
+      "slug": "bendeghe-ekiem"
+    },
+    "code": {
+      "id": "NG009011_bendeghe-ekiem",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009011",
+      "level": 2,
+      "name": {
+        "local": "Etung",
+        "en": "Etung",
+        "slug": "etung-ng009011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009011",
+        "level": 2,
+        "name": {
+          "local": "Etung",
+          "en": "Etung",
+          "slug": "etung-ng009011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "8.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009011_effraya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Effraya",
+      "en": "Effraya",
+      "slug": "effraya"
+    },
+    "code": {
+      "id": "NG009011_effraya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009011",
+      "level": 2,
+      "name": {
+        "local": "Etung",
+        "en": "Etung",
+        "slug": "etung-ng009011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009011",
+        "level": 2,
+        "name": {
+          "local": "Etung",
+          "en": "Etung",
+          "slug": "etung-ng009011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "8.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009011_etomi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Etomi",
+      "en": "Etomi",
+      "slug": "etomi"
+    },
+    "code": {
+      "id": "NG009011_etomi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009011",
+      "level": 2,
+      "name": {
+        "local": "Etung",
+        "en": "Etung",
+        "slug": "etung-ng009011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009011",
+        "level": 2,
+        "name": {
+          "local": "Etung",
+          "en": "Etung",
+          "slug": "etung-ng009011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "8.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009011_itaka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Itaka",
+      "en": "Itaka",
+      "slug": "itaka"
+    },
+    "code": {
+      "id": "NG009011_itaka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009011",
+      "level": 2,
+      "name": {
+        "local": "Etung",
+        "en": "Etung",
+        "slug": "etung-ng009011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009011",
+        "level": 2,
+        "name": {
+          "local": "Etung",
+          "en": "Etung",
+          "slug": "etung-ng009011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "8.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009011_mkpotayuk-aba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mkpot/ayuk Aba",
+      "en": "Mkpot/ayuk Aba",
+      "slug": "mkpotayuk-aba"
+    },
+    "code": {
+      "id": "NG009011_mkpotayuk-aba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009011",
+      "level": 2,
+      "name": {
+        "local": "Etung",
+        "en": "Etung",
+        "slug": "etung-ng009011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009011",
+        "level": 2,
+        "name": {
+          "local": "Etung",
+          "en": "Etung",
+          "slug": "etung-ng009011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "8.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009011_nsofang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nsofang",
+      "en": "Nsofang",
+      "slug": "nsofang"
+    },
+    "code": {
+      "id": "NG009011_nsofang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009011",
+      "level": 2,
+      "name": {
+        "local": "Etung",
+        "en": "Etung",
+        "slug": "etung-ng009011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009011",
+        "level": 2,
+        "name": {
+          "local": "Etung",
+          "en": "Etung",
+          "slug": "etung-ng009011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "8.809"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

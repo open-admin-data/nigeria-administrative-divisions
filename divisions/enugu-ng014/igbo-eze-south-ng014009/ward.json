@@ -1,0 +1,866 @@
+[
+  {
+    "id": "NG014009_alor-agu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Alor Agu",
+      "en": "Alor Agu",
+      "slug": "alor-agu"
+    },
+    "code": {
+      "id": "NG014009_alor-agu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_amebo-hausa-yoruba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amebo /hausa/ Yoruba",
+      "en": "Amebo /hausa/ Yoruba",
+      "slug": "amebo-hausa-yoruba"
+    },
+    "code": {
+      "id": "NG014009_amebo-hausa-yoruba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_echaraisiagu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Echara/isiagu",
+      "en": "Echara/isiagu",
+      "slug": "echaraisiagu"
+    },
+    "code": {
+      "id": "NG014009_echaraisiagu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_ezema-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ezema Ward",
+      "en": "Ezema Ward",
+      "slug": "ezema-ward"
+    },
+    "code": {
+      "id": "NG014009_ezema-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_iheaka-likkiakutara-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iheaka (likki/akutara Ward)",
+      "en": "Iheaka (likki/akutara Ward)",
+      "slug": "iheaka-likkiakutara-ward"
+    },
+    "code": {
+      "id": "NG014009_iheaka-likkiakutara-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_iheaka-ugo-ekoyi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iheaka (ugo Ekoyi)",
+      "en": "Iheaka (ugo Ekoyi)",
+      "slug": "iheaka-ugo-ekoyi"
+    },
+    "code": {
+      "id": "NG014009_iheaka-ugo-ekoyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_iheakpu-ajuona-ogbagu-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iheakpu (ajuona Ogbagu Ward)",
+      "en": "Iheakpu (ajuona Ogbagu Ward)",
+      "slug": "iheakpu-ajuona-ogbagu-ward"
+    },
+    "code": {
+      "id": "NG014009_iheakpu-ajuona-ogbagu-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_iheakpu-ezzi-ngwu-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Iheakpu (ezzi Ngwu Ward)",
+      "en": "Iheakpu (ezzi Ngwu Ward)",
+      "slug": "iheakpu-ezzi-ngwu-ward"
+    },
+    "code": {
+      "id": "NG014009_iheakpu-ezzi-ngwu-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_itchiuwani-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Itchi/uwani I",
+      "en": "Itchi/uwani I",
+      "slug": "itchiuwani-i"
+    },
+    "code": {
+      "id": "NG014009_itchiuwani-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_itchiuwani-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Itchi/uwani Ii",
+      "en": "Itchi/uwani Ii",
+      "slug": "itchiuwani-ii"
+    },
+    "code": {
+      "id": "NG014009_itchiuwani-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_nkalagu-obukpa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nkalagu Obukpa",
+      "en": "Nkalagu Obukpa",
+      "slug": "nkalagu-obukpa"
+    },
+    "code": {
+      "id": "NG014009_nkalagu-obukpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_ovoko-ajuona-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ovoko (ajuona Ward)",
+      "en": "Ovoko (ajuona Ward)",
+      "slug": "ovoko-ajuona-ward"
+    },
+    "code": {
+      "id": "NG014009_ovoko-ajuona-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_ovoko-umueloovoko-agu-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ovoko (umuelo/ovoko Agu Ward)",
+      "en": "Ovoko (umuelo/ovoko Agu Ward)",
+      "slug": "ovoko-umueloovoko-agu-ward"
+    },
+    "code": {
+      "id": "NG014009_ovoko-umueloovoko-agu-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_ovoko-umulolo-ward",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ovoko (umulolo Ward)",
+      "en": "Ovoko (umulolo Ward)",
+      "slug": "ovoko-umulolo-ward"
+    },
+    "code": {
+      "id": "NG014009_ovoko-umulolo-ward",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_uhunowerre",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uhunowerre",
+      "en": "Uhunowerre",
+      "slug": "uhunowerre"
+    },
+    "code": {
+      "id": "NG014009_uhunowerre",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014009_unadu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Unadu",
+      "en": "Unadu",
+      "slug": "unadu"
+    },
+    "code": {
+      "id": "NG014009_unadu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014009",
+      "level": 2,
+      "name": {
+        "local": "Igbo-Eze South",
+        "en": "Igbo-Eze South",
+        "slug": "igbo-eze-south-ng014009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014009",
+        "level": 2,
+        "name": {
+          "local": "Igbo-Eze South",
+          "en": "Igbo-Eze South",
+          "slug": "igbo-eze-south-ng014009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.956",
+      "lon": "7.362"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

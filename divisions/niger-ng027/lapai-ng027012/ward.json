@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG027012_arewayamma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Arewa/yamma",
+      "en": "Arewa/yamma",
+      "slug": "arewayamma"
+    },
+    "code": {
+      "id": "NG027012_arewayamma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027012",
+      "level": 2,
+      "name": {
+        "local": "Lapai",
+        "en": "Lapai",
+        "slug": "lapai-ng027012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027012",
+        "level": 2,
+        "name": {
+          "local": "Lapai",
+          "en": "Lapai",
+          "slug": "lapai-ng027012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.781",
+      "lon": "6.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027012_birnin-mazatashibo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Birnin Maza/tashibo",
+      "en": "Birnin Maza/tashibo",
+      "slug": "birnin-mazatashibo"
+    },
+    "code": {
+      "id": "NG027012_birnin-mazatashibo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027012",
+      "level": 2,
+      "name": {
+        "local": "Lapai",
+        "en": "Lapai",
+        "slug": "lapai-ng027012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027012",
+        "level": 2,
+        "name": {
+          "local": "Lapai",
+          "en": "Lapai",
+          "slug": "lapai-ng027012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.781",
+      "lon": "6.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027012_ebbogbacinku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ebbo/gbacinku",
+      "en": "Ebbo/gbacinku",
+      "slug": "ebbogbacinku"
+    },
+    "code": {
+      "id": "NG027012_ebbogbacinku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027012",
+      "level": 2,
+      "name": {
+        "local": "Lapai",
+        "en": "Lapai",
+        "slug": "lapai-ng027012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027012",
+        "level": 2,
+        "name": {
+          "local": "Lapai",
+          "en": "Lapai",
+          "slug": "lapai-ng027012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.781",
+      "lon": "6.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027012_evutikpada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Evuti/kpada",
+      "en": "Evuti/kpada",
+      "slug": "evutikpada"
+    },
+    "code": {
+      "id": "NG027012_evutikpada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027012",
+      "level": 2,
+      "name": {
+        "local": "Lapai",
+        "en": "Lapai",
+        "slug": "lapai-ng027012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027012",
+        "level": 2,
+        "name": {
+          "local": "Lapai",
+          "en": "Lapai",
+          "slug": "lapai-ng027012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.781",
+      "lon": "6.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027012_guluanguwa-vatsa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gulu/anguwa Vatsa",
+      "en": "Gulu/anguwa Vatsa",
+      "slug": "guluanguwa-vatsa"
+    },
+    "code": {
+      "id": "NG027012_guluanguwa-vatsa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027012",
+      "level": 2,
+      "name": {
+        "local": "Lapai",
+        "en": "Lapai",
+        "slug": "lapai-ng027012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027012",
+        "level": 2,
+        "name": {
+          "local": "Lapai",
+          "en": "Lapai",
+          "slug": "lapai-ng027012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.781",
+      "lon": "6.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027012_gupaabugi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gupa/abugi",
+      "en": "Gupa/abugi",
+      "slug": "gupaabugi"
+    },
+    "code": {
+      "id": "NG027012_gupaabugi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027012",
+      "level": 2,
+      "name": {
+        "local": "Lapai",
+        "en": "Lapai",
+        "slug": "lapai-ng027012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027012",
+        "level": 2,
+        "name": {
+          "local": "Lapai",
+          "en": "Lapai",
+          "slug": "lapai-ng027012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.781",
+      "lon": "6.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027012_gurdizago",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gurdi/zago",
+      "en": "Gurdi/zago",
+      "slug": "gurdizago"
+    },
+    "code": {
+      "id": "NG027012_gurdizago",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027012",
+      "level": 2,
+      "name": {
+        "local": "Lapai",
+        "en": "Lapai",
+        "slug": "lapai-ng027012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027012",
+        "level": 2,
+        "name": {
+          "local": "Lapai",
+          "en": "Lapai",
+          "slug": "lapai-ng027012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.781",
+      "lon": "6.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027012_kudugabas",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kudu/gabas",
+      "en": "Kudu/gabas",
+      "slug": "kudugabas"
+    },
+    "code": {
+      "id": "NG027012_kudugabas",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027012",
+      "level": 2,
+      "name": {
+        "local": "Lapai",
+        "en": "Lapai",
+        "slug": "lapai-ng027012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027012",
+        "level": 2,
+        "name": {
+          "local": "Lapai",
+          "en": "Lapai",
+          "slug": "lapai-ng027012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.781",
+      "lon": "6.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027012_muyeegba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Muye/egba",
+      "en": "Muye/egba",
+      "slug": "muyeegba"
+    },
+    "code": {
+      "id": "NG027012_muyeegba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027012",
+      "level": 2,
+      "name": {
+        "local": "Lapai",
+        "en": "Lapai",
+        "slug": "lapai-ng027012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027012",
+        "level": 2,
+        "name": {
+          "local": "Lapai",
+          "en": "Lapai",
+          "slug": "lapai-ng027012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.781",
+      "lon": "6.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027012_takutishaku",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Takuti/shaku",
+      "en": "Takuti/shaku",
+      "slug": "takutishaku"
+    },
+    "code": {
+      "id": "NG027012_takutishaku",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027012",
+      "level": 2,
+      "name": {
+        "local": "Lapai",
+        "en": "Lapai",
+        "slug": "lapai-ng027012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027012",
+        "level": 2,
+        "name": {
+          "local": "Lapai",
+          "en": "Lapai",
+          "slug": "lapai-ng027012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.781",
+      "lon": "6.674"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

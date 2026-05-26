@@ -1,0 +1,47 @@
+{
+  "id": "NG014009",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Igbo-Eze South",
+    "en": "Igbo-Eze South",
+    "slug": "igbo-eze-south-ng014009"
+  },
+  "code": {
+    "id": "NG014009",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG014",
+    "level": 1,
+    "name": {
+      "local": "Enugu",
+      "en": "Enugu",
+      "slug": "enugu-ng014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG014",
+      "level": 1,
+      "name": {
+        "local": "Enugu",
+        "en": "Enugu",
+        "slug": "enugu-ng014"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.956",
+    "lon": "7.362"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020027_dalili",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dalili",
+      "en": "Dalili",
+      "slug": "dalili"
+    },
+    "code": {
+      "id": "NG020027_dalili",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020027",
+      "level": 2,
+      "name": {
+        "local": "Kura",
+        "en": "Kura",
+        "slug": "kura-ng020027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020027",
+        "level": 2,
+        "name": {
+          "local": "Kura",
+          "en": "Kura",
+          "slug": "kura-ng020027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.775",
+      "lon": "8.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020027_dan-hassan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan Hassan",
+      "en": "Dan Hassan",
+      "slug": "dan-hassan"
+    },
+    "code": {
+      "id": "NG020027_dan-hassan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020027",
+      "level": 2,
+      "name": {
+        "local": "Kura",
+        "en": "Kura",
+        "slug": "kura-ng020027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020027",
+        "level": 2,
+        "name": {
+          "local": "Kura",
+          "en": "Kura",
+          "slug": "kura-ng020027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.775",
+      "lon": "8.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020027_dukawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dukawa",
+      "en": "Dukawa",
+      "slug": "dukawa"
+    },
+    "code": {
+      "id": "NG020027_dukawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020027",
+      "level": 2,
+      "name": {
+        "local": "Kura",
+        "en": "Kura",
+        "slug": "kura-ng020027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020027",
+        "level": 2,
+        "name": {
+          "local": "Kura",
+          "en": "Kura",
+          "slug": "kura-ng020027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.775",
+      "lon": "8.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020027_gundutse",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gundutse",
+      "en": "Gundutse",
+      "slug": "gundutse"
+    },
+    "code": {
+      "id": "NG020027_gundutse",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020027",
+      "level": 2,
+      "name": {
+        "local": "Kura",
+        "en": "Kura",
+        "slug": "kura-ng020027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020027",
+        "level": 2,
+        "name": {
+          "local": "Kura",
+          "en": "Kura",
+          "slug": "kura-ng020027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.775",
+      "lon": "8.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020027_karfi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karfi",
+      "en": "Karfi",
+      "slug": "karfi"
+    },
+    "code": {
+      "id": "NG020027_karfi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020027",
+      "level": 2,
+      "name": {
+        "local": "Kura",
+        "en": "Kura",
+        "slug": "kura-ng020027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020027",
+        "level": 2,
+        "name": {
+          "local": "Kura",
+          "en": "Kura",
+          "slug": "kura-ng020027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.775",
+      "lon": "8.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020027_kosawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kosawa",
+      "en": "Kosawa",
+      "slug": "kosawa"
+    },
+    "code": {
+      "id": "NG020027_kosawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020027",
+      "level": 2,
+      "name": {
+        "local": "Kura",
+        "en": "Kura",
+        "slug": "kura-ng020027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020027",
+        "level": 2,
+        "name": {
+          "local": "Kura",
+          "en": "Kura",
+          "slug": "kura-ng020027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.775",
+      "lon": "8.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020027_kura",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kura",
+      "en": "Kura",
+      "slug": "kura"
+    },
+    "code": {
+      "id": "NG020027_kura",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020027",
+      "level": 2,
+      "name": {
+        "local": "Kura",
+        "en": "Kura",
+        "slug": "kura-ng020027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020027",
+        "level": 2,
+        "name": {
+          "local": "Kura",
+          "en": "Kura",
+          "slug": "kura-ng020027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.775",
+      "lon": "8.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020027_kurunsumau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kurunsumau",
+      "en": "Kurunsumau",
+      "slug": "kurunsumau"
+    },
+    "code": {
+      "id": "NG020027_kurunsumau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020027",
+      "level": 2,
+      "name": {
+        "local": "Kura",
+        "en": "Kura",
+        "slug": "kura-ng020027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020027",
+        "level": 2,
+        "name": {
+          "local": "Kura",
+          "en": "Kura",
+          "slug": "kura-ng020027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.775",
+      "lon": "8.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020027_rigar-duka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Rigar Duka",
+      "en": "Rigar Duka",
+      "slug": "rigar-duka"
+    },
+    "code": {
+      "id": "NG020027_rigar-duka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020027",
+      "level": 2,
+      "name": {
+        "local": "Kura",
+        "en": "Kura",
+        "slug": "kura-ng020027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020027",
+        "level": 2,
+        "name": {
+          "local": "Kura",
+          "en": "Kura",
+          "slug": "kura-ng020027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.775",
+      "lon": "8.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020027_tanawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tanawa",
+      "en": "Tanawa",
+      "slug": "tanawa"
+    },
+    "code": {
+      "id": "NG020027_tanawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020027",
+      "level": 2,
+      "name": {
+        "local": "Kura",
+        "en": "Kura",
+        "slug": "kura-ng020027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020027",
+        "level": 2,
+        "name": {
+          "local": "Kura",
+          "en": "Kura",
+          "slug": "kura-ng020027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.775",
+      "lon": "8.478"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

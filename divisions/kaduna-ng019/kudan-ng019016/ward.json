@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG019016_doka",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doka",
+      "en": "Doka",
+      "slug": "doka"
+    },
+    "code": {
+      "id": "NG019016_doka",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019016",
+      "level": 2,
+      "name": {
+        "local": "Kudan",
+        "en": "Kudan",
+        "slug": "kudan-ng019016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019016",
+        "level": 2,
+        "name": {
+          "local": "Kudan",
+          "en": "Kudan",
+          "slug": "kudan-ng019016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.268",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019016_garu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garu",
+      "en": "Garu",
+      "slug": "garu"
+    },
+    "code": {
+      "id": "NG019016_garu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019016",
+      "level": 2,
+      "name": {
+        "local": "Kudan",
+        "en": "Kudan",
+        "slug": "kudan-ng019016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019016",
+        "level": 2,
+        "name": {
+          "local": "Kudan",
+          "en": "Kudan",
+          "slug": "kudan-ng019016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.268",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019016_hunkuyi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Hunkuyi",
+      "en": "Hunkuyi",
+      "slug": "hunkuyi"
+    },
+    "code": {
+      "id": "NG019016_hunkuyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019016",
+      "level": 2,
+      "name": {
+        "local": "Kudan",
+        "en": "Kudan",
+        "slug": "kudan-ng019016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019016",
+        "level": 2,
+        "name": {
+          "local": "Kudan",
+          "en": "Kudan",
+          "slug": "kudan-ng019016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.268",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019016_kauran-wali-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kauran Wali North",
+      "en": "Kauran Wali North",
+      "slug": "kauran-wali-north"
+    },
+    "code": {
+      "id": "NG019016_kauran-wali-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019016",
+      "level": 2,
+      "name": {
+        "local": "Kudan",
+        "en": "Kudan",
+        "slug": "kudan-ng019016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019016",
+        "level": 2,
+        "name": {
+          "local": "Kudan",
+          "en": "Kudan",
+          "slug": "kudan-ng019016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.268",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019016_kauran-wali-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kauran Wali South",
+      "en": "Kauran Wali South",
+      "slug": "kauran-wali-south"
+    },
+    "code": {
+      "id": "NG019016_kauran-wali-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019016",
+      "level": 2,
+      "name": {
+        "local": "Kudan",
+        "en": "Kudan",
+        "slug": "kudan-ng019016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019016",
+        "level": 2,
+        "name": {
+          "local": "Kudan",
+          "en": "Kudan",
+          "slug": "kudan-ng019016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.268",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019016_kudan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kudan",
+      "en": "Kudan",
+      "slug": "kudan"
+    },
+    "code": {
+      "id": "NG019016_kudan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019016",
+      "level": 2,
+      "name": {
+        "local": "Kudan",
+        "en": "Kudan",
+        "slug": "kudan-ng019016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019016",
+        "level": 2,
+        "name": {
+          "local": "Kudan",
+          "en": "Kudan",
+          "slug": "kudan-ng019016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.268",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019016_likoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Likoro",
+      "en": "Likoro",
+      "slug": "likoro"
+    },
+    "code": {
+      "id": "NG019016_likoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019016",
+      "level": 2,
+      "name": {
+        "local": "Kudan",
+        "en": "Kudan",
+        "slug": "kudan-ng019016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019016",
+        "level": 2,
+        "name": {
+          "local": "Kudan",
+          "en": "Kudan",
+          "slug": "kudan-ng019016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.268",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019016_sabon-gari-hunkuyi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Gari Hunkuyi",
+      "en": "Sabon Gari Hunkuyi",
+      "slug": "sabon-gari-hunkuyi"
+    },
+    "code": {
+      "id": "NG019016_sabon-gari-hunkuyi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019016",
+      "level": 2,
+      "name": {
+        "local": "Kudan",
+        "en": "Kudan",
+        "slug": "kudan-ng019016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019016",
+        "level": 2,
+        "name": {
+          "local": "Kudan",
+          "en": "Kudan",
+          "slug": "kudan-ng019016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.268",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019016_taban-sani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Taban Sani",
+      "en": "Taban Sani",
+      "slug": "taban-sani"
+    },
+    "code": {
+      "id": "NG019016_taban-sani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019016",
+      "level": 2,
+      "name": {
+        "local": "Kudan",
+        "en": "Kudan",
+        "slug": "kudan-ng019016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019016",
+        "level": 2,
+        "name": {
+          "local": "Kudan",
+          "en": "Kudan",
+          "slug": "kudan-ng019016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.268",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG019016_zabi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zabi",
+      "en": "Zabi",
+      "slug": "zabi"
+    },
+    "code": {
+      "id": "NG019016_zabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG019016",
+      "level": 2,
+      "name": {
+        "local": "Kudan",
+        "en": "Kudan",
+        "slug": "kudan-ng019016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG019",
+        "level": 1,
+        "name": {
+          "local": "Kaduna",
+          "en": "Kaduna",
+          "slug": "kaduna-ng019"
+        }
+      },
+      {
+        "id": "NG019016",
+        "level": 2,
+        "name": {
+          "local": "Kudan",
+          "en": "Kudan",
+          "slug": "kudan-ng019016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.268",
+      "lon": "7.719"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG020015_chiromawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chiromawa",
+      "en": "Chiromawa",
+      "slug": "chiromawa"
+    },
+    "code": {
+      "id": "NG020015_chiromawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020015",
+      "level": 2,
+      "name": {
+        "local": "Garum Mallam",
+        "en": "Garum Mallam",
+        "slug": "garum-mallam-ng020015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020015",
+        "level": 2,
+        "name": {
+          "local": "Garum Mallam",
+          "en": "Garum Mallam",
+          "slug": "garum-mallam-ng020015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "8.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020015_dorawar-sallau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dorawar-sallau",
+      "en": "Dorawar-sallau",
+      "slug": "dorawar-sallau"
+    },
+    "code": {
+      "id": "NG020015_dorawar-sallau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020015",
+      "level": 2,
+      "name": {
+        "local": "Garum Mallam",
+        "en": "Garum Mallam",
+        "slug": "garum-mallam-ng020015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020015",
+        "level": 2,
+        "name": {
+          "local": "Garum Mallam",
+          "en": "Garum Mallam",
+          "slug": "garum-mallam-ng020015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "8.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020015_fankurun",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Fankurun",
+      "en": "Fankurun",
+      "slug": "fankurun"
+    },
+    "code": {
+      "id": "NG020015_fankurun",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020015",
+      "level": 2,
+      "name": {
+        "local": "Garum Mallam",
+        "en": "Garum Mallam",
+        "slug": "garum-mallam-ng020015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020015",
+        "level": 2,
+        "name": {
+          "local": "Garum Mallam",
+          "en": "Garum Mallam",
+          "slug": "garum-mallam-ng020015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "8.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020015_garun-babba",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garun Babba",
+      "en": "Garun Babba",
+      "slug": "garun-babba"
+    },
+    "code": {
+      "id": "NG020015_garun-babba",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020015",
+      "level": 2,
+      "name": {
+        "local": "Garum Mallam",
+        "en": "Garum Mallam",
+        "slug": "garum-mallam-ng020015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020015",
+        "level": 2,
+        "name": {
+          "local": "Garum Mallam",
+          "en": "Garum Mallam",
+          "slug": "garum-mallam-ng020015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "8.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020015_garun-malam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Garun Malam",
+      "en": "Garun Malam",
+      "slug": "garun-malam"
+    },
+    "code": {
+      "id": "NG020015_garun-malam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020015",
+      "level": 2,
+      "name": {
+        "local": "Garum Mallam",
+        "en": "Garum Mallam",
+        "slug": "garum-mallam-ng020015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020015",
+        "level": 2,
+        "name": {
+          "local": "Garum Mallam",
+          "en": "Garum Mallam",
+          "slug": "garum-mallam-ng020015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "8.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020015_jobawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jobawa",
+      "en": "Jobawa",
+      "slug": "jobawa"
+    },
+    "code": {
+      "id": "NG020015_jobawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020015",
+      "level": 2,
+      "name": {
+        "local": "Garum Mallam",
+        "en": "Garum Mallam",
+        "slug": "garum-mallam-ng020015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020015",
+        "level": 2,
+        "name": {
+          "local": "Garum Mallam",
+          "en": "Garum Mallam",
+          "slug": "garum-mallam-ng020015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "8.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020015_kadawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kadawa",
+      "en": "Kadawa",
+      "slug": "kadawa"
+    },
+    "code": {
+      "id": "NG020015_kadawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020015",
+      "level": 2,
+      "name": {
+        "local": "Garum Mallam",
+        "en": "Garum Mallam",
+        "slug": "garum-mallam-ng020015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020015",
+        "level": 2,
+        "name": {
+          "local": "Garum Mallam",
+          "en": "Garum Mallam",
+          "slug": "garum-mallam-ng020015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "8.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020015_makwaro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Makwaro",
+      "en": "Makwaro",
+      "slug": "makwaro"
+    },
+    "code": {
+      "id": "NG020015_makwaro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020015",
+      "level": 2,
+      "name": {
+        "local": "Garum Mallam",
+        "en": "Garum Mallam",
+        "slug": "garum-mallam-ng020015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020015",
+        "level": 2,
+        "name": {
+          "local": "Garum Mallam",
+          "en": "Garum Mallam",
+          "slug": "garum-mallam-ng020015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "8.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020015_yad-akwari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yad Akwari",
+      "en": "Yad Akwari",
+      "slug": "yad-akwari"
+    },
+    "code": {
+      "id": "NG020015_yad-akwari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020015",
+      "level": 2,
+      "name": {
+        "local": "Garum Mallam",
+        "en": "Garum Mallam",
+        "slug": "garum-mallam-ng020015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020015",
+        "level": 2,
+        "name": {
+          "local": "Garum Mallam",
+          "en": "Garum Mallam",
+          "slug": "garum-mallam-ng020015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "8.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020015_yalwan-yadakwari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yalwan Yadakwari",
+      "en": "Yalwan Yadakwari",
+      "slug": "yalwan-yadakwari"
+    },
+    "code": {
+      "id": "NG020015_yalwan-yadakwari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020015",
+      "level": 2,
+      "name": {
+        "local": "Garum Mallam",
+        "en": "Garum Mallam",
+        "slug": "garum-mallam-ng020015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020015",
+        "level": 2,
+        "name": {
+          "local": "Garum Mallam",
+          "en": "Garum Mallam",
+          "slug": "garum-mallam-ng020015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.66",
+      "lon": "8.393"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

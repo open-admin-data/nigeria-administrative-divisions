@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "NG010001",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Aniocha North",
+      "en": "Aniocha North",
+      "slug": "aniocha-north-ng010001"
+    },
+    "code": {
+      "id": "NG010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.368",
+      "lon": "6.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010002",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Aniocha South",
+      "en": "Aniocha South",
+      "slug": "aniocha-south-ng010002"
+    },
+    "code": {
+      "id": "NG010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.145",
+      "lon": "6.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010003",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Bomadi",
+      "en": "Bomadi",
+      "slug": "bomadi-ng010003"
+    },
+    "code": {
+      "id": "NG010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.226",
+      "lon": "5.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010004",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Burutu",
+      "en": "Burutu",
+      "slug": "burutu-ng010004"
+    },
+    "code": {
+      "id": "NG010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.234",
+      "lon": "5.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010005",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ethiope East",
+      "en": "Ethiope East",
+      "slug": "ethiope-east-ng010005"
+    },
+    "code": {
+      "id": "NG010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.667",
+      "lon": "5.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010006",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ethiope West",
+      "en": "Ethiope West",
+      "slug": "ethiope-west-ng010006"
+    },
+    "code": {
+      "id": "NG010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.911",
+      "lon": "5.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010007",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ika North East",
+      "en": "Ika North East",
+      "slug": "ika-north-east-ng010007"
+    },
+    "code": {
+      "id": "NG010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.237",
+      "lon": "6.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010008",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ika South",
+      "en": "Ika South",
+      "slug": "ika-south-ng010008"
+    },
+    "code": {
+      "id": "NG010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.187",
+      "lon": "6.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010009",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Isoko North",
+      "en": "Isoko North",
+      "slug": "isoko-north-ng010009"
+    },
+    "code": {
+      "id": "NG010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "6.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010010",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Isoko South",
+      "en": "Isoko South",
+      "slug": "isoko-south-ng010010"
+    },
+    "code": {
+      "id": "NG010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.397",
+      "lon": "6.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010011",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ndokwa East",
+      "en": "Ndokwa East",
+      "slug": "ndokwa-east-ng010011"
+    },
+    "code": {
+      "id": "NG010011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.663",
+      "lon": "6.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010012",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ndokwa West",
+      "en": "Ndokwa West",
+      "slug": "ndokwa-west-ng010012"
+    },
+    "code": {
+      "id": "NG010012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.826",
+      "lon": "6.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010013",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Okpe",
+      "en": "Okpe",
+      "slug": "okpe-ng010013"
+    },
+    "code": {
+      "id": "NG010013",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.7",
+      "lon": "5.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010014",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Oshimili North",
+      "en": "Oshimili North",
+      "slug": "oshimili-north-ng010014"
+    },
+    "code": {
+      "id": "NG010014",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.304",
+      "lon": "6.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010015",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Oshimili South",
+      "en": "Oshimili South",
+      "slug": "oshimili-south-ng010015"
+    },
+    "code": {
+      "id": "NG010015",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.13",
+      "lon": "6.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010016",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Patani",
+      "en": "Patani",
+      "slug": "patani-ng010016"
+    },
+    "code": {
+      "id": "NG010016",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.19",
+      "lon": "6.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010017",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Sapele",
+      "en": "Sapele",
+      "slug": "sapele-ng010017"
+    },
+    "code": {
+      "id": "NG010017",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.836",
+      "lon": "5.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010018",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Udu",
+      "en": "Udu",
+      "slug": "udu-ng010018"
+    },
+    "code": {
+      "id": "NG010018",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.477",
+      "lon": "5.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010019",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ughelli North",
+      "en": "Ughelli North",
+      "slug": "ughelli-north-ng010019"
+    },
+    "code": {
+      "id": "NG010019",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.487",
+      "lon": "6.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010020",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ughelli South",
+      "en": "Ughelli South",
+      "slug": "ughelli-south-ng010020"
+    },
+    "code": {
+      "id": "NG010020",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.36",
+      "lon": "5.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010021",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Ukwuani",
+      "en": "Ukwuani",
+      "slug": "ukwuani-ng010021"
+    },
+    "code": {
+      "id": "NG010021",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.849",
+      "lon": "6.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010022",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Uvwie",
+      "en": "Uvwie",
+      "slug": "uvwie-ng010022"
+    },
+    "code": {
+      "id": "NG010022",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "5.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010023",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Warri North",
+      "en": "Warri North",
+      "slug": "warri-north-ng010023"
+    },
+    "code": {
+      "id": "NG010023",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.931",
+      "lon": "5.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010024",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Warri South",
+      "en": "Warri South",
+      "slug": "warri-south-ng010024"
+    },
+    "code": {
+      "id": "NG010024",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.667",
+      "lon": "5.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG010025",
+    "level": 2,
+    "level_name": {
+      "local": "Local Government Area",
+      "en": "Local Government Area"
+    },
+    "name": {
+      "local": "Warri South West",
+      "en": "Warri South West",
+      "slug": "warri-south-west-ng010025"
+    },
+    "code": {
+      "id": "NG010025",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG010",
+      "level": 1,
+      "name": {
+        "local": "Delta",
+        "en": "Delta",
+        "slug": "delta-ng010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG010",
+        "level": 1,
+        "name": {
+          "local": "Delta",
+          "en": "Delta",
+          "slug": "delta-ng010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.606",
+      "lon": "5.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

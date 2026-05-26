@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG014004_asata-township",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Asata Township",
+      "en": "Asata Township",
+      "slug": "asata-township"
+    },
+    "code": {
+      "id": "NG014004_asata-township",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014004_china-town",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "China Town",
+      "en": "China Town",
+      "slug": "china-town"
+    },
+    "code": {
+      "id": "NG014004_china-town",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014004_gra",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "G.r.a",
+      "en": "G.r.a",
+      "slug": "gra"
+    },
+    "code": {
+      "id": "NG014004_gra",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014004_ihewuzi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ihewuzi",
+      "en": "Ihewuzi",
+      "slug": "ihewuzi"
+    },
+    "code": {
+      "id": "NG014004_ihewuzi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014004_independence-layout",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Independence Layout",
+      "en": "Independence Layout",
+      "slug": "independence-layout"
+    },
+    "code": {
+      "id": "NG014004_independence-layout",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014004_new-haven",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "New Haven",
+      "en": "New Haven",
+      "slug": "new-haven"
+    },
+    "code": {
+      "id": "NG014004_new-haven",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014004_ogbette-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbette East",
+      "en": "Ogbette East",
+      "slug": "ogbette-east"
+    },
+    "code": {
+      "id": "NG014004_ogbette-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014004_ogbette-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogbette West",
+      "en": "Ogbette West",
+      "slug": "ogbette-west"
+    },
+    "code": {
+      "id": "NG014004_ogbette-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014004_ogui-new-layout",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogui New Layout",
+      "en": "Ogui New Layout",
+      "slug": "ogui-new-layout"
+    },
+    "code": {
+      "id": "NG014004_ogui-new-layout",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014004_ogui-township",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ogui Township",
+      "en": "Ogui Township",
+      "slug": "ogui-township"
+    },
+    "code": {
+      "id": "NG014004_ogui-township",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014004_onu-asata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Onu-asata",
+      "en": "Onu-asata",
+      "slug": "onu-asata"
+    },
+    "code": {
+      "id": "NG014004_onu-asata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014004_udi-sidingiva-valley",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Udi Siding/iva Valley",
+      "en": "Udi Siding/iva Valley",
+      "slug": "udi-sidingiva-valley"
+    },
+    "code": {
+      "id": "NG014004_udi-sidingiva-valley",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG014004_umunevo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umunevo",
+      "en": "Umunevo",
+      "slug": "umunevo"
+    },
+    "code": {
+      "id": "NG014004_umunevo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG014004",
+      "level": 2,
+      "name": {
+        "local": "Enugu North",
+        "en": "Enugu North",
+        "slug": "enugu-north-ng014004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG014",
+        "level": 1,
+        "name": {
+          "local": "Enugu",
+          "en": "Enugu",
+          "slug": "enugu-ng014"
+        }
+      },
+      {
+        "id": "NG014004",
+        "level": 2,
+        "name": {
+          "local": "Enugu North",
+          "en": "Enugu North",
+          "slug": "enugu-north-ng014004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "7.538"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

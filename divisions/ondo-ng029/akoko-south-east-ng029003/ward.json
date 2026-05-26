@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG029003_epinmi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Epinmi I",
+      "en": "Epinmi I",
+      "slug": "epinmi-i"
+    },
+    "code": {
+      "id": "NG029003_epinmi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029003",
+      "level": 2,
+      "name": {
+        "local": "Akoko South East",
+        "en": "Akoko South East",
+        "slug": "akoko-south-east-ng029003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029003",
+        "level": 2,
+        "name": {
+          "local": "Akoko South East",
+          "en": "Akoko South East",
+          "slug": "akoko-south-east-ng029003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.422",
+      "lon": "5.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029003_epinmi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Epinmi Ii",
+      "en": "Epinmi Ii",
+      "slug": "epinmi-ii"
+    },
+    "code": {
+      "id": "NG029003_epinmi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029003",
+      "level": 2,
+      "name": {
+        "local": "Akoko South East",
+        "en": "Akoko South East",
+        "slug": "akoko-south-east-ng029003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029003",
+        "level": 2,
+        "name": {
+          "local": "Akoko South East",
+          "en": "Akoko South East",
+          "slug": "akoko-south-east-ng029003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.422",
+      "lon": "5.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029003_ifira",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ifira",
+      "en": "Ifira",
+      "slug": "ifira"
+    },
+    "code": {
+      "id": "NG029003_ifira",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029003",
+      "level": 2,
+      "name": {
+        "local": "Akoko South East",
+        "en": "Akoko South East",
+        "slug": "akoko-south-east-ng029003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029003",
+        "level": 2,
+        "name": {
+          "local": "Akoko South East",
+          "en": "Akoko South East",
+          "slug": "akoko-south-east-ng029003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.422",
+      "lon": "5.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029003_ipe-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipe I",
+      "en": "Ipe I",
+      "slug": "ipe-i"
+    },
+    "code": {
+      "id": "NG029003_ipe-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029003",
+      "level": 2,
+      "name": {
+        "local": "Akoko South East",
+        "en": "Akoko South East",
+        "slug": "akoko-south-east-ng029003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029003",
+        "level": 2,
+        "name": {
+          "local": "Akoko South East",
+          "en": "Akoko South East",
+          "slug": "akoko-south-east-ng029003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.422",
+      "lon": "5.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029003_ipe-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipe Ii",
+      "en": "Ipe Ii",
+      "slug": "ipe-ii"
+    },
+    "code": {
+      "id": "NG029003_ipe-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029003",
+      "level": 2,
+      "name": {
+        "local": "Akoko South East",
+        "en": "Akoko South East",
+        "slug": "akoko-south-east-ng029003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029003",
+        "level": 2,
+        "name": {
+          "local": "Akoko South East",
+          "en": "Akoko South East",
+          "slug": "akoko-south-east-ng029003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.422",
+      "lon": "5.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029003_ipesi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ipesi",
+      "en": "Ipesi",
+      "slug": "ipesi"
+    },
+    "code": {
+      "id": "NG029003_ipesi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029003",
+      "level": 2,
+      "name": {
+        "local": "Akoko South East",
+        "en": "Akoko South East",
+        "slug": "akoko-south-east-ng029003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029003",
+        "level": 2,
+        "name": {
+          "local": "Akoko South East",
+          "en": "Akoko South East",
+          "slug": "akoko-south-east-ng029003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.422",
+      "lon": "5.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029003_isua-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isua I",
+      "en": "Isua I",
+      "slug": "isua-i"
+    },
+    "code": {
+      "id": "NG029003_isua-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029003",
+      "level": 2,
+      "name": {
+        "local": "Akoko South East",
+        "en": "Akoko South East",
+        "slug": "akoko-south-east-ng029003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029003",
+        "level": 2,
+        "name": {
+          "local": "Akoko South East",
+          "en": "Akoko South East",
+          "slug": "akoko-south-east-ng029003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.422",
+      "lon": "5.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029003_isua-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isua Ii",
+      "en": "Isua Ii",
+      "slug": "isua-ii"
+    },
+    "code": {
+      "id": "NG029003_isua-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029003",
+      "level": 2,
+      "name": {
+        "local": "Akoko South East",
+        "en": "Akoko South East",
+        "slug": "akoko-south-east-ng029003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029003",
+        "level": 2,
+        "name": {
+          "local": "Akoko South East",
+          "en": "Akoko South East",
+          "slug": "akoko-south-east-ng029003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.422",
+      "lon": "5.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029003_isua-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isua Iii",
+      "en": "Isua Iii",
+      "slug": "isua-iii"
+    },
+    "code": {
+      "id": "NG029003_isua-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029003",
+      "level": 2,
+      "name": {
+        "local": "Akoko South East",
+        "en": "Akoko South East",
+        "slug": "akoko-south-east-ng029003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029003",
+        "level": 2,
+        "name": {
+          "local": "Akoko South East",
+          "en": "Akoko South East",
+          "slug": "akoko-south-east-ng029003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.422",
+      "lon": "5.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029003_isua-iv",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isua Iv",
+      "en": "Isua Iv",
+      "slug": "isua-iv"
+    },
+    "code": {
+      "id": "NG029003_isua-iv",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029003",
+      "level": 2,
+      "name": {
+        "local": "Akoko South East",
+        "en": "Akoko South East",
+        "slug": "akoko-south-east-ng029003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029003",
+        "level": 2,
+        "name": {
+          "local": "Akoko South East",
+          "en": "Akoko South East",
+          "slug": "akoko-south-east-ng029003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.422",
+      "lon": "5.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG029003_sosan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sosan",
+      "en": "Sosan",
+      "slug": "sosan"
+    },
+    "code": {
+      "id": "NG029003_sosan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG029003",
+      "level": 2,
+      "name": {
+        "local": "Akoko South East",
+        "en": "Akoko South East",
+        "slug": "akoko-south-east-ng029003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG029",
+        "level": 1,
+        "name": {
+          "local": "Ondo",
+          "en": "Ondo",
+          "slug": "ondo-ng029"
+        }
+      },
+      {
+        "id": "NG029003",
+        "level": 2,
+        "name": {
+          "local": "Akoko South East",
+          "en": "Akoko South East",
+          "slug": "akoko-south-east-ng029003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.422",
+      "lon": "5.905"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

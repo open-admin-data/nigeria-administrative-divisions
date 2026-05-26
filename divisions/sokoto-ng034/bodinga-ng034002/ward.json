@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG034002_badaudarhela",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Badau/darhela",
+      "en": "Badau/darhela",
+      "slug": "badaudarhela"
+    },
+    "code": {
+      "id": "NG034002_badaudarhela",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034002",
+      "level": 2,
+      "name": {
+        "local": "Bodinga",
+        "en": "Bodinga",
+        "slug": "bodinga-ng034002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034002",
+        "level": 2,
+        "name": {
+          "local": "Bodinga",
+          "en": "Bodinga",
+          "slug": "bodinga-ng034002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "5.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034002_bagarawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bagarawa",
+      "en": "Bagarawa",
+      "slug": "bagarawa"
+    },
+    "code": {
+      "id": "NG034002_bagarawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034002",
+      "level": 2,
+      "name": {
+        "local": "Bodinga",
+        "en": "Bodinga",
+        "slug": "bodinga-ng034002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034002",
+        "level": 2,
+        "name": {
+          "local": "Bodinga",
+          "en": "Bodinga",
+          "slug": "bodinga-ng034002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "5.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034002_bangidabaga",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bangi/dabaga",
+      "en": "Bangi/dabaga",
+      "slug": "bangidabaga"
+    },
+    "code": {
+      "id": "NG034002_bangidabaga",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034002",
+      "level": 2,
+      "name": {
+        "local": "Bodinga",
+        "en": "Bodinga",
+        "slug": "bodinga-ng034002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034002",
+        "level": 2,
+        "name": {
+          "local": "Bodinga",
+          "en": "Bodinga",
+          "slug": "bodinga-ng034002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "5.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034002_bodingatauma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bodinga/tauma",
+      "en": "Bodinga/tauma",
+      "slug": "bodingatauma"
+    },
+    "code": {
+      "id": "NG034002_bodingatauma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034002",
+      "level": 2,
+      "name": {
+        "local": "Bodinga",
+        "en": "Bodinga",
+        "slug": "bodinga-ng034002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034002",
+        "level": 2,
+        "name": {
+          "local": "Bodinga",
+          "en": "Bodinga",
+          "slug": "bodinga-ng034002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "5.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034002_danchadi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Danchadi",
+      "en": "Danchadi",
+      "slug": "danchadi"
+    },
+    "code": {
+      "id": "NG034002_danchadi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034002",
+      "level": 2,
+      "name": {
+        "local": "Bodinga",
+        "en": "Bodinga",
+        "slug": "bodinga-ng034002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034002",
+        "level": 2,
+        "name": {
+          "local": "Bodinga",
+          "en": "Bodinga",
+          "slug": "bodinga-ng034002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "5.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034002_dingyadibadawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dingyadi/badawa",
+      "en": "Dingyadi/badawa",
+      "slug": "dingyadibadawa"
+    },
+    "code": {
+      "id": "NG034002_dingyadibadawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034002",
+      "level": 2,
+      "name": {
+        "local": "Bodinga",
+        "en": "Bodinga",
+        "slug": "bodinga-ng034002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034002",
+        "level": 2,
+        "name": {
+          "local": "Bodinga",
+          "en": "Bodinga",
+          "slug": "bodinga-ng034002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "5.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034002_kwacciyar-lalle",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwacciyar Lalle",
+      "en": "Kwacciyar Lalle",
+      "slug": "kwacciyar-lalle"
+    },
+    "code": {
+      "id": "NG034002_kwacciyar-lalle",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034002",
+      "level": 2,
+      "name": {
+        "local": "Bodinga",
+        "en": "Bodinga",
+        "slug": "bodinga-ng034002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034002",
+        "level": 2,
+        "name": {
+          "local": "Bodinga",
+          "en": "Bodinga",
+          "slug": "bodinga-ng034002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "5.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034002_mazan-garijirga-miyo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mazan Gari/jirga Miyo",
+      "en": "Mazan Gari/jirga Miyo",
+      "slug": "mazan-garijirga-miyo"
+    },
+    "code": {
+      "id": "NG034002_mazan-garijirga-miyo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034002",
+      "level": 2,
+      "name": {
+        "local": "Bodinga",
+        "en": "Bodinga",
+        "slug": "bodinga-ng034002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034002",
+        "level": 2,
+        "name": {
+          "local": "Bodinga",
+          "en": "Bodinga",
+          "slug": "bodinga-ng034002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "5.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034002_sifawalukuyawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sifawa/lukuyawa",
+      "en": "Sifawa/lukuyawa",
+      "slug": "sifawalukuyawa"
+    },
+    "code": {
+      "id": "NG034002_sifawalukuyawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034002",
+      "level": 2,
+      "name": {
+        "local": "Bodinga",
+        "en": "Bodinga",
+        "slug": "bodinga-ng034002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034002",
+        "level": 2,
+        "name": {
+          "local": "Bodinga",
+          "en": "Bodinga",
+          "slug": "bodinga-ng034002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "5.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034002_takatukumadorawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Takatuku/madorawa",
+      "en": "Takatuku/madorawa",
+      "slug": "takatukumadorawa"
+    },
+    "code": {
+      "id": "NG034002_takatukumadorawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034002",
+      "level": 2,
+      "name": {
+        "local": "Bodinga",
+        "en": "Bodinga",
+        "slug": "bodinga-ng034002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034002",
+        "level": 2,
+        "name": {
+          "local": "Bodinga",
+          "en": "Bodinga",
+          "slug": "bodinga-ng034002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "5.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG034002_tulluwakulafasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tulluwa/kulafasa",
+      "en": "Tulluwa/kulafasa",
+      "slug": "tulluwakulafasa"
+    },
+    "code": {
+      "id": "NG034002_tulluwakulafasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG034002",
+      "level": 2,
+      "name": {
+        "local": "Bodinga",
+        "en": "Bodinga",
+        "slug": "bodinga-ng034002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG034",
+        "level": 1,
+        "name": {
+          "local": "Sokoto",
+          "en": "Sokoto",
+          "slug": "sokoto-ng034"
+        }
+      },
+      {
+        "id": "NG034002",
+        "level": 2,
+        "name": {
+          "local": "Bodinga",
+          "en": "Bodinga",
+          "slug": "bodinga-ng034002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.799",
+      "lon": "5.179"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

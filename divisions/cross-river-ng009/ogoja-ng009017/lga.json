@@ -1,0 +1,47 @@
+{
+  "id": "NG009017",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Ogoja",
+    "en": "Ogoja",
+    "slug": "ogoja-ng009017"
+  },
+  "code": {
+    "id": "NG009017",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG009",
+    "level": 1,
+    "name": {
+      "local": "Cross River",
+      "en": "Cross River",
+      "slug": "cross-river-ng009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG009",
+      "level": 1,
+      "name": {
+        "local": "Cross River",
+        "en": "Cross River",
+        "slug": "cross-river-ng009"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.527",
+    "lon": "8.689"
+  },
+  "metadata": {},
+  "source": {}
+}

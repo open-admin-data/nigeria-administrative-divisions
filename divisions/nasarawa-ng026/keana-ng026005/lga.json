@@ -1,0 +1,47 @@
+{
+  "id": "NG026005",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Keana",
+    "en": "Keana",
+    "slug": "keana-ng026005"
+  },
+  "code": {
+    "id": "NG026005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG026",
+    "level": 1,
+    "name": {
+      "local": "Nasarawa",
+      "en": "Nasarawa",
+      "slug": "nasarawa-ng026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG026",
+      "level": 1,
+      "name": {
+        "local": "Nasarawa",
+        "en": "Nasarawa",
+        "slug": "nasarawa-ng026"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.205",
+    "lon": "8.717"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG024002_boriyashiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Boriya/shiya",
+      "en": "Boriya/shiya",
+      "slug": "boriyashiya"
+    },
+    "code": {
+      "id": "NG024002_boriyashiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024002",
+      "level": 2,
+      "name": {
+        "local": "Baruten",
+        "en": "Baruten",
+        "slug": "baruten-ng024002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024002",
+        "level": 2,
+        "name": {
+          "local": "Baruten",
+          "en": "Baruten",
+          "slug": "baruten-ng024002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "3.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024002_guregwasoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gure/gwasoro",
+      "en": "Gure/gwasoro",
+      "slug": "guregwasoro"
+    },
+    "code": {
+      "id": "NG024002_guregwasoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024002",
+      "level": 2,
+      "name": {
+        "local": "Baruten",
+        "en": "Baruten",
+        "slug": "baruten-ng024002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024002",
+        "level": 2,
+        "name": {
+          "local": "Baruten",
+          "en": "Baruten",
+          "slug": "baruten-ng024002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "3.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024002_gwanara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwanara",
+      "en": "Gwanara",
+      "slug": "gwanara"
+    },
+    "code": {
+      "id": "NG024002_gwanara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024002",
+      "level": 2,
+      "name": {
+        "local": "Baruten",
+        "en": "Baruten",
+        "slug": "baruten-ng024002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024002",
+        "level": 2,
+        "name": {
+          "local": "Baruten",
+          "en": "Baruten",
+          "slug": "baruten-ng024002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "3.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024002_gwedebererubabane",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwedebereru/babane",
+      "en": "Gwedebereru/babane",
+      "slug": "gwedebererubabane"
+    },
+    "code": {
+      "id": "NG024002_gwedebererubabane",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024002",
+      "level": 2,
+      "name": {
+        "local": "Baruten",
+        "en": "Baruten",
+        "slug": "baruten-ng024002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024002",
+        "level": 2,
+        "name": {
+          "local": "Baruten",
+          "en": "Baruten",
+          "slug": "baruten-ng024002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "3.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024002_ilesha",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilesha",
+      "en": "Ilesha",
+      "slug": "ilesha"
+    },
+    "code": {
+      "id": "NG024002_ilesha",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024002",
+      "level": 2,
+      "name": {
+        "local": "Baruten",
+        "en": "Baruten",
+        "slug": "baruten-ng024002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024002",
+        "level": 2,
+        "name": {
+          "local": "Baruten",
+          "en": "Baruten",
+          "slug": "baruten-ng024002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "3.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024002_kenutaberu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kenu/taberu",
+      "en": "Kenu/taberu",
+      "slug": "kenutaberu"
+    },
+    "code": {
+      "id": "NG024002_kenutaberu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024002",
+      "level": 2,
+      "name": {
+        "local": "Baruten",
+        "en": "Baruten",
+        "slug": "baruten-ng024002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024002",
+        "level": 2,
+        "name": {
+          "local": "Baruten",
+          "en": "Baruten",
+          "slug": "baruten-ng024002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "3.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024002_kiyorubwen",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kiyoru/bwen",
+      "en": "Kiyoru/bwen",
+      "slug": "kiyorubwen"
+    },
+    "code": {
+      "id": "NG024002_kiyorubwen",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024002",
+      "level": 2,
+      "name": {
+        "local": "Baruten",
+        "en": "Baruten",
+        "slug": "baruten-ng024002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024002",
+        "level": 2,
+        "name": {
+          "local": "Baruten",
+          "en": "Baruten",
+          "slug": "baruten-ng024002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "3.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024002_kpaurayakiru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kpaura/yakiru",
+      "en": "Kpaura/yakiru",
+      "slug": "kpaurayakiru"
+    },
+    "code": {
+      "id": "NG024002_kpaurayakiru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024002",
+      "level": 2,
+      "name": {
+        "local": "Baruten",
+        "en": "Baruten",
+        "slug": "baruten-ng024002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024002",
+        "level": 2,
+        "name": {
+          "local": "Baruten",
+          "en": "Baruten",
+          "slug": "baruten-ng024002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "3.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024002_okuta",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Okuta",
+      "en": "Okuta",
+      "slug": "okuta"
+    },
+    "code": {
+      "id": "NG024002_okuta",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024002",
+      "level": 2,
+      "name": {
+        "local": "Baruten",
+        "en": "Baruten",
+        "slug": "baruten-ng024002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024002",
+        "level": 2,
+        "name": {
+          "local": "Baruten",
+          "en": "Baruten",
+          "slug": "baruten-ng024002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "3.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024002_shinawutunbuyan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shinawu/tunbuyan",
+      "en": "Shinawu/tunbuyan",
+      "slug": "shinawutunbuyan"
+    },
+    "code": {
+      "id": "NG024002_shinawutunbuyan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024002",
+      "level": 2,
+      "name": {
+        "local": "Baruten",
+        "en": "Baruten",
+        "slug": "baruten-ng024002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024002",
+        "level": 2,
+        "name": {
+          "local": "Baruten",
+          "en": "Baruten",
+          "slug": "baruten-ng024002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "3.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG024002_yashikira",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yashikira",
+      "en": "Yashikira",
+      "slug": "yashikira"
+    },
+    "code": {
+      "id": "NG024002_yashikira",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG024002",
+      "level": 2,
+      "name": {
+        "local": "Baruten",
+        "en": "Baruten",
+        "slug": "baruten-ng024002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG024",
+        "level": 1,
+        "name": {
+          "local": "Kwara",
+          "en": "Kwara",
+          "slug": "kwara-ng024"
+        }
+      },
+      {
+        "id": "NG024002",
+        "level": 2,
+        "name": {
+          "local": "Baruten",
+          "en": "Baruten",
+          "slug": "baruten-ng024002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.38",
+      "lon": "3.481"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

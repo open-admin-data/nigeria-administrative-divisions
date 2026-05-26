@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG026004_agadabagaji",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Agada/bagaji",
+      "en": "Agada/bagaji",
+      "slug": "agadabagaji"
+    },
+    "code": {
+      "id": "NG026004_agadabagaji",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026004",
+      "level": 2,
+      "name": {
+        "local": "Karu",
+        "en": "Karu",
+        "slug": "karu-ng026004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026004",
+        "level": 2,
+        "name": {
+          "local": "Karu",
+          "en": "Karu",
+          "slug": "karu-ng026004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026004_aso-kodape",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aso / Kodape",
+      "en": "Aso / Kodape",
+      "slug": "aso-kodape"
+    },
+    "code": {
+      "id": "NG026004_aso-kodape",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026004",
+      "level": 2,
+      "name": {
+        "local": "Karu",
+        "en": "Karu",
+        "slug": "karu-ng026004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026004",
+        "level": 2,
+        "name": {
+          "local": "Karu",
+          "en": "Karu",
+          "slug": "karu-ng026004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026004_gitata",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gitata",
+      "en": "Gitata",
+      "slug": "gitata"
+    },
+    "code": {
+      "id": "NG026004_gitata",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026004",
+      "level": 2,
+      "name": {
+        "local": "Karu",
+        "en": "Karu",
+        "slug": "karu-ng026004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026004",
+        "level": 2,
+        "name": {
+          "local": "Karu",
+          "en": "Karu",
+          "slug": "karu-ng026004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026004_gurkukabusu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gurku/kabusu",
+      "en": "Gurku/kabusu",
+      "slug": "gurkukabusu"
+    },
+    "code": {
+      "id": "NG026004_gurkukabusu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026004",
+      "level": 2,
+      "name": {
+        "local": "Karu",
+        "en": "Karu",
+        "slug": "karu-ng026004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026004",
+        "level": 2,
+        "name": {
+          "local": "Karu",
+          "en": "Karu",
+          "slug": "karu-ng026004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026004_kafin-shanubetti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafin Shanu/betti",
+      "en": "Kafin Shanu/betti",
+      "slug": "kafin-shanubetti"
+    },
+    "code": {
+      "id": "NG026004_kafin-shanubetti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026004",
+      "level": 2,
+      "name": {
+        "local": "Karu",
+        "en": "Karu",
+        "slug": "karu-ng026004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026004",
+        "level": 2,
+        "name": {
+          "local": "Karu",
+          "en": "Karu",
+          "slug": "karu-ng026004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026004_karshi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karshi I",
+      "en": "Karshi I",
+      "slug": "karshi-i"
+    },
+    "code": {
+      "id": "NG026004_karshi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026004",
+      "level": 2,
+      "name": {
+        "local": "Karu",
+        "en": "Karu",
+        "slug": "karu-ng026004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026004",
+        "level": 2,
+        "name": {
+          "local": "Karu",
+          "en": "Karu",
+          "slug": "karu-ng026004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026004_karshi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karshi Ii",
+      "en": "Karshi Ii",
+      "slug": "karshi-ii"
+    },
+    "code": {
+      "id": "NG026004_karshi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026004",
+      "level": 2,
+      "name": {
+        "local": "Karu",
+        "en": "Karu",
+        "slug": "karu-ng026004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026004",
+        "level": 2,
+        "name": {
+          "local": "Karu",
+          "en": "Karu",
+          "slug": "karu-ng026004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026004_karu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Karu",
+      "en": "Karu",
+      "slug": "karu"
+    },
+    "code": {
+      "id": "NG026004_karu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026004",
+      "level": 2,
+      "name": {
+        "local": "Karu",
+        "en": "Karu",
+        "slug": "karu-ng026004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026004",
+        "level": 2,
+        "name": {
+          "local": "Karu",
+          "en": "Karu",
+          "slug": "karu-ng026004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026004_panda-kare",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Panda / Kare",
+      "en": "Panda / Kare",
+      "slug": "panda-kare"
+    },
+    "code": {
+      "id": "NG026004_panda-kare",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026004",
+      "level": 2,
+      "name": {
+        "local": "Karu",
+        "en": "Karu",
+        "slug": "karu-ng026004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026004",
+        "level": 2,
+        "name": {
+          "local": "Karu",
+          "en": "Karu",
+          "slug": "karu-ng026004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026004_tattarakondoro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tattara/kondoro",
+      "en": "Tattara/kondoro",
+      "slug": "tattarakondoro"
+    },
+    "code": {
+      "id": "NG026004_tattarakondoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026004",
+      "level": 2,
+      "name": {
+        "local": "Karu",
+        "en": "Karu",
+        "slug": "karu-ng026004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026004",
+        "level": 2,
+        "name": {
+          "local": "Karu",
+          "en": "Karu",
+          "slug": "karu-ng026004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG026004_uke",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uke",
+      "en": "Uke",
+      "slug": "uke"
+    },
+    "code": {
+      "id": "NG026004_uke",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG026004",
+      "level": 2,
+      "name": {
+        "local": "Karu",
+        "en": "Karu",
+        "slug": "karu-ng026004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG026",
+        "level": 1,
+        "name": {
+          "local": "Nasarawa",
+          "en": "Nasarawa",
+          "slug": "nasarawa-ng026"
+        }
+      },
+      {
+        "id": "NG026004",
+        "level": 2,
+        "name": {
+          "local": "Karu",
+          "en": "Karu",
+          "slug": "karu-ng026004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.037",
+      "lon": "7.761"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

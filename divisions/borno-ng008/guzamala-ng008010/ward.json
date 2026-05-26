@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG008010_aduwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Aduwa",
+      "en": "Aduwa",
+      "slug": "aduwa"
+    },
+    "code": {
+      "id": "NG008010_aduwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008010",
+      "level": 2,
+      "name": {
+        "local": "Guzamala",
+        "en": "Guzamala",
+        "slug": "guzamala-ng008010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008010",
+        "level": 2,
+        "name": {
+          "local": "Guzamala",
+          "en": "Guzamala",
+          "slug": "guzamala-ng008010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.802",
+      "lon": "13.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008010_gudumbali-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gudumbali East",
+      "en": "Gudumbali East",
+      "slug": "gudumbali-east"
+    },
+    "code": {
+      "id": "NG008010_gudumbali-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008010",
+      "level": 2,
+      "name": {
+        "local": "Guzamala",
+        "en": "Guzamala",
+        "slug": "guzamala-ng008010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008010",
+        "level": 2,
+        "name": {
+          "local": "Guzamala",
+          "en": "Guzamala",
+          "slug": "guzamala-ng008010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.982",
+      "lon": "13.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008010_gudumbali-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gudumbali West",
+      "en": "Gudumbali West",
+      "slug": "gudumbali-west"
+    },
+    "code": {
+      "id": "NG008010_gudumbali-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008010",
+      "level": 2,
+      "name": {
+        "local": "Guzamala",
+        "en": "Guzamala",
+        "slug": "guzamala-ng008010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008010",
+        "level": 2,
+        "name": {
+          "local": "Guzamala",
+          "en": "Guzamala",
+          "slug": "guzamala-ng008010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.016",
+      "lon": "12.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008010_guworam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guworam",
+      "en": "Guworam",
+      "slug": "guworam"
+    },
+    "code": {
+      "id": "NG008010_guworam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008010",
+      "level": 2,
+      "name": {
+        "local": "Guzamala",
+        "en": "Guzamala",
+        "slug": "guzamala-ng008010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008010",
+        "level": 2,
+        "name": {
+          "local": "Guzamala",
+          "en": "Guzamala",
+          "slug": "guzamala-ng008010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.836",
+      "lon": "13.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008010_guzamala-east",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guzamala East",
+      "en": "Guzamala East",
+      "slug": "guzamala-east"
+    },
+    "code": {
+      "id": "NG008010_guzamala-east",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008010",
+      "level": 2,
+      "name": {
+        "local": "Guzamala",
+        "en": "Guzamala",
+        "slug": "guzamala-ng008010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008010",
+        "level": 2,
+        "name": {
+          "local": "Guzamala",
+          "en": "Guzamala",
+          "slug": "guzamala-ng008010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.696",
+      "lon": "13.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008010_guzamala-west",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Guzamala West",
+      "en": "Guzamala West",
+      "slug": "guzamala-west"
+    },
+    "code": {
+      "id": "NG008010_guzamala-west",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008010",
+      "level": 2,
+      "name": {
+        "local": "Guzamala",
+        "en": "Guzamala",
+        "slug": "guzamala-ng008010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008010",
+        "level": 2,
+        "name": {
+          "local": "Guzamala",
+          "en": "Guzamala",
+          "slug": "guzamala-ng008010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.675",
+      "lon": "13.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008010_kingarwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kingarwa",
+      "en": "Kingarwa",
+      "slug": "kingarwa"
+    },
+    "code": {
+      "id": "NG008010_kingarwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008010",
+      "level": 2,
+      "name": {
+        "local": "Guzamala",
+        "en": "Guzamala",
+        "slug": "guzamala-ng008010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008010",
+        "level": 2,
+        "name": {
+          "local": "Guzamala",
+          "en": "Guzamala",
+          "slug": "guzamala-ng008010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.592",
+      "lon": "13.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008010_mairari",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Mairari",
+      "en": "Mairari",
+      "slug": "mairari"
+    },
+    "code": {
+      "id": "NG008010_mairari",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008010",
+      "level": 2,
+      "name": {
+        "local": "Guzamala",
+        "en": "Guzamala",
+        "slug": "guzamala-ng008010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008010",
+        "level": 2,
+        "name": {
+          "local": "Guzamala",
+          "en": "Guzamala",
+          "slug": "guzamala-ng008010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.69",
+      "lon": "13.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008010_moduri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Moduri",
+      "en": "Moduri",
+      "slug": "moduri"
+    },
+    "code": {
+      "id": "NG008010_moduri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008010",
+      "level": 2,
+      "name": {
+        "local": "Guzamala",
+        "en": "Guzamala",
+        "slug": "guzamala-ng008010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008010",
+        "level": 2,
+        "name": {
+          "local": "Guzamala",
+          "en": "Guzamala",
+          "slug": "guzamala-ng008010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.875",
+      "lon": "13.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG008010_wamiri",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wamiri",
+      "en": "Wamiri",
+      "slug": "wamiri"
+    },
+    "code": {
+      "id": "NG008010_wamiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG008010",
+      "level": 2,
+      "name": {
+        "local": "Guzamala",
+        "en": "Guzamala",
+        "slug": "guzamala-ng008010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG008",
+        "level": 1,
+        "name": {
+          "local": "Borno",
+          "en": "Borno",
+          "slug": "borno-ng008"
+        }
+      },
+      {
+        "id": "NG008010",
+        "level": 2,
+        "name": {
+          "local": "Guzamala",
+          "en": "Guzamala",
+          "slug": "guzamala-ng008010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.778",
+      "lon": "13.462"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

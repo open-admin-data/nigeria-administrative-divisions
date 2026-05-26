@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG005009_chinkani",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chinkani",
+      "en": "Chinkani",
+      "slug": "chinkani"
+    },
+    "code": {
+      "id": "NG005009_chinkani",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005009",
+      "level": 2,
+      "name": {
+        "local": "Giade",
+        "en": "Giade",
+        "slug": "giade-ng005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005009",
+        "level": 2,
+        "name": {
+          "local": "Giade",
+          "en": "Giade",
+          "slug": "giade-ng005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.408",
+      "lon": "10.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005009_doguwa-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doguwa Central",
+      "en": "Doguwa Central",
+      "slug": "doguwa-central"
+    },
+    "code": {
+      "id": "NG005009_doguwa-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005009",
+      "level": 2,
+      "name": {
+        "local": "Giade",
+        "en": "Giade",
+        "slug": "giade-ng005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005009",
+        "level": 2,
+        "name": {
+          "local": "Giade",
+          "en": "Giade",
+          "slug": "giade-ng005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.408",
+      "lon": "10.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005009_doguwa-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Doguwa South",
+      "en": "Doguwa South",
+      "slug": "doguwa-south"
+    },
+    "code": {
+      "id": "NG005009_doguwa-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005009",
+      "level": 2,
+      "name": {
+        "local": "Giade",
+        "en": "Giade",
+        "slug": "giade-ng005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005009",
+        "level": 2,
+        "name": {
+          "local": "Giade",
+          "en": "Giade",
+          "slug": "giade-ng005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.408",
+      "lon": "10.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005009_giade",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Giade",
+      "en": "Giade",
+      "slug": "giade"
+    },
+    "code": {
+      "id": "NG005009_giade",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005009",
+      "level": 2,
+      "name": {
+        "local": "Giade",
+        "en": "Giade",
+        "slug": "giade-ng005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005009",
+        "level": 2,
+        "name": {
+          "local": "Giade",
+          "en": "Giade",
+          "slug": "giade-ng005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.408",
+      "lon": "10.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005009_isawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isawa",
+      "en": "Isawa",
+      "slug": "isawa"
+    },
+    "code": {
+      "id": "NG005009_isawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005009",
+      "level": 2,
+      "name": {
+        "local": "Giade",
+        "en": "Giade",
+        "slug": "giade-ng005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005009",
+        "level": 2,
+        "name": {
+          "local": "Giade",
+          "en": "Giade",
+          "slug": "giade-ng005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.408",
+      "lon": "10.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005009_sabon-sara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sabon Sara",
+      "en": "Sabon Sara",
+      "slug": "sabon-sara"
+    },
+    "code": {
+      "id": "NG005009_sabon-sara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005009",
+      "level": 2,
+      "name": {
+        "local": "Giade",
+        "en": "Giade",
+        "slug": "giade-ng005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005009",
+        "level": 2,
+        "name": {
+          "local": "Giade",
+          "en": "Giade",
+          "slug": "giade-ng005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.408",
+      "lon": "10.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005009_u-zum-a",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "U. Zum \"a\"",
+      "en": "U. Zum \"a\"",
+      "slug": "u-zum-a"
+    },
+    "code": {
+      "id": "NG005009_u-zum-a",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005009",
+      "level": 2,
+      "name": {
+        "local": "Giade",
+        "en": "Giade",
+        "slug": "giade-ng005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005009",
+        "level": 2,
+        "name": {
+          "local": "Giade",
+          "en": "Giade",
+          "slug": "giade-ng005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.408",
+      "lon": "10.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005009_uzum-b",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uzum \"b\"",
+      "en": "Uzum \"b\"",
+      "slug": "uzum-b"
+    },
+    "code": {
+      "id": "NG005009_uzum-b",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005009",
+      "level": 2,
+      "name": {
+        "local": "Giade",
+        "en": "Giade",
+        "slug": "giade-ng005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005009",
+        "level": 2,
+        "name": {
+          "local": "Giade",
+          "en": "Giade",
+          "slug": "giade-ng005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.408",
+      "lon": "10.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005009_zabi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zabi",
+      "en": "Zabi",
+      "slug": "zabi"
+    },
+    "code": {
+      "id": "NG005009_zabi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005009",
+      "level": 2,
+      "name": {
+        "local": "Giade",
+        "en": "Giade",
+        "slug": "giade-ng005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005009",
+        "level": 2,
+        "name": {
+          "local": "Giade",
+          "en": "Giade",
+          "slug": "giade-ng005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.408",
+      "lon": "10.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG005009_zirrami",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zirrami",
+      "en": "Zirrami",
+      "slug": "zirrami"
+    },
+    "code": {
+      "id": "NG005009_zirrami",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG005009",
+      "level": 2,
+      "name": {
+        "local": "Giade",
+        "en": "Giade",
+        "slug": "giade-ng005009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG005",
+        "level": 1,
+        "name": {
+          "local": "Bauchi",
+          "en": "Bauchi",
+          "slug": "bauchi-ng005"
+        }
+      },
+      {
+        "id": "NG005009",
+        "level": 2,
+        "name": {
+          "local": "Giade",
+          "en": "Giade",
+          "slug": "giade-ng005009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.408",
+      "lon": "10.242"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

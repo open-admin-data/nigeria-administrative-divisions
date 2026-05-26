@@ -1,0 +1,47 @@
+{
+  "id": "NG006006",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Sagbama",
+    "en": "Sagbama",
+    "slug": "sagbama-ng006006"
+  },
+  "code": {
+    "id": "NG006006",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG006",
+    "level": 1,
+    "name": {
+      "local": "Bayelsa",
+      "en": "Bayelsa",
+      "slug": "bayelsa-ng006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG006",
+      "level": 1,
+      "name": {
+        "local": "Bayelsa",
+        "en": "Bayelsa",
+        "slug": "bayelsa-ng006"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.096",
+    "lon": "6.124"
+  },
+  "metadata": {},
+  "source": {}
+}

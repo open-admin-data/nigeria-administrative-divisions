@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG009005_abana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abana",
+      "en": "Abana",
+      "slug": "abana"
+    },
+    "code": {
+      "id": "NG009005_abana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009005",
+      "level": 2,
+      "name": {
+        "local": "Bakassi",
+        "en": "Bakassi",
+        "slug": "bakassi-ng009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009005",
+        "level": 2,
+        "name": {
+          "local": "Bakassi",
+          "en": "Bakassi",
+          "slug": "bakassi-ng009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.807",
+      "lon": "8.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009005_akpankanya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akpankanya",
+      "en": "Akpankanya",
+      "slug": "akpankanya"
+    },
+    "code": {
+      "id": "NG009005_akpankanya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009005",
+      "level": 2,
+      "name": {
+        "local": "Bakassi",
+        "en": "Bakassi",
+        "slug": "bakassi-ng009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009005",
+        "level": 2,
+        "name": {
+          "local": "Bakassi",
+          "en": "Bakassi",
+          "slug": "bakassi-ng009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.807",
+      "lon": "8.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009005_akwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akwa",
+      "en": "Akwa",
+      "slug": "akwa"
+    },
+    "code": {
+      "id": "NG009005_akwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009005",
+      "level": 2,
+      "name": {
+        "local": "Bakassi",
+        "en": "Bakassi",
+        "slug": "bakassi-ng009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009005",
+        "level": 2,
+        "name": {
+          "local": "Bakassi",
+          "en": "Bakassi",
+          "slug": "bakassi-ng009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.807",
+      "lon": "8.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009005_ambai-ekpa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ambai Ekpa",
+      "en": "Ambai Ekpa",
+      "slug": "ambai-ekpa"
+    },
+    "code": {
+      "id": "NG009005_ambai-ekpa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009005",
+      "level": 2,
+      "name": {
+        "local": "Bakassi",
+        "en": "Bakassi",
+        "slug": "bakassi-ng009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009005",
+        "level": 2,
+        "name": {
+          "local": "Bakassi",
+          "en": "Bakassi",
+          "slug": "bakassi-ng009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.807",
+      "lon": "8.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009005_amoto",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Amoto",
+      "en": "Amoto",
+      "slug": "amoto"
+    },
+    "code": {
+      "id": "NG009005_amoto",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009005",
+      "level": 2,
+      "name": {
+        "local": "Bakassi",
+        "en": "Bakassi",
+        "slug": "bakassi-ng009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009005",
+        "level": 2,
+        "name": {
+          "local": "Bakassi",
+          "en": "Bakassi",
+          "slug": "bakassi-ng009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.807",
+      "lon": "8.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009005_archibong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Archibong",
+      "en": "Archibong",
+      "slug": "archibong"
+    },
+    "code": {
+      "id": "NG009005_archibong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009005",
+      "level": 2,
+      "name": {
+        "local": "Bakassi",
+        "en": "Bakassi",
+        "slug": "bakassi-ng009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009005",
+        "level": 2,
+        "name": {
+          "local": "Bakassi",
+          "en": "Bakassi",
+          "slug": "bakassi-ng009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.807",
+      "lon": "8.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009005_atai-ema",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Atai Ema",
+      "en": "Atai Ema",
+      "slug": "atai-ema"
+    },
+    "code": {
+      "id": "NG009005_atai-ema",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009005",
+      "level": 2,
+      "name": {
+        "local": "Bakassi",
+        "en": "Bakassi",
+        "slug": "bakassi-ng009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009005",
+        "level": 2,
+        "name": {
+          "local": "Bakassi",
+          "en": "Bakassi",
+          "slug": "bakassi-ng009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.807",
+      "lon": "8.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009005_efut-inwang",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Efut Inwang",
+      "en": "Efut Inwang",
+      "slug": "efut-inwang"
+    },
+    "code": {
+      "id": "NG009005_efut-inwang",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009005",
+      "level": 2,
+      "name": {
+        "local": "Bakassi",
+        "en": "Bakassi",
+        "slug": "bakassi-ng009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009005",
+        "level": 2,
+        "name": {
+          "local": "Bakassi",
+          "en": "Bakassi",
+          "slug": "bakassi-ng009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.807",
+      "lon": "8.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009005_ekpot-abia",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ekpot Abia",
+      "en": "Ekpot Abia",
+      "slug": "ekpot-abia"
+    },
+    "code": {
+      "id": "NG009005_ekpot-abia",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009005",
+      "level": 2,
+      "name": {
+        "local": "Bakassi",
+        "en": "Bakassi",
+        "slug": "bakassi-ng009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009005",
+        "level": 2,
+        "name": {
+          "local": "Bakassi",
+          "en": "Bakassi",
+          "slug": "bakassi-ng009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.807",
+      "lon": "8.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG009005_odiong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Odiong",
+      "en": "Odiong",
+      "slug": "odiong"
+    },
+    "code": {
+      "id": "NG009005_odiong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG009005",
+      "level": 2,
+      "name": {
+        "local": "Bakassi",
+        "en": "Bakassi",
+        "slug": "bakassi-ng009005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG009",
+        "level": 1,
+        "name": {
+          "local": "Cross River",
+          "en": "Cross River",
+          "slug": "cross-river-ng009"
+        }
+      },
+      {
+        "id": "NG009005",
+        "level": 2,
+        "name": {
+          "local": "Bakassi",
+          "en": "Bakassi",
+          "slug": "bakassi-ng009005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.807",
+      "lon": "8.562"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

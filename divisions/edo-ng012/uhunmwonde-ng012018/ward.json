@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG012018_egbede",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Egbede",
+      "en": "Egbede",
+      "slug": "egbede"
+    },
+    "code": {
+      "id": "NG012018_egbede",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012018",
+      "level": 2,
+      "name": {
+        "local": "Uhunmwonde",
+        "en": "Uhunmwonde",
+        "slug": "uhunmwonde-ng012018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012018",
+        "level": 2,
+        "name": {
+          "local": "Uhunmwonde",
+          "en": "Uhunmwonde",
+          "slug": "uhunmwonde-ng012018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.526",
+      "lon": "5.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012018_ehor",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ehor",
+      "en": "Ehor",
+      "slug": "ehor"
+    },
+    "code": {
+      "id": "NG012018_ehor",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012018",
+      "level": 2,
+      "name": {
+        "local": "Uhunmwonde",
+        "en": "Uhunmwonde",
+        "slug": "uhunmwonde-ng012018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012018",
+        "level": 2,
+        "name": {
+          "local": "Uhunmwonde",
+          "en": "Uhunmwonde",
+          "slug": "uhunmwonde-ng012018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.526",
+      "lon": "5.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012018_igieduma",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igieduma",
+      "en": "Igieduma",
+      "slug": "igieduma"
+    },
+    "code": {
+      "id": "NG012018_igieduma",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012018",
+      "level": 2,
+      "name": {
+        "local": "Uhunmwonde",
+        "en": "Uhunmwonde",
+        "slug": "uhunmwonde-ng012018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012018",
+        "level": 2,
+        "name": {
+          "local": "Uhunmwonde",
+          "en": "Uhunmwonde",
+          "slug": "uhunmwonde-ng012018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.526",
+      "lon": "5.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012018_irhue",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Irhue",
+      "en": "Irhue",
+      "slug": "irhue"
+    },
+    "code": {
+      "id": "NG012018_irhue",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012018",
+      "level": 2,
+      "name": {
+        "local": "Uhunmwonde",
+        "en": "Uhunmwonde",
+        "slug": "uhunmwonde-ng012018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012018",
+        "level": 2,
+        "name": {
+          "local": "Uhunmwonde",
+          "en": "Uhunmwonde",
+          "slug": "uhunmwonde-ng012018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.526",
+      "lon": "5.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012018_isi-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isi North",
+      "en": "Isi North",
+      "slug": "isi-north"
+    },
+    "code": {
+      "id": "NG012018_isi-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012018",
+      "level": 2,
+      "name": {
+        "local": "Uhunmwonde",
+        "en": "Uhunmwonde",
+        "slug": "uhunmwonde-ng012018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012018",
+        "level": 2,
+        "name": {
+          "local": "Uhunmwonde",
+          "en": "Uhunmwonde",
+          "slug": "uhunmwonde-ng012018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.526",
+      "lon": "5.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012018_isi-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Isi South",
+      "en": "Isi South",
+      "slug": "isi-south"
+    },
+    "code": {
+      "id": "NG012018_isi-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012018",
+      "level": 2,
+      "name": {
+        "local": "Uhunmwonde",
+        "en": "Uhunmwonde",
+        "slug": "uhunmwonde-ng012018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012018",
+        "level": 2,
+        "name": {
+          "local": "Uhunmwonde",
+          "en": "Uhunmwonde",
+          "slug": "uhunmwonde-ng012018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.526",
+      "lon": "5.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012018_ohuan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ohuan",
+      "en": "Ohuan",
+      "slug": "ohuan"
+    },
+    "code": {
+      "id": "NG012018_ohuan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012018",
+      "level": 2,
+      "name": {
+        "local": "Uhunmwonde",
+        "en": "Uhunmwonde",
+        "slug": "uhunmwonde-ng012018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012018",
+        "level": 2,
+        "name": {
+          "local": "Uhunmwonde",
+          "en": "Uhunmwonde",
+          "slug": "uhunmwonde-ng012018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.526",
+      "lon": "5.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012018_uhi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Uhi",
+      "en": "Uhi",
+      "slug": "uhi"
+    },
+    "code": {
+      "id": "NG012018_uhi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012018",
+      "level": 2,
+      "name": {
+        "local": "Uhunmwonde",
+        "en": "Uhunmwonde",
+        "slug": "uhunmwonde-ng012018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012018",
+        "level": 2,
+        "name": {
+          "local": "Uhunmwonde",
+          "en": "Uhunmwonde",
+          "slug": "uhunmwonde-ng012018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.526",
+      "lon": "5.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012018_umagbae-north",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umagbae North",
+      "en": "Umagbae North",
+      "slug": "umagbae-north"
+    },
+    "code": {
+      "id": "NG012018_umagbae-north",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012018",
+      "level": 2,
+      "name": {
+        "local": "Uhunmwonde",
+        "en": "Uhunmwonde",
+        "slug": "uhunmwonde-ng012018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012018",
+        "level": 2,
+        "name": {
+          "local": "Uhunmwonde",
+          "en": "Uhunmwonde",
+          "slug": "uhunmwonde-ng012018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.526",
+      "lon": "5.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG012018_umagbae-south",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umagbae South",
+      "en": "Umagbae South",
+      "slug": "umagbae-south"
+    },
+    "code": {
+      "id": "NG012018_umagbae-south",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG012018",
+      "level": 2,
+      "name": {
+        "local": "Uhunmwonde",
+        "en": "Uhunmwonde",
+        "slug": "uhunmwonde-ng012018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG012",
+        "level": 1,
+        "name": {
+          "local": "Edo",
+          "en": "Edo",
+          "slug": "edo-ng012"
+        }
+      },
+      {
+        "id": "NG012018",
+        "level": 2,
+        "name": {
+          "local": "Uhunmwonde",
+          "en": "Uhunmwonde",
+          "slug": "uhunmwonde-ng012018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.526",
+      "lon": "5.9"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

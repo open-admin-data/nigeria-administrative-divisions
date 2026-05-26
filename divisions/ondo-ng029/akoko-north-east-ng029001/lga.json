@@ -1,0 +1,47 @@
+{
+  "id": "NG029001",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Akoko North East",
+    "en": "Akoko North East",
+    "slug": "akoko-north-east-ng029001"
+  },
+  "code": {
+    "id": "NG029001",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG029",
+    "level": 1,
+    "name": {
+      "local": "Ondo",
+      "en": "Ondo",
+      "slug": "ondo-ng029"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG029",
+      "level": 1,
+      "name": {
+        "local": "Ondo",
+        "en": "Ondo",
+        "slug": "ondo-ng029"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.563",
+    "lon": "5.932"
+  },
+  "metadata": {},
+  "source": {}
+}

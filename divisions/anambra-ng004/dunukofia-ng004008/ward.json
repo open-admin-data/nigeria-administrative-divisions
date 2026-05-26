@@ -1,0 +1,758 @@
+[
+  {
+    "id": "NG004008_akwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akwa",
+      "en": "Akwa",
+      "slug": "akwa"
+    },
+    "code": {
+      "id": "NG004008_akwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_ifitedunu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ifitedunu I",
+      "en": "Ifitedunu I",
+      "slug": "ifitedunu-i"
+    },
+    "code": {
+      "id": "NG004008_ifitedunu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_ifitedunu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ifitedunu Ii",
+      "en": "Ifitedunu Ii",
+      "slug": "ifitedunu-ii"
+    },
+    "code": {
+      "id": "NG004008_ifitedunu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_nawgu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nawgu I",
+      "en": "Nawgu I",
+      "slug": "nawgu-i"
+    },
+    "code": {
+      "id": "NG004008_nawgu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_nawgu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nawgu Ii",
+      "en": "Nawgu Ii",
+      "slug": "nawgu-ii"
+    },
+    "code": {
+      "id": "NG004008_nawgu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_ukpo-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukpo I",
+      "en": "Ukpo I",
+      "slug": "ukpo-i"
+    },
+    "code": {
+      "id": "NG004008_ukpo-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_ukpo-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukpo Ii",
+      "en": "Ukpo Ii",
+      "slug": "ukpo-ii"
+    },
+    "code": {
+      "id": "NG004008_ukpo-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_ukpo-iii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukpo Iii",
+      "en": "Ukpo Iii",
+      "slug": "ukpo-iii"
+    },
+    "code": {
+      "id": "NG004008_ukpo-iii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_ukwulu-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukwulu I",
+      "en": "Ukwulu I",
+      "slug": "ukwulu-i"
+    },
+    "code": {
+      "id": "NG004008_ukwulu-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_ukwulu-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ukwulu Ii",
+      "en": "Ukwulu Ii",
+      "slug": "ukwulu-ii"
+    },
+    "code": {
+      "id": "NG004008_ukwulu-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_umudioka-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umudioka I",
+      "en": "Umudioka I",
+      "slug": "umudioka-i"
+    },
+    "code": {
+      "id": "NG004008_umudioka-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_umudioka-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umudioka Ii",
+      "en": "Umudioka Ii",
+      "slug": "umudioka-ii"
+    },
+    "code": {
+      "id": "NG004008_umudioka-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_umunnachi-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umunnachi I",
+      "en": "Umunnachi I",
+      "slug": "umunnachi-i"
+    },
+    "code": {
+      "id": "NG004008_umunnachi-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG004008_umunnachi-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Umunnachi Ii",
+      "en": "Umunnachi Ii",
+      "slug": "umunnachi-ii"
+    },
+    "code": {
+      "id": "NG004008_umunnachi-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG004008",
+      "level": 2,
+      "name": {
+        "local": "Dunukofia",
+        "en": "Dunukofia",
+        "slug": "dunukofia-ng004008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG004",
+        "level": 1,
+        "name": {
+          "local": "Anambra",
+          "en": "Anambra",
+          "slug": "anambra-ng004"
+        }
+      },
+      {
+        "id": "NG004008",
+        "level": 2,
+        "name": {
+          "local": "Dunukofia",
+          "en": "Dunukofia",
+          "slug": "dunukofia-ng004008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.279",
+      "lon": "6.98"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

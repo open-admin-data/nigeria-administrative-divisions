@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NG035009_abong",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Abong",
+      "en": "Abong",
+      "slug": "abong"
+    },
+    "code": {
+      "id": "NG035009_abong",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035009",
+      "level": 2,
+      "name": {
+        "local": "Kurmi",
+        "en": "Kurmi",
+        "slug": "kurmi-ng035009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035009",
+        "level": 2,
+        "name": {
+          "local": "Kurmi",
+          "en": "Kurmi",
+          "slug": "kurmi-ng035009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.266",
+      "lon": "10.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035009_akwentoboko",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Akwento/boko",
+      "en": "Akwento/boko",
+      "slug": "akwentoboko"
+    },
+    "code": {
+      "id": "NG035009_akwentoboko",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035009",
+      "level": 2,
+      "name": {
+        "local": "Kurmi",
+        "en": "Kurmi",
+        "slug": "kurmi-ng035009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035009",
+        "level": 2,
+        "name": {
+          "local": "Kurmi",
+          "en": "Kurmi",
+          "slug": "kurmi-ng035009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.266",
+      "lon": "10.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035009_ashukueneme",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ashuku/eneme",
+      "en": "Ashuku/eneme",
+      "slug": "ashukueneme"
+    },
+    "code": {
+      "id": "NG035009_ashukueneme",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035009",
+      "level": 2,
+      "name": {
+        "local": "Kurmi",
+        "en": "Kurmi",
+        "slug": "kurmi-ng035009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035009",
+        "level": 2,
+        "name": {
+          "local": "Kurmi",
+          "en": "Kurmi",
+          "slug": "kurmi-ng035009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.266",
+      "lon": "10.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035009_baissa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Baissa",
+      "en": "Baissa",
+      "slug": "baissa"
+    },
+    "code": {
+      "id": "NG035009_baissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035009",
+      "level": 2,
+      "name": {
+        "local": "Kurmi",
+        "en": "Kurmi",
+        "slug": "kurmi-ng035009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035009",
+        "level": 2,
+        "name": {
+          "local": "Kurmi",
+          "en": "Kurmi",
+          "slug": "kurmi-ng035009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.266",
+      "lon": "10.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035009_bentegalea",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bente/galea",
+      "en": "Bente/galea",
+      "slug": "bentegalea"
+    },
+    "code": {
+      "id": "NG035009_bentegalea",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035009",
+      "level": 2,
+      "name": {
+        "local": "Kurmi",
+        "en": "Kurmi",
+        "slug": "kurmi-ng035009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035009",
+        "level": 2,
+        "name": {
+          "local": "Kurmi",
+          "en": "Kurmi",
+          "slug": "kurmi-ng035009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.266",
+      "lon": "10.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035009_bissaula",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Bissaula",
+      "en": "Bissaula",
+      "slug": "bissaula"
+    },
+    "code": {
+      "id": "NG035009_bissaula",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035009",
+      "level": 2,
+      "name": {
+        "local": "Kurmi",
+        "en": "Kurmi",
+        "slug": "kurmi-ng035009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035009",
+        "level": 2,
+        "name": {
+          "local": "Kurmi",
+          "en": "Kurmi",
+          "slug": "kurmi-ng035009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.266",
+      "lon": "10.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035009_didan",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Didan",
+      "en": "Didan",
+      "slug": "didan"
+    },
+    "code": {
+      "id": "NG035009_didan",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035009",
+      "level": 2,
+      "name": {
+        "local": "Kurmi",
+        "en": "Kurmi",
+        "slug": "kurmi-ng035009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035009",
+        "level": 2,
+        "name": {
+          "local": "Kurmi",
+          "en": "Kurmi",
+          "slug": "kurmi-ng035009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.266",
+      "lon": "10.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035009_ndaforogeanda",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ndaforo/geanda",
+      "en": "Ndaforo/geanda",
+      "slug": "ndaforogeanda"
+    },
+    "code": {
+      "id": "NG035009_ndaforogeanda",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035009",
+      "level": 2,
+      "name": {
+        "local": "Kurmi",
+        "en": "Kurmi",
+        "slug": "kurmi-ng035009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035009",
+        "level": 2,
+        "name": {
+          "local": "Kurmi",
+          "en": "Kurmi",
+          "slug": "kurmi-ng035009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.266",
+      "lon": "10.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035009_njuwande",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Njuwande",
+      "en": "Njuwande",
+      "slug": "njuwande"
+    },
+    "code": {
+      "id": "NG035009_njuwande",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035009",
+      "level": 2,
+      "name": {
+        "local": "Kurmi",
+        "en": "Kurmi",
+        "slug": "kurmi-ng035009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035009",
+        "level": 2,
+        "name": {
+          "local": "Kurmi",
+          "en": "Kurmi",
+          "slug": "kurmi-ng035009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.266",
+      "lon": "10.702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG035009_nyidotosso",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nyido/tosso",
+      "en": "Nyido/tosso",
+      "slug": "nyidotosso"
+    },
+    "code": {
+      "id": "NG035009_nyidotosso",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG035009",
+      "level": 2,
+      "name": {
+        "local": "Kurmi",
+        "en": "Kurmi",
+        "slug": "kurmi-ng035009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG035",
+        "level": 1,
+        "name": {
+          "local": "Taraba",
+          "en": "Taraba",
+          "slug": "taraba-ng035"
+        }
+      },
+      {
+        "id": "NG035009",
+        "level": 2,
+        "name": {
+          "local": "Kurmi",
+          "en": "Kurmi",
+          "slug": "kurmi-ng035009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.266",
+      "lon": "10.702"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

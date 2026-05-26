@@ -1,0 +1,704 @@
+[
+  {
+    "id": "NG020021_chedi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chedi",
+      "en": "Chedi",
+      "slug": "chedi"
+    },
+    "code": {
+      "id": "NG020021_chedi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021_danagundi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Dan'agundi",
+      "en": "Dan'agundi",
+      "slug": "danagundi"
+    },
+    "code": {
+      "id": "NG020021_danagundi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021_gandun-albasa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gandun Albasa",
+      "en": "Gandun Albasa",
+      "slug": "gandun-albasa"
+    },
+    "code": {
+      "id": "NG020021_gandun-albasa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021_jakara",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jakara",
+      "en": "Jakara",
+      "slug": "jakara"
+    },
+    "code": {
+      "id": "NG020021_jakara",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021_kankarofi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kankarofi",
+      "en": "Kankarofi",
+      "slug": "kankarofi"
+    },
+    "code": {
+      "id": "NG020021_kankarofi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021_shahuchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Shahuchi",
+      "en": "Shahuchi",
+      "slug": "shahuchi"
+    },
+    "code": {
+      "id": "NG020021_shahuchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021_sharada",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sharada",
+      "en": "Sharada",
+      "slug": "sharada"
+    },
+    "code": {
+      "id": "NG020021_sharada",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021_sheshe",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sheshe",
+      "en": "Sheshe",
+      "slug": "sheshe"
+    },
+    "code": {
+      "id": "NG020021_sheshe",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021_tudun-nufawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Nufawa",
+      "en": "Tudun Nufawa",
+      "slug": "tudun-nufawa"
+    },
+    "code": {
+      "id": "NG020021_tudun-nufawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021_tudun-wazirchi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tudun Wazirchi",
+      "en": "Tudun Wazirchi",
+      "slug": "tudun-wazirchi"
+    },
+    "code": {
+      "id": "NG020021_tudun-wazirchi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021_yakasai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Yakasai",
+      "en": "Yakasai",
+      "slug": "yakasai"
+    },
+    "code": {
+      "id": "NG020021_yakasai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021_zaitawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zaitawa",
+      "en": "Zaitawa",
+      "slug": "zaitawa"
+    },
+    "code": {
+      "id": "NG020021_zaitawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020021_zango",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Zango",
+      "en": "Zango",
+      "slug": "zango"
+    },
+    "code": {
+      "id": "NG020021_zango",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020021",
+      "level": 2,
+      "name": {
+        "local": "Kano Municipal",
+        "en": "Kano Municipal",
+        "slug": "kano-municipal-ng020021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020021",
+        "level": 2,
+        "name": {
+          "local": "Kano Municipal",
+          "en": "Kano Municipal",
+          "slug": "kano-municipal-ng020021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "8.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

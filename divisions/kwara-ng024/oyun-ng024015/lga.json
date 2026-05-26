@@ -1,0 +1,47 @@
+{
+  "id": "NG024015",
+  "level": 2,
+  "level_name": {
+    "local": "Local Government Area",
+    "en": "Local Government Area"
+  },
+  "name": {
+    "local": "Oyun",
+    "en": "Oyun",
+    "slug": "oyun-ng024015"
+  },
+  "code": {
+    "id": "NG024015",
+    "iso": null
+  },
+  "parent": {
+    "id": "NG024",
+    "level": 1,
+    "name": {
+      "local": "Kwara",
+      "en": "Kwara",
+      "slug": "kwara-ng024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NG024",
+      "level": 1,
+      "name": {
+        "local": "Kwara",
+        "en": "Kwara",
+        "slug": "kwara-ng024"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.2",
+    "lon": "4.632"
+  },
+  "metadata": {},
+  "source": {}
+}

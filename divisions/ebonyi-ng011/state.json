@@ -1,0 +1,30 @@
+{
+  "id": "NG011",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Ebonyi",
+    "en": "Ebonyi",
+    "slug": "ebonyi-ng011"
+  },
+  "code": {
+    "id": "NG011",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "lga": 13,
+    "ward": 171
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.24",
+    "lon": "8.067"
+  },
+  "metadata": {},
+  "source": {}
+}

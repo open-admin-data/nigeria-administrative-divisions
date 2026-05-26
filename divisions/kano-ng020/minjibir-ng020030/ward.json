@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG020030_azore",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Azore",
+      "en": "Azore",
+      "slug": "azore"
+    },
+    "code": {
+      "id": "NG020030_azore",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020030",
+      "level": 2,
+      "name": {
+        "local": "Minjibir",
+        "en": "Minjibir",
+        "slug": "minjibir-ng020030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020030",
+        "level": 2,
+        "name": {
+          "local": "Minjibir",
+          "en": "Minjibir",
+          "slug": "minjibir-ng020030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020030_gandurwawa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gandurwawa",
+      "en": "Gandurwawa",
+      "slug": "gandurwawa"
+    },
+    "code": {
+      "id": "NG020030_gandurwawa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020030",
+      "level": 2,
+      "name": {
+        "local": "Minjibir",
+        "en": "Minjibir",
+        "slug": "minjibir-ng020030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020030",
+        "level": 2,
+        "name": {
+          "local": "Minjibir",
+          "en": "Minjibir",
+          "slug": "minjibir-ng020030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020030_kantama",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kantama",
+      "en": "Kantama",
+      "slug": "kantama"
+    },
+    "code": {
+      "id": "NG020030_kantama",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020030",
+      "level": 2,
+      "name": {
+        "local": "Minjibir",
+        "en": "Minjibir",
+        "slug": "minjibir-ng020030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020030",
+        "level": 2,
+        "name": {
+          "local": "Minjibir",
+          "en": "Minjibir",
+          "slug": "minjibir-ng020030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020030_kunya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kunya",
+      "en": "Kunya",
+      "slug": "kunya"
+    },
+    "code": {
+      "id": "NG020030_kunya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020030",
+      "level": 2,
+      "name": {
+        "local": "Minjibir",
+        "en": "Minjibir",
+        "slug": "minjibir-ng020030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020030",
+        "level": 2,
+        "name": {
+          "local": "Minjibir",
+          "en": "Minjibir",
+          "slug": "minjibir-ng020030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020030_kuru",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kuru",
+      "en": "Kuru",
+      "slug": "kuru"
+    },
+    "code": {
+      "id": "NG020030_kuru",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020030",
+      "level": 2,
+      "name": {
+        "local": "Minjibir",
+        "en": "Minjibir",
+        "slug": "minjibir-ng020030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020030",
+        "level": 2,
+        "name": {
+          "local": "Minjibir",
+          "en": "Minjibir",
+          "slug": "minjibir-ng020030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020030_kwarkiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwarkiya",
+      "en": "Kwarkiya",
+      "slug": "kwarkiya"
+    },
+    "code": {
+      "id": "NG020030_kwarkiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020030",
+      "level": 2,
+      "name": {
+        "local": "Minjibir",
+        "en": "Minjibir",
+        "slug": "minjibir-ng020030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020030",
+        "level": 2,
+        "name": {
+          "local": "Minjibir",
+          "en": "Minjibir",
+          "slug": "minjibir-ng020030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020030_minjibir",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Minjibir",
+      "en": "Minjibir",
+      "slug": "minjibir"
+    },
+    "code": {
+      "id": "NG020030_minjibir",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020030",
+      "level": 2,
+      "name": {
+        "local": "Minjibir",
+        "en": "Minjibir",
+        "slug": "minjibir-ng020030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020030",
+        "level": 2,
+        "name": {
+          "local": "Minjibir",
+          "en": "Minjibir",
+          "slug": "minjibir-ng020030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020030_sarbi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Sarbi",
+      "en": "Sarbi",
+      "slug": "sarbi"
+    },
+    "code": {
+      "id": "NG020030_sarbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020030",
+      "level": 2,
+      "name": {
+        "local": "Minjibir",
+        "en": "Minjibir",
+        "slug": "minjibir-ng020030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020030",
+        "level": 2,
+        "name": {
+          "local": "Minjibir",
+          "en": "Minjibir",
+          "slug": "minjibir-ng020030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020030_tsakiya",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsakiya",
+      "en": "Tsakiya",
+      "slug": "tsakiya"
+    },
+    "code": {
+      "id": "NG020030_tsakiya",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020030",
+      "level": 2,
+      "name": {
+        "local": "Minjibir",
+        "en": "Minjibir",
+        "slug": "minjibir-ng020030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020030",
+        "level": 2,
+        "name": {
+          "local": "Minjibir",
+          "en": "Minjibir",
+          "slug": "minjibir-ng020030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020030_tsakuwa",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tsakuwa",
+      "en": "Tsakuwa",
+      "slug": "tsakuwa"
+    },
+    "code": {
+      "id": "NG020030_tsakuwa",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020030",
+      "level": 2,
+      "name": {
+        "local": "Minjibir",
+        "en": "Minjibir",
+        "slug": "minjibir-ng020030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020030",
+        "level": 2,
+        "name": {
+          "local": "Minjibir",
+          "en": "Minjibir",
+          "slug": "minjibir-ng020030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG020030_wasai",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Wasai",
+      "en": "Wasai",
+      "slug": "wasai"
+    },
+    "code": {
+      "id": "NG020030_wasai",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG020030",
+      "level": 2,
+      "name": {
+        "local": "Minjibir",
+        "en": "Minjibir",
+        "slug": "minjibir-ng020030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG020",
+        "level": 1,
+        "name": {
+          "local": "Kano",
+          "en": "Kano",
+          "slug": "kano-ng020"
+        }
+      },
+      {
+        "id": "NG020030",
+        "level": 2,
+        "name": {
+          "local": "Minjibir",
+          "en": "Minjibir",
+          "slug": "minjibir-ng020030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.193",
+      "lon": "8.621"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

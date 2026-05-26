@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG013008_ayetoro-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayetoro I",
+      "en": "Ayetoro I",
+      "slug": "ayetoro-i"
+    },
+    "code": {
+      "id": "NG013008_ayetoro-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013008",
+      "level": 2,
+      "name": {
+        "local": "Ido-Osi",
+        "en": "Ido-Osi",
+        "slug": "ido-osi-ng013008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013008",
+        "level": 2,
+        "name": {
+          "local": "Ido-Osi",
+          "en": "Ido-Osi",
+          "slug": "ido-osi-ng013008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "5.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013008_ayetoro-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ayetoro Ii",
+      "en": "Ayetoro Ii",
+      "slug": "ayetoro-ii"
+    },
+    "code": {
+      "id": "NG013008_ayetoro-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013008",
+      "level": 2,
+      "name": {
+        "local": "Ido-Osi",
+        "en": "Ido-Osi",
+        "slug": "ido-osi-ng013008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013008",
+        "level": 2,
+        "name": {
+          "local": "Ido-Osi",
+          "en": "Ido-Osi",
+          "slug": "ido-osi-ng013008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "5.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013008_ido-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ido I",
+      "en": "Ido I",
+      "slug": "ido-i"
+    },
+    "code": {
+      "id": "NG013008_ido-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013008",
+      "level": 2,
+      "name": {
+        "local": "Ido-Osi",
+        "en": "Ido-Osi",
+        "slug": "ido-osi-ng013008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013008",
+        "level": 2,
+        "name": {
+          "local": "Ido-Osi",
+          "en": "Ido-Osi",
+          "slug": "ido-osi-ng013008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "5.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013008_ido-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ido Ii",
+      "en": "Ido Ii",
+      "slug": "ido-ii"
+    },
+    "code": {
+      "id": "NG013008_ido-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013008",
+      "level": 2,
+      "name": {
+        "local": "Ido-Osi",
+        "en": "Ido-Osi",
+        "slug": "ido-osi-ng013008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013008",
+        "level": 2,
+        "name": {
+          "local": "Ido-Osi",
+          "en": "Ido-Osi",
+          "slug": "ido-osi-ng013008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "5.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013008_ifaki-i",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ifaki I",
+      "en": "Ifaki I",
+      "slug": "ifaki-i"
+    },
+    "code": {
+      "id": "NG013008_ifaki-i",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013008",
+      "level": 2,
+      "name": {
+        "local": "Ido-Osi",
+        "en": "Ido-Osi",
+        "slug": "ido-osi-ng013008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013008",
+        "level": 2,
+        "name": {
+          "local": "Ido-Osi",
+          "en": "Ido-Osi",
+          "slug": "ido-osi-ng013008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "5.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013008_ifaki-ii",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ifaki Ii",
+      "en": "Ifaki Ii",
+      "slug": "ifaki-ii"
+    },
+    "code": {
+      "id": "NG013008_ifaki-ii",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013008",
+      "level": 2,
+      "name": {
+        "local": "Ido-Osi",
+        "en": "Ido-Osi",
+        "slug": "ido-osi-ng013008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013008",
+        "level": 2,
+        "name": {
+          "local": "Ido-Osi",
+          "en": "Ido-Osi",
+          "slug": "ido-osi-ng013008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "5.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013008_igbole-ifisin-aaye",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Igbole / Ifisin / Aaye",
+      "en": "Igbole / Ifisin / Aaye",
+      "slug": "igbole-ifisin-aaye"
+    },
+    "code": {
+      "id": "NG013008_igbole-ifisin-aaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013008",
+      "level": 2,
+      "name": {
+        "local": "Ido-Osi",
+        "en": "Ido-Osi",
+        "slug": "ido-osi-ng013008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013008",
+        "level": 2,
+        "name": {
+          "local": "Ido-Osi",
+          "en": "Ido-Osi",
+          "slug": "ido-osi-ng013008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "5.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013008_ilogbo",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ilogbo",
+      "en": "Ilogbo",
+      "slug": "ilogbo"
+    },
+    "code": {
+      "id": "NG013008_ilogbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013008",
+      "level": 2,
+      "name": {
+        "local": "Ido-Osi",
+        "en": "Ido-Osi",
+        "slug": "ido-osi-ng013008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013008",
+        "level": 2,
+        "name": {
+          "local": "Ido-Osi",
+          "en": "Ido-Osi",
+          "slug": "ido-osi-ng013008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "5.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013008_orin-ora",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Orin / Ora",
+      "en": "Orin / Ora",
+      "slug": "orin-ora"
+    },
+    "code": {
+      "id": "NG013008_orin-ora",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013008",
+      "level": 2,
+      "name": {
+        "local": "Ido-Osi",
+        "en": "Ido-Osi",
+        "slug": "ido-osi-ng013008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013008",
+        "level": 2,
+        "name": {
+          "local": "Ido-Osi",
+          "en": "Ido-Osi",
+          "slug": "ido-osi-ng013008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "5.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013008_osi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Osi",
+      "en": "Osi",
+      "slug": "osi"
+    },
+    "code": {
+      "id": "NG013008_osi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013008",
+      "level": 2,
+      "name": {
+        "local": "Ido-Osi",
+        "en": "Ido-Osi",
+        "slug": "ido-osi-ng013008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013008",
+        "level": 2,
+        "name": {
+          "local": "Ido-Osi",
+          "en": "Ido-Osi",
+          "slug": "ido-osi-ng013008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "5.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG013008_usi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Usi",
+      "en": "Usi",
+      "slug": "usi"
+    },
+    "code": {
+      "id": "NG013008_usi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG013008",
+      "level": 2,
+      "name": {
+        "local": "Ido-Osi",
+        "en": "Ido-Osi",
+        "slug": "ido-osi-ng013008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG013",
+        "level": 1,
+        "name": {
+          "local": "Ekiti",
+          "en": "Ekiti",
+          "slug": "ekiti-ng013"
+        }
+      },
+      {
+        "id": "NG013008",
+        "level": 2,
+        "name": {
+          "local": "Ido-Osi",
+          "en": "Ido-Osi",
+          "slug": "ido-osi-ng013008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.863",
+      "lon": "5.197"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

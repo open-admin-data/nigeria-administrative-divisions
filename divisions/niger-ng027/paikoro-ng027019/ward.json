@@ -1,0 +1,596 @@
+[
+  {
+    "id": "NG027019_adunu",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Adunu",
+      "en": "Adunu",
+      "slug": "adunu"
+    },
+    "code": {
+      "id": "NG027019_adunu",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027019",
+      "level": 2,
+      "name": {
+        "local": "Paikoro",
+        "en": "Paikoro",
+        "slug": "paikoro-ng027019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027019",
+        "level": 2,
+        "name": {
+          "local": "Paikoro",
+          "en": "Paikoro",
+          "slug": "paikoro-ng027019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.493",
+      "lon": "6.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027019_chimbi",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Chimbi",
+      "en": "Chimbi",
+      "slug": "chimbi"
+    },
+    "code": {
+      "id": "NG027019_chimbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027019",
+      "level": 2,
+      "name": {
+        "local": "Paikoro",
+        "en": "Paikoro",
+        "slug": "paikoro-ng027019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027019",
+        "level": 2,
+        "name": {
+          "local": "Paikoro",
+          "en": "Paikoro",
+          "slug": "paikoro-ng027019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.493",
+      "lon": "6.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027019_gwam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Gwam",
+      "en": "Gwam",
+      "slug": "gwam"
+    },
+    "code": {
+      "id": "NG027019_gwam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027019",
+      "level": 2,
+      "name": {
+        "local": "Paikoro",
+        "en": "Paikoro",
+        "slug": "paikoro-ng027019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027019",
+        "level": 2,
+        "name": {
+          "local": "Paikoro",
+          "en": "Paikoro",
+          "slug": "paikoro-ng027019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.493",
+      "lon": "6.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027019_ishau",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Ishau",
+      "en": "Ishau",
+      "slug": "ishau"
+    },
+    "code": {
+      "id": "NG027019_ishau",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027019",
+      "level": 2,
+      "name": {
+        "local": "Paikoro",
+        "en": "Paikoro",
+        "slug": "paikoro-ng027019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027019",
+        "level": 2,
+        "name": {
+          "local": "Paikoro",
+          "en": "Paikoro",
+          "slug": "paikoro-ng027019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.493",
+      "lon": "6.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027019_jere",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Jere",
+      "en": "Jere",
+      "slug": "jere"
+    },
+    "code": {
+      "id": "NG027019_jere",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027019",
+      "level": 2,
+      "name": {
+        "local": "Paikoro",
+        "en": "Paikoro",
+        "slug": "paikoro-ng027019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027019",
+        "level": 2,
+        "name": {
+          "local": "Paikoro",
+          "en": "Paikoro",
+          "slug": "paikoro-ng027019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.493",
+      "lon": "6.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027019_kafin-koro",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kafin Koro",
+      "en": "Kafin Koro",
+      "slug": "kafin-koro"
+    },
+    "code": {
+      "id": "NG027019_kafin-koro",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027019",
+      "level": 2,
+      "name": {
+        "local": "Paikoro",
+        "en": "Paikoro",
+        "slug": "paikoro-ng027019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027019",
+        "level": 2,
+        "name": {
+          "local": "Paikoro",
+          "en": "Paikoro",
+          "slug": "paikoro-ng027019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.493",
+      "lon": "6.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027019_kwagana",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwagana",
+      "en": "Kwagana",
+      "slug": "kwagana"
+    },
+    "code": {
+      "id": "NG027019_kwagana",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027019",
+      "level": 2,
+      "name": {
+        "local": "Paikoro",
+        "en": "Paikoro",
+        "slug": "paikoro-ng027019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027019",
+        "level": 2,
+        "name": {
+          "local": "Paikoro",
+          "en": "Paikoro",
+          "slug": "paikoro-ng027019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.493",
+      "lon": "6.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027019_kwakuti",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Kwakuti",
+      "en": "Kwakuti",
+      "slug": "kwakuti"
+    },
+    "code": {
+      "id": "NG027019_kwakuti",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027019",
+      "level": 2,
+      "name": {
+        "local": "Paikoro",
+        "en": "Paikoro",
+        "slug": "paikoro-ng027019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027019",
+        "level": 2,
+        "name": {
+          "local": "Paikoro",
+          "en": "Paikoro",
+          "slug": "paikoro-ng027019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.493",
+      "lon": "6.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027019_nikuchi-tmallam",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Nikuchi T/mallam",
+      "en": "Nikuchi T/mallam",
+      "slug": "nikuchi-tmallam"
+    },
+    "code": {
+      "id": "NG027019_nikuchi-tmallam",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027019",
+      "level": 2,
+      "name": {
+        "local": "Paikoro",
+        "en": "Paikoro",
+        "slug": "paikoro-ng027019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027019",
+        "level": 2,
+        "name": {
+          "local": "Paikoro",
+          "en": "Paikoro",
+          "slug": "paikoro-ng027019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.493",
+      "lon": "6.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027019_paiko-central",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Paiko Central",
+      "en": "Paiko Central",
+      "slug": "paiko-central"
+    },
+    "code": {
+      "id": "NG027019_paiko-central",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027019",
+      "level": 2,
+      "name": {
+        "local": "Paikoro",
+        "en": "Paikoro",
+        "slug": "paikoro-ng027019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027019",
+        "level": 2,
+        "name": {
+          "local": "Paikoro",
+          "en": "Paikoro",
+          "slug": "paikoro-ng027019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.493",
+      "lon": "6.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NG027019_tutungo-jedna",
+    "level": 3,
+    "level_name": {
+      "local": "Ward",
+      "en": "Ward"
+    },
+    "name": {
+      "local": "Tutungo Jedna",
+      "en": "Tutungo Jedna",
+      "slug": "tutungo-jedna"
+    },
+    "code": {
+      "id": "NG027019_tutungo-jedna",
+      "iso": null
+    },
+    "parent": {
+      "id": "NG027019",
+      "level": 2,
+      "name": {
+        "local": "Paikoro",
+        "en": "Paikoro",
+        "slug": "paikoro-ng027019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NG027",
+        "level": 1,
+        "name": {
+          "local": "Niger",
+          "en": "Niger",
+          "slug": "niger-ng027"
+        }
+      },
+      {
+        "id": "NG027019",
+        "level": 2,
+        "name": {
+          "local": "Paikoro",
+          "en": "Paikoro",
+          "slug": "paikoro-ng027019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.493",
+      "lon": "6.838"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
