@@ -26,5 +26,9 @@
     "lon": "9.628"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/plateau-ng032/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

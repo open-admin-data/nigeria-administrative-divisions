@@ -26,5 +26,9 @@
     "lon": "6.849"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/kogi-ng023/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

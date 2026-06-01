@@ -26,5 +26,9 @@
     "lon": "12.292"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/adamawa-ng002/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

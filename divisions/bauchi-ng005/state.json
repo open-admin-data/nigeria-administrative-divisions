@@ -26,5 +26,9 @@
     "lon": "9.326"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/bauchi-ng005/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

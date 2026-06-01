@@ -26,5 +26,9 @@
     "lon": "3.263"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/ogun-ng028/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

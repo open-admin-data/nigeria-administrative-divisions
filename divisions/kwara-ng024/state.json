@@ -26,5 +26,9 @@
     "lon": "4.567"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/kwara-ng024/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

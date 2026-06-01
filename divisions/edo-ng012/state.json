@@ -26,5 +26,9 @@
     "lon": "5.874"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/edo-ng012/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

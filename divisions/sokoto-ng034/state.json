@@ -26,5 +26,9 @@
     "lon": "5.237"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/sokoto-ng034/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "6.836"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/rivers-ng033/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

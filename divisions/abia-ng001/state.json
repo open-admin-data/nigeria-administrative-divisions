@@ -26,5 +26,9 @@
     "lon": "7.488"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/abia-ng001/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

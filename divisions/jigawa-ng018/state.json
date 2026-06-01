@@ -26,5 +26,9 @@
     "lon": "9.625"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/jigawa-ng018/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

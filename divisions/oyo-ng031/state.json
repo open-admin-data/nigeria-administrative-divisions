@@ -26,5 +26,9 @@
     "lon": "3.613"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/oyo-ng031/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

@@ -26,5 +26,9 @@
     "lon": "5.298"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/ekiti-ng013/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

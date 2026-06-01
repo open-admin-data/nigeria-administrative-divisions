@@ -26,5 +26,9 @@
     "lon": "7.859"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/kaduna-ng019/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }

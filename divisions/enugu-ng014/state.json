@@ -26,5 +26,9 @@
     "lon": "7.393"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ng/states/enugu-ng014/",
+    "api": "https://openadmindata.org/api/ng/"
+  }
 }
